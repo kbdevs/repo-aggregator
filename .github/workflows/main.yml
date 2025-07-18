@@ -44,6 +44,18 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add combined.json
+          git add chunk_1.json
+          git add chunk_2.json
+          git add chunk_3.json
+          git add chunk_4.json
+          git add chunk_5.json
+          git add chunk_6.json
+          git add chunk_7.json
+          git add chunk_8.json
+          git add chunk_9.json
+          git add chunk_10.json
+          git add chunk_11.json
+          git add chunk_12.json
           # Check if there are any changes to commit
           if ! git diff --staged --quiet; then
             git commit -m "Update: Combined AltStore repo sources"
