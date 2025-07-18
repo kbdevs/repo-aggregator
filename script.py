@@ -122,7 +122,69 @@ def split_repo(combined_data, num_chunks=12):
         
         print(f"-> Created {file_name} with {len(app_chunk)} apps.")
 
+def create_myfitnesspal_repo():
+    """Fetches only MyFitnessPal-related apps and creates a dedicated repo file."""
+    myfitnesspal_apps = []
+    processed_bundle_ids = set()
+
+    print("\nStarting MyFitnessPal repo creation...")
+
+    for url in repo_urls:
+        try:
+            print(f"Searching for MyFitnessPal in: {url}")
+            response = requests.get(url, timeout=15)
+            response.raise_for_status()
+
+            repo_data = response.json()
+
+            if "apps" in repo_data and isinstance(repo_data["apps"], list):
+                apps_found_count = 0
+                for app in repo_data["apps"]:
+                    # Case-insensitive check on app name and bundle ID
+                    app_name = app.get("name", "").lower()
+                    bundle_id = app.get("bundleIdentifier", "").lower()
+                    is_myfitnesspal_app = "myfitnesspal" in app_name or "myfitnesspal" in bundle_id
+
+                    if is_myfitnesspal_app and app.get("bundleIdentifier") not in processed_bundle_ids:
+                        myfitnesspal_apps.append(app)
+                        processed_bundle_ids.add(app["bundleIdentifier"])
+                        apps_found_count += 1
+                
+                if apps_found_count > 0:
+                    print(f"-> Found and added {apps_found_count} new MyFitnessPal app(s).")
+
+        except requests.exceptions.RequestException as e:
+            print(f"-> Error fetching {url}: {e}")
+        except json.JSONDecodeError:
+            print(f"-> Error: Could not decode JSON from {url}.")
+        except Exception as e:
+            print(f"-> An unexpected error occurred for {url}: {e}")
+
+    # Create the specific source URL for the MyFitnessPal repo
+    myfitnesspal_source_url = source_url.replace("combined.json", "myfitnesspal.json")
+
+    myfitnesspal_repo = {
+        "name": "MyFitnessPal Repo",
+        "identifier": "kbdevs.altstore.myfitnesspal",
+        "sourceURL": myfitnesspal_source_url,
+        "apps": myfitnesspal_apps,
+        "userInfo": {}
+    }
+
+    with open("myfitnesspal.json", "w") as outfile:
+        json.dump(myfitnesspal_repo, outfile, indent=2)
+
+    print(f"\nMyFitnessPal aggregation complete. Total unique apps: {len(myfitnesspal_apps)}.")
+    print("The file 'myfitnesspal.json' has been created.")
+
+
 if __name__ == "__main__":
+    # 1. Aggregate all sources into a single file
     combined_repository_data = aggregate_sources()
+    
+    # 2. Split the main combined repo into smaller chunks
     if combined_repository_data:
         split_repo(combined_repository_data)
+
+    # 3. Create a specialized repo just for MyFitnessPal apps
+    create_myfitnesspal_repo()
