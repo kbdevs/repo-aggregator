@@ -123,10 +123,11 @@ def split_repo(combined_data, num_chunks=12):
         print(f"-> Created {file_name} with {len(app_chunk)} apps.")
 
 def create_myfitnesspal_repo():
-    """Fetches every MyFitnessPal-related app entry, including duplicates, and creates a dedicated repo file."""
+    """Fetches every MyFitnessPal entry and appends a sequential number to its bundle ID to ensure uniqueness."""
     myfitnesspal_apps = []
+    sequential_counter = 1
 
-    print("\nStarting MyFitnessPal repo creation (including all entries)...")
+    print("\nStarting MyFitnessPal repo creation (appending sequential numbers to bundle IDs)...")
 
     for url in repo_urls:
         try:
@@ -144,13 +145,25 @@ def create_myfitnesspal_repo():
                     bundle_id = app.get("bundleIdentifier", "").lower()
                     is_myfitnesspal_app = "myfitnesspal" in app_name or "myfitnesspal" in bundle_id
 
-                    # Add the app if it matches, without checking for duplicates
                     if is_myfitnesspal_app:
-                        myfitnesspal_apps.append(app)
+                        # Create a copy to avoid modifying the original object
+                        app_copy = app.copy()
+                        
+                        # Get original bundle ID, providing a fallback if it's somehow missing
+                        original_bundle_id = app_copy.get("bundleIdentifier", "com.myfitnesspal.unknown")
+                        
+                        # Append the sequential number to make the bundle ID unique
+                        app_copy["bundleIdentifier"] = f"{original_bundle_id}.{sequential_counter}"
+                        
+                        # Add the modified app copy to the list
+                        myfitnesspal_apps.append(app_copy)
+                        
+                        # Increment counters
+                        sequential_counter += 1
                         entries_found_count += 1
                 
                 if entries_found_count > 0:
-                    print(f"-> Found and added {entries_found_count} MyFitnessPal entries.")
+                    print(f"-> Found and added {entries_found_count} MyFitnessPal entries with unique IDs.")
 
         except requests.exceptions.RequestException as e:
             print(f"-> Error fetching {url}: {e}")
