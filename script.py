@@ -33,7 +33,7 @@ repo_name = os.environ.get('GITHUB_REPOSITORY_NAME')
 if not repo_owner or not repo_name:
     print("Error: GITHUB_REPOSITORY_OWNER and GITHUB_REPOSITORY_NAME environment variables are not set.")
     # Fallback for local testing
-    source_url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/combined.json"
+    source_url = "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/combined.json"
 else:
     source_url = f"https://raw.githubusercontent.com/{repo_owner}/{repo_name}/main/combined.json"
 
@@ -75,7 +75,7 @@ def aggregate_sources():
     # Create the final structure for the new JSON file
     combined_repo = {
         "name": "Combined AltStore Repo",
-        "identifier": "com.example.combined-repo",
+        "identifier": "kbdevs.altstore",
         "sourceURL": source_url,
         "apps": all_apps,
         "userInfo": {}
