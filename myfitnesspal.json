@@ -1,0 +1,24 @@
+{
+  "name": "MyFitnessPal Repo",
+  "identifier": "kbdevs.altstore.myfitnesspal",
+  "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/myfitnesspal.json",
+  "apps": [
+    {
+      "name": "MyFitnessPal",
+      "type": 1,
+      "bundleID": "com.myfitnesspal.mfp",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "version": "25.28.0",
+      "versionDate": "2025-07-16",
+      "fullDate": "20250716033712",
+      "size": 118188813,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/MyFitnessPal_25.28.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/MyFitnessPal_25.28.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
+    }
+  ],
+  "userInfo": {}
+}
