@@ -1,0 +1,1876 @@
+{
+  "name": "Combined AltStore Repo - Part 11",
+  "identifier": "kbdevs.altstore.chunk11",
+  "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
+  "apps": [
+    {
+      "name": "PostedPlus",
+      "bundleIdentifier": "live.posted.Posted",
+      "version": "1.3.5",
+      "versionDate": "2024-10-12",
+      "size": 36937013,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PostedPlus/PostedPlus-1.3.5.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to follow your package(s) in real time with your tracking number. Note: Use trollfools to fix widgets.\nLast updated: 08-09-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.posted.Posted.png"
+    },
+    {
+      "name": "PostboxPocket",
+      "bundleIdentifier": "com.simplycode.PostBox-Pocket",
+      "version": "0.8.1-7",
+      "versionDate": "2024-10-12",
+      "size": 17136146,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PostboxPocket/PostboxPocket-0.8.1-7.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager\nLast updated: 11-15-2022\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simplycode.PostBox-Pocket.png"
+    },
+    {
+      "name": "PolishPro",
+      "bundleIdentifier": "com.photoeditor.polish",
+      "version": "1.6.3",
+      "versionDate": "2024-10-12",
+      "size": 84943731,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PolishPro/PolishPro-1.6.3.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 07-06-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.photoeditor.polish.png"
+    },
+    {
+      "name": "PlayTally",
+      "bundleIdentifier": "com.michaelclay.BackTracks",
+      "version": "1.4.9",
+      "versionDate": "2024-10-12",
+      "size": 13254491,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PlayTally/PlayTally-1.4.9.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am considering its removal.\nLast updated: 12-08-2022\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michaelclay.BackTracks.png"
+    },
+    {
+      "name": "PlayDiary",
+      "bundleIdentifier": "com.pt.playdiary",
+      "version": "1.1.0",
+      "versionDate": "2024-10-12",
+      "size": 9147929,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PlayDiary/PlayDiary-1.1.0.ipa",
+      "developerName": "AppDB",
+      "localizedDescription": "HDO Play's catalog under a slightly different UI. See app description for HDO Play\nLast updated: 11-10-2022\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pt.playdiary.png"
+    },
+    {
+      "name": "PixelWeather",
+      "bundleIdentifier": "com.woo-interactive.PixelWeather",
+      "version": "7.0.2",
+      "versionDate": "2024-10-12",
+      "size": 51998703,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PixelWeather/PixelWeather-7.0.2.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.woo-interactive.PixelWeather.png"
+    },
+    {
+      "name": "PixelPalsPremium",
+      "bundleIdentifier": "com.christian.PixelPals",
+      "version": "2.0.13",
+      "versionDate": "2024-10-12",
+      "size": 15367632,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PixelPalsPremium/PixelPalsPremium-2.0.13.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
+      "localizedDescription": "App that offers a unique way to personalize your Home and Lock Screen with customizable, adorable pets. Note: To unlock premium press purchase then close the app, you might need to repeat the process twice. You can also reinstall the app via the AppStore as it might keep the tweak working.\nLast updated: 04-25-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.christian.PixelPals.png"
+    },
+    {
+      "name": "PicStitchPro",
+      "bundleIdentifier": "com.bigblueclip.picstitch",
+      "version": "8.3.2",
+      "versionDate": "2024-10-12",
+      "size": 225086655,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicStitchPro/PicStitchPro-8.3.2.ipa",
+      "developerName": "Turki",
+      "localizedDescription": "App that effortlessly blends photos using more than 400 collage layouts, 25 filter packs, and over 30 border packs. With a straightforward design yet powerful collage editing tools including photo/video editing capabilities. Note: Tweak is unstable and widgets work only partially.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bigblueclip.picstitch.png"
+    },
+    {
+      "name": "PicCollageVIP",
+      "bundleIdentifier": "com.cardinalblue.PicCollage",
+      "version": "8.34.2",
+      "versionDate": "2024-10-12",
+      "size": 123215788,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.34.2.ipa",
+      "developerName": "Paisseon / ArianaMinajj",
+      "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.cardinalblue.PicCollage.png"
+    },
+    {
+      "name": "PicAnswerPremium",
+      "bundleIdentifier": "com.techconsolidated.photosolve",
+      "version": "1.31.1",
+      "versionDate": "2024-10-12",
+      "size": 46209998,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicAnswerPremium/PicAnswerPremium-1.31.1.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "App that offers instant solutions and personalized AI chat support across a wide range of subjects, all through a simple snap of your homework. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.techconsolidated.photosolve.png"
+    },
+    {
+      "name": "PhotoGridPro",
+      "bundleIdentifier": "com.YunFang.PhotoGrid",
+      "version": "8.8.43",
+      "versionDate": "2024-10-11",
+      "size": 174422692,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoGridPro/PhotoGridPro-8.8.43.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png"
+    },
+    {
+      "name": "Paste",
+      "bundleIdentifier": "com.wiheads.paste",
+      "version": "4.0.1",
+      "versionDate": "2024-10-11",
+      "size": 56774818,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Paste/Paste-4.0.1.ipa",
+      "developerName": "MacKed",
+      "localizedDescription": "App that serves as a clipboard manager and presents a potential alternative to Copylog. Although the cracked version is a bit outdated, it still works pretty well. Note: Begin by installing it from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version.\nLast updated: 07-18-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wiheads.paste.png"
+    },
+    {
+      "name": "Paperback",
+      "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
+      "version": "0.8.7",
+      "versionDate": "2024-10-11",
+      "size": 10982924,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Paperback/Paperback-0.8.7.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png"
+    },
+    {
+      "name": "PaperPro",
+      "bundleIdentifier": "com.fiftythree.paper",
+      "version": "5.4.4",
+      "versionDate": "2024-10-11",
+      "size": 38719359,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.4.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fiftythree.paper.png"
+    },
+    {
+      "name": "Panels3",
+      "bundleIdentifier": "es.produkt.app.panels",
+      "version": "3.4.4",
+      "versionDate": "2024-10-11",
+      "size": 48034315,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Panels3/Panels3-3.4.4.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Enhance your comic reading with Panels: a clean, customizable, and feature-rich interface for your favorite titles. A user requested it so here it is.\nLast updated: 06-21-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/es.produkt.app.panels.png"
+    },
+    {
+      "name": "PandaHelper",
+      "bundleIdentifier": "com.pandahelper.deb",
+      "version": "2.3.4",
+      "versionDate": "2024-10-11",
+      "size": 89788257,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PandaHelper/PandaHelper-2.3.4.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 11-30-2022\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pandahelper.deb.png"
+    },
+    {
+      "name": "PDFitAllPlus",
+      "bundleIdentifier": "com.digiset.pdfit",
+      "version": "5.1.1",
+      "versionDate": "2024-10-11",
+      "size": 12116619,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PDFitAllPlus/PDFitAllPlus-5.1.1.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 06-19-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.digiset.pdfit.png"
+    },
+    {
+      "name": "OutsidePro",
+      "bundleIdentifier": "so.outside.app",
+      "version": "0.74.0",
+      "versionDate": "2024-10-11",
+      "size": 66395387,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OutsidePro/OutsidePro-0.74.0.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/so.outside.app.png"
+    },
+    {
+      "name": "Otraku",
+      "bundleIdentifier": "com.otraku.app",
+      "version": "1.2.7plus2-ios16plus",
+      "versionDate": "2024-10-13",
+      "size": 9939478,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.2.7plus2-ios16plus.ipa",
+      "developerName": "lotusprey",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 07-01-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.otraku.app.png"
+    },
+    {
+      "name": "OsmAndMapsPlus",
+      "bundleIdentifier": "net.osmand.maps",
+      "version": "4.7.6",
+      "versionDate": "2024-10-11",
+      "size": 101594696,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OsmAndMapsPlus/OsmAndMapsPlus-4.7.6.ipa",
+      "developerName": "Qamislo - Apps",
+      "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.osmand.maps.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.12.1",
+      "versionDate": "2024-10-11",
+      "size": 619940,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.12.1.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "ObjectRemoval",
+      "bundleIdentifier": "com.skysoft.removalfree",
+      "version": "3.8.7",
+      "versionDate": "2024-10-11",
+      "size": 64666410,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-3.8.7.ipa",
+      "developerName": "FayezUpdates",
+      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
+    },
+    {
+      "name": "OVFEditorPremium",
+      "bundleIdentifier": "com.mutaeb.OVF-Editor",
+      "version": "5.0.1",
+      "versionDate": "2024-10-11",
+      "size": 41848347,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OVFEditorPremium/OVFEditorPremium-5.0.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png"
+    },
+    {
+      "name": "OTADisabler",
+      "bundleIdentifier": "com.ichitaso.otadisablerts",
+      "version": "1.0",
+      "versionDate": "2024-10-11",
+      "size": 382202,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OTADisabler/OTADisabler-1.0.ipa",
+      "developerName": "ichitaso",
+      "localizedDescription": "Request. OTADisabler for TrollStore, refer to this for more informations.\nLast updated: 02-01-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ichitaso.otadisablerts.png"
+    },
+    {
+      "name": "NineAnimator",
+      "bundleIdentifier": "com.marcuszhou.NineAnimator",
+      "version": "1.3.0-3",
+      "versionDate": "2024-10-11",
+      "size": 8144665,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NineAnimator/NineAnimator-1.3.0-3.ipa",
+      "developerName": "SuperMarcus",
+      "localizedDescription": "Anime streamer, supports multiple sources and comes with a user-friendly GUI\nLast updated: 07-17-2023\nStatus: \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.marcuszhou.NineAnimator.png"
+    },
+    {
+      "name": "NightSkyPlus",
+      "bundleIdentifier": "com.icandiapps.nightsky",
+      "version": "12.2",
+      "versionDate": "2024-10-11",
+      "size": 659348721,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NightSkyPlus/NightSkyPlus-12.2.ipa",
+      "developerName": "iOSGods!",
+      "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.icandiapps.nightsky.png"
+    },
+    {
+      "name": "NGLPro",
+      "bundleIdentifier": "fun.ask",
+      "version": "6.1.117",
+      "versionDate": "2024-10-11",
+      "size": 50645390,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
+      "developerName": "AbodSyripa",
+      "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png"
+    },
+    {
+      "name": "MyDiaryPremium",
+      "bundleIdentifier": "com.simpleinnovation.diary",
+      "version": "1.9.3",
+      "versionDate": "2024-10-11",
+      "size": 40528267,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
+    },
+    {
+      "name": "MusixmatchPremium",
+      "bundleIdentifier": "com.musixmatch.lyrics",
+      "version": "7.10.8",
+      "versionDate": "2024-10-11",
+      "size": 74673060,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
+    },
+    {
+      "name": "MusicAIVIP",
+      "bundleIdentifier": "com.feraset.tune",
+      "version": "4.1.5",
+      "versionDate": "2024-10-11",
+      "size": 49729423,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusicAIVIP/MusicAIVIP-4.1.5.ipa",
+      "developerName": "Zzz Zzz",
+      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
+    },
+    {
+      "name": "Musi",
+      "bundleIdentifier": "com.feelthemusi.musi",
+      "version": "6.2.35",
+      "versionDate": "2024-10-11",
+      "size": 19556756,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
+    },
+    {
+      "name": "MuffinStore",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "version": "1.1",
+      "versionDate": "2024-10-11",
+      "size": 29281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
+    },
+    {
+      "name": "MoovitPlus",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "version": "5.146.1",
+      "versionDate": "2024-10-11",
+      "size": 85759040,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
+    },
+    {
+      "name": "MoisesPremium",
+      "bundleIdentifier": "ai.moises",
+      "version": "2.40.0",
+      "versionDate": "2024-10-11",
+      "size": 60999285,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
+    },
+    {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "version": "3.3.5",
+      "versionDate": "2024-10-10",
+      "size": 28563166,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
+      "developerName": "Misaka",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "version": "2023.11.17",
+      "versionDate": "2024-10-10",
+      "size": 90694453,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
+    },
+    {
+      "name": "MatterPremium",
+      "bundleIdentifier": "com.Matter.MatterApp",
+      "version": "3.1.4",
+      "versionDate": "2024-10-09",
+      "size": 83875186,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
+    },
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "version": "0.1.0",
+      "versionDate": "2024-10-09",
+      "size": 93145110,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
+      "developerName": "kodjodevf",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
+    },
+    {
+      "name": "LyricifyMobile",
+      "bundleIdentifier": "com.wxriw.LyricifyMobile",
+      "version": "1.4.3",
+      "versionDate": "2024-10-09",
+      "size": 23887689,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
+      "developerName": "Lyricify-App",
+      "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png"
+    },
+    {
+      "name": "LoopsiePro",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
+      "version": "8.10.2",
+      "versionDate": "2024-10-09",
+      "size": 185592561,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
+    },
+    {
+      "name": "LokLok",
+      "bundleIdentifier": "com.xoumb.mp3.video.player",
+      "version": "5.0",
+      "versionDate": "2024-10-09",
+      "size": 22035388,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LokLok/LokLok-5.0.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "HDO Box clone. see original app description for more info\nLast updated: 07-17-2023\nStatus: \u26a0\ufe0f \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xoumb.mp3.video.player.png"
+    },
+    {
+      "name": "LocSim",
+      "bundleIdentifier": "com.mika.LocationSimulation",
+      "version": "1.3.7",
+      "versionDate": "2024-10-09",
+      "size": 1917334,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocSim/LocSim-1.3.7.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
+    },
+    {
+      "name": "Limon",
+      "bundleIdentifier": "com.antique.Limon",
+      "version": "1.0.8.4",
+      "versionDate": "2024-10-09",
+      "size": 17299572,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Limon/Limon-1.0.8.4.ipa",
+      "developerName": "emuPlace",
+      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
+    },
+    {
+      "name": "LightleapPro",
+      "bundleIdentifier": "com.lightricks.Enlight-Photos",
+      "version": "1.9.20",
+      "versionDate": "2024-10-09",
+      "size": 247018582,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightleapPro/LightleapPro-1.9.20.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Enlight-Photos.png"
+    },
+    {
+      "name": "KleinanzeigenPlus",
+      "bundleIdentifier": "com.ebaykleinanzeigen.ebc",
+      "version": "100.16.0",
+      "versionDate": "2024-10-09",
+      "size": 178228936,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KleinanzeigenPlus/KleinanzeigenPlus-100.16.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library / jkhsjdhjs",
+      "localizedDescription": "App to buy and sell on Germany's No. 1 online marketplace. A user requested it so here it is. Note: It is injected with an Adblocker and a second tweak to remove any text or unnecessary URL query parameters when sharing items.\nLast updated: 08-10-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ebaykleinanzeigen.ebc.png"
+    },
+    {
+      "name": "KitchenStoriesPlus",
+      "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
+      "version": "23.0.1",
+      "versionDate": "2024-10-09",
+      "size": 52514929,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KitchenStoriesPlus/KitchenStoriesPlus-23.0.1.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to discover thousands of free recipes and master cooking skills with expert videos. Save your favorites, adjust ingredients easily, and cook distraction-free. Connect with a global community of food enthusiasts.\nLast updated: 08-15-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.AJNSNewMedia.KitchenStories.png"
+    },
+    {
+      "name": "KetchupPlus",
+      "bundleIdentifier": "com.benricemccarthy.ketchup",
+      "version": "2024.2",
+      "versionDate": "2024-10-07",
+      "size": 191218824,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KetchupPlus/KetchupPlus-2024.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.benricemccarthy.ketchup.png"
+    },
+    {
+      "name": "Jitterbug",
+      "bundleIdentifier": "com.osy86.Jitterbug",
+      "version": "1.3.1",
+      "versionDate": "2024-10-07",
+      "size": 23012478,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Jitterbug/Jitterbug-1.3.1.ipa",
+      "developerName": "osy",
+      "localizedDescription": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT enabled. Can also establish a VPN tunnel using TrollStore to run apps on the local device without needing a second device.\nLast updated: 12-12-2023\nStatus: \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osy86.Jitterbug.png"
+    },
+    {
+      "name": "InstoriesPro",
+      "bundleIdentifier": "ylee.studio.instories",
+      "version": "5.53.0",
+      "versionDate": "2024-10-03",
+      "size": 201750823,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstoriesPro/InstoriesPro-5.53.0.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 08-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ylee.studio.instories.png"
+    },
+    {
+      "name": "InkhunterPremium",
+      "bundleIdentifier": "InkHunter.inkHunter",
+      "version": "3.0.6",
+      "versionDate": "2024-10-03",
+      "size": 18114231,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InkhunterPremium/InkhunterPremium-3.0.6.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png"
+    },
+    {
+      "name": "Downie",
+      "bundleIdentifier": "com.charliemonroe.Downie",
+      "version": "1.0-92",
+      "versionDate": "2024-10-03",
+      "size": 20571776,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Downie/Downie-1.0-92.ipa",
+      "developerName": "TestFlight",
+      "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.\nLast updated: 05-02-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemonroe.Downie.png"
+    },
+    {
+      "name": "Antoine",
+      "bundleIdentifier": "com.serena.Antoine",
+      "version": "1.3.tipa.ipa.",
+      "versionDate": "2024-10-03",
+      "size": 1623275,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Antoine/Antoine-1.3.tipa.ipa.tipa",
+      "developerName": "SerenaKit",
+      "localizedDescription": "This app is TrollStore-only. An OSLog UI for iOS & iPadOS devices, Antoine allows you to view System Logs in real time, with the ability to filter logs by process, message, type, etc, as well additional stream options\nLast updated: 09-19-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.serena.Antoine.png"
+    },
+    {
+      "name": "AnimeNow",
+      "bundleIdentifier": "com.errorerrorerror.animenow",
+      "version": "1.0.0b1",
+      "versionDate": "2024-10-03",
+      "size": 6691352,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnimeNow/AnimeNow-1.0.0b1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
+    },
+    {
+      "name": "ImgPlayPro",
+      "bundleIdentifier": "me.imgbase.imgplay",
+      "version": "6.3.17",
+      "versionDate": "2024-10-02",
+      "size": 128605516,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ImgPlayPro/ImgPlayPro-6.3.17.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/me.imgbase.imgplay.png"
+    },
+    {
+      "name": "ImageSearch",
+      "bundleIdentifier": "com.ipopapp.imagesearchfree",
+      "version": "6.6",
+      "versionDate": "2024-10-01",
+      "size": 10303693,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ImageSearch/ImageSearch-6.6.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Reverse Image Search App, cracked for pro features. Click Pro at the top right, then the purchase button.\nLast updated: 08-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ipopapp.imagesearchfree.png"
+    },
+    {
+      "name": "Ignited",
+      "bundleIdentifier": "com.litritt.ignited",
+      "version": "1.10",
+      "versionDate": "2024-10-01",
+      "size": 35402158,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Ignited/Ignited-1.10.ipa",
+      "developerName": "LitRitt",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 03-29-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
+    },
+    {
+      "name": "IPTVPro",
+      "bundleIdentifier": "com.courtois.PerfectIPTVn",
+      "version": "2.7",
+      "versionDate": "2024-10-01",
+      "size": 19553102,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/IPTVPro/IPTVPro-2.7.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "Injected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.courtois.PerfectIPTVn.png"
+    },
+    {
+      "name": "HomeWorkoutPremium",
+      "bundleIdentifier": "com.abishkking.maleworkout.watchkitapp",
+      "version": "1.23.1",
+      "versionDate": "2024-10-01",
+      "size": 352576899,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HomeWorkoutPremium/HomeWorkoutPremium-1.23.1.ipa",
+      "developerName": "binnichtaktiv's iPA Library / Paisseon",
+      "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.abishkking.maleworkout.watchkitapp.png"
+    },
+    {
+      "name": "HdoPlay",
+      "bundleIdentifier": "com.hdoplay.apt",
+      "version": "1.0",
+      "versionDate": "2024-10-01",
+      "size": 23561400,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HdoPlay/HdoPlay.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles\nLast updated: 09-03-2022\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hdoplay.apt.png"
+    },
+    {
+      "name": "HDFlixNoAds",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "version": "3.0",
+      "versionDate": "2024-10-01",
+      "size": 32320054,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlixNoAds/HDFlixNoAds-3.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets / ArianaMinajj",
+      "localizedDescription": "HD Flix without ads. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png"
+    },
+    {
+      "name": "GoogleNews",
+      "bundleIdentifier": "com.google.GoogleDigitalEditions",
+      "version": "5.87",
+      "versionDate": "2024-10-01",
+      "size": 46477554,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoogleNews/GoogleNews-5.87.ipa",
+      "developerName": "AppDB",
+      "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc..\nLast updated: 07-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.google.GoogleDigitalEditions.png"
+    },
+    {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "version": "6.2.15",
+      "versionDate": "2024-10-01",
+      "size": 315141070,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.2.15.ipa",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
+    },
+    {
+      "name": "GoodReaderPro",
+      "bundleIdentifier": "com.goodiware.grpro",
+      "version": "5.18.1196",
+      "versionDate": "2024-10-01",
+      "size": 26880692,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.18.1196.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodiware.grpro.png"
+    },
+    {
+      "name": "GameSeagullTS",
+      "bundleIdentifier": "com.gamerdelights.gamepigeon",
+      "version": "2.1",
+      "versionDate": "2024-10-01",
+      "size": 90278934,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GameSeagullTS/GameSeagullTS-2.1.ipa",
+      "developerName": "donato-fiore",
+      "localizedDescription": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull should work from there!\nLast updated: 02-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamerdelights.gamepigeon.png"
+    },
+    {
+      "name": "GIFMakerPremium",
+      "bundleIdentifier": "com.debotoshdey.gifmaker",
+      "version": "3.10",
+      "versionDate": "2024-10-01",
+      "size": 247501101,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GIFMakerPremium/GIFMakerPremium-3.10.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.debotoshdey.gifmaker.png"
+    },
+    {
+      "name": "FotorPro",
+      "bundleIdentifier": "com.everimaging.photoeffectstudio",
+      "version": "10.6.6",
+      "versionDate": "2024-10-01",
+      "size": 363010182,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FotorPro/FotorPro-10.6.6.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "all-in-one AI photo editing app. A user requested it so here it is.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.everimaging.photoeffectstudio.png"
+    },
+    {
+      "name": "Folium",
+      "bundleIdentifier": "com.antique.Folium",
+      "version": "1.0.5",
+      "versionDate": "2024-10-01",
+      "size": 18068021,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Folium/Folium-1.0.5.ipa",
+      "developerName": "Jarrod Norwell (Antique)",
+      "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Folium.png"
+    },
+    {
+      "name": "FlightyPro",
+      "bundleIdentifier": "com.flightyapp.flighty",
+      "version": "3.4.2",
+      "versionDate": "2024-10-01",
+      "size": 136173483,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightyPro/FlightyPro-3.4.2.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all included. It's an excellent flight tracker that even provides you with the weather for your flight 10 days in advance. A user requested it so here it is.\nLast updated: 03-18-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.flightyapp.flighty.png"
+    },
+    {
+      "name": "Flightradar24Gold",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free.watchkitapp",
+      "version": "9.19.0",
+      "versionDate": "2024-10-01",
+      "size": 151430872,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Flightradar24Gold/Flightradar24Gold-9.19.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library / AppDB",
+      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 07-12-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
+    },
+    {
+      "name": "FineReaderPDFPro",
+      "bundleIdentifier": "com.abbyy.finescanner-pro",
+      "version": "15.6.4",
+      "versionDate": "2024-09-30",
+      "size": 66167334,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FineReaderPDFPro/FineReaderPDFPro-15.6.4.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "FineReader PDF, with pro features unlocked.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.abbyy.finescanner-pro.png"
+    },
+    {
+      "name": "Filza",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "version": "4.0.0-NoUrlScheme",
+      "versionDate": "2024-09-30",
+      "size": 13912275,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Filza/Filza-4.0.0-NoUrlScheme.ipa",
+      "developerName": "TigiSoftware / CyPwn IPA Library / iOS_TrollStore",
+      "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TS, this might be useful.\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png"
+    },
+    {
+      "name": "FastingPremium",
+      "bundleIdentifier": "com.leapfitness.fasting",
+      "version": "1.6.7",
+      "versionDate": "2024-09-29",
+      "size": 251598304,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FastingPremium/FastingPremium-1.6.7.ipa",
+      "developerName": "Paisseon / iApps",
+      "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 08-12-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leapfitness.fasting.png"
+    },
+    {
+      "name": "FInalCutCameraTS",
+      "bundleIdentifier": "com.apple.FinalCutApp.companion",
+      "version": "1.0",
+      "versionDate": "2024-09-29",
+      "size": 33964101,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FInalCutCameraTS/FInalCutCameraTS-1.0.ipa",
+      "developerName": "trollstoretv",
+      "localizedDescription": "The Final Cut Camera app allows you to record professional videos on your mobile devices with complete control. Note: Exclusively for iOS 17.0 TrollStore Users.\nLast updated: 07-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.apple.FinalCutApp.companion.png"
+    },
+    {
+      "name": "EnhanceFoxPro",
+      "bundleIdentifier": "com.risingcabbage.enhancefox",
+      "version": "7.0.0",
+      "versionDate": "2024-09-29",
+      "size": 244706177,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.0.0.ipa",
+      "developerName": "Qamislo - Apps",
+      "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png"
+    },
+    {
+      "name": "ElectricalCalculationsPro",
+      "bundleIdentifier": "it.Ettore.Electrical-Calculations-FREE",
+      "version": "6.3.0",
+      "versionDate": "2024-09-29",
+      "size": 18220329,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ElectricalCalculationsPro/ElectricalCalculationsPro-6.3.0.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 08-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/it.Ettore.Electrical-Calculations-FREE.png"
+    },
+    {
+      "name": "EhPanda",
+      "bundleIdentifier": "zeng.EhPanda",
+      "version": "2.7.4",
+      "versionDate": "2024-09-29",
+      "size": 6685295,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EhPanda/EhPanda-2.7.4.ipa",
+      "developerName": "EhPanda-Team",
+      "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 07-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/zeng.EhPanda.png"
+    },
+    {
+      "name": "EarthquakePro",
+      "bundleIdentifier": "org.tranquilli.Earthquake",
+      "version": "4.6.8",
+      "versionDate": "2024-09-29",
+      "size": 11683418,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EarthquakePro/EarthquakePro-4.6.8.ipa",
+      "developerName": "DPixel / Paisseon",
+      "localizedDescription": "Access the latest global data from multiple sources and stay informed through widgets. Note: To bypass the \"Integrity checks failed\" message, press \"OK\", quickly return to the Home Screen without closing the app then re-open it. Push notification alerts will not work.\nLast updated: 06-11-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.tranquilli.Earthquake.png"
+    },
+    {
+      "name": "DramasFlic",
+      "bundleIdentifier": "com.bonov.sensial",
+      "version": "4.0",
+      "versionDate": "2024-09-29",
+      "size": 17727292,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DramasFlic/DramasFlic-4.0.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Yet another HDO Play app. All in-app ads removed\nLast updated: 01-31-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bonov.sensial.png"
+    },
+    {
+      "name": "DramaFlix",
+      "bundleIdentifier": "com.dramaflix.co",
+      "version": "1.1.0",
+      "versionDate": "2024-09-29",
+      "size": 9164315,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DramaFlix/DramaFlix-1.1.0.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Movie app, same as HDO Play but also slightly updated\nLast updated: 01-03-2023\nStatus: \u26a0\ufe0f \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dramaflix.co.png"
+    },
+    {
+      "name": "Doppler3",
+      "bundleIdentifier": "co.brushedtype.doppler-ios",
+      "version": "3.1.5",
+      "versionDate": "2024-09-29",
+      "size": 14617674,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Doppler3/Doppler3-3.1.5.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "A stunningly FLAC and MP3 player that supports a wide range of file formats. Easily import music and playlists for offline listening and edit song and album artwork and information without the need for syncing. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.brushedtype.doppler-ios.png"
+    },
+    {
+      "name": "DebToIPA",
+      "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
+      "version": "1.0",
+      "versionDate": "2024-09-29",
+      "size": 3537264,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DebToIPA/DebToIPA.ipa",
+      "developerName": "sourcelocation / AppDB",
+      "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.\nLast updated: 08-12-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png"
+    },
+    {
+      "name": "Crunchyroll",
+      "bundleIdentifier": "com.crunchyroll.iphone",
+      "version": "4.40.0",
+      "versionDate": "2024-09-28",
+      "size": 72594141,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Crunchyroll/Crunchyroll-4.40.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png"
+    },
+    {
+      "name": "CopylogTS",
+      "bundleIdentifier": "me.tomt000.ts.copylog",
+      "version": "1.0",
+      "versionDate": "2024-09-28",
+      "size": 9642000,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CopylogTS/CopylogTS.ipa",
+      "developerName": "copylogts / tomt000",
+      "localizedDescription": "CopyLog serves as an efficient clipboard history manager for iOS, offering simplicity in usage and compatibility with both iPhone and iPad, aiding in the monitoring of your device's clipboard activity. It is suitable for iOS 16-17 but has limited support for iPads.\nLast updated: 01-07-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/me.tomt000.ts.copylog.png"
+    },
+    {
+      "name": "CopylogCracker",
+      "bundleIdentifier": "com.retr0dev.cracker",
+      "version": "1.0",
+      "versionDate": "2024-09-28",
+      "size": 57499,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CopylogCracker/CopylogCracker.ipa",
+      "developerName": "retr0devops",
+      "localizedDescription": "A standalone, straightforward one-click cracking tool for CopyLog. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.retr0dev.cracker.png"
+    },
+    {
+      "name": "ConceptsPro",
+      "bundleIdentifier": "com.tophatch.Concepts",
+      "version": "6.14.2",
+      "versionDate": "2024-09-28",
+      "size": 103333803,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ConceptsPro/ConceptsPro-6.14.2.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "This app is a versatile vector-based sketchbook that allows you to transform your ideas from concept to reality. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tophatch.Concepts.png"
+    },
+    {
+      "name": "CodeApp",
+      "bundleIdentifier": "thebaselab.VS-Code",
+      "version": "1.9.0",
+      "versionDate": "2024-09-28",
+      "size": 233174767,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CodeApp/CodeApp-1.9.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/thebaselab.VS-Code.png"
+    },
+    {
+      "name": "ChargeLimiter",
+      "bundleIdentifier": "chaoge.ChargeLimiter",
+      "version": "1.3",
+      "versionDate": "2024-09-28",
+      "size": 1339325,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ChargeLimiter/ChargeLimiter-1.3.ipa",
+      "developerName": "lich4",
+      "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 07-06-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png"
+    },
+    {
+      "name": "CattleGrid",
+      "bundleIdentifier": "org.ericbetts.CattleGrid",
+      "version": "1.1.1",
+      "versionDate": "2024-09-28",
+      "size": 282680,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CattleGrid/CattleGrid-1.1.1.ipa",
+      "developerName": "ichitaso",
+      "localizedDescription": "Allows you to create your own amiibo utilizing ntag215 on an jailbroken or TrollStore device. Note: After you've installed the app, you need to manually locate the tag bin files and place them in the /var/mobile/Documents/CattleGrid/ directory.\nLast updated: 12-26-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.ericbetts.CattleGrid.png"
+    },
+    {
+      "name": "CarPlex",
+      "bundleIdentifier": "com.osk3apps.CarPlex",
+      "version": "1.0.1",
+      "versionDate": "2024-09-28",
+      "size": 1435572,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarPlex/CarPlex-1.0.1.ipa",
+      "developerName": "osk3apps.com",
+      "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png"
+    },
+    {
+      "name": "CarMovie",
+      "bundleIdentifier": "jp.dcsyhi.CarMovie",
+      "version": "1.2",
+      "versionDate": "2024-09-28",
+      "size": 2232733,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarMovie/CarMovie-1.2.ipa",
+      "developerName": "Dcsyhi1998",
+      "localizedDescription": "Enables users to play their preferred videos through CarPlay. A demo illustrating video customization is accessible, with forthcoming features encompassing folder-based video management. Supports iOS14/15/16 and 17. Note: Not all versions of iOS16/17 are supported).\nLast updated: 12-28-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jp.dcsyhi.CarMovie.png"
+    },
+    {
+      "name": "CanYouJB",
+      "bundleIdentifier": "com.CanYouJB.SamoXcZ",
+      "version": "3.0",
+      "versionDate": "2024-09-28",
+      "size": 394796,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CanYouJB/CanYouJB-3.0.ipa",
+      "developerName": "SamoXcZ",
+      "localizedDescription": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is.\nLast updated: 03-26-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.CanYouJB.SamoXcZ.png"
+    },
+    {
+      "name": "CallAssist",
+      "bundleIdentifier": "com.apple.mobilephone-call",
+      "version": "14.15",
+      "versionDate": "2024-09-28",
+      "size": 3424925,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CallAssist/CallAssist-14.15.ipa",
+      "developerName": "xybp888",
+      "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the version that match your iOS otherwise it will crash.\nLast updated: 12-26-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.apple.mobilephone-call.png"
+    },
+    {
+      "name": "BlackHole",
+      "bundleIdentifier": "com.shadow.blackhole1160.ios",
+      "version": "1.15.10",
+      "versionDate": "2024-09-27",
+      "size": 17380366,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BlackHole/BlackHole-1.15.10.ipa",
+      "developerName": "Sangwan5688",
+      "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png"
+    },
+    {
+      "name": "BearPro",
+      "bundleIdentifier": "net.shinyfrog.bear-iOS",
+      "version": "2.0.15",
+      "versionDate": "2024-09-28",
+      "size": 31176993,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BearPro/BearPro-2.0.15.ipa",
+      "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
+    },
+    {
+      "name": "Batteried",
+      "bundleIdentifier": "com.34306.waifuts",
+      "version": "1.0",
+      "versionDate": "2024-09-28",
+      "size": 1811902,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Batteried/Batteried-1.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.34306.waifuts.png"
+    },
+    {
+      "name": "AudioRecorderTS",
+      "bundleIdentifier": "net.limneos.AudioRecorder",
+      "version": "6.0.3",
+      "versionDate": "2024-09-27",
+      "size": 4814295,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AudioRecorderTS/AudioRecorderTS-6.0.3.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "Cracked by CBZ. Provides extensive customization options similar to its jailbroken version, including toggling the recorder, biometric authentication, sync settings, server management, backups, cloud linking, notification customization, and sound settings, all while requiring legal compliance and consent for recording in many areas.\nLast updated: 02-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.limneos.AudioRecorder.png"
+    },
+    {
+      "name": "AthanProPremium",
+      "bundleIdentifier": "Quanticapps.Athan.watchkitapp",
+      "version": "8.4.2",
+      "versionDate": "2024-09-27",
+      "size": 108894969,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AthanProPremium/AthanProPremium-8.4.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Offers the most precise prayer times along with a range of other features including the Quran, Tasbeeh, Islamic Calendar, a compass for Qiblah direction, and Ramadan 2024. Note: Tweak is unstable, restart your device if pro features are still locked (refer to #616)\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/Quanticapps.Athan.watchkitapp.png"
+    },
+    {
+      "name": "AsTools",
+      "bundleIdentifier": "rn.notes.best",
+      "version": "2.1.7",
+      "versionDate": "2024-09-27",
+      "size": 14918039,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AsTools/AsTools-2.1.7.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "I can only verify that this works with TrollStore. Also, the entire app is in Chinese. Chinese app store, lets you download and install apps such as Douyin (Chinese TikTok), as if they were from the App Store. No certificates, no Apple ID, none of that. It just installs, and it works\nLast updated: 12-11-2022\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/rn.notes.best.png"
+    },
+    {
+      "name": "AppsManager",
+      "bundleIdentifier": "com.tigisoftware.ADManager",
+      "version": "1.8.1",
+      "versionDate": "2024-09-27",
+      "size": 2052307,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppsManager/AppsManager-1.8.1.ipa",
+      "developerName": "TigiSoftware / CyPwn IPA Library",
+      "localizedDescription": "Not cracked. Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak.\nLast updated: 12-01-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png"
+    },
+    {
+      "name": "AppLockPro",
+      "bundleIdentifier": "com.lilucat.applock.us",
+      "version": "3.0.2",
+      "versionDate": "2024-09-27",
+      "size": 14063529,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppLockPro/AppLockPro-3.0.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 08-02-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
+    },
+    {
+      "name": "AppDump2",
+      "bundleIdentifier": "cn.bswbw.AppsDump",
+      "version": "2.0.6",
+      "versionDate": "2024-09-27",
+      "size": 614335,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppDump2/AppDump2-2.0.6.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "Decrypt IPA files. Note: that to initiate the decryption process, it is imperative to open the desired app at least once. Additionally, Filza might be needed to locate the decrypted file.\nLast updated: 01-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/cn.bswbw.AppsDump.png"
+    },
+    {
+      "name": "AnkiProPremium",
+      "bundleIdentifier": "com.vedasapps.flashcards",
+      "version": "2.1.0",
+      "versionDate": "2024-09-27",
+      "size": 62618755,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnkiProPremium/AnkiProPremium-2.1.0.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "Flashcard app that uses an enhanced spaced repetition algorithm to help you study efficiently and also supports exam preparation and vocabulary learning. Customize your flashcards or choose from over 50,000 pre-made decks. A user requested it so here it is.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.vedasapps.flashcards.png"
+    },
+    {
+      "name": "AnkiMobile",
+      "bundleIdentifier": "net.ichi2.anki",
+      "version": "24.08",
+      "versionDate": "2024-09-27",
+      "size": 16413736,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnkiMobile/AnkiMobile-24.08.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.ichi2.anki.png"
+    },
+    {
+      "name": "AlarmyPremium",
+      "bundleIdentifier": "droom.sleepIfUCanFree",
+      "version": "24.15.0",
+      "versionDate": "2024-09-27",
+      "size": 165088148,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.15.0.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
+    },
+    {
+      "name": "Aidoku",
+      "bundleIdentifier": "xyz.skitty.Aidoku",
+      "version": "0.6.6",
+      "versionDate": "2024-09-27",
+      "size": 3235795,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Aidoku/Aidoku-0.6.6.ipa",
+      "developerName": "Aidoku",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
+    },
+    {
+      "name": "AddonsPro",
+      "bundleIdentifier": "com.qingbin.Addons",
+      "version": "3.6",
+      "versionDate": "2024-09-27",
+      "size": 29020552,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.6.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.qingbin.Addons.png"
+    },
+    {
+      "name": "AIChatbotGeniePro",
+      "bundleIdentifier": "co.appnation.geniechat.watchapp",
+      "version": "5.4.0",
+      "versionDate": "2024-09-27",
+      "size": 54206994,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatbotGeniePro/AIChatbotGeniePro-5.4.0.ipa",
+      "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
+    },
+    {
+      "name": "AIChatGP",
+      "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
+      "version": "2.254",
+      "versionDate": "2024-09-27",
+      "size": 34451765,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatGP/AIChatGP-2.254.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Introducing yet another \"ChatGPT-4\" assistant, which holds promise for intriguing features. However, it is likely that its performance might fall short of Chat Genie (App above). Further testing is warranted to determine its efficacy accurately.\nLast updated: 03-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.chatgtp.gpt-3.Chat-GPT.png"
+    },
+    {
+      "name": "DummyApp",
+      "bundleIdentifier": "com.pax.DummyApp",
+      "version": "1.0",
+      "versionDate": "2024-09-19",
+      "size": 22500,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/09-19-2024/DummyApp-1.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pax.DummyApp.png"
+    },
+    {
+      "name": "DolphiniOS",
+      "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
+      "developerName": "OatmealDome",
+      "subtitle": "GameCube and Wii games on the go.",
+      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
+      "tintColor": "41cdff",
+      "screenshotURLs": [
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.2.1",
+          "date": "2022-09-11T22:00:00.0000000Z",
+          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+          "size": 80253902,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
+        }
+      ],
+      "version": "3.2.1",
+      "versionDate": "2022-09-11T22:00:00.0000000Z",
+      "versionDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+      "size": 80253902
+    },
+    {
+      "name": "DolphiniOS (Public Beta)",
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+      "developerName": "OatmealDome",
+      "subtitle": "Test the latest DolphiniOS.",
+      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
+      "tintColor": "ffbb3d",
+      "screenshotURLs": [
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.0.0b8",
+          "date": "2025-01-19T00:00:00.0000000Z",
+          "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
+          "size": 15830129,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "99.0"
+        },
+        {
+          "version": "4.0.0b7",
+          "date": "2024-01-21T20:30:00.0000000Z",
+          "localizedDescription": "This is the first build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
+          "size": 13775833,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "99.0"
+        },
+        {
+          "version": "3.2.1b1",
+          "date": "2022-07-05T22:00:00.0000000Z",
+          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa",
+          "size": 80291610,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
+        }
+      ],
+      "version": "4.0.0b8",
+      "versionDate": "2025-01-19T00:00:00.0000000Z",
+      "versionDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
+      "size": 15830129
+    },
+    {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "developerName": "PojavLauncherTeam",
+      "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
+      "version": "2.2",
+      "versionDate": "2023-05-06T17:00:00-05:00",
+      "versionDescription": "PojavLauncher 2.2 Deepslate puts a focus on our core functionality, working to squash bugs, improve performance, and increase reliability.",
+      "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+      "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\n\u00e2\u0080\u00a2 Play most versions of Minecraft, from the very first beta to the latest snapshots.\n\u00e2\u0080\u00a2 Customize with mods, resource packs, and compatible shaders\n\u00e2\u0080\u00a2 Create multiple instances of Minecraft for multiple versions\n\u00e2\u0080\u00a2 Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\n\u00e2\u0080\u00a2 Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.",
+      "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
+      "tintColor": "746344",
+      "size": 108175347,
+      "screenshotURLs": [
+        "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
+        "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
+        "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
+        "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG"
+      ]
+    },
+    {
+      "name": "Provenance EMU",
+      "bundleIdentifier": "org.provenance-emu.provenance",
+      "developerName": "Joe Mattiello",
+      "subtitle": "Multi-emulator frontend for iOS & tvOS",
+      "version": "2.2.1",
+      "versionDate": "2022-12-30T00:01:00-05:00",
+      "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
+      "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
+      "localizedDescription": "Multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
+      "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
+      "tintColor": "#162434",
+      "size": 77010038,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Provenance to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2306.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2308.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2309.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2310.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
+      ]
+    },
+    {
+      "name": "emuThreeDS",
+      "bundleIdentifier": "com.antique.emuThreeDS",
+      "developerName": "Antique",
+      "subtitle": "Nintendo 3DS emulator for iOS.",
+      "localizedDescription": "emuThreeDS is a Nintendo 3DS emulator for Apple TV, iPad and iPhone based on Citra.",
+      "iconURL": "https://i.imgur.com/XUAH0bL.png",
+      "tintColor": "#5CA399",
+      "screenshotURLs": [
+        "https://i.imgur.com/AhhhDIK.png",
+        "https://i.imgur.com/u05omA7.png"
+      ],
+      "versions": [
+        {
+          "absoluteVersion": "1.0.7.1.2",
+          "version": "1.0.7.1",
+          "buildVersion": "2",
+          "date": "2024-03-01T03:47:43Z",
+          "localizedDescription": "# v1.0.7.1.2\n\n",
+          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/v1.0.7.1.2/emuThreeDS_v1.0.7.1.2.ipa",
+          "size": 35010897,
+          "sha256": "e27a76af0128c1af81f51bfffe8983a461bb76861cf0c93a0388f9c16339bdcf"
+        },
+        {
+          "absoluteVersion": "1.0.6.5.6",
+          "version": "1.0.6.5",
+          "buildVersion": "6",
+          "date": "2023-07-31T11:16:28Z",
+          "localizedDescription": "# v1.0.6.5 (6) is now out!\n\nSee **[CHANGELOG.md](https://github.com/emuplace/emuthreeds/blob/main/resources/markdowns/CHANGELOG.md)** for more information.",
+          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.5.6/emuThreeDS.v1.0.6.5.6.ipa",
+          "size": 35642893,
+          "sha256": "f1b0d1df9ca3ce907869aa9d18d109e1c2bceb283971f23bf42de3ecd59e28c9"
+        },
+        {
+          "absoluteVersion": "1.0.6.4",
+          "version": "1.0.6",
+          "buildVersion": "4",
+          "date": "2023-06-15T08:42:18Z",
+          "localizedDescription": "# Settings galore, Full controller support, Latest Vulkan and more!\n\nSee **[CHANGELOG.md](https://github.com/emuPlace/emuThreeDS/blob/main/resources/markdowns/CHANGELOG.md)** for more information.\r\n\r\nThis will be the last SwiftUI release as the project is moving back to Swift.",
+          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.4/emuThreeDS_v1.0.6.4.ipa",
+          "size": 37520848,
+          "sha256": "e63fe50f820286b4124e9e758610c8e707f1d9b76f65301e9ffb1bfcda38566b"
+        },
+        {
+          "absoluteVersion": "1.0.6.3",
+          "version": "1.0.6",
+          "buildVersion": "3",
+          "date": "2023-06-08T08:31:08Z",
+          "localizedDescription": "# Added new virtual controller buttons and added new settings.\n\nChange-logs will go back to normal from here on out... I've not kept track properly for this version.",
+          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.3/emuThreeDS_v1.0.6.3.ipa",
+          "size": 37590539,
+          "sha256": "2b41c723d5c7512a8787e22fe6029f5c7cb2dfce0f496eb8fdc3cf91f975ce28",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": []
+      },
+      "appID": "com.antique.emuThreeDS"
+    },
+    {
+      "name": "citra",
+      "bundleIdentifier": "net.rinsuki.slapps.citra.ci-artifact",
+      "developerName": "rinsuki",
+      "subtitle": "Citra Nintendo 3DS emulator for iOS.",
+      "localizedDescription": "Citra is a Nintendo 3DS emulator. This is a fork specifically compiled for iOS devices and is still in its early stages of development. You should not expect the same compatibility and performance that you might expect of the PC version of Citra.",
+      "iconURL": "https://github.com/rinsuki/citra/blob/ios_frontend/dist/icon.png?raw=true",
+      "tintColor": "#5CA399",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "absoluteVersion": "4865233241",
+          "version": "0.1.gha.4865233241.Release.5af330c0e6cac9c183a432d5839cf78780873951",
+          "buildVersion": "1",
+          "date": "2023-05-02T20:46:17Z",
+          "localizedDescription": "# iOS (\u03b1) CI.4865233241\n\n* Tell compiler to support only A12 or later CPU, but I'm not sure this actually improves performance\r\n\r\n## NOTE\r\n* This version requires A12 or later device (iPhone XS/XR or later)\r\n  * this is coming from GPU requirements (we need layered rendering)\r\n* This version can install to iOS 14 or later device, but...\r\n  * We only supports latest stable iOS.\r\n  * in iOS 14.x or older, you can't use virtual controller (which means you need to use external controller, like DS4 or Xbox or MFi certificated controller)\r\n* This version doesn't supporting these features:\r\n  * Audio Input (Mic)\r\n  * Camera\r\n  * Motion Sensor\r\n  * Touch Screen\r\n  * NFC\r\n  * SELECT/HOME button for physical controller\r\n  * Circle Pad (including Pro), ZL/ZR, SELECT/START/HOME button for virtual controller",
+          "downloadURL": "https://github.com/rinsuki/citra/releases/download/ios/alpha/4865233241/citra_ios_ci_4865233241_Release_5af330c0e6cac9c183a432d5839cf78780873951.ipa",
+          "size": 8581046,
+          "sha256": "bee252d9ce9b350122e5ae0e48d2ec1a6ba87cdf9ef5263a5e8b90e3c0766ca1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": []
+      },
+      "appID": "net.rinsuki.slapps.citra"
+    },
+    {
+      "name": "WDBRemoveThreeAppLimit",
+      "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
+      "developerName": "Zhuowei",
+      "subtitle": "Removes three app limit from AltStore!",
+      "localizedDescription": "An app that removes the three app limit for free provisioning. Hit \"Go\" just before installing apps. Should work on iOS 16.1.2 and below / iOS 15.7.1 and below.\n\nThis is very limited:\n\n\u2022 Apps still expire after a week\n\u2022 They still do not get arbitrary entitlements\n\u2022 They still must be signed. It's probably not going to be that useful. It's meant more as a demo of what you can do with MacDirtyCow.",
+      "iconURL": "https://i.imgur.com/ODvSw7D.png",
+      "tintColor": "#404040",
+      "screenshotURLs": [
+        "https://i.imgur.com/6pajtgW.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2023-02-16",
+          "localizedDescription": "\u2022 Updated WDBRemoveThreeAppLimit to v1.0",
+          "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
+          "size": 88800,
+          "sha256": "428982c14796e7caa66d2743964fa37157d0e9db574ada326aa09a65a11c147c",
+          "maxOSVersion": "16.1.2"
+        }
+      ]
+    },
+    {
+      "name": "WDBFontOverwrite",
+      "bundleIdentifier": "com.ginsudev.WDBFontOverwrite",
+      "developerName": "Zhuowei + Ginsudev",
+      "subtitle": "Override the iOS system fonts!",
+      "localizedDescription": "An app that allows you to override the system used iOS font with one of the fonts from our built in selection. It's probably not going to be that useful. It's meant more as a demo of what you can do with MacDirtyCow.",
+      "iconURL": "https://i.imgur.com/SXK4rhS.png",
+      "tintColor": "#404040",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/704768/209511898-a1477b66-28e4-471a-87d9-36c1c2eb25ca.png",
+        "https://user-images.githubusercontent.com/704768/209606970-a382c273-bdcb-425c-bca1-1b6f9b31862f.png",
+        "https://user-images.githubusercontent.com/704768/209753262-b8204c92-b873-41a7-8127-38bf86096470.png"
+      ],
+      "versions": [
+        {
+          "absoluteVersion": "1.10.8",
+          "version": "1.10.8",
+          "date": "2023-02-09T10:15:32Z",
+          "localizedDescription": "# v1.10.8\n\n- Updated grant_full_disk_access.\r\n- Concurrency and code improvements/fixes.",
+          "downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa",
+          "size": 5348316,
+          "sha256": "c0247494c3852c200aeececaada8476b0967958154a28cfd260b21a9c20392ec",
+          "maxOSVersion": "16.1.2"
+        }
+      ],
+      "appID": "com.ginsudev.WDBFontOverwrite"
+    },
+    {
+      "name": "Deltroid",
+      "bundleIdentifier": "com.rileytestut.Deltroid",
+      "developerName": "SideStore Team",
+      "subtitle": "Multi-emulator for your classic games on the go!",
+      "localizedDescription": "Deltroid is an all-in-one emulator for iOS. Deltroid builds upon the strengths of its predecessor Delta while improving on it in a community supported fashion. \n\nGithub Repository (https://github.com/lonkelle/Deltroid) \n\nFEATURES\n\nSupported Game Systems\n\u2022 Nintendo Entertainment System\n\u2022 Super Nintendo Entertainment System\n\u2022 Nintendo 64\n\u2022 Game Boy (Color)\n\u2022 Game Boy Advance\n\u2022 Nintendo DS\n\u2022 Nintendo DSi\n\u2022 Sega Genesis\n\u2022 And plenty more to come!\n\nController Support\n\u2022 Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n\u2022 Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n\u2022 Completely customize button mappings on a per-system, per-controller basis.\n\u2022 Map buttons to special \u201cQuick Save\u201d, \u201cQuick Load,\u201d and \u201cFast Forward\u201d actions.\n\nSave States\n\u2022 Save and load save states for any game from the pause menu.\n\u2022 Lock save states to prevent them from being accidentally overwritten.\n\u2022 Automatically makes backup save states to ensure you never lose your progress.\n\u2022 Support for \u201cQuick Saves,\u201d save states that can be quickly saved/loaded with a single button press (requires external controller).\n\nCheats\n\u2022 Supports various types of cheat codes for each supported system:\n\u2022 NES: Game Genie\n\u2022 SNES: Game Genie, Pro Action Replay\n\u2022 N64: GameShark\n\u2022 GBC: Game Genie, GameShark\n\u2022 GBA: Action Replay, Code Breaker, GameShark\n\u2022 DS: Action Replay\n\nDeltroid Sync\n\u2022 Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n\u2022 View version histories of everything you sync and optionally restore them to earlier versions.\n\u2022 Supports both Google Drive and Dropbox.\n\nCustom Controller Skins\n\u2022 Beautiful built-in controller skins for all systems.\n\u2022 Import controller skins made by others, or even make your own to share with the world!\n\nHold Button\n\u2022 Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n\u2022 Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\nFast Forward\n\u2022 Speed through slower parts of games by running the game much faster than normal.\n\u2022 Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\n3D/Haptic Touch\n\u2022 Use 3D or Haptic Touch to \u201cpeek\u201d at games, save states, and cheat codes.\n\u2022 App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nGame Artwork\n\u2022 Automatically displays appropriate box art for imported games.\n\u2022 Change a game\u2019s artwork to anything you want, or select from the built-in game artwork database.\n\nMisc.\n\u2022 Gyroscope support (WarioWare: Twisted! only)\n\u2022 Microphone support (DS only)\n\u2022 Support for delta:// URL scheme to jump directly into a specific game.\n\n**Deltroid and Sidestore are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
+      "iconURL": "https://i.imgur.com/Bimx1aO.png",
+      "tintColor": "8A28F7",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/64176728/215964215-34cefad0-7178-4b38-930d-fc3df1c5592b.png",
+        "https://user-images.githubusercontent.com/64176728/215960133-70db5b84-d2e4-4638-9f96-179b9100aa9c.png",
+        "https://user-images.githubusercontent.com/64176728/215962679-1c01f62f-59ab-4e7f-9a2c-d1353fb409c6.png",
+        "https://user-images.githubusercontent.com/64176728/215960144-930836b3-543f-4729-8b6a-e06446aca4c4.png"
+      ],
+      "versions": [
+        {
+          "absoluteVersion": "0.9.1",
+          "version": "1.5",
+          "date": "2023-02-02T10:51:30Z",
+          "localizedDescription": "# v0.9.1\n\n\u2022 Fixes default NES / DS skins\r\n\u2022 Fixes importing `.md` files from the in-app File Picker.",
+          "downloadURL": "https://github.com/lonkelle/Deltroid/releases/download/v0.9.1/Deltroid.ipa",
+          "size": 48342198,
+          "sha256": "e7334a815833de25221675380d6774a3d2cb6df03fbd56caa80b0d6da553153b"
+        },
+        {
+          "absoluteVersion": "0.1",
+          "version": "0.1",
+          "date": "2023-2-02T03:00:00-05:00",
+          "localizedDescription": "Additions and Bugfixes. More info: https://github.com/lonkelle/Deltroid/releases",
+          "downloadURL": "https://github.com/lonkelle/Deltroid/releases/download/v0.9.1/Deltroid.ipa",
+          "size": 48300000
+        }
+      ],
+      "appID": "com.rileytestut.Deltroid"
+    },
+    {
+      "name": "VCMI",
+      "bundleIdentifier": "eu.vcmi.vcmiclient",
+      "developerName": "VCMI Team",
+      "subtitle": "Heroes of Might & Magic III engine",
+      "localizedDescription": "VCMI is a open source cross-platform HoMM3 engine written from scratch. \n\nYou need data copied from original game to play. \nFollow instructions from https://wiki.vcmi.eu/Installation_on_iOS",
+      "iconURL": "https://github.com/vcmi/vcmi/raw/develop/client/icons/vcmiclient.512x512.png",
+      "tintColor": "CD8526",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot1.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot2.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot3.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot4.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot5.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot6.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot7.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot8.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot9.png"
+      ],
+      "versions": [
+        {
+          "absoluteVersion": "1.6.8",
+          "version": "1.6.8",
+          "buildVersion": "2025-04-24-a92e29e",
+          "date": "2025-04-25T13:09:24Z",
+          "localizedDescription": "# VCMI 1.6.8\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.7 -> 1.6.8](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#167---168)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.7..1.6.8\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.8/VCMI-iOS.ipa",
+          "size": 20825440,
+          "sha256": "16c7e8b19d67898d7c0877d0d2068a92095344a35190e4f0cb7b7099caa55128"
+        },
+        {
+          "absoluteVersion": "1.6.7",
+          "version": "1.6.7",
+          "buildVersion": "2025-02-27-dfda6d2",
+          "date": "2025-02-27T19:32:02Z",
+          "localizedDescription": "# VCMI 1.6.7\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.6 -> 1.6.7](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#166---167)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.6..1.6.7\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.7/VCMI-iOS.ipa",
+          "size": 20863158,
+          "sha256": "fa07a827210a9a4a202c362be66212a0e942e1fc0c506fe9c396160839e1b8a1"
+        },
+        {
+          "absoluteVersion": "1.6.6",
+          "version": "1.6.6",
+          "buildVersion": "2025-02-20-df75079",
+          "date": "2025-02-21T13:02:15Z",
+          "localizedDescription": "# VCMI 1.6.6\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.5 -> 1.6.6](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#165---166)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.5..1.6.6\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.6/VCMI-iOS.ipa",
+          "size": 20850507,
+          "sha256": "adeb458a90b272850ad5c521a99289bf6493c071625cb48979228cac16f2370d"
+        },
+        {
+          "absoluteVersion": "1.6.5",
+          "version": "1.6.5",
+          "buildVersion": "2025-02-03-7e1ce09",
+          "date": "2025-02-03T15:34:30Z",
+          "localizedDescription": "# VCMI 1.6.5\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.4 -> 1.6.5](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#164---165)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.4..1.6.5\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.5/VCMI-iOS.ipa",
+          "size": 20770400,
+          "sha256": "66e28b461339fc2cfa94b90b8f3500e57c3e7ebb288e37f9916ceec079b350dc"
+        },
+        {
+          "absoluteVersion": "1.6.4",
+          "version": "1.6.4",
+          "buildVersion": "2025-01-31-89b703c",
+          "date": "2025-01-31T13:20:58Z",
+          "localizedDescription": "# VCMI 1.6.4\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.3 -> 1.6.4](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#163---164)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.3..1.6.4\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.4/VCMI-iOS.ipa",
+          "size": 20767021,
+          "sha256": "511e0137d8c04ec07b6f38abbc26596e19069c09642ced762fe9e0882301f10c"
+        },
+        {
+          "absoluteVersion": "1.6.3",
+          "version": "1.6.3",
+          "buildVersion": "2025-01-09-ff598b6",
+          "date": "2025-01-09T21:50:13Z",
+          "localizedDescription": "# VCMI 1.6.3\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.2 -> 1.6.3](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#162---163)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.2..1.6.3\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.3/VCMI-iOS.ipa",
+          "size": 20716731,
+          "sha256": "f47e2153b23763bba21c135c7dab8fdd6384d2098e6ef8a073fc2232b443adf3"
+        },
+        {
+          "absoluteVersion": "1.6.2",
+          "version": "1.6.2",
+          "buildVersion": "2025-01-04-f56fd20",
+          "date": "2025-01-04T16:43:21Z",
+          "localizedDescription": "# VCMI 1.6.2\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.1 -> 1.6.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#161---162)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.1..1.6.2\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.2/VCMI-iOS.ipa",
+          "size": 20690030,
+          "sha256": "75e5e4976bcd4786e7f182936101aeb7cc0a899a7257231f041fae1fc6489336"
+        },
+        {
+          "absoluteVersion": "1.6.1",
+          "version": "1.6.1",
+          "buildVersion": "2024-12-26-b91be77",
+          "date": "2024-12-27T11:24:07Z",
+          "localizedDescription": "# VCMI 1.6.1\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.0 -> 1.6.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#160---161)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.0..1.6.1\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.1/VCMI-iOS.ipa",
+          "size": 20685749,
+          "sha256": "8b497aa059e3881805212af805aabb4200caf45ed4cc415cb7c08bfcdc3c3c40"
+        },
+        {
+          "absoluteVersion": "1.6.0",
+          "version": "1.6",
+          "buildVersion": "2024-12-19-1cbe122",
+          "date": "2024-12-19T18:14:57Z",
+          "localizedDescription": "# VCMI 1.6.0\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.7 -> 1.6.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#157---160)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.7..1.6.0\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) shortly\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.0/VCMI-iOS.ipa",
+          "size": 20639756,
+          "sha256": "27d5f8ea135e8d7b7d154eead58eb6436c943611014afb7a03d3f7116104f0fc"
+        },
+        {
+          "absoluteVersion": "1.5.7",
+          "version": "1.5.7",
+          "buildVersion": "2024-08-25-a3e3321",
+          "date": "2024-08-26T13:38:22Z",
+          "localizedDescription": "# VCMI 1.5.7\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.6 -> 1.5.7](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#156---157)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.6..1.5.7\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.7/VCMI-iOS.ipa",
+          "size": 25094551,
+          "sha256": "af5a26894ea7c1552e02f862589501394edaf77826087ac2958c0d8b311802a7"
+        },
+        {
+          "absoluteVersion": "1.5.6",
+          "version": "1.5.6",
+          "buildVersion": "2024-08-04-5313b5c",
+          "date": "2024-08-05T10:00:11Z",
+          "localizedDescription": "# VCMI 1.5.6\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.5 -> 1.5.6](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#155---156)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.5..1.5.6\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.6/VCMI-iOS.ipa",
+          "size": 25092792,
+          "sha256": "9bdc417fbaebbcb5d1f140d10468d6262bfb59d134a67f965e4a76341bd855b9"
+        },
+        {
+          "absoluteVersion": "1.5.5",
+          "version": "1.5.5",
+          "buildVersion": "2024-07-16-c9fb2d6",
+          "date": "2024-07-17T13:39:37Z",
+          "localizedDescription": "# VCMI 1.5.5\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.4 -> 1.5.5](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#153---154)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.4..1.5.5\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.5/VCMI-iOS.ipa",
+          "size": 25087512,
+          "sha256": "7d0b5579598558ef461a17bc52e7c72c16eeff587b229dcb0ed8adb35481c1af"
+        },
+        {
+          "absoluteVersion": "1.5.4",
+          "version": "1.5.4",
+          "buildVersion": "2024-07-11-286a70c",
+          "date": "2024-07-11T15:12:39Z",
+          "localizedDescription": "# VCMI 1.5.4\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.3 -> 1.5.4](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#153---154)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.3..1.5.4\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on Flathub shortly\r\n- Ubuntu release will be available on VCMI PPA shortly",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.4/VCMI-iOS.ipa",
+          "size": 25083368,
+          "sha256": "48c75d7e4d160de6748243b0945a9c5c1f731c99f166c7fd7c4d6df06c428fc4"
+        },
+        {
+          "absoluteVersion": "1.5.3",
+          "version": "1.5.3",
+          "buildVersion": "2024-06-20-099a491",
+          "date": "2024-06-21T11:46:48Z",
+          "localizedDescription": "# VCMI 1.5.3\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.2 -> 1.5.3](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#152---153)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.2..1.5.3\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- Linux release will be available on Flathub shortly -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- Ubuntu release will be available on VCMI PPA shortly -->\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on Flathub shortly\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.3/VCMI-iOS.ipa",
+          "size": 25074651,
+          "sha256": "a7be5b2449ec1c190a5ef3a9f1dd00a241e8aeec3441d7757e2ce8b09a6e219f"
+        },
+        {
+          "absoluteVersion": "1.5.2",
+          "version": "1.5.2",
+          "buildVersion": "2024-05-30-9121fcd",
+          "date": "2024-05-31T08:53:43Z",
+          "localizedDescription": "# VCMI 1.5.2\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.1 -> 1.5.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#151---152)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.1..1.5.2\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- Linux release is available on [Flatpak](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on Flatpak shortly\r\n- Ubuntu release will be available on VCMI PPA shortly",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.2/VCMI-iOS.ipa",
+          "size": 25079455,
+          "sha256": "9d3a897fd5f7f9605263e9deed1af2460a4447c00caa8349aa50771b9b59926b"
+        },
+        {
+          "absoluteVersion": "1.5.1",
+          "version": "1.5.1",
+          "buildVersion": "2024-05-16-194b338",
+          "date": "2024-05-17T08:04:33Z",
+          "localizedDescription": "# VCMI 1.5.1\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.0 -> 1.5.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#150---151)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.0...1.5.1\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Linux release is available on [Flatpak](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on Flatpak shortly\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.1/VCMI-iOS.ipa",
+          "size": 25055382,
+          "sha256": "58499fd576b3d51731ad16ccd4ecff19ad8eebc2fa9c800b19a91fce68209593"
+        },
+        {
+          "absoluteVersion": "1.5.0",
+          "version": "1.5",
+          "buildVersion": "2024-05-09-d72afb1",
+          "date": "2024-05-09T12:36:01Z",
+          "localizedDescription": "# VCMI 1.5.0\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.4.5 -> 1.5.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#145---150)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.4.5...1.5.0\r\n\r\n### Additional builds\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Linux release is available on [Flatpak](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.0/VCMI-iOS.ipa",
+          "size": 25048690,
+          "sha256": "fdc0baac54c91bd11fa16cc0bcc42f651d96b7c4d08344ee5d8df0306f2a4574"
+        },
+        {
+          "absoluteVersion": "1.4.5",
+          "version": "1.4.5",
+          "buildVersion": "2024-01-24-3d2f691",
+          "date": "2024-01-24T17:52:56Z",
+          "localizedDescription": "# VCMI 1.4.5\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Changelog\r\n* Fixed crash on creature spellcasting\r\n* Fixed crash on unit entering magical obstacles such as quicksands\r\n* Fixed freeze on map loading on some systems\r\n* Fixed crash on attempt to start campaign with unsupported map\r\n* Fixed crash on opening creature information window with invalid SPELL_IMMUNITY bonus\r\n* Fixed placement of guards sometimes resulting into open connection into third zone\r\n* Fixed rare crash on multithreaded access during placement of artifacts or wandering monsters\r\n* Fixed inspector using wrong editor for some values\r\n* Fixed bug leading to AI not attacking wandering monsters in some cases\r\n* Fixed crash on using StupidAI for autocombat or for enemy players \r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.5/VCMI-iOS.ipa",
+          "size": 27227187,
+          "sha256": "16135e899edb4515a025e4914076a738c0d336c12ed3876a4967a6b083569acf"
+        },
+        {
+          "absoluteVersion": "1.4.4",
+          "version": "1.4.4",
+          "buildVersion": "2024-01-19-b8f3de3",
+          "date": "2024-01-19T19:02:38Z",
+          "localizedDescription": "# VCMI 1.4.4\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Changelog\r\n- Fixed crash random map generation\r\n\r\n### Android release will be available on Google Play shortly\r\n<!-- ### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n### Ubuntu release will be available on VCMI PPA shortly\r\n<!-- ### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.4/VCMI-iOS.ipa",
+          "size": 27223271,
+          "sha256": "f921d6cbb20f7b7274eaaac18ac9049bfe04aa3939139dbc18125734489d89df"
+        },
+        {
+          "absoluteVersion": "1.4.3",
+          "version": "1.4.3",
+          "buildVersion": "2024-01-18-dceae73",
+          "date": "2024-01-19T10:17:45Z",
+          "localizedDescription": "# VCMI 1.4.3\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Player Changelog: [1.4.2 -> 1.4.3](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#142---143)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.4.2...1.4.3\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.3/VCMI-iOS.ipa",
+          "size": 27223378,
+          "sha256": "470ec5b7368e690e9e992c3ebfbb0bc22c7e460584a2d61e650663ebe0ee6ffd"
+        },
+        {
+          "absoluteVersion": "1.4.2",
+          "version": "1.4.2",
+          "buildVersion": "2023-12-24-a577a74",
+          "date": "2023-12-25T10:29:14Z",
+          "localizedDescription": "# VCMI 1.4.2\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Player Changelog: [1.4.1 -> 1.4.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#141---142)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.4.1...1.4.2\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release will be available on VCMI PPA shortly\r\n<!-- ### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.2/VCMI-iOS.ipa",
+          "size": 27168719,
+          "sha256": "3f4fcf79a665ffee78c461b6b0d627191415d45bff092a50705b94dd48be4960"
+        },
+        {
+          "absoluteVersion": "1.4.1",
+          "version": "1.4.1",
+          "buildVersion": "2023-12-11-17b2ce2",
+          "date": "2023-12-12T10:11:34Z",
+          "localizedDescription": "# VCMI 1.4.1\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Player Changelog: [1.4.0 -> 1.4.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#140---141)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.4.0...1.4.1\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.1/VCMI-iOS.ipa",
+          "size": 27156010,
+          "sha256": "f7a437912af060f28efe8fdb984b63ef79a26cb8be61b6379fd60c51a6fdf045"
+        },
+        {
+          "absoluteVersion": "1.4.0",
+          "version": "1.4",
+          "buildVersion": "2023-12-08-7fc60a0",
+          "date": "2023-12-08T13:13:49Z",
+          "localizedDescription": "# VCMI 1.4.0\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Player Changelog: [1.3.2 -> 1.4.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#132---140)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.3.2...1.4.0\r\n\r\n### Android release will be available on Google Play shortly\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- ### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.0/VCMI-iOS.ipa",
+          "size": 27153560,
+          "sha256": "8d9cd0768da7866d72e4f96f8e17185f3221891b36c4b4e8de41cc579b9b00b9"
+        },
+        {
+          "absoluteVersion": "1.3.2",
+          "version": "1.3.2",
+          "buildVersion": "2023-09-14-09d9099",
+          "date": "2023-09-14T14:32:26Z",
+          "localizedDescription": "# VCMI 1.3.2\n\nWarning: saved games from 1.2 release are not supported\r\n\r\n### Player Changelog: [1.3.1 -> 1.3.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#131---132)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.3.1...1.3.2\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.3.2/VCMI-1.3.2-iOS.ipa",
+          "size": 27910340,
+          "sha256": "0966c7ad34a53d72e4b393bf18e2db48717a7cb5f9f49c25e60295b00de4d442"
+        },
+        {
+          "absoluteVersion": "1.3.1",
+          "version": "1.3.1",
+          "buildVersion": "2023-08-17-daa8a49",
+          "date": "2023-08-17T19:11:01Z",
+          "localizedDescription": "# VCMI 1.3.1\n\nWarning: saved games from 1.2 release are not supported\r\n\r\n### Player Changelog: [1.3.0 -> 1.3.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#130---131)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.3.0...1.3.1\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.3.1/VCMI-1.3.1-iOS.ipa",
+          "size": 27943336,
+          "sha256": "242b2e8b4ba341f1b7020475548f8decfaa9f9d333716b617d5e88dc91b08fa1"
+        },
+        {
+          "absoluteVersion": "1.3.0",
+          "version": "1.3",
+          "buildVersion": "2023-08-04-b972924",
+          "date": "2023-08-04T10:23:06Z",
+          "localizedDescription": "# VCMI 1.3.0\n\n### Player Changelog: [1.2.1 -> 1.3.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#121---130)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.2.1...1.3.0\r\n\r\n<!-- ### Android release will be available on Google Play shortly --<\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.3.0/VCMI-1.3.0-iOS.ipa",
+          "size": 27919866,
+          "sha256": "ef45fd129da7ddacd2508e5779f726c7980a839a83afcd30cd0445218c26f0d8"
+        },
+        {
+          "absoluteVersion": "1.2.1",
+          "version": "1.2.1",
+          "date": "2023-04-28T18:40:12Z",
+          "localizedDescription": "# VCMI 1.2.1\n\n### Player Changelog: [1.2.0 -> 1.2.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#120---121)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.2.0...1.2.1\r\n\r\n<!-- ### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.2.1/VCMI-1.2.1-iOS.ipa",
+          "size": 26347869,
+          "sha256": "7556bb42ca0afebad75be8ccf8a00a3121313178392f6ccb5a86059f060c3b00"
+        },
+        {
+          "absoluteVersion": "1.2.0",
+          "version": "1.2",
+          "date": "2023-04-14T14:08:18Z",
+          "localizedDescription": "# VCMI 1.2.0\n\n### Player Changelog: [1.1.1 -> 1.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#111---120)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.1.1...1.2.0\r\n\r\n<!-- ### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) --->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\n\nNOTE: BundleIdentifier changed in this version and automatic updates have been disabled until manual install occurs.",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.2.0/VCMI-1.2.0-iOS.ipa",
+          "size": 26346303,
+          "sha256": "8f1ea600a8156eae17de80f9f72a3cb38b4be9b087b276324192f797a3516511"
+        },
+        {
+          "version": "1.1.1",
+          "date": "2023-02-03T12:00:00+04:00",
+          "localizedDescription": "Fixes for issues found in 1.1 release",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.1.1/VCMI-1.1.1-iOS.ipa",
+          "size": 25570455
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": []
+      },
+      "appID": "com.vcmi.VCMI"
+    },
+    {
+      "name": "Delta iPac Edition",
+      "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
+      "developerName": "Riley Testut & Ian Clawson",
+      "subtitle": "A sneak peek preview of Delta!",
+      "localizedDescription": "This version of Delta is essentially the base version of Delta, but with a large number of popular and highly anticipated Pull Requests merged in. Keep in mind there are some bugs and graphical glitches. Refer to https://github.com/ianclawson/Delta-iPac-Edition#readme for more details.",
+      "iconURL": "https://i.imgur.com/OPkKmCO.png",
+      "tintColor": "#8A28F7",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG",
+        "https://user-images.githubusercontent.com/705880/65601125-5b182000-df56-11e9-9e7e-261480e893c0.PNG"
+      ],
+      "versions": [
+        {
+          "absoluteVersion": "1.0.1",
+          "version": "1",
+          "date": "2021-11-19T19:13:13Z",
+          "localizedDescription": "# iPac Edition Official Release\n\nOnly the IPA is included. The \"Source Code\" is merely the README.\r\n\r\nNew Features:\r\n* Optimized AirPlay Support\r\n* Local Mulitplayer (NES, SNES, N64, GEN)\r\n* Nintendo-Switch-Online-like Rewind\r\n* Additional MFi Inputs (L3, R3, Options, Home, and some PS/Xbox-specific inputs)\r\n* External Controller deadzones for analog inputs (allows analog sticks to work properly for d-pads)\r\n* External Controller connection now prevents game screen from rotating\r\n* SNES Audio no longer crackles\r\n* Bonus: Quick Saves now Sync",
+          "downloadURL": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
+          "size": 19765623,
+          "sha256": "fe1eda29ab29ad408430934a35b9d46b08e10edd7eea50b072b2b54b16b1c182"
+        }
+      ]
+    },
+    {
+      "name": "PPSSPP",
+      "bundleIdentifier": "org.ppsspp.ppsspp",
+      "developerName": "Henrik Rydg\u00e5rd",
+      "subtitle": "PlayStation Portable games on iOS.",
+      "localizedDescription": "PPSSPP can run your PSP games on your iPhone and iPad in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. Even on modern iPhones and iPads, you can often run at double the original resolution.",
+      "iconURL": "https://i.imgur.com/JP0Fncv.png",
+      "tintColor": "#21486b",
+      "screenshotURLs": [
+        "https://i.imgur.com/CWl6GgH.png",
+        "https://i.imgur.com/SxmN1M0.png",
+        "https://i.imgur.com/sGWgR6z.png",
+        "https://i.imgur.com/AFKTdmZ.png"
+      ],
+      "versions": [
+        {
+          "absoluteVersion": "1.13.2",
+          "version": "1.13.2",
+          "date": "2022-09-18T23:59:49Z",
+          "localizedDescription": "# v1.13.2\n\n",
+          "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+          "size": 14509458,
+          "sha256": "15868764789f1187ae3ed73cb7a3c9c599c9de18239a73f5cdd51fdfdcfda66d"
+        }
+      ],
+      "appID": "org.ppsspp.ppsspp"
+    }
+  ],
+  "userInfo": {}
+}
