@@ -1,7 +1,7 @@
 {
   "name": "Combined AltStore Repo",
-  "identifier": "com.example.combined-repo",
-  "sourceURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/combined.json",
+  "identifier": "kbdevs.altstore",
+  "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/combined.json",
   "apps": [
     {
       "name": "AltStore",
