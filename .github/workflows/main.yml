@@ -1,0 +1,53 @@
+name: Aggregate AltStore Repos
+
+# Controls when the action will run.
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  # Triggers the workflow on a schedule (runs at 00:00 UTC every day)
+  schedule:
+    - cron: '0 0 * * *'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      # 2. Sets up Python 3.10 environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Installs necessary Python packages
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. Runs the aggregator script
+      - name: Run Aggregator Script
+        env:
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          GITHUB_REPOSITORY_NAME: ${{ github.repository.name }}
+        run: python script.py
+
+      # 5. Commits and pushes the updated combined.json file to the repository
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add combined.json
+          # Check if there are any changes to commit
+          if ! git diff --staged --quiet; then
+            git commit -m "Update: Combined AltStore repo sources"
+            git push
+          else
+            echo "No changes to commit."
+          fi
