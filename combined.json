@@ -838,6 +838,54 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "SwiftyCompiler",
+      "type": 1,
+      "bundleID": "com.hassantaleb.SwiftCompiler",
+      "bundleIdentifier": "com.hassantaleb.SwiftCompiler",
+      "version": "9.16",
+      "versionDate": "2025-07-19",
+      "fullDate": "20250719055710",
+      "size": 30744483,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/SwiftyCompiler_9.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/SwiftyCompiler_9.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png"
+    },
+    {
+      "name": "Uplens",
+      "type": 1,
+      "bundleID": "app.uplens",
+      "bundleIdentifier": "app.uplens",
+      "version": "3.2.9",
+      "versionDate": "2025-07-19",
+      "fullDate": "20250719021651",
+      "size": 179282650,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/Uplens_3.2.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/Uplens_3.2.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png"
+    },
+    {
+      "name": "Balance",
+      "type": 1,
+      "bundleID": "com.elevateapp.kamino.kamino",
+      "bundleIdentifier": "com.elevateapp.kamino.kamino",
+      "version": "1.181.0",
+      "versionDate": "2025-07-19",
+      "fullDate": "20250719002640",
+      "size": 113068881,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/Balance_1.181.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/Balance_1.181.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png"
+    },
+    {
       "name": "VSCO",
       "type": 1,
       "bundleID": "co.visualsupply.cam",
@@ -1124,22 +1172,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.bend.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.bend.png"
-    },
-    {
-      "name": "Uplens",
-      "type": 1,
-      "bundleID": "app.uplens",
-      "bundleIdentifier": "app.uplens",
-      "version": "3.2.8",
-      "versionDate": "2025-07-18",
-      "fullDate": "20250718020202",
-      "size": 179281778,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Uplens_3.2.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Uplens_3.2.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png"
     },
     {
       "name": "Focos",
@@ -2086,22 +2118,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png"
     },
     {
-      "name": "Balance",
-      "type": 1,
-      "bundleID": "com.elevateapp.kamino.kamino",
-      "bundleIdentifier": "com.elevateapp.kamino.kamino",
-      "version": "1.180.0",
-      "versionDate": "2025-07-16",
-      "fullDate": "20250716034219",
-      "size": 113066323,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Balance_1.180.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Balance_1.180.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png"
-    },
-    {
       "name": "MyFitnessPal",
       "type": 1,
       "bundleID": "com.myfitnesspal.mfp",
@@ -2132,22 +2148,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
-    },
-    {
-      "name": "SwiftyCompiler",
-      "type": 1,
-      "bundleID": "com.hassantaleb.SwiftCompiler",
-      "bundleIdentifier": "com.hassantaleb.SwiftCompiler",
-      "version": "9.15.2",
-      "versionDate": "2025-07-15",
-      "fullDate": "20250715205610",
-      "size": 30738987,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/SwiftyCompiler_9.15.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/SwiftyCompiler_9.15.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png"
     },
     {
       "name": "HiWidget",
