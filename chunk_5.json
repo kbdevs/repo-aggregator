@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Combyne",
+      "type": 1,
+      "bundleID": "com.pungme.combyne",
+      "bundleIdentifier": "com.pungme.combyne",
+      "version": "8.6.1",
+      "versionDate": "2025-06-12",
+      "fullDate": "20250612152936",
+      "size": 55484489,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Combyne_8.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Combyne_8.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pungme.combyne.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pungme.combyne.png"
+    },
+    {
+      "name": "Tappy",
+      "type": 2,
+      "bundleID": "cameronnazemi.Tappy",
+      "bundleIdentifier": "cameronnazemi.Tappy",
+      "version": "4.9.0",
+      "versionDate": "2025-06-12",
+      "fullDate": "20250612152423",
+      "size": 211414577,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Tappy_4.9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Tappy_4.9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cameronnazemi.Tappy.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cameronnazemi.Tappy.png"
+    },
+    {
       "name": "WordPal",
       "type": 2,
       "bundleID": "com.dynamicapps.Vocab-Builder",
@@ -1204,22 +1236,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png"
     },
     {
-      "name": "AdobeExpress",
-      "type": 1,
-      "bundleID": "com.adobe.post",
-      "bundleIdentifier": "com.adobe.post",
-      "version": "28.1.0",
-      "versionDate": "2025-05-30",
-      "fullDate": "20250530210245",
-      "size": 177041010,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/AdobeExpress_28.1.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/AdobeExpress_28.1.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png"
-    },
-    {
       "name": "Calculator",
       "type": 1,
       "bundleID": "com.incpt.mobis.CalculatorInfinite",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eu.eud3.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eu.eud3.png"
-    },
-    {
-      "name": "RFS",
-      "type": 2,
-      "bundleID": "it.rortos.realflightsimulator",
-      "bundleIdentifier": "it.rortos.realflightsimulator",
-      "version": "2.6.3",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527144825",
-      "size": 518455590,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/RFS_2.6.3_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/RFS_2.6.3_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/it.rortos.realflightsimulator.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/it.rortos.realflightsimulator.png"
     }
   ],
   "userInfo": {}

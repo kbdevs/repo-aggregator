@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "UltimateGolf",
+      "type": 2,
+      "bundleID": "com.hypgames.ultimategolf",
+      "bundleIdentifier": "com.hypgames.ultimategolf",
+      "version": "4.21.03",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705154120",
+      "size": 248827015,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/UltimateGolf_4.21.03_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/UltimateGolf_4.21.03_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hypgames.ultimategolf.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hypgames.ultimategolf.png"
+    },
+    {
+      "name": "GossipHarbor",
+      "type": 2,
+      "bundleID": "com.mergegame.icookie",
+      "bundleIdentifier": "com.mergegame.icookie",
+      "version": "3.68.0",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705153612",
+      "size": 182446977,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/GossipHarbor_3.68.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/GossipHarbor_3.68.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mergegame.icookie.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mergegame.icookie.png"
+    },
+    {
       "name": "PixelCombat",
       "type": 2,
       "bundleID": "com.gsgames.pixel.combat",
@@ -1906,38 +1938,6 @@
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.bowmasters.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.bowmasters.png"
-    },
-    {
-      "name": "Voicepal",
-      "type": 1,
-      "bundleID": "com.choiceapps.recipesfdw",
-      "bundleIdentifier": "com.choiceapps.recipesfdw",
-      "version": "2.0.78",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624173609",
-      "size": 33883098,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Voicepal_2.0.78_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Voicepal_2.0.78_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png"
-    },
-    {
-      "name": "Lightroom",
-      "type": 1,
-      "bundleID": "com.adobe.lrmobilephone",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "version": "10.4.1",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624145015",
-      "size": 185354065,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Lightroom_10.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Lightroom_10.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
     }
   ],
   "userInfo": {}
