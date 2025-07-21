@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "ATHENABloodTwins",
+      "type": 2,
+      "bundleID": "com.eu.eud3",
+      "bundleIdentifier": "com.eu.eud3",
+      "version": "1.0.4",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527151420",
+      "size": 1072721574,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/ATHENABloodTwins_1.0.4_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/ATHENABloodTwins_1.0.4_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eu.eud3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eu.eud3.png"
+    },
+    {
       "name": "RFS",
       "type": 2,
       "bundleID": "it.rortos.realflightsimulator",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/yuca.scanner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/yuca.scanner.png"
-    },
-    {
-      "name": "Tachimanga",
-      "type": 1,
-      "bundleID": "com.mangacrush.ios",
-      "bundleIdentifier": "com.mangacrush.ios",
-      "version": "4.3",
-      "versionDate": "2025-04-29",
-      "fullDate": "20250429075617",
-      "size": 123989832,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Tachimanga_4.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Tachimanga_4.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png"
     },
     {
       "name": "Genie",
