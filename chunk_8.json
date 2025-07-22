@@ -4,6 +4,74 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Reddit - Reddit Deluxe",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "Jack cracks",
+      "subtitle": "Features:\r\n- RedditFilter\r\n- RedditSideloadFix\r\n- Redditcache\r\n- RedditCacheCleaner\r\n- RedditUndoScrollUp\r\n- ColorComments",
+      "localizedDescription": "Features:\r\n- RedditFilter\r\n- RedditSideloadFix\r\n- Redditcache\r\n- RedditCacheCleaner\r\n- RedditUndoScrollUp\r\n- ColorComments\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.reddit.Reddit\n\n Downloads: 827\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1727220625.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17272206250507180201.webp",
+        "https://apps.nabzclan.vip/screenshots/17272206253364328969.webp",
+        "https://apps.nabzclan.vip/screenshots/17272206254411595476.webp",
+        "https://apps.nabzclan.vip/screenshots/17272206255322405324.webp",
+        "https://apps.nabzclan.vip/screenshots/17272206256171424124.webp",
+        "https://apps.nabzclan.vip/screenshots/17272206257081973564.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2025.11.0",
+          "date": "2025-03-19 18:25:15",
+          "localizedDescription": "Current of Reddit - Reddit Deluxe - 2025.11.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
+          "size": 153511526
+        },
+        {
+          "version": "2024.50.0",
+          "date": "2024-12-25 16:57:02",
+          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2024.50.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1139",
+          "size": 181193932
+        },
+        {
+          "version": "2024.50.1",
+          "date": "2025-01-10 18:25:47",
+          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2024.50.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1176",
+          "size": 141547274
+        },
+        {
+          "version": "2025.05.0",
+          "date": "2025-02-05 19:06:50",
+          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2025.05.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1202",
+          "size": 138443489
+        },
+        {
+          "version": "2025.11.0",
+          "date": "2025-03-19 18:25:15",
+          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2025.11.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1297",
+          "size": 153511526
+        },
+        {
+          "version": "2025.11.0",
+          "date": "2025-03-19 18:25:15",
+          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2025.11.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
+          "size": 153511526
+        }
+      ],
+      "version": "2025.11.0",
+      "versionDate": "2025-03-19 18:25:15",
+      "versionDescription": "Features:\r\n- RedditFilter\r\n- RedditSideloadFix\r\n- Redditcache\r\n- RedditCacheCleaner\r\n- RedditUndoScrollUp\r\n- ColorComments",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
+      "formatedsize": "146.4 MB",
+      "size": 153511526
+    },
+    {
       "name": "Shadowrocket - VPN",
       "bundleIdentifier": "com.liguangming.Shadowrocket",
       "developerName": "Rule based proxy utility",
@@ -5026,46 +5094,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1062",
       "formatedsize": "373.6 MB",
       "size": 391747993
-    },
-    {
-      "name": "Bridge Race (Hack)",
-      "bundleIdentifier": "com.Garawell.BridgeRace",
-      "developerName": "BabylonIPA",
-      "subtitle": "Hack Features:\r\n\r\n- Infinite Coins\r\n- No Ads",
-      "localizedDescription": "Hack Features:\r\n\r\n- Infinite Coins\r\n- No Ads\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.Garawell.BridgeRace\n\n Downloads: 582\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1732787118.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17327871175767510262.webp",
-        "https://apps.nabzclan.vip/screenshots/17327871176676925393.webp",
-        "https://apps.nabzclan.vip/screenshots/17327871177372775327.webp",
-        "https://apps.nabzclan.vip/screenshots/17327871178157962271.webp",
-        "https://apps.nabzclan.vip/screenshots/17327871178905272905.webp",
-        "https://apps.nabzclan.vip/screenshots/17327871179707685828.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.59",
-          "date": "2024-11-28 04:45:18",
-          "localizedDescription": "Current of Bridge Race (Hack) - 3.59",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1061",
-          "size": 230372147
-        },
-        {
-          "version": "3.59",
-          "date": "2024-11-28 04:45:18",
-          "localizedDescription": "Old Version of Bridge Race (Hack) - 3.59",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1061",
-          "size": 230372147
-        }
-      ],
-      "version": "3.59",
-      "versionDate": "2024-11-28 04:45:18",
-      "versionDescription": "Hack Features:\r\n\r\n- Infinite Coins\r\n- No Ads",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1061",
-      "formatedsize": "219.7 MB",
-      "size": 230372147
     }
   ],
   "userInfo": {}

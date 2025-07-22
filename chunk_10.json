@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "The Wolf Online RPG Simulator - (hack)",
+      "bundleIdentifier": "com.swiftappskom.thewolfrpg",
+      "developerName": "BabyloniPA",
+      "subtitle": "Hack Features:\r\n- Free Store\r\n- Free Upgrades",
+      "localizedDescription": "Hack Features:\r\n- Free Store\r\n- Free Upgrades\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.swiftappskom.thewolfrpg\n\n Downloads: 208\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726056412.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17260564105368658254.webp",
+        "https://apps.nabzclan.vip/screenshots/17260564108818965866.webp",
+        "https://apps.nabzclan.vip/screenshots/17260564110454518584.webp",
+        "https://apps.nabzclan.vip/screenshots/17260564112722438458.webp",
+        "https://apps.nabzclan.vip/screenshots/17260564115855829617.webp",
+        "https://apps.nabzclan.vip/screenshots/17260564117758845904.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.5.0",
+          "date": "2024-09-11 16:06:52",
+          "localizedDescription": "Current of The Wolf Online RPG Simulator - (hack) - 3.5.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/528",
+          "size": 144200171
+        },
+        {
+          "version": "3.5.0",
+          "date": "2024-09-11 16:06:52",
+          "localizedDescription": "Old Version of The Wolf Online RPG Simulator - (hack) - 3.5.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/528",
+          "size": 144200171
+        }
+      ],
+      "version": "3.5.0",
+      "versionDate": "2024-09-11 16:06:52",
+      "versionDescription": "Hack Features:\r\n- Free Store\r\n- Free Upgrades",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/528",
+      "formatedsize": "137.52 MB",
+      "size": 144200171
+    },
+    {
       "name": "ZiniTevi",
       "bundleIdentifier": "app.ios. ZiniTevi",
       "developerName": "ZiniTevi team",
@@ -2954,17 +2994,6 @@
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png"
-    },
-    {
-      "name": "QuakeFeedPremium",
-      "bundleIdentifier": "com.artisanglobal.quakefeed",
-      "version": "6.3.5",
-      "versionDate": "2024-10-12",
-      "size": 61336181,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuakeFeedPremium/QuakeFeedPremium-6.3.5.ipa",
-      "developerName": "zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png"
     }
   ],
   "userInfo": {}

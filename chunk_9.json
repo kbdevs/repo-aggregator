@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Bridge Race (Hack)",
+      "bundleIdentifier": "com.Garawell.BridgeRace",
+      "developerName": "BabylonIPA",
+      "subtitle": "Hack Features:\r\n\r\n- Infinite Coins\r\n- No Ads",
+      "localizedDescription": "Hack Features:\r\n\r\n- Infinite Coins\r\n- No Ads\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.Garawell.BridgeRace\n\n Downloads: 582\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1732787118.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17327871175767510262.webp",
+        "https://apps.nabzclan.vip/screenshots/17327871176676925393.webp",
+        "https://apps.nabzclan.vip/screenshots/17327871177372775327.webp",
+        "https://apps.nabzclan.vip/screenshots/17327871178157962271.webp",
+        "https://apps.nabzclan.vip/screenshots/17327871178905272905.webp",
+        "https://apps.nabzclan.vip/screenshots/17327871179707685828.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.59",
+          "date": "2024-11-28 04:45:18",
+          "localizedDescription": "Current of Bridge Race (Hack) - 3.59",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1061",
+          "size": 230372147
+        },
+        {
+          "version": "3.59",
+          "date": "2024-11-28 04:45:18",
+          "localizedDescription": "Old Version of Bridge Race (Hack) - 3.59",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1061",
+          "size": 230372147
+        }
+      ],
+      "version": "3.59",
+      "versionDate": "2024-11-28 04:45:18",
+      "versionDescription": "Hack Features:\r\n\r\n- Infinite Coins\r\n- No Ads",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1061",
+      "formatedsize": "219.7 MB",
+      "size": 230372147
+    },
+    {
       "name": "Ball Blast Cannon blitz mania (Hack)",
       "bundleIdentifier": "com.nomonkeys.ball-blast",
       "developerName": "babylon",
@@ -4949,46 +4989,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/541",
       "formatedsize": "76.9 MB",
       "size": 80635494
-    },
-    {
-      "name": "The Wolf Online RPG Simulator - (hack)",
-      "bundleIdentifier": "com.swiftappskom.thewolfrpg",
-      "developerName": "BabyloniPA",
-      "subtitle": "Hack Features:\r\n- Free Store\r\n- Free Upgrades",
-      "localizedDescription": "Hack Features:\r\n- Free Store\r\n- Free Upgrades\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.swiftappskom.thewolfrpg\n\n Downloads: 208\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726056412.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17260564105368658254.webp",
-        "https://apps.nabzclan.vip/screenshots/17260564108818965866.webp",
-        "https://apps.nabzclan.vip/screenshots/17260564110454518584.webp",
-        "https://apps.nabzclan.vip/screenshots/17260564112722438458.webp",
-        "https://apps.nabzclan.vip/screenshots/17260564115855829617.webp",
-        "https://apps.nabzclan.vip/screenshots/17260564117758845904.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.5.0",
-          "date": "2024-09-11 16:06:52",
-          "localizedDescription": "Current of The Wolf Online RPG Simulator - (hack) - 3.5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/528",
-          "size": 144200171
-        },
-        {
-          "version": "3.5.0",
-          "date": "2024-09-11 16:06:52",
-          "localizedDescription": "Old Version of The Wolf Online RPG Simulator - (hack) - 3.5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/528",
-          "size": 144200171
-        }
-      ],
-      "version": "3.5.0",
-      "versionDate": "2024-09-11 16:06:52",
-      "versionDescription": "Hack Features:\r\n- Free Store\r\n- Free Upgrades",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/528",
-      "formatedsize": "137.52 MB",
-      "size": 144200171
     }
   ],
   "userInfo": {}

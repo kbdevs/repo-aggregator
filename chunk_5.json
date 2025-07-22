@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Zinnia",
+      "type": 1,
+      "bundleID": "com.pixite.Zinnia",
+      "bundleIdentifier": "com.pixite.Zinnia",
+      "version": "1.39.1",
+      "versionDate": "2025-06-12",
+      "fullDate": "20250612153952",
+      "size": 85526515,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Zinnia_1.39.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Zinnia_1.39.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.Zinnia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.Zinnia.png"
+    },
+    {
       "name": "PianoStar",
       "type": 2,
       "bundleID": "com.piano.star.tiles.music.circles.dancing.beat.magic",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.qianfan.aihomework.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.qianfan.aihomework.png"
-    },
-    {
-      "name": "CombatMaster",
-      "type": 2,
-      "bundleID": "com.AlfaBravo.CombatMaster",
-      "bundleIdentifier": "com.AlfaBravo.CombatMaster",
-      "version": "0.25.27",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527152955",
-      "size": 1407197686,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png"
     }
   ],
   "userInfo": {}

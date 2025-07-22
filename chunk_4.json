@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "NutriCoach",
+      "type": 1,
+      "bundleID": "nutrition.coach",
+      "bundleIdentifier": "nutrition.coach",
+      "version": "1.7.0",
+      "versionDate": "2025-06-24",
+      "fullDate": "20250624195239",
+      "size": 45989466,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/NutriCoach_1.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/NutriCoach_1.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png"
+    },
+    {
+      "name": "Infuse",
+      "type": 1,
+      "bundleID": "com.firecore.infuse",
+      "bundleIdentifier": "com.firecore.infuse",
+      "version": "8.1.9",
+      "versionDate": "2025-06-24",
+      "fullDate": "20250624194224",
+      "size": 73301122,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Infuse_8.1.9_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Infuse_8.1.9_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png"
+    },
+    {
       "name": "SurvivalArena",
       "type": 2,
       "bundleID": "tower.defense.survival.arena",
@@ -50,22 +82,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png"
-    },
-    {
-      "name": "Lightroom",
-      "type": 1,
-      "bundleID": "com.adobe.lrmobilephone",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "version": "10.4.1",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624145015",
-      "size": 185354065,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Lightroom_10.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Lightroom_10.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
     },
     {
       "name": "Sleep",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nibbleapps.MealPrepPro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nibbleapps.MealPrepPro.png"
-    },
-    {
-      "name": "Zinnia",
-      "type": 1,
-      "bundleID": "com.pixite.Zinnia",
-      "bundleIdentifier": "com.pixite.Zinnia",
-      "version": "1.39.1",
-      "versionDate": "2025-06-12",
-      "fullDate": "20250612153952",
-      "size": 85526515,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Zinnia_1.39.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Zinnia_1.39.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.Zinnia.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.Zinnia.png"
     }
   ],
   "userInfo": {}

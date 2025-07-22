@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "CombatMaster",
+      "type": 2,
+      "bundleID": "com.AlfaBravo.CombatMaster",
+      "bundleIdentifier": "com.AlfaBravo.CombatMaster",
+      "version": "0.25.27",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527152955",
+      "size": 1407197686,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png"
+    },
+    {
       "name": "ATHENABloodTwins",
       "type": 2,
       "bundleID": "com.eu.eud3",
@@ -1092,22 +1108,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/soccer.score.star.png"
     },
     {
-      "name": "Heartify",
-      "type": 1,
-      "bundleID": "com.heartify",
-      "bundleIdentifier": "com.heartify",
-      "version": "2.4.4",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510164620",
-      "size": 196559981,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Heartify_2.4.4_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Heartify_2.4.4_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png"
-    },
-    {
       "name": "Township",
       "type": 2,
       "bundleID": "com.playrix.township-ios",
@@ -1684,6 +1684,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png"
     },
     {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
       "name": "SkyGuide",
       "type": 1,
       "bundleID": "com.fifthstarlabs.skyguide",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with Crack",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png"
-    },
-    {
-      "name": "Photoapp",
-      "type": 1,
-      "bundleID": "com.scaleup.photofx",
-      "bundleIdentifier": "com.scaleup.photofx",
-      "version": "2.7.5",
-      "versionDate": "2025-03-07",
-      "fullDate": "20250307013949",
-      "size": 345282976,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Photoapp_2.7.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Photoapp_2.7.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png"
     }
   ],
   "userInfo": {}

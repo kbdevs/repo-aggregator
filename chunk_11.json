@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "QuakeFeedPremium",
+      "bundleIdentifier": "com.artisanglobal.quakefeed",
+      "version": "6.3.5",
+      "versionDate": "2024-10-12",
+      "size": 61336181,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuakeFeedPremium/QuakeFeedPremium-6.3.5.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png"
+    },
+    {
       "name": "PostedPlus",
       "bundleIdentifier": "live.posted.Posted",
       "version": "1.3.5",
@@ -1843,33 +1854,6 @@
           "sha256": "fe1eda29ab29ad408430934a35b9d46b08e10edd7eea50b072b2b54b16b1c182"
         }
       ]
-    },
-    {
-      "name": "PPSSPP",
-      "bundleIdentifier": "org.ppsspp.ppsspp",
-      "developerName": "Henrik Rydg\u00e5rd",
-      "subtitle": "PlayStation Portable games on iOS.",
-      "localizedDescription": "PPSSPP can run your PSP games on your iPhone and iPad in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. Even on modern iPhones and iPads, you can often run at double the original resolution.",
-      "iconURL": "https://i.imgur.com/JP0Fncv.png",
-      "tintColor": "#21486b",
-      "screenshotURLs": [
-        "https://i.imgur.com/CWl6GgH.png",
-        "https://i.imgur.com/SxmN1M0.png",
-        "https://i.imgur.com/sGWgR6z.png",
-        "https://i.imgur.com/AFKTdmZ.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "1.13.2",
-          "version": "1.13.2",
-          "date": "2022-09-18T23:59:49Z",
-          "localizedDescription": "# v1.13.2\n\n",
-          "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-          "size": 14509458,
-          "sha256": "15868764789f1187ae3ed73cb7a3c9c599c9de18239a73f5cdd51fdfdcfda66d"
-        }
-      ],
-      "appID": "org.ppsspp.ppsspp"
     }
   ],
   "userInfo": {}
