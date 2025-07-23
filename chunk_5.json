@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "VideoShow",
+      "type": 1,
+      "bundleID": "com.enjoy.VideoShow",
+      "bundleIdentifier": "com.enjoy.VideoShow",
+      "version": "5.10.100",
+      "versionDate": "2025-06-13",
+      "fullDate": "20250613052740",
+      "size": 271124913,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/VideoShow_5.10.100_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/VideoShow_5.10.100_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png"
+    },
+    {
+      "name": "UniDream",
+      "type": 1,
+      "bundleID": "com.thirteenleafclover.art.generator",
+      "bundleIdentifier": "com.thirteenleafclover.art.generator",
+      "version": "6.8.5",
+      "versionDate": "2025-06-12",
+      "fullDate": "20250612205251",
+      "size": 170130280,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/UniDream_6.8.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/UniDream_6.8.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thirteenleafclover.art.generator.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thirteenleafclover.art.generator.png"
+    },
+    {
+      "name": "MealPrepPro",
+      "type": 1,
+      "bundleID": "com.nibbleapps.MealPrepPro",
+      "bundleIdentifier": "com.nibbleapps.MealPrepPro",
+      "version": "3.117",
+      "versionDate": "2025-06-12",
+      "fullDate": "20250612154517",
+      "size": 141679720,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/MealPrepPro_3.117_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/MealPrepPro_3.117_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nibbleapps.MealPrepPro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nibbleapps.MealPrepPro.png"
+    },
+    {
       "name": "Zinnia",
       "type": 1,
       "bundleID": "com.pixite.Zinnia",
@@ -194,22 +242,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
-    },
-    {
-      "name": "Reels",
-      "type": 1,
-      "bundleID": "com.TetianaKolomiichuk.Reel-Templates",
-      "bundleIdentifier": "com.TetianaKolomiichuk.Reel-Templates",
-      "version": "3.1",
-      "versionDate": "2025-06-10",
-      "fullDate": "20250610234700",
-      "size": 122020039,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/Reels_3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/Reels_3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png"
     },
     {
       "name": "TrainofHope",
@@ -562,22 +594,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png"
-    },
-    {
-      "name": "iLovePDF",
-      "type": 1,
-      "bundleID": "com.ilovepdf.www",
-      "bundleIdentifier": "com.ilovepdf.www",
-      "version": "3.12.2",
-      "versionDate": "2025-06-06",
-      "fullDate": "20250606124234",
-      "size": 160531845,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/iLovePDF_3.12.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/iLovePDF_3.12.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png"
     },
     {
       "name": "TinyDecisions",
@@ -1250,22 +1266,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/design.yugen.Flow.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/design.yugen.Flow.png"
-    },
-    {
-      "name": "OfflineMusic",
-      "type": 1,
-      "bundleID": "com.offlinemusic",
-      "bundleIdentifier": "com.offlinemusic",
-      "version": "3.6.2",
-      "versionDate": "2025-05-30",
-      "fullDate": "20250530231808",
-      "size": 91514057,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/OfflineMusic_3.6.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/OfflineMusic_3.6.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png"
     },
     {
       "name": "Calculator",
