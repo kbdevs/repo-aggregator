@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "MyHotel",
+      "type": 2,
+      "bundleID": "com.master.hotelmaster",
+      "bundleIdentifier": "com.master.hotelmaster",
+      "version": "1.22.5",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528134955",
+      "size": 160244717,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/MyHotel_1.22.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/MyHotel_1.22.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.master.hotelmaster.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.master.hotelmaster.png"
+    },
+    {
+      "name": "QuestionAI",
+      "type": 1,
+      "bundleID": "com.qianfan.aihomework",
+      "bundleIdentifier": "com.qianfan.aihomework",
+      "version": "3.3.6",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528035236",
+      "size": 65962409,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/QuestionAI_3.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/QuestionAI_3.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.qianfan.aihomework.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.qianfan.aihomework.png"
+    },
+    {
       "name": "CombatMaster",
       "type": 2,
       "bundleID": "com.AlfaBravo.CombatMaster",
@@ -1906,38 +1938,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png"
-    },
-    {
-      "name": "Videocompress",
-      "type": 1,
-      "bundleID": "com.photoclean.videocompress",
-      "bundleIdentifier": "com.photoclean.videocompress",
-      "version": "2.22",
-      "versionDate": "2025-03-11",
-      "fullDate": "20250311162804",
-      "size": 15164442,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2025/Videocompress_2.22_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2025/Videocompress_2.22_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png"
-    },
-    {
-      "name": "Life360",
-      "type": 1,
-      "bundleID": "com.life360.safetymap",
-      "bundleIdentifier": "com.life360.safetymap",
-      "version": "25.8.0",
-      "versionDate": "2025-03-07",
-      "fullDate": "20250307014534",
-      "size": 134519801,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Life360_25.8.0_Crack_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Life360_25.8.0_Crack_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Crack",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png"
     }
   ],
   "userInfo": {}

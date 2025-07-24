@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Videocompress",
+      "type": 1,
+      "bundleID": "com.photoclean.videocompress",
+      "bundleIdentifier": "com.photoclean.videocompress",
+      "version": "2.22",
+      "versionDate": "2025-03-11",
+      "fullDate": "20250311162804",
+      "size": 15164442,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2025/Videocompress_2.22_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2025/Videocompress_2.22_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png"
+    },
+    {
+      "name": "Life360",
+      "type": 1,
+      "bundleID": "com.life360.safetymap",
+      "bundleIdentifier": "com.life360.safetymap",
+      "version": "25.8.0",
+      "versionDate": "2025-03-07",
+      "fullDate": "20250307014534",
+      "size": 134519801,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Life360_25.8.0_Crack_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Life360_25.8.0_Crack_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Crack",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png"
+    },
+    {
       "name": "Photoapp",
       "type": 1,
       "bundleID": "com.scaleup.photofx",
@@ -530,22 +562,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png"
-    },
-    {
-      "name": "Autocad",
-      "type": 1,
-      "bundleID": "com.autodesk.autocadws",
-      "bundleIdentifier": "com.autodesk.autocadws",
-      "version": "6.16.0",
-      "versionDate": "2025-02-02",
-      "fullDate": "20250202115736",
-      "size": 199861356,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Autocad_6.16.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Autocad_6.16.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.autodesk.autocadws.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.autodesk.autocadws.png"
     },
     {
       "name": "OpusVpn",
@@ -1728,46 +1744,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1360",
       "formatedsize": "14.21 MB",
       "size": 14900264
-    },
-    {
-      "name": "Blitzer.de PRO (hacked)",
-      "bundleIdentifier": "com.eifrig.blitzerdepro",
-      "developerName": "Eifrig Media",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\r\n\r\n-----\r\n\r\nThe best traffic safety app!\r\nBlitzer.de PRO keeps you informed with live alerts on mobile and fixed hazards, breakdowns, accidents, traffic jams, and more in your vicinity. Join Europe's largest and most well-known traffic community with over 5 million active users, making your car journey safer and more relaxed.",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\r\n\r\n-----\r\n\r\nThe best traffic safety app!\r\nBlitzer.de PRO keeps you informed with live alerts on mobile and fixed hazards, breakdowns, accidents, traffic jams, and more in your vicinity. Join Europe's largest and most well-known traffic community with over 5 million active users, making your car journey safer and more relaxed.\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Free Paid Apps, Tweaked Apps\n\n BundleID: com.eifrig.blitzerdepro\n\n Downloads: 47\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1746849590.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17468495896548511584.webp",
-        "https://apps.nabzclan.vip/screenshots/17468495897707336791.webp",
-        "https://apps.nabzclan.vip/screenshots/17468495898442608905.webp",
-        "https://apps.nabzclan.vip/screenshots/17468495899176134851.webp",
-        "https://apps.nabzclan.vip/screenshots/17468495899937872963.webp",
-        "https://apps.nabzclan.vip/screenshots/17468495900564721264.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.1.3",
-          "date": "2025-05-09 23:59:50",
-          "localizedDescription": "Current of Blitzer.de PRO (hacked) - 4.1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1357",
-          "size": 39856373
-        },
-        {
-          "version": "4.1.3",
-          "date": "2025-05-09 23:59:50",
-          "localizedDescription": "Old Version of Blitzer.de PRO (hacked) - 4.1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1357",
-          "size": 39856373
-        }
-      ],
-      "version": "4.1.3",
-      "versionDate": "2025-05-09 23:59:50",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\r\n\r\n-----\r\n\r\nThe best traffic safety app!\r\nBlitzer.de PRO keeps you informed with live alerts on mobile and fixed hazards, breakdowns, accidents, traffic jams, and more in your vicinity. Join Europe's largest and most well-known traffic community with over 5 million active users, making your car journey safer and more relaxed.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1357",
-      "formatedsize": "38.01 MB",
-      "size": 39856373
     },
     {
       "name": "P12Cracker",
