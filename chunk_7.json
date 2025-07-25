@@ -4,20 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
-      "name": "Videocompress",
+      "name": "NcV17.126.6",
       "type": 1,
-      "bundleID": "com.photoclean.videocompress",
-      "bundleIdentifier": "com.photoclean.videocompress",
-      "version": "2.22",
-      "versionDate": "2025-03-11",
-      "fullDate": "20250311162804",
-      "size": 15164442,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2025/Videocompress_2.22_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2025/Videocompress_2.22_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "bundleID": "nt.nc.ios",
+      "bundleIdentifier": "nt.nc.ios",
+      "version": "17.126.6",
+      "versionDate": "2025-04-03",
+      "fullDate": "20250403235156",
+      "size": 325768630,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/NcV17.126.6_17.126.6_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/NcV17.126.6_17.126.6_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png"
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
+    },
+    {
+      "name": "Photosync",
+      "type": 1,
+      "bundleID": "com.touchbyte.PhotoSync",
+      "bundleIdentifier": "com.touchbyte.PhotoSync",
+      "version": "4.9.6",
+      "versionDate": "2025-04-03",
+      "fullDate": "20250403235122",
+      "size": 59717171,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/Photosync_4.9.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/Photosync_4.9.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png"
     },
     {
       "name": "Life360",
@@ -3152,60 +3168,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1301",
       "formatedsize": "64.24 MB",
       "size": 67360522
-    },
-    {
-      "name": "ES File explorer (Hack)",
-      "bundleIdentifier": "com.doglobal.ESFileExplorer",
-      "developerName": "Nabzclan",
-      "subtitle": "Features:\r\n- ProFutures Unlocked",
-      "localizedDescription": "Features:\r\n- ProFutures Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.doglobal.ESFileExplorer\n\n Downloads: 1126\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1705364221.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17053642149884407881.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642155547361822.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642158019762245.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642180302806352.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642185366327858.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642190086900382.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.8.4",
-          "date": "2025-03-19 18:51:23",
-          "localizedDescription": "Current of ES File explorer (Hack) - 2.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
-          "size": 133924126
-        },
-        {
-          "version": "2.8.0",
-          "date": "2024-12-20 18:04:31",
-          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1117",
-          "size": 142501478
-        },
-        {
-          "version": "2.8.3",
-          "date": "2025-02-24 18:23:12",
-          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1232",
-          "size": 139984896
-        },
-        {
-          "version": "2.8.4",
-          "date": "2025-03-19 18:51:23",
-          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
-          "size": 133924126
-        }
-      ],
-      "version": "2.8.4",
-      "versionDate": "2025-03-19 18:51:23",
-      "versionDescription": "Features:\r\n- ProFutures Unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
-      "formatedsize": "127.72 MB",
-      "size": 133924126
     }
   ],
   "userInfo": {}

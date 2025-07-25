@@ -4,6 +4,60 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "ES File explorer (Hack)",
+      "bundleIdentifier": "com.doglobal.ESFileExplorer",
+      "developerName": "Nabzclan",
+      "subtitle": "Features:\r\n- ProFutures Unlocked",
+      "localizedDescription": "Features:\r\n- ProFutures Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.doglobal.ESFileExplorer\n\n Downloads: 1126\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1705364221.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17053642149884407881.webp",
+        "https://apps.nabzclan.vip/screenshots/17053642155547361822.webp",
+        "https://apps.nabzclan.vip/screenshots/17053642158019762245.webp",
+        "https://apps.nabzclan.vip/screenshots/17053642180302806352.webp",
+        "https://apps.nabzclan.vip/screenshots/17053642185366327858.webp",
+        "https://apps.nabzclan.vip/screenshots/17053642190086900382.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.8.4",
+          "date": "2025-03-19 18:51:23",
+          "localizedDescription": "Current of ES File explorer (Hack) - 2.8.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
+          "size": 133924126
+        },
+        {
+          "version": "2.8.0",
+          "date": "2024-12-20 18:04:31",
+          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1117",
+          "size": 142501478
+        },
+        {
+          "version": "2.8.3",
+          "date": "2025-02-24 18:23:12",
+          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1232",
+          "size": 139984896
+        },
+        {
+          "version": "2.8.4",
+          "date": "2025-03-19 18:51:23",
+          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
+          "size": 133924126
+        }
+      ],
+      "version": "2.8.4",
+      "versionDate": "2025-03-19 18:51:23",
+      "versionDescription": "Features:\r\n- ProFutures Unlocked",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
+      "formatedsize": "127.72 MB",
+      "size": 133924126
+    },
+    {
       "name": "Reddit - Reddit Deluxe",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "Jack cracks",
@@ -5054,46 +5108,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
       "formatedsize": "150.68 MB",
       "size": 157999431
-    },
-    {
-      "name": "Flashback: Tricky Fun Riddles (Hacked)",
-      "bundleIdentifier": "com.matchingham.flashback.riddles.tricky",
-      "developerName": "Babylonipa",
-      "subtitle": "Hack Features :\r\n\r\n- Unlimited Hints\r\n- Unlimited Spins\r\n-Unlimited Coins\r\n- No Ads",
-      "localizedDescription": "Hack Features :\r\n\r\n- Unlimited Hints\r\n- Unlimited Spins\r\n-Unlimited Coins\r\n- No Ads\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.matchingham.flashback.riddles.tricky\n\n Downloads: 470\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1732787286.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17327872856217510911.webp",
-        "https://apps.nabzclan.vip/screenshots/17327872857541117359.webp",
-        "https://apps.nabzclan.vip/screenshots/17327872858466772346.webp",
-        "https://apps.nabzclan.vip/screenshots/17327872859132487752.webp",
-        "https://apps.nabzclan.vip/screenshots/17327872860185670328.webp",
-        "https://apps.nabzclan.vip/screenshots/17327872860906520637.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.1",
-          "date": "2024-11-28 04:48:06",
-          "localizedDescription": "Current of Flashback: Tricky Fun Riddles (Hacked) - 1.8.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1062",
-          "size": 391747993
-        },
-        {
-          "version": "1.8.1",
-          "date": "2024-11-28 04:48:06",
-          "localizedDescription": "Old Version of Flashback: Tricky Fun Riddles (Hacked) - 1.8.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1062",
-          "size": 391747993
-        }
-      ],
-      "version": "1.8.1",
-      "versionDate": "2024-11-28 04:48:06",
-      "versionDescription": "Hack Features :\r\n\r\n- Unlimited Hints\r\n- Unlimited Spins\r\n-Unlimited Coins\r\n- No Ads",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1062",
-      "formatedsize": "373.6 MB",
-      "size": 391747993
     }
   ],
   "userInfo": {}

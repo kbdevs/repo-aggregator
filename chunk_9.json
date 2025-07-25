@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Flashback: Tricky Fun Riddles (Hacked)",
+      "bundleIdentifier": "com.matchingham.flashback.riddles.tricky",
+      "developerName": "Babylonipa",
+      "subtitle": "Hack Features :\r\n\r\n- Unlimited Hints\r\n- Unlimited Spins\r\n-Unlimited Coins\r\n- No Ads",
+      "localizedDescription": "Hack Features :\r\n\r\n- Unlimited Hints\r\n- Unlimited Spins\r\n-Unlimited Coins\r\n- No Ads\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.matchingham.flashback.riddles.tricky\n\n Downloads: 470\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1732787286.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17327872856217510911.webp",
+        "https://apps.nabzclan.vip/screenshots/17327872857541117359.webp",
+        "https://apps.nabzclan.vip/screenshots/17327872858466772346.webp",
+        "https://apps.nabzclan.vip/screenshots/17327872859132487752.webp",
+        "https://apps.nabzclan.vip/screenshots/17327872860185670328.webp",
+        "https://apps.nabzclan.vip/screenshots/17327872860906520637.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.1",
+          "date": "2024-11-28 04:48:06",
+          "localizedDescription": "Current of Flashback: Tricky Fun Riddles (Hacked) - 1.8.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1062",
+          "size": 391747993
+        },
+        {
+          "version": "1.8.1",
+          "date": "2024-11-28 04:48:06",
+          "localizedDescription": "Old Version of Flashback: Tricky Fun Riddles (Hacked) - 1.8.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1062",
+          "size": 391747993
+        }
+      ],
+      "version": "1.8.1",
+      "versionDate": "2024-11-28 04:48:06",
+      "versionDescription": "Hack Features :\r\n\r\n- Unlimited Hints\r\n- Unlimited Spins\r\n-Unlimited Coins\r\n- No Ads",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1062",
+      "formatedsize": "373.6 MB",
+      "size": 391747993
+    },
+    {
       "name": "Bridge Race (Hack)",
       "bundleIdentifier": "com.Garawell.BridgeRace",
       "developerName": "BabylonIPA",
@@ -4954,41 +4994,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/543",
       "formatedsize": "32.9 MB",
       "size": 34498150
-    },
-    {
-      "name": "Angry Birds Star Wars II",
-      "bundleIdentifier": "com.rovio.angrybirdsstarwarsii",
-      "developerName": "Rovio Entertainment Ltd",
-      "subtitle": "Angry birds Star Wars is an angry birds Limited edition game and very few people have it now days this is Version 2 of it because rio saw that 1 blew up! If you miss this app well you don\u2019t need to miss it anymore it\u2019s here FREE on nabzclan ipa library",
-      "localizedDescription": "Angry birds Star Wars is an angry birds Limited edition game and very few people have it now days this is Version 2 of it because rio saw that 1 blew up! If you miss this app well you don\u2019t need to miss it anymore it\u2019s here FREE on nabzclan ipa library\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.rovio.angrybirdsstarwarsii\n\n Downloads: 567\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1698021984.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.9.24",
-          "date": "2024-09-15 04:31:34",
-          "localizedDescription": "Current of Angry Birds Star Wars II - 1.9.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/541",
-          "size": 80635494
-        },
-        {
-          "version": "1.9.24",
-          "date": "2024-09-15 04:31:34",
-          "localizedDescription": "Old Version of Angry Birds Star Wars II - 1.9.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/541",
-          "size": 80635494
-        }
-      ],
-      "version": "1.9.24",
-      "versionDate": "2024-09-15 04:31:34",
-      "versionDescription": "Angry birds Star Wars is an angry birds Limited edition game and very few people have it now days this is Version 2 of it because rio saw that 1 blew up! If you miss this app well you don\u2019t need to miss it anymore it\u2019s here FREE on nabzclan ipa library",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/541",
-      "formatedsize": "76.9 MB",
-      "size": 80635494
     }
   ],
   "userInfo": {}
