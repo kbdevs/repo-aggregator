@@ -4,41 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
-      "name": "Angry Birds Star Wars II",
-      "bundleIdentifier": "com.rovio.angrybirdsstarwarsii",
-      "developerName": "Rovio Entertainment Ltd",
-      "subtitle": "Angry birds Star Wars is an angry birds Limited edition game and very few people have it now days this is Version 2 of it because rio saw that 1 blew up! If you miss this app well you don\u2019t need to miss it anymore it\u2019s here FREE on nabzclan ipa library",
-      "localizedDescription": "Angry birds Star Wars is an angry birds Limited edition game and very few people have it now days this is Version 2 of it because rio saw that 1 blew up! If you miss this app well you don\u2019t need to miss it anymore it\u2019s here FREE on nabzclan ipa library\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.rovio.angrybirdsstarwarsii\n\n Downloads: 567\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1698021984.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.9.24",
-          "date": "2024-09-15 04:31:34",
-          "localizedDescription": "Current of Angry Birds Star Wars II - 1.9.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/541",
-          "size": 80635494
-        },
-        {
-          "version": "1.9.24",
-          "date": "2024-09-15 04:31:34",
-          "localizedDescription": "Old Version of Angry Birds Star Wars II - 1.9.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/541",
-          "size": 80635494
-        }
-      ],
-      "version": "1.9.24",
-      "versionDate": "2024-09-15 04:31:34",
-      "versionDescription": "Angry birds Star Wars is an angry birds Limited edition game and very few people have it now days this is Version 2 of it because rio saw that 1 blew up! If you miss this app well you don\u2019t need to miss it anymore it\u2019s here FREE on nabzclan ipa library",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/541",
-      "formatedsize": "76.9 MB",
-      "size": 80635494
-    },
-    {
       "name": "The Wolf Online RPG Simulator - (hack)",
       "bundleIdentifier": "com.swiftappskom.thewolfrpg",
       "developerName": "BabyloniPA",
@@ -3018,6 +2983,28 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
+    },
+    {
+      "name": "QuantumultX",
+      "bundleIdentifier": "com.crossutility.quantumult-x",
+      "version": "1.4.2",
+      "versionDate": "2024-10-12",
+      "size": 16180965,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuantumultX/QuantumultX-1.4.2.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png"
+    },
+    {
+      "name": "QuakeFeedPremium",
+      "bundleIdentifier": "com.artisanglobal.quakefeed",
+      "version": "6.3.5",
+      "versionDate": "2024-10-12",
+      "size": 61336181,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuakeFeedPremium/QuakeFeedPremium-6.3.5.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png"
     }
   ],
   "userInfo": {}

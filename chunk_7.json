@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Bunny",
+      "type": 2,
+      "bundleID": "com.hammerandchisel.discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "version": "275.0",
+      "versionDate": "2025-04-28",
+      "fullDate": "20250428132647",
+      "size": 89348192,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Bunny_275.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Bunny_275.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hammerandchisel.discord.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hammerandchisel.discord.png"
+    },
+    {
+      "name": "APTV",
+      "type": 1,
+      "bundleID": "com.kimen.aptvpro",
+      "bundleIdentifier": "com.kimen.aptvpro",
+      "version": "9.4.6",
+      "versionDate": "2025-04-28",
+      "fullDate": "20250428024256",
+      "size": 45529084,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/APTV_9.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/APTV_9.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kimen.aptvpro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kimen.aptvpro.png"
+    },
+    {
+      "name": "PhotifyAi",
+      "type": 1,
+      "bundleID": "com.apps.PhotifyAI",
+      "bundleIdentifier": "com.apps.PhotifyAI",
+      "version": "2.4.1",
+      "versionDate": "2025-04-04",
+      "fullDate": "20250404000430",
+      "size": 81802809,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/PhotifyAi_2.4.1_Subscription_IAP_Patched_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/PhotifyAi_2.4.1_Subscription_IAP_Patched_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription IAP Patched",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apps.PhotifyAI.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apps.PhotifyAI.png"
+    },
+    {
+      "name": "WizardAi",
+      "type": 1,
+      "bundleID": "com.oneMoreThing.AI-LivePainting",
+      "bundleIdentifier": "com.oneMoreThing.AI-LivePainting",
+      "version": "9.4.2",
+      "versionDate": "2025-04-04",
+      "fullDate": "20250404000229",
+      "size": 85479170,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/WizardAi_9.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/WizardAi_9.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oneMoreThing.AI-LivePainting.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oneMoreThing.AI-LivePainting.png"
+    },
+    {
       "name": "NcV17.126.6",
       "type": 1,
       "bundleID": "nt.nc.ios",
@@ -306,22 +370,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png"
-    },
-    {
-      "name": "Walli",
-      "type": 1,
-      "bundleID": "com.stanga.projectKu",
-      "bundleIdentifier": "com.stanga.projectKu",
-      "version": "1.86.0",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011022",
-      "size": 118729263,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Walli_1.86.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Walli_1.86.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png"
     },
     {
       "name": "Dehancer",
@@ -1090,22 +1138,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sanfanstudios.universal.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sanfanstudios.universal.png"
-    },
-    {
-      "name": "B612",
-      "type": 1,
-      "bundleID": "com.linecorp.b612",
-      "bundleIdentifier": "com.linecorp.b612",
-      "version": "13.5.10",
-      "versionDate": "2024-12-05",
-      "fullDate": "20241205190303",
-      "size": 127816070,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/B612_13.5.10_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/B612_13.5.10_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png"
     },
     {
       "name": "Spark",
@@ -3128,46 +3160,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
       "formatedsize": "1.98 GB",
       "size": 2126008811
-    },
-    {
-      "name": "GoodMama (Hacked)",
-      "bundleIdentifier": "com.mummy.happyMama.ios",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.mummy.happyMama.ios\n\n Downloads: 100\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742425022.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17424250166598710572.webp",
-        "https://apps.nabzclan.vip/screenshots/17424250176074222549.webp",
-        "https://apps.nabzclan.vip/screenshots/17424250180644180168.webp",
-        "https://apps.nabzclan.vip/screenshots/17424250185695841110.webp",
-        "https://apps.nabzclan.vip/screenshots/17424250186964711323.webp",
-        "https://apps.nabzclan.vip/screenshots/17424250214005287102.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.1",
-          "date": "2025-03-19 18:57:02",
-          "localizedDescription": "Current of GoodMama (Hacked) - 1.5.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1301",
-          "size": 67360522
-        },
-        {
-          "version": "1.5.1",
-          "date": "2025-03-19 18:57:02",
-          "localizedDescription": "Old Version of GoodMama (Hacked) - 1.5.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1301",
-          "size": 67360522
-        }
-      ],
-      "version": "1.5.1",
-      "versionDate": "2025-03-19 18:57:02",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1301",
-      "formatedsize": "64.24 MB",
-      "size": 67360522
     }
   ],
   "userInfo": {}

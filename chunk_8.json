@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "GoodMama (Hacked)",
+      "bundleIdentifier": "com.mummy.happyMama.ios",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.mummy.happyMama.ios\n\n Downloads: 100\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1742425022.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17424250166598710572.webp",
+        "https://apps.nabzclan.vip/screenshots/17424250176074222549.webp",
+        "https://apps.nabzclan.vip/screenshots/17424250180644180168.webp",
+        "https://apps.nabzclan.vip/screenshots/17424250185695841110.webp",
+        "https://apps.nabzclan.vip/screenshots/17424250186964711323.webp",
+        "https://apps.nabzclan.vip/screenshots/17424250214005287102.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5.1",
+          "date": "2025-03-19 18:57:02",
+          "localizedDescription": "Current of GoodMama (Hacked) - 1.5.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1301",
+          "size": 67360522
+        },
+        {
+          "version": "1.5.1",
+          "date": "2025-03-19 18:57:02",
+          "localizedDescription": "Old Version of GoodMama (Hacked) - 1.5.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1301",
+          "size": 67360522
+        }
+      ],
+      "version": "1.5.1",
+      "versionDate": "2025-03-19 18:57:02",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1301",
+      "formatedsize": "64.24 MB",
+      "size": 67360522
+    },
+    {
       "name": "ES File explorer (Hack)",
       "bundleIdentifier": "com.doglobal.ESFileExplorer",
       "developerName": "Nabzclan",
