@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Acrobat",
+      "type": 1,
+      "bundleID": "com.adobe.Adobe-Reader",
+      "bundleIdentifier": "com.adobe.Adobe-Reader",
+      "version": "25.06.05",
+      "versionDate": "2025-07-10",
+      "fullDate": "20250710165321",
+      "size": 203870762,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Acrobat_25.06.05_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Acrobat_25.06.05_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png"
+    },
+    {
       "name": "SigStick",
       "type": 1,
       "bundleID": "com.ooeric.SignStick1",
@@ -162,22 +178,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png"
-    },
-    {
-      "name": "Monet",
-      "type": 1,
-      "bundleID": "co.appnation.artgenerator",
-      "bundleIdentifier": "co.appnation.artgenerator",
-      "version": "3.5.5",
-      "versionDate": "2025-07-09",
-      "fullDate": "20250709131200",
-      "size": 64554190,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Monet_3.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Monet_3.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.artgenerator.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.artgenerator.png"
     },
     {
       "name": "PDFExpert",

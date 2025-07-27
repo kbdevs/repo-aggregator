@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Calm",
+      "type": 1,
+      "bundleID": "com.calm.calmapp",
+      "bundleIdentifier": "com.calm.calmapp",
+      "version": "6.75",
+      "versionDate": "2025-07-22",
+      "fullDate": "20250722000938",
+      "size": 117000720,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Calm_6.75_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Calm_6.75_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png"
+    },
+    {
+      "name": "Threads",
+      "type": 1,
+      "bundleID": "com.burbn.barcelona",
+      "bundleIdentifier": "com.burbn.barcelona",
+      "version": "390.0.0",
+      "versionDate": "2025-07-21",
+      "fullDate": "20250721234933",
+      "size": 55293482,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Threads_390.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Threads_390.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png"
+    },
+    {
+      "name": "Elevate",
+      "type": 2,
+      "bundleID": "com.elevateapp.elevate",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "version": "5.199.0",
+      "versionDate": "2025-07-21",
+      "fullDate": "20250721234339",
+      "size": 340958575,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Elevate_5.199.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Elevate_5.199.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png"
+    },
+    {
       "name": "CHANI",
       "type": 1,
       "bundleID": "com.chaninicholas.chaniapp",
@@ -178,22 +226,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png"
-    },
-    {
-      "name": "Clarity",
-      "type": 1,
-      "bundleID": "com.moodtools.thoughtdiary",
-      "bundleIdentifier": "com.moodtools.thoughtdiary",
-      "version": "5.4.97",
-      "versionDate": "2025-07-21",
-      "fullDate": "20250721135635",
-      "size": 207571387,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Clarity_5.4.97_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Clarity_5.4.97_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png"
     },
     {
       "name": "SCRL",
@@ -450,22 +482,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
-    },
-    {
-      "name": "PeakVisor",
-      "type": 1,
-      "bundleID": "ru.routes.peakvisor",
-      "bundleIdentifier": "ru.routes.peakvisor",
-      "version": "5.63",
-      "versionDate": "2025-07-19",
-      "fullDate": "20250719211602",
-      "size": 110937969,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/PeakVisor_5.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/PeakVisor_5.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
     },
     {
       "name": "MuslimPro",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png"
-    },
-    {
-      "name": "Acrobat",
-      "type": 1,
-      "bundleID": "com.adobe.Adobe-Reader",
-      "bundleIdentifier": "com.adobe.Adobe-Reader",
-      "version": "25.06.05",
-      "versionDate": "2025-07-10",
-      "fullDate": "20250710165321",
-      "size": 203870762,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Acrobat_25.06.05_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Acrobat_25.06.05_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png"
     }
   ],
   "userInfo": {}
