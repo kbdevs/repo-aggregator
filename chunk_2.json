@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Lampa",
+      "type": 1,
+      "bundleID": "com.lampa.photo",
+      "bundleIdentifier": "com.lampa.photo",
+      "version": "1.6.0",
+      "versionDate": "2025-07-22",
+      "fullDate": "20250722072536",
+      "size": 62164027,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Lampa_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Lampa_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png"
+    },
+    {
+      "name": "KineMaster",
+      "type": 1,
+      "bundleID": "com.kinemaster.kios",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "version": "7.7.7",
+      "versionDate": "2025-07-22",
+      "fullDate": "20250722065028",
+      "size": 111793391,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/KineMaster_7.7.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/KineMaster_7.7.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
+    },
+    {
+      "name": "Pixly",
+      "type": 1,
+      "bundleID": "co.comapps.live.photo",
+      "bundleIdentifier": "co.comapps.live.photo",
+      "version": "1.24",
+      "versionDate": "2025-07-22",
+      "fullDate": "20250722053018",
+      "size": 103806754,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Pixly_1.24_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Pixly_1.24_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.comapps.live.photo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.comapps.live.photo.png"
+    },
+    {
+      "name": "Instagram",
+      "type": 1,
+      "bundleID": "com.burbn.instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "390.0.0",
+      "versionDate": "2025-07-22",
+      "fullDate": "20250722012448",
+      "size": 235719586,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Instagram_390.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Instagram_390.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png"
+    },
+    {
       "name": "Calm",
       "type": 1,
       "bundleID": "com.calm.calmapp",
@@ -564,22 +628,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png"
     },
     {
-      "name": "CalculatorAir",
-      "type": 1,
-      "bundleID": "com.CalculatorForiPad.InternetRocks",
-      "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
-      "version": "2025.7.1",
-      "versionDate": "2025-07-18",
-      "fullDate": "20250718183105",
-      "size": 113341200,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/CalculatorAir_2025.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/CalculatorAir_2025.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png"
-    },
-    {
       "name": "Bearable",
       "type": 1,
       "bundleID": "co.codeleap.bearable",
@@ -946,22 +994,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png"
-    },
-    {
-      "name": "PicsArt",
-      "type": 1,
-      "bundleID": "com.picsart.studio",
-      "bundleIdentifier": "com.picsart.studio",
-      "version": "27.9.3",
-      "versionDate": "2025-07-16",
-      "fullDate": "20250716231218",
-      "size": 109564392,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/PicsArt_27.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/PicsArt_27.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
     },
     {
       "name": "Stndrd",
@@ -1362,22 +1394,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png"
-    },
-    {
-      "name": "Coconote",
-      "type": 1,
-      "bundleID": "com.bbauman.Scripty",
-      "bundleIdentifier": "com.bbauman.Scripty",
-      "version": "2.03",
-      "versionDate": "2025-07-14",
-      "fullDate": "20250714221500",
-      "size": 32506546,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Coconote_2.03_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Coconote_2.03_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png"
     },
     {
       "name": "Flightradar24",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with IGG",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png"
-    },
-    {
-      "name": "FLTR",
-      "type": 1,
-      "bundleID": "com.feelty",
-      "bundleIdentifier": "com.feelty",
-      "version": "4.18.13",
-      "versionDate": "2025-07-10",
-      "fullDate": "20250710175847",
-      "size": 90993022,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/FLTR_4.18.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/FLTR_4.18.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png"
     }
   ],
   "userInfo": {}

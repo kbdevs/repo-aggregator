@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "FLTR",
+      "type": 1,
+      "bundleID": "com.feelty",
+      "bundleIdentifier": "com.feelty",
+      "version": "4.18.13",
+      "versionDate": "2025-07-10",
+      "fullDate": "20250710175847",
+      "size": 90993022,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/FLTR_4.18.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/FLTR_4.18.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png"
+    },
+    {
       "name": "Acrobat",
       "type": 1,
       "bundleID": "com.adobe.Adobe-Reader",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
-    },
-    {
-      "name": "Shapy",
-      "type": 1,
-      "bundleID": "com.blake.femalefitness",
-      "bundleIdentifier": "com.blake.femalefitness",
-      "version": "10.3.5",
-      "versionDate": "2025-06-29",
-      "fullDate": "20250629181548",
-      "size": 37191814,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Shapy_10.3.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Shapy_10.3.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png"
     },
     {
       "name": "Remini",
