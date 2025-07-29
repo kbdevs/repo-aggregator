@@ -4,6 +4,44 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Fall Guys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "developerName": "Mediatonic, Ltd.",
+      "subtitle": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
+      "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: uk.co.mediatonic.fallguys\n\n Downloads: 924\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1726715135.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17267151431987005.webp",
+        "https://apps.nabzclan.vip/screenshots/17267151445689314.webp",
+        "https://apps.nabzclan.vip/screenshots/17267151447589709.webp",
+        "https://apps.nabzclan.vip/screenshots/17267151449779983.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "11.6.1",
+          "date": "2025-03-19 19:02:56",
+          "localizedDescription": "Current of Fall Guys - 11.6.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
+          "size": 2126008811
+        },
+        {
+          "version": "11.6.1",
+          "date": "2025-03-19 19:02:56",
+          "localizedDescription": "Old Version of Fall Guys - 11.6.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
+          "size": 2126008811
+        }
+      ],
+      "version": "11.6.1",
+      "versionDate": "2025-03-19 19:02:56",
+      "versionDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
+      "formatedsize": "1.98 GB",
+      "size": 2126008811
+    },
+    {
       "name": "GoodMama (Hacked)",
       "bundleIdentifier": "com.mummy.happyMama.ios",
       "developerName": "Nabzclan",
@@ -5101,53 +5139,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
       "formatedsize": "7.32 MB",
       "size": 7675576
-    },
-    {
-      "name": "MONOPOLY GO!",
-      "bundleIdentifier": "com.scopely.monopolygo",
-      "developerName": "Scopely, Inc.",
-      "subtitle": "Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It\u2019s the new way to play - board flipping cleanup not required!\r\nNEW OPPORTUNITIES EVERY DAY",
-      "localizedDescription": "Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It\u2019s the new way to play - board flipping cleanup not required!\r\nNEW OPPORTUNITIES EVERY DAY\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scopely.monopolygo\n\n Downloads: 852\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731481841.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17314818405723884449.webp",
-        "https://apps.nabzclan.vip/screenshots/17314818406995243805.webp",
-        "https://apps.nabzclan.vip/screenshots/17314818407966155176.webp",
-        "https://apps.nabzclan.vip/screenshots/17314818408819184079.webp",
-        "https://apps.nabzclan.vip/screenshots/17314818409939303557.webp",
-        "https://apps.nabzclan.vip/screenshots/17314818411851406819.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.35.1",
-          "date": "2024-11-28 13:55:30",
-          "localizedDescription": "Current of MONOPOLY GO! - 1.35.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
-          "size": 157999431
-        },
-        {
-          "version": "1.34.1",
-          "date": "2024-11-13 02:42:31",
-          "localizedDescription": "Old Version of MONOPOLY GO! - 1.34.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/999",
-          "size": 154906132
-        },
-        {
-          "version": "1.35.1",
-          "date": "2024-11-28 13:55:30",
-          "localizedDescription": "Old Version of MONOPOLY GO! - 1.35.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
-          "size": 157999431
-        }
-      ],
-      "version": "1.35.1",
-      "versionDate": "2024-11-28 13:55:30",
-      "versionDescription": "Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It\u2019s the new way to play - board flipping cleanup not required!\r\nNEW OPPORTUNITIES EVERY DAY",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
-      "formatedsize": "150.68 MB",
-      "size": 157999431
     }
   ],
   "userInfo": {}

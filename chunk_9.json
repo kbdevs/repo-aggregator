@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "MONOPOLY GO!",
+      "bundleIdentifier": "com.scopely.monopolygo",
+      "developerName": "Scopely, Inc.",
+      "subtitle": "Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It\u2019s the new way to play - board flipping cleanup not required!\r\nNEW OPPORTUNITIES EVERY DAY",
+      "localizedDescription": "Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It\u2019s the new way to play - board flipping cleanup not required!\r\nNEW OPPORTUNITIES EVERY DAY\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scopely.monopolygo\n\n Downloads: 852\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731481841.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17314818405723884449.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818406995243805.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818407966155176.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818408819184079.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818409939303557.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818411851406819.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.35.1",
+          "date": "2024-11-28 13:55:30",
+          "localizedDescription": "Current of MONOPOLY GO! - 1.35.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
+          "size": 157999431
+        },
+        {
+          "version": "1.34.1",
+          "date": "2024-11-13 02:42:31",
+          "localizedDescription": "Old Version of MONOPOLY GO! - 1.34.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/999",
+          "size": 154906132
+        },
+        {
+          "version": "1.35.1",
+          "date": "2024-11-28 13:55:30",
+          "localizedDescription": "Old Version of MONOPOLY GO! - 1.35.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
+          "size": 157999431
+        }
+      ],
+      "version": "1.35.1",
+      "versionDate": "2024-11-28 13:55:30",
+      "versionDescription": "Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It\u2019s the new way to play - board flipping cleanup not required!\r\nNEW OPPORTUNITIES EVERY DAY",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
+      "formatedsize": "150.68 MB",
+      "size": 157999431
+    },
+    {
       "name": "Flashback: Tricky Fun Riddles (Hacked)",
       "bundleIdentifier": "com.matchingham.flashback.riddles.tricky",
       "developerName": "Babylonipa",
@@ -4994,41 +5041,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/543",
       "formatedsize": "32.9 MB",
       "size": 34498150
-    },
-    {
-      "name": "Angry Birds Star Wars II",
-      "bundleIdentifier": "com.rovio.angrybirdsstarwarsii",
-      "developerName": "Rovio Entertainment Ltd",
-      "subtitle": "Angry birds Star Wars is an angry birds Limited edition game and very few people have it now days this is Version 2 of it because rio saw that 1 blew up! If you miss this app well you don\u2019t need to miss it anymore it\u2019s here FREE on nabzclan ipa library",
-      "localizedDescription": "Angry birds Star Wars is an angry birds Limited edition game and very few people have it now days this is Version 2 of it because rio saw that 1 blew up! If you miss this app well you don\u2019t need to miss it anymore it\u2019s here FREE on nabzclan ipa library\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.rovio.angrybirdsstarwarsii\n\n Downloads: 567\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1698021984.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.9.24",
-          "date": "2024-09-15 04:31:34",
-          "localizedDescription": "Current of Angry Birds Star Wars II - 1.9.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/541",
-          "size": 80635494
-        },
-        {
-          "version": "1.9.24",
-          "date": "2024-09-15 04:31:34",
-          "localizedDescription": "Old Version of Angry Birds Star Wars II - 1.9.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/541",
-          "size": 80635494
-        }
-      ],
-      "version": "1.9.24",
-      "versionDate": "2024-09-15 04:31:34",
-      "versionDescription": "Angry birds Star Wars is an angry birds Limited edition game and very few people have it now days this is Version 2 of it because rio saw that 1 blew up! If you miss this app well you don\u2019t need to miss it anymore it\u2019s here FREE on nabzclan ipa library",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/541",
-      "formatedsize": "76.9 MB",
-      "size": 80635494
     }
   ],
   "userInfo": {}

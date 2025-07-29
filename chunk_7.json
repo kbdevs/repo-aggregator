@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Yuka",
+      "type": 1,
+      "bundleID": "yuca.scanner",
+      "bundleIdentifier": "yuca.scanner",
+      "version": "4.58",
+      "versionDate": "2025-04-29",
+      "fullDate": "20250429124234",
+      "size": 115603191,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Yuka_4.58_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Yuka_4.58_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/yuca.scanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/yuca.scanner.png"
+    },
+    {
+      "name": "Genie",
+      "type": 1,
+      "bundleID": "co.appnation.geniechat",
+      "bundleIdentifier": "co.appnation.geniechat",
+      "version": "7.6.3",
+      "versionDate": "2025-04-28",
+      "fullDate": "20250428210421",
+      "size": 64969175,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Genie_7.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Genie_7.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.geniechat.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.geniechat.png"
+    },
+    {
       "name": "Bunny",
       "type": 2,
       "bundleID": "com.hammerandchisel.discord",
@@ -530,22 +562,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png"
-    },
-    {
-      "name": "Myfitcoach",
-      "type": 1,
-      "bundleID": "de.my-fit-coach.myfitcoach-ios",
-      "bundleIdentifier": "de.my-fit-coach.myfitcoach-ios",
-      "version": "1.17.3",
-      "versionDate": "2025-02-02",
-      "fullDate": "20250202121544",
-      "size": 175296570,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Myfitcoach_1.17.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Myfitcoach_1.17.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png"
     },
     {
       "name": "Flipclock",
@@ -3122,44 +3138,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
       "formatedsize": "125.7 MB",
       "size": 131806003
-    },
-    {
-      "name": "Fall Guys",
-      "bundleIdentifier": "uk.co.mediatonic.fallguys",
-      "developerName": "Mediatonic, Ltd.",
-      "subtitle": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
-      "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: uk.co.mediatonic.fallguys\n\n Downloads: 924\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726715135.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17267151431987005.webp",
-        "https://apps.nabzclan.vip/screenshots/17267151445689314.webp",
-        "https://apps.nabzclan.vip/screenshots/17267151447589709.webp",
-        "https://apps.nabzclan.vip/screenshots/17267151449779983.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "11.6.1",
-          "date": "2025-03-19 19:02:56",
-          "localizedDescription": "Current of Fall Guys - 11.6.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
-          "size": 2126008811
-        },
-        {
-          "version": "11.6.1",
-          "date": "2025-03-19 19:02:56",
-          "localizedDescription": "Old Version of Fall Guys - 11.6.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
-          "size": 2126008811
-        }
-      ],
-      "version": "11.6.1",
-      "versionDate": "2025-03-19 19:02:56",
-      "versionDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
-      "formatedsize": "1.98 GB",
-      "size": 2126008811
     }
   ],
   "userInfo": {}
