@@ -4,6 +4,55 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Dopamine-roothide",
+      "bundleIdentifier": "com.opa334.Dopamine.roothide",
+      "developerName": "RootHide",
+      "subtitle": "RootHide implementation based on Dopamine Jailbreak.",
+      "localizedDescription": "RootHide implementation based on Dopamine Jailbreak.\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: com.opa334.Dopamine.roothide\n\n Downloads: 479\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1712969282.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2024-09-15 07:11:46",
+          "localizedDescription": "Current of Dopamine-roothide - 1.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/543",
+          "size": 34498150
+        },
+        {
+          "version": "1.0.7",
+          "date": "2024-04-13 04:48:02",
+          "localizedDescription": "Old Version of Dopamine-roothide - 1.0.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/429",
+          "size": 34393292
+        },
+        {
+          "version": "1.0.8",
+          "date": "2024-04-26 17:59:05",
+          "localizedDescription": "Old Version of Dopamine-roothide - 1.0.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/451",
+          "size": 33648803
+        },
+        {
+          "version": "1.1.0",
+          "date": "2024-09-15 07:11:46",
+          "localizedDescription": "Old Version of Dopamine-roothide - 1.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/543",
+          "size": 34498150
+        }
+      ],
+      "version": "1.1.0",
+      "versionDate": "2024-09-15 07:11:46",
+      "versionDescription": "RootHide implementation based on Dopamine Jailbreak.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/543",
+      "formatedsize": "32.9 MB",
+      "size": 34498150
+    },
+    {
       "name": "Angry Birds Star Wars II",
       "bundleIdentifier": "com.rovio.angrybirdsstarwarsii",
       "developerName": "Rovio Entertainment Ltd",
@@ -3018,17 +3067,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
-    },
-    {
-      "name": "QuantumultX",
-      "bundleIdentifier": "com.crossutility.quantumult-x",
-      "version": "1.4.2",
-      "versionDate": "2024-10-12",
-      "size": 16180965,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuantumultX/QuantumultX-1.4.2.ipa",
-      "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png"
     }
   ],
   "userInfo": {}

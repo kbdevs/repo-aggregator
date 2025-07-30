@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Carrion (Hack)",
+      "bundleIdentifier": "com.devolverdigital.carrion",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.devolverdigital.carrion\n\n Downloads: 388\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1730900680.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17309006795821976991.webp",
+        "https://apps.nabzclan.vip/screenshots/17309006802314354630.webp",
+        "https://apps.nabzclan.vip/screenshots/17309006802778403284.webp",
+        "https://apps.nabzclan.vip/screenshots/17309006804558848508.webp",
+        "https://apps.nabzclan.vip/screenshots/17309006806204317341.webp",
+        "https://apps.nabzclan.vip/screenshots/17309006807789704360.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2025-03-19 19:05:43",
+          "localizedDescription": "Current of Carrion (Hack) - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
+          "size": 131806003
+        },
+        {
+          "version": "1.4",
+          "date": "2024-12-02 15:01:36",
+          "localizedDescription": "Old Version of Carrion (Hack) - 1.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1079",
+          "size": 125734748
+        },
+        {
+          "version": "1.5",
+          "date": "2025-03-19 19:05:43",
+          "localizedDescription": "Old Version of Carrion (Hack) - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
+          "size": 131806003
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2025-03-19 19:05:43",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
+      "formatedsize": "125.7 MB",
+      "size": 131806003
+    },
+    {
       "name": "Fall Guys",
       "bundleIdentifier": "uk.co.mediatonic.fallguys",
       "developerName": "Mediatonic, Ltd.",
@@ -5082,63 +5129,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
       "formatedsize": "121.05 MB",
       "size": 126930124
-    },
-    {
-      "name": "Nugget (mobile)",
-      "bundleIdentifier": "com.leemin.nugget",
-      "developerName": "leminlimez",
-      "subtitle": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 A mobiledevicepairing file and wireguard are required in order to use this. Read the sections (https://github.com/leminlimez/Nugget-Mobile#getting-your-mobiledevicepairing-file) below to see how to get those.\r\n\r\nLearn more:\r\nhttps://github.com/leminlimez/Nugget-Mobile",
-      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 A mobiledevicepairing file and wireguard are required in order to use this. Read the sections (https://github.com/leminlimez/Nugget-Mobile#getting-your-mobiledevicepairing-file) below to see how to get those.\r\n\r\nLearn more:\r\nhttps://github.com/leminlimez/Nugget-Mobile\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.leemin.nugget\n\n Downloads: 2460\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1727041807.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17270623821274935.webp",
-        "https://apps.nabzclan.vip/screenshots/17270623908989333.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.1",
-          "date": "2024-12-01 16:42:58",
-          "localizedDescription": "Current of Nugget (mobile) - 2.0.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
-          "size": 7675576
-        },
-        {
-          "version": "1.0",
-          "date": "2024-09-23 01:50:07",
-          "localizedDescription": "Old Version of Nugget (mobile) - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/625",
-          "size": 7738490
-        },
-        {
-          "version": "1.0.1",
-          "date": "2024-09-23 12:27:51",
-          "localizedDescription": "Old Version of Nugget (mobile) - 1.0.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/643",
-          "size": 7738490
-        },
-        {
-          "version": "2.0",
-          "date": "2024-10-18 15:21:08",
-          "localizedDescription": "Old Version of Nugget (mobile) - 2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/809",
-          "size": 7675576
-        },
-        {
-          "version": "2.0.1",
-          "date": "2024-12-01 16:42:58",
-          "localizedDescription": "Old Version of Nugget (mobile) - 2.0.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
-          "size": 7675576
-        }
-      ],
-      "version": "2.0.1",
-      "versionDate": "2024-12-01 16:42:58",
-      "versionDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 A mobiledevicepairing file and wireguard are required in order to use this. Read the sections (https://github.com/leminlimez/Nugget-Mobile#getting-your-mobiledevicepairing-file) below to see how to get those.\r\n\r\nLearn more:\r\nhttps://github.com/leminlimez/Nugget-Mobile",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
-      "formatedsize": "7.32 MB",
-      "size": 7675576
     }
   ],
   "userInfo": {}

@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "OfflineGames",
+      "type": 2,
+      "bundleID": "com.JindoBlu.OfflineGamesIOS",
+      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+      "version": "3.0.2",
+      "versionDate": "2025-04-30",
+      "fullDate": "20250430025902",
+      "size": 90621348,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/OfflineGames_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/OfflineGames_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.OfflineGamesIOS.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.OfflineGamesIOS.png"
+    },
+    {
+      "name": "Productive",
+      "type": 1,
+      "bundleID": "com.beHappy.Productive",
+      "bundleIdentifier": "com.beHappy.Productive",
+      "version": "3.26.29",
+      "versionDate": "2025-04-29",
+      "fullDate": "20250429180544",
+      "size": 188785448,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Productive_3.26.29_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Productive_3.26.29_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png"
+    },
+    {
       "name": "Yuka",
       "type": 1,
       "bundleID": "yuca.scanner",
@@ -226,22 +258,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/evolly.app.rokuremote.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/evolly.app.rokuremote.png"
-    },
-    {
-      "name": "Badoo",
-      "type": 1,
-      "bundleID": "com.badoo.BadooSPP",
-      "bundleIdentifier": "com.badoo.BadooSPP",
-      "version": "5.399.0",
-      "versionDate": "2025-02-12",
-      "fullDate": "20250212150332",
-      "size": 57955817,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/Badoo_5.399.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/Badoo_5.399.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.badoo.BadooSPP.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.badoo.BadooSPP.png"
     },
     {
       "name": "HearBoost",
@@ -3091,53 +3107,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
       "formatedsize": "843.1 MB",
       "size": 884054425
-    },
-    {
-      "name": "Carrion (Hack)",
-      "bundleIdentifier": "com.devolverdigital.carrion",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.devolverdigital.carrion\n\n Downloads: 388\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730900680.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309006795821976991.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006802314354630.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006802778403284.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006804558848508.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006806204317341.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006807789704360.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5",
-          "date": "2025-03-19 19:05:43",
-          "localizedDescription": "Current of Carrion (Hack) - 1.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
-          "size": 131806003
-        },
-        {
-          "version": "1.4",
-          "date": "2024-12-02 15:01:36",
-          "localizedDescription": "Old Version of Carrion (Hack) - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1079",
-          "size": 125734748
-        },
-        {
-          "version": "1.5",
-          "date": "2025-03-19 19:05:43",
-          "localizedDescription": "Old Version of Carrion (Hack) - 1.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
-          "size": 131806003
-        }
-      ],
-      "version": "1.5",
-      "versionDate": "2025-03-19 19:05:43",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
-      "formatedsize": "125.7 MB",
-      "size": 131806003
     }
   ],
   "userInfo": {}

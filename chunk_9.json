@@ -4,6 +4,63 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Nugget (mobile)",
+      "bundleIdentifier": "com.leemin.nugget",
+      "developerName": "leminlimez",
+      "subtitle": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 A mobiledevicepairing file and wireguard are required in order to use this. Read the sections (https://github.com/leminlimez/Nugget-Mobile#getting-your-mobiledevicepairing-file) below to see how to get those.\r\n\r\nLearn more:\r\nhttps://github.com/leminlimez/Nugget-Mobile",
+      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 A mobiledevicepairing file and wireguard are required in order to use this. Read the sections (https://github.com/leminlimez/Nugget-Mobile#getting-your-mobiledevicepairing-file) below to see how to get those.\r\n\r\nLearn more:\r\nhttps://github.com/leminlimez/Nugget-Mobile\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.leemin.nugget\n\n Downloads: 2460\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1727041807.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17270623821274935.webp",
+        "https://apps.nabzclan.vip/screenshots/17270623908989333.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.1",
+          "date": "2024-12-01 16:42:58",
+          "localizedDescription": "Current of Nugget (mobile) - 2.0.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
+          "size": 7675576
+        },
+        {
+          "version": "1.0",
+          "date": "2024-09-23 01:50:07",
+          "localizedDescription": "Old Version of Nugget (mobile) - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/625",
+          "size": 7738490
+        },
+        {
+          "version": "1.0.1",
+          "date": "2024-09-23 12:27:51",
+          "localizedDescription": "Old Version of Nugget (mobile) - 1.0.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/643",
+          "size": 7738490
+        },
+        {
+          "version": "2.0",
+          "date": "2024-10-18 15:21:08",
+          "localizedDescription": "Old Version of Nugget (mobile) - 2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/809",
+          "size": 7675576
+        },
+        {
+          "version": "2.0.1",
+          "date": "2024-12-01 16:42:58",
+          "localizedDescription": "Old Version of Nugget (mobile) - 2.0.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
+          "size": 7675576
+        }
+      ],
+      "version": "2.0.1",
+      "versionDate": "2024-12-01 16:42:58",
+      "versionDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 A mobiledevicepairing file and wireguard are required in order to use this. Read the sections (https://github.com/leminlimez/Nugget-Mobile#getting-your-mobiledevicepairing-file) below to see how to get those.\r\n\r\nLearn more:\r\nhttps://github.com/leminlimez/Nugget-Mobile",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
+      "formatedsize": "7.32 MB",
+      "size": 7675576
+    },
+    {
       "name": "MONOPOLY GO!",
       "bundleIdentifier": "com.scopely.monopolygo",
       "developerName": "Scopely, Inc.",
@@ -4992,55 +5049,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/550",
       "formatedsize": "7.53 MB",
       "size": 7895777
-    },
-    {
-      "name": "Dopamine-roothide",
-      "bundleIdentifier": "com.opa334.Dopamine.roothide",
-      "developerName": "RootHide",
-      "subtitle": "RootHide implementation based on Dopamine Jailbreak.",
-      "localizedDescription": "RootHide implementation based on Dopamine Jailbreak.\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: com.opa334.Dopamine.roothide\n\n Downloads: 479\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1712969282.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1.0",
-          "date": "2024-09-15 07:11:46",
-          "localizedDescription": "Current of Dopamine-roothide - 1.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/543",
-          "size": 34498150
-        },
-        {
-          "version": "1.0.7",
-          "date": "2024-04-13 04:48:02",
-          "localizedDescription": "Old Version of Dopamine-roothide - 1.0.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/429",
-          "size": 34393292
-        },
-        {
-          "version": "1.0.8",
-          "date": "2024-04-26 17:59:05",
-          "localizedDescription": "Old Version of Dopamine-roothide - 1.0.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/451",
-          "size": 33648803
-        },
-        {
-          "version": "1.1.0",
-          "date": "2024-09-15 07:11:46",
-          "localizedDescription": "Old Version of Dopamine-roothide - 1.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/543",
-          "size": 34498150
-        }
-      ],
-      "version": "1.1.0",
-      "versionDate": "2024-09-15 07:11:46",
-      "versionDescription": "RootHide implementation based on Dopamine Jailbreak.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/543",
-      "formatedsize": "32.9 MB",
-      "size": 34498150
     }
   ],
   "userInfo": {}
