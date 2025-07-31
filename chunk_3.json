@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "BusEscapeTrafficJam",
+      "type": 2,
+      "bundleID": "com.abi.busjam.sortpuzzle",
+      "bundleIdentifier": "com.abi.busjam.sortpuzzle",
+      "version": "1.9.21",
+      "versionDate": "2025-07-12",
+      "fullDate": "20250712133542",
+      "size": 121095011,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-07-2025/BusEscapeTrafficJam_1.9.21_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-07-2025/BusEscapeTrafficJam_1.9.21_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abi.busjam.sortpuzzle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abi.busjam.sortpuzzle.png"
+    },
+    {
+      "name": "PodcastApp",
+      "type": 1,
+      "bundleID": "com.evolve.podcast",
+      "bundleIdentifier": "com.evolve.podcast",
+      "version": "6.115.0",
+      "versionDate": "2025-07-12",
+      "fullDate": "20250712133540",
+      "size": 42221957,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-07-2025/PodcastApp_6.115.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-07-2025/PodcastApp_6.115.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.podcast.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.podcast.png"
+    },
+    {
       "name": "Radarbot",
       "type": 1,
       "bundleID": "com.iteration-mobile.radarbot-free-ww",
@@ -338,22 +370,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png"
-    },
-    {
-      "name": "BeautyPlus",
-      "type": 1,
-      "bundleID": "com.commsource.BeautyPlus",
-      "bundleIdentifier": "com.commsource.BeautyPlus",
-      "version": "7.14.0",
-      "versionDate": "2025-07-09",
-      "fullDate": "20250709053550",
-      "size": 325069744,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/BeautyPlus_7.14.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/BeautyPlus_7.14.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png"
     },
     {
       "name": "BodyFast",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
-    },
-    {
-      "name": "Remini",
-      "type": 1,
-      "bundleID": "com.bigwinepot.nwdn.international",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.10.133",
-      "versionDate": "2025-06-29",
-      "fullDate": "20250629170527",
-      "size": 158400796,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Remini_2.10.133_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Remini_2.10.133_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png"
     }
   ],
   "userInfo": {}
