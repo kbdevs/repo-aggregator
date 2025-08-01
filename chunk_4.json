@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "PlanesLiveFree",
+      "type": 1,
+      "bundleID": "com.apalonapps.planesfree",
+      "bundleIdentifier": "com.apalonapps.planesfree",
+      "version": "3.10.48",
+      "versionDate": "2025-06-30",
+      "fullDate": "20250630133116",
+      "size": 127971694,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/PlanesLiveFree_3.10.48_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/PlanesLiveFree_3.10.48_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png"
+    },
+    {
+      "name": "Euforia",
+      "type": 1,
+      "bundleID": "digital.euforia",
+      "bundleIdentifier": "digital.euforia",
+      "version": "1.2.11",
+      "versionDate": "2025-06-29",
+      "fullDate": "20250629181550",
+      "size": 49232351,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Euforia_1.2.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Euforia_1.2.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
+    },
+    {
       "name": "Remini",
       "type": 1,
       "bundleID": "com.bigwinepot.nwdn.international",
@@ -1922,38 +1954,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png"
-    },
-    {
-      "name": "Tiimo",
-      "type": 1,
-      "bundleID": "com.tiimo.app",
-      "bundleIdentifier": "com.tiimo.app",
-      "version": "3.15.0",
-      "versionDate": "2025-06-16",
-      "fullDate": "20250616162709",
-      "size": 117762002,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Tiimo_3.15.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Tiimo_3.15.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png"
-    },
-    {
-      "name": "Paku",
-      "type": 1,
-      "bundleID": "com.kylebashour.aqi-wtf",
-      "bundleIdentifier": "com.kylebashour.aqi-wtf",
-      "version": "5.13.1",
-      "versionDate": "2025-06-16",
-      "fullDate": "20250616162652",
-      "size": 46061926,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Paku_5.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Paku_5.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kylebashour.aqi-wtf.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kylebashour.aqi-wtf.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Tiimo",
+      "type": 1,
+      "bundleID": "com.tiimo.app",
+      "bundleIdentifier": "com.tiimo.app",
+      "version": "3.15.0",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616162709",
+      "size": 117762002,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Tiimo_3.15.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Tiimo_3.15.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png"
+    },
+    {
+      "name": "Paku",
+      "type": 1,
+      "bundleID": "com.kylebashour.aqi-wtf",
+      "bundleIdentifier": "com.kylebashour.aqi-wtf",
+      "version": "5.13.1",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616162652",
+      "size": 46061926,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Paku_5.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Paku_5.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kylebashour.aqi-wtf.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kylebashour.aqi-wtf.png"
+    },
+    {
       "name": "ChessMovePro",
       "type": 2,
       "bundleID": "com.sethsetse.ChessMovePro",
@@ -1572,22 +1604,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png"
     },
     {
-      "name": "Flow",
-      "type": 1,
-      "bundleID": "design.yugen.Flow",
-      "bundleIdentifier": "design.yugen.Flow",
-      "version": "4.2.0",
-      "versionDate": "2025-05-31",
-      "fullDate": "20250531031917",
-      "size": 10543003,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/Flow_4.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/Flow_4.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/design.yugen.Flow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/design.yugen.Flow.png"
-    },
-    {
       "name": "Calculator",
       "type": 1,
       "bundleID": "com.incpt.mobis.CalculatorInfinite",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with AlwaysPerfect",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spaceapegames.beatstar.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spaceapegames.beatstar.png"
-    },
-    {
-      "name": "HelloKittyMyDreamStore",
-      "type": 2,
-      "bundleID": "com.actgames.HelloKittyMDS",
-      "bundleIdentifier": "com.actgames.HelloKittyMDS",
-      "version": "1.0.18",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528165116",
-      "size": 216305422,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/HelloKittyMyDreamStore_1.0.18_UnlimitedGold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/HelloKittyMyDreamStore_1.0.18_UnlimitedGold_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with UnlimitedGold",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actgames.HelloKittyMDS.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actgames.HelloKittyMDS.png"
     }
   ],
   "userInfo": {}
