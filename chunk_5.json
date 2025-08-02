@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Bunpo",
+      "type": 1,
+      "bundleID": "com.N2BunpouApp.yuki",
+      "bundleIdentifier": "com.N2BunpouApp.yuki",
+      "version": "2.25.0",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616163728",
+      "size": 147448246,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Bunpo_2.25.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Bunpo_2.25.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.N2BunpouApp.yuki.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.N2BunpouApp.yuki.png"
+    },
+    {
+      "name": "Teleprompter",
+      "type": 1,
+      "bundleID": "io.fadel.TeleprompterX",
+      "bundleIdentifier": "io.fadel.TeleprompterX",
+      "version": "1.0.112",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616163225",
+      "size": 26795588,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Teleprompter_1.0.112_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Teleprompter_1.0.112_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.TeleprompterX.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.TeleprompterX.png"
+    },
+    {
+      "name": "Jetpack",
+      "type": 2,
+      "bundleID": "com.halfbrick.jetpack",
+      "bundleIdentifier": "com.halfbrick.jetpack",
+      "version": "1.99.7",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616163216",
+      "size": 230038755,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Jetpack_1.99.7_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Jetpack_1.99.7_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png"
+    },
+    {
       "name": "Tiimo",
       "type": 1,
       "bundleID": "com.tiimo.app",
@@ -1588,22 +1636,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.mheros.png"
     },
     {
-      "name": "Evertag",
-      "type": 1,
-      "bundleID": "com.leshko.tagseditor",
-      "bundleIdentifier": "com.leshko.tagseditor",
-      "version": "3.6",
-      "versionDate": "2025-05-31",
-      "fullDate": "20250531035428",
-      "size": 36711135,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/Evertag_3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/Evertag_3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png"
-    },
-    {
       "name": "Calculator",
       "type": 1,
       "bundleID": "com.incpt.mobis.CalculatorInfinite",
@@ -1666,22 +1698,6 @@
       "localizedDescription": "Injected with IncreasedBallAccuracy",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.basketballstars.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.basketballstars.png"
-    },
-    {
-      "name": "ReversoContext",
-      "type": 1,
-      "bundleID": "com.softissimo.ReversoContext",
-      "bundleIdentifier": "com.softissimo.ReversoContext",
-      "version": "15.3",
-      "versionDate": "2025-05-30",
-      "fullDate": "20250530180058",
-      "size": 186304343,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/ReversoContext_15.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/ReversoContext_15.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png"
     },
     {
       "name": "RacingKingdom",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with InfiniteMoves",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.midasplayer.apps.candycrushsodasaga.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.midasplayer.apps.candycrushsodasaga.png"
-    },
-    {
-      "name": "Beatstar",
-      "type": 2,
-      "bundleID": "com.spaceapegames.beatstar",
-      "bundleIdentifier": "com.spaceapegames.beatstar",
-      "version": "36.1.0",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528165125",
-      "size": 164177077,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Beatstar_36.1.0_AlwaysPerfect_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Beatstar_36.1.0_AlwaysPerfect_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with AlwaysPerfect",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spaceapegames.beatstar.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spaceapegames.beatstar.png"
     }
   ],
   "userInfo": {}
