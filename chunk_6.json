@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "CandyCrushSoda",
+      "type": 2,
+      "bundleID": "com.midasplayer.apps.candycrushsodasaga",
+      "bundleIdentifier": "com.midasplayer.apps.candycrushsodasaga",
+      "version": "1.293.4",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528170733",
+      "size": 141694650,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CandyCrushSoda_1.293.4_InfiniteMoves_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CandyCrushSoda_1.293.4_InfiniteMoves_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with InfiniteMoves",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.midasplayer.apps.candycrushsodasaga.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.midasplayer.apps.candycrushsodasaga.png"
+    },
+    {
       "name": "Beatstar",
       "type": 2,
       "bundleID": "com.spaceapegames.beatstar",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
-    },
-    {
-      "name": "EndZoneDefendandSurvive",
-      "type": 2,
-      "bundleID": "com.jiujiu.zombiedefense",
-      "bundleIdentifier": "com.jiujiu.zombiedefense",
-      "version": "1.0.1",
-      "versionDate": "2025-04-30",
-      "fullDate": "20250430055117",
-      "size": 89814601,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/EndZoneDefendandSurvive_1.0.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/EndZoneDefendandSurvive_1.0.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with GodMode",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jiujiu.zombiedefense.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jiujiu.zombiedefense.png"
     }
   ],
   "userInfo": {}

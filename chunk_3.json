@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "NotePlan",
+      "type": 1,
+      "bundleID": "co.noteplan.NotePlan3",
+      "bundleIdentifier": "co.noteplan.NotePlan3",
+      "version": "3.17.5",
+      "versionDate": "2025-07-14",
+      "fullDate": "20250714055517",
+      "size": 75438726,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/NotePlan_3.17.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/NotePlan_3.17.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png"
+    },
+    {
       "name": "Beelinguapp",
       "type": 1,
       "bundleID": "com.beelinguapp.beelinguapp",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rubygames.assassin.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rubygames.assassin.png"
-    },
-    {
-      "name": "TDS",
-      "type": 2,
-      "bundleID": "com.playstrom.hero.tower",
-      "bundleIdentifier": "com.playstrom.hero.tower",
-      "version": "1.2.2",
-      "versionDate": "2025-07-01",
-      "fullDate": "20250701175946",
-      "size": 147758734,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/TDS_1.2.2_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/TDS_1.2.2_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.hero.tower.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.hero.tower.png"
     }
   ],
   "userInfo": {}

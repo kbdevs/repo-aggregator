@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "VidCap",
+      "type": 1,
+      "bundleID": "io.fadel.VidCap",
+      "bundleIdentifier": "io.fadel.VidCap",
+      "version": "1.0.215",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616163735",
+      "size": 32487665,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/VidCap_1.0.215_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/VidCap_1.0.215_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.VidCap.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.VidCap.png"
+    },
+    {
       "name": "Bunpo",
       "type": 1,
       "bundleID": "com.N2BunpouApp.yuki",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with InfiniteCurrencies",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mytonallc.cookingdiary.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mytonallc.cookingdiary.png"
-    },
-    {
-      "name": "CandyCrushSoda",
-      "type": 2,
-      "bundleID": "com.midasplayer.apps.candycrushsodasaga",
-      "bundleIdentifier": "com.midasplayer.apps.candycrushsodasaga",
-      "version": "1.293.4",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528170733",
-      "size": 141694650,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CandyCrushSoda_1.293.4_InfiniteMoves_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CandyCrushSoda_1.293.4_InfiniteMoves_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with InfiniteMoves",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.midasplayer.apps.candycrushsodasaga.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.midasplayer.apps.candycrushsodasaga.png"
     }
   ],
   "userInfo": {}

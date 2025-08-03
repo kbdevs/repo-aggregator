@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "TDS",
+      "type": 2,
+      "bundleID": "com.playstrom.hero.tower",
+      "bundleIdentifier": "com.playstrom.hero.tower",
+      "version": "1.2.2",
+      "versionDate": "2025-07-01",
+      "fullDate": "20250701175946",
+      "size": 147758734,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/TDS_1.2.2_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/TDS_1.2.2_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.hero.tower.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.hero.tower.png"
+    },
+    {
       "name": "Dune",
       "type": 2,
       "bundleID": "io.voodoo.dune",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png"
-    },
-    {
-      "name": "VidCap",
-      "type": 1,
-      "bundleID": "io.fadel.VidCap",
-      "bundleIdentifier": "io.fadel.VidCap",
-      "version": "1.0.215",
-      "versionDate": "2025-06-16",
-      "fullDate": "20250616163735",
-      "size": 32487665,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/VidCap_1.0.215_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/VidCap_1.0.215_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.VidCap.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.VidCap.png"
     }
   ],
   "userInfo": {}
