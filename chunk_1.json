@@ -838,6 +838,54 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "Notability",
+      "type": 1,
+      "bundleID": "com.gingerlabs.Notability",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "version": "14.12.9",
+      "versionDate": "2025-08-04",
+      "fullDate": "20250804033113",
+      "size": 215661118,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/Notability_14.12.9_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/Notability_14.12.9_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png"
+    },
+    {
+      "name": "Clarity",
+      "type": 1,
+      "bundleID": "com.moodtools.thoughtdiary",
+      "bundleIdentifier": "com.moodtools.thoughtdiary",
+      "version": "5.5.0",
+      "versionDate": "2025-08-03",
+      "fullDate": "20250803131446",
+      "size": 209706709,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2025/Clarity_5.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2025/Clarity_5.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png"
+    },
+    {
+      "name": "AllTrails",
+      "type": 1,
+      "bundleID": "com.alltrails.AllTrails",
+      "bundleIdentifier": "com.alltrails.AllTrails",
+      "version": "25.7.51",
+      "versionDate": "2025-08-03",
+      "fullDate": "20250803131442",
+      "size": 107309752,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2025/AllTrails_25.7.51_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2025/AllTrails_25.7.51_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png"
+    },
+    {
       "name": "Facebook",
       "type": 1,
       "bundleID": "com.facebook.Facebook",
@@ -1622,22 +1670,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png"
     },
     {
-      "name": "AllTrails",
-      "type": 1,
-      "bundleID": "com.alltrails.AllTrails",
-      "bundleIdentifier": "com.alltrails.AllTrails",
-      "version": "25.7.50",
-      "versionDate": "2025-07-31",
-      "fullDate": "20250731064001",
-      "size": 107308672,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/AllTrails_25.7.50_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/AllTrails_25.7.50_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png"
-    },
-    {
       "name": "WebSSH",
       "type": 1,
       "bundleID": "com.itimeteo.webssh",
@@ -2390,22 +2422,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png"
     },
     {
-      "name": "Notability",
-      "type": 1,
-      "bundleID": "com.gingerlabs.Notability",
-      "bundleIdentifier": "com.gingerlabs.Notability",
-      "version": "14.12.8",
-      "versionDate": "2025-07-29",
-      "fullDate": "20250729032812",
-      "size": 217295605,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Notability_14.12.8_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Notability_14.12.8_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png"
-    },
-    {
       "name": "YouTubeMusic",
       "type": 1,
       "bundleID": "com.google.ios.youtubemusic",
@@ -2644,22 +2660,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png"
-    },
-    {
-      "name": "VivaCut",
-      "type": 1,
-      "bundleID": "com.vivacut.videoeditor",
-      "bundleIdentifier": "com.vivacut.videoeditor",
-      "version": "4.4.0",
-      "versionDate": "2025-07-28",
-      "fullDate": "20250728164702",
-      "size": 212560838,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/VivaCut_4.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/VivaCut_4.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png"
     }
   ],
   "userInfo": {}
