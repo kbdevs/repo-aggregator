@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "RashaqaWorkout",
+      "type": 1,
+      "bundleID": "com.madarsoft.fitness",
+      "bundleIdentifier": "com.madarsoft.fitness",
+      "version": "15.4",
+      "versionDate": "2025-04-30",
+      "fullDate": "20250430110144",
+      "size": 364761987,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
+    },
+    {
       "name": "EndZoneDefendandSurvive",
       "type": 2,
       "bundleID": "com.jiujiu.zombiedefense",
@@ -900,22 +916,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parentsware.ourpact.png"
     },
     {
-      "name": "Phocus",
-      "type": 1,
-      "bundleID": "com.ahmetserdarkaradeniz.Phocus",
-      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
-      "version": "2.4.7",
-      "versionDate": "2024-12-18",
-      "fullDate": "20241218203107",
-      "size": 139965900,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Phocus_2.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Phocus_2.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png"
-    },
-    {
       "name": "Thenics",
       "type": 1,
       "bundleID": "com.innothenics.thenics",
@@ -1213,10 +1213,10 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "2.2.2",
-          "date": "2025-06-29T21:36:24Z",
+          "version": "2.3.0",
+          "date": "2025-08-03T21:36:24Z",
           "size": 12598584,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.2.2/Feather.ipa"
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.0/Feather.ipa"
         }
       ],
       "appPermissions": {},
@@ -1226,10 +1226,10 @@
         "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Sign.png?raw=true",
         "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Store.png?raw=true"
       ],
-      "version": "2.2.2",
-      "versionDate": "2025-06-29T21:36:24Z",
+      "version": "2.3.0",
+      "versionDate": "2025-08-03T21:36:24Z",
       "size": 12598584,
-      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.2.2/Feather.ipa"
+      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.0/Feather.ipa"
     },
     {
       "beta": false,

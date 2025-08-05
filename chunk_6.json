@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Thronefall",
+      "type": 2,
+      "bundleID": "com.doghowlgames.thronefall",
+      "bundleIdentifier": "com.doghowlgames.thronefall",
+      "version": "2.12.3",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528171255",
+      "size": 154802591,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Thronefall_2.12.3_DamageMultiplier_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Thronefall_2.12.3_DamageMultiplier_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with DamageMultiplier",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.doghowlgames.thronefall.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.doghowlgames.thronefall.png"
+    },
+    {
+      "name": "CookingDiary",
+      "type": 2,
+      "bundleID": "com.mytonallc.cookingdiary",
+      "bundleIdentifier": "com.mytonallc.cookingdiary",
+      "version": "2.40.0",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528171240",
+      "size": 417390582,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CookingDiary_2.40.0_InfiniteCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CookingDiary_2.40.0_InfiniteCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with InfiniteCurrencies",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mytonallc.cookingdiary.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mytonallc.cookingdiary.png"
+    },
+    {
       "name": "CandyCrushSoda",
       "type": 2,
       "bundleID": "com.midasplayer.apps.candycrushsodasaga",
@@ -1922,38 +1954,6 @@
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png"
-    },
-    {
-      "name": "SkyGuide",
-      "type": 1,
-      "bundleID": "com.fifthstarlabs.skyguide",
-      "bundleIdentifier": "com.fifthstarlabs.skyguide",
-      "version": "11.0.4",
-      "versionDate": "2025-04-30",
-      "fullDate": "20250430172357",
-      "size": 260176775,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/SkyGuide_11.0.4_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/SkyGuide_11.0.4_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png"
-    },
-    {
-      "name": "RashaqaWorkout",
-      "type": 1,
-      "bundleID": "com.madarsoft.fitness",
-      "bundleIdentifier": "com.madarsoft.fitness",
-      "version": "15.4",
-      "versionDate": "2025-04-30",
-      "fullDate": "20250430110144",
-      "size": 364761987,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
     }
   ],
   "userInfo": {}
