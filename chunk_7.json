@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
       "name": "RashaqaWorkout",
       "type": 1,
       "bundleID": "com.madarsoft.fitness",
@@ -898,22 +914,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focoslive.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focoslive.png"
-    },
-    {
-      "name": "Ourpact",
-      "type": 1,
-      "bundleID": "com.parentsware.ourpact",
-      "bundleIdentifier": "com.parentsware.ourpact",
-      "version": "9.15.3",
-      "versionDate": "2024-12-18",
-      "fullDate": "20241218203205",
-      "size": 15991369,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Ourpact_9.15.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Ourpact_9.15.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parentsware.ourpact.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parentsware.ourpact.png"
     },
     {
       "name": "Thenics",
