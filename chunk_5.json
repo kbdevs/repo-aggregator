@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "StickmanParty",
+      "type": 2,
+      "bundleID": "com.Impera.stickmanparty",
+      "bundleIdentifier": "com.Impera.stickmanparty",
+      "version": "2.4.9",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616183558",
+      "size": 85467128,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/StickmanParty_2.4.9_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/StickmanParty_2.4.9_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Impera.stickmanparty.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Impera.stickmanparty.png"
+    },
+    {
       "name": "MonokaiToolkitPro",
       "type": 1,
       "bundleID": "com.monokaitoolkit.pro",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with OHK",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockgamesstudio.blockworld3d.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockgamesstudio.blockworld3d.png"
-    },
-    {
-      "name": "ToonBlast",
-      "type": 2,
-      "bundleID": "net.peakgames.toonblast",
-      "bundleIdentifier": "net.peakgames.toonblast",
-      "version": "17659",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528171303",
-      "size": 142924970,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/ToonBlast_17659_CoinsIncrease_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/ToonBlast_17659_CoinsIncrease_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with CoinsIncrease",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.peakgames.toonblast.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.peakgames.toonblast.png"
     }
   ],
   "userInfo": {}

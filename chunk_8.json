@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Castle Crumble",
+      "bundleIdentifier": "com.orbitalknight.castlearcade",
+      "developerName": "Orbital Knight sp. z o.o.",
+      "subtitle": "Embark on an adventure and conquer a variety of kingdoms! In Castle Crumble your goal is clear - castles must fall. Become a hero in far fantasylands. With powerful explosives and mystical spells, crash forts from Ancient, Medieval, Aztec and other times. Aim to win!\r\n\r\nCastle Crumble is where physics allows you to have fun with a blast!\r\n-Cannonball amazing castles\r\n-Execute your conqueror tactics\r\n-Explore fabulous kingdoms with unique visuals\r\n-Use a variety of mechanics on your quest",
+      "localizedDescription": "Embark on an adventure and conquer a variety of kingdoms! In Castle Crumble your goal is clear - castles must fall. Become a hero in far fantasylands. With powerful explosives and mystical spells, crash forts from Ancient, Medieval, Aztec and other times. Aim to win!\r\n\r\nCastle Crumble is where physics allows you to have fun with a blast!\r\n-Cannonball amazing castles\r\n-Execute your conqueror tactics\r\n-Explore fabulous kingdoms with unique visuals\r\n-Use a variety of mechanics on your quest\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.orbitalknight.castlearcade\n\n Downloads: 230\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731277083.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312770821939724544.webp",
+        "https://apps.nabzclan.vip/screenshots/17312770825166615604.webp",
+        "https://apps.nabzclan.vip/screenshots/17312770826444281831.webp",
+        "https://apps.nabzclan.vip/screenshots/17312770827519364732.webp",
+        "https://apps.nabzclan.vip/screenshots/17312770828393688781.webp",
+        "https://apps.nabzclan.vip/screenshots/17312770830035630771.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.17.0",
+          "date": "2025-03-21 14:02:31",
+          "localizedDescription": "Current of Castle Crumble - 1.17.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
+          "size": 884054425
+        },
+        {
+          "version": "1.14.1",
+          "date": "2024-11-10 17:18:03",
+          "localizedDescription": "Old Version of Castle Crumble - 1.14.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/970",
+          "size": 777833676
+        },
+        {
+          "version": "1.17.0",
+          "date": "2025-03-21 14:02:31",
+          "localizedDescription": "Old Version of Castle Crumble - 1.17.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
+          "size": 884054425
+        }
+      ],
+      "version": "1.17.0",
+      "versionDate": "2025-03-21 14:02:31",
+      "versionDescription": "Embark on an adventure and conquer a variety of kingdoms! In Castle Crumble your goal is clear - castles must fall. Become a hero in far fantasylands. With powerful explosives and mystical spells, crash forts from Ancient, Medieval, Aztec and other times. Aim to win!\r\n\r\nCastle Crumble is where physics allows you to have fun with a blast!\r\n-Cannonball amazing castles\r\n-Execute your conqueror tactics\r\n-Explore fabulous kingdoms with unique visuals\r\n-Use a variety of mechanics on your quest",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
+      "formatedsize": "843.1 MB",
+      "size": 884054425
+    },
+    {
       "name": "Carrion (Hack)",
       "bundleIdentifier": "com.devolverdigital.carrion",
       "developerName": "Nabzclan",
@@ -5090,45 +5137,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1068",
       "formatedsize": "46.64 MB",
       "size": 48905584
-    },
-    {
-      "name": "Vector Classic",
-      "bundleIdentifier": "com.nekki.vector.iphone",
-      "developerName": "Nekki Limited",
-      "subtitle": "The best parkour-inspired action game is now available! Vector lets you break free and run! Don't get caught!\r\n\r\nVector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. The game opens with a view into a totalitarian world where freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and you soon break free. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.",
-      "localizedDescription": "The best parkour-inspired action game is now available! Vector lets you break free and run! Don't get caught!\r\n\r\nVector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. The game opens with a view into a totalitarian world where freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and you soon break free. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.nekki.vector.iphone\n\n Downloads: 883\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1733162231.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17331622308216262218.webp",
-        "https://apps.nabzclan.vip/screenshots/17331622309402172066.webp",
-        "https://apps.nabzclan.vip/screenshots/17331622310626991481.webp",
-        "https://apps.nabzclan.vip/screenshots/17331622311712409216.webp",
-        "https://apps.nabzclan.vip/screenshots/17331622312431713952.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.5",
-          "date": "2024-12-02 12:57:11",
-          "localizedDescription": "Current of Vector Classic - 1.4.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
-          "size": 126930124
-        },
-        {
-          "version": "1.4.5",
-          "date": "2024-12-02 12:57:11",
-          "localizedDescription": "Old Version of Vector Classic - 1.4.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
-          "size": 126930124
-        }
-      ],
-      "version": "1.4.5",
-      "versionDate": "2024-12-02 12:57:11",
-      "versionDescription": "The best parkour-inspired action game is now available! Vector lets you break free and run! Don't get caught!\r\n\r\nVector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. The game opens with a view into a totalitarian world where freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and you soon break free. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
-      "formatedsize": "121.05 MB",
-      "size": 126930124
     }
   ],
   "userInfo": {}

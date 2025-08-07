@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Vector Classic",
+      "bundleIdentifier": "com.nekki.vector.iphone",
+      "developerName": "Nekki Limited",
+      "subtitle": "The best parkour-inspired action game is now available! Vector lets you break free and run! Don't get caught!\r\n\r\nVector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. The game opens with a view into a totalitarian world where freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and you soon break free. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.",
+      "localizedDescription": "The best parkour-inspired action game is now available! Vector lets you break free and run! Don't get caught!\r\n\r\nVector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. The game opens with a view into a totalitarian world where freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and you soon break free. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.nekki.vector.iphone\n\n Downloads: 883\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1733162231.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17331622308216262218.webp",
+        "https://apps.nabzclan.vip/screenshots/17331622309402172066.webp",
+        "https://apps.nabzclan.vip/screenshots/17331622310626991481.webp",
+        "https://apps.nabzclan.vip/screenshots/17331622311712409216.webp",
+        "https://apps.nabzclan.vip/screenshots/17331622312431713952.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.5",
+          "date": "2024-12-02 12:57:11",
+          "localizedDescription": "Current of Vector Classic - 1.4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
+          "size": 126930124
+        },
+        {
+          "version": "1.4.5",
+          "date": "2024-12-02 12:57:11",
+          "localizedDescription": "Old Version of Vector Classic - 1.4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
+          "size": 126930124
+        }
+      ],
+      "version": "1.4.5",
+      "versionDate": "2024-12-02 12:57:11",
+      "versionDescription": "The best parkour-inspired action game is now available! Vector lets you break free and run! Don't get caught!\r\n\r\nVector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. The game opens with a view into a totalitarian world where freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and you soon break free. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
+      "formatedsize": "121.05 MB",
+      "size": 126930124
+    },
+    {
       "name": "Nugget (mobile)",
       "bundleIdentifier": "com.leemin.nugget",
       "developerName": "leminlimez",
@@ -5014,41 +5053,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/562",
       "formatedsize": "556.4 MB",
       "size": 583427686
-    },
-    {
-      "name": "MikotoX",
-      "bundleIdentifier": "com.straight-tamago.mikotoX",
-      "developerName": "straight tamago",
-      "subtitle": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!",
-      "localizedDescription": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.straight-tamago.mikotoX\n\n Downloads: 469\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726881495.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17266916794466179.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3",
-          "date": "2024-09-19 00:30:50",
-          "localizedDescription": "Current of MikotoX - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/550",
-          "size": 7895777
-        },
-        {
-          "version": "1.3",
-          "date": "2024-09-19 00:30:50",
-          "localizedDescription": "Old Version of MikotoX - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/550",
-          "size": 7895777
-        }
-      ],
-      "version": "1.3",
-      "versionDate": "2024-09-19 00:30:50",
-      "versionDescription": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/550",
-      "formatedsize": "7.53 MB",
-      "size": 7895777
     }
   ],
   "userInfo": {}

@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "MikotoX",
+      "bundleIdentifier": "com.straight-tamago.mikotoX",
+      "developerName": "straight tamago",
+      "subtitle": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!",
+      "localizedDescription": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.straight-tamago.mikotoX\n\n Downloads: 469\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1726881495.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17266916794466179.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2024-09-19 00:30:50",
+          "localizedDescription": "Current of MikotoX - 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/550",
+          "size": 7895777
+        },
+        {
+          "version": "1.3",
+          "date": "2024-09-19 00:30:50",
+          "localizedDescription": "Old Version of MikotoX - 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/550",
+          "size": 7895777
+        }
+      ],
+      "version": "1.3",
+      "versionDate": "2024-09-19 00:30:50",
+      "versionDescription": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/550",
+      "formatedsize": "7.53 MB",
+      "size": 7895777
+    },
+    {
       "name": "Dopamine-roothide",
       "bundleIdentifier": "com.opa334.Dopamine.roothide",
       "developerName": "RootHide",
@@ -3056,17 +3091,6 @@
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.reederapp.5.iOS.png"
-    },
-    {
-      "name": "RadioAppPremium",
-      "bundleIdentifier": "com.firstclass.radiofree",
-      "version": "2.0.19",
-      "versionDate": "2024-10-12",
-      "size": 35329967,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadioAppPremium/RadioAppPremium-2.0.19.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
     }
   ],
   "userInfo": {}

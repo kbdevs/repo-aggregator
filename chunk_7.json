@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Stellarium",
+      "type": 1,
+      "bundleID": "com.noctuasoftware.stellarium-mobile-plus",
+      "bundleIdentifier": "com.noctuasoftware.stellarium-mobile-plus",
+      "version": "1.14.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501161257",
+      "size": 314836048,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Stellarium_1.14.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Stellarium_1.14.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png"
+    },
+    {
       "name": "AndalusiDesign",
       "type": 1,
       "bundleID": "com.AppChief.ArabicArt",
@@ -3060,53 +3076,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1311",
       "formatedsize": "2.35 GB",
       "size": 2523293286
-    },
-    {
-      "name": "Castle Crumble",
-      "bundleIdentifier": "com.orbitalknight.castlearcade",
-      "developerName": "Orbital Knight sp. z o.o.",
-      "subtitle": "Embark on an adventure and conquer a variety of kingdoms! In Castle Crumble your goal is clear - castles must fall. Become a hero in far fantasylands. With powerful explosives and mystical spells, crash forts from Ancient, Medieval, Aztec and other times. Aim to win!\r\n\r\nCastle Crumble is where physics allows you to have fun with a blast!\r\n-Cannonball amazing castles\r\n-Execute your conqueror tactics\r\n-Explore fabulous kingdoms with unique visuals\r\n-Use a variety of mechanics on your quest",
-      "localizedDescription": "Embark on an adventure and conquer a variety of kingdoms! In Castle Crumble your goal is clear - castles must fall. Become a hero in far fantasylands. With powerful explosives and mystical spells, crash forts from Ancient, Medieval, Aztec and other times. Aim to win!\r\n\r\nCastle Crumble is where physics allows you to have fun with a blast!\r\n-Cannonball amazing castles\r\n-Execute your conqueror tactics\r\n-Explore fabulous kingdoms with unique visuals\r\n-Use a variety of mechanics on your quest\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.orbitalknight.castlearcade\n\n Downloads: 230\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731277083.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312770821939724544.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770825166615604.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770826444281831.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770827519364732.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770828393688781.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770830035630771.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.17.0",
-          "date": "2025-03-21 14:02:31",
-          "localizedDescription": "Current of Castle Crumble - 1.17.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
-          "size": 884054425
-        },
-        {
-          "version": "1.14.1",
-          "date": "2024-11-10 17:18:03",
-          "localizedDescription": "Old Version of Castle Crumble - 1.14.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/970",
-          "size": 777833676
-        },
-        {
-          "version": "1.17.0",
-          "date": "2025-03-21 14:02:31",
-          "localizedDescription": "Old Version of Castle Crumble - 1.17.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
-          "size": 884054425
-        }
-      ],
-      "version": "1.17.0",
-      "versionDate": "2025-03-21 14:02:31",
-      "versionDescription": "Embark on an adventure and conquer a variety of kingdoms! In Castle Crumble your goal is clear - castles must fall. Become a hero in far fantasylands. With powerful explosives and mystical spells, crash forts from Ancient, Medieval, Aztec and other times. Aim to win!\r\n\r\nCastle Crumble is where physics allows you to have fun with a blast!\r\n-Cannonball amazing castles\r\n-Execute your conqueror tactics\r\n-Explore fabulous kingdoms with unique visuals\r\n-Use a variety of mechanics on your quest",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
-      "formatedsize": "843.1 MB",
-      "size": 884054425
     }
   ],
   "userInfo": {}

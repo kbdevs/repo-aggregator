@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "ScannerAir",
+      "type": 1,
+      "bundleID": "co.airapps.scannerapp",
+      "bundleIdentifier": "co.airapps.scannerapp",
+      "version": "2025.6.5",
+      "versionDate": "2025-07-03",
+      "fullDate": "20250703221327",
+      "size": 81281507,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/ScannerAir_2025.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/ScannerAir_2025.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png"
+    },
+    {
+      "name": "ReceiptLens",
+      "type": 1,
+      "bundleID": "com.glority.receipt",
+      "bundleIdentifier": "com.glority.receipt",
+      "version": "1.7.10",
+      "versionDate": "2025-07-03",
+      "fullDate": "20250703184208",
+      "size": 14288235,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/ReceiptLens_1.7.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/ReceiptLens_1.7.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.receipt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.receipt.png"
+    },
+    {
+      "name": "Blossom",
+      "type": 1,
+      "bundleID": "com.apalonapps.plants",
+      "bundleIdentifier": "com.apalonapps.plants",
+      "version": "2.62.24",
+      "versionDate": "2025-07-03",
+      "fullDate": "20250703063146",
+      "size": 235129141,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/Blossom_2.62.24_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/Blossom_2.62.24_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png"
+    },
+    {
       "name": "FreeYourMusic",
       "type": 1,
       "bundleID": "io.stampapp.Stamp",
@@ -18,22 +66,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png"
-    },
-    {
-      "name": "Stay",
-      "type": 1,
-      "bundleID": "com.dajiu.stay.pro",
-      "bundleIdentifier": "com.dajiu.stay.pro",
-      "version": "2.9.6",
-      "versionDate": "2025-07-02",
-      "fullDate": "20250702113631",
-      "size": 37916390,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2025/Stay_2.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2025/Stay_2.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png"
     },
     {
       "name": "Dictionary",
@@ -818,22 +850,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.yoga.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.yoga.png"
-    },
-    {
-      "name": "Pigment",
-      "type": 1,
-      "bundleID": "com.pixite.pigment",
-      "bundleIdentifier": "com.pixite.pigment",
-      "version": "3.5",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624035152",
-      "size": 133512471,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Pigment_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Pigment_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png"
     },
     {
       "name": "WestlandSurvival",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kwalee.drawit.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kwalee.drawit.png"
-    },
-    {
-      "name": "StickmanParty",
-      "type": 2,
-      "bundleID": "com.Impera.stickmanparty",
-      "bundleIdentifier": "com.Impera.stickmanparty",
-      "version": "2.4.9",
-      "versionDate": "2025-06-16",
-      "fullDate": "20250616183558",
-      "size": 85467128,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/StickmanParty_2.4.9_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/StickmanParty_2.4.9_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Impera.stickmanparty.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Impera.stickmanparty.png"
     }
   ],
   "userInfo": {}

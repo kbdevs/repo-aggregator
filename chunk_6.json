@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "ToonBlast",
+      "type": 2,
+      "bundleID": "net.peakgames.toonblast",
+      "bundleIdentifier": "net.peakgames.toonblast",
+      "version": "17659",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528171303",
+      "size": 142924970,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/ToonBlast_17659_CoinsIncrease_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/ToonBlast_17659_CoinsIncrease_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with CoinsIncrease",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.peakgames.toonblast.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.peakgames.toonblast.png"
+    },
+    {
       "name": "Thronefall",
       "type": 2,
       "bundleID": "com.doghowlgames.thronefall",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
-    },
-    {
-      "name": "Stellarium",
-      "type": 1,
-      "bundleID": "com.noctuasoftware.stellarium-mobile-plus",
-      "bundleIdentifier": "com.noctuasoftware.stellarium-mobile-plus",
-      "version": "1.14.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501161257",
-      "size": 314836048,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Stellarium_1.14.1_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Stellarium_1.14.1_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png"
     }
   ],
   "userInfo": {}
