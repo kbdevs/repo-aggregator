@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "DrawIt",
+      "type": 2,
+      "bundleID": "com.kwalee.drawit",
+      "bundleIdentifier": "com.kwalee.drawit",
+      "version": "2.0.4",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616213233",
+      "size": 111993152,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/DrawIt_2.0.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/DrawIt_2.0.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kwalee.drawit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kwalee.drawit.png"
+    },
+    {
       "name": "StickmanParty",
       "type": 2,
       "bundleID": "com.Impera.stickmanparty",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Damage Multiplier",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragon3.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragon3.png"
-    },
-    {
-      "name": "Pixomatic",
-      "type": 1,
-      "bundleID": "us.pixomaticpro.PixomaticPro",
-      "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
-      "version": "2.55.32",
-      "versionDate": "2025-05-30",
-      "fullDate": "20250530153037",
-      "size": 175285793,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/Pixomatic_2.55.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/Pixomatic_2.55.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png"
     },
     {
       "name": "FindDiamonds",
