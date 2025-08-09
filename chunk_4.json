@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Remember",
+      "type": 1,
+      "bundleID": "io.rmmbr.remember",
+      "bundleIdentifier": "io.rmmbr.remember",
+      "version": "5.19",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704155849",
+      "size": 71044510,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Remember_5.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Remember_5.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.rmmbr.remember.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.rmmbr.remember.png"
+    },
+    {
+      "name": "Gratitude",
+      "type": 1,
+      "bundleID": "com.northstar.gratitude",
+      "bundleIdentifier": "com.northstar.gratitude",
+      "version": "4.0.34",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704155847",
+      "size": 38315944,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Gratitude_4.0.34_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Gratitude_4.0.34_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.northstar.gratitude.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.northstar.gratitude.png"
+    },
+    {
+      "name": "SummaryAI",
+      "type": 1,
+      "bundleID": "io.labhouse.audioapp",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "version": "2.1.3",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704155844",
+      "size": 93984539,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/SummaryAI_2.1.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/SummaryAI_2.1.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png"
+    },
+    {
       "name": "Accountit",
       "type": 1,
       "bundleID": "DesignTech-SIA.Spendit",
@@ -690,22 +738,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png"
-    },
-    {
-      "name": "PSExpress",
-      "type": 1,
-      "bundleID": "com.adobe.PSMobile",
-      "bundleIdentifier": "com.adobe.PSMobile",
-      "version": "25.25.0",
-      "versionDate": "2025-06-25",
-      "fullDate": "20250625112654",
-      "size": 161493172,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/PSExpress_25.25.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/PSExpress_25.25.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png"
     },
     {
       "name": "YPT",
@@ -1652,22 +1684,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png"
     },
     {
-      "name": "1Blocker",
-      "type": 1,
-      "bundleID": "com.khanov.BlockerX",
-      "bundleIdentifier": "com.khanov.BlockerX",
-      "version": "6.1.4",
-      "versionDate": "2025-06-18",
-      "fullDate": "20250618135708",
-      "size": 36751022,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/1Blocker_6.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/1Blocker_6.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png"
-    },
-    {
       "name": "Roblox",
       "type": 1,
       "bundleID": "com.gloop.deltamobile",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png"
-    },
-    {
-      "name": "CodeRunner",
-      "type": 1,
-      "bundleID": "com.markodevcic.code-runner",
-      "bundleIdentifier": "com.markodevcic.code-runner",
-      "version": "1.5.6",
-      "versionDate": "2025-06-17",
-      "fullDate": "20250617023935",
-      "size": 27461916,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/CodeRunner_1.5.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/CodeRunner_1.5.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.code-runner.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.code-runner.png"
     }
   ],
   "userInfo": {}

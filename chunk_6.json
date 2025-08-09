@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "BlockWorld3D",
+      "type": 2,
+      "bundleID": "com.blockgamesstudio.blockworld3d",
+      "bundleIdentifier": "com.blockgamesstudio.blockworld3d",
+      "version": "12.1.0",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528171316",
+      "size": 102003063,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/BlockWorld3D_12.1.0_OHK_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/BlockWorld3D_12.1.0_OHK_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with OHK",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockgamesstudio.blockworld3d.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockgamesstudio.blockworld3d.png"
+    },
+    {
       "name": "ToonBlast",
       "type": 2,
       "bundleID": "net.peakgames.toonblast",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alegrium.cong2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alegrium.cong2.png"
-    },
-    {
-      "name": "AppGroupCheck",
-      "type": 1,
-      "bundleID": "com.choco.appgroupcheck",
-      "bundleIdentifier": "com.choco.appgroupcheck",
-      "version": "1.0.0",
-      "versionDate": "2025-05-02",
-      "fullDate": "20250502041032",
-      "size": 3329442,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     }
   ],
   "userInfo": {}

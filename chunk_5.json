@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "CodeRunner",
+      "type": 1,
+      "bundleID": "com.markodevcic.code-runner",
+      "bundleIdentifier": "com.markodevcic.code-runner",
+      "version": "1.5.6",
+      "versionDate": "2025-06-17",
+      "fullDate": "20250617023935",
+      "size": 27461916,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/CodeRunner_1.5.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/CodeRunner_1.5.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.code-runner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.code-runner.png"
+    },
+    {
       "name": "DrawIt",
       "type": 2,
       "bundleID": "com.kwalee.drawit",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with DamageMultiplier",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.505games.gemsofwar.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.505games.gemsofwar.png"
-    },
-    {
-      "name": "BlockWorld3D",
-      "type": 2,
-      "bundleID": "com.blockgamesstudio.blockworld3d",
-      "bundleIdentifier": "com.blockgamesstudio.blockworld3d",
-      "version": "12.1.0",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528171316",
-      "size": 102003063,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/BlockWorld3D_12.1.0_OHK_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/BlockWorld3D_12.1.0_OHK_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with OHK",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockgamesstudio.blockworld3d.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockgamesstudio.blockworld3d.png"
     }
   ],
   "userInfo": {}

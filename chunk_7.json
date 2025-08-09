@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "AppGroupCheck",
+      "type": 1,
+      "bundleID": "com.choco.appgroupcheck",
+      "bundleIdentifier": "com.choco.appgroupcheck",
+      "version": "1.0.0",
+      "versionDate": "2025-05-02",
+      "fullDate": "20250502041032",
+      "size": 3329442,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
+    },
+    {
       "name": "Stellarium",
       "type": 1,
       "bundleID": "com.noctuasoftware.stellarium-mobile-plus",
@@ -18,22 +34,6 @@
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png"
-    },
-    {
-      "name": "AndalusiDesign",
-      "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
     },
     {
       "name": "RashaqaWorkout",
@@ -1229,10 +1229,10 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "2.3.0",
-          "date": "2025-08-03T21:36:24Z",
+          "version": "2.3.1",
+          "date": "2025-08-08T08:20:00Z",
           "size": 12598584,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.0/Feather.ipa"
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.1/Feather.ipa"
         }
       ],
       "appPermissions": {},
@@ -1242,10 +1242,10 @@
         "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Sign.png?raw=true",
         "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Store.png?raw=true"
       ],
-      "version": "2.3.0",
-      "versionDate": "2025-08-03T21:36:24Z",
+      "version": "2.3.1",
+      "versionDate": "2025-08-08T08:20:00Z",
       "size": 12598584,
-      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.0/Feather.ipa"
+      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.1/Feather.ipa"
     },
     {
       "beta": false,
