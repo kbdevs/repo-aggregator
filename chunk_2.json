@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "MagicTiles3",
+      "type": 2,
+      "bundleID": "com.amanotes.magictiles",
+      "bundleIdentifier": "com.amanotes.magictiles",
+      "version": "12.073.018",
+      "versionDate": "2025-08-04",
+      "fullDate": "20250804213559",
+      "size": 200877606,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/MagicTiles3_12.073.018_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/MagicTiles3_12.073.018_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.amanotes.magictiles.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.amanotes.magictiles.png"
+    },
+    {
       "name": "Tarteel",
       "type": 1,
       "bundleID": "com.iqraapp.Iqra",
@@ -1554,22 +1570,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calculated.laurene.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calculated.laurene.png"
-    },
-    {
-      "name": "Homeworkouts",
-      "type": 1,
-      "bundleID": "com.abishkking.maleworkout",
-      "bundleIdentifier": "com.abishkking.maleworkout",
-      "version": "1.37.0",
-      "versionDate": "2025-07-24",
-      "fullDate": "20250724191033",
-      "size": 356119568,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/Homeworkouts_1.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/Homeworkouts_1.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.maleworkout.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.maleworkout.png"
     },
     {
       "name": "Mockview",

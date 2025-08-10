@@ -838,6 +838,22 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "Homeworkouts",
+      "type": 1,
+      "bundleID": "com.abishkking.maleworkout",
+      "bundleIdentifier": "com.abishkking.maleworkout",
+      "version": "1.38.0",
+      "versionDate": "2025-08-09",
+      "fullDate": "20250809131932",
+      "size": 357049582,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2025/Homeworkouts_1.38.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2025/Homeworkouts_1.38.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.maleworkout.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.maleworkout.png"
+    },
+    {
       "name": "Komoot",
       "type": 1,
       "bundleID": "de.komoot.berlinbikeapp",
@@ -2644,22 +2660,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
-    },
-    {
-      "name": "MagicTiles3",
-      "type": 2,
-      "bundleID": "com.amanotes.magictiles",
-      "bundleIdentifier": "com.amanotes.magictiles",
-      "version": "12.073.018",
-      "versionDate": "2025-08-04",
-      "fullDate": "20250804213559",
-      "size": 200877606,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/MagicTiles3_12.073.018_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/MagicTiles3_12.073.018_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.amanotes.magictiles.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.amanotes.magictiles.png"
     }
   ],
   "userInfo": {}
