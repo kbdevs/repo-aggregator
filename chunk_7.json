@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Brite",
+      "type": 1,
+      "bundleID": "io.konveier.timo",
+      "bundleIdentifier": "io.konveier.timo",
+      "version": "24.1.8",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503143519",
+      "size": 25493291,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Brite_24.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Brite_24.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png"
+    },
+    {
+      "name": "TerrariumGardenIdle",
+      "type": 2,
+      "bundleID": "sk.phx.terrarium",
+      "bundleIdentifier": "sk.phx.terrarium",
+      "version": "1.31.4",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503143015",
+      "size": 69756217,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/TerrariumGardenIdle_1.31.4_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/TerrariumGardenIdle_1.31.4_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sk.phx.terrarium.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sk.phx.terrarium.png"
+    },
+    {
+      "name": "CashInc",
+      "type": 2,
+      "bundleID": "com.alegrium.cong2",
+      "bundleIdentifier": "com.alegrium.cong2",
+      "version": "2.4.14",
+      "versionDate": "2025-05-02",
+      "fullDate": "20250502204253",
+      "size": 133372230,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/CashInc_2.4.14_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/CashInc_2.4.14_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alegrium.cong2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alegrium.cong2.png"
+    },
+    {
       "name": "AppGroupCheck",
       "type": 1,
       "bundleID": "com.choco.appgroupcheck",
@@ -2956,126 +3004,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1314",
       "formatedsize": "622.4 MB",
       "size": 652633702
-    },
-    {
-      "name": "Happy Printer (Hacked)",
-      "bundleIdentifier": "com.happyprinter.game",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.happyprinter.game\n\n Downloads: 85\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742864177.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17428641745223488711.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641746039923022.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641747385629083.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641747994821266.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641757518093569.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641758209454014.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.6.7",
-          "date": "2025-03-24 20:56:17",
-          "localizedDescription": "Current of Happy Printer (Hacked) - 4.6.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1313",
-          "size": 122893107
-        },
-        {
-          "version": "4.6.7",
-          "date": "2025-03-24 20:56:17",
-          "localizedDescription": "Old Version of Happy Printer (Hacked) - 4.6.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1313",
-          "size": 122893107
-        }
-      ],
-      "version": "4.6.7",
-      "versionDate": "2025-03-24 20:56:17",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1313",
-      "formatedsize": "117.2 MB",
-      "size": 122893107
-    },
-    {
-      "name": "AI Chatbot: AI Chat Smith 4 (Hacked)",
-      "bundleIdentifier": "co.vulcanlabs.moodtracker",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: co.vulcanlabs.moodtracker\n\n Downloads: 2439\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742864038.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17428640378679300000.webp",
-        "https://apps.nabzclan.vip/screenshots/17428640379374871552.webp",
-        "https://apps.nabzclan.vip/screenshots/17428640379877697876.webp",
-        "https://apps.nabzclan.vip/screenshots/17428640380385910359.webp",
-        "https://apps.nabzclan.vip/screenshots/17428640380985578730.webp",
-        "https://apps.nabzclan.vip/screenshots/17428640381567424547.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "7.12.0",
-          "date": "2025-03-24 20:53:58",
-          "localizedDescription": "Current of AI Chatbot: AI Chat Smith 4 (Hacked) - 7.12.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1312",
-          "size": 138097459
-        },
-        {
-          "version": "7.12.0",
-          "date": "2025-03-24 20:53:58",
-          "localizedDescription": "Old Version of AI Chatbot: AI Chat Smith 4 (Hacked) - 7.12.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1312",
-          "size": 138097459
-        }
-      ],
-      "version": "7.12.0",
-      "versionDate": "2025-03-24 20:53:58",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1312",
-      "formatedsize": "131.7 MB",
-      "size": 138097459
-    },
-    {
-      "name": "Aerofly FS Global",
-      "bundleIdentifier": "com.aerofly.aerofly-fs-g1-ios",
-      "developerName": "IPACS",
-      "subtitle": "Aerofly FS Global is a highly realistic Flight Simulator in PC-quality for your mobile device for beginner and professional flight sim pilots. Explore the world of flying with extremely detailed and accurately simulated airliners, fully interactive 3D cockpits and realistic aircraft systems. Fly with complex airliners, helicopters, business jets, fighter jets and warbirds, general aviation aircraft, aerobatic stuntplanes and gliders across the photorealistic landscape.\r\n\r\nIMPORTANT NOTE: The level of graphics details depends on your device performance and memory.",
-      "localizedDescription": "Aerofly FS Global is a highly realistic Flight Simulator in PC-quality for your mobile device for beginner and professional flight sim pilots. Explore the world of flying with extremely detailed and accurately simulated airliners, fully interactive 3D cockpits and realistic aircraft systems. Fly with complex airliners, helicopters, business jets, fighter jets and warbirds, general aviation aircraft, aerobatic stuntplanes and gliders across the photorealistic landscape.\r\n\r\nIMPORTANT NOTE: The level of graphics details depends on your device performance and memory.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.aerofly.aerofly-fs-g1-ios\n\n Downloads: 706\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742580682.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17425806811606553328.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806813059709531.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806815373441004.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806817662403976.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806819295065104.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806820683932677.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.15",
-          "date": "2025-03-21 14:11:22",
-          "localizedDescription": "Current of Aerofly FS Global - 1.4.15",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1311",
-          "size": 2523293286
-        },
-        {
-          "version": "1.4.15",
-          "date": "2025-03-21 14:11:22",
-          "localizedDescription": "Old Version of Aerofly FS Global - 1.4.15",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1311",
-          "size": 2523293286
-        }
-      ],
-      "version": "1.4.15",
-      "versionDate": "2025-03-21 14:11:22",
-      "versionDescription": "Aerofly FS Global is a highly realistic Flight Simulator in PC-quality for your mobile device for beginner and professional flight sim pilots. Explore the world of flying with extremely detailed and accurately simulated airliners, fully interactive 3D cockpits and realistic aircraft systems. Fly with complex airliners, helicopters, business jets, fighter jets and warbirds, general aviation aircraft, aerobatic stuntplanes and gliders across the photorealistic landscape.\r\n\r\nIMPORTANT NOTE: The level of graphics details depends on your device performance and memory.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1311",
-      "formatedsize": "2.35 GB",
-      "size": 2523293286
     }
   ],
   "userInfo": {}

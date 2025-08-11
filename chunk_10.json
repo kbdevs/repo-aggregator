@@ -4,6 +4,126 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Mini Militia (beta)",
+      "bundleIdentifier": "com.appsomniacs.mmc",
+      "developerName": "phantom",
+      "subtitle": "Unreleased beta version of Mini Militia",
+      "localizedDescription": "Unreleased beta version of Mini Militia\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.appsomniacs.mmc\n\n Downloads: 155\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1726880002.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17268800016275143497.webp",
+        "https://apps.nabzclan.vip/screenshots/17268800018145206616.webp",
+        "https://apps.nabzclan.vip/screenshots/17268800018917890058.webp",
+        "https://apps.nabzclan.vip/screenshots/17268800019651518798.webp",
+        "https://apps.nabzclan.vip/screenshots/17268800020412557466.webp",
+        "https://apps.nabzclan.vip/screenshots/17268800021139556066.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "0.13.7",
+          "date": "2024-09-21 04:53:22",
+          "localizedDescription": "Current of Mini Militia (beta) - 0.13.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/584",
+          "size": 53372518
+        },
+        {
+          "version": "0.13.7",
+          "date": "2024-09-21 04:53:22",
+          "localizedDescription": "Old Version of Mini Militia (beta) - 0.13.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/584",
+          "size": 53372518
+        }
+      ],
+      "version": "0.13.7",
+      "versionDate": "2024-09-21 04:53:22",
+      "versionDescription": "Unreleased beta version of Mini Militia",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/584",
+      "formatedsize": "50.9 MB",
+      "size": 53372518
+    },
+    {
+      "name": "Gold and Goblins (Hack)",
+      "bundleIdentifier": "com.redcellgames.goldandgoblins",
+      "developerName": "babylonIPA",
+      "subtitle": "Hack Features:-\r\n- Everything will increase instead of decrease ( Gold , Gems , Elixer )",
+      "localizedDescription": "Hack Features:-\r\n- Everything will increase instead of decrease ( Gold , Gems , Elixer )\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.redcellgames.goldandgoblins\n\n Downloads: 145\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726737356.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17267373556364580701.webp",
+        "https://apps.nabzclan.vip/screenshots/17267373558267296972.webp",
+        "https://apps.nabzclan.vip/screenshots/17267373559297723784.webp",
+        "https://apps.nabzclan.vip/screenshots/17267373560231785034.webp",
+        "https://apps.nabzclan.vip/screenshots/17267373561019936013.webp",
+        "https://apps.nabzclan.vip/screenshots/17267373561793888920.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.37.0",
+          "date": "2024-09-19 13:15:56",
+          "localizedDescription": "Current of Gold and Goblins (Hack) - 1.37.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/572",
+          "size": 91645542
+        },
+        {
+          "version": "1.37.0",
+          "date": "2024-09-19 13:15:56",
+          "localizedDescription": "Old Version of Gold and Goblins (Hack) - 1.37.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/572",
+          "size": 91645542
+        }
+      ],
+      "version": "1.37.0",
+      "versionDate": "2024-09-19 13:15:56",
+      "versionDescription": "Hack Features:-\r\n- Everything will increase instead of decrease ( Gold , Gems , Elixer )",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/572",
+      "formatedsize": "87.4 MB",
+      "size": 91645542
+    },
+    {
+      "name": "Squad Alpha (Hack)",
+      "bundleIdentifier": "com.game.missioncrit",
+      "developerName": "babylonIPA",
+      "subtitle": "Hack Features :\r\n- One Hit Kill\r\n- Never Die",
+      "localizedDescription": "Hack Features :\r\n- One Hit Kill\r\n- Never Die\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Apps\n\n BundleID: com.game.missioncrit\n\n Downloads: 63\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726698887.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17266988794736180730.webp",
+        "https://apps.nabzclan.vip/screenshots/17266988812692913777.webp",
+        "https://apps.nabzclan.vip/screenshots/17266988815609901238.webp",
+        "https://apps.nabzclan.vip/screenshots/17266988816682198967.webp",
+        "https://apps.nabzclan.vip/screenshots/17266988831531949489.webp",
+        "https://apps.nabzclan.vip/screenshots/17266988850503787079.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.7.20",
+          "date": "2024-09-19 02:34:47",
+          "localizedDescription": "Current of Squad Alpha (Hack) - 1.7.20",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/562",
+          "size": 583427686
+        },
+        {
+          "version": "1.7.20",
+          "date": "2024-09-19 02:34:47",
+          "localizedDescription": "Old Version of Squad Alpha (Hack) - 1.7.20",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/562",
+          "size": 583427686
+        }
+      ],
+      "version": "1.7.20",
+      "versionDate": "2024-09-19 02:34:47",
+      "versionDescription": "Hack Features :\r\n- One Hit Kill\r\n- Never Die",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/562",
+      "formatedsize": "556.4 MB",
+      "size": 583427686
+    },
+    {
       "name": "MikotoX",
       "bundleIdentifier": "com.straight-tamago.mikotoX",
       "developerName": "straight tamago",
@@ -3058,39 +3178,6 @@
       "developerName": "ArianaMinajj",
       "localizedDescription": "Injected with Satella for no ads. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.csj.ling.png"
-    },
-    {
-      "name": "ResolutionSetterTS",
-      "bundleIdentifier": "com.michael.resolutionsetter",
-      "version": "1.3.0",
-      "versionDate": "2024-10-13",
-      "size": 30408,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ResolutionSetterTS/ResolutionSetterTS-1.3.0.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michael.resolutionsetter.png"
-    },
-    {
-      "name": "RemoteMousePro",
-      "bundleIdentifier": "com.remotemouse.remotemouse4free",
-      "version": "5.300",
-      "versionDate": "2024-10-13",
-      "size": 38923298,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RemoteMousePro/RemoteMousePro-5.300.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to transform your iPhone into a versatile remote control. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.remotemouse.remotemouse4free.png"
-    },
-    {
-      "name": "ReederClassic",
-      "bundleIdentifier": "com.reederapp.5.iOS",
-      "version": "5.4.4",
-      "versionDate": "2024-10-13",
-      "size": 5668093,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReederClassic/ReederClassic-5.4.4.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.reederapp.5.iOS.png"
     }
   ],
   "userInfo": {}
