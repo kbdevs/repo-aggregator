@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "OffScreen",
+      "type": 1,
+      "bundleID": "tech.miidii.off-screen",
+      "bundleIdentifier": "tech.miidii.off-screen",
+      "version": "3.19.7",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503151028",
+      "size": 89352180,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png"
+    },
+    {
       "name": "Brite",
       "type": 1,
       "bundleID": "io.konveier.timo",
@@ -2965,45 +2981,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1317",
       "formatedsize": "2.44 GB",
       "size": 2619930050
-    },
-    {
-      "name": "112 Operator",
-      "bundleIdentifier": "com.jutsugames.operator112m",
-      "developerName": "Games Operators",
-      "subtitle": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!",
-      "localizedDescription": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.jutsugames.operator112m\n\n Downloads: 231\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742864438.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17428644379304383569.webp",
-        "https://apps.nabzclan.vip/screenshots/17428644380873605385.webp",
-        "https://apps.nabzclan.vip/screenshots/17428644382219669001.webp",
-        "https://apps.nabzclan.vip/screenshots/17428644383572790376.webp",
-        "https://apps.nabzclan.vip/screenshots/17428644385272344747.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.1",
-          "date": "2025-03-24 21:00:38",
-          "localizedDescription": "Current of 112 Operator - 1.5.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1314",
-          "size": 652633702
-        },
-        {
-          "version": "1.5.1",
-          "date": "2025-03-24 21:00:38",
-          "localizedDescription": "Old Version of 112 Operator - 1.5.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1314",
-          "size": 652633702
-        }
-      ],
-      "version": "1.5.1",
-      "versionDate": "2025-03-24 21:00:38",
-      "versionDescription": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1314",
-      "formatedsize": "622.4 MB",
-      "size": 652633702
     }
   ],
   "userInfo": {}

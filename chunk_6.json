@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "RiseofBerk",
+      "type": 2,
+      "bundleID": "com.ludia.dragons",
+      "bundleIdentifier": "com.ludia.dragons",
+      "version": "1.96.7",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528181617",
+      "size": 626493745,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/RiseofBerk_1.96.7_FreezeCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/RiseofBerk_1.96.7_FreezeCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with FreezeCurrencies",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragons.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragons.png"
+    },
+    {
+      "name": "CarXHighwayRacing",
+      "type": 2,
+      "bundleID": "com.CarXTech.highWayRacing",
+      "bundleIdentifier": "com.CarXTech.highWayRacing",
+      "version": "1.75.5",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528181055",
+      "size": 495887175,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CarXHighwayRacing_1.75.5_InfiniteCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CarXHighwayRacing_1.75.5_InfiniteCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with InfiniteCurrencies",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CarXTech.highWayRacing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CarXTech.highWayRacing.png"
+    },
+    {
       "name": "PvZ",
       "type": 2,
       "bundleID": "com.ea.pvzfree.bv",
@@ -1828,22 +1860,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
-      "name": "SimplePi",
-      "type": 1,
-      "bundleID": "me.hirmer.SimplePi.free",
-      "bundleIdentifier": "me.hirmer.SimplePi.free",
-      "version": "3.2.4",
-      "versionDate": "2025-05-04",
-      "fullDate": "20250504021800",
-      "size": 7752452,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2025/SimplePi_3.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2025/SimplePi_3.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.hirmer.SimplePi.free.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.hirmer.SimplePi.free.png"
-    },
-    {
       "name": "DarkNoise",
       "type": 1,
       "bundleID": "com.charliemchapman.dark-noise",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png"
-    },
-    {
-      "name": "OffScreen",
-      "type": 1,
-      "bundleID": "tech.miidii.off-screen",
-      "bundleIdentifier": "tech.miidii.off-screen",
-      "version": "3.19.7",
-      "versionDate": "2025-05-03",
-      "fullDate": "20250503151028",
-      "size": 89352180,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png"
     }
   ],
   "userInfo": {}

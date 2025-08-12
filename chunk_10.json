@@ -4,6 +4,52 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "OldOS",
+      "bundleIdentifier": "com.zurac.OldOS",
+      "developerName": "zzanehip/OldOS guy",
+      "subtitle": "A simulator to make it seem like you\u2019re running an old iPhone",
+      "localizedDescription": "A simulator to make it seem like you\u2019re running an old iPhone\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: com.zurac.OldOS\n\n Downloads: 627\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1701041160.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269000975762295.webp",
+        "https://apps.nabzclan.vip/screenshots/17269000973270311.webp",
+        "https://apps.nabzclan.vip/screenshots/17269000986454470.webp",
+        "https://apps.nabzclan.vip/screenshots/17269000982077657.webp",
+        "https://apps.nabzclan.vip/screenshots/17269000981506528.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0 (18)",
+          "date": "2024-09-21 10:30:28",
+          "localizedDescription": "Current of OldOS - 1.0 (18)",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/588",
+          "size": 88185241
+        },
+        {
+          "version": "9.0",
+          "date": "2023-11-28 02:44:17",
+          "localizedDescription": "Old Version of OldOS - 9.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/334",
+          "size": 88174755
+        },
+        {
+          "version": "1.0 (18)",
+          "date": "2024-09-21 10:30:28",
+          "localizedDescription": "Old Version of OldOS - 1.0 (18)",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/588",
+          "size": 88185241
+        }
+      ],
+      "version": "1.0 (18)",
+      "versionDate": "2024-09-21 10:30:28",
+      "versionDescription": "A simulator to make it seem like you\u2019re running an old iPhone",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/588",
+      "formatedsize": "84.1 MB",
+      "size": 88185241
+    },
+    {
       "name": "Mini Militia (beta)",
       "bundleIdentifier": "com.appsomniacs.mmc",
       "developerName": "phantom",
@@ -3167,17 +3213,6 @@
       "developerName": "Manpreet Singh @thisismanpreets",
       "localizedDescription": "This app offers advanced security features including PIN-code, Touch ID, Face ID, DotLock, and both numeric and alphabetic passwords, ensuring that your confidential photo album is securely locked and protected from unauthorized viewers.\nLast updated: 04-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.appslab.safelock.png"
-    },
-    {
-      "name": "RingtoneMaker",
-      "bundleIdentifier": "com.csj.ling",
-      "version": "1.9.17",
-      "versionDate": "2024-10-13",
-      "size": 15388388,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RingtoneMaker/RingtoneMaker-1.9.17.ipa",
-      "developerName": "ArianaMinajj",
-      "localizedDescription": "Injected with Satella for no ads. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.csj.ling.png"
     }
   ],
   "userInfo": {}
