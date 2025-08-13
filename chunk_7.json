@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Breathwrk",
+      "type": 1,
+      "bundleID": "com.breathwrk.ios",
+      "bundleIdentifier": "com.breathwrk.ios",
+      "version": "23.38",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503153538",
+      "size": 237901443,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Breathwrk_23.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Breathwrk_23.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png"
+    },
+    {
+      "name": "PhotoSwipe",
+      "type": 1,
+      "bundleID": "com.app.gallerycleaner",
+      "bundleIdentifier": "com.app.gallerycleaner",
+      "version": "6.0",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503151535",
+      "size": 3767709,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PhotoSwipe_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PhotoSwipe_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.gallerycleaner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.gallerycleaner.png"
+    },
+    {
+      "name": "POV",
+      "type": 1,
+      "bundleID": "com.SixThree.POV",
+      "bundleIdentifier": "com.SixThree.POV",
+      "version": "5.14",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503151532",
+      "size": 48879436,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/POV_5.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/POV_5.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png"
+    },
+    {
       "name": "OffScreen",
       "type": 1,
       "bundleID": "tech.miidii.off-screen",
@@ -2855,132 +2903,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/870",
       "formatedsize": "116.8 MB",
       "size": 122473676
-    },
-    {
-      "name": "Pizza Ready (Hack)",
-      "bundleIdentifier": "io.supercent.pizzaidle",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: io.supercent.pizzaidle\n\n Downloads: 424\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726695918.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17266959171648836742.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959174874048556.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959177005485692.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959179007696069.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959180565019833.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "24.0.0",
-          "date": "2025-03-29 17:52:09",
-          "localizedDescription": "Current of Pizza Ready (Hack) - 24.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-          "size": 182452224
-        },
-        {
-          "version": "24.0.0",
-          "date": "2025-03-29 17:52:09",
-          "localizedDescription": "Old Version of Pizza Ready (Hack) - 24.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-          "size": 182452224
-        }
-      ],
-      "version": "24.0.0",
-      "versionDate": "2025-03-29 17:52:09",
-      "versionDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-      "formatedsize": "174.0 MB",
-      "size": 182452224
-    },
-    {
-      "name": "Silly Walks (Hack)",
-      "bundleIdentifier": "com.parttimemonkey.sillywalks",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.parttimemonkey.sillywalks\n\n Downloads: 54\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1734217867.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342178654654191234.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178656067312358.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178664341639979.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178665444955388.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178669698867982.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178674028020042.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.2",
-          "date": "2025-03-29 17:49:05",
-          "localizedDescription": "Current of Silly Walks (Hack) - 1.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-          "size": 67066920
-        },
-        {
-          "version": "1.2.2",
-          "date": "2025-03-29 17:49:05",
-          "localizedDescription": "Old Version of Silly Walks (Hack) - 1.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-          "size": 67066920
-        }
-      ],
-      "version": "1.2.2",
-      "versionDate": "2025-03-29 17:49:05",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-      "formatedsize": "63.96 MB",
-      "size": 67066920
-    },
-    {
-      "name": "Call of Duty: Mobile (Hacked) (VNG)",
-      "bundleIdentifier": "vn.vng.codmvn",
-      "developerName": "Bando",
-      "subtitle": "Youtube Video: https://youtu.be/RG1rQrrMS_c\r\n\r\nHack Features:\r\n- wallhacks\r\n- speed\r\n- fast scope \r\n-hitbox\r\n- player speed when sliding\r\n- no flashbang \r\n- no muzzle flash hit box small dot\r\n- infinite shooting infinite clip \r\n- no reload\r\n- anti flash\r\n- increased aim assist\r\n- UAV multiplayer \r\n- always knife\r\n- free climb\r\n- no recoil\r\n- spread bullets\r\n- small dot crosshair\r\n- fast swimming\r\n- fast parachute\r\nand more",
-      "localizedDescription": "Youtube Video: https://youtu.be/RG1rQrrMS_c\r\n\r\nHack Features:\r\n- wallhacks\r\n- speed\r\n- fast scope \r\n-hitbox\r\n- player speed when sliding\r\n- no flashbang \r\n- no muzzle flash hit box small dot\r\n- infinite shooting infinite clip \r\n- no reload\r\n- anti flash\r\n- increased aim assist\r\n- UAV multiplayer \r\n- always knife\r\n- free climb\r\n- no recoil\r\n- spread bullets\r\n- small dot crosshair\r\n- fast swimming\r\n- fast parachute\r\nand more\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: vn.vng.codmvn\n\n Downloads: 4485\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1742507745.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17425077445068165924.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077448485575734.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077449695708545.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077450123465014.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077450479923858.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077451536622191.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.50",
-          "date": "2025-03-24 21:58:10",
-          "localizedDescription": "Current of Call of Duty: Mobile (Hacked) (VNG) - 1.8.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1317",
-          "size": 2619930050
-        },
-        {
-          "version": "1.8.49",
-          "date": "2025-03-20 17:55:45",
-          "localizedDescription": "Old Version of Call of Duty: Mobile (Hacked) (VNG) - 1.8.49",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1304",
-          "size": 2244120412
-        },
-        {
-          "version": "1.8.50",
-          "date": "2025-03-24 21:58:10",
-          "localizedDescription": "Old Version of Call of Duty: Mobile (Hacked) (VNG) - 1.8.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1317",
-          "size": 2619930050
-        }
-      ],
-      "version": "1.8.50",
-      "versionDate": "2025-03-24 21:58:10",
-      "versionDescription": "Youtube Video: https://youtu.be/RG1rQrrMS_c\r\n\r\nHack Features:\r\n- wallhacks\r\n- speed\r\n- fast scope \r\n-hitbox\r\n- player speed when sliding\r\n- no flashbang \r\n- no muzzle flash hit box small dot\r\n- infinite shooting infinite clip \r\n- no reload\r\n- anti flash\r\n- increased aim assist\r\n- UAV multiplayer \r\n- always knife\r\n- free climb\r\n- no recoil\r\n- spread bullets\r\n- small dot crosshair\r\n- fast swimming\r\n- fast parachute\r\nand more",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1317",
-      "formatedsize": "2.44 GB",
-      "size": 2619930050
     }
   ],
   "userInfo": {}
