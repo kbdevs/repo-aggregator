@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "HeroBlitz",
+      "type": 2,
+      "bundleID": "com.ondi.swordroguelite",
+      "bundleIdentifier": "com.ondi.swordroguelite",
+      "version": "1.6.1",
+      "versionDate": "2025-06-17",
+      "fullDate": "20250617174430",
+      "size": 334143308,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/HeroBlitz_1.6.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/HeroBlitz_1.6.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ondi.swordroguelite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ondi.swordroguelite.png"
+    },
+    {
+      "name": "SoulKnight",
+      "type": 2,
+      "bundleID": "com.ChillyRoom.DungeonShooter",
+      "bundleIdentifier": "com.ChillyRoom.DungeonShooter",
+      "version": "7.3.0",
+      "versionDate": "2025-06-17",
+      "fullDate": "20250617173348",
+      "size": 556407542,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/SoulKnight_7.3.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/SoulKnight_7.3.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ChillyRoom.DungeonShooter.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ChillyRoom.DungeonShooter.png"
+    },
+    {
       "name": "jujutsuphanpara",
       "type": 2,
       "bundleID": "com.bilibilihk.jujutsuphanparaios",
@@ -1938,22 +1970,6 @@
       "localizedDescription": "Injected with IncreasedBallAccuracy",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.basketballstars.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.basketballstars.png"
-    },
-    {
-      "name": "RacingKingdom",
-      "type": 2,
-      "bundleID": "com.supergears.racingkingdom",
-      "bundleIdentifier": "com.supergears.racingkingdom",
-      "version": "v0.38.14",
-      "versionDate": "2025-05-30",
-      "fullDate": "20250530171935",
-      "size": 1665780528,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/RacingKingdom_v0.38.14_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/RacingKingdom_v0.38.14_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.supergears.racingkingdom.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.supergears.racingkingdom.png"
     }
   ],
   "userInfo": {}

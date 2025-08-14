@@ -4,85 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "Pizza Ready (Hack)",
-      "bundleIdentifier": "io.supercent.pizzaidle",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: io.supercent.pizzaidle\n\n Downloads: 424\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726695918.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17266959171648836742.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959174874048556.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959177005485692.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959179007696069.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959180565019833.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "24.0.0",
-          "date": "2025-03-29 17:52:09",
-          "localizedDescription": "Current of Pizza Ready (Hack) - 24.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-          "size": 182452224
-        },
-        {
-          "version": "24.0.0",
-          "date": "2025-03-29 17:52:09",
-          "localizedDescription": "Old Version of Pizza Ready (Hack) - 24.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-          "size": 182452224
-        }
-      ],
-      "version": "24.0.0",
-      "versionDate": "2025-03-29 17:52:09",
-      "versionDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-      "formatedsize": "174.0 MB",
-      "size": 182452224
-    },
-    {
-      "name": "Silly Walks (Hack)",
-      "bundleIdentifier": "com.parttimemonkey.sillywalks",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.parttimemonkey.sillywalks\n\n Downloads: 54\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1734217867.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342178654654191234.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178656067312358.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178664341639979.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178665444955388.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178669698867982.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178674028020042.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.2",
-          "date": "2025-03-29 17:49:05",
-          "localizedDescription": "Current of Silly Walks (Hack) - 1.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-          "size": 67066920
-        },
-        {
-          "version": "1.2.2",
-          "date": "2025-03-29 17:49:05",
-          "localizedDescription": "Old Version of Silly Walks (Hack) - 1.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-          "size": 67066920
-        }
-      ],
-      "version": "1.2.2",
-      "versionDate": "2025-03-29 17:49:05",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-      "formatedsize": "63.96 MB",
-      "size": 67066920
-    },
-    {
       "name": "Call of Duty: Mobile (Hacked) (VNG)",
       "bundleIdentifier": "vn.vng.codmvn",
       "developerName": "Bando",
@@ -5109,6 +5030,147 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
       "formatedsize": "196.7 MB",
       "size": 206254899
+    },
+    {
+      "name": "Caves of Lore",
+      "bundleIdentifier": "com.redplume.cavesoflore",
+      "developerName": "TILTGames",
+      "subtitle": "I'm a self-taught solo-dev who built this passion project over 6 years while holding down a full time job and raising a family. I dedicated myself to work 5 minutes a day no matter what, and built the game piece by piece, not really knowing where I was going or how it would all end.",
+      "localizedDescription": "I'm a self-taught solo-dev who built this passion project over 6 years while holding down a full time job and raising a family. I dedicated myself to work 5 minutes a day no matter what, and built the game piece by piece, not really knowing where I was going or how it would all end.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.redplume.cavesoflore\n\n Downloads: 92\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1734216605.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17342166052638878699.webp",
+        "https://apps.nabzclan.vip/screenshots/17342166053176314356.webp",
+        "https://apps.nabzclan.vip/screenshots/17342166053487749601.webp",
+        "https://apps.nabzclan.vip/screenshots/17342166053825660846.webp",
+        "https://apps.nabzclan.vip/screenshots/17342166054189309280.webp",
+        "https://apps.nabzclan.vip/screenshots/17342166054533486476.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.7.1",
+          "date": "2024-12-14 17:50:05",
+          "localizedDescription": "Current of Caves of Lore - 1.7.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1096",
+          "size": 139775180
+        },
+        {
+          "version": "1.7.1",
+          "date": "2024-12-14 17:50:05",
+          "localizedDescription": "Old Version of Caves of Lore - 1.7.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1096",
+          "size": 139775180
+        }
+      ],
+      "version": "1.7.1",
+      "versionDate": "2024-12-14 17:50:05",
+      "versionDescription": "I'm a self-taught solo-dev who built this passion project over 6 years while holding down a full time job and raising a family. I dedicated myself to work 5 minutes a day no matter what, and built the game piece by piece, not really knowing where I was going or how it would all end.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1096",
+      "formatedsize": "133.3 MB",
+      "size": 139775180
+    },
+    {
+      "name": "Autogun Heroes: Alien Shooter (Hack)",
+      "bundleIdentifier": "com.nitrogames.autoblaster",
+      "developerName": "Babylonipa",
+      "subtitle": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die",
+      "localizedDescription": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.nitrogames.autoblaster\n\n Downloads: 410\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1729495347.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17294953371437962810.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953384195324490.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953399839953286.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953411406131698.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953434878585170.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953448673602509.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.11.0",
+          "date": "2024-12-14 13:50:40",
+          "localizedDescription": "Current of Autogun Heroes: Alien Shooter (Hack) - 1.11.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
+          "size": 325876449
+        },
+        {
+          "version": "1.9.4",
+          "date": "2024-10-21 11:22:27",
+          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.9.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/816",
+          "size": 320130252
+        },
+        {
+          "version": "1.10.2",
+          "date": "2024-11-15 13:57:06",
+          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.10.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1018",
+          "size": 333342310
+        },
+        {
+          "version": "1.11.0",
+          "date": "2024-12-14 13:50:40",
+          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.11.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
+          "size": 325876449
+        }
+      ],
+      "version": "1.11.0",
+      "versionDate": "2024-12-14 13:50:40",
+      "versionDescription": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
+      "formatedsize": "310.78 MB",
+      "size": 325876449
+    },
+    {
+      "name": "Merge Inn - Tasty Match Puzzle (Hack)",
+      "bundleIdentifier": "com.mergegame.merge",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.mergegame.merge\n\n Downloads: 139\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731517268.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17315172678404296316.webp",
+        "https://apps.nabzclan.vip/screenshots/17315172679937607700.webp",
+        "https://apps.nabzclan.vip/screenshots/17315172680869912369.webp",
+        "https://apps.nabzclan.vip/screenshots/17315172681857314348.webp",
+        "https://apps.nabzclan.vip/screenshots/17315172682727563418.webp",
+        "https://apps.nabzclan.vip/screenshots/17315172685734043246.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "6.8.1",
+          "date": "2024-12-02 15:19:48",
+          "localizedDescription": "Current of Merge Inn - Tasty Match Puzzle (Hack) - 6.8.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1083",
+          "size": 167247872
+        },
+        {
+          "version": "6.7",
+          "date": "2024-11-13 12:01:08",
+          "localizedDescription": "Old Version of Merge Inn - Tasty Match Puzzle (Hack) - 6.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1001",
+          "size": 149568880
+        },
+        {
+          "version": "6.8.1",
+          "date": "2024-12-02 15:19:48",
+          "localizedDescription": "Old Version of Merge Inn - Tasty Match Puzzle (Hack) - 6.8.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1083",
+          "size": 167247872
+        }
+      ],
+      "version": "6.8.1",
+      "versionDate": "2024-12-02 15:19:48",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1083",
+      "formatedsize": "159.5 MB",
+      "size": 167247872
     }
   ],
   "userInfo": {}
