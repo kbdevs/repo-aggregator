@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "PeekWeather",
+      "type": 1,
+      "bundleID": "com.indiegoodies.Weather2",
+      "bundleIdentifier": "com.indiegoodies.Weather2",
+      "version": "1.4.1",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503155057",
+      "size": 227975607,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PeekWeather_1.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PeekWeather_1.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.indiegoodies.Weather2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.indiegoodies.Weather2.png"
+    },
+    {
+      "name": "Artistai",
+      "type": 1,
+      "bundleID": "com.livintis.aiartapp",
+      "bundleIdentifier": "com.livintis.aiartapp",
+      "version": "33",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503154047",
+      "size": 212138964,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Artistai_33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Artistai_33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.livintis.aiartapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.livintis.aiartapp.png"
+    },
+    {
+      "name": "Breathwrk",
+      "type": 1,
+      "bundleID": "com.breathwrk.ios",
+      "bundleIdentifier": "com.breathwrk.ios",
+      "version": "23.38",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503153538",
+      "size": 237901443,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Breathwrk_23.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Breathwrk_23.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png"
+    },
+    {
       "name": "PhotoSwipe",
       "type": 1,
       "bundleID": "com.app.gallerycleaner",
@@ -132,6 +180,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png"
     },
     {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
       "name": "RashaqaWorkout",
       "type": 1,
       "bundleID": "com.madarsoft.fitness",
@@ -178,22 +242,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.OfflineGamesIOS.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.OfflineGamesIOS.png"
-    },
-    {
-      "name": "Productive",
-      "type": 1,
-      "bundleID": "com.beHappy.Productive",
-      "bundleIdentifier": "com.beHappy.Productive",
-      "version": "3.26.29",
-      "versionDate": "2025-04-29",
-      "fullDate": "20250429180544",
-      "size": 188785448,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Productive_3.26.29_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Productive_3.26.29_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png"
     },
     {
       "name": "Yuka",
@@ -898,22 +946,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png"
-    },
-    {
-      "name": "Toonme",
-      "type": 1,
-      "bundleID": "com.informelab.toonme",
-      "bundleIdentifier": "com.informelab.toonme",
-      "version": "0.11.19",
-      "versionDate": "2025-01-18",
-      "fullDate": "20250118110344",
-      "size": 136128573,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/Toonme_0.11.19_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/Toonme_0.11.19_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png"
     },
     {
       "name": "Benkyo",
@@ -2887,85 +2919,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/870",
       "formatedsize": "116.8 MB",
       "size": 122473676
-    },
-    {
-      "name": "Pizza Ready (Hack)",
-      "bundleIdentifier": "io.supercent.pizzaidle",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: io.supercent.pizzaidle\n\n Downloads: 424\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726695918.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17266959171648836742.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959174874048556.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959177005485692.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959179007696069.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959180565019833.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "24.0.0",
-          "date": "2025-03-29 17:52:09",
-          "localizedDescription": "Current of Pizza Ready (Hack) - 24.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-          "size": 182452224
-        },
-        {
-          "version": "24.0.0",
-          "date": "2025-03-29 17:52:09",
-          "localizedDescription": "Old Version of Pizza Ready (Hack) - 24.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-          "size": 182452224
-        }
-      ],
-      "version": "24.0.0",
-      "versionDate": "2025-03-29 17:52:09",
-      "versionDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-      "formatedsize": "174.0 MB",
-      "size": 182452224
-    },
-    {
-      "name": "Silly Walks (Hack)",
-      "bundleIdentifier": "com.parttimemonkey.sillywalks",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.parttimemonkey.sillywalks\n\n Downloads: 54\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1734217867.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342178654654191234.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178656067312358.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178664341639979.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178665444955388.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178669698867982.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178674028020042.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.2",
-          "date": "2025-03-29 17:49:05",
-          "localizedDescription": "Current of Silly Walks (Hack) - 1.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-          "size": 67066920
-        },
-        {
-          "version": "1.2.2",
-          "date": "2025-03-29 17:49:05",
-          "localizedDescription": "Old Version of Silly Walks (Hack) - 1.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-          "size": 67066920
-        }
-      ],
-      "version": "1.2.2",
-      "versionDate": "2025-03-29 17:49:05",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-      "formatedsize": "63.96 MB",
-      "size": 67066920
     }
   ],
   "userInfo": {}
