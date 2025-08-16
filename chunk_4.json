@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "KUBOOM",
+      "type": 2,
+      "bundleID": "com.Nobodyshot.kuboom",
+      "bundleIdentifier": "com.Nobodyshot.kuboom",
+      "version": "7.56.0",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705145934",
+      "size": 89674852,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/KUBOOM_7.56.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/KUBOOM_7.56.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Nobodyshot.kuboom.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Nobodyshot.kuboom.png"
+    },
+    {
+      "name": "Sasquatch",
+      "type": 2,
+      "bundleID": "com.rac7.SneakySasquatch",
+      "bundleIdentifier": "com.rac7.SneakySasquatch",
+      "version": "2.0.6",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705145922",
+      "size": 311407990,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/Sasquatch_2.0.6_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/Sasquatch_2.0.6_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rac7.SneakySasquatch.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rac7.SneakySasquatch.png"
+    },
+    {
+      "name": "TuneTown",
+      "type": 2,
+      "bundleID": "com.nanobitsoftware.merginmusic",
+      "bundleIdentifier": "com.nanobitsoftware.merginmusic",
+      "version": "0.8.2",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705145351",
+      "size": 510602219,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/TuneTown_0.8.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/TuneTown_0.8.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nanobitsoftware.merginmusic.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nanobitsoftware.merginmusic.png"
+    },
+    {
       "name": "DLS25",
       "type": 2,
       "bundleID": "com.firsttouch.dls7",
@@ -484,22 +532,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png"
     },
     {
-      "name": "FreeYourMusic",
-      "type": 1,
-      "bundleID": "io.stampapp.Stamp",
-      "bundleIdentifier": "io.stampapp.Stamp",
-      "version": "9.15.0",
-      "versionDate": "2025-07-02",
-      "fullDate": "20250702201910",
-      "size": 25622050,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2025/FreeYourMusic_9.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2025/FreeYourMusic_9.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png"
-    },
-    {
       "name": "Paraphrase",
       "type": 1,
       "bundleID": "com.tr.paraphrasingtool.rewritertool.textrewriter",
@@ -610,22 +642,6 @@
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png"
-    },
-    {
-      "name": "Euforia",
-      "type": 1,
-      "bundleID": "digital.euforia",
-      "bundleIdentifier": "digital.euforia",
-      "version": "1.2.11",
-      "versionDate": "2025-06-29",
-      "fullDate": "20250629181550",
-      "size": 49232351,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Euforia_1.2.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Euforia_1.2.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
     },
     {
       "name": "Remini",
@@ -1058,22 +1074,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png"
-    },
-    {
-      "name": "LumaFusion",
-      "type": 1,
-      "bundleID": "com.luma-touch.LumaFusion",
-      "bundleIdentifier": "com.luma-touch.LumaFusion",
-      "version": "5.2.3",
-      "versionDate": "2025-06-25",
-      "fullDate": "20250625060518",
-      "size": 165964855,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/LumaFusion_5.2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/LumaFusion_5.2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png"
     },
     {
       "name": "FitnessCoach",
