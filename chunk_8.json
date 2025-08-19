@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Star Art: Drawing & Relaxing (Hack)",
+      "bundleIdentifier": "games.taplab.vertex",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: games.taplab.vertex\n\n Downloads: 179\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731518469.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17315184695018207373.webp",
+        "https://apps.nabzclan.vip/screenshots/17315184696081429271.webp",
+        "https://apps.nabzclan.vip/screenshots/17315184696858210705.webp",
+        "https://apps.nabzclan.vip/screenshots/17315184697561859218.webp",
+        "https://apps.nabzclan.vip/screenshots/17315184698839037185.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.7.6",
+          "date": "2025-03-29 18:13:49",
+          "localizedDescription": "Current of Star Art: Drawing & Relaxing (Hack) - 1.7.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1002",
+          "size": 158439833
+        },
+        {
+          "version": "1.7.6",
+          "date": "2025-03-29 18:13:49",
+          "localizedDescription": "Old Version of Star Art: Drawing & Relaxing (Hack) - 1.7.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1002",
+          "size": 158439833
+        }
+      ],
+      "version": "1.7.6",
+      "versionDate": "2025-03-29 18:13:49",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1002",
+      "formatedsize": "151.1 MB",
+      "size": 158439833
+    },
+    {
       "name": "Matching Story (Hack)",
       "bundleIdentifier": "matching.story",
       "developerName": "Nabzclan",
@@ -5063,52 +5102,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
       "formatedsize": "248.92 MB",
       "size": 261011537
-    },
-    {
-      "name": "Smash Hit+",
-      "bundleIdentifier": "com.mediocre.smashhit.arcade",
-      "developerName": "Mediocre AB",
-      "subtitle": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
-      "localizedDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.mediocre.smashhit.arcade\n\n Downloads: 336\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731274720.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312747189693632966.webp",
-        "https://apps.nabzclan.vip/screenshots/17312747190557513313.webp",
-        "https://apps.nabzclan.vip/screenshots/17312747195276740320.webp",
-        "https://apps.nabzclan.vip/screenshots/17312747196503586239.webp",
-        "https://apps.nabzclan.vip/screenshots/17312747206721445176.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.3",
-          "date": "2024-12-20 16:24:03",
-          "localizedDescription": "Current of Smash Hit+ - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
-          "size": 75182899
-        },
-        {
-          "version": "1.0.2",
-          "date": "2024-11-10 16:38:41",
-          "localizedDescription": "Old Version of Smash Hit+ - 1.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/963",
-          "size": 75707187
-        },
-        {
-          "version": "1.0.3",
-          "date": "2024-12-20 16:24:03",
-          "localizedDescription": "Old Version of Smash Hit+ - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
-          "size": 75182899
-        }
-      ],
-      "version": "1.0.3",
-      "versionDate": "2024-12-20 16:24:03",
-      "versionDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
-      "formatedsize": "71.7 MB",
-      "size": 75182899
     }
   ],
   "userInfo": {}

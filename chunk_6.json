@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "TapTitans",
+      "type": 2,
+      "bundleID": "com.gamehivecorp.taptitans2",
+      "bundleIdentifier": "com.gamehivecorp.taptitans2",
+      "version": "7.10.3",
+      "versionDate": "2025-05-31",
+      "fullDate": "20250531170247",
+      "size": 170771074,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/TapTitans_7.10.3_FreeLevelUp_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/TapTitans_7.10.3_FreeLevelUp_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with FreeLevelUp",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamehivecorp.taptitans2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamehivecorp.taptitans2.png"
+    },
+    {
       "name": "Hempire",
       "type": 2,
       "bundleID": "ca.lbcstudios.hempire",
@@ -1954,22 +1970,6 @@
       "localizedDescription": "Injected with NoAds",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png"
-    },
-    {
-      "name": "Finch",
-      "type": 1,
-      "bundleID": "com.finch.finch",
-      "bundleIdentifier": "com.finch.finch",
-      "version": "3.73.15",
-      "versionDate": "2025-05-05",
-      "fullDate": "20250505161235",
-      "size": 167058066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Finch_3.73.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Finch_3.73.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finch.finch.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finch.finch.png"
     }
   ],
   "userInfo": {}

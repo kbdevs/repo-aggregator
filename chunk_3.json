@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "WebSSH",
+      "type": 1,
+      "bundleID": "com.itimeteo.webssh",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "29.9",
+      "versionDate": "2025-07-31",
+      "fullDate": "20250731063455",
+      "size": 54206879,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/WebSSH_29.9_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/WebSSH_29.9_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png"
+    },
+    {
+      "name": "VideoCompress",
+      "type": 1,
+      "bundleID": "com.photoclean.videocompress",
+      "bundleIdentifier": "com.photoclean.videocompress",
+      "version": "3.3",
+      "versionDate": "2025-07-31",
+      "fullDate": "20250731063453",
+      "size": 15444172,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/VideoCompress_3.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/VideoCompress_3.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png"
+    },
+    {
       "name": "BrainTest4",
       "type": 2,
       "bundleID": "com.unicostudio.braintest4",
@@ -1938,38 +1970,6 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gsgames.pixel.combat.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gsgames.pixel.combat.png"
-    },
-    {
-      "name": "ACRebellion",
-      "type": 2,
-      "bundleID": "com.ubisoft.accovenant",
-      "bundleIdentifier": "com.ubisoft.accovenant",
-      "version": "3.6.1",
-      "versionDate": "2025-07-05",
-      "fullDate": "20250705152035",
-      "size": 866607657,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/ACRebellion_3.6.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/ACRebellion_3.6.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubisoft.accovenant.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubisoft.accovenant.png"
-    },
-    {
-      "name": "TravelTown",
-      "type": 2,
-      "bundleID": "io.randomco.travel",
-      "bundleIdentifier": "io.randomco.travel",
-      "version": "2.12.1110",
-      "versionDate": "2025-07-05",
-      "fullDate": "20250705151518",
-      "size": 164428028,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/TravelTown_2.12.1110_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/TravelTown_2.12.1110_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png"
     }
   ],
   "userInfo": {}

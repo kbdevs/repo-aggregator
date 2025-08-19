@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Finch",
+      "type": 1,
+      "bundleID": "com.finch.finch",
+      "bundleIdentifier": "com.finch.finch",
+      "version": "3.73.15",
+      "versionDate": "2025-05-05",
+      "fullDate": "20250505161235",
+      "size": 167058066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Finch_3.73.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Finch_3.73.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finch.finch.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finch.finch.png"
+    },
+    {
       "name": "WABusiness",
       "type": 1,
       "bundleID": "net.whatsapp.WhatsAppSMB",
@@ -2813,45 +2829,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
       "formatedsize": "166.9 MB",
       "size": 175007334
-    },
-    {
-      "name": "Star Art: Drawing & Relaxing (Hack)",
-      "bundleIdentifier": "games.taplab.vertex",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: games.taplab.vertex\n\n Downloads: 179\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731518469.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17315184695018207373.webp",
-        "https://apps.nabzclan.vip/screenshots/17315184696081429271.webp",
-        "https://apps.nabzclan.vip/screenshots/17315184696858210705.webp",
-        "https://apps.nabzclan.vip/screenshots/17315184697561859218.webp",
-        "https://apps.nabzclan.vip/screenshots/17315184698839037185.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.6",
-          "date": "2025-03-29 18:13:49",
-          "localizedDescription": "Current of Star Art: Drawing & Relaxing (Hack) - 1.7.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1002",
-          "size": 158439833
-        },
-        {
-          "version": "1.7.6",
-          "date": "2025-03-29 18:13:49",
-          "localizedDescription": "Old Version of Star Art: Drawing & Relaxing (Hack) - 1.7.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1002",
-          "size": 158439833
-        }
-      ],
-      "version": "1.7.6",
-      "versionDate": "2025-03-29 18:13:49",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1002",
-      "formatedsize": "151.1 MB",
-      "size": 158439833
     }
   ],
   "userInfo": {}

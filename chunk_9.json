@@ -4,6 +4,52 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Smash Hit+",
+      "bundleIdentifier": "com.mediocre.smashhit.arcade",
+      "developerName": "Mediocre AB",
+      "subtitle": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
+      "localizedDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.mediocre.smashhit.arcade\n\n Downloads: 336\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731274720.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312747189693632966.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747190557513313.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747195276740320.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747196503586239.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747206721445176.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2024-12-20 16:24:03",
+          "localizedDescription": "Current of Smash Hit+ - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
+          "size": 75182899
+        },
+        {
+          "version": "1.0.2",
+          "date": "2024-11-10 16:38:41",
+          "localizedDescription": "Old Version of Smash Hit+ - 1.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/963",
+          "size": 75707187
+        },
+        {
+          "version": "1.0.3",
+          "date": "2024-12-20 16:24:03",
+          "localizedDescription": "Old Version of Smash Hit+ - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
+          "size": 75182899
+        }
+      ],
+      "version": "1.0.3",
+      "versionDate": "2024-12-20 16:24:03",
+      "versionDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
+      "formatedsize": "71.7 MB",
+      "size": 75182899
+    },
+    {
       "name": "EverMerge - Hack",
       "bundleIdentifier": "com.bigfishgames.mergetalesios",
       "developerName": "babylonIPA",
@@ -5125,41 +5171,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/597",
       "formatedsize": "168.7 MB",
       "size": 176894771
-    },
-    {
-      "name": "Wink (Hack)",
-      "bundleIdentifier": "com.meitu.wink",
-      "developerName": "fire",
-      "subtitle": "Features:\r\n- Fully unlocked \r\n- Video optimization problem solved\r\n\r\nJapanese app",
-      "localizedDescription": "Features:\r\n- Fully unlocked \r\n- Video optimization problem solved\r\n\r\nJapanese app\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.meitu.wink\n\n Downloads: 1424\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726987007.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.50",
-          "date": "2024-09-22 10:36:47",
-          "localizedDescription": "Current of Wink (Hack) - 1.8.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/596",
-          "size": 0
-        },
-        {
-          "version": "1.8.50",
-          "date": "2024-09-22 10:36:47",
-          "localizedDescription": "Old Version of Wink (Hack) - 1.8.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/596",
-          "size": 0
-        }
-      ],
-      "version": "1.8.50",
-      "versionDate": "2024-09-22 10:36:47",
-      "versionDescription": "Features:\r\n- Fully unlocked \r\n- Video optimization problem solved\r\n\r\nJapanese app",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/596",
-      "formatedsize": "com.meitu.wink",
-      "size": 0
     }
   ],
   "userInfo": {}

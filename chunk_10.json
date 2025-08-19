@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Wink (Hack)",
+      "bundleIdentifier": "com.meitu.wink",
+      "developerName": "fire",
+      "subtitle": "Features:\r\n- Fully unlocked \r\n- Video optimization problem solved\r\n\r\nJapanese app",
+      "localizedDescription": "Features:\r\n- Fully unlocked \r\n- Video optimization problem solved\r\n\r\nJapanese app\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.meitu.wink\n\n Downloads: 1424\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726987007.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.50",
+          "date": "2024-09-22 10:36:47",
+          "localizedDescription": "Current of Wink (Hack) - 1.8.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/596",
+          "size": 0
+        },
+        {
+          "version": "1.8.50",
+          "date": "2024-09-22 10:36:47",
+          "localizedDescription": "Old Version of Wink (Hack) - 1.8.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/596",
+          "size": 0
+        }
+      ],
+      "version": "1.8.50",
+      "versionDate": "2024-09-22 10:36:47",
+      "versionDescription": "Features:\r\n- Fully unlocked \r\n- Video optimization problem solved\r\n\r\nJapanese app",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/596",
+      "formatedsize": "com.meitu.wink",
+      "size": 0
+    },
+    {
       "name": "Pixelcut (Hack)",
       "bundleIdentifier": "com.circular.pixels",
       "developerName": "unknown",
@@ -3324,17 +3359,6 @@
       "developerName": "Qamislo - Apps",
       "localizedDescription": "Another HDO Play under a different name, UI is way better than the one above.\nLast updated: 12-03-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tovuen.play.png"
-    },
-    {
-      "name": "SenditDiamond",
-      "bundleIdentifier": "com.fullsenders.sendit",
-      "version": "21.6.2",
-      "versionDate": "2024-10-13",
-      "size": 54214503,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SenditDiamond/SenditDiamond-21.6.2.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fullsenders.sendit.png"
     }
   ],
   "userInfo": {}

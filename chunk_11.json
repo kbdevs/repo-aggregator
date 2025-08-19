@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "SenditDiamond",
+      "bundleIdentifier": "com.fullsenders.sendit",
+      "version": "21.6.2",
+      "versionDate": "2024-10-13",
+      "size": 54214503,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SenditDiamond/SenditDiamond-21.6.2.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fullsenders.sendit.png"
+    },
+    {
       "name": "SecondHand",
       "bundleIdentifier": "com.leemin.SecondHand",
       "version": "1.1",
@@ -1431,67 +1442,6 @@
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
       ]
-    },
-    {
-      "name": "emuThreeDS",
-      "bundleIdentifier": "com.antique.emuThreeDS",
-      "developerName": "Antique",
-      "subtitle": "Nintendo 3DS emulator for iOS.",
-      "localizedDescription": "emuThreeDS is a Nintendo 3DS emulator for Apple TV, iPad and iPhone based on Citra.",
-      "iconURL": "https://i.imgur.com/XUAH0bL.png",
-      "tintColor": "#5CA399",
-      "screenshotURLs": [
-        "https://i.imgur.com/AhhhDIK.png",
-        "https://i.imgur.com/u05omA7.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "1.0.7.1.2",
-          "version": "1.0.7.1",
-          "buildVersion": "2",
-          "date": "2024-03-01T03:47:43Z",
-          "localizedDescription": "# v1.0.7.1.2\n\n",
-          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/v1.0.7.1.2/emuThreeDS_v1.0.7.1.2.ipa",
-          "size": 35010897,
-          "sha256": "e27a76af0128c1af81f51bfffe8983a461bb76861cf0c93a0388f9c16339bdcf"
-        },
-        {
-          "absoluteVersion": "1.0.6.5.6",
-          "version": "1.0.6.5",
-          "buildVersion": "6",
-          "date": "2023-07-31T11:16:28Z",
-          "localizedDescription": "# v1.0.6.5 (6) is now out!\n\nSee **[CHANGELOG.md](https://github.com/emuplace/emuthreeds/blob/main/resources/markdowns/CHANGELOG.md)** for more information.",
-          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.5.6/emuThreeDS.v1.0.6.5.6.ipa",
-          "size": 35642893,
-          "sha256": "f1b0d1df9ca3ce907869aa9d18d109e1c2bceb283971f23bf42de3ecd59e28c9"
-        },
-        {
-          "absoluteVersion": "1.0.6.4",
-          "version": "1.0.6",
-          "buildVersion": "4",
-          "date": "2023-06-15T08:42:18Z",
-          "localizedDescription": "# Settings galore, Full controller support, Latest Vulkan and more!\n\nSee **[CHANGELOG.md](https://github.com/emuPlace/emuThreeDS/blob/main/resources/markdowns/CHANGELOG.md)** for more information.\r\n\r\nThis will be the last SwiftUI release as the project is moving back to Swift.",
-          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.4/emuThreeDS_v1.0.6.4.ipa",
-          "size": 37520848,
-          "sha256": "e63fe50f820286b4124e9e758610c8e707f1d9b76f65301e9ffb1bfcda38566b"
-        },
-        {
-          "absoluteVersion": "1.0.6.3",
-          "version": "1.0.6",
-          "buildVersion": "3",
-          "date": "2023-06-08T08:31:08Z",
-          "localizedDescription": "# Added new virtual controller buttons and added new settings.\n\nChange-logs will go back to normal from here on out... I've not kept track properly for this version.",
-          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.3/emuThreeDS_v1.0.6.3.ipa",
-          "size": 37590539,
-          "sha256": "2b41c723d5c7512a8787e22fe6029f5c7cb2dfce0f496eb8fdc3cf91f975ce28",
-          "minOSVersion": "15.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": []
-      },
-      "appID": "com.antique.emuThreeDS"
     }
   ],
   "userInfo": {}

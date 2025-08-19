@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "ACRebellion",
+      "type": 2,
+      "bundleID": "com.ubisoft.accovenant",
+      "bundleIdentifier": "com.ubisoft.accovenant",
+      "version": "3.6.1",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705152035",
+      "size": 866607657,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/ACRebellion_3.6.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/ACRebellion_3.6.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubisoft.accovenant.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubisoft.accovenant.png"
+    },
+    {
+      "name": "TravelTown",
+      "type": 2,
+      "bundleID": "io.randomco.travel",
+      "bundleIdentifier": "io.randomco.travel",
+      "version": "2.12.1110",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705151518",
+      "size": 164428028,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/TravelTown_2.12.1110_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/TravelTown_2.12.1110_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png"
+    },
+    {
       "name": "capybara",
       "type": 2,
       "bundleID": "com.habby.capybara",
@@ -882,22 +914,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png"
-    },
-    {
-      "name": "VoiceTube",
-      "type": 1,
-      "bundleID": "tw.tyche.voicetube",
-      "bundleIdentifier": "tw.tyche.voicetube",
-      "version": "4.13.4",
-      "versionDate": "2025-06-28",
-      "fullDate": "20250628152707",
-      "size": 168764173,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/VoiceTube_4.13.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/VoiceTube_4.13.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tw.tyche.voicetube.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tw.tyche.voicetube.png"
     },
     {
       "name": "Reveri",
@@ -1954,22 +1970,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png"
-    },
-    {
-      "name": "Window",
-      "type": 1,
-      "bundleID": "tech.calstephens.Window",
-      "bundleIdentifier": "tech.calstephens.Window",
-      "version": "4.3.11",
-      "versionDate": "2025-06-18",
-      "fullDate": "20250618204112",
-      "size": 78168544,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Window_4.3.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Window_4.3.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.calstephens.Window.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.calstephens.Window.png"
     }
   ],
   "userInfo": {}
