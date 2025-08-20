@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "TomboftheMask",
+      "type": 2,
+      "bundleID": "com.happymagenta.fromcore",
+      "bundleIdentifier": "com.happymagenta.fromcore",
+      "version": "1.20.2",
+      "versionDate": "2025-05-06",
+      "fullDate": "20250506193914",
+      "size": 71512024,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/TomboftheMask_1.20.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/TomboftheMask_1.20.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.happymagenta.fromcore.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.happymagenta.fromcore.png"
+    },
+    {
+      "name": "myTunerRadio",
+      "type": 1,
+      "bundleID": "mobi.digitalminds.itunerfree",
+      "bundleIdentifier": "mobi.digitalminds.itunerfree",
+      "version": "9.5.7",
+      "versionDate": "2025-05-06",
+      "fullDate": "20250506190853",
+      "size": 79592337,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png"
+    },
+    {
+      "name": "PREQUEL",
+      "type": 1,
+      "bundleID": "com.aiarlabs.prequel",
+      "bundleIdentifier": "com.aiarlabs.prequel",
+      "version": "2.69.0",
+      "versionDate": "2025-05-06",
+      "fullDate": "20250506141618",
+      "size": 200036691,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Satella",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
+    },
+    {
+      "name": "Pinterest",
+      "type": 1,
+      "bundleID": "pinterest",
+      "bundleIdentifier": "pinterest",
+      "version": "13.15",
+      "versionDate": "2025-05-06",
+      "fullDate": "20250506071416",
+      "size": 102527304,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with NoAds",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png"
+    },
+    {
       "name": "Finch",
       "type": 1,
       "bundleID": "com.finch.finch",
@@ -900,22 +964,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.igliverec.app.png"
     },
     {
-      "name": "KtbSecondKick",
-      "type": 2,
-      "bundleID": "com.playgendary.ktbremaster",
-      "bundleIdentifier": "com.playgendary.ktbremaster",
-      "version": "2.10.3",
-      "versionDate": "2025-02-02",
-      "fullDate": "20250202120444",
-      "size": 216807293,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/KtbSecondKick_2.10.3_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/KtbSecondKick_2.10.3_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.ktbremaster.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.ktbremaster.png"
-    },
-    {
       "name": "Fujixweekly",
       "type": 1,
       "bundleID": "com.fujixweekly.fujixweeklyrecipes",
@@ -948,22 +996,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.biel.opus.vpn.png"
     },
     {
-      "name": "Picsew",
-      "type": 1,
-      "bundleID": "com.sugarmo.ScrollClip",
-      "bundleIdentifier": "com.sugarmo.ScrollClip",
-      "version": "3.11.4",
-      "versionDate": "2025-01-25",
-      "fullDate": "20250125020716",
-      "size": 36547729,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/Picsew_3.11.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/Picsew_3.11.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png"
-    },
-    {
       "name": "FlexIptv",
       "type": 1,
       "bundleID": "com.funlabsoft.iptv",
@@ -978,22 +1010,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png"
-    },
-    {
-      "name": "BrainTest3",
-      "type": 2,
-      "bundleID": "com.unicostudio.braintest3",
-      "bundleIdentifier": "com.unicostudio.braintest3",
-      "version": "1.75.2",
-      "versionDate": "2025-01-18",
-      "fullDate": "20250118110822",
-      "size": 131625102,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/BrainTest3_1.75.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/BrainTest3_1.75.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest3.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest3.png"
     },
     {
       "name": "Carrot",
@@ -2789,46 +2805,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1325",
       "formatedsize": "140.61 MB",
       "size": 147440271
-    },
-    {
-      "name": "Stealth Master: Assassin Ninja (Hack)",
-      "bundleIdentifier": "io.highcore.stealthmaster",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: io.highcore.stealthmaster\n\n Downloads: 359\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731520115.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17315201149415951110.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201150834899295.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201151862150138.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201152753501349.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201154628465988.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201156367048220.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.12.24",
-          "date": "2025-03-29 18:15:59",
-          "localizedDescription": "Current of Stealth Master: Assassin Ninja (Hack) - 1.12.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
-          "size": 175007334
-        },
-        {
-          "version": "1.12.24",
-          "date": "2025-03-29 18:15:59",
-          "localizedDescription": "Old Version of Stealth Master: Assassin Ninja (Hack) - 1.12.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
-          "size": 175007334
-        }
-      ],
-      "version": "1.12.24",
-      "versionDate": "2025-03-29 18:15:59",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
-      "formatedsize": "166.9 MB",
-      "size": 175007334
     }
   ],
   "userInfo": {}

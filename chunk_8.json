@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Stealth Master: Assassin Ninja (Hack)",
+      "bundleIdentifier": "io.highcore.stealthmaster",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: io.highcore.stealthmaster\n\n Downloads: 359\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731520115.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17315201149415951110.webp",
+        "https://apps.nabzclan.vip/screenshots/17315201150834899295.webp",
+        "https://apps.nabzclan.vip/screenshots/17315201151862150138.webp",
+        "https://apps.nabzclan.vip/screenshots/17315201152753501349.webp",
+        "https://apps.nabzclan.vip/screenshots/17315201154628465988.webp",
+        "https://apps.nabzclan.vip/screenshots/17315201156367048220.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.12.24",
+          "date": "2025-03-29 18:15:59",
+          "localizedDescription": "Current of Stealth Master: Assassin Ninja (Hack) - 1.12.24",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
+          "size": 175007334
+        },
+        {
+          "version": "1.12.24",
+          "date": "2025-03-29 18:15:59",
+          "localizedDescription": "Old Version of Stealth Master: Assassin Ninja (Hack) - 1.12.24",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
+          "size": 175007334
+        }
+      ],
+      "version": "1.12.24",
+      "versionDate": "2025-03-29 18:15:59",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
+      "formatedsize": "166.9 MB",
+      "size": 175007334
+    },
+    {
       "name": "Star Art: Drawing & Relaxing (Hack)",
       "bundleIdentifier": "games.taplab.vertex",
       "developerName": "Nabzclan",
@@ -5063,45 +5103,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
       "formatedsize": "1.96 GB",
       "size": 2104533975
-    },
-    {
-      "name": "The Greedy Cave",
-      "bundleIdentifier": "com.avalon.cave",
-      "developerName": "AvalonGames",
-      "subtitle": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.",
-      "localizedDescription": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.avalon.cave\n\n Downloads: 159\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1734733071.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17347330704346365472.webp",
-        "https://apps.nabzclan.vip/screenshots/17347330706868557964.webp",
-        "https://apps.nabzclan.vip/screenshots/17347330708556617655.webp",
-        "https://apps.nabzclan.vip/screenshots/17347330710551907359.webp",
-        "https://apps.nabzclan.vip/screenshots/17347330712298929774.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.1.13",
-          "date": "2024-12-20 17:17:51",
-          "localizedDescription": "Current of The Greedy Cave - 4.1.13",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
-          "size": 261011537
-        },
-        {
-          "version": "4.1.13",
-          "date": "2024-12-20 17:17:51",
-          "localizedDescription": "Old Version of The Greedy Cave - 4.1.13",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
-          "size": 261011537
-        }
-      ],
-      "version": "4.1.13",
-      "versionDate": "2024-12-20 17:17:51",
-      "versionDescription": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
-      "formatedsize": "248.92 MB",
-      "size": 261011537
     }
   ],
   "userInfo": {}

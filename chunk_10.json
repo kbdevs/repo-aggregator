@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Real Drift Car Racing Lite (Hack)",
+      "bundleIdentifier": "com.realdriftportnew.sipon",
+      "developerName": "Fire",
+      "subtitle": "Features:\r\nInfinite Coins (Buy and Recover)",
+      "localizedDescription": "Features:\r\nInfinite Coins (Buy and Recover)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.realdriftportnew.sipon\n\n Downloads: 397\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1726988205.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269882005119354800.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882009675800053.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882012828349644.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882030298318960.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882043645763222.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882046901770782.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.0.7",
+          "date": "2024-09-22 10:56:45",
+          "localizedDescription": "Current of Real Drift Car Racing Lite (Hack) - 5.0.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/597",
+          "size": 176894771
+        },
+        {
+          "version": "5.0.7",
+          "date": "2024-09-22 10:56:45",
+          "localizedDescription": "Old Version of Real Drift Car Racing Lite (Hack) - 5.0.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/597",
+          "size": 176894771
+        }
+      ],
+      "version": "5.0.7",
+      "versionDate": "2024-09-22 10:56:45",
+      "versionDescription": "Features:\r\nInfinite Coins (Buy and Recover)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/597",
+      "formatedsize": "168.7 MB",
+      "size": 176894771
+    },
+    {
       "name": "Wink (Hack)",
       "bundleIdentifier": "com.meitu.wink",
       "developerName": "fire",
@@ -3348,17 +3388,6 @@
       "developerName": "DPixel / Manpreet Singh @thisismanpreets",
       "localizedDescription": "Yet another HDO Play under a different name, modded for no ads\nLast updated: 06-25-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.showmania.co.png"
-    },
-    {
-      "name": "ShowBox",
-      "bundleIdentifier": "com.tovuen.play",
-      "version": "3.0",
-      "versionDate": "2024-10-13",
-      "size": 24663117,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ShowBox/ShowBox-3.0.ipa",
-      "developerName": "Qamislo - Apps",
-      "localizedDescription": "Another HDO Play under a different name, UI is way better than the one above.\nLast updated: 12-03-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tovuen.play.png"
     }
   ],
   "userInfo": {}

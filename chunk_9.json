@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "The Greedy Cave",
+      "bundleIdentifier": "com.avalon.cave",
+      "developerName": "AvalonGames",
+      "subtitle": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.",
+      "localizedDescription": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.avalon.cave\n\n Downloads: 159\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1734733071.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17347330704346365472.webp",
+        "https://apps.nabzclan.vip/screenshots/17347330706868557964.webp",
+        "https://apps.nabzclan.vip/screenshots/17347330708556617655.webp",
+        "https://apps.nabzclan.vip/screenshots/17347330710551907359.webp",
+        "https://apps.nabzclan.vip/screenshots/17347330712298929774.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.1.13",
+          "date": "2024-12-20 17:17:51",
+          "localizedDescription": "Current of The Greedy Cave - 4.1.13",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
+          "size": 261011537
+        },
+        {
+          "version": "4.1.13",
+          "date": "2024-12-20 17:17:51",
+          "localizedDescription": "Old Version of The Greedy Cave - 4.1.13",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
+          "size": 261011537
+        }
+      ],
+      "version": "4.1.13",
+      "versionDate": "2024-12-20 17:17:51",
+      "versionDescription": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
+      "formatedsize": "248.92 MB",
+      "size": 261011537
+    },
+    {
       "name": "Smash Hit+",
       "bundleIdentifier": "com.mediocre.smashhit.arcade",
       "developerName": "Mediocre AB",
@@ -5131,46 +5170,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/599",
       "formatedsize": "16.76 MB",
       "size": 17574133
-    },
-    {
-      "name": "Real Drift Car Racing Lite (Hack)",
-      "bundleIdentifier": "com.realdriftportnew.sipon",
-      "developerName": "Fire",
-      "subtitle": "Features:\r\nInfinite Coins (Buy and Recover)",
-      "localizedDescription": "Features:\r\nInfinite Coins (Buy and Recover)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.realdriftportnew.sipon\n\n Downloads: 397\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1726988205.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269882005119354800.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882009675800053.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882012828349644.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882030298318960.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882043645763222.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882046901770782.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.0.7",
-          "date": "2024-09-22 10:56:45",
-          "localizedDescription": "Current of Real Drift Car Racing Lite (Hack) - 5.0.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/597",
-          "size": 176894771
-        },
-        {
-          "version": "5.0.7",
-          "date": "2024-09-22 10:56:45",
-          "localizedDescription": "Old Version of Real Drift Car Racing Lite (Hack) - 5.0.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/597",
-          "size": 176894771
-        }
-      ],
-      "version": "5.0.7",
-      "versionDate": "2024-09-22 10:56:45",
-      "versionDescription": "Features:\r\nInfinite Coins (Buy and Recover)",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/597",
-      "formatedsize": "168.7 MB",
-      "size": 176894771
     }
   ],
   "userInfo": {}
