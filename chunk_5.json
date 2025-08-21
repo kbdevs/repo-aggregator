@@ -4,22 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
-      "name": "SnapCalc",
-      "type": 1,
-      "bundleID": "com.apalonapps.cameracalculator",
-      "bundleIdentifier": "com.apalonapps.cameracalculator",
-      "version": "1.47.13",
-      "versionDate": "2025-06-18",
-      "fullDate": "20250618211655",
-      "size": 50583098,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/SnapCalc_1.47.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/SnapCalc_1.47.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.cameracalculator.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.cameracalculator.png"
-    },
-    {
       "name": "PdfEdit",
       "type": 1,
       "bundleID": "com.apalonapps.pdfeditor",
@@ -1764,22 +1748,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/elizabeth-studios.QR.png"
     },
     {
-      "name": "SleepMonitor",
-      "type": 1,
-      "bundleID": "com.sleepmonitor.aio",
-      "bundleIdentifier": "com.sleepmonitor.aio",
-      "version": "2.5.6",
-      "versionDate": "2025-06-03",
-      "fullDate": "20250603101828",
-      "size": 246340766,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2025/SleepMonitor_2.5.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2025/SleepMonitor_2.5.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png"
-    },
-    {
       "name": "PhotoSplash",
       "type": 1,
       "bundleID": "com.dsrtech.colorsplash",
@@ -1970,6 +1938,54 @@
       "localizedDescription": "Injected with Unlocked All Functions",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.treespleasegames.merge1.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.treespleasegames.merge1.png"
+    },
+    {
+      "name": "UnifiedDictionary",
+      "type": 1,
+      "bundleID": "com.bravolol.bravoLang.chineseDictionary",
+      "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
+      "version": "34.3",
+      "versionDate": "2025-06-02",
+      "fullDate": "20250602101154",
+      "size": 21822684,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/UnifiedDictionary_34.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/UnifiedDictionary_34.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png"
+    },
+    {
+      "name": "Stiiitch",
+      "type": 1,
+      "bundleID": "com.abighead.stiiitch",
+      "bundleIdentifier": "com.abighead.stiiitch",
+      "version": "2.3",
+      "versionDate": "2025-06-02",
+      "fullDate": "20250602035105",
+      "size": 31981271,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Stiiitch_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Stiiitch_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png"
+    },
+    {
+      "name": "Warship",
+      "type": 2,
+      "bundleID": "com.jsbak.Warship",
+      "bundleIdentifier": "com.jsbak.Warship",
+      "version": "2.2.4",
+      "versionDate": "2025-06-01",
+      "fullDate": "20250601235031",
+      "size": 64016669,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2025/Warship_2.2.4_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2025/Warship_2.2.4_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jsbak.Warship.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jsbak.Warship.png"
     }
   ],
   "userInfo": {}

@@ -4,300 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
-      "name": "The Greedy Cave",
-      "bundleIdentifier": "com.avalon.cave",
-      "developerName": "AvalonGames",
-      "subtitle": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.",
-      "localizedDescription": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.avalon.cave\n\n Downloads: 159\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1734733071.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17347330704346365472.webp",
-        "https://apps.nabzclan.vip/screenshots/17347330706868557964.webp",
-        "https://apps.nabzclan.vip/screenshots/17347330708556617655.webp",
-        "https://apps.nabzclan.vip/screenshots/17347330710551907359.webp",
-        "https://apps.nabzclan.vip/screenshots/17347330712298929774.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.1.13",
-          "date": "2024-12-20 17:17:51",
-          "localizedDescription": "Current of The Greedy Cave - 4.1.13",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
-          "size": 261011537
-        },
-        {
-          "version": "4.1.13",
-          "date": "2024-12-20 17:17:51",
-          "localizedDescription": "Old Version of The Greedy Cave - 4.1.13",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
-          "size": 261011537
-        }
-      ],
-      "version": "4.1.13",
-      "versionDate": "2024-12-20 17:17:51",
-      "versionDescription": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
-      "formatedsize": "248.92 MB",
-      "size": 261011537
-    },
-    {
-      "name": "Smash Hit+",
-      "bundleIdentifier": "com.mediocre.smashhit.arcade",
-      "developerName": "Mediocre AB",
-      "subtitle": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
-      "localizedDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.mediocre.smashhit.arcade\n\n Downloads: 336\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731274720.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312747189693632966.webp",
-        "https://apps.nabzclan.vip/screenshots/17312747190557513313.webp",
-        "https://apps.nabzclan.vip/screenshots/17312747195276740320.webp",
-        "https://apps.nabzclan.vip/screenshots/17312747196503586239.webp",
-        "https://apps.nabzclan.vip/screenshots/17312747206721445176.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.3",
-          "date": "2024-12-20 16:24:03",
-          "localizedDescription": "Current of Smash Hit+ - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
-          "size": 75182899
-        },
-        {
-          "version": "1.0.2",
-          "date": "2024-11-10 16:38:41",
-          "localizedDescription": "Old Version of Smash Hit+ - 1.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/963",
-          "size": 75707187
-        },
-        {
-          "version": "1.0.3",
-          "date": "2024-12-20 16:24:03",
-          "localizedDescription": "Old Version of Smash Hit+ - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
-          "size": 75182899
-        }
-      ],
-      "version": "1.0.3",
-      "versionDate": "2024-12-20 16:24:03",
-      "versionDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
-      "formatedsize": "71.7 MB",
-      "size": 75182899
-    },
-    {
-      "name": "EverMerge - Hack",
-      "bundleIdentifier": "com.bigfishgames.mergetalesios",
-      "developerName": "babylonIPA",
-      "subtitle": "Hack Features :\r\n- Freeze all types of currencies and resources \r\n- Freeze Energy\r\n- Freeze Workers",
-      "localizedDescription": "Hack Features :\r\n- Freeze all types of currencies and resources \r\n- Freeze Energy\r\n- Freeze Workers\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.bigfishgames.mergetalesios\n\n Downloads: 137\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726811988.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17268119866761244063.webp",
-        "https://apps.nabzclan.vip/screenshots/17268119869902722316.webp",
-        "https://apps.nabzclan.vip/screenshots/17268119871897358173.webp",
-        "https://apps.nabzclan.vip/screenshots/17268119874182002831.webp",
-        "https://apps.nabzclan.vip/screenshots/17268119875982075665.webp",
-        "https://apps.nabzclan.vip/screenshots/17268119879092174579.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.58.0",
-          "date": "2024-12-20 16:01:03",
-          "localizedDescription": "Current of EverMerge - Hack - 1.58.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1106",
-          "size": 163735142
-        },
-        {
-          "version": "1.55.0",
-          "date": "2024-09-20 09:59:48",
-          "localizedDescription": "Old Version of EverMerge - Hack - 1.55.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/581",
-          "size": 156940369
-        },
-        {
-          "version": "1.57.0",
-          "date": "2024-11-09 17:00:35",
-          "localizedDescription": "Old Version of EverMerge - Hack - 1.57.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/956",
-          "size": 169345024
-        },
-        {
-          "version": "1.57.1",
-          "date": "2024-11-15 15:25:46",
-          "localizedDescription": "Old Version of EverMerge - Hack - 1.57.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1029",
-          "size": 161533132
-        },
-        {
-          "version": "1.58.0",
-          "date": "2024-12-20 16:01:03",
-          "localizedDescription": "Old Version of EverMerge - Hack - 1.58.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1106",
-          "size": 163735142
-        }
-      ],
-      "version": "1.58.0",
-      "versionDate": "2024-12-20 16:01:03",
-      "versionDescription": "Hack Features :\r\n- Freeze all types of currencies and resources \r\n- Freeze Energy\r\n- Freeze Workers",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1106",
-      "formatedsize": "156.15 MB",
-      "size": 163735142
-    },
-    {
-      "name": "Wasteland Life: Survival Idle (Hack)",
-      "bundleIdentifier": "com.wasteland.heart",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.wasteland.heart\n\n Downloads: 438\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731519048.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17315190476528882021.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190478562557617.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190480463276138.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190481648458949.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190482614486169.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190483658665938.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.2",
-          "date": "2024-12-14 18:28:00",
-          "localizedDescription": "Current of Wasteland Life: Survival Idle (Hack) - 2.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
-          "size": 206254899
-        },
-        {
-          "version": "1.5.2",
-          "date": "2024-11-13 12:30:48",
-          "localizedDescription": "Old Version of Wasteland Life: Survival Idle (Hack) - 1.5.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1004",
-          "size": 170393600
-        },
-        {
-          "version": "2.0.1",
-          "date": "2024-12-02 15:44:29",
-          "localizedDescription": "Old Version of Wasteland Life: Survival Idle (Hack) - 2.0.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1088",
-          "size": 206359756
-        },
-        {
-          "version": "2.0.2",
-          "date": "2024-12-14 18:28:00",
-          "localizedDescription": "Old Version of Wasteland Life: Survival Idle (Hack) - 2.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
-          "size": 206254899
-        }
-      ],
-      "version": "2.0.2",
-      "versionDate": "2024-12-14 18:28:00",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
-      "formatedsize": "196.7 MB",
-      "size": 206254899
-    },
-    {
-      "name": "Caves of Lore",
-      "bundleIdentifier": "com.redplume.cavesoflore",
-      "developerName": "TILTGames",
-      "subtitle": "I'm a self-taught solo-dev who built this passion project over 6 years while holding down a full time job and raising a family. I dedicated myself to work 5 minutes a day no matter what, and built the game piece by piece, not really knowing where I was going or how it would all end.",
-      "localizedDescription": "I'm a self-taught solo-dev who built this passion project over 6 years while holding down a full time job and raising a family. I dedicated myself to work 5 minutes a day no matter what, and built the game piece by piece, not really knowing where I was going or how it would all end.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.redplume.cavesoflore\n\n Downloads: 92\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1734216605.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342166052638878699.webp",
-        "https://apps.nabzclan.vip/screenshots/17342166053176314356.webp",
-        "https://apps.nabzclan.vip/screenshots/17342166053487749601.webp",
-        "https://apps.nabzclan.vip/screenshots/17342166053825660846.webp",
-        "https://apps.nabzclan.vip/screenshots/17342166054189309280.webp",
-        "https://apps.nabzclan.vip/screenshots/17342166054533486476.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.1",
-          "date": "2024-12-14 17:50:05",
-          "localizedDescription": "Current of Caves of Lore - 1.7.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1096",
-          "size": 139775180
-        },
-        {
-          "version": "1.7.1",
-          "date": "2024-12-14 17:50:05",
-          "localizedDescription": "Old Version of Caves of Lore - 1.7.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1096",
-          "size": 139775180
-        }
-      ],
-      "version": "1.7.1",
-      "versionDate": "2024-12-14 17:50:05",
-      "versionDescription": "I'm a self-taught solo-dev who built this passion project over 6 years while holding down a full time job and raising a family. I dedicated myself to work 5 minutes a day no matter what, and built the game piece by piece, not really knowing where I was going or how it would all end.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1096",
-      "formatedsize": "133.3 MB",
-      "size": 139775180
-    },
-    {
-      "name": "Autogun Heroes: Alien Shooter (Hack)",
-      "bundleIdentifier": "com.nitrogames.autoblaster",
-      "developerName": "Babylonipa",
-      "subtitle": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die",
-      "localizedDescription": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.nitrogames.autoblaster\n\n Downloads: 410\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1729495347.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17294953371437962810.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953384195324490.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953399839953286.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953411406131698.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953434878585170.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953448673602509.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.11.0",
-          "date": "2024-12-14 13:50:40",
-          "localizedDescription": "Current of Autogun Heroes: Alien Shooter (Hack) - 1.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
-          "size": 325876449
-        },
-        {
-          "version": "1.9.4",
-          "date": "2024-10-21 11:22:27",
-          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.9.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/816",
-          "size": 320130252
-        },
-        {
-          "version": "1.10.2",
-          "date": "2024-11-15 13:57:06",
-          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.10.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1018",
-          "size": 333342310
-        },
-        {
-          "version": "1.11.0",
-          "date": "2024-12-14 13:50:40",
-          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
-          "size": 325876449
-        }
-      ],
-      "version": "1.11.0",
-      "versionDate": "2024-12-14 13:50:40",
-      "versionDescription": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
-      "formatedsize": "310.78 MB",
-      "size": 325876449
-    },
-    {
       "name": "Merge Inn - Tasty Match Puzzle (Hack)",
       "bundleIdentifier": "com.mergegame.merge",
       "developerName": "Nabzclan",
@@ -5170,6 +4876,282 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/599",
       "formatedsize": "16.76 MB",
       "size": 17574133
+    },
+    {
+      "name": "Real Drift Car Racing Lite (Hack)",
+      "bundleIdentifier": "com.realdriftportnew.sipon",
+      "developerName": "Fire",
+      "subtitle": "Features:\r\nInfinite Coins (Buy and Recover)",
+      "localizedDescription": "Features:\r\nInfinite Coins (Buy and Recover)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.realdriftportnew.sipon\n\n Downloads: 397\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1726988205.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269882005119354800.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882009675800053.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882012828349644.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882030298318960.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882043645763222.webp",
+        "https://apps.nabzclan.vip/screenshots/17269882046901770782.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.0.7",
+          "date": "2024-09-22 10:56:45",
+          "localizedDescription": "Current of Real Drift Car Racing Lite (Hack) - 5.0.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/597",
+          "size": 176894771
+        },
+        {
+          "version": "5.0.7",
+          "date": "2024-09-22 10:56:45",
+          "localizedDescription": "Old Version of Real Drift Car Racing Lite (Hack) - 5.0.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/597",
+          "size": 176894771
+        }
+      ],
+      "version": "5.0.7",
+      "versionDate": "2024-09-22 10:56:45",
+      "versionDescription": "Features:\r\nInfinite Coins (Buy and Recover)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/597",
+      "formatedsize": "168.7 MB",
+      "size": 176894771
+    },
+    {
+      "name": "Wink (Hack)",
+      "bundleIdentifier": "com.meitu.wink",
+      "developerName": "fire",
+      "subtitle": "Features:\r\n- Fully unlocked \r\n- Video optimization problem solved\r\n\r\nJapanese app",
+      "localizedDescription": "Features:\r\n- Fully unlocked \r\n- Video optimization problem solved\r\n\r\nJapanese app\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.meitu.wink\n\n Downloads: 1424\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726987007.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.50",
+          "date": "2024-09-22 10:36:47",
+          "localizedDescription": "Current of Wink (Hack) - 1.8.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/596",
+          "size": 0
+        },
+        {
+          "version": "1.8.50",
+          "date": "2024-09-22 10:36:47",
+          "localizedDescription": "Old Version of Wink (Hack) - 1.8.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/596",
+          "size": 0
+        }
+      ],
+      "version": "1.8.50",
+      "versionDate": "2024-09-22 10:36:47",
+      "versionDescription": "Features:\r\n- Fully unlocked \r\n- Video optimization problem solved\r\n\r\nJapanese app",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/596",
+      "formatedsize": "com.meitu.wink",
+      "size": 0
+    },
+    {
+      "name": "Pixelcut (Hack)",
+      "bundleIdentifier": "com.circular.pixels",
+      "developerName": "unknown",
+      "subtitle": "Features:\r\n - Fully unlocked \r\n - Skip checkout interface when opening",
+      "localizedDescription": "Features:\r\n - Fully unlocked \r\n - Skip checkout interface when opening\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.circular.pixels\n\n Downloads: 307\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726986523.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269865227171509304.webp",
+        "https://apps.nabzclan.vip/screenshots/17269865230294425734.webp",
+        "https://apps.nabzclan.vip/screenshots/17269865230992997300.webp",
+        "https://apps.nabzclan.vip/screenshots/17269865231725300448.webp",
+        "https://apps.nabzclan.vip/screenshots/17269865232378918108.webp",
+        "https://apps.nabzclan.vip/screenshots/17269865233088884109.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "0.34.7",
+          "date": "2024-09-22 10:28:43",
+          "localizedDescription": "Current of Pixelcut (Hack) - 0.34.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/595",
+          "size": 72341258
+        },
+        {
+          "version": "0.34.7",
+          "date": "2024-09-22 10:28:43",
+          "localizedDescription": "Old Version of Pixelcut (Hack) - 0.34.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/595",
+          "size": 72341258
+        }
+      ],
+      "version": "0.34.7",
+      "versionDate": "2024-09-22 10:28:43",
+      "versionDescription": "Features:\r\n - Fully unlocked \r\n - Skip checkout interface when opening",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/595",
+      "formatedsize": "68.99 MB",
+      "size": 72341258
+    },
+    {
+      "name": "Aiuta - (Hack)",
+      "bundleIdentifier": "com.aiuta.fashion",
+      "developerName": "Nabzclan",
+      "subtitle": "Features hack:\r\ncracked premium",
+      "localizedDescription": "Features hack:\r\ncracked premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.aiuta.fashion\n\n Downloads: 221\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726918521.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269185182806408354.webp",
+        "https://apps.nabzclan.vip/screenshots/17269185185612552831.webp",
+        "https://apps.nabzclan.vip/screenshots/17269185187139479745.webp",
+        "https://apps.nabzclan.vip/screenshots/17269185189044924839.webp",
+        "https://apps.nabzclan.vip/screenshots/17269185190841120431.webp",
+        "https://apps.nabzclan.vip/screenshots/17269185203823598437.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.5.4",
+          "date": "2024-09-21 15:35:21",
+          "localizedDescription": "Current of Aiuta - (Hack) - 2.5.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/592",
+          "size": 35441868
+        },
+        {
+          "version": "2.5.4",
+          "date": "2024-09-21 15:35:21",
+          "localizedDescription": "Old Version of Aiuta - (Hack) - 2.5.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/592",
+          "size": 35441868
+        }
+      ],
+      "version": "2.5.4",
+      "versionDate": "2024-09-21 15:35:21",
+      "versionDescription": "Features hack:\r\ncracked premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/592",
+      "formatedsize": "33.8 MB",
+      "size": 35441868
+    },
+    {
+      "name": "My Superstore Simulator (Hack)",
+      "bundleIdentifier": "com.playspare.store",
+      "developerName": "nabzclan",
+      "subtitle": "Hack features:\r\n -Remove ads \r\n -infinite money\r\n -infinite energy\r\n -Max store level",
+      "localizedDescription": "Hack features:\r\n -Remove ads \r\n -infinite money\r\n -infinite energy\r\n -Max store level\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.playspare.store\n\n Downloads: 837\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726915383.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269153826741291305.webp",
+        "https://apps.nabzclan.vip/screenshots/17269153829441462532.webp",
+        "https://apps.nabzclan.vip/screenshots/17269153830272291774.webp",
+        "https://apps.nabzclan.vip/screenshots/17269153833235189844.webp",
+        "https://apps.nabzclan.vip/screenshots/17269153834137516451.webp",
+        "https://apps.nabzclan.vip/screenshots/17269153835019404756.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.5",
+          "date": "2024-09-21 14:43:03",
+          "localizedDescription": "Current of My Superstore Simulator (Hack) - 1.4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/590",
+          "size": 133588582
+        },
+        {
+          "version": "1.4.5",
+          "date": "2024-09-21 14:43:03",
+          "localizedDescription": "Old Version of My Superstore Simulator (Hack) - 1.4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/590",
+          "size": 133588582
+        }
+      ],
+      "version": "1.4.5",
+      "versionDate": "2024-09-21 14:43:03",
+      "versionDescription": "Hack features:\r\n -Remove ads \r\n -infinite money\r\n -infinite energy\r\n -Max store level",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/590",
+      "formatedsize": "127.4 MB",
+      "size": 133588582
+    },
+    {
+      "name": "Anime Now",
+      "bundleIdentifier": "com.anime.now",
+      "developerName": "Anime Now team",
+      "subtitle": "watch free anime on iOS with anime now \r\n-----\r\nWarning: app seems to no longer work",
+      "localizedDescription": "watch free anime on iOS with anime now \r\n-----\r\nWarning: app seems to no longer work\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.anime.now\n\n Downloads: 1577\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1687265473.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.0-beta.3",
+          "date": "2024-09-21 13:03:18",
+          "localizedDescription": "Current of Anime Now - 1.0.0-beta.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/40",
+          "size": 7203717
+        },
+        {
+          "version": "1.0.0-beta.3",
+          "date": "2024-09-21 13:03:18",
+          "localizedDescription": "Old Version of Anime Now - 1.0.0-beta.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/40",
+          "size": 7203717
+        }
+      ],
+      "version": "1.0.0-beta.3",
+      "versionDate": "2024-09-21 13:03:18",
+      "versionDescription": "watch free anime on iOS with anime now \r\n-----\r\nWarning: app seems to no longer work",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/40",
+      "formatedsize": "6.87 MB",
+      "size": 7203717
+    },
+    {
+      "name": "OldOS",
+      "bundleIdentifier": "com.zurac.OldOS",
+      "developerName": "zzanehip/OldOS guy",
+      "subtitle": "A simulator to make it seem like you\u2019re running an old iPhone",
+      "localizedDescription": "A simulator to make it seem like you\u2019re running an old iPhone\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: com.zurac.OldOS\n\n Downloads: 627\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1701041160.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269000975762295.webp",
+        "https://apps.nabzclan.vip/screenshots/17269000973270311.webp",
+        "https://apps.nabzclan.vip/screenshots/17269000986454470.webp",
+        "https://apps.nabzclan.vip/screenshots/17269000982077657.webp",
+        "https://apps.nabzclan.vip/screenshots/17269000981506528.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0 (18)",
+          "date": "2024-09-21 10:30:28",
+          "localizedDescription": "Current of OldOS - 1.0 (18)",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/588",
+          "size": 88185241
+        },
+        {
+          "version": "9.0",
+          "date": "2023-11-28 02:44:17",
+          "localizedDescription": "Old Version of OldOS - 9.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/334",
+          "size": 88174755
+        },
+        {
+          "version": "1.0 (18)",
+          "date": "2024-09-21 10:30:28",
+          "localizedDescription": "Old Version of OldOS - 1.0 (18)",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/588",
+          "size": 88185241
+        }
+      ],
+      "version": "1.0 (18)",
+      "versionDate": "2024-09-21 10:30:28",
+      "versionDescription": "A simulator to make it seem like you\u2019re running an old iPhone",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/588",
+      "formatedsize": "84.1 MB",
+      "size": 88185241
     }
   ],
   "userInfo": {}
