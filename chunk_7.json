@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "PREQUEL",
+      "type": 1,
+      "bundleID": "com.aiarlabs.prequel",
+      "bundleIdentifier": "com.aiarlabs.prequel",
+      "version": "2.69.0",
+      "versionDate": "2025-05-06",
+      "fullDate": "20250506141618",
+      "size": 200036691,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Satella",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
+    },
+    {
+      "name": "Pinterest",
+      "type": 1,
+      "bundleID": "pinterest",
+      "bundleIdentifier": "pinterest",
+      "version": "13.15",
+      "versionDate": "2025-05-06",
+      "fullDate": "20250506071416",
+      "size": 102527304,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with NoAds",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png"
+    },
+    {
       "name": "Finch",
       "type": 1,
       "bundleID": "com.finch.finch",
@@ -450,22 +482,6 @@
       "localizedDescription": "Injected with Crack",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png"
-    },
-    {
-      "name": "Photoapp",
-      "type": 1,
-      "bundleID": "com.scaleup.photofx",
-      "bundleIdentifier": "com.scaleup.photofx",
-      "version": "2.7.5",
-      "versionDate": "2025-03-07",
-      "fullDate": "20250307013949",
-      "size": 345282976,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Photoapp_2.7.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Photoapp_2.7.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png"
     },
     {
       "name": "PilotPro",
@@ -1074,22 +1090,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focoslive.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focoslive.png"
-    },
-    {
-      "name": "Thenics",
-      "type": 1,
-      "bundleID": "com.innothenics.thenics",
-      "bundleIdentifier": "com.innothenics.thenics",
-      "version": "5.2.9",
-      "versionDate": "2024-12-16",
-      "fullDate": "20241216232725",
-      "size": 74297673,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2024/Thenics_5.2.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2024/Thenics_5.2.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innothenics.thenics.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innothenics.thenics.png"
     },
     {
       "name": "Gladiatorheroes",
