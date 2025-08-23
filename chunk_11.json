@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "RemoteMousePro",
+      "bundleIdentifier": "com.remotemouse.remotemouse4free",
+      "version": "5.300",
+      "versionDate": "2024-10-13",
+      "size": 38923298,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RemoteMousePro/RemoteMousePro-5.300.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to transform your iPhone into a versatile remote control. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.remotemouse.remotemouse4free.png"
+    },
+    {
       "name": "ReederClassic",
       "bundleIdentifier": "com.reederapp.5.iOS",
       "version": "5.4.4",
@@ -1876,33 +1887,6 @@
           "sha256": "fe1eda29ab29ad408430934a35b9d46b08e10edd7eea50b072b2b54b16b1c182"
         }
       ]
-    },
-    {
-      "name": "PPSSPP",
-      "bundleIdentifier": "org.ppsspp.ppsspp",
-      "developerName": "Henrik Rydg\u00e5rd",
-      "subtitle": "PlayStation Portable games on iOS.",
-      "localizedDescription": "PPSSPP can run your PSP games on your iPhone and iPad in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. Even on modern iPhones and iPads, you can often run at double the original resolution.",
-      "iconURL": "https://i.imgur.com/JP0Fncv.png",
-      "tintColor": "#21486b",
-      "screenshotURLs": [
-        "https://i.imgur.com/CWl6GgH.png",
-        "https://i.imgur.com/SxmN1M0.png",
-        "https://i.imgur.com/sGWgR6z.png",
-        "https://i.imgur.com/AFKTdmZ.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "1.13.2",
-          "version": "1.13.2",
-          "date": "2022-09-18T23:59:49Z",
-          "localizedDescription": "# v1.13.2\n\n",
-          "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-          "size": 14509458,
-          "sha256": "15868764789f1187ae3ed73cb7a3c9c599c9de18239a73f5cdd51fdfdcfda66d"
-        }
-      ],
-      "appID": "org.ppsspp.ppsspp"
     }
   ],
   "userInfo": {}

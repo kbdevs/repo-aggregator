@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Wordelicious: crossword (Hack)",
+      "bundleIdentifier": "com.murka.word.wordelicious.crossword",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.murka.word.wordelicious.crossword\n\n Downloads: 196\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1730595554.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.0",
+          "date": "2025-03-29 17:56:00",
+          "localizedDescription": "Current of Wordelicious: crossword (Hack) - 1.8.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/870",
+          "size": 122473676
+        },
+        {
+          "version": "1.8.0",
+          "date": "2025-03-29 17:56:00",
+          "localizedDescription": "Old Version of Wordelicious: crossword (Hack) - 1.8.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/870",
+          "size": 122473676
+        }
+      ],
+      "version": "1.8.0",
+      "versionDate": "2025-03-29 17:56:00",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/870",
+      "formatedsize": "116.8 MB",
+      "size": 122473676
+    },
+    {
       "name": "Pizza Ready (Hack)",
       "bundleIdentifier": "io.supercent.pizzaidle",
       "developerName": "Nabzclan",
@@ -5149,60 +5184,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1096",
       "formatedsize": "133.3 MB",
       "size": 139775180
-    },
-    {
-      "name": "Autogun Heroes: Alien Shooter (Hack)",
-      "bundleIdentifier": "com.nitrogames.autoblaster",
-      "developerName": "Babylonipa",
-      "subtitle": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die",
-      "localizedDescription": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.nitrogames.autoblaster\n\n Downloads: 410\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1729495347.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17294953371437962810.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953384195324490.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953399839953286.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953411406131698.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953434878585170.webp",
-        "https://apps.nabzclan.vip/screenshots/17294953448673602509.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.11.0",
-          "date": "2024-12-14 13:50:40",
-          "localizedDescription": "Current of Autogun Heroes: Alien Shooter (Hack) - 1.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
-          "size": 325876449
-        },
-        {
-          "version": "1.9.4",
-          "date": "2024-10-21 11:22:27",
-          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.9.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/816",
-          "size": 320130252
-        },
-        {
-          "version": "1.10.2",
-          "date": "2024-11-15 13:57:06",
-          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.10.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1018",
-          "size": 333342310
-        },
-        {
-          "version": "1.11.0",
-          "date": "2024-12-14 13:50:40",
-          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
-          "size": 325876449
-        }
-      ],
-      "version": "1.11.0",
-      "versionDate": "2024-12-14 13:50:40",
-      "versionDescription": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
-      "formatedsize": "310.78 MB",
-      "size": 325876449
     }
   ],
   "userInfo": {}

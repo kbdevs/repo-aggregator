@@ -4,6 +4,60 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Autogun Heroes: Alien Shooter (Hack)",
+      "bundleIdentifier": "com.nitrogames.autoblaster",
+      "developerName": "Babylonipa",
+      "subtitle": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die",
+      "localizedDescription": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.nitrogames.autoblaster\n\n Downloads: 410\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1729495347.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17294953371437962810.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953384195324490.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953399839953286.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953411406131698.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953434878585170.webp",
+        "https://apps.nabzclan.vip/screenshots/17294953448673602509.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.11.0",
+          "date": "2024-12-14 13:50:40",
+          "localizedDescription": "Current of Autogun Heroes: Alien Shooter (Hack) - 1.11.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
+          "size": 325876449
+        },
+        {
+          "version": "1.9.4",
+          "date": "2024-10-21 11:22:27",
+          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.9.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/816",
+          "size": 320130252
+        },
+        {
+          "version": "1.10.2",
+          "date": "2024-11-15 13:57:06",
+          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.10.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1018",
+          "size": 333342310
+        },
+        {
+          "version": "1.11.0",
+          "date": "2024-12-14 13:50:40",
+          "localizedDescription": "Old Version of Autogun Heroes: Alien Shooter (Hack) - 1.11.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
+          "size": 325876449
+        }
+      ],
+      "version": "1.11.0",
+      "versionDate": "2024-12-14 13:50:40",
+      "versionDescription": "Hack Features:\r\n- Unlimited Ammo\r\n\r\n- One Hit Kill \r\n\r\n- Never Die",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1092",
+      "formatedsize": "310.78 MB",
+      "size": 325876449
+    },
+    {
       "name": "Merge Inn - Tasty Match Puzzle (Hack)",
       "bundleIdentifier": "com.mergegame.merge",
       "developerName": "Nabzclan",
@@ -5106,52 +5160,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/40",
       "formatedsize": "6.87 MB",
       "size": 7203717
-    },
-    {
-      "name": "OldOS",
-      "bundleIdentifier": "com.zurac.OldOS",
-      "developerName": "zzanehip/OldOS guy",
-      "subtitle": "A simulator to make it seem like you\u2019re running an old iPhone",
-      "localizedDescription": "A simulator to make it seem like you\u2019re running an old iPhone\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: com.zurac.OldOS\n\n Downloads: 627\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1701041160.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269000975762295.webp",
-        "https://apps.nabzclan.vip/screenshots/17269000973270311.webp",
-        "https://apps.nabzclan.vip/screenshots/17269000986454470.webp",
-        "https://apps.nabzclan.vip/screenshots/17269000982077657.webp",
-        "https://apps.nabzclan.vip/screenshots/17269000981506528.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0 (18)",
-          "date": "2024-09-21 10:30:28",
-          "localizedDescription": "Current of OldOS - 1.0 (18)",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/588",
-          "size": 88185241
-        },
-        {
-          "version": "9.0",
-          "date": "2023-11-28 02:44:17",
-          "localizedDescription": "Old Version of OldOS - 9.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/334",
-          "size": 88174755
-        },
-        {
-          "version": "1.0 (18)",
-          "date": "2024-09-21 10:30:28",
-          "localizedDescription": "Old Version of OldOS - 1.0 (18)",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/588",
-          "size": 88185241
-        }
-      ],
-      "version": "1.0 (18)",
-      "versionDate": "2024-09-21 10:30:28",
-      "versionDescription": "A simulator to make it seem like you\u2019re running an old iPhone",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/588",
-      "formatedsize": "84.1 MB",
-      "size": 88185241
     }
   ],
   "userInfo": {}
