@@ -4,6 +4,182 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "LoopBattle",
+      "type": 2,
+      "bundleID": "com.imba.loopbattle",
+      "bundleIdentifier": "com.imba.loopbattle",
+      "version": "0.3",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510154049",
+      "size": 98391469,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png"
+    },
+    {
+      "name": "SonivaMusic",
+      "type": 1,
+      "bundleID": "ai.mindveil.musicai",
+      "bundleIdentifier": "ai.mindveil.musicai",
+      "version": "1.5.1",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510153046",
+      "size": 27698473,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SonivaMusic_1.5.1_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SonivaMusic_1.5.1_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Satella",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png"
+    },
+    {
+      "name": "ProKnockout",
+      "type": 1,
+      "bundleID": "com.loveyouchenapps.knockout",
+      "bundleIdentifier": "com.loveyouchenapps.knockout",
+      "version": "7.72",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510152536",
+      "size": 138986438,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/ProKnockout_7.72_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/ProKnockout_7.72_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.loveyouchenapps.knockout.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.loveyouchenapps.knockout.png"
+    },
+    {
+      "name": "intoLive",
+      "type": 1,
+      "bundleID": "me.imgbase.intolive",
+      "bundleIdentifier": "me.imgbase.intolive",
+      "version": "4.3.1",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510151530",
+      "size": 132727260,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/intoLive_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/intoLive_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png"
+    },
+    {
+      "name": "SolarSmash",
+      "type": 2,
+      "bundleID": "com.paradyme.solarsmasher",
+      "bundleIdentifier": "com.paradyme.solarsmasher",
+      "version": "2.5.4",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510151016",
+      "size": 285807404,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SolarSmash_2.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SolarSmash_2.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paradyme.solarsmasher.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paradyme.solarsmasher.png"
+    },
+    {
+      "name": "LiveScore",
+      "type": 1,
+      "bundleID": "LiveScore",
+      "bundleIdentifier": "LiveScore",
+      "version": "8.7.2",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510150012",
+      "size": 79924994,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LiveScore_8.7.2_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LiveScore_8.7.2_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LiveScore.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LiveScore.png"
+    },
+    {
+      "name": "ZenColor",
+      "type": 2,
+      "bundleID": "happy.paint.color.coloring.number",
+      "bundleIdentifier": "happy.paint.color.coloring.number",
+      "version": "1.63.0",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510145505",
+      "size": 96698396,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/ZenColor_1.63.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/ZenColor_1.63.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png"
+    },
+    {
+      "name": "1998Cam",
+      "type": 1,
+      "bundleID": "com.h3d2.1998cam",
+      "bundleIdentifier": "com.h3d2.1998cam",
+      "version": "2.0.10",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510003402",
+      "size": 88701274,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/1998Cam_2.0.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/1998Cam_2.0.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.h3d2.1998cam.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.h3d2.1998cam.png"
+    },
+    {
+      "name": "AdventureBay",
+      "type": 2,
+      "bundleID": "com.gamegos.adventure.bay.paradise.farm",
+      "bundleIdentifier": "com.gamegos.adventure.bay.paradise.farm",
+      "version": "1.38.19",
+      "versionDate": "2025-05-09",
+      "fullDate": "20250509164821",
+      "size": 209709895,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/AdventureBay_1.38.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/AdventureBay_1.38.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamegos.adventure.bay.paradise.farm.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamegos.adventure.bay.paradise.farm.png"
+    },
+    {
+      "name": "PodcastyAI",
+      "type": 1,
+      "bundleID": "com.stbokarev.podcastyai",
+      "bundleIdentifier": "com.stbokarev.podcastyai",
+      "version": "1.1.22",
+      "versionDate": "2025-05-09",
+      "fullDate": "20250509153302",
+      "size": 22003782,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png"
+    },
+    {
+      "name": "BrainOut",
+      "type": 2,
+      "bundleID": "com.mind.quiz.brain.out",
+      "bundleIdentifier": "com.mind.quiz.brain.out",
+      "version": "1.6.0",
+      "versionDate": "2025-05-09",
+      "fullDate": "20250509135750",
+      "size": 80795209,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/BrainOut_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/BrainOut_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brain.out.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brain.out.png"
+    },
+    {
       "name": "AdGuardHome",
       "type": 1,
       "bundleID": "adguardhome.remote.app",
@@ -306,22 +482,6 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
-    },
-    {
-      "name": "Stellarium",
-      "type": 1,
-      "bundleID": "com.noctuasoftware.stellarium-mobile-plus",
-      "bundleIdentifier": "com.noctuasoftware.stellarium-mobile-plus",
-      "version": "1.14.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501161257",
-      "size": 314836048,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Stellarium_1.14.1_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Stellarium_1.14.1_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png"
     },
     {
       "name": "RashaqaWorkout",
@@ -994,22 +1154,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png"
-    },
-    {
-      "name": "Benkyo",
-      "type": 1,
-      "bundleID": "app.benkyo.Benkyo",
-      "bundleIdentifier": "app.benkyo.Benkyo",
-      "version": "2.4.1",
-      "versionDate": "2025-01-03",
-      "fullDate": "20250103153559",
-      "size": 101833347,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-01-2025/Benkyo_2.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-01-2025/Benkyo_2.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png"
     },
     {
       "name": "ShadowFight2",
@@ -2560,362 +2704,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
       "formatedsize": "25.42 MB",
       "size": 26654801
-    },
-    {
-      "name": "WiFi Tools & Analyzer",
-      "bundleIdentifier": "com.bz.WiFi-Tools",
-      "developerName": "Tamara Dudarenko",
-      "subtitle": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
-      "localizedDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.bz.WiFi-Tools\n\n Downloads: 3065\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287679.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432876795205994196.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876795954567420.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876796448292220.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876796891145167.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876797376695474.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.18",
-          "date": "2025-03-29 18:34:39",
-          "localizedDescription": "Current of WiFi Tools & Analyzer - 1.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-          "size": 6364856
-        },
-        {
-          "version": "1.18",
-          "date": "2025-03-29 18:34:39",
-          "localizedDescription": "Old Version of WiFi Tools & Analyzer - 1.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-          "size": 6364856
-        }
-      ],
-      "version": "1.18",
-      "versionDate": "2025-03-29 18:34:39",
-      "versionDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-      "formatedsize": "6.07 MB",
-      "size": 6364856
-    },
-    {
-      "name": "Rubek",
-      "bundleIdentifier": "com.xigmagames.rubek",
-      "developerName": "Xigma Games",
-      "subtitle": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
-      "localizedDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmagames.rubek\n\n Downloads: 189\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287439.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432874348899757326.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874354893837858.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874365427395105.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874374583011517.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874385049524047.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2025-03-29 18:30:39",
-          "localizedDescription": "Current of Rubek - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-          "size": 22617784
-        },
-        {
-          "version": "1.2",
-          "date": "2025-03-29 18:30:39",
-          "localizedDescription": "Old Version of Rubek - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-          "size": 22617784
-        }
-      ],
-      "version": "1.2",
-      "versionDate": "2025-03-29 18:30:39",
-      "versionDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-      "formatedsize": "21.57 MB",
-      "size": 22617784
-    },
-    {
-      "name": "The Bonfire: Forsaken Lands",
-      "bundleIdentifier": "com.xigmagames.thebonfire",
-      "developerName": "Xigma Games",
-      "subtitle": "Build, discover, craft and survive.\r\n\r\nBuild your settlement in a snowy encampment and manage workers and resource to survive monster attacks during nights. Slowly you will gain access to advanced buildings and crafting options, discover and trade with new civilizations and discover the secrets of the ancients.\r\n\r\nFEATURES\r\n\r\n> Build your own settlement and manage the in-depth simulation\r\n> Survive dangerous monsters and harsh weather\r\n> Beautiful snowy landscape with minimalist aesthetics\r\n> Discover something new with every passing day\r\n> Game Center leaderboards and achievements",
-      "localizedDescription": "Build, discover, craft and survive.\r\n\r\nBuild your settlement in a snowy encampment and manage workers and resource to survive monster attacks during nights. Slowly you will gain access to advanced buildings and crafting options, discover and trade with new civilizations and discover the secrets of the ancients.\r\n\r\nFEATURES\r\n\r\n> Build your own settlement and manage the in-depth simulation\r\n> Survive dangerous monsters and harsh weather\r\n> Beautiful snowy landscape with minimalist aesthetics\r\n> Discover something new with every passing day\r\n> Game Center leaderboards and achievements\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmagames.thebonfire\n\n Downloads: 120\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287308.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432873064001177940.webp",
-        "https://apps.nabzclan.vip/screenshots/17432873073479502408.webp",
-        "https://apps.nabzclan.vip/screenshots/17432873079347951833.webp",
-        "https://apps.nabzclan.vip/screenshots/17432873086168649327.webp",
-        "https://apps.nabzclan.vip/screenshots/17432873086545858861.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.6",
-          "date": "2025-03-29 18:28:28",
-          "localizedDescription": "Current of The Bonfire: Forsaken Lands - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1327",
-          "size": 96468992
-        },
-        {
-          "version": "2.0.6",
-          "date": "2025-03-29 18:28:28",
-          "localizedDescription": "Old Version of The Bonfire: Forsaken Lands - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1327",
-          "size": 96468992
-        }
-      ],
-      "version": "2.0.6",
-      "versionDate": "2025-03-29 18:28:28",
-      "versionDescription": "Build, discover, craft and survive.\r\n\r\nBuild your settlement in a snowy encampment and manage workers and resource to survive monster attacks during nights. Slowly you will gain access to advanced buildings and crafting options, discover and trade with new civilizations and discover the secrets of the ancients.\r\n\r\nFEATURES\r\n\r\n> Build your own settlement and manage the in-depth simulation\r\n> Survive dangerous monsters and harsh weather\r\n> Beautiful snowy landscape with minimalist aesthetics\r\n> Discover something new with every passing day\r\n> Game Center leaderboards and achievements",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1327",
-      "formatedsize": "92 MB",
-      "size": 96468992
-    },
-    {
-      "name": "The Bonfire 2 Uncharted Shores",
-      "bundleIdentifier": "com.xigmaGames.thebonfire2",
-      "developerName": "Xigma Games",
-      "subtitle": "BUILD SURVIVE EXPLORE\r\n\r\nBuild, craft, gather resources during the day, and survive monsters and raiders at night in this survival strategy game.\r\n\r\nSequel to the award-winning game The Bonfire: Forsaken Lands  The Bonfire: Uncharted Shores expands on every aspect of the original and brings greater depth.\r\n\r\nDesign your city manage resources chains and workers with unique personalities explore procedurally generated world map in ships trade with free cities and discover mysterious dungeons.\r\n\r\nBuild a powerful city and gain magical artifacts to defeat an ancient evil.",
-      "localizedDescription": "BUILD SURVIVE EXPLORE\r\n\r\nBuild, craft, gather resources during the day, and survive monsters and raiders at night in this survival strategy game.\r\n\r\nSequel to the award-winning game The Bonfire: Forsaken Lands  The Bonfire: Uncharted Shores expands on every aspect of the original and brings greater depth.\r\n\r\nDesign your city manage resources chains and workers with unique personalities explore procedurally generated world map in ships trade with free cities and discover mysterious dungeons.\r\n\r\nBuild a powerful city and gain magical artifacts to defeat an ancient evil.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmaGames.thebonfire2\n\n Downloads: 132\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287172.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432871707773326316.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871708296095364.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871708602086514.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871717347560328.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871721107353928.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871721592501289.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.3",
-          "date": "2025-03-29 18:26:12",
-          "localizedDescription": "Current of The Bonfire 2 Uncharted Shores - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1326",
-          "size": 236086886
-        },
-        {
-          "version": "2.0.3",
-          "date": "2025-03-29 18:26:12",
-          "localizedDescription": "Old Version of The Bonfire 2 Uncharted Shores - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1326",
-          "size": 236086886
-        }
-      ],
-      "version": "2.0.3",
-      "versionDate": "2025-03-29 18:26:12",
-      "versionDescription": "BUILD SURVIVE EXPLORE\r\n\r\nBuild, craft, gather resources during the day, and survive monsters and raiders at night in this survival strategy game.\r\n\r\nSequel to the award-winning game The Bonfire: Forsaken Lands  The Bonfire: Uncharted Shores expands on every aspect of the original and brings greater depth.\r\n\r\nDesign your city manage resources chains and workers with unique personalities explore procedurally generated world map in ships trade with free cities and discover mysterious dungeons.\r\n\r\nBuild a powerful city and gain magical artifacts to defeat an ancient evil.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1326",
-      "formatedsize": "225.15 MB",
-      "size": 236086886
-    },
-    {
-      "name": "Town Mess - Building Adventure (Hack)",
-      "bundleIdentifier": "com.mess.town",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.mess.town\n\n Downloads: 123\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731374088.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17313740860288726651.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740862058926996.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740881562463191.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740882555205180.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740884244777609.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740885431523874.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.10",
-          "date": "2025-03-29 18:22:22",
-          "localizedDescription": "Current of Town Mess - Building Adventure (Hack) - 1.7.10",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1325",
-          "size": 147440271
-        },
-        {
-          "version": "1.7.10",
-          "date": "2025-03-29 18:22:22",
-          "localizedDescription": "Old Version of Town Mess - Building Adventure (Hack) - 1.7.10",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1325",
-          "size": 147440271
-        }
-      ],
-      "version": "1.7.10",
-      "versionDate": "2025-03-29 18:22:22",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1325",
-      "formatedsize": "140.61 MB",
-      "size": 147440271
-    },
-    {
-      "name": "Stealth Master: Assassin Ninja (Hack)",
-      "bundleIdentifier": "io.highcore.stealthmaster",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: io.highcore.stealthmaster\n\n Downloads: 359\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731520115.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17315201149415951110.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201150834899295.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201151862150138.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201152753501349.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201154628465988.webp",
-        "https://apps.nabzclan.vip/screenshots/17315201156367048220.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.12.24",
-          "date": "2025-03-29 18:15:59",
-          "localizedDescription": "Current of Stealth Master: Assassin Ninja (Hack) - 1.12.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
-          "size": 175007334
-        },
-        {
-          "version": "1.12.24",
-          "date": "2025-03-29 18:15:59",
-          "localizedDescription": "Old Version of Stealth Master: Assassin Ninja (Hack) - 1.12.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
-          "size": 175007334
-        }
-      ],
-      "version": "1.12.24",
-      "versionDate": "2025-03-29 18:15:59",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1324",
-      "formatedsize": "166.9 MB",
-      "size": 175007334
-    },
-    {
-      "name": "Star Art: Drawing & Relaxing (Hack)",
-      "bundleIdentifier": "games.taplab.vertex",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: games.taplab.vertex\n\n Downloads: 179\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731518469.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17315184695018207373.webp",
-        "https://apps.nabzclan.vip/screenshots/17315184696081429271.webp",
-        "https://apps.nabzclan.vip/screenshots/17315184696858210705.webp",
-        "https://apps.nabzclan.vip/screenshots/17315184697561859218.webp",
-        "https://apps.nabzclan.vip/screenshots/17315184698839037185.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.6",
-          "date": "2025-03-29 18:13:49",
-          "localizedDescription": "Current of Star Art: Drawing & Relaxing (Hack) - 1.7.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1002",
-          "size": 158439833
-        },
-        {
-          "version": "1.7.6",
-          "date": "2025-03-29 18:13:49",
-          "localizedDescription": "Old Version of Star Art: Drawing & Relaxing (Hack) - 1.7.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1002",
-          "size": 158439833
-        }
-      ],
-      "version": "1.7.6",
-      "versionDate": "2025-03-29 18:13:49",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1002",
-      "formatedsize": "151.1 MB",
-      "size": 158439833
-    },
-    {
-      "name": "Matching Story (Hack)",
-      "bundleIdentifier": "matching.story",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: matching.story\n\n Downloads: 56\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731627719.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17316277194215499003.webp",
-        "https://apps.nabzclan.vip/screenshots/17316277195561244065.webp",
-        "https://apps.nabzclan.vip/screenshots/17316277196454739629.webp",
-        "https://apps.nabzclan.vip/screenshots/17316277196831379782.webp",
-        "https://apps.nabzclan.vip/screenshots/17316277197702619203.webp",
-        "https://apps.nabzclan.vip/screenshots/17316277198288668809.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.35.03",
-          "date": "2025-03-29 18:10:49",
-          "localizedDescription": "Current of Matching Story (Hack) - 1.35.03",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1323",
-          "size": 277243494
-        },
-        {
-          "version": "1.35.03",
-          "date": "2025-03-29 18:10:49",
-          "localizedDescription": "Old Version of Matching Story (Hack) - 1.35.03",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1323",
-          "size": 277243494
-        }
-      ],
-      "version": "1.35.03",
-      "versionDate": "2025-03-29 18:10:49",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1323",
-      "formatedsize": "264.4 MB",
-      "size": 277243494
-    },
-    {
-      "name": "Clean Road (Hack)",
-      "bundleIdentifier": "com.clean.road",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.clean.road\n\n Downloads: 320\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731189178.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17311891744908144722.webp",
-        "https://apps.nabzclan.vip/screenshots/17311891750299561549.webp",
-        "https://apps.nabzclan.vip/screenshots/17311891752124214579.webp",
-        "https://apps.nabzclan.vip/screenshots/17311891755709076128.webp",
-        "https://apps.nabzclan.vip/screenshots/17311891756845747032.webp",
-        "https://apps.nabzclan.vip/screenshots/17311891781777372690.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.6.56",
-          "date": "2025-03-29 18:02:32",
-          "localizedDescription": "Current of Clean Road (Hack) - 1.6.56",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/955",
-          "size": 81893785
-        },
-        {
-          "version": "1.6.56",
-          "date": "2025-03-29 18:02:32",
-          "localizedDescription": "Old Version of Clean Road (Hack) - 1.6.56",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/955",
-          "size": 81893785
-        }
-      ],
-      "version": "1.6.56",
-      "versionDate": "2025-03-29 18:02:32",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/955",
-      "formatedsize": "78.1 MB",
-      "size": 81893785
     }
   ],
   "userInfo": {}
