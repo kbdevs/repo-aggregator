@@ -4,84 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "WiFi Tools & Analyzer",
-      "bundleIdentifier": "com.bz.WiFi-Tools",
-      "developerName": "Tamara Dudarenko",
-      "subtitle": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
-      "localizedDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.bz.WiFi-Tools\n\n Downloads: 3065\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287679.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432876795205994196.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876795954567420.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876796448292220.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876796891145167.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876797376695474.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.18",
-          "date": "2025-03-29 18:34:39",
-          "localizedDescription": "Current of WiFi Tools & Analyzer - 1.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-          "size": 6364856
-        },
-        {
-          "version": "1.18",
-          "date": "2025-03-29 18:34:39",
-          "localizedDescription": "Old Version of WiFi Tools & Analyzer - 1.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-          "size": 6364856
-        }
-      ],
-      "version": "1.18",
-      "versionDate": "2025-03-29 18:34:39",
-      "versionDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-      "formatedsize": "6.07 MB",
-      "size": 6364856
-    },
-    {
-      "name": "Rubek",
-      "bundleIdentifier": "com.xigmagames.rubek",
-      "developerName": "Xigma Games",
-      "subtitle": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
-      "localizedDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmagames.rubek\n\n Downloads: 189\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287439.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432874348899757326.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874354893837858.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874365427395105.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874374583011517.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874385049524047.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2025-03-29 18:30:39",
-          "localizedDescription": "Current of Rubek - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-          "size": 22617784
-        },
-        {
-          "version": "1.2",
-          "date": "2025-03-29 18:30:39",
-          "localizedDescription": "Old Version of Rubek - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-          "size": 22617784
-        }
-      ],
-      "version": "1.2",
-      "versionDate": "2025-03-29 18:30:39",
-      "versionDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-      "formatedsize": "21.57 MB",
-      "size": 22617784
-    },
-    {
       "name": "The Bonfire: Forsaken Lands",
       "bundleIdentifier": "com.xigmagames.thebonfire",
       "developerName": "Xigma Games",
@@ -5092,6 +5014,162 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1132",
       "formatedsize": "25.56 MB",
       "size": 26801602
+    },
+    {
+      "name": "Streamer iOS",
+      "bundleIdentifier": "com.streamer.ios",
+      "developerName": "StreamerApp Team",
+      "subtitle": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.",
+      "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.ios\n\n Downloads: 2081\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1691866226.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998256329753326.webp",
+        "https://apps.nabzclan.vip/screenshots/16998256336001279.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.41",
+          "date": "2024-12-25 15:56:48",
+          "localizedDescription": "Current of Streamer iOS - 1.2.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
+          "size": 34728837
+        },
+        {
+          "version": "1.2.23",
+          "date": "2023-08-12 18:50:26",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.23",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/156",
+          "size": 19576913
+        },
+        {
+          "version": "1.2.24",
+          "date": "2023-08-22 16:03:29",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.24",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/173",
+          "size": 19639828
+        },
+        {
+          "version": "1.2.25",
+          "date": "2023-10-21 03:42:54",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.25",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/269",
+          "size": 19870515
+        },
+        {
+          "version": "1.2.28",
+          "date": "2023-11-12 21:18:45",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.28",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/280",
+          "size": 21925724
+        },
+        {
+          "version": "1.2.29",
+          "date": "2023-11-21 04:25:17",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.29",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/315",
+          "size": 23802675
+        },
+        {
+          "version": "1.2.41",
+          "date": "2024-12-20 18:13:53",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1120",
+          "size": 37601935
+        },
+        {
+          "version": "1.2.41",
+          "date": "2024-12-25 15:56:48",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
+          "size": 34728837
+        }
+      ],
+      "version": "1.2.41",
+      "versionDate": "2024-12-25 15:56:48",
+      "versionDescription": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
+      "formatedsize": "33.12 MB",
+      "size": 34728837
+    },
+    {
+      "name": "Retro City Rampage DX",
+      "bundleIdentifier": "Vblank.Retro-City-Rampage-DX--iOS-",
+      "developerName": "Vblank Entertainment Inc.",
+      "subtitle": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol",
+      "localizedDescription": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: Vblank.Retro-City-Rampage-DX--iOS-\n\n Downloads: 104\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1735159633.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17351596337323764071.webp",
+        "https://apps.nabzclan.vip/screenshots/17351596337894704747.webp",
+        "https://apps.nabzclan.vip/screenshots/17351596338222142284.webp",
+        "https://apps.nabzclan.vip/screenshots/17351596338646032888.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1.1",
+          "date": "2024-12-25 15:47:14",
+          "localizedDescription": "Current of Retro City Rampage DX - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
+          "size": 10726932
+        },
+        {
+          "version": "2.1.1",
+          "date": "2024-12-25 15:47:14",
+          "localizedDescription": "Old Version of Retro City Rampage DX - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
+          "size": 10726932
+        }
+      ],
+      "version": "2.1.1",
+      "versionDate": "2024-12-25 15:47:14",
+      "versionDescription": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
+      "formatedsize": "10.23 MB",
+      "size": 10726932
+    },
+    {
+      "name": "Seekers Notes: Hidden Objects (Hack)",
+      "bundleIdentifier": "com.mytona.seekersnotes.mysteriesofdarkwood",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.mytona.seekersnotes.mysteriesofdarkwood\n\n Downloads: 44\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1738795338.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17342184220036965924.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184221077895275.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184224783705445.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184225858362822.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184226843870330.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184230878576716.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.57.0",
+          "date": "2024-12-25 14:57:39",
+          "localizedDescription": "Current of Seekers Notes: Hidden Objects (Hack) - 2.57.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1122",
+          "size": 623273574
+        },
+        {
+          "version": "2.57.0",
+          "date": "2024-12-25 14:57:39",
+          "localizedDescription": "Old Version of Seekers Notes: Hidden Objects (Hack) - 2.57.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1122",
+          "size": 623273574
+        }
+      ],
+      "version": "2.57.0",
+      "versionDate": "2024-12-25 14:57:39",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1122",
+      "formatedsize": "594.4 MB",
+      "size": 623273574
     }
   ],
   "userInfo": {}
