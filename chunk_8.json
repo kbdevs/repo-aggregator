@@ -4,6 +4,278 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "nds4ios",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "developerName": "nds4ios team",
+      "subtitle": "The iNDS team brings you another emulator since you all loved iNDS",
+      "localizedDescription": "The iNDS team brings you another emulator since you all loved iNDS\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: net.nerd.iNDS\n\n Downloads: 1116\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1697759738.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-03-31 18:16:52",
+          "localizedDescription": "Current of nds4ios - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
+          "size": 3103784
+        },
+        {
+          "version": "1.0",
+          "date": "2025-03-31 18:16:52",
+          "localizedDescription": "Old Version of nds4ios - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
+          "size": 3103784
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2025-03-31 18:16:52",
+      "versionDescription": "The iNDS team brings you another emulator since you all loved iNDS",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/267",
+      "formatedsize": "2.96 MB",
+      "size": 3103784
+    },
+    {
+      "name": "Evoland 2",
+      "bundleIdentifier": "com.playdigious.evoland2",
+      "developerName": "An indie tribute to gaming",
+      "subtitle": "What were your childhood games like?",
+      "localizedDescription": "What were your childhood games like?\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.playdigious.evoland2\n\n Downloads: 126\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1730896981.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17308969806329542447.webp",
+        "https://apps.nabzclan.vip/screenshots/17308969808118610860.webp",
+        "https://apps.nabzclan.vip/screenshots/17308969809518324397.webp",
+        "https://apps.nabzclan.vip/screenshots/17308969811001830311.webp",
+        "https://apps.nabzclan.vip/screenshots/17308969812392873165.webp",
+        "https://apps.nabzclan.vip/screenshots/17308969813899246350.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.2.0",
+          "date": "2025-03-31 17:37:57",
+          "localizedDescription": "Current of Evoland 2 - 2.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1336",
+          "size": 350853529
+        },
+        {
+          "version": "2.2.0",
+          "date": "2025-03-31 17:37:57",
+          "localizedDescription": "Old Version of Evoland 2 - 2.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1336",
+          "size": 350853529
+        }
+      ],
+      "version": "2.2.0",
+      "versionDate": "2025-03-31 17:37:57",
+      "versionDescription": "What were your childhood games like?",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1336",
+      "formatedsize": "334.6 MB",
+      "size": 350853529
+    },
+    {
+      "name": "Stocks Live+ Best Stock Market",
+      "bundleIdentifier": "com.cinnamonmobile.StocksLive",
+      "developerName": "Cinnamon Mobile LLC",
+      "subtitle": "- TD Ameritrade sync**.\r\n- Compare Feature**.\r\n- Stocktwits Integration**.\r\n- The Best Stock Market Apps for iPhone and iPad 2020. Thebalance.com\r\n- Best Stock Market App for iPhone in 2014 - About.com.\r\n- Stock Market App to Boost Your Portfolio - TheStreet.com. \r\nStocks Live is an amazing way to track the stocks you know and discover new winners. Securely sync and trade your portfolios with major brokers anywhere, anytime.",
+      "localizedDescription": "- TD Ameritrade sync**.\r\n- Compare Feature**.\r\n- Stocktwits Integration**.\r\n- The Best Stock Market Apps for iPhone and iPad 2020. Thebalance.com\r\n- Best Stock Market App for iPhone in 2014 - About.com.\r\n- Stock Market App to Boost Your Portfolio - TheStreet.com. \r\nStocks Live is an amazing way to track the stocks you know and discover new winners. Securely sync and trade your portfolios with major brokers anywhere, anytime.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.cinnamonmobile.StocksLive\n\n Downloads: 216\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743456943.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17434569432477409776.webp",
+        "https://apps.nabzclan.vip/screenshots/17434569433183670703.webp",
+        "https://apps.nabzclan.vip/screenshots/17434569433874257238.webp",
+        "https://apps.nabzclan.vip/screenshots/17434569434456196168.webp",
+        "https://apps.nabzclan.vip/screenshots/17434569435071347265.webp",
+        "https://apps.nabzclan.vip/screenshots/17434569435682869935.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "36.2",
+          "date": "2025-03-31 17:35:43",
+          "localizedDescription": "Current of Stocks Live+ Best Stock Market - 36.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1335",
+          "size": 12247367
+        },
+        {
+          "version": "36.2",
+          "date": "2025-03-31 17:35:43",
+          "localizedDescription": "Old Version of Stocks Live+ Best Stock Market - 36.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1335",
+          "size": 12247367
+        }
+      ],
+      "version": "36.2",
+      "versionDate": "2025-03-31 17:35:43",
+      "versionDescription": "- TD Ameritrade sync**.\r\n- Compare Feature**.\r\n- Stocktwits Integration**.\r\n- The Best Stock Market Apps for iPhone and iPad 2020. Thebalance.com\r\n- Best Stock Market App for iPhone in 2014 - About.com.\r\n- Stock Market App to Boost Your Portfolio - TheStreet.com. \r\nStocks Live is an amazing way to track the stocks you know and discover new winners. Securely sync and trade your portfolios with major brokers anywhere, anytime.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1335",
+      "formatedsize": "11.68 MB",
+      "size": 12247367
+    },
+    {
+      "name": "PUBG MOBILE (Hacked)",
+      "bundleIdentifier": "com.tencent.ig",
+      "developerName": "bando",
+      "subtitle": "Features:\r\n- aimbot 100m\r\n- aimbot 180\r\n- no recoil\r\n- no scope shake\r\n- no camera shake\r\n- no fog\r\n- no grass\r\n- small crosshair\r\n- fast bullet\r\n- pro scope \r\n- red body (wallhacks)\r\n- fast vehicles",
+      "localizedDescription": "Features:\r\n- aimbot 100m\r\n- aimbot 180\r\n- no recoil\r\n- no scope shake\r\n- no camera shake\r\n- no fog\r\n- no grass\r\n- small crosshair\r\n- fast bullet\r\n- pro scope \r\n- red body (wallhacks)\r\n- fast vehicles\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.tencent.ig\n\n Downloads: 6353\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743398249.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17433982494354634079.webp",
+        "https://apps.nabzclan.vip/screenshots/17433982494976877625.webp",
+        "https://apps.nabzclan.vip/screenshots/17433982495414876239.webp",
+        "https://apps.nabzclan.vip/screenshots/17433982495858596348.webp",
+        "https://apps.nabzclan.vip/screenshots/17433982496282117705.webp",
+        "https://apps.nabzclan.vip/screenshots/17433982496712127843.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.7.0",
+          "date": "2025-03-31 01:17:29",
+          "localizedDescription": "Current of PUBG MOBILE (Hacked) - 3.7.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1332",
+          "size": 3768833802
+        },
+        {
+          "version": "3.7.0",
+          "date": "2025-03-31 01:17:29",
+          "localizedDescription": "Old Version of PUBG MOBILE (Hacked) - 3.7.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1332",
+          "size": 3768833802
+        }
+      ],
+      "version": "3.7.0",
+      "versionDate": "2025-03-31 01:17:29",
+      "versionDescription": "Features:\r\n- aimbot 100m\r\n- aimbot 180\r\n- no recoil\r\n- no scope shake\r\n- no camera shake\r\n- no fog\r\n- no grass\r\n- small crosshair\r\n- fast bullet\r\n- pro scope \r\n- red body (wallhacks)\r\n- fast vehicles",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1332",
+      "formatedsize": "3.51 GB",
+      "size": 3768833802
+    },
+    {
+      "name": "Gunslugs",
+      "bundleIdentifier": "com.orangepixel.gunslugs",
+      "developerName": "Pascal Bestebroer",
+      "subtitle": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss",
+      "localizedDescription": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.orangepixel.gunslugs\n\n Downloads: 136\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743288258.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17432882558527982682.webp",
+        "https://apps.nabzclan.vip/screenshots/17432882558955947440.webp",
+        "https://apps.nabzclan.vip/screenshots/17432882559347355583.webp",
+        "https://apps.nabzclan.vip/screenshots/17432882559697655325.webp",
+        "https://apps.nabzclan.vip/screenshots/17432882569928911830.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.3.3",
+          "date": "2025-03-29 18:44:18",
+          "localizedDescription": "Current of Gunslugs - 3.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
+          "size": 26654801
+        },
+        {
+          "version": "3.3.3",
+          "date": "2025-03-29 18:44:18",
+          "localizedDescription": "Old Version of Gunslugs - 3.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
+          "size": 26654801
+        }
+      ],
+      "version": "3.3.3",
+      "versionDate": "2025-03-29 18:44:18",
+      "versionDescription": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
+      "formatedsize": "25.42 MB",
+      "size": 26654801
+    },
+    {
+      "name": "WiFi Tools & Analyzer",
+      "bundleIdentifier": "com.bz.WiFi-Tools",
+      "developerName": "Tamara Dudarenko",
+      "subtitle": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
+      "localizedDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.bz.WiFi-Tools\n\n Downloads: 3065\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743287679.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17432876795205994196.webp",
+        "https://apps.nabzclan.vip/screenshots/17432876795954567420.webp",
+        "https://apps.nabzclan.vip/screenshots/17432876796448292220.webp",
+        "https://apps.nabzclan.vip/screenshots/17432876796891145167.webp",
+        "https://apps.nabzclan.vip/screenshots/17432876797376695474.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.18",
+          "date": "2025-03-29 18:34:39",
+          "localizedDescription": "Current of WiFi Tools & Analyzer - 1.18",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
+          "size": 6364856
+        },
+        {
+          "version": "1.18",
+          "date": "2025-03-29 18:34:39",
+          "localizedDescription": "Old Version of WiFi Tools & Analyzer - 1.18",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
+          "size": 6364856
+        }
+      ],
+      "version": "1.18",
+      "versionDate": "2025-03-29 18:34:39",
+      "versionDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
+      "formatedsize": "6.07 MB",
+      "size": 6364856
+    },
+    {
+      "name": "Rubek",
+      "bundleIdentifier": "com.xigmagames.rubek",
+      "developerName": "Xigma Games",
+      "subtitle": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
+      "localizedDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmagames.rubek\n\n Downloads: 189\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743287439.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17432874348899757326.webp",
+        "https://apps.nabzclan.vip/screenshots/17432874354893837858.webp",
+        "https://apps.nabzclan.vip/screenshots/17432874365427395105.webp",
+        "https://apps.nabzclan.vip/screenshots/17432874374583011517.webp",
+        "https://apps.nabzclan.vip/screenshots/17432874385049524047.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2025-03-29 18:30:39",
+          "localizedDescription": "Current of Rubek - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
+          "size": 22617784
+        },
+        {
+          "version": "1.2",
+          "date": "2025-03-29 18:30:39",
+          "localizedDescription": "Old Version of Rubek - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
+          "size": 22617784
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2025-03-29 18:30:39",
+      "versionDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
+      "formatedsize": "21.57 MB",
+      "size": 22617784
+    },
+    {
       "name": "The Bonfire: Forsaken Lands",
       "bundleIdentifier": "com.xigmagames.thebonfire",
       "developerName": "Xigma Games",
@@ -4077,46 +4349,6 @@
       "size": 111673344
     },
     {
-      "name": "After Inc.",
-      "bundleIdentifier": "com.ndemiccreations.survivors",
-      "developerName": "Ndemic Creations",
-      "subtitle": "After Inc. is the brand new game from the creator of \u2018Plague Inc.\u2019 - one of the most popular games ever with over 190 million players. Brilliantly executed with beautiful graphics and critically acclaimed gameplay - After Inc. is engaging and easy to learn. Build multiple settlements and gain abilities in a persistent campaign to lead humanity out of the darkness.",
-      "localizedDescription": "After Inc. is the brand new game from the creator of \u2018Plague Inc.\u2019 - one of the most popular games ever with over 190 million players. Brilliantly executed with beautiful graphics and critically acclaimed gameplay - After Inc. is engaging and easy to learn. Build multiple settlements and gain abilities in a persistent campaign to lead humanity out of the darkness.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.ndemiccreations.survivors\n\n Downloads: 379\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1738518678.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17385186776927157436.webp",
-        "https://apps.nabzclan.vip/screenshots/17385186777609411624.webp",
-        "https://apps.nabzclan.vip/screenshots/17385186778233446304.webp",
-        "https://apps.nabzclan.vip/screenshots/17385186778663803839.webp",
-        "https://apps.nabzclan.vip/screenshots/17385186779208703115.webp",
-        "https://apps.nabzclan.vip/screenshots/17385186779714439131.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.8",
-          "date": "2025-02-02 12:51:18",
-          "localizedDescription": "Current of After Inc. - 1.0.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1188",
-          "size": 110939340
-        },
-        {
-          "version": "1.0.8",
-          "date": "2025-02-02 12:51:18",
-          "localizedDescription": "Old Version of After Inc. - 1.0.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1188",
-          "size": 110939340
-        }
-      ],
-      "version": "1.0.8",
-      "versionDate": "2025-02-02 12:51:18",
-      "versionDescription": "After Inc. is the brand new game from the creator of \u2018Plague Inc.\u2019 - one of the most popular games ever with over 190 million players. Brilliantly executed with beautiful graphics and critically acclaimed gameplay - After Inc. is engaging and easy to learn. Build multiple settlements and gain abilities in a persistent campaign to lead humanity out of the darkness.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1188",
-      "formatedsize": "105.8 MB",
-      "size": 110939340
-    },
-    {
       "name": "Things 3",
       "bundleIdentifier": "com.culturedcode.ThingsiPhone",
       "developerName": "Cultured Code GmbH & Co. KG",
@@ -4889,287 +5121,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1136",
       "formatedsize": "326 MB",
       "size": 341835776
-    },
-    {
-      "name": "Balatro",
-      "bundleIdentifier": "com.playstack.balatropremium",
-      "developerName": "Playstack Ltd",
-      "subtitle": "Welcome to the official Balatro mobile game!\r\n\r\nHypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\r\n\r\nYour goal is to beat the Boss Blinds by making strong poker hands.\r\n\r\nFind new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play. You\u2019ll need all the help you can get to beat the big boss, win the final challenge, and win the game.",
-      "localizedDescription": "Welcome to the official Balatro mobile game!\r\n\r\nHypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\r\n\r\nYour goal is to beat the Boss Blinds by making strong poker hands.\r\n\r\nFind new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play. You\u2019ll need all the help you can get to beat the big boss, win the final challenge, and win the game.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.playstack.balatropremium\n\n Downloads: 1863\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735162421.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351624210517080822.webp",
-        "https://apps.nabzclan.vip/screenshots/17351624211021774105.webp",
-        "https://apps.nabzclan.vip/screenshots/17351624211402444185.webp",
-        "https://apps.nabzclan.vip/screenshots/17351624211754814102.webp",
-        "https://apps.nabzclan.vip/screenshots/17351624212098474841.webp",
-        "https://apps.nabzclan.vip/screenshots/17351624212419472914.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1.7",
-          "date": "2024-12-25 16:33:41",
-          "localizedDescription": "Current of Balatro - 1.1.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1135",
-          "size": 66479718
-        },
-        {
-          "version": "1.1.7",
-          "date": "2024-12-25 16:33:41",
-          "localizedDescription": "Old Version of Balatro - 1.1.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1135",
-          "size": 66479718
-        }
-      ],
-      "version": "1.1.7",
-      "versionDate": "2024-12-25 16:33:41",
-      "versionDescription": "Welcome to the official Balatro mobile game!\r\n\r\nHypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\r\n\r\nYour goal is to beat the Boss Blinds by making strong poker hands.\r\n\r\nFind new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play. You\u2019ll need all the help you can get to beat the big boss, win the final challenge, and win the game.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1135",
-      "formatedsize": "63.4 MB",
-      "size": 66479718
-    },
-    {
-      "name": "Fruit Merge: Match Game (NO Ads)",
-      "bundleIdentifier": "com.puzzle.merge.fruits.watermelon.drop",
-      "developerName": "Nabzclan",
-      "subtitle": "Features:\r\n- NO Ads",
-      "localizedDescription": "Features:\r\n- NO Ads\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.puzzle.merge.fruits.watermelon.drop\n\n Downloads: 128\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731099590.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310995890599403981.webp",
-        "https://apps.nabzclan.vip/screenshots/17310995892594427504.webp",
-        "https://apps.nabzclan.vip/screenshots/17310995898483505939.webp",
-        "https://apps.nabzclan.vip/screenshots/17310995899809929779.webp",
-        "https://apps.nabzclan.vip/screenshots/17310995901989808156.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.9",
-          "date": "2024-12-25 16:27:34",
-          "localizedDescription": "Current of Fruit Merge: Match Game (NO Ads) - 5.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1133",
-          "size": 103567851
-        },
-        {
-          "version": "5.3",
-          "date": "2024-11-08 20:59:50",
-          "localizedDescription": "Old Version of Fruit Merge: Match Game (NO Ads) - 5.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/935",
-          "size": 96364134
-        },
-        {
-          "version": "5.9",
-          "date": "2024-12-25 16:27:34",
-          "localizedDescription": "Old Version of Fruit Merge: Match Game (NO Ads) - 5.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1133",
-          "size": 103567851
-        }
-      ],
-      "version": "5.9",
-      "versionDate": "2024-12-25 16:27:34",
-      "versionDescription": "Features:\r\n- NO Ads",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1133",
-      "formatedsize": "98.77 MB",
-      "size": 103567851
-    },
-    {
-      "name": "Vive le Roi 3",
-      "bundleIdentifier": "com.seccia.vlr3",
-      "developerName": "Sylvain Seccia",
-      "subtitle": "Vive le Roi 3 is a puzzle and anticipation game, without chance or timing, based on mini puzzles to be solved by choosing the right ladder on each floor to reach the king and save him from his executioner.",
-      "localizedDescription": "Vive le Roi 3 is a puzzle and anticipation game, without chance or timing, based on mini puzzles to be solved by choosing the right ladder on each floor to reach the king and save him from his executioner.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.seccia.vlr3\n\n Downloads: 152\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1735161228.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351612281585507782.webp",
-        "https://apps.nabzclan.vip/screenshots/17351612283462390545.webp",
-        "https://apps.nabzclan.vip/screenshots/17351612284345056771.webp",
-        "https://apps.nabzclan.vip/screenshots/17351612285001483518.webp",
-        "https://apps.nabzclan.vip/screenshots/17351612285774871555.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.8",
-          "date": "2024-12-25 16:13:48",
-          "localizedDescription": "Current of Vive le Roi 3 - 1.0.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1132",
-          "size": 26801602
-        },
-        {
-          "version": "1.0.8",
-          "date": "2024-12-25 16:13:48",
-          "localizedDescription": "Old Version of Vive le Roi 3 - 1.0.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1132",
-          "size": 26801602
-        }
-      ],
-      "version": "1.0.8",
-      "versionDate": "2024-12-25 16:13:48",
-      "versionDescription": "Vive le Roi 3 is a puzzle and anticipation game, without chance or timing, based on mini puzzles to be solved by choosing the right ladder on each floor to reach the king and save him from his executioner.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1132",
-      "formatedsize": "25.56 MB",
-      "size": 26801602
-    },
-    {
-      "name": "Streamer iOS",
-      "bundleIdentifier": "com.streamer.ios",
-      "developerName": "StreamerApp Team",
-      "subtitle": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.",
-      "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.ios\n\n Downloads: 2081\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1691866226.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998256329753326.webp",
-        "https://apps.nabzclan.vip/screenshots/16998256336001279.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.41",
-          "date": "2024-12-25 15:56:48",
-          "localizedDescription": "Current of Streamer iOS - 1.2.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
-          "size": 34728837
-        },
-        {
-          "version": "1.2.23",
-          "date": "2023-08-12 18:50:26",
-          "localizedDescription": "Old Version of Streamer iOS - 1.2.23",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/156",
-          "size": 19576913
-        },
-        {
-          "version": "1.2.24",
-          "date": "2023-08-22 16:03:29",
-          "localizedDescription": "Old Version of Streamer iOS - 1.2.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/173",
-          "size": 19639828
-        },
-        {
-          "version": "1.2.25",
-          "date": "2023-10-21 03:42:54",
-          "localizedDescription": "Old Version of Streamer iOS - 1.2.25",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/269",
-          "size": 19870515
-        },
-        {
-          "version": "1.2.28",
-          "date": "2023-11-12 21:18:45",
-          "localizedDescription": "Old Version of Streamer iOS - 1.2.28",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/280",
-          "size": 21925724
-        },
-        {
-          "version": "1.2.29",
-          "date": "2023-11-21 04:25:17",
-          "localizedDescription": "Old Version of Streamer iOS - 1.2.29",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/315",
-          "size": 23802675
-        },
-        {
-          "version": "1.2.41",
-          "date": "2024-12-20 18:13:53",
-          "localizedDescription": "Old Version of Streamer iOS - 1.2.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1120",
-          "size": 37601935
-        },
-        {
-          "version": "1.2.41",
-          "date": "2024-12-25 15:56:48",
-          "localizedDescription": "Old Version of Streamer iOS - 1.2.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
-          "size": 34728837
-        }
-      ],
-      "version": "1.2.41",
-      "versionDate": "2024-12-25 15:56:48",
-      "versionDescription": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
-      "formatedsize": "33.12 MB",
-      "size": 34728837
-    },
-    {
-      "name": "Retro City Rampage DX",
-      "bundleIdentifier": "Vblank.Retro-City-Rampage-DX--iOS-",
-      "developerName": "Vblank Entertainment Inc.",
-      "subtitle": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol",
-      "localizedDescription": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: Vblank.Retro-City-Rampage-DX--iOS-\n\n Downloads: 104\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1735159633.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351596337323764071.webp",
-        "https://apps.nabzclan.vip/screenshots/17351596337894704747.webp",
-        "https://apps.nabzclan.vip/screenshots/17351596338222142284.webp",
-        "https://apps.nabzclan.vip/screenshots/17351596338646032888.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.1",
-          "date": "2024-12-25 15:47:14",
-          "localizedDescription": "Current of Retro City Rampage DX - 2.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
-          "size": 10726932
-        },
-        {
-          "version": "2.1.1",
-          "date": "2024-12-25 15:47:14",
-          "localizedDescription": "Old Version of Retro City Rampage DX - 2.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
-          "size": 10726932
-        }
-      ],
-      "version": "2.1.1",
-      "versionDate": "2024-12-25 15:47:14",
-      "versionDescription": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
-      "formatedsize": "10.23 MB",
-      "size": 10726932
-    },
-    {
-      "name": "Seekers Notes: Hidden Objects (Hack)",
-      "bundleIdentifier": "com.mytona.seekersnotes.mysteriesofdarkwood",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.mytona.seekersnotes.mysteriesofdarkwood\n\n Downloads: 44\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1738795338.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342184220036965924.webp",
-        "https://apps.nabzclan.vip/screenshots/17342184221077895275.webp",
-        "https://apps.nabzclan.vip/screenshots/17342184224783705445.webp",
-        "https://apps.nabzclan.vip/screenshots/17342184225858362822.webp",
-        "https://apps.nabzclan.vip/screenshots/17342184226843870330.webp",
-        "https://apps.nabzclan.vip/screenshots/17342184230878576716.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.57.0",
-          "date": "2024-12-25 14:57:39",
-          "localizedDescription": "Current of Seekers Notes: Hidden Objects (Hack) - 2.57.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1122",
-          "size": 623273574
-        },
-        {
-          "version": "2.57.0",
-          "date": "2024-12-25 14:57:39",
-          "localizedDescription": "Old Version of Seekers Notes: Hidden Objects (Hack) - 2.57.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1122",
-          "size": 623273574
-        }
-      ],
-      "version": "2.57.0",
-      "versionDate": "2024-12-25 14:57:39",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1122",
-      "formatedsize": "594.4 MB",
-      "size": 623273574
     }
   ],
   "userInfo": {}

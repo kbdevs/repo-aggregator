@@ -4,6 +4,118 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "PinGrab",
+      "type": 1,
+      "bundleID": "com.pingrab.app",
+      "bundleIdentifier": "com.pingrab.app",
+      "version": "2.6.5",
+      "versionDate": "2025-05-11",
+      "fullDate": "20250511040907",
+      "size": 169092261,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/PinGrab_2.6.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/PinGrab_2.6.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pingrab.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pingrab.app.png"
+    },
+    {
+      "name": "Eminence",
+      "type": 2,
+      "bundleID": "com.crunchyroll.eminenceinshadowrpg",
+      "bundleIdentifier": "com.crunchyroll.eminenceinshadowrpg",
+      "version": "3.7.0",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510185156",
+      "size": 136685573,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Eminence_3.7.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Eminence_3.7.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crunchyroll.eminenceinshadowrpg.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crunchyroll.eminenceinshadowrpg.png"
+    },
+    {
+      "name": "GTClub",
+      "type": 2,
+      "bundleID": "com.kingkodestudio.gtclub",
+      "bundleIdentifier": "com.kingkodestudio.gtclub",
+      "version": "1.15.20",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510184143",
+      "size": 308768052,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/GTClub_1.15.20_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/GTClub_1.15.20_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingkodestudio.gtclub.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingkodestudio.gtclub.png"
+    },
+    {
+      "name": "SoccerStar",
+      "type": 2,
+      "bundleID": "soccer.score.star",
+      "bundleIdentifier": "soccer.score.star",
+      "version": "0.3.14",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510183136",
+      "size": 169738466,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SoccerStar_0.3.14_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SoccerStar_0.3.14_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/soccer.score.star.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/soccer.score.star.png"
+    },
+    {
+      "name": "Township",
+      "type": 2,
+      "bundleID": "com.playrix.township-ios",
+      "bundleIdentifier": "com.playrix.township-ios",
+      "version": "27.0.1",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510163106",
+      "size": 192664821,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Township_27.0.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Township_27.0.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.township-ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.township-ios.png"
+    },
+    {
+      "name": "DarkClan",
+      "type": 2,
+      "bundleID": "studio.gameberry.idledarkknight",
+      "bundleIdentifier": "studio.gameberry.idledarkknight",
+      "version": "1.0.66",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510154553",
+      "size": 137568836,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/DarkClan_1.0.66_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/DarkClan_1.0.66_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/studio.gameberry.idledarkknight.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/studio.gameberry.idledarkknight.png"
+    },
+    {
+      "name": "LoopBattle",
+      "type": 2,
+      "bundleID": "com.imba.loopbattle",
+      "bundleIdentifier": "com.imba.loopbattle",
+      "version": "0.3",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510154049",
+      "size": 98391469,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png"
+    },
+    {
       "name": "SonivaMusic",
       "type": 1,
       "bundleID": "ai.mindveil.musicai",
@@ -2494,278 +2606,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
       "formatedsize": "210.1 MB",
       "size": 220305817
-    },
-    {
-      "name": "nds4ios",
-      "bundleIdentifier": "net.nerd.iNDS",
-      "developerName": "nds4ios team",
-      "subtitle": "The iNDS team brings you another emulator since you all loved iNDS",
-      "localizedDescription": "The iNDS team brings you another emulator since you all loved iNDS\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: net.nerd.iNDS\n\n Downloads: 1116\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1697759738.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2025-03-31 18:16:52",
-          "localizedDescription": "Current of nds4ios - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-          "size": 3103784
-        },
-        {
-          "version": "1.0",
-          "date": "2025-03-31 18:16:52",
-          "localizedDescription": "Old Version of nds4ios - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-          "size": 3103784
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2025-03-31 18:16:52",
-      "versionDescription": "The iNDS team brings you another emulator since you all loved iNDS",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-      "formatedsize": "2.96 MB",
-      "size": 3103784
-    },
-    {
-      "name": "Evoland 2",
-      "bundleIdentifier": "com.playdigious.evoland2",
-      "developerName": "An indie tribute to gaming",
-      "subtitle": "What were your childhood games like?",
-      "localizedDescription": "What were your childhood games like?\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.playdigious.evoland2\n\n Downloads: 126\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730896981.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17308969806329542447.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969808118610860.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969809518324397.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969811001830311.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969812392873165.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969813899246350.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.2.0",
-          "date": "2025-03-31 17:37:57",
-          "localizedDescription": "Current of Evoland 2 - 2.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1336",
-          "size": 350853529
-        },
-        {
-          "version": "2.2.0",
-          "date": "2025-03-31 17:37:57",
-          "localizedDescription": "Old Version of Evoland 2 - 2.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1336",
-          "size": 350853529
-        }
-      ],
-      "version": "2.2.0",
-      "versionDate": "2025-03-31 17:37:57",
-      "versionDescription": "What were your childhood games like?",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1336",
-      "formatedsize": "334.6 MB",
-      "size": 350853529
-    },
-    {
-      "name": "Stocks Live+ Best Stock Market",
-      "bundleIdentifier": "com.cinnamonmobile.StocksLive",
-      "developerName": "Cinnamon Mobile LLC",
-      "subtitle": "- TD Ameritrade sync**.\r\n- Compare Feature**.\r\n- Stocktwits Integration**.\r\n- The Best Stock Market Apps for iPhone and iPad 2020. Thebalance.com\r\n- Best Stock Market App for iPhone in 2014 - About.com.\r\n- Stock Market App to Boost Your Portfolio - TheStreet.com. \r\nStocks Live is an amazing way to track the stocks you know and discover new winners. Securely sync and trade your portfolios with major brokers anywhere, anytime.",
-      "localizedDescription": "- TD Ameritrade sync**.\r\n- Compare Feature**.\r\n- Stocktwits Integration**.\r\n- The Best Stock Market Apps for iPhone and iPad 2020. Thebalance.com\r\n- Best Stock Market App for iPhone in 2014 - About.com.\r\n- Stock Market App to Boost Your Portfolio - TheStreet.com. \r\nStocks Live is an amazing way to track the stocks you know and discover new winners. Securely sync and trade your portfolios with major brokers anywhere, anytime.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.cinnamonmobile.StocksLive\n\n Downloads: 216\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743456943.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17434569432477409776.webp",
-        "https://apps.nabzclan.vip/screenshots/17434569433183670703.webp",
-        "https://apps.nabzclan.vip/screenshots/17434569433874257238.webp",
-        "https://apps.nabzclan.vip/screenshots/17434569434456196168.webp",
-        "https://apps.nabzclan.vip/screenshots/17434569435071347265.webp",
-        "https://apps.nabzclan.vip/screenshots/17434569435682869935.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "36.2",
-          "date": "2025-03-31 17:35:43",
-          "localizedDescription": "Current of Stocks Live+ Best Stock Market - 36.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1335",
-          "size": 12247367
-        },
-        {
-          "version": "36.2",
-          "date": "2025-03-31 17:35:43",
-          "localizedDescription": "Old Version of Stocks Live+ Best Stock Market - 36.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1335",
-          "size": 12247367
-        }
-      ],
-      "version": "36.2",
-      "versionDate": "2025-03-31 17:35:43",
-      "versionDescription": "- TD Ameritrade sync**.\r\n- Compare Feature**.\r\n- Stocktwits Integration**.\r\n- The Best Stock Market Apps for iPhone and iPad 2020. Thebalance.com\r\n- Best Stock Market App for iPhone in 2014 - About.com.\r\n- Stock Market App to Boost Your Portfolio - TheStreet.com. \r\nStocks Live is an amazing way to track the stocks you know and discover new winners. Securely sync and trade your portfolios with major brokers anywhere, anytime.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1335",
-      "formatedsize": "11.68 MB",
-      "size": 12247367
-    },
-    {
-      "name": "PUBG MOBILE (Hacked)",
-      "bundleIdentifier": "com.tencent.ig",
-      "developerName": "bando",
-      "subtitle": "Features:\r\n- aimbot 100m\r\n- aimbot 180\r\n- no recoil\r\n- no scope shake\r\n- no camera shake\r\n- no fog\r\n- no grass\r\n- small crosshair\r\n- fast bullet\r\n- pro scope \r\n- red body (wallhacks)\r\n- fast vehicles",
-      "localizedDescription": "Features:\r\n- aimbot 100m\r\n- aimbot 180\r\n- no recoil\r\n- no scope shake\r\n- no camera shake\r\n- no fog\r\n- no grass\r\n- small crosshair\r\n- fast bullet\r\n- pro scope \r\n- red body (wallhacks)\r\n- fast vehicles\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.tencent.ig\n\n Downloads: 6353\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743398249.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17433982494354634079.webp",
-        "https://apps.nabzclan.vip/screenshots/17433982494976877625.webp",
-        "https://apps.nabzclan.vip/screenshots/17433982495414876239.webp",
-        "https://apps.nabzclan.vip/screenshots/17433982495858596348.webp",
-        "https://apps.nabzclan.vip/screenshots/17433982496282117705.webp",
-        "https://apps.nabzclan.vip/screenshots/17433982496712127843.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.7.0",
-          "date": "2025-03-31 01:17:29",
-          "localizedDescription": "Current of PUBG MOBILE (Hacked) - 3.7.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1332",
-          "size": 3768833802
-        },
-        {
-          "version": "3.7.0",
-          "date": "2025-03-31 01:17:29",
-          "localizedDescription": "Old Version of PUBG MOBILE (Hacked) - 3.7.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1332",
-          "size": 3768833802
-        }
-      ],
-      "version": "3.7.0",
-      "versionDate": "2025-03-31 01:17:29",
-      "versionDescription": "Features:\r\n- aimbot 100m\r\n- aimbot 180\r\n- no recoil\r\n- no scope shake\r\n- no camera shake\r\n- no fog\r\n- no grass\r\n- small crosshair\r\n- fast bullet\r\n- pro scope \r\n- red body (wallhacks)\r\n- fast vehicles",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1332",
-      "formatedsize": "3.51 GB",
-      "size": 3768833802
-    },
-    {
-      "name": "Gunslugs",
-      "bundleIdentifier": "com.orangepixel.gunslugs",
-      "developerName": "Pascal Bestebroer",
-      "subtitle": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss",
-      "localizedDescription": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.orangepixel.gunslugs\n\n Downloads: 136\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743288258.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432882558527982682.webp",
-        "https://apps.nabzclan.vip/screenshots/17432882558955947440.webp",
-        "https://apps.nabzclan.vip/screenshots/17432882559347355583.webp",
-        "https://apps.nabzclan.vip/screenshots/17432882559697655325.webp",
-        "https://apps.nabzclan.vip/screenshots/17432882569928911830.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.3.3",
-          "date": "2025-03-29 18:44:18",
-          "localizedDescription": "Current of Gunslugs - 3.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
-          "size": 26654801
-        },
-        {
-          "version": "3.3.3",
-          "date": "2025-03-29 18:44:18",
-          "localizedDescription": "Old Version of Gunslugs - 3.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
-          "size": 26654801
-        }
-      ],
-      "version": "3.3.3",
-      "versionDate": "2025-03-29 18:44:18",
-      "versionDescription": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
-      "formatedsize": "25.42 MB",
-      "size": 26654801
-    },
-    {
-      "name": "WiFi Tools & Analyzer",
-      "bundleIdentifier": "com.bz.WiFi-Tools",
-      "developerName": "Tamara Dudarenko",
-      "subtitle": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
-      "localizedDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.bz.WiFi-Tools\n\n Downloads: 3065\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287679.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432876795205994196.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876795954567420.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876796448292220.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876796891145167.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876797376695474.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.18",
-          "date": "2025-03-29 18:34:39",
-          "localizedDescription": "Current of WiFi Tools & Analyzer - 1.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-          "size": 6364856
-        },
-        {
-          "version": "1.18",
-          "date": "2025-03-29 18:34:39",
-          "localizedDescription": "Old Version of WiFi Tools & Analyzer - 1.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-          "size": 6364856
-        }
-      ],
-      "version": "1.18",
-      "versionDate": "2025-03-29 18:34:39",
-      "versionDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-      "formatedsize": "6.07 MB",
-      "size": 6364856
-    },
-    {
-      "name": "Rubek",
-      "bundleIdentifier": "com.xigmagames.rubek",
-      "developerName": "Xigma Games",
-      "subtitle": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
-      "localizedDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmagames.rubek\n\n Downloads: 189\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287439.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432874348899757326.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874354893837858.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874365427395105.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874374583011517.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874385049524047.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2025-03-29 18:30:39",
-          "localizedDescription": "Current of Rubek - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-          "size": 22617784
-        },
-        {
-          "version": "1.2",
-          "date": "2025-03-29 18:30:39",
-          "localizedDescription": "Old Version of Rubek - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-          "size": 22617784
-        }
-      ],
-      "version": "1.2",
-      "versionDate": "2025-03-29 18:30:39",
-      "versionDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-      "formatedsize": "21.57 MB",
-      "size": 22617784
     }
   ],
   "userInfo": {}
