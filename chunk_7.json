@@ -580,6 +580,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
       "name": "RashaqaWorkout",
       "type": 1,
       "bundleID": "com.madarsoft.fitness",
@@ -1170,22 +1186,6 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png"
-    },
-    {
-      "name": "Grec",
-      "type": 1,
-      "bundleID": "com.igliverec.app",
-      "bundleIdentifier": "com.igliverec.app",
-      "version": "4.4.1",
-      "versionDate": "2025-02-02",
-      "fullDate": "20250202120512",
-      "size": 14609555,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Grec_4.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Grec_4.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.igliverec.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.igliverec.app.png"
     },
     {
       "name": "Fujixweekly",
