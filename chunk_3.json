@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Mainspring",
+      "type": 1,
+      "bundleID": "com.naamapps.mainspring",
+      "bundleIdentifier": "com.naamapps.mainspring",
+      "version": "1.12.0",
+      "versionDate": "2025-08-14",
+      "fullDate": "20250814025529",
+      "size": 36739988,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Mainspring_1.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Mainspring_1.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.naamapps.mainspring.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.naamapps.mainspring.png"
+    },
+    {
+      "name": "Riveo",
+      "type": 1,
+      "bundleID": "co.forgeandform.riveo",
+      "bundleIdentifier": "co.forgeandform.riveo",
+      "version": "3.77",
+      "versionDate": "2025-08-14",
+      "fullDate": "20250814025522",
+      "size": 145434859,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Riveo_3.77_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Riveo_3.77_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.forgeandform.riveo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.forgeandform.riveo.png"
+    },
+    {
+      "name": "OpenCam",
+      "type": 1,
+      "bundleID": "riccqi.Camel",
+      "bundleIdentifier": "riccqi.Camel",
+      "version": "1.1.1",
+      "versionDate": "2025-08-14",
+      "fullDate": "20250814025520",
+      "size": 22533893,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/OpenCam_1.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/OpenCam_1.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/riccqi.Camel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/riccqi.Camel.png"
+    },
+    {
+      "name": "EeveeSpotify",
+      "type": 1,
+      "bundleID": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "9.0.68",
+      "versionDate": "2025-08-14",
+      "fullDate": "20250814021007",
+      "size": 84193298,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/EeveeSpotify_9.0.68_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/EeveeSpotify_9.0.68_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png"
+    },
+    {
       "name": "SimplySing",
       "type": 1,
       "bundleID": "com.joytunes.Sing",
@@ -82,22 +146,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/liit.photovideo.editor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/liit.photovideo.editor.png"
-    },
-    {
-      "name": "Vids",
-      "type": 1,
-      "bundleID": "viral.vision.vids",
-      "bundleIdentifier": "viral.vision.vids",
-      "version": "1.113.0",
-      "versionDate": "2025-08-13",
-      "fullDate": "20250813015419",
-      "size": 186951563,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2025/Vids_1.113.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2025/Vids_1.113.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png"
     },
     {
       "name": "Lightroom",
@@ -242,22 +290,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.hirmer.SimplePi.free.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.hirmer.SimplePi.free.png"
-    },
-    {
-      "name": "Aloha",
-      "type": 1,
-      "bundleID": "com.alohabrowser.alohabrowser",
-      "bundleIdentifier": "com.alohabrowser.alohabrowser",
-      "version": "7.8.0",
-      "versionDate": "2025-08-11",
-      "fullDate": "20250811185104",
-      "size": 118985441,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/Aloha_7.8.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/Aloha_7.8.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
       "name": "1Blocker",
@@ -930,22 +962,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png"
-    },
-    {
-      "name": "swipewipe",
-      "type": 1,
-      "bundleID": "com.aoklab.fewerphotos",
-      "bundleIdentifier": "com.aoklab.fewerphotos",
-      "version": "3.2.19",
-      "versionDate": "2025-08-04",
-      "fullDate": "20250804131355",
-      "size": 78727663,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/swipewipe_3.2.19_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/swipewipe_3.2.19_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png"
     },
     {
       "name": "SkyGuide",
@@ -1986,22 +2002,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoshoot.headshotaigenerator.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoshoot.headshotaigenerator.png"
-    },
-    {
-      "name": "BXNG",
-      "type": 1,
-      "bundleID": "com.app.BXNGApp",
-      "bundleIdentifier": "com.app.BXNGApp",
-      "version": "1.49",
-      "versionDate": "2025-07-15",
-      "fullDate": "20250715125853",
-      "size": 18987575,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/BXNG_1.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/BXNG_1.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.BXNGApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.BXNGApp.png"
     }
   ],
   "userInfo": {}
