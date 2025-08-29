@@ -1972,22 +1972,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.kmoney.soothe.png"
     },
     {
-      "name": "PlaceGuesser",
-      "type": 2,
-      "bundleID": "com.mobivalley.LookAroundApp",
-      "bundleIdentifier": "com.mobivalley.LookAroundApp",
-      "version": "1.38.0",
-      "versionDate": "2025-06-06",
-      "fullDate": "20250606225045",
-      "size": 37532146,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/PlaceGuesser_1.38.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/PlaceGuesser_1.38.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png"
-    },
-    {
       "name": "TinyDecisions",
       "type": 1,
       "bundleID": "com.nixwang.decision",
@@ -2002,6 +1986,38 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png"
+    },
+    {
+      "name": "BloodyBastards",
+      "type": 2,
+      "bundleID": "com.tibith.badboxing2",
+      "bundleIdentifier": "com.tibith.badboxing2",
+      "version": "4.2.0",
+      "versionDate": "2025-06-05",
+      "fullDate": "20250605184645",
+      "size": 77785087,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2025/BloodyBastards_4.2.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2025/BloodyBastards_4.2.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tibith.badboxing2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tibith.badboxing2.png"
+    },
+    {
+      "name": "Champions",
+      "type": 2,
+      "bundleID": "com.kabam.marvelbattle",
+      "bundleIdentifier": "com.kabam.marvelbattle",
+      "version": "51.0.0",
+      "versionDate": "2025-06-04",
+      "fullDate": "20250604234437",
+      "size": 1876203308,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/Champions_51.0.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/Champions_51.0.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kabam.marvelbattle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kabam.marvelbattle.png"
     }
   ],
   "userInfo": {}
