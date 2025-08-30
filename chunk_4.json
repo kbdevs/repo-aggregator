@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "MoneyManagerExpenseBudget",
+      "type": 1,
+      "bundleID": "com.realbyteapps.MoneyManager2",
+      "bundleIdentifier": "com.realbyteapps.MoneyManager2",
+      "version": "2.12.0",
+      "versionDate": "2025-07-16",
+      "fullDate": "20250716143517",
+      "size": 27000409,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/MoneyManagerExpenseBudget_2.12.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/MoneyManagerExpenseBudget_2.12.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png"
+    },
+    {
+      "name": "Passbook",
+      "type": 1,
+      "bundleID": "com.am.pkstudio",
+      "bundleIdentifier": "com.am.pkstudio",
+      "version": "3.9",
+      "versionDate": "2025-07-16",
+      "fullDate": "20250716044313",
+      "size": 92578496,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Passbook_3.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Passbook_3.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png"
+    },
+    {
       "name": "HeadifyAIHeadshotGenerator",
       "type": 1,
       "bundleID": "com.photoshoot.headshotaigenerator",
@@ -1986,38 +2018,6 @@
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.bowmasters.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.bowmasters.png"
-    },
-    {
-      "name": "Voicepal",
-      "type": 1,
-      "bundleID": "com.choiceapps.recipesfdw",
-      "bundleIdentifier": "com.choiceapps.recipesfdw",
-      "version": "2.0.78",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624173609",
-      "size": 33883098,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Voicepal_2.0.78_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Voicepal_2.0.78_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png"
-    },
-    {
-      "name": "Sleep",
-      "type": 1,
-      "bundleID": "com.bendingspoonsapps.SleepHelp",
-      "bundleIdentifier": "com.bendingspoonsapps.SleepHelp",
-      "version": "2.7.16",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624120923",
-      "size": 42628049,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Sleep_2.7.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Sleep_2.7.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bendingspoonsapps.SleepHelp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bendingspoonsapps.SleepHelp.png"
     }
   ],
   "userInfo": {}

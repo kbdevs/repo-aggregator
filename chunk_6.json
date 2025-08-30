@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "BloodyBastards",
+      "type": 2,
+      "bundleID": "com.tibith.badboxing2",
+      "bundleIdentifier": "com.tibith.badboxing2",
+      "version": "4.2.0",
+      "versionDate": "2025-06-05",
+      "fullDate": "20250605184645",
+      "size": 77785087,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2025/BloodyBastards_4.2.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2025/BloodyBastards_4.2.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tibith.badboxing2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tibith.badboxing2.png"
+    },
+    {
+      "name": "Champions",
+      "type": 2,
+      "bundleID": "com.kabam.marvelbattle",
+      "bundleIdentifier": "com.kabam.marvelbattle",
+      "version": "51.0.0",
+      "versionDate": "2025-06-04",
+      "fullDate": "20250604234437",
+      "size": 1876203308,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/Champions_51.0.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/Champions_51.0.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kabam.marvelbattle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kabam.marvelbattle.png"
+    },
+    {
       "name": "Tacticus",
       "type": 2,
       "bundleID": "com.snowprintstudios.tacticus",
@@ -1986,38 +2018,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pingrab.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pingrab.app.png"
-    },
-    {
-      "name": "Eminence",
-      "type": 2,
-      "bundleID": "com.crunchyroll.eminenceinshadowrpg",
-      "bundleIdentifier": "com.crunchyroll.eminenceinshadowrpg",
-      "version": "3.7.0",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510185156",
-      "size": 136685573,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Eminence_3.7.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Eminence_3.7.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crunchyroll.eminenceinshadowrpg.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crunchyroll.eminenceinshadowrpg.png"
-    },
-    {
-      "name": "GTClub",
-      "type": 2,
-      "bundleID": "com.kingkodestudio.gtclub",
-      "bundleIdentifier": "com.kingkodestudio.gtclub",
-      "version": "1.15.20",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510184143",
-      "size": 308768052,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/GTClub_1.15.20_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/GTClub_1.15.20_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingkodestudio.gtclub.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingkodestudio.gtclub.png"
     }
   ],
   "userInfo": {}

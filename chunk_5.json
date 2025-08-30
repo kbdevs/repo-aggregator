@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Voicepal",
+      "type": 1,
+      "bundleID": "com.choiceapps.recipesfdw",
+      "bundleIdentifier": "com.choiceapps.recipesfdw",
+      "version": "2.0.78",
+      "versionDate": "2025-06-24",
+      "fullDate": "20250624173609",
+      "size": 33883098,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Voicepal_2.0.78_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Voicepal_2.0.78_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png"
+    },
+    {
+      "name": "Sleep",
+      "type": 1,
+      "bundleID": "com.bendingspoonsapps.SleepHelp",
+      "bundleIdentifier": "com.bendingspoonsapps.SleepHelp",
+      "version": "2.7.16",
+      "versionDate": "2025-06-24",
+      "fullDate": "20250624120923",
+      "size": 42628049,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Sleep_2.7.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Sleep_2.7.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bendingspoonsapps.SleepHelp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bendingspoonsapps.SleepHelp.png"
+    },
+    {
       "name": "YogaWave",
       "type": 1,
       "bundleID": "com.flyingnayeem.yoga",
@@ -1986,38 +2018,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png"
-    },
-    {
-      "name": "BloodyBastards",
-      "type": 2,
-      "bundleID": "com.tibith.badboxing2",
-      "bundleIdentifier": "com.tibith.badboxing2",
-      "version": "4.2.0",
-      "versionDate": "2025-06-05",
-      "fullDate": "20250605184645",
-      "size": 77785087,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2025/BloodyBastards_4.2.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2025/BloodyBastards_4.2.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Unlocked All Functions",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tibith.badboxing2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tibith.badboxing2.png"
-    },
-    {
-      "name": "Champions",
-      "type": 2,
-      "bundleID": "com.kabam.marvelbattle",
-      "bundleIdentifier": "com.kabam.marvelbattle",
-      "version": "51.0.0",
-      "versionDate": "2025-06-04",
-      "fullDate": "20250604234437",
-      "size": 1876203308,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/Champions_51.0.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/Champions_51.0.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Unlocked All Functions",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kabam.marvelbattle.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kabam.marvelbattle.png"
     }
   ],
   "userInfo": {}

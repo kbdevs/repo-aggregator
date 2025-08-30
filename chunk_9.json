@@ -4,6 +4,122 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Streamer iOS",
+      "bundleIdentifier": "com.streamer.ios",
+      "developerName": "StreamerApp Team",
+      "subtitle": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.",
+      "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.ios\n\n Downloads: 2081\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1691866226.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998256329753326.webp",
+        "https://apps.nabzclan.vip/screenshots/16998256336001279.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.41",
+          "date": "2024-12-25 15:56:48",
+          "localizedDescription": "Current of Streamer iOS - 1.2.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
+          "size": 34728837
+        },
+        {
+          "version": "1.2.23",
+          "date": "2023-08-12 18:50:26",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.23",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/156",
+          "size": 19576913
+        },
+        {
+          "version": "1.2.24",
+          "date": "2023-08-22 16:03:29",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.24",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/173",
+          "size": 19639828
+        },
+        {
+          "version": "1.2.25",
+          "date": "2023-10-21 03:42:54",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.25",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/269",
+          "size": 19870515
+        },
+        {
+          "version": "1.2.28",
+          "date": "2023-11-12 21:18:45",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.28",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/280",
+          "size": 21925724
+        },
+        {
+          "version": "1.2.29",
+          "date": "2023-11-21 04:25:17",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.29",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/315",
+          "size": 23802675
+        },
+        {
+          "version": "1.2.41",
+          "date": "2024-12-20 18:13:53",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1120",
+          "size": 37601935
+        },
+        {
+          "version": "1.2.41",
+          "date": "2024-12-25 15:56:48",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
+          "size": 34728837
+        }
+      ],
+      "version": "1.2.41",
+      "versionDate": "2024-12-25 15:56:48",
+      "versionDescription": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
+      "formatedsize": "33.12 MB",
+      "size": 34728837
+    },
+    {
+      "name": "Retro City Rampage DX",
+      "bundleIdentifier": "Vblank.Retro-City-Rampage-DX--iOS-",
+      "developerName": "Vblank Entertainment Inc.",
+      "subtitle": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol",
+      "localizedDescription": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: Vblank.Retro-City-Rampage-DX--iOS-\n\n Downloads: 104\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1735159633.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17351596337323764071.webp",
+        "https://apps.nabzclan.vip/screenshots/17351596337894704747.webp",
+        "https://apps.nabzclan.vip/screenshots/17351596338222142284.webp",
+        "https://apps.nabzclan.vip/screenshots/17351596338646032888.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1.1",
+          "date": "2024-12-25 15:47:14",
+          "localizedDescription": "Current of Retro City Rampage DX - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
+          "size": 10726932
+        },
+        {
+          "version": "2.1.1",
+          "date": "2024-12-25 15:47:14",
+          "localizedDescription": "Old Version of Retro City Rampage DX - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
+          "size": 10726932
+        }
+      ],
+      "version": "2.1.1",
+      "versionDate": "2024-12-25 15:47:14",
+      "versionDescription": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
+      "formatedsize": "10.23 MB",
+      "size": 10726932
+    },
+    {
       "name": "Seekers Notes: Hidden Objects (Hack)",
       "bundleIdentifier": "com.mytona.seekersnotes.mysteriesofdarkwood",
       "developerName": "Nabzclan",
@@ -5223,85 +5339,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/602",
       "formatedsize": "76.47 MB",
       "size": 80184606
-    },
-    {
-      "name": "WolframAlpha Classic (Hack)",
-      "bundleIdentifier": "com.wolframalpha.wolframalpha",
-      "developerName": "fire",
-      "subtitle": "Features:\r\n-  All features unlocked\r\n- You must log in with an account.",
-      "localizedDescription": "Features:\r\n-  All features unlocked\r\n- You must log in with an account.\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.wolframalpha.wolframalpha\n\n Downloads: 107\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726989045.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269890430874276164.webp",
-        "https://apps.nabzclan.vip/screenshots/17269890434449076158.webp",
-        "https://apps.nabzclan.vip/screenshots/17269890436611657147.webp",
-        "https://apps.nabzclan.vip/screenshots/17269890446416481030.webp",
-        "https://apps.nabzclan.vip/screenshots/17269890449166492576.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.3",
-          "date": "2024-09-22 11:10:45",
-          "localizedDescription": "Current of WolframAlpha Classic (Hack) - 2.1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/599",
-          "size": 17574133
-        },
-        {
-          "version": "2.1.3",
-          "date": "2024-09-22 11:10:45",
-          "localizedDescription": "Old Version of WolframAlpha Classic (Hack) - 2.1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/599",
-          "size": 17574133
-        }
-      ],
-      "version": "2.1.3",
-      "versionDate": "2024-09-22 11:10:45",
-      "versionDescription": "Features:\r\n-  All features unlocked\r\n- You must log in with an account.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/599",
-      "formatedsize": "16.76 MB",
-      "size": 17574133
-    },
-    {
-      "name": "Real Drift Car Racing Lite (Hack)",
-      "bundleIdentifier": "com.realdriftportnew.sipon",
-      "developerName": "Fire",
-      "subtitle": "Features:\r\nInfinite Coins (Buy and Recover)",
-      "localizedDescription": "Features:\r\nInfinite Coins (Buy and Recover)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.realdriftportnew.sipon\n\n Downloads: 397\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1726988205.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269882005119354800.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882009675800053.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882012828349644.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882030298318960.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882043645763222.webp",
-        "https://apps.nabzclan.vip/screenshots/17269882046901770782.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.0.7",
-          "date": "2024-09-22 10:56:45",
-          "localizedDescription": "Current of Real Drift Car Racing Lite (Hack) - 5.0.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/597",
-          "size": 176894771
-        },
-        {
-          "version": "5.0.7",
-          "date": "2024-09-22 10:56:45",
-          "localizedDescription": "Old Version of Real Drift Car Racing Lite (Hack) - 5.0.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/597",
-          "size": 176894771
-        }
-      ],
-      "version": "5.0.7",
-      "versionDate": "2024-09-22 10:56:45",
-      "versionDescription": "Features:\r\nInfinite Coins (Buy and Recover)",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/597",
-      "formatedsize": "168.7 MB",
-      "size": 176894771
     }
   ],
   "userInfo": {}
