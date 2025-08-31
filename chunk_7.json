@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "PinGrab",
+      "type": 1,
+      "bundleID": "com.pingrab.app",
+      "bundleIdentifier": "com.pingrab.app",
+      "version": "2.6.5",
+      "versionDate": "2025-05-11",
+      "fullDate": "20250511040907",
+      "size": 169092261,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/PinGrab_2.6.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/PinGrab_2.6.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pingrab.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pingrab.app.png"
+    },
+    {
       "name": "Eminence",
       "type": 2,
       "bundleID": "com.crunchyroll.eminenceinshadowrpg",
@@ -2625,46 +2641,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/267",
       "formatedsize": "2.96 MB",
       "size": 3103784
-    },
-    {
-      "name": "Evoland 2",
-      "bundleIdentifier": "com.playdigious.evoland2",
-      "developerName": "An indie tribute to gaming",
-      "subtitle": "What were your childhood games like?",
-      "localizedDescription": "What were your childhood games like?\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.playdigious.evoland2\n\n Downloads: 126\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730896981.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17308969806329542447.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969808118610860.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969809518324397.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969811001830311.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969812392873165.webp",
-        "https://apps.nabzclan.vip/screenshots/17308969813899246350.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.2.0",
-          "date": "2025-03-31 17:37:57",
-          "localizedDescription": "Current of Evoland 2 - 2.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1336",
-          "size": 350853529
-        },
-        {
-          "version": "2.2.0",
-          "date": "2025-03-31 17:37:57",
-          "localizedDescription": "Old Version of Evoland 2 - 2.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1336",
-          "size": 350853529
-        }
-      ],
-      "version": "2.2.0",
-      "versionDate": "2025-03-31 17:37:57",
-      "versionDescription": "What were your childhood games like?",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1336",
-      "formatedsize": "334.6 MB",
-      "size": 350853529
     }
   ],
   "userInfo": {}

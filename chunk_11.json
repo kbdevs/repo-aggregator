@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "SenditDiamond",
+      "bundleIdentifier": "com.fullsenders.sendit",
+      "version": "21.6.2",
+      "versionDate": "2024-10-13",
+      "size": 54214503,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SenditDiamond/SenditDiamond-21.6.2.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fullsenders.sendit.png"
+    },
+    {
       "name": "SecondHand",
       "bundleIdentifier": "com.leemin.SecondHand",
       "version": "1.1",
@@ -1542,33 +1553,6 @@
           "maxOSVersion": "16.1.2"
         }
       ]
-    },
-    {
-      "name": "WDBFontOverwrite",
-      "bundleIdentifier": "com.ginsudev.WDBFontOverwrite",
-      "developerName": "Zhuowei + Ginsudev",
-      "subtitle": "Override the iOS system fonts!",
-      "localizedDescription": "An app that allows you to override the system used iOS font with one of the fonts from our built in selection. It's probably not going to be that useful. It's meant more as a demo of what you can do with MacDirtyCow.",
-      "iconURL": "https://i.imgur.com/SXK4rhS.png",
-      "tintColor": "#404040",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/704768/209511898-a1477b66-28e4-471a-87d9-36c1c2eb25ca.png",
-        "https://user-images.githubusercontent.com/704768/209606970-a382c273-bdcb-425c-bca1-1b6f9b31862f.png",
-        "https://user-images.githubusercontent.com/704768/209753262-b8204c92-b873-41a7-8127-38bf86096470.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "1.10.8",
-          "version": "1.10.8",
-          "date": "2023-02-09T10:15:32Z",
-          "localizedDescription": "# v1.10.8\n\n- Updated grant_full_disk_access.\r\n- Concurrency and code improvements/fixes.",
-          "downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa",
-          "size": 5348316,
-          "sha256": "c0247494c3852c200aeececaada8476b0967958154a28cfd260b21a9c20392ec",
-          "maxOSVersion": "16.1.2"
-        }
-      ],
-      "appID": "com.ginsudev.WDBFontOverwrite"
     }
   ],
   "userInfo": {}

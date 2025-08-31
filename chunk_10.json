@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Mcqueen Highway Racing (Hack)",
+      "bundleIdentifier": "com.adbous.highracing",
+      "developerName": "fire",
+      "subtitle": "Features:\r\n - Infinite money \r\n- All cars are owned\r\n- All accessories are proprietary",
+      "localizedDescription": "Features:\r\n - Infinite money \r\n- All cars are owned\r\n- All accessories are proprietary\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.adbous.highracing\n\n Downloads: 87\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1726991207.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2024-09-22 11:46:47",
+          "localizedDescription": "Current of Mcqueen Highway Racing (Hack) - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/602",
+          "size": 80184606
+        },
+        {
+          "version": "1.1",
+          "date": "2024-09-22 11:46:47",
+          "localizedDescription": "Old Version of Mcqueen Highway Racing (Hack) - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/602",
+          "size": 80184606
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2024-09-22 11:46:47",
+      "versionDescription": "Features:\r\n - Infinite money \r\n- All cars are owned\r\n- All accessories are proprietary",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/602",
+      "formatedsize": "76.47 MB",
+      "size": 80184606
+    },
+    {
       "name": "WolframAlpha Classic (Hack)",
       "bundleIdentifier": "com.wolframalpha.wolframalpha",
       "developerName": "fire",
@@ -3438,17 +3473,6 @@
       "developerName": "Qamislo - Apps",
       "localizedDescription": "Another HDO Play under a different name, UI is way better than the one above.\nLast updated: 12-03-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tovuen.play.png"
-    },
-    {
-      "name": "SenditDiamond",
-      "bundleIdentifier": "com.fullsenders.sendit",
-      "version": "21.6.2",
-      "versionDate": "2024-10-13",
-      "size": 54214503,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SenditDiamond/SenditDiamond-21.6.2.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fullsenders.sendit.png"
     }
   ],
   "userInfo": {}

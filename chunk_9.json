@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Vive le Roi 3",
+      "bundleIdentifier": "com.seccia.vlr3",
+      "developerName": "Sylvain Seccia",
+      "subtitle": "Vive le Roi 3 is a puzzle and anticipation game, without chance or timing, based on mini puzzles to be solved by choosing the right ladder on each floor to reach the king and save him from his executioner.",
+      "localizedDescription": "Vive le Roi 3 is a puzzle and anticipation game, without chance or timing, based on mini puzzles to be solved by choosing the right ladder on each floor to reach the king and save him from his executioner.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.seccia.vlr3\n\n Downloads: 152\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1735161228.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17351612281585507782.webp",
+        "https://apps.nabzclan.vip/screenshots/17351612283462390545.webp",
+        "https://apps.nabzclan.vip/screenshots/17351612284345056771.webp",
+        "https://apps.nabzclan.vip/screenshots/17351612285001483518.webp",
+        "https://apps.nabzclan.vip/screenshots/17351612285774871555.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.8",
+          "date": "2024-12-25 16:13:48",
+          "localizedDescription": "Current of Vive le Roi 3 - 1.0.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1132",
+          "size": 26801602
+        },
+        {
+          "version": "1.0.8",
+          "date": "2024-12-25 16:13:48",
+          "localizedDescription": "Old Version of Vive le Roi 3 - 1.0.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1132",
+          "size": 26801602
+        }
+      ],
+      "version": "1.0.8",
+      "versionDate": "2024-12-25 16:13:48",
+      "versionDescription": "Vive le Roi 3 is a puzzle and anticipation game, without chance or timing, based on mini puzzles to be solved by choosing the right ladder on each floor to reach the king and save him from his executioner.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1132",
+      "formatedsize": "25.56 MB",
+      "size": 26801602
+    },
+    {
       "name": "Streamer iOS",
       "bundleIdentifier": "com.streamer.ios",
       "developerName": "StreamerApp Team",
@@ -5304,41 +5343,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/603",
       "formatedsize": "151.77 MB",
       "size": 159142379
-    },
-    {
-      "name": "Mcqueen Highway Racing (Hack)",
-      "bundleIdentifier": "com.adbous.highracing",
-      "developerName": "fire",
-      "subtitle": "Features:\r\n - Infinite money \r\n- All cars are owned\r\n- All accessories are proprietary",
-      "localizedDescription": "Features:\r\n - Infinite money \r\n- All cars are owned\r\n- All accessories are proprietary\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.adbous.highracing\n\n Downloads: 87\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1726991207.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1",
-          "date": "2024-09-22 11:46:47",
-          "localizedDescription": "Current of Mcqueen Highway Racing (Hack) - 1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/602",
-          "size": 80184606
-        },
-        {
-          "version": "1.1",
-          "date": "2024-09-22 11:46:47",
-          "localizedDescription": "Old Version of Mcqueen Highway Racing (Hack) - 1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/602",
-          "size": 80184606
-        }
-      ],
-      "version": "1.1",
-      "versionDate": "2024-09-22 11:46:47",
-      "versionDescription": "Features:\r\n - Infinite money \r\n- All cars are owned\r\n- All accessories are proprietary",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/602",
-      "formatedsize": "76.47 MB",
-      "size": 80184606
     }
   ],
   "userInfo": {}
