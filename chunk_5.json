@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "NutriCoach",
+      "type": 1,
+      "bundleID": "nutrition.coach",
+      "bundleIdentifier": "nutrition.coach",
+      "version": "1.7.0",
+      "versionDate": "2025-06-24",
+      "fullDate": "20250624195239",
+      "size": 45989466,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/NutriCoach_1.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/NutriCoach_1.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png"
+    },
+    {
+      "name": "SurvivalArena",
+      "type": 2,
+      "bundleID": "tower.defense.survival.arena",
+      "bundleIdentifier": "tower.defense.survival.arena",
+      "version": "1.7.10",
+      "versionDate": "2025-06-24",
+      "fullDate": "20250624182154",
+      "size": 132096479,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/SurvivalArena_1.7.10_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/SurvivalArena_1.7.10_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tower.defense.survival.arena.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tower.defense.survival.arena.png"
+    },
+    {
       "name": "Bowmasters",
       "type": 2,
       "bundleID": "com.playgendary.bowmasters",
@@ -1986,38 +2018,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/background.remover.bg.eraser.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/background.remover.bg.eraser.png"
-    },
-    {
-      "name": "FoodCheck",
-      "type": 1,
-      "bundleID": "com.bytes-and-pixels.food-buddy",
-      "bundleIdentifier": "com.bytes-and-pixels.food-buddy",
-      "version": "3.62.0",
-      "versionDate": "2025-06-07",
-      "fullDate": "20250607160640",
-      "size": 96892526,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/FoodCheck_3.62.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/FoodCheck_3.62.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bytes-and-pixels.food-buddy.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bytes-and-pixels.food-buddy.png"
-    },
-    {
-      "name": "StressBall",
-      "type": 1,
-      "bundleID": "app.kmoney.soothe",
-      "bundleIdentifier": "app.kmoney.soothe",
-      "version": "15.8",
-      "versionDate": "2025-06-07",
-      "fullDate": "20250607160636",
-      "size": 103909504,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/StressBall_15.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/StressBall_15.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.kmoney.soothe.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.kmoney.soothe.png"
     }
   ],
   "userInfo": {}

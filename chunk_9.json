@@ -4,6 +4,52 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Fruit Merge: Match Game (NO Ads)",
+      "bundleIdentifier": "com.puzzle.merge.fruits.watermelon.drop",
+      "developerName": "Nabzclan",
+      "subtitle": "Features:\r\n- NO Ads",
+      "localizedDescription": "Features:\r\n- NO Ads\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.puzzle.merge.fruits.watermelon.drop\n\n Downloads: 128\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731099590.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310995890599403981.webp",
+        "https://apps.nabzclan.vip/screenshots/17310995892594427504.webp",
+        "https://apps.nabzclan.vip/screenshots/17310995898483505939.webp",
+        "https://apps.nabzclan.vip/screenshots/17310995899809929779.webp",
+        "https://apps.nabzclan.vip/screenshots/17310995901989808156.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.9",
+          "date": "2024-12-25 16:27:34",
+          "localizedDescription": "Current of Fruit Merge: Match Game (NO Ads) - 5.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1133",
+          "size": 103567851
+        },
+        {
+          "version": "5.3",
+          "date": "2024-11-08 20:59:50",
+          "localizedDescription": "Old Version of Fruit Merge: Match Game (NO Ads) - 5.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/935",
+          "size": 96364134
+        },
+        {
+          "version": "5.9",
+          "date": "2024-12-25 16:27:34",
+          "localizedDescription": "Old Version of Fruit Merge: Match Game (NO Ads) - 5.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1133",
+          "size": 103567851
+        }
+      ],
+      "version": "5.9",
+      "versionDate": "2024-12-25 16:27:34",
+      "versionDescription": "Features:\r\n- NO Ads",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1133",
+      "formatedsize": "98.77 MB",
+      "size": 103567851
+    },
+    {
       "name": "Vive le Roi 3",
       "bundleIdentifier": "com.seccia.vlr3",
       "developerName": "Sylvain Seccia",
@@ -5302,47 +5348,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/205",
       "formatedsize": "1.23 MB",
       "size": 1289748
-    },
-    {
-      "name": "Zombie Hill Racing (Hack)",
-      "bundleIdentifier": "sk.inlogic.hillzombieracingearntodie",
-      "developerName": "nabzclan",
-      "subtitle": "Features:\r\n - infinite money\r\n- Infinite gems\r\n- Infinite fuel",
-      "localizedDescription": "Features:\r\n - infinite money\r\n- Infinite gems\r\n- Infinite fuel\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: sk.inlogic.hillzombieracingearntodie\n\n Downloads: 283\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1726991942.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269919411049586238.webp",
-        "https://apps.nabzclan.vip/screenshots/17269919416597793770.webp",
-        "https://apps.nabzclan.vip/screenshots/17269919418592051200.webp",
-        "https://apps.nabzclan.vip/screenshots/17269919420527262758.webp",
-        "https://apps.nabzclan.vip/screenshots/17269919422421183303.webp",
-        "https://apps.nabzclan.vip/screenshots/17270276837639129.webp",
-        "https://apps.nabzclan.vip/screenshots/17270276836320283.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.6",
-          "date": "2024-09-22 11:59:03",
-          "localizedDescription": "Current of Zombie Hill Racing (Hack) - 2.1.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/603",
-          "size": 159142379
-        },
-        {
-          "version": "2.1.6",
-          "date": "2024-09-22 11:59:03",
-          "localizedDescription": "Old Version of Zombie Hill Racing (Hack) - 2.1.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/603",
-          "size": 159142379
-        }
-      ],
-      "version": "2.1.6",
-      "versionDate": "2024-09-22 11:59:03",
-      "versionDescription": "Features:\r\n - infinite money\r\n- Infinite gems\r\n- Infinite fuel",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/603",
-      "formatedsize": "151.77 MB",
-      "size": 159142379
     }
   ],
   "userInfo": {}

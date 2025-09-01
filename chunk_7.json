@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Respring",
+      "type": 1,
+      "bundleID": "com.respring.app",
+      "bundleIdentifier": "com.respring.app",
+      "version": "0.0.1",
+      "versionDate": "2025-05-12",
+      "fullDate": "20250512062806",
+      "size": 264632,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Respring_0.0.1_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Respring_0.0.1_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.respring.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.respring.app.png"
+    },
+    {
+      "name": "dirtyZero",
+      "type": 1,
+      "bundleID": "online.skadz.dirtyZero",
+      "bundleIdentifier": "online.skadz.dirtyZero",
+      "version": "0.3.5",
+      "versionDate": "2025-05-12",
+      "fullDate": "20250512062803",
+      "size": 213366,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/dirtyZero_0.3.5_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/dirtyZero_0.3.5_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/online.skadz.dirtyZero.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/online.skadz.dirtyZero.png"
+    },
+    {
       "name": "PinGrab",
       "type": 1,
       "bundleID": "com.pingrab.app",
@@ -578,22 +610,6 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
-    },
-    {
-      "name": "AndalusiDesign",
-      "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
     },
     {
       "name": "RashaqaWorkout",
@@ -2606,41 +2622,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
       "formatedsize": "210.1 MB",
       "size": 220305817
-    },
-    {
-      "name": "nds4ios",
-      "bundleIdentifier": "net.nerd.iNDS",
-      "developerName": "nds4ios team",
-      "subtitle": "The iNDS team brings you another emulator since you all loved iNDS",
-      "localizedDescription": "The iNDS team brings you another emulator since you all loved iNDS\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: net.nerd.iNDS\n\n Downloads: 1116\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1697759738.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2025-03-31 18:16:52",
-          "localizedDescription": "Current of nds4ios - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-          "size": 3103784
-        },
-        {
-          "version": "1.0",
-          "date": "2025-03-31 18:16:52",
-          "localizedDescription": "Old Version of nds4ios - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-          "size": 3103784
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2025-03-31 18:16:52",
-      "versionDescription": "The iNDS team brings you another emulator since you all loved iNDS",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-      "formatedsize": "2.96 MB",
-      "size": 3103784
     }
   ],
   "userInfo": {}

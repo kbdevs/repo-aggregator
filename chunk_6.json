@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "FoodCheck",
+      "type": 1,
+      "bundleID": "com.bytes-and-pixels.food-buddy",
+      "bundleIdentifier": "com.bytes-and-pixels.food-buddy",
+      "version": "3.62.0",
+      "versionDate": "2025-06-07",
+      "fullDate": "20250607160640",
+      "size": 96892526,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/FoodCheck_3.62.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/FoodCheck_3.62.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bytes-and-pixels.food-buddy.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bytes-and-pixels.food-buddy.png"
+    },
+    {
+      "name": "StressBall",
+      "type": 1,
+      "bundleID": "app.kmoney.soothe",
+      "bundleIdentifier": "app.kmoney.soothe",
+      "version": "15.8",
+      "versionDate": "2025-06-07",
+      "fullDate": "20250607160636",
+      "size": 103909504,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/StressBall_15.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/StressBall_15.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.kmoney.soothe.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.kmoney.soothe.png"
+    },
+    {
       "name": "TinyDecisions",
       "type": 1,
       "bundleID": "com.nixwang.decision",
@@ -1986,38 +2018,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itranslate.grammatica.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itranslate.grammatica.ios.png"
-    },
-    {
-      "name": "Respring",
-      "type": 1,
-      "bundleID": "com.respring.app",
-      "bundleIdentifier": "com.respring.app",
-      "version": "0.0.1",
-      "versionDate": "2025-05-12",
-      "fullDate": "20250512062806",
-      "size": 264632,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Respring_0.0.1_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Respring_0.0.1_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.respring.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.respring.app.png"
-    },
-    {
-      "name": "dirtyZero",
-      "type": 1,
-      "bundleID": "online.skadz.dirtyZero",
-      "bundleIdentifier": "online.skadz.dirtyZero",
-      "version": "0.3.5",
-      "versionDate": "2025-05-12",
-      "fullDate": "20250512062803",
-      "size": 213366,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/dirtyZero_0.3.5_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/dirtyZero_0.3.5_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/online.skadz.dirtyZero.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/online.skadz.dirtyZero.png"
     }
   ],
   "userInfo": {}

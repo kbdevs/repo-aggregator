@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "nds4ios",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "developerName": "nds4ios team",
+      "subtitle": "The iNDS team brings you another emulator since you all loved iNDS",
+      "localizedDescription": "The iNDS team brings you another emulator since you all loved iNDS\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: net.nerd.iNDS\n\n Downloads: 1116\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1697759738.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-03-31 18:16:52",
+          "localizedDescription": "Current of nds4ios - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
+          "size": 3103784
+        },
+        {
+          "version": "1.0",
+          "date": "2025-03-31 18:16:52",
+          "localizedDescription": "Old Version of nds4ios - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
+          "size": 3103784
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2025-03-31 18:16:52",
+      "versionDescription": "The iNDS team brings you another emulator since you all loved iNDS",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/267",
+      "formatedsize": "2.96 MB",
+      "size": 3103784
+    },
+    {
       "name": "Evoland 2",
       "bundleIdentifier": "com.playdigious.evoland2",
       "developerName": "An indie tribute to gaming",
@@ -5126,52 +5161,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1135",
       "formatedsize": "63.4 MB",
       "size": 66479718
-    },
-    {
-      "name": "Fruit Merge: Match Game (NO Ads)",
-      "bundleIdentifier": "com.puzzle.merge.fruits.watermelon.drop",
-      "developerName": "Nabzclan",
-      "subtitle": "Features:\r\n- NO Ads",
-      "localizedDescription": "Features:\r\n- NO Ads\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.puzzle.merge.fruits.watermelon.drop\n\n Downloads: 128\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731099590.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310995890599403981.webp",
-        "https://apps.nabzclan.vip/screenshots/17310995892594427504.webp",
-        "https://apps.nabzclan.vip/screenshots/17310995898483505939.webp",
-        "https://apps.nabzclan.vip/screenshots/17310995899809929779.webp",
-        "https://apps.nabzclan.vip/screenshots/17310995901989808156.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.9",
-          "date": "2024-12-25 16:27:34",
-          "localizedDescription": "Current of Fruit Merge: Match Game (NO Ads) - 5.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1133",
-          "size": 103567851
-        },
-        {
-          "version": "5.3",
-          "date": "2024-11-08 20:59:50",
-          "localizedDescription": "Old Version of Fruit Merge: Match Game (NO Ads) - 5.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/935",
-          "size": 96364134
-        },
-        {
-          "version": "5.9",
-          "date": "2024-12-25 16:27:34",
-          "localizedDescription": "Old Version of Fruit Merge: Match Game (NO Ads) - 5.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1133",
-          "size": 103567851
-        }
-      ],
-      "version": "5.9",
-      "versionDate": "2024-12-25 16:27:34",
-      "versionDescription": "Features:\r\n- NO Ads",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1133",
-      "formatedsize": "98.77 MB",
-      "size": 103567851
     }
   ],
   "userInfo": {}

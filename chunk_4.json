@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Supershift",
+      "type": 1,
+      "bundleID": "io.erna",
+      "bundleIdentifier": "io.erna",
+      "version": "2025.21",
+      "versionDate": "2025-07-17",
+      "fullDate": "20250717202040",
+      "size": 33015506,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Supershift_2025.21_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Supershift_2025.21_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png"
+    },
+    {
       "name": "Calisteniapp",
       "type": 1,
       "bundleID": "com.inakitajes.Calisthenial",
@@ -1460,6 +1476,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
     },
     {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704082624",
+      "size": 176231919,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
       "name": "ReceiptLens",
       "type": 1,
       "bundleID": "com.glority.receipt",
@@ -1986,38 +2018,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png"
-    },
-    {
-      "name": "NutriCoach",
-      "type": 1,
-      "bundleID": "nutrition.coach",
-      "bundleIdentifier": "nutrition.coach",
-      "version": "1.7.0",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624195239",
-      "size": 45989466,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/NutriCoach_1.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/NutriCoach_1.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png"
-    },
-    {
-      "name": "SurvivalArena",
-      "type": 2,
-      "bundleID": "tower.defense.survival.arena",
-      "bundleIdentifier": "tower.defense.survival.arena",
-      "version": "1.7.10",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624182154",
-      "size": 132096479,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/SurvivalArena_1.7.10_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/SurvivalArena_1.7.10_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tower.defense.survival.arena.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tower.defense.survival.arena.png"
     }
   ],
   "userInfo": {}

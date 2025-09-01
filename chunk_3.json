@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Tripsy",
+      "type": 1,
+      "bundleID": "app.tripsy.ios",
+      "bundleIdentifier": "app.tripsy.ios",
+      "version": "3.5.3",
+      "versionDate": "2025-08-18",
+      "fullDate": "20250818114314",
+      "size": 90248252,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2025/Tripsy_3.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2025/Tripsy_3.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
+    },
+    {
+      "name": "WebVideoCast",
+      "type": 1,
+      "bundleID": "com.instantbits.cast.webvideo",
+      "bundleIdentifier": "com.instantbits.cast.webvideo",
+      "version": "2.48",
+      "versionDate": "2025-08-18",
+      "fullDate": "20250818024155",
+      "size": 47665038,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2025/WebVideoCast_2.48_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2025/WebVideoCast_2.48_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png"
+    },
+    {
       "name": "Purgo",
       "type": 1,
       "bundleID": "com.tonymasek.Purgo",
@@ -1300,22 +1332,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png"
     },
     {
-      "name": "InShot",
-      "type": 1,
-      "bundleID": "com.camerasideas.InstaShot",
-      "bundleIdentifier": "com.camerasideas.InstaShot",
-      "version": "1.89.0",
-      "versionDate": "2025-08-01",
-      "fullDate": "20250801233604",
-      "size": 111597978,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/InShot_1.89.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/InShot_1.89.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png"
-    },
-    {
       "name": "ReversoContext",
       "type": 1,
       "bundleID": "com.softissimo.ReversoContext",
@@ -2002,22 +2018,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png"
-    },
-    {
-      "name": "Supershift",
-      "type": 1,
-      "bundleID": "io.erna",
-      "bundleIdentifier": "io.erna",
-      "version": "2025.21",
-      "versionDate": "2025-07-17",
-      "fullDate": "20250717202040",
-      "size": 33015506,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Supershift_2025.21_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Supershift_2025.21_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png"
     }
   ],
   "userInfo": {}
