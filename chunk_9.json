@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Balatro",
+      "bundleIdentifier": "com.playstack.balatropremium",
+      "developerName": "Playstack Ltd",
+      "subtitle": "Welcome to the official Balatro mobile game!\r\n\r\nHypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\r\n\r\nYour goal is to beat the Boss Blinds by making strong poker hands.\r\n\r\nFind new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play. You\u2019ll need all the help you can get to beat the big boss, win the final challenge, and win the game.",
+      "localizedDescription": "Welcome to the official Balatro mobile game!\r\n\r\nHypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\r\n\r\nYour goal is to beat the Boss Blinds by making strong poker hands.\r\n\r\nFind new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play. You\u2019ll need all the help you can get to beat the big boss, win the final challenge, and win the game.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.playstack.balatropremium\n\n Downloads: 1863\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1735162421.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17351624210517080822.webp",
+        "https://apps.nabzclan.vip/screenshots/17351624211021774105.webp",
+        "https://apps.nabzclan.vip/screenshots/17351624211402444185.webp",
+        "https://apps.nabzclan.vip/screenshots/17351624211754814102.webp",
+        "https://apps.nabzclan.vip/screenshots/17351624212098474841.webp",
+        "https://apps.nabzclan.vip/screenshots/17351624212419472914.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1.7",
+          "date": "2024-12-25 16:33:41",
+          "localizedDescription": "Current of Balatro - 1.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1135",
+          "size": 66479718
+        },
+        {
+          "version": "1.1.7",
+          "date": "2024-12-25 16:33:41",
+          "localizedDescription": "Old Version of Balatro - 1.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1135",
+          "size": 66479718
+        }
+      ],
+      "version": "1.1.7",
+      "versionDate": "2024-12-25 16:33:41",
+      "versionDescription": "Welcome to the official Balatro mobile game!\r\n\r\nHypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\r\n\r\nYour goal is to beat the Boss Blinds by making strong poker hands.\r\n\r\nFind new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play. You\u2019ll need all the help you can get to beat the big boss, win the final challenge, and win the game.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1135",
+      "formatedsize": "63.4 MB",
+      "size": 66479718
+    },
+    {
       "name": "Fruit Merge: Match Game (NO Ads)",
       "bundleIdentifier": "com.puzzle.merge.fruits.watermelon.drop",
       "developerName": "Nabzclan",
@@ -5306,48 +5346,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/612",
       "formatedsize": "57.9 MB",
       "size": 60712550
-    },
-    {
-      "name": "Blacklist",
-      "bundleIdentifier": "com.AppInstallerIOS.Blacklist",
-      "developerName": "AppInstaller ios",
-      "subtitle": "Blacklist is an innovative tool that uses the MacDirtyCow exploit to bypass blacklist restrictions and revoked apps on iOS 15 to iOS 16.1.2. This allows you to run sideloaded or banned apps from third party App Stores on your iPhone or iPad without fear of revocation.  After installing the Blacklist IPA onto your compatible device, you can easily access the app from your Home Screen. The application boasts a user-friendly interface that makes it simple to repair blacklisted apps.  Note: that this tool is not compatible with iOS 15.7.2-15.7.5 and iOS 16.2 or later.",
-      "localizedDescription": "Blacklist is an innovative tool that uses the MacDirtyCow exploit to bypass blacklist restrictions and revoked apps on iOS 15 to iOS 16.1.2. This allows you to run sideloaded or banned apps from third party App Stores on your iPhone or iPad without fear of revocation.  After installing the Blacklist IPA onto your compatible device, you can easily access the app from your Home Screen. The application boasts a user-friendly interface that makes it simple to repair blacklisted apps.  Note: that this tool is not compatible with iOS 15.7.2-15.7.5 and iOS 16.2 or later.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.AppInstallerIOS.Blacklist\n\n Downloads: 2191\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1693271494.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2024-09-22 14:25:05",
-          "localizedDescription": "Current of Blacklist - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/205",
-          "size": 1289748
-        },
-        {
-          "version": "1.0",
-          "date": "2023-07-17 11:43:56",
-          "localizedDescription": "Old Version of Blacklist - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/106",
-          "size": 1635778
-        },
-        {
-          "version": "1.0",
-          "date": "2024-09-22 14:25:05",
-          "localizedDescription": "Old Version of Blacklist - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/205",
-          "size": 1289748
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2024-09-22 14:25:05",
-      "versionDescription": "Blacklist is an innovative tool that uses the MacDirtyCow exploit to bypass blacklist restrictions and revoked apps on iOS 15 to iOS 16.1.2. This allows you to run sideloaded or banned apps from third party App Stores on your iPhone or iPad without fear of revocation.  After installing the Blacklist IPA onto your compatible device, you can easily access the app from your Home Screen. The application boasts a user-friendly interface that makes it simple to repair blacklisted apps.  Note: that this tool is not compatible with iOS 15.7.2-15.7.5 and iOS 16.2 or later.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/205",
-      "formatedsize": "1.23 MB",
-      "size": 1289748
     }
   ],
   "userInfo": {}

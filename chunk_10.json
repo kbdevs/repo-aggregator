@@ -4,6 +4,48 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Blacklist",
+      "bundleIdentifier": "com.AppInstallerIOS.Blacklist",
+      "developerName": "AppInstaller ios",
+      "subtitle": "Blacklist is an innovative tool that uses the MacDirtyCow exploit to bypass blacklist restrictions and revoked apps on iOS 15 to iOS 16.1.2. This allows you to run sideloaded or banned apps from third party App Stores on your iPhone or iPad without fear of revocation.  After installing the Blacklist IPA onto your compatible device, you can easily access the app from your Home Screen. The application boasts a user-friendly interface that makes it simple to repair blacklisted apps.  Note: that this tool is not compatible with iOS 15.7.2-15.7.5 and iOS 16.2 or later.",
+      "localizedDescription": "Blacklist is an innovative tool that uses the MacDirtyCow exploit to bypass blacklist restrictions and revoked apps on iOS 15 to iOS 16.1.2. This allows you to run sideloaded or banned apps from third party App Stores on your iPhone or iPad without fear of revocation.  After installing the Blacklist IPA onto your compatible device, you can easily access the app from your Home Screen. The application boasts a user-friendly interface that makes it simple to repair blacklisted apps.  Note: that this tool is not compatible with iOS 15.7.2-15.7.5 and iOS 16.2 or later.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.AppInstallerIOS.Blacklist\n\n Downloads: 2191\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1693271494.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-09-22 14:25:05",
+          "localizedDescription": "Current of Blacklist - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/205",
+          "size": 1289748
+        },
+        {
+          "version": "1.0",
+          "date": "2023-07-17 11:43:56",
+          "localizedDescription": "Old Version of Blacklist - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/106",
+          "size": 1635778
+        },
+        {
+          "version": "1.0",
+          "date": "2024-09-22 14:25:05",
+          "localizedDescription": "Old Version of Blacklist - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/205",
+          "size": 1289748
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2024-09-22 14:25:05",
+      "versionDescription": "Blacklist is an innovative tool that uses the MacDirtyCow exploit to bypass blacklist restrictions and revoked apps on iOS 15 to iOS 16.1.2. This allows you to run sideloaded or banned apps from third party App Stores on your iPhone or iPad without fear of revocation.  After installing the Blacklist IPA onto your compatible device, you can easily access the app from your Home Screen. The application boasts a user-friendly interface that makes it simple to repair blacklisted apps.  Note: that this tool is not compatible with iOS 15.7.2-15.7.5 and iOS 16.2 or later.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/205",
+      "formatedsize": "1.23 MB",
+      "size": 1289748
+    },
+    {
       "name": "Zombie Hill Racing (Hack)",
       "bundleIdentifier": "sk.inlogic.hillzombieracingearntodie",
       "developerName": "nabzclan",
@@ -3492,17 +3534,6 @@
       "developerName": "iApps",
       "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.smule.sing.png"
-    },
-    {
-      "name": "ShowMania",
-      "bundleIdentifier": "com.showmania.co",
-      "version": "1.0.5",
-      "versionDate": "2024-10-13",
-      "size": 17483418,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ShowMania/ShowMania-1.0.5.ipa",
-      "developerName": "DPixel / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Yet another HDO Play under a different name, modded for no ads\nLast updated: 06-25-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.showmania.co.png"
     }
   ],
   "userInfo": {}

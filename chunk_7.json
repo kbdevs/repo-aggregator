@@ -612,6 +612,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
       "name": "RashaqaWorkout",
       "type": 1,
       "bundleID": "com.madarsoft.fitness",
@@ -2582,46 +2598,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
       "formatedsize": "62.8 MB",
       "size": 65850572
-    },
-    {
-      "name": "Brain Wash - Puzzle Mind Game (Hack)",
-      "bundleIdentifier": "com.hwg.sos",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.hwg.sos\n\n Downloads: 131\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730900003.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17308999969913271133.webp",
-        "https://apps.nabzclan.vip/screenshots/17308999975975706538.webp",
-        "https://apps.nabzclan.vip/screenshots/17308999978084139744.webp",
-        "https://apps.nabzclan.vip/screenshots/17308999990711845450.webp",
-        "https://apps.nabzclan.vip/screenshots/17309000012302478340.webp",
-        "https://apps.nabzclan.vip/screenshots/17309000015238119223.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.33.16",
-          "date": "2025-04-02 17:23:40",
-          "localizedDescription": "Current of Brain Wash - Puzzle Mind Game (Hack) - 1.33.16",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
-          "size": 220305817
-        },
-        {
-          "version": "1.33.16",
-          "date": "2025-04-02 17:23:40",
-          "localizedDescription": "Old Version of Brain Wash - Puzzle Mind Game (Hack) - 1.33.16",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
-          "size": 220305817
-        }
-      ],
-      "version": "1.33.16",
-      "versionDate": "2025-04-02 17:23:40",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
-      "formatedsize": "210.1 MB",
-      "size": 220305817
     }
   ],
   "userInfo": {}

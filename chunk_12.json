@@ -4,6 +4,33 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "citra",
+      "bundleIdentifier": "net.rinsuki.slapps.citra.ci-artifact",
+      "developerName": "rinsuki",
+      "subtitle": "Citra Nintendo 3DS emulator for iOS.",
+      "localizedDescription": "Citra is a Nintendo 3DS emulator. This is a fork specifically compiled for iOS devices and is still in its early stages of development. You should not expect the same compatibility and performance that you might expect of the PC version of Citra.",
+      "iconURL": "https://github.com/rinsuki/citra/blob/ios_frontend/dist/icon.png?raw=true",
+      "tintColor": "#5CA399",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "absoluteVersion": "4865233241",
+          "version": "0.1.gha.4865233241.Release.5af330c0e6cac9c183a432d5839cf78780873951",
+          "buildVersion": "1",
+          "date": "2023-05-02T20:46:17Z",
+          "localizedDescription": "# iOS (\u03b1) CI.4865233241\n\n* Tell compiler to support only A12 or later CPU, but I'm not sure this actually improves performance\r\n\r\n## NOTE\r\n* This version requires A12 or later device (iPhone XS/XR or later)\r\n  * this is coming from GPU requirements (we need layered rendering)\r\n* This version can install to iOS 14 or later device, but...\r\n  * We only supports latest stable iOS.\r\n  * in iOS 14.x or older, you can't use virtual controller (which means you need to use external controller, like DS4 or Xbox or MFi certificated controller)\r\n* This version doesn't supporting these features:\r\n  * Audio Input (Mic)\r\n  * Camera\r\n  * Motion Sensor\r\n  * Touch Screen\r\n  * NFC\r\n  * SELECT/HOME button for physical controller\r\n  * Circle Pad (including Pro), ZL/ZR, SELECT/START/HOME button for virtual controller",
+          "downloadURL": "https://github.com/rinsuki/citra/releases/download/ios/alpha/4865233241/citra_ios_ci_4865233241_Release_5af330c0e6cac9c183a432d5839cf78780873951.ipa",
+          "size": 8581046,
+          "sha256": "bee252d9ce9b350122e5ae0e48d2ec1a6ba87cdf9ef5263a5e8b90e3c0766ca1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": []
+      },
+      "appID": "net.rinsuki.slapps.citra"
+    },
+    {
       "name": "WDBRemoveThreeAppLimit",
       "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
       "developerName": "Zhuowei",
