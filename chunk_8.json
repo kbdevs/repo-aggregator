@@ -4,6 +4,83 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Dolly Zoom CAM (Hack)",
+      "bundleIdentifier": "me.nanolife.dollyzoom",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: me.nanolife.dollyzoom\n\n Downloads: 442\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1730900247.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17309002399007029184.webp",
+        "https://apps.nabzclan.vip/screenshots/17309002419843567017.webp",
+        "https://apps.nabzclan.vip/screenshots/17309002450355930462.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2025-04-02 17:34:54",
+          "localizedDescription": "Current of Dolly Zoom CAM (Hack) - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
+          "size": 16546529
+        },
+        {
+          "version": "1.2",
+          "date": "2025-04-02 17:34:54",
+          "localizedDescription": "Old Version of Dolly Zoom CAM (Hack) - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
+          "size": 16546529
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2025-04-02 17:34:54",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
+      "formatedsize": "15.78 MB",
+      "size": 16546529
+    },
+    {
+      "name": "Undercover: Word Party Game (Hack)",
+      "bundleIdentifier": "com.jojoyanyanproduction.CatchTheUndercover",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.jojoyanyanproduction.CatchTheUndercover\n\n Downloads: 107\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1730905442.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17309054343384064317.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054345244108745.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054362759684868.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054374546430803.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054393287086250.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054405918520734.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.9.1",
+          "date": "2025-04-02 17:32:22",
+          "localizedDescription": "Current of Undercover: Word Party Game (Hack) - 5.9.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
+          "size": 65850572
+        },
+        {
+          "version": "5.9.1",
+          "date": "2025-04-02 17:32:22",
+          "localizedDescription": "Old Version of Undercover: Word Party Game (Hack) - 5.9.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
+          "size": 65850572
+        }
+      ],
+      "version": "5.9.1",
+      "versionDate": "2025-04-02 17:32:22",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
+      "formatedsize": "62.8 MB",
+      "size": 65850572
+    },
+    {
       "name": "Brain Wash - Puzzle Mind Game (Hack)",
       "bundleIdentifier": "com.hwg.sos",
       "developerName": "Nabzclan",
@@ -5060,107 +5137,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1141",
       "formatedsize": "73.44 MB",
       "size": 77007421
-    },
-    {
-      "name": "Stardew Valley",
-      "bundleIdentifier": "com.chucklefish.stardewvalley",
-      "developerName": "ConcernedApe's hit farm RPG",
-      "subtitle": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.",
-      "localizedDescription": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.chucklefish.stardewvalley\n\n Downloads: 717\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731138428.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17311384280671466170.webp",
-        "https://apps.nabzclan.vip/screenshots/17311384281722181074.webp",
-        "https://apps.nabzclan.vip/screenshots/17311384282993998390.webp",
-        "https://apps.nabzclan.vip/screenshots/17311384284455717193.webp",
-        "https://apps.nabzclan.vip/screenshots/17311384285188652655.webp",
-        "https://apps.nabzclan.vip/screenshots/17311384285826277976.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "16.15.4",
-          "date": "2024-12-25 16:46:48",
-          "localizedDescription": "Current of Stardew Valley - 16.15.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1138",
-          "size": 331140300
-        },
-        {
-          "version": "1.6.12.0",
-          "date": "2024-11-09 02:47:08",
-          "localizedDescription": "Old Version of Stardew Valley - 1.6.12.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/952",
-          "size": 330930585
-        },
-        {
-          "version": "16.15.0",
-          "date": "2024-11-28 02:59:07",
-          "localizedDescription": "Old Version of Stardew Valley - 16.15.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1046",
-          "size": 315736719
-        },
-        {
-          "version": "16.15.4",
-          "date": "2024-12-25 16:46:48",
-          "localizedDescription": "Old Version of Stardew Valley - 16.15.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1138",
-          "size": 331140300
-        }
-      ],
-      "version": "16.15.4",
-      "versionDate": "2024-12-25 16:46:48",
-      "versionDescription": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1138",
-      "formatedsize": "315.8 MB",
-      "size": 331140300
-    },
-    {
-      "name": "Stardew Valley+",
-      "bundleIdentifier": "com.concernedape.stardewvalleyarcade",
-      "developerName": "ConcernedApe",
-      "subtitle": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.",
-      "localizedDescription": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.concernedape.stardewvalleyarcade\n\n Downloads: 563\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731273758.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312737570501226628.webp",
-        "https://apps.nabzclan.vip/screenshots/17312737574944836132.webp",
-        "https://apps.nabzclan.vip/screenshots/17312737576078433212.webp",
-        "https://apps.nabzclan.vip/screenshots/17312737580141906102.webp",
-        "https://apps.nabzclan.vip/screenshots/17312737581818867126.webp",
-        "https://apps.nabzclan.vip/screenshots/17312737583464854506.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "16.15.3",
-          "date": "2024-12-25 16:37:21",
-          "localizedDescription": "Current of Stardew Valley+ - 16.15.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1136",
-          "size": 341835776
-        },
-        {
-          "version": "1.6.11.0",
-          "date": "2024-11-10 16:22:39",
-          "localizedDescription": "Old Version of Stardew Valley+ - 1.6.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/961",
-          "size": 341626060
-        },
-        {
-          "version": "16.15.3",
-          "date": "2024-12-25 16:37:21",
-          "localizedDescription": "Old Version of Stardew Valley+ - 16.15.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1136",
-          "size": 341835776
-        }
-      ],
-      "version": "16.15.3",
-      "versionDate": "2024-12-25 16:37:21",
-      "versionDescription": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1136",
-      "formatedsize": "326 MB",
-      "size": 341835776
     }
   ],
   "userInfo": {}

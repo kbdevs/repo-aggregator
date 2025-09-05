@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "neurolist",
+      "type": 1,
+      "bundleID": "neurolist.app.neurolist",
+      "bundleIdentifier": "neurolist.app.neurolist",
+      "version": "1.5.49",
+      "versionDate": "2025-05-16",
+      "fullDate": "20250516155719",
+      "size": 35024062,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/neurolist_1.5.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/neurolist_1.5.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/neurolist.app.neurolist.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/neurolist.app.neurolist.png"
+    },
+    {
+      "name": "TravelBoast",
+      "type": 1,
+      "bundleID": "com.travelboast.travelboast",
+      "bundleIdentifier": "com.travelboast.travelboast",
+      "version": "2.09",
+      "versionDate": "2025-05-15",
+      "fullDate": "20250515185907",
+      "size": 241358810,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/TravelBoast_2.09_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/TravelBoast_2.09_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.travelboast.travelboast.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.travelboast.travelboast.png"
+    },
+    {
+      "name": "DiamondFinder",
+      "type": 1,
+      "bundleID": "com.mcdiamondfinder.app",
+      "bundleIdentifier": "com.mcdiamondfinder.app",
+      "version": "3.0.16",
+      "versionDate": "2025-05-12",
+      "fullDate": "20250512171424",
+      "size": 41779307,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/DiamondFinder_3.0.16_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/DiamondFinder_3.0.16_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
+    },
+    {
+      "name": "Typeright",
+      "type": 1,
+      "bundleID": "com.itranslate.grammatica.ios",
+      "bundleIdentifier": "com.itranslate.grammatica.ios",
+      "version": "3.3.8",
+      "versionDate": "2025-05-12",
+      "fullDate": "20250512063212",
+      "size": 119410846,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Typeright_3.3.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Typeright_3.3.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itranslate.grammatica.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itranslate.grammatica.ios.png"
+    },
+    {
       "name": "Respring",
       "type": 1,
       "bundleID": "com.respring.app",
@@ -820,22 +884,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png"
     },
     {
-      "name": "PilotPro",
-      "type": 1,
-      "bundleID": "pilotpro",
-      "bundleIdentifier": "pilotpro",
-      "version": "5.41.0",
-      "versionDate": "2025-03-07",
-      "fullDate": "20250307012558",
-      "size": 29470540,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/PilotPro_5.41.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/PilotPro_5.41.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png"
-    },
-    {
       "name": "Overdrop",
       "type": 1,
       "bundleID": "com.weather.overdrop",
@@ -898,22 +946,6 @@
       "localizedDescription": "Injected with Unlimited",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.futuremoments.audiospy.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.futuremoments.audiospy.png"
-    },
-    {
-      "name": "Womenlose",
-      "type": 1,
-      "bundleID": "com.leapfitness.womenlose",
-      "bundleIdentifier": "com.leapfitness.womenlose",
-      "version": "1.7.1",
-      "versionDate": "2025-02-12",
-      "fullDate": "20250212145737",
-      "size": 263471526,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/Womenlose_1.7.1_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/Womenlose_1.7.1_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png"
     },
     {
       "name": "CodebySMS",
@@ -2521,83 +2553,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
       "formatedsize": "204.2 MB",
       "size": 214119219
-    },
-    {
-      "name": "Dolly Zoom CAM (Hack)",
-      "bundleIdentifier": "me.nanolife.dollyzoom",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: me.nanolife.dollyzoom\n\n Downloads: 442\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730900247.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309002399007029184.webp",
-        "https://apps.nabzclan.vip/screenshots/17309002419843567017.webp",
-        "https://apps.nabzclan.vip/screenshots/17309002450355930462.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2025-04-02 17:34:54",
-          "localizedDescription": "Current of Dolly Zoom CAM (Hack) - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
-          "size": 16546529
-        },
-        {
-          "version": "1.2",
-          "date": "2025-04-02 17:34:54",
-          "localizedDescription": "Old Version of Dolly Zoom CAM (Hack) - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
-          "size": 16546529
-        }
-      ],
-      "version": "1.2",
-      "versionDate": "2025-04-02 17:34:54",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
-      "formatedsize": "15.78 MB",
-      "size": 16546529
-    },
-    {
-      "name": "Undercover: Word Party Game (Hack)",
-      "bundleIdentifier": "com.jojoyanyanproduction.CatchTheUndercover",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.jojoyanyanproduction.CatchTheUndercover\n\n Downloads: 107\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730905442.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309054343384064317.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054345244108745.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054362759684868.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054374546430803.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054393287086250.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054405918520734.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.9.1",
-          "date": "2025-04-02 17:32:22",
-          "localizedDescription": "Current of Undercover: Word Party Game (Hack) - 5.9.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
-          "size": 65850572
-        },
-        {
-          "version": "5.9.1",
-          "date": "2025-04-02 17:32:22",
-          "localizedDescription": "Old Version of Undercover: Word Party Game (Hack) - 5.9.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
-          "size": 65850572
-        }
-      ],
-      "version": "5.9.1",
-      "versionDate": "2025-04-02 17:32:22",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
-      "formatedsize": "62.8 MB",
-      "size": 65850572
     }
   ],
   "userInfo": {}

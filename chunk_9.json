@@ -4,6 +4,107 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Stardew Valley",
+      "bundleIdentifier": "com.chucklefish.stardewvalley",
+      "developerName": "ConcernedApe's hit farm RPG",
+      "subtitle": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.",
+      "localizedDescription": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.chucklefish.stardewvalley\n\n Downloads: 717\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731138428.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17311384280671466170.webp",
+        "https://apps.nabzclan.vip/screenshots/17311384281722181074.webp",
+        "https://apps.nabzclan.vip/screenshots/17311384282993998390.webp",
+        "https://apps.nabzclan.vip/screenshots/17311384284455717193.webp",
+        "https://apps.nabzclan.vip/screenshots/17311384285188652655.webp",
+        "https://apps.nabzclan.vip/screenshots/17311384285826277976.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "16.15.4",
+          "date": "2024-12-25 16:46:48",
+          "localizedDescription": "Current of Stardew Valley - 16.15.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1138",
+          "size": 331140300
+        },
+        {
+          "version": "1.6.12.0",
+          "date": "2024-11-09 02:47:08",
+          "localizedDescription": "Old Version of Stardew Valley - 1.6.12.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/952",
+          "size": 330930585
+        },
+        {
+          "version": "16.15.0",
+          "date": "2024-11-28 02:59:07",
+          "localizedDescription": "Old Version of Stardew Valley - 16.15.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1046",
+          "size": 315736719
+        },
+        {
+          "version": "16.15.4",
+          "date": "2024-12-25 16:46:48",
+          "localizedDescription": "Old Version of Stardew Valley - 16.15.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1138",
+          "size": 331140300
+        }
+      ],
+      "version": "16.15.4",
+      "versionDate": "2024-12-25 16:46:48",
+      "versionDescription": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1138",
+      "formatedsize": "315.8 MB",
+      "size": 331140300
+    },
+    {
+      "name": "Stardew Valley+",
+      "bundleIdentifier": "com.concernedape.stardewvalleyarcade",
+      "developerName": "ConcernedApe",
+      "subtitle": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.",
+      "localizedDescription": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.concernedape.stardewvalleyarcade\n\n Downloads: 563\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731273758.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312737570501226628.webp",
+        "https://apps.nabzclan.vip/screenshots/17312737574944836132.webp",
+        "https://apps.nabzclan.vip/screenshots/17312737576078433212.webp",
+        "https://apps.nabzclan.vip/screenshots/17312737580141906102.webp",
+        "https://apps.nabzclan.vip/screenshots/17312737581818867126.webp",
+        "https://apps.nabzclan.vip/screenshots/17312737583464854506.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "16.15.3",
+          "date": "2024-12-25 16:37:21",
+          "localizedDescription": "Current of Stardew Valley+ - 16.15.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1136",
+          "size": 341835776
+        },
+        {
+          "version": "1.6.11.0",
+          "date": "2024-11-10 16:22:39",
+          "localizedDescription": "Old Version of Stardew Valley+ - 1.6.11.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/961",
+          "size": 341626060
+        },
+        {
+          "version": "16.15.3",
+          "date": "2024-12-25 16:37:21",
+          "localizedDescription": "Old Version of Stardew Valley+ - 16.15.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1136",
+          "size": 341835776
+        }
+      ],
+      "version": "16.15.3",
+      "versionDate": "2024-12-25 16:37:21",
+      "versionDescription": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+ hours of gameplay content and new Mobile-specific features, such as auto-save and multiple controls options.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1136",
+      "formatedsize": "326 MB",
+      "size": 341835776
+    },
+    {
       "name": "Balatro",
       "bundleIdentifier": "com.playstack.balatropremium",
       "developerName": "Playstack Ltd",
@@ -4845,43 +4946,6 @@
       "size": 144137256
     },
     {
-      "name": "Spy Camera Scanner (Hack)",
-      "bundleIdentifier": "com.spycamera.app",
-      "developerName": "binnichtak",
-      "subtitle": "Features:\r\n- pro features unlocked",
-      "localizedDescription": "Features:\r\n- pro features unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.spycamera.app\n\n Downloads: 584\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1727706765.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17277067603401849742.webp",
-        "https://apps.nabzclan.vip/screenshots/17277067605003633510.webp",
-        "https://apps.nabzclan.vip/screenshots/17277067606477710854.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.6",
-          "date": "2024-09-30 18:32:45",
-          "localizedDescription": "Current of Spy Camera Scanner (Hack) - 1.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/695",
-          "size": 8294236
-        },
-        {
-          "version": "1.6",
-          "date": "2024-09-30 18:32:45",
-          "localizedDescription": "Old Version of Spy Camera Scanner (Hack) - 1.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/695",
-          "size": 8294236
-        }
-      ],
-      "version": "1.6",
-      "versionDate": "2024-09-30 18:32:45",
-      "versionDescription": "Features:\r\n- pro features unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/695",
-      "formatedsize": "7.91 MB",
-      "size": 8294236
-    },
-    {
       "name": "ark survival evolved - mobile - modmenu",
       "bundleIdentifier": "com.ark.arkhack",
       "developerName": "ShouXPerky",
@@ -5299,53 +5363,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/627",
       "formatedsize": "60.8 MB",
       "size": 63753420
-    },
-    {
-      "name": "Widgy Widgets: Cracked",
-      "bundleIdentifier": "com.woodsign.Widgy",
-      "developerName": "Nabzclan",
-      "subtitle": "Vip features unlocked\r\n\r\nNote:\r\nwidgets won't work sideloaded only works for Trollstore and jailbroken devices",
-      "localizedDescription": "Vip features unlocked\r\n\r\nNote:\r\nwidgets won't work sideloaded only works for Trollstore and jailbroken devices\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.woodsign.Widgy\n\n Downloads: 1323\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1716842397.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17168423962843470114.webp",
-        "https://apps.nabzclan.vip/screenshots/17168423967884631491.webp",
-        "https://apps.nabzclan.vip/screenshots/17168423970296964224.webp",
-        "https://apps.nabzclan.vip/screenshots/17168423972704462758.webp",
-        "https://apps.nabzclan.vip/screenshots/17168423973663305379.webp",
-        "https://apps.nabzclan.vip/screenshots/17168423976428615601.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.0",
-          "date": "2024-09-22 23:02:16",
-          "localizedDescription": "Current of Widgy Widgets: Cracked - 4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/612",
-          "size": 60712550
-        },
-        {
-          "version": "3.3",
-          "date": "2024-05-28 00:39:58",
-          "localizedDescription": "Old Version of Widgy Widgets: Cracked - 3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/475",
-          "size": 108580044
-        },
-        {
-          "version": "4.0",
-          "date": "2024-09-22 23:02:16",
-          "localizedDescription": "Old Version of Widgy Widgets: Cracked - 4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/612",
-          "size": 60712550
-        }
-      ],
-      "version": "4.0",
-      "versionDate": "2024-09-22 23:02:16",
-      "versionDescription": "Vip features unlocked\r\n\r\nNote:\r\nwidgets won't work sideloaded only works for Trollstore and jailbroken devices",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/612",
-      "formatedsize": "57.9 MB",
-      "size": 60712550
     }
   ],
   "userInfo": {}
