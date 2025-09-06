@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "RoutineFlow",
+      "type": 1,
+      "bundleID": "app.routineflow.routineflow",
+      "bundleIdentifier": "app.routineflow.routineflow",
+      "version": "0.9.88",
+      "versionDate": "2025-05-16",
+      "fullDate": "20250516160727",
+      "size": 30851528,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/RoutineFlow_0.9.88_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/RoutineFlow_0.9.88_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.routineflow.routineflow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.routineflow.routineflow.png"
+    },
+    {
+      "name": "Lilbite",
+      "type": 1,
+      "bundleID": "com.lilbite.calorie.counter",
+      "bundleIdentifier": "com.lilbite.calorie.counter",
+      "version": "1.3.60",
+      "versionDate": "2025-05-16",
+      "fullDate": "20250516155721",
+      "size": 11993269,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Lilbite_1.3.60_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Lilbite_1.3.60_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lilbite.calorie.counter.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lilbite.calorie.counter.png"
+    },
+    {
       "name": "neurolist",
       "type": 1,
       "bundleID": "neurolist.app.neurolist",
@@ -2473,86 +2505,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
       "formatedsize": "129.3 MB",
       "size": 135580876
-    },
-    {
-      "name": "Brave Merge - Battle & Defense (Hacked)",
-      "bundleIdentifier": "com.brave.merge",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.brave.merge\n\n Downloads: 243\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731098511.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310984989007288265.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985006859029764.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985026068335271.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985045738054193.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985070989418090.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985095468917365.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.6.4",
-          "date": "2025-04-02 18:41:30",
-          "localizedDescription": "Current of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
-          "size": 108632473
-        },
-        {
-          "version": "1.6.4",
-          "date": "2025-04-02 18:41:30",
-          "localizedDescription": "Old Version of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
-          "size": 108632473
-        }
-      ],
-      "version": "1.6.4",
-      "versionDate": "2025-04-02 18:41:30",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
-      "formatedsize": "103.6 MB",
-      "size": 108632473
-    },
-    {
-      "name": "Vehicle Masters (Hacked)",
-      "bundleIdentifier": "com.pd.vehiclemasters",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.pd.vehiclemasters\n\n Downloads: 337\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731098117.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310981075477603869.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981092462563690.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981095171863531.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981113718553924.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981132886299945.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981156442828018.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.38",
-          "date": "2025-04-02 17:41:41",
-          "localizedDescription": "Current of Vehicle Masters (Hacked) - 1.0.38",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
-          "size": 214119219
-        },
-        {
-          "version": "1.0.38",
-          "date": "2025-04-02 17:41:41",
-          "localizedDescription": "Old Version of Vehicle Masters (Hacked) - 1.0.38",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
-          "size": 214119219
-        }
-      ],
-      "version": "1.0.38",
-      "versionDate": "2025-04-02 17:41:41",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
-      "formatedsize": "204.2 MB",
-      "size": 214119219
     }
   ],
   "userInfo": {}

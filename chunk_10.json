@@ -4,6 +4,100 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "SoundCloud - SCMusicPlus",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "Rov3r",
+      "subtitle": "Hack Features:\r\n- Remove Ads\r\n- Remove Promoted Playlists\r\n- Remove Upsell Buttons\r\n\r\nWarning: Don't Change Bundle ID",
+      "localizedDescription": "Hack Features:\r\n- Remove Ads\r\n- Remove Promoted Playlists\r\n- Remove Upsell Buttons\r\n\r\nWarning: Don't Change Bundle ID\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.soundcloud.TouchApp\n\n Downloads: 2028\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1727063912.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "7.55.0",
+          "date": "2024-09-23 08:02:18",
+          "localizedDescription": "Current of SoundCloud - SCMusicPlus - 7.55.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/633",
+          "size": 135685734
+        },
+        {
+          "version": "7.0.2 (2.2.1)",
+          "date": "2023-06-21 20:53:32",
+          "localizedDescription": "Old Version of SoundCloud - SCMusicPlus - 7.0.2 (2.2.1)",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/56",
+          "size": 49345986
+        },
+        {
+          "version": "7.4.1-2.2.1",
+          "date": "2023-06-21 22:37:39",
+          "localizedDescription": "Old Version of SoundCloud - SCMusicPlus - 7.4.1-2.2.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/57",
+          "size": 52418314
+        },
+        {
+          "version": "7.2.0.0",
+          "date": "2023-11-24 22:12:07",
+          "localizedDescription": "Old Version of SoundCloud - SCMusicPlus - 7.2.0.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/332",
+          "size": 49849303
+        },
+        {
+          "version": "7.55.0",
+          "date": "2024-09-23 08:02:18",
+          "localizedDescription": "Old Version of SoundCloud - SCMusicPlus - 7.55.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/633",
+          "size": 135685734
+        }
+      ],
+      "version": "7.55.0",
+      "versionDate": "2024-09-23 08:02:18",
+      "versionDescription": "Hack Features:\r\n- Remove Ads\r\n- Remove Promoted Playlists\r\n- Remove Upsell Buttons\r\n\r\nWarning: Don't Change Bundle ID",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/633",
+      "formatedsize": "129.4 MB",
+      "size": 135685734
+    },
+    {
+      "name": "IPTV Smarters - Xtream IPTV (Hack)",
+      "bundleIdentifier": "mca.iptvplayer",
+      "developerName": "Nabzclan",
+      "subtitle": "features:\r\n-pro features unlocked",
+      "localizedDescription": "features:\r\n-pro features unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: mca.iptvplayer\n\n Downloads: 1984\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1727060162.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17270601618287883130.webp",
+        "https://apps.nabzclan.vip/screenshots/17270601620732030767.webp",
+        "https://apps.nabzclan.vip/screenshots/17270601621816047987.webp",
+        "https://apps.nabzclan.vip/screenshots/17270601622853022069.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.6.2",
+          "date": "2024-09-23 06:56:02",
+          "localizedDescription": "Current of IPTV Smarters - Xtream IPTV (Hack) - 4.6.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/627",
+          "size": 63753420
+        },
+        {
+          "version": "4.6.2",
+          "date": "2024-09-23 06:56:02",
+          "localizedDescription": "Old Version of IPTV Smarters - Xtream IPTV (Hack) - 4.6.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/627",
+          "size": 63753420
+        }
+      ],
+      "version": "4.6.2",
+      "versionDate": "2024-09-23 06:56:02",
+      "versionDescription": "features:\r\n-pro features unlocked",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/627",
+      "formatedsize": "60.8 MB",
+      "size": 63753420
+    },
+    {
       "name": "Widgy Widgets: Cracked",
       "bundleIdentifier": "com.woodsign.Widgy",
       "developerName": "Nabzclan",
@@ -3548,28 +3642,6 @@
       "developerName": "Dell",
       "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 07-29-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.strava.stravaride.png"
-    },
-    {
-      "name": "StitchPicsPro",
-      "bundleIdentifier": "com.xcvzaq.imagejoin",
-      "version": "2.1.108",
-      "versionDate": "2024-10-13",
-      "size": 13954471,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StitchPicsPro/StitchPicsPro-2.1.108.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to \"stitch screenshots\" into a single seamless image, preserving original clarity, with support for automatic/manual and vertical/horizontal stitching, plus Web Snapshot and Photo Action Extensions and an image edge torn effect.\nLast updated: 04-22-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xcvzaq.imagejoin.png"
-    },
-    {
-      "name": "StarVPNPlus",
-      "bundleIdentifier": "com.peach.app",
-      "version": "3.7.0",
-      "versionDate": "2024-10-13",
-      "size": 8519310,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StarVPNPlus/StarVPNPlus-3.7.0.ipa",
-      "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "Star VPN with pro features unlocked\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.peach.app.png"
     }
   ],
   "userInfo": {}

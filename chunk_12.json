@@ -4,6 +4,55 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "developerName": "PojavLauncherTeam",
+      "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
+      "version": "2.2",
+      "versionDate": "2023-05-06T17:00:00-05:00",
+      "versionDescription": "PojavLauncher 2.2 Deepslate puts a focus on our core functionality, working to squash bugs, improve performance, and increase reliability.",
+      "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+      "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\n\u00e2\u0080\u00a2 Play most versions of Minecraft, from the very first beta to the latest snapshots.\n\u00e2\u0080\u00a2 Customize with mods, resource packs, and compatible shaders\n\u00e2\u0080\u00a2 Create multiple instances of Minecraft for multiple versions\n\u00e2\u0080\u00a2 Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\n\u00e2\u0080\u00a2 Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.",
+      "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
+      "tintColor": "746344",
+      "size": 108175347,
+      "screenshotURLs": [
+        "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
+        "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
+        "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
+        "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG"
+      ]
+    },
+    {
+      "name": "Provenance EMU",
+      "bundleIdentifier": "org.provenance-emu.provenance",
+      "developerName": "Joe Mattiello",
+      "subtitle": "Multi-emulator frontend for iOS & tvOS",
+      "version": "2.2.1",
+      "versionDate": "2022-12-30T00:01:00-05:00",
+      "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
+      "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
+      "localizedDescription": "Multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
+      "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
+      "tintColor": "#162434",
+      "size": 77010038,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Provenance to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2306.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2308.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2309.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2310.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
+        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
+      ]
+    },
+    {
       "name": "emuThreeDS",
       "bundleIdentifier": "com.antique.emuThreeDS",
       "developerName": "Antique",
