@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "FurryEvo",
+      "type": 2,
+      "bundleID": "com.run.monster.era",
+      "bundleIdentifier": "com.run.monster.era",
+      "version": "1.6.2",
+      "versionDate": "2025-08-23",
+      "fullDate": "20250823211228",
+      "size": 129128103,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/FurryEvo_1.6.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/FurryEvo_1.6.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.run.monster.era.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.run.monster.era.png"
+    },
+    {
+      "name": "DungeonofGods",
+      "type": 2,
+      "bundleID": "com.superplanet.goddungeon",
+      "bundleIdentifier": "com.superplanet.goddungeon",
+      "version": "1.6.3",
+      "versionDate": "2025-08-23",
+      "fullDate": "20250823211219",
+      "size": 164483826,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/DungeonofGods_1.6.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/DungeonofGods_1.6.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplanet.goddungeon.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplanet.goddungeon.png"
+    },
+    {
+      "name": "AntColony",
+      "type": 2,
+      "bundleID": "com.PIXELCELLS.AntColony2",
+      "bundleIdentifier": "com.PIXELCELLS.AntColony2",
+      "version": "6.2.1",
+      "versionDate": "2025-08-23",
+      "fullDate": "20250823211212",
+      "size": 119419360,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/AntColony_6.2.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/AntColony_6.2.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.PIXELCELLS.AntColony2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.PIXELCELLS.AntColony2.png"
+    },
+    {
       "name": "RogueSlime",
       "type": 2,
       "bundleID": "com.QuestSeekerGames.Rogueslime",
@@ -1140,22 +1188,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png"
     },
     {
-      "name": "Textastic",
-      "type": 1,
-      "bundleID": "com.textasticapp.textastic-universal",
-      "bundleIdentifier": "com.textasticapp.textastic-universal",
-      "version": "10.7.4",
-      "versionDate": "2025-08-11",
-      "fullDate": "20250811135028",
-      "size": 10846109,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/Textastic_10.7.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/Textastic_10.7.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png"
-    },
-    {
       "name": "TheWeather",
       "type": 1,
       "bundleID": "com.impalastudios.theweatherfree",
@@ -1716,22 +1748,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png"
     },
     {
-      "name": "Radarbot",
-      "type": 1,
-      "bundleID": "com.iteration-mobile.radarbot-free-ww",
-      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
-      "version": "9.28",
-      "versionDate": "2025-07-31",
-      "fullDate": "20250731225539",
-      "size": 260081653,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/Radarbot_9.28_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/Radarbot_9.28_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Gold",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png"
-    },
-    {
       "name": "Pedometer",
       "type": 1,
       "bundleID": "com.crossforward.pedometer",
@@ -2002,22 +2018,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png"
-    },
-    {
-      "name": "Thenx",
-      "type": 1,
-      "bundleID": "com.calisthenics.thenx",
-      "bundleIdentifier": "com.calisthenics.thenx",
-      "version": "6.4.1",
-      "versionDate": "2025-07-23",
-      "fullDate": "20250723204825",
-      "size": 119756236,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Thenx_6.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Thenx_6.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
     }
   ],
   "userInfo": {}

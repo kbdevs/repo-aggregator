@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "VideoStudio",
+      "type": 1,
+      "bundleID": "videoeditor.app",
+      "bundleIdentifier": "videoeditor.app",
+      "version": "3.20.0",
+      "versionDate": "2025-06-26",
+      "fullDate": "20250626230033",
+      "size": 208144510,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2025/VideoStudio_3.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2025/VideoStudio_3.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png"
+    },
+    {
       "name": "DaVinciEye",
       "type": 1,
       "bundleID": "com.cumbemg.davinci",
@@ -1282,22 +1298,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcogames.BNGI0221.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcogames.BNGI0221.png"
-    },
-    {
-      "name": "Messenger",
-      "type": 1,
-      "bundleID": "com.facebook.Messenger",
-      "bundleIdentifier": "com.facebook.Messenger",
-      "version": "511.0.0",
-      "versionDate": "2025-06-14",
-      "fullDate": "20250614183231",
-      "size": 78385399,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/Messenger_511.0.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/Messenger_511.0.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png"
     },
     {
       "name": "DBLEGENDS",

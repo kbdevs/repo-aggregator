@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Thenx",
+      "type": 1,
+      "bundleID": "com.calisthenics.thenx",
+      "bundleIdentifier": "com.calisthenics.thenx",
+      "version": "6.4.1",
+      "versionDate": "2025-07-23",
+      "fullDate": "20250723204825",
+      "size": 119756236,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Thenx_6.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Thenx_6.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
+    },
+    {
       "name": "Wallcraft",
       "type": 1,
       "bundleID": "com.wallpaperscraft.wallpapers",
@@ -2002,22 +2018,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png"
-    },
-    {
-      "name": "VideoStudio",
-      "type": 1,
-      "bundleID": "videoeditor.app",
-      "bundleIdentifier": "videoeditor.app",
-      "version": "3.20.0",
-      "versionDate": "2025-06-26",
-      "fullDate": "20250626230033",
-      "size": 208144510,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2025/VideoStudio_3.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2025/VideoStudio_3.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png"
     }
   ],
   "userInfo": {}
