@@ -4,6 +4,1165 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "ShadowFight2",
+      "type": 2,
+      "bundleID": "com.nekki.shadowfight",
+      "bundleIdentifier": "com.nekki.shadowfight",
+      "version": "2.40.5",
+      "versionDate": "2025-01-03",
+      "fullDate": "20250103152927",
+      "size": 128126752,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-01-2025/ShadowFight2_2.40.5_Mod_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-01-2025/ShadowFight2_2.40.5_Mod_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mod",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nekki.shadowfight.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nekki.shadowfight.png"
+    },
+    {
+      "name": "Apollo",
+      "type": 1,
+      "bundleID": "com.christianselig.Apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "version": "1.15.11",
+      "versionDate": "2024-12-24",
+      "fullDate": "20241224024350",
+      "size": 108300277,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2024/Apollo_1.15.11_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2024/Apollo_1.15.11_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.christianselig.Apollo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.christianselig.Apollo.png"
+    },
+    {
+      "name": "CoinId",
+      "type": 1,
+      "bundleID": "com.aiby.wtcoin",
+      "bundleIdentifier": "com.aiby.wtcoin",
+      "version": "1.17",
+      "versionDate": "2024-12-18",
+      "fullDate": "20241218205148",
+      "size": 33095182,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/CoinId_1.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/CoinId_1.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png"
+    },
+    {
+      "name": "Mydietcoach",
+      "type": 1,
+      "bundleID": "com.inspiredapp.mydietcoach",
+      "bundleIdentifier": "com.inspiredapp.mydietcoach",
+      "version": "10.2.1",
+      "versionDate": "2024-12-18",
+      "fullDate": "20241218205133",
+      "size": 82800533,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Mydietcoach_10.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Mydietcoach_10.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inspiredapp.mydietcoach.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inspiredapp.mydietcoach.png"
+    },
+    {
+      "name": "Superplay",
+      "type": 1,
+      "bundleID": "com.pastel.superplay",
+      "bundleIdentifier": "com.pastel.superplay",
+      "version": "1.0.31",
+      "versionDate": "2024-12-18",
+      "fullDate": "20241218205103",
+      "size": 42975090,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Superplay_1.0.31_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Superplay_1.0.31_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pastel.superplay.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pastel.superplay.png"
+    },
+    {
+      "name": "FocosLive",
+      "type": 1,
+      "bundleID": "com.focoslive",
+      "bundleIdentifier": "com.focoslive",
+      "version": "1.6.3",
+      "versionDate": "2024-12-18",
+      "fullDate": "20241218203625",
+      "size": 149943763,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/FocosLive_1.6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/FocosLive_1.6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focoslive.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focoslive.png"
+    },
+    {
+      "name": "Gladiatorheroes",
+      "type": 2,
+      "bundleID": "com.generagames.gladiatorheroes",
+      "bundleIdentifier": "com.generagames.gladiatorheroes",
+      "version": "3.07.22",
+      "versionDate": "2024-12-08",
+      "fullDate": "20241208061056",
+      "size": 381153147,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Gladiatorheroes_3.07.22_Gems_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Gladiatorheroes_3.07.22_Gems_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Gems",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.generagames.gladiatorheroes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.generagames.gladiatorheroes.png"
+    },
+    {
+      "name": "IdleTownMaster",
+      "type": 2,
+      "bundleID": "com.codigames.idle.town.master",
+      "bundleIdentifier": "com.codigames.idle.town.master",
+      "version": "3.2.4",
+      "versionDate": "2024-12-08",
+      "fullDate": "20241208061027",
+      "size": 193707421,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/IdleTownMaster_3.2.4_GodMod_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/IdleTownMaster_3.2.4_GodMod_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with GodMod",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codigames.idle.town.master.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codigames.idle.town.master.png"
+    },
+    {
+      "name": "ShadowFight3",
+      "type": 2,
+      "bundleID": "com.nekki.shadowfight3",
+      "bundleIdentifier": "com.nekki.shadowfight3",
+      "version": "1.40.0",
+      "versionDate": "2024-12-08",
+      "fullDate": "20241208060928",
+      "size": 191589199,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/ShadowFight3_1.40.0_FreezeCurrency_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/ShadowFight3_1.40.0_FreezeCurrency_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with FreezeCurrency",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nekki.shadowfight3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nekki.shadowfight3.png"
+    },
+    {
+      "name": "AngryBirds2",
+      "type": 2,
+      "bundleID": "com.rovio.baba",
+      "bundleIdentifier": "com.rovio.baba",
+      "version": "3.26.4",
+      "versionDate": "2024-12-08",
+      "fullDate": "20241208060847",
+      "size": 442985496,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/AngryBirds2_3.26.4_InfiniteCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/AngryBirds2_3.26.4_InfiniteCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with InfiniteCurrencies",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rovio.baba.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rovio.baba.png"
+    },
+    {
+      "name": "MeowMeowWarriors",
+      "type": 2,
+      "bundleID": "co.imba.kawaii.mmw",
+      "bundleIdentifier": "co.imba.kawaii.mmw",
+      "version": "0.12.236",
+      "versionDate": "2024-12-08",
+      "fullDate": "20241208060815",
+      "size": 186490813,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/MeowMeowWarriors_0.12.236_Damage_Multiplier_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/MeowMeowWarriors_0.12.236_Damage_Multiplier_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Damage Multiplier",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.imba.kawaii.mmw.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.imba.kawaii.mmw.png"
+    },
+    {
+      "name": "Sniper3d",
+      "type": 2,
+      "bundleID": "com.fungames.sniper3d",
+      "bundleIdentifier": "com.fungames.sniper3d",
+      "version": "4.61.1",
+      "versionDate": "2024-12-07",
+      "fullDate": "20241207062526",
+      "size": 170032866,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/Sniper3d_4.61.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/Sniper3d_4.61.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.sniper3d.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.sniper3d.png"
+    },
+    {
+      "name": "MergeMayor",
+      "type": 2,
+      "bundleID": "games.starberry.idle-village",
+      "bundleIdentifier": "games.starberry.idle-village",
+      "version": "4.15.533",
+      "versionDate": "2024-12-07",
+      "fullDate": "20241207062434",
+      "size": 234087524,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/MergeMayor_4.15.533_FreezeEnergy_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/MergeMayor_4.15.533_FreezeEnergy_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with FreezeEnergy",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.starberry.idle-village.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.starberry.idle-village.png"
+    },
+    {
+      "name": "CarSimulator2",
+      "type": 2,
+      "bundleID": "com.oppanagames.car.simulator",
+      "bundleIdentifier": "com.oppanagames.car.simulator",
+      "version": "1.53.32",
+      "versionDate": "2024-12-07",
+      "fullDate": "20241207062226",
+      "size": 711018194,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/CarSimulator2_1.53.32_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/CarSimulator2_1.53.32_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oppanagames.car.simulator.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oppanagames.car.simulator.png"
+    },
+    {
+      "name": "ExtensionFix",
+      "type": 5,
+      "bundleId": "org.apptesters.repo.extensionfix",
+      "bundleIdentifier": "org.apptesters.repo.extensionfix",
+      "version": "1.0",
+      "versionDate": "2024-12-06",
+      "fullDate": "20241206161140",
+      "size": 3091600,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/ExtensionFix_1.0_%40thisismanpreets_apptesters.org.dylib",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/ExtensionFix_1.0_%40thisismanpreets_apptesters.org.dylib",
+      "developerName": "",
+      "localizedDescription": "ExtensionFix",
+      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+    },
+    {
+      "name": "WhatsAppFreeze",
+      "type": 5,
+      "bundleId": "org.apptesters.repo.whatsappfreeze",
+      "bundleIdentifier": "org.apptesters.repo.whatsappfreeze",
+      "version": "1.0",
+      "versionDate": "2024-12-06",
+      "fullDate": "20241206161056",
+      "size": 8650464,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/WhatsAppFreeze_1.0_%40thisismanpreets_apptesters.org.dylib",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/WhatsAppFreeze_1.0_%40thisismanpreets_apptesters.org.dylib",
+      "developerName": "",
+      "localizedDescription": "WhatsAppFreeze",
+      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+    },
+    {
+      "name": "Adblock",
+      "type": 5,
+      "bundleId": "org.apptesters.repo.adblock",
+      "bundleIdentifier": "org.apptesters.repo.adblock",
+      "version": "1.0",
+      "versionDate": "2024-12-06",
+      "fullDate": "20241206161055",
+      "size": 199536,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/Adblock_1.0_%40thisismanpreets_apptesters.org.dylib",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/Adblock_1.0_%40thisismanpreets_apptesters.org.dylib",
+      "developerName": "",
+      "localizedDescription": "Adblock",
+      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+    },
+    {
+      "name": "SatellaJailed",
+      "type": 5,
+      "bundleId": "org.apptesters.repo.satellajailed",
+      "bundleIdentifier": "org.apptesters.repo.satellajailed",
+      "version": "1.0",
+      "versionDate": "2024-12-06",
+      "fullDate": "20241206161055",
+      "size": 331024,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/SatellaJailed_1.0_%40thisismanpreets_apptesters.org.dylib",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/SatellaJailed_1.0_%40thisismanpreets_apptesters.org.dylib",
+      "developerName": "",
+      "localizedDescription": "SatellaJailed",
+      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+    },
+    {
+      "name": "AllFLEXing",
+      "type": 5,
+      "bundleId": "org.apptesters.repo.allflexing",
+      "bundleIdentifier": "org.apptesters.repo.allflexing",
+      "version": "1.0",
+      "versionDate": "2024-12-06",
+      "fullDate": "20241206161044",
+      "size": 3481184,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/AllFLEXing_1.0_CompiledEverythingTogether_%40thisismanpreets_apptesters.org.dylib",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/AllFLEXing_1.0_CompiledEverythingTogether_%40thisismanpreets_apptesters.org.dylib",
+      "developerName": "",
+      "localizedDescription": "AllFLEXing",
+      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+    },
+    {
+      "name": "SideloadKeychainFix",
+      "type": 5,
+      "bundleId": "org.apptesters.repo.sideloadkeychainfix",
+      "bundleIdentifier": "org.apptesters.repo.sideloadkeychainfix",
+      "version": "1.0",
+      "versionDate": "2024-12-06",
+      "fullDate": "20241206161042",
+      "size": 70224,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/SideloadKeychainFix_1.0_%40chocolatefluffy_apptesters.org.dylib",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/SideloadKeychainFix_1.0_%40chocolatefluffy_apptesters.org.dylib",
+      "developerName": "",
+      "localizedDescription": "SideloadKeychainFix",
+      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+    },
+    {
+      "name": "Ling",
+      "type": 1,
+      "bundleID": "com.sanfanstudios.universal",
+      "bundleIdentifier": "com.sanfanstudios.universal",
+      "version": "6.6.3",
+      "versionDate": "2024-12-06",
+      "fullDate": "20241206004457",
+      "size": 46355889,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Ling_6.6.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Ling_6.6.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sanfanstudios.universal.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sanfanstudios.universal.png"
+    },
+    {
+      "name": "Spark",
+      "type": 1,
+      "bundleID": "com.readdle.smartemail",
+      "bundleIdentifier": "com.readdle.smartemail",
+      "version": "3.10.8",
+      "versionDate": "2024-12-05",
+      "fullDate": "20241205031926",
+      "size": 188453383,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Spark_3.10.8_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Spark_3.10.8_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.smartemail.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.smartemail.png"
+    },
+    {
+      "name": "Canary",
+      "type": 1,
+      "bundleID": "Mailroom.Canary-iOS",
+      "bundleIdentifier": "Mailroom.Canary-iOS",
+      "version": "4.70.1",
+      "versionDate": "2024-12-05",
+      "fullDate": "20241205031911",
+      "size": 63292907,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Canary_4.70.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Canary_4.70.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Mailroom.Canary-iOS.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Mailroom.Canary-iOS.png"
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "developerName": "Samara",
+      "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "subtitle": "On-device signing application",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "2.3.1",
+          "date": "2025-08-08T08:20:00Z",
+          "size": 12598584,
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.1/Feather.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Library.png?raw=true",
+        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Repos.png?raw=true",
+        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Sign.png?raw=true",
+        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Store.png?raw=true"
+      ],
+      "version": "2.3.1",
+      "versionDate": "2025-08-08T08:20:00Z",
+      "size": 12598584,
+      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.1/Feather.ipa"
+    },
+    {
+      "beta": false,
+      "name": "Flycast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "developerName": "Flyinghead",
+      "subtitle": "Dreamcast, Naomi and Atomiswave emulator.",
+      "version": "v2.5",
+      "versionDate": "2025-05-07T11:36:00+02:00",
+      "versionDescription": "DCNet support, new on-screen gamepad",
+      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.5/Flycast-2.5.ipa",
+      "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
+      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+      "tintColor": "9b54fd",
+      "size": 8161611,
+      "screenshotURLs": [
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+      ]
+    },
+    {
+      "name": "ProCam - Pro Camera (Hacked)",
+      "bundleIdentifier": "gemini.ProCam-2",
+      "developerName": "Nabzclan",
+      "subtitle": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval",
+      "localizedDescription": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps, Tweaked Apps\n\n BundleID: gemini.ProCam-2\n\n Downloads: 224\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1746852888.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17468528883588397823.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528884798693545.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528885482515777.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528886213015223.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528886893894107.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528887524426419.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "14.6.9",
+          "date": "2025-05-11 03:49:18",
+          "localizedDescription": "Current of ProCam - Pro Camera (Hacked) - 14.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
+          "size": 70307020
+        },
+        {
+          "version": "14.6.9",
+          "date": "2025-05-11 03:49:18",
+          "localizedDescription": "Old Version of ProCam - Pro Camera (Hacked) - 14.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
+          "size": 70307020
+        }
+      ],
+      "version": "14.6.9",
+      "versionDate": "2025-05-11 03:49:18",
+      "versionDescription": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
+      "formatedsize": "67.05 MB",
+      "size": 70307020
+    },
+    {
+      "name": "NBA 2K25 Arcade Edition",
+      "bundleIdentifier": "com.2ksports.nba2k25arcade",
+      "developerName": "2K",
+      "subtitle": "New in NBA 2K25 Arcade Edition:\r\n \u2022 Outdoor streetball courts and indoor courts, complete quests to earn rewards for your MyPLAYER like, shoes, outfits, tattoos, and more!\r\n \u2022 Ability to recruit NBA Legends to join your streetball squad and challenge players from across the globe in PvP Ranked Matches via Connection Games! Climb the Game Center Leaderboard and show the world who's boss!\r\n \u2022 An all-new badge system to mold your MyPLAYER into an NBA legend. Explore The Neighborhood and complete quests to earn badge points to enhance offensive and defensive stats!",
+      "localizedDescription": "New in NBA 2K25 Arcade Edition:\r\n \u2022 Outdoor streetball courts and indoor courts, complete quests to earn rewards for your MyPLAYER like, shoes, outfits, tattoos, and more!\r\n \u2022 Ability to recruit NBA Legends to join your streetball squad and challenge players from across the globe in PvP Ranked Matches via Connection Games! Climb the Game Center Leaderboard and show the world who's boss!\r\n \u2022 An all-new badge system to mold your MyPLAYER into an NBA legend. Explore The Neighborhood and complete quests to earn badge points to enhance offensive and defensive stats!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.2ksports.nba2k25arcade\n\n Downloads: 59\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1746949268.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17469492680806259173.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492681493125619.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492681884883491.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492682272432243.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492682561909037.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492682909037415.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.70",
+          "date": "2025-05-11 03:41:56",
+          "localizedDescription": "Current of NBA 2K25 Arcade Edition - 1.70",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1376",
+          "size": 1556925644
+        },
+        {
+          "version": "1.70",
+          "date": "2025-05-11 03:41:56",
+          "localizedDescription": "Old Version of NBA 2K25 Arcade Edition - 1.70",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1376",
+          "size": 1556925644
+        }
+      ],
+      "version": "1.70",
+      "versionDate": "2025-05-11 03:41:56",
+      "versionDescription": "New in NBA 2K25 Arcade Edition:\r\n \u2022 Outdoor streetball courts and indoor courts, complete quests to earn rewards for your MyPLAYER like, shoes, outfits, tattoos, and more!\r\n \u2022 Ability to recruit NBA Legends to join your streetball squad and challenge players from across the globe in PvP Ranked Matches via Connection Games! Climb the Game Center Leaderboard and show the world who's boss!\r\n \u2022 An all-new badge system to mold your MyPLAYER into an NBA legend. Explore The Neighborhood and complete quests to earn badge points to enhance offensive and defensive stats!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1376",
+      "formatedsize": "1.45 GB",
+      "size": 1556925644
+    },
+    {
+      "name": "NARUTO: Ultimate Ninja STORM",
+      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0431",
+      "developerName": "Bandai Namco Entertainment Inc.",
+      "subtitle": "[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!",
+      "localizedDescription": "[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: jp.co.bandainamcoent.BNEI0431\n\n Downloads: 103\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1746949035.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17469490355068758475.webp",
+        "https://apps.nabzclan.vip/screenshots/17469490355787330624.webp",
+        "https://apps.nabzclan.vip/screenshots/17469490356186888070.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.15",
+          "date": "2025-05-11 03:37:15",
+          "localizedDescription": "Current of NARUTO: Ultimate Ninja STORM - 1.0.15",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1375",
+          "size": 3468186091
+        },
+        {
+          "version": "1.0.15",
+          "date": "2025-05-11 03:37:15",
+          "localizedDescription": "Old Version of NARUTO: Ultimate Ninja STORM - 1.0.15",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1375",
+          "size": 3468186091
+        }
+      ],
+      "version": "1.0.15",
+      "versionDate": "2025-05-11 03:37:15",
+      "versionDescription": "[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1375",
+      "formatedsize": "3.23 GB",
+      "size": 3468186091
+    },
+    {
+      "name": "True Skate",
+      "bundleIdentifier": "com.trueaxis.skate",
+      "developerName": "True Axis",
+      "subtitle": "#1 game in 80 countries. Loved by millions of skateboarders all over the world.\r\n\r\n\"True Skate is clearly something special\" - 4.5/5 - Touch Arcade review.\r\n\r\nTrue Skate\u2122 is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.",
+      "localizedDescription": "#1 game in 80 countries. Loved by millions of skateboarders all over the world.\r\n\r\n\"True Skate is clearly something special\" - 4.5/5 - Touch Arcade review.\r\n\r\nTrue Skate\u2122 is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.trueaxis.skate\n\n Downloads: 29\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1734281200.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17342811998216739024.webp",
+        "https://apps.nabzclan.vip/screenshots/17342811999612223979.webp",
+        "https://apps.nabzclan.vip/screenshots/17342812000544335566.webp",
+        "https://apps.nabzclan.vip/screenshots/17342812001553154038.webp",
+        "https://apps.nabzclan.vip/screenshots/17342812002627512936.webp",
+        "https://apps.nabzclan.vip/screenshots/17342812003612856398.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5.92",
+          "date": "2025-05-11 03:20:35",
+          "localizedDescription": "Current of True Skate - 1.5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
+          "size": 133378867
+        },
+        {
+          "version": "1.5.91",
+          "date": "2025-02-05 17:22:31",
+          "localizedDescription": "Old Version of True Skate - 1.5.91",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1104",
+          "size": 123794882
+        },
+        {
+          "version": "1.5.92",
+          "date": "2025-05-11 03:20:35",
+          "localizedDescription": "Old Version of True Skate - 1.5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
+          "size": 133378867
+        }
+      ],
+      "version": "1.5.92",
+      "versionDate": "2025-05-11 03:20:35",
+      "versionDescription": "#1 game in 80 countries. Loved by millions of skateboarders all over the world.\r\n\r\n\"True Skate is clearly something special\" - 4.5/5 - Touch Arcade review.\r\n\r\nTrue Skate\u2122 is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
+      "formatedsize": "127.2 MB",
+      "size": 133378867
+    },
+    {
+      "name": "Zsign",
+      "bundleIdentifier": "com.zsign.app",
+      "developerName": "Tien Sato",
+      "subtitle": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages",
+      "localizedDescription": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.zsign.app\n\n Downloads: 145\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1746945271.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17469453663276315.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453662231800.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453666982445.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453665298327.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453668831662.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453677325516.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453671265453.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5.8",
+          "date": "2025-05-11 02:34:31",
+          "localizedDescription": "Current of Zsign - 1.5.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
+          "size": 16305356
+        },
+        {
+          "version": "1.5.8",
+          "date": "2025-05-11 02:34:31",
+          "localizedDescription": "Old Version of Zsign - 1.5.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
+          "size": 16305356
+        }
+      ],
+      "version": "1.5.8",
+      "versionDate": "2025-05-11 02:34:31",
+      "versionDescription": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
+      "formatedsize": "15.55 MB",
+      "size": 16305356
+    },
+    {
+      "name": "Roblox - Delta Executor",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "developerName": "delta team",
+      "subtitle": "delta is a Roblox Executor",
+      "localizedDescription": "delta is a Roblox Executor\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Roblox - Working Hacks\n\n BundleID: com.roblox.robloxmobile\n\n Downloads: 175\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725784229.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17257842288272151845.webp",
+        "https://apps.nabzclan.vip/screenshots/17257842289395792603.webp",
+        "https://apps.nabzclan.vip/screenshots/17257842290021847843.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.668.658",
+          "date": "2025-05-10 02:20:13",
+          "localizedDescription": "Current of Roblox - Delta Executor - 2.668.658",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1369",
+          "size": 174587904
+        },
+        {
+          "version": "2.657.604",
+          "date": "2025-02-05 17:47:13",
+          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.657.604",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1196",
+          "size": 158125260
+        },
+        {
+          "version": "2.662.536",
+          "date": "2025-03-17 06:23:37",
+          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.662.536",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1282",
+          "size": 169345024
+        },
+        {
+          "version": "2.664.707",
+          "date": "2025-03-20 23:58:05",
+          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.664.707",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1306",
+          "size": 145227776
+        },
+        {
+          "version": "2.668.658",
+          "date": "2025-05-10 02:20:13",
+          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.668.658",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1369",
+          "size": 174587904
+        }
+      ],
+      "version": "2.668.658",
+      "versionDate": "2025-05-10 02:20:13",
+      "versionDescription": "delta is a Roblox Executor",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1369",
+      "formatedsize": "166.5 MB",
+      "size": 174587904
+    },
+    {
+      "name": "GoDaddy Studio for Business (Hack)",
+      "bundleIdentifier": "com.gopotluck.over",
+      "developerName": "GoDaddy Mobile LLC",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: com.gopotluck.over\n\n Downloads: 66\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1746856157.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17468561573718166016.webp",
+        "https://apps.nabzclan.vip/screenshots/17468561574655014423.webp",
+        "https://apps.nabzclan.vip/screenshots/17468561575158196090.webp",
+        "https://apps.nabzclan.vip/screenshots/17468561575702466335.webp",
+        "https://apps.nabzclan.vip/screenshots/17468561576276799216.webp",
+        "https://apps.nabzclan.vip/screenshots/17468561577008092919.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "8.54.0",
+          "date": "2025-05-10 01:49:17",
+          "localizedDescription": "Current of GoDaddy Studio for Business (Hack) - 8.54.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1368",
+          "size": 57252249
+        },
+        {
+          "version": "8.54.0",
+          "date": "2025-05-10 01:49:17",
+          "localizedDescription": "Old Version of GoDaddy Studio for Business (Hack) - 8.54.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1368",
+          "size": 57252249
+        }
+      ],
+      "version": "8.54.0",
+      "versionDate": "2025-05-10 01:49:17",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1368",
+      "formatedsize": "54.6 MB",
+      "size": 57252249
+    },
+    {
+      "name": "Clash of Clans - Null\u2019s Clash",
+      "bundleIdentifier": "com.supercell.magic",
+      "developerName": "null's team",
+      "subtitle": "This is a modded Clash of Clans server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\r\n\r\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.",
+      "localizedDescription": "This is a modded Clash of Clans server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\r\n\r\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.supercell.magic\n\n Downloads: 125\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700863295.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17008632937456678096.webp",
+        "https://apps.nabzclan.vip/screenshots/17058860863042029.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "17.126.6",
+          "date": "2025-05-10 01:20:32",
+          "localizedDescription": "Current of Clash of Clans - Null\u2019s Clash - 17.126.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1367",
+          "size": 345505792
+        },
+        {
+          "version": "17.18.5",
+          "date": "2025-02-21 14:09:44",
+          "localizedDescription": "Old Version of Clash of Clans - Null\u2019s Clash - 17.18.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1210",
+          "size": 325373132
+        },
+        {
+          "version": "17.126.6",
+          "date": "2025-04-01 20:57:37",
+          "localizedDescription": "Old Version of Clash of Clans - Null\u2019s Clash - 17.126.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1342",
+          "size": 329525493
+        },
+        {
+          "version": "17.126.6",
+          "date": "2025-05-10 01:20:32",
+          "localizedDescription": "Old Version of Clash of Clans - Null\u2019s Clash - 17.126.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1367",
+          "size": 345505792
+        }
+      ],
+      "version": "17.126.6",
+      "versionDate": "2025-05-10 01:20:32",
+      "versionDescription": "This is a modded Clash of Clans server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\r\n\r\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1367",
+      "formatedsize": "329.5 MB",
+      "size": 345505792
+    },
+    {
+      "name": "Clash Royale - null's",
+      "bundleIdentifier": "com.supercell.scroll",
+      "developerName": "null's team",
+      "subtitle": "private server for Clash Royale",
+      "localizedDescription": "private server for Clash Royale\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.supercell.scroll\n\n Downloads: 120\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1700863619.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17008638029449000.webp",
+        "https://apps.nabzclan.vip/screenshots/17008638028606179.webp",
+        "https://apps.nabzclan.vip/screenshots/17008638022772872.webp",
+        "https://apps.nabzclan.vip/screenshots/17008638027292092.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "10.455.11",
+          "date": "2025-05-10 01:15:27",
+          "localizedDescription": "Current of Clash Royale - null's - 10.455.11",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1366",
+          "size": 749941555
+        },
+        {
+          "version": "10.455.11",
+          "date": "2025-05-10 01:15:27",
+          "localizedDescription": "Old Version of Clash Royale - null's - 10.455.11",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1366",
+          "size": 749941555
+        }
+      ],
+      "version": "10.455.11",
+      "versionDate": "2025-05-10 01:15:27",
+      "versionDescription": "private server for Clash Royale",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1366",
+      "formatedsize": "715.2 MB",
+      "size": 749941555
+    },
+    {
+      "name": "Brawl Stars - Nulls Brawl",
+      "bundleIdentifier": "com.supercell.laser",
+      "developerName": "Nulls Team",
+      "subtitle": "Brawl Stars with a private server can do anything you want.",
+      "localizedDescription": "Brawl Stars with a private server can do anything you want.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.supercell.laser\n\n Downloads: 83\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1704332658.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17043327185530298.webp",
+        "https://apps.nabzclan.vip/screenshots/17263549844199498.webp",
+        "https://apps.nabzclan.vip/screenshots/17263549858388383.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "61.249",
+          "date": "2025-05-10 01:09:11",
+          "localizedDescription": "Current of Brawl Stars - Nulls Brawl - 61.249",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1365",
+          "size": 853540864
+        },
+        {
+          "version": "59.197",
+          "date": "2025-01-15 13:00:10",
+          "localizedDescription": "Old Version of Brawl Stars - Nulls Brawl - 59.197",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1105",
+          "size": 571568291
+        },
+        {
+          "version": "60.420",
+          "date": "2025-03-13 20:07:22",
+          "localizedDescription": "Old Version of Brawl Stars - Nulls Brawl - 60.420",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1256",
+          "size": 727816601
+        },
+        {
+          "version": "61.249",
+          "date": "2025-05-10 01:09:11",
+          "localizedDescription": "Old Version of Brawl Stars - Nulls Brawl - 61.249",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1365",
+          "size": 853540864
+        }
+      ],
+      "version": "61.249",
+      "versionDate": "2025-05-10 01:09:11",
+      "versionDescription": "Brawl Stars with a private server can do anything you want.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1365",
+      "formatedsize": "814 MB",
+      "size": 853540864
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName": "khcrysalis",
+      "subtitle": "Feather is a free on-device iOS application manager installer that comes bundled with an app signer and a tweak injector.\r\n\r\nopen source:\r\nhttps://github.com/khcrysalis/Feather",
+      "localizedDescription": "Feather is a free on-device iOS application manager installer that comes bundled with an app signer and a tweak injector.\r\n\r\nopen source:\r\nhttps://github.com/khcrysalis/Feather\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: kh.crysalis.feather\n\n Downloads: 139\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1726902340.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269023567016505.webp",
+        "https://apps.nabzclan.vip/screenshots/17269023568548882.webp",
+        "https://apps.nabzclan.vip/screenshots/17269023562621937.webp",
+        "https://apps.nabzclan.vip/screenshots/17269023573893525.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.1",
+          "date": "2025-05-10 00:55:21",
+          "localizedDescription": "Current of Feather - 1.4.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1363",
+          "size": 12582912
+        },
+        {
+          "version": "1.4.0",
+          "date": "2025-03-08 19:57:40",
+          "localizedDescription": "Old Version of Feather - 1.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1249",
+          "size": 12603883
+        },
+        {
+          "version": "1.4.1",
+          "date": "2025-05-10 00:55:21",
+          "localizedDescription": "Old Version of Feather - 1.4.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1363",
+          "size": 12582912
+        }
+      ],
+      "version": "1.4.1",
+      "versionDate": "2025-05-10 00:55:21",
+      "versionDescription": "Feather is a free on-device iOS application manager installer that comes bundled with an app signer and a tweak injector.\r\n\r\nopen source:\r\nhttps://github.com/khcrysalis/Feather",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1363",
+      "formatedsize": "12.0 MB",
+      "size": 12582912
+    },
+    {
+      "name": "MapleRead SE",
+      "bundleIdentifier": "com.maplepop.bmsea",
+      "developerName": "Maplepop LLC",
+      "subtitle": "MapleRead is dedicated to enable unique audio-visual reading experience for everyone.\r\n\r\n-----\r\n\r\nMapleRead includes a superb audio-visual EPUB e-book reader.\r\n- It lets you easily modify publisher's original book style to better suit your aesthetic taste.\r\n- It lets you instantly generate pseudo audiobooks with a choice of narrator voices over 40 languages.\r\n- It enables immersion reading so that you may read and listen to the same book in sync.\r\n- Background listening works well too. Compatible with Lock Screen Music Player and CarPlay.",
+      "localizedDescription": "MapleRead is dedicated to enable unique audio-visual reading experience for everyone.\r\n\r\n-----\r\n\r\nMapleRead includes a superb audio-visual EPUB e-book reader.\r\n- It lets you easily modify publisher's original book style to better suit your aesthetic taste.\r\n- It lets you instantly generate pseudo audiobooks with a choice of narrator voices over 40 languages.\r\n- It enables immersion reading so that you may read and listen to the same book in sync.\r\n- Background listening works well too. Compatible with Lock Screen Music Player and CarPlay.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.maplepop.bmsea\n\n Downloads: 30\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1746852328.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17468523282764545405.webp",
+        "https://apps.nabzclan.vip/screenshots/17468523283844412665.webp",
+        "https://apps.nabzclan.vip/screenshots/17468523284714995736.webp",
+        "https://apps.nabzclan.vip/screenshots/17468523285372009831.webp",
+        "https://apps.nabzclan.vip/screenshots/17468523286397954581.webp",
+        "https://apps.nabzclan.vip/screenshots/17468523287301585729.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.8.2",
+          "date": "2025-05-10 00:45:28",
+          "localizedDescription": "Current of MapleRead SE - 5.8.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1361",
+          "size": 22586327
+        },
+        {
+          "version": "5.8.2",
+          "date": "2025-05-10 00:45:28",
+          "localizedDescription": "Old Version of MapleRead SE - 5.8.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1361",
+          "size": 22586327
+        }
+      ],
+      "version": "5.8.2",
+      "versionDate": "2025-05-10 00:45:28",
+      "versionDescription": "MapleRead is dedicated to enable unique audio-visual reading experience for everyone.\r\n\r\n-----\r\n\r\nMapleRead includes a superb audio-visual EPUB e-book reader.\r\n- It lets you easily modify publisher's original book style to better suit your aesthetic taste.\r\n- It lets you instantly generate pseudo audiobooks with a choice of narrator voices over 40 languages.\r\n- It enables immersion reading so that you may read and listen to the same book in sync.\r\n- Background listening works well too. Compatible with Lock Screen Music Player and CarPlay.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1361",
+      "formatedsize": "21.54 MB",
+      "size": 22586327
+    },
+    {
+      "name": "CloudBeats: Cloud Music Player",
+      "bundleIdentifier": "com.willenapps.cloudplayer",
+      "developerName": "Offline song mp3 downloader",
+      "subtitle": "EASIEST WAY TO STREAM & ORGANIZE YOUR MUSIC",
+      "localizedDescription": "EASIEST WAY TO STREAM & ORGANIZE YOUR MUSIC\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.willenapps.cloudplayer\n\n Downloads: 38\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1730902160.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17309021586525894127.webp",
+        "https://apps.nabzclan.vip/screenshots/17309021589397326830.webp",
+        "https://apps.nabzclan.vip/screenshots/17309021592051816620.webp",
+        "https://apps.nabzclan.vip/screenshots/17309021595747901315.webp",
+        "https://apps.nabzclan.vip/screenshots/17309021598446276749.webp",
+        "https://apps.nabzclan.vip/screenshots/17309021601451581944.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.55.11",
+          "date": "2025-05-10 00:31:59",
+          "localizedDescription": "Current of CloudBeats: Cloud Music Player - 2.55.11",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1360",
+          "size": 14900264
+        },
+        {
+          "version": "2.55.10",
+          "date": "2024-11-06 14:09:20",
+          "localizedDescription": "Old Version of CloudBeats: Cloud Music Player - 2.55.10",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/911",
+          "size": 16106127
+        },
+        {
+          "version": "2.55.11",
+          "date": "2025-05-10 00:31:59",
+          "localizedDescription": "Old Version of CloudBeats: Cloud Music Player - 2.55.11",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1360",
+          "size": 14900264
+        }
+      ],
+      "version": "2.55.11",
+      "versionDate": "2025-05-10 00:31:59",
+      "versionDescription": "EASIEST WAY TO STREAM & ORGANIZE YOUR MUSIC",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1360",
+      "formatedsize": "14.21 MB",
+      "size": 14900264
+    },
+    {
+      "name": "P12Cracker",
+      "bundleIdentifier": "nabzclan.P12Cracker",
+      "developerName": "Nabzclan",
+      "subtitle": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more",
+      "localizedDescription": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: nabzclan.P12Cracker\n\n Downloads: 1374\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1725795193.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17458591437698693.webp",
+        "https://apps.nabzclan.vip/screenshots/17458591438954361.webp",
+        "https://apps.nabzclan.vip/screenshots/17458591435616287.webp",
+        "https://apps.nabzclan.vip/screenshots/17458591439280732.webp",
+        "https://apps.nabzclan.vip/screenshots/17458591438898268.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "beta 1.3",
+          "date": "2025-04-29 23:22:38",
+          "localizedDescription": "Current of P12Cracker - beta 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
+          "size": 5012193
+        },
+        {
+          "version": "beta 1.0",
+          "date": "2024-09-24 05:12:37",
+          "localizedDescription": "Old Version of P12Cracker - beta 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/504",
+          "size": 5284823
+        },
+        {
+          "version": "beta 1.2",
+          "date": "2025-03-18 15:21:34",
+          "localizedDescription": "Old Version of P12Cracker - beta 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1295",
+          "size": 4854906
+        },
+        {
+          "version": "beta 1.3",
+          "date": "2025-04-29 23:22:38",
+          "localizedDescription": "Old Version of P12Cracker - beta 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
+          "size": 5012193
+        }
+      ],
+      "version": "beta 1.3",
+      "versionDate": "2025-04-29 23:22:38",
+      "versionDescription": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
+      "formatedsize": "4.78 MB",
+      "size": 5012193
+    },
+    {
+      "name": "Call of Duty: Mobile (Hacked) 5 (VNG)",
+      "bundleIdentifier": "com.activision.callofduty.shooter",
+      "developerName": "Lunite",
+      "subtitle": "menu included!\r\n\r\nFeatures:\r\n- Hitbox\r\n- Anticheat\r\nand more!",
+      "localizedDescription": "menu included!\r\n\r\nFeatures:\r\n- Hitbox\r\n- Anticheat\r\nand more!\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.activision.callofduty.shooter\n\n Downloads: 6892\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743635121.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17436351216881940179.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351217392495338.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351217754423440.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351218106184090.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351218448852320.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351219381228319.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.50",
+          "date": "2025-04-02 19:05:22",
+          "localizedDescription": "Current of Call of Duty: Mobile (Hacked) 5 (VNG) - 1.8.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
+          "size": 2437393940
+        },
+        {
+          "version": "1.8.50",
+          "date": "2025-04-02 19:05:22",
+          "localizedDescription": "Old Version of Call of Duty: Mobile (Hacked) 5 (VNG) - 1.8.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
+          "size": 2437393940
+        }
+      ],
+      "version": "1.8.50",
+      "versionDate": "2025-04-02 19:05:22",
+      "versionDescription": "menu included!\r\n\r\nFeatures:\r\n- Hitbox\r\n- Anticheat\r\nand more!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
+      "formatedsize": "2.27 GB",
+      "size": 2437393940
+    },
+    {
+      "name": "ZiniTevi (No ads)",
+      "bundleIdentifier": "jb.zini.tevi",
+      "developerName": "Nabzclan",
+      "subtitle": "ZiniTevi - Ads disabled App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
+      "localizedDescription": "ZiniTevi - Ads disabled App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!\n\n --- \n\n More app Information:\n\n Category: Media, Tweaked Apps\n\n BundleID: jb.zini.tevi\n\n Downloads: 3041\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1695108257.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16951084144621792.webp",
+        "https://apps.nabzclan.vip/screenshots/16951084147900204.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5.0.05012300",
+          "date": "2025-04-02 18:51:59",
+          "localizedDescription": "Current of ZiniTevi (No ads) - 1.5.0.05012300",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/527",
+          "size": 7916748
+        },
+        {
+          "version": "1.5.0.05012300",
+          "date": "2025-04-02 18:51:59",
+          "localizedDescription": "Old Version of ZiniTevi (No ads) - 1.5.0.05012300",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/527",
+          "size": 7916748
+        }
+      ],
+      "version": "1.5.0.05012300",
+      "versionDate": "2025-04-02 18:51:59",
+      "versionDescription": "ZiniTevi - Ads disabled App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/527",
+      "formatedsize": "7.55 MB",
+      "size": 7916748
+    },
+    {
+      "name": "States Builder: Trade Empire (Hack)",
+      "bundleIdentifier": "games.resourcer.hex",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: games.resourcer.hex\n\n Downloads: 372\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731095598.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310955940692046826.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955942357402605.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955943637075955.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955946532054063.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955949179062358.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955967059886566.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.2",
+          "date": "2025-04-02 18:45:00",
+          "localizedDescription": "Current of States Builder: Trade Empire (Hack) - 1.8.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
+          "size": 135580876
+        },
+        {
+          "version": "1.8.2",
+          "date": "2025-04-02 18:45:00",
+          "localizedDescription": "Old Version of States Builder: Trade Empire (Hack) - 1.8.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
+          "size": 135580876
+        }
+      ],
+      "version": "1.8.2",
+      "versionDate": "2025-04-02 18:45:00",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
+      "formatedsize": "129.3 MB",
+      "size": 135580876
+    },
+    {
       "name": "Brave Merge - Battle & Defense (Hacked)",
       "bundleIdentifier": "com.brave.merge",
       "developerName": "Nabzclan",
@@ -3184,1960 +4343,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/428",
       "formatedsize": "30.75 MB",
       "size": 32243712
-    },
-    {
-      "name": "Dopamine",
-      "bundleIdentifier": "com.opa334.Dopamine",
-      "developerName": "opa334",
-      "subtitle": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64)",
-      "localizedDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64)\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: com.opa334.Dopamine\n\n Downloads: 626\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1709613947.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17096139744358750.webp",
-        "https://apps.nabzclan.vip/screenshots/17096139822504969.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.4.1",
-          "date": "2025-02-25 16:42:17",
-          "localizedDescription": "Current of Dopamine - 2.4.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1238",
-          "size": 50006589
-        },
-        {
-          "version": "2.4.1",
-          "date": "2025-02-25 16:42:17",
-          "localizedDescription": "Old Version of Dopamine - 2.4.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1238",
-          "size": 50006589
-        }
-      ],
-      "version": "2.4.1",
-      "versionDate": "2025-02-25 16:42:17",
-      "versionDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64)",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1238",
-      "formatedsize": "47.69 MB",
-      "size": 50006589
-    },
-    {
-      "name": "Odyssey",
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "developerName": "coolstar",
-      "subtitle": "Supported Devices: All A9-A13 devices on iOS 13.0-13.7 - Odyssey Swift-based semi-untethered jailbreak",
-      "localizedDescription": "Supported Devices: All A9-A13 devices on iOS 13.0-13.7 - Odyssey Swift-based semi-untethered jailbreak\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: org.coolstar.odyssey\n\n Downloads: 231\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726374072.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17263740922494012.webp",
-        "https://apps.nabzclan.vip/screenshots/17263740926549793.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.3",
-          "date": "2025-02-25 16:28:38",
-          "localizedDescription": "Current of Odyssey - 1.4.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/546",
-          "size": 27200061
-        },
-        {
-          "version": "1.4.3",
-          "date": "2025-02-25 16:28:38",
-          "localizedDescription": "Old Version of Odyssey - 1.4.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/546",
-          "size": 27200061
-        }
-      ],
-      "version": "1.4.3",
-      "versionDate": "2025-02-25 16:28:38",
-      "versionDescription": "Supported Devices: All A9-A13 devices on iOS 13.0-13.7 - Odyssey Swift-based semi-untethered jailbreak",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/546",
-      "formatedsize": "25.94 MB",
-      "size": 27200061
-    },
-    {
-      "name": "unc0ver",
-      "bundleIdentifier": "com.uncover.jailbreak",
-      "developerName": "unc0ver team",
-      "subtitle": "The most advanced jailbreak tool.\r\niOS 11.0 - 14.8",
-      "localizedDescription": "The most advanced jailbreak tool.\r\niOS 11.0 - 14.8\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: com.uncover.jailbreak\n\n Downloads: 1598\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1687388509.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "8.0.2",
-          "date": "2025-02-25 16:26:41",
-          "localizedDescription": "Current of unc0ver - 8.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/58",
-          "size": 54494494
-        },
-        {
-          "version": "8.0.2",
-          "date": "2025-02-25 16:26:41",
-          "localizedDescription": "Old Version of unc0ver - 8.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/58",
-          "size": 54494494
-        }
-      ],
-      "version": "8.0.2",
-      "versionDate": "2025-02-25 16:26:41",
-      "versionDescription": "The most advanced jailbreak tool.\r\niOS 11.0 - 14.8",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/58",
-      "formatedsize": "51.97 MB",
-      "size": 54494494
-    },
-    {
-      "name": "Brothers in Arms 3: Sons of War",
-      "bundleIdentifier": "com.gameloft.bia3",
-      "developerName": "Gameloft",
-      "subtitle": "Brothers in Arms 3: Sons of War is the third part of popular action line of Brothers in Arms to fully reflect the events of the Second World! Very well detailed locations, to the smallest detail, and the available Arsenal of weapons really existed in a time like this and options! Play the campaign locally, pass the mission and explore the game world. You will find 8 sections of the storyline. As the characters are 12 brothers, each with their own skills and upgrades. Enjoy the gameplay and experiment with the weapons and features!",
-      "localizedDescription": "Brothers in Arms 3: Sons of War is the third part of popular action line of Brothers in Arms to fully reflect the events of the Second World! Very well detailed locations, to the smallest detail, and the available Arsenal of weapons really existed in a time like this and options! Play the campaign locally, pass the mission and explore the game world. You will find 8 sections of the storyline. As the characters are 12 brothers, each with their own skills and upgrades. Enjoy the gameplay and experiment with the weapons and features!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.gameloft.bia3\n\n Downloads: 378\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1740518353.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17405183713613076.webp",
-        "https://apps.nabzclan.vip/screenshots/17405183719583441.webp",
-        "https://apps.nabzclan.vip/screenshots/17405183728326693.webp",
-        "https://apps.nabzclan.vip/screenshots/17405183723825421.webp",
-        "https://apps.nabzclan.vip/screenshots/17405183727352460.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.0",
-          "date": "2025-02-25 16:19:13",
-          "localizedDescription": "Current of Brothers in Arms 3: Sons of War - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1237",
-          "size": 876294963
-        },
-        {
-          "version": "1.4.0",
-          "date": "2025-02-25 16:19:13",
-          "localizedDescription": "Old Version of Brothers in Arms 3: Sons of War - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1237",
-          "size": 876294963
-        }
-      ],
-      "version": "1.4.0",
-      "versionDate": "2025-02-25 16:19:13",
-      "versionDescription": "Brothers in Arms 3: Sons of War is the third part of popular action line of Brothers in Arms to fully reflect the events of the Second World! Very well detailed locations, to the smallest detail, and the available Arsenal of weapons really existed in a time like this and options! Play the campaign locally, pass the mission and explore the game world. You will find 8 sections of the storyline. As the characters are 12 brothers, each with their own skills and upgrades. Enjoy the gameplay and experiment with the weapons and features!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1237",
-      "formatedsize": "835.7 MB",
-      "size": 876294963
-    },
-    {
-      "name": "Call of Duty: Heroes",
-      "bundleIdentifier": "com.activision.callofduty.heroes",
-      "developerName": "Activision Publishing, Inc.",
-      "subtitle": "Call of Duty: Heroes - famous and popular for many players, this version still pretty. Build up a base, train your soldiers and send them into battle. However, some features make the game very attractive. For example, when you get to the enemy base, will be able to shoot a machine gun on the defenders (the first-person shooter). Or for example, to help their soldiers with air and fly a helicopter and driving a machine gun! In addition, legendary heroes, soldiers of elite units, an extensive Arsenal of weapons and your own fleet with the ability to upgrade - what could be more attractive....",
-      "localizedDescription": "Call of Duty: Heroes - famous and popular for many players, this version still pretty. Build up a base, train your soldiers and send them into battle. However, some features make the game very attractive. For example, when you get to the enemy base, will be able to shoot a machine gun on the defenders (the first-person shooter). Or for example, to help their soldiers with air and fly a helicopter and driving a machine gun! In addition, legendary heroes, soldiers of elite units, an extensive Arsenal of weapons and your own fleet with the ability to upgrade - what could be more attractive....\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.activision.callofduty.heroes\n\n Downloads: 429\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1740517920.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17405179325716288.webp",
-        "https://apps.nabzclan.vip/screenshots/17405179327622997.webp",
-        "https://apps.nabzclan.vip/screenshots/17405179324127755.webp",
-        "https://apps.nabzclan.vip/screenshots/17405179325553872.webp",
-        "https://apps.nabzclan.vip/screenshots/17405179326011109.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.7.0",
-          "date": "2025-02-25 16:12:00",
-          "localizedDescription": "Current of Call of Duty: Heroes - 4.7.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1236",
-          "size": 82208358
-        },
-        {
-          "version": "4.7.0",
-          "date": "2025-02-25 16:12:00",
-          "localizedDescription": "Old Version of Call of Duty: Heroes - 4.7.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1236",
-          "size": 82208358
-        }
-      ],
-      "version": "4.7.0",
-      "versionDate": "2025-02-25 16:12:00",
-      "versionDescription": "Call of Duty: Heroes - famous and popular for many players, this version still pretty. Build up a base, train your soldiers and send them into battle. However, some features make the game very attractive. For example, when you get to the enemy base, will be able to shoot a machine gun on the defenders (the first-person shooter). Or for example, to help their soldiers with air and fly a helicopter and driving a machine gun! In addition, legendary heroes, soldiers of elite units, an extensive Arsenal of weapons and your own fleet with the ability to upgrade - what could be more attractive....",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1236",
-      "formatedsize": "78.4 MB",
-      "size": 82208358
-    },
-    {
-      "name": "Safe Checker App",
-      "bundleIdentifier": "nabzclan.safe-checker",
-      "developerName": "Nabz Clan",
-      "subtitle": "Features:\r\n- Checks for data breaches based on emails\r\n\r\n- Checks password used how many times \r\n\r\n- Checks url safety checks for malicious links and scam links",
-      "localizedDescription": "Features:\r\n- Checks for data breaches based on emails\r\n\r\n- Checks password used how many times \r\n\r\n- Checks url safety checks for malicious links and scam links\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: nabzclan.safe-checker\n\n Downloads: 278\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1725794736.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4",
-          "date": "2025-02-25 15:52:53",
-          "localizedDescription": "Current of Safe Checker App - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1235",
-          "size": 376145
-        },
-        {
-          "version": "1.3",
-          "date": "2024-09-08 15:25:36",
-          "localizedDescription": "Old Version of Safe Checker App - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/503",
-          "size": 375808
-        },
-        {
-          "version": "1.4",
-          "date": "2025-02-25 15:52:53",
-          "localizedDescription": "Old Version of Safe Checker App - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1235",
-          "size": 376145
-        }
-      ],
-      "version": "1.4",
-      "versionDate": "2025-02-25 15:52:53",
-      "versionDescription": "Features:\r\n- Checks for data breaches based on emails\r\n\r\n- Checks password used how many times \r\n\r\n- Checks url safety checks for malicious links and scam links",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1235",
-      "formatedsize": "367.33 KB",
-      "size": 376145
-    },
-    {
-      "name": "Gbox - No Tracking",
-      "bundleIdentifier": "com.nabzclan.gboxnotracking",
-      "developerName": "Nabzclan",
-      "subtitle": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n---\r\n\r\nthis Gbox version blocks them from tracking you and selling your information if that's their goal\r\n\r\nProject url: https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/",
-      "localizedDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n---\r\n\r\nthis Gbox version blocks them from tracking you and selling your information if that's their goal\r\n\r\nProject url: https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.nabzclan.gboxnotracking\n\n Downloads: 1726\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726132075.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269019803568188.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019807888061.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019803435071.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019805994272.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:29:13",
-          "localizedDescription": "Current of Gbox - No Tracking - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1234",
-          "size": 7444889
-        },
-        {
-          "version": "5.6.9",
-          "date": "2024-12-25 16:04:49",
-          "localizedDescription": "Old Version of Gbox - No Tracking - 5.6.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1130",
-          "size": 7581204
-        },
-        {
-          "version": "5.7",
-          "date": "2025-02-02 13:06:52",
-          "localizedDescription": "Old Version of Gbox - No Tracking - 5.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1191",
-          "size": 7591690
-        },
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:29:13",
-          "localizedDescription": "Old Version of Gbox - No Tracking - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1234",
-          "size": 7444889
-        }
-      ],
-      "version": "5.7.3",
-      "versionDate": "2025-02-24 18:29:13",
-      "versionDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n---\r\n\r\nthis Gbox version blocks them from tracking you and selling your information if that's their goal\r\n\r\nProject url: https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1234",
-      "formatedsize": "7.1 MB",
-      "size": 7444889
-    },
-    {
-      "name": "Gbox",
-      "bundleIdentifier": "com.ncs.gbox",
-      "developerName": "Gbox team",
-      "subtitle": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n----\r\n\r\nApp tracks you and sends to Chinese servers\r\n\r\nuse this version instead: https://apps.nabzclan.vip/apps/gbox-no-tracking",
-      "localizedDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n----\r\n\r\nApp tracks you and sends to Chinese servers\r\n\r\nuse this version instead: https://apps.nabzclan.vip/apps/gbox-no-tracking\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.ncs.gbox\n\n Downloads: 1088\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1689529995.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17058258004731369.webp",
-        "https://apps.nabzclan.vip/screenshots/17058258073685411.webp",
-        "https://apps.nabzclan.vip/screenshots/17058258154050521.webp",
-        "https://apps.nabzclan.vip/screenshots/17058258279222404.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:28:36",
-          "localizedDescription": "Current of Gbox - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1233",
-          "size": 6773800
-        },
-        {
-          "version": "5.6.9",
-          "date": "2024-12-25 16:05:18",
-          "localizedDescription": "Old Version of Gbox - 5.6.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1131",
-          "size": 6763315
-        },
-        {
-          "version": "5.7",
-          "date": "2025-02-02 13:08:23",
-          "localizedDescription": "Old Version of Gbox - 5.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1192",
-          "size": 6763315
-        },
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:28:36",
-          "localizedDescription": "Old Version of Gbox - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1233",
-          "size": 6773800
-        }
-      ],
-      "version": "5.7.3",
-      "versionDate": "2025-02-24 18:28:36",
-      "versionDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n----\r\n\r\nApp tracks you and sends to Chinese servers\r\n\r\nuse this version instead: https://apps.nabzclan.vip/apps/gbox-no-tracking",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1233",
-      "formatedsize": "6.46 MB",
-      "size": 6773800
-    },
-    {
-      "name": "Passpartout: Starving Artist",
-      "bundleIdentifier": "com.FlamebaitGames.Passpartout",
-      "developerName": "Flamebait AB",
-      "subtitle": "Even you can become a great artist! Wrestle subjectivity as you attempt to sell your art to rude customers in order to progress in this confusing art scene. The only thing threatening you is your expensive wine and baguette addiction! Will your art end up in the Louvre or on your parents' fridge?\r\n\r\n\r\nPasspartout puts you into the shoes of a French artist trying to navigate the beautifully confusing art scene. Paint and sell your own art to survive your expensive baguette addiction.",
-      "localizedDescription": "Even you can become a great artist! Wrestle subjectivity as you attempt to sell your art to rude customers in order to progress in this confusing art scene. The only thing threatening you is your expensive wine and baguette addiction! Will your art end up in the Louvre or on your parents' fridge?\r\n\r\n\r\nPasspartout puts you into the shoes of a French artist trying to navigate the beautifully confusing art scene. Paint and sell your own art to survive your expensive baguette addiction.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.FlamebaitGames.Passpartout\n\n Downloads: 115\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740439033.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404390326563782583.webp",
-        "https://apps.nabzclan.vip/screenshots/17404390327344112126.webp",
-        "https://apps.nabzclan.vip/screenshots/17404390328398817763.webp",
-        "https://apps.nabzclan.vip/screenshots/17404390329434125539.webp",
-        "https://apps.nabzclan.vip/screenshots/17404390330599973953.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.31",
-          "date": "2025-02-24 18:17:13",
-          "localizedDescription": "Current of Passpartout: Starving Artist - 1.31",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1231",
-          "size": 186541670
-        },
-        {
-          "version": "1.31",
-          "date": "2025-02-24 18:17:13",
-          "localizedDescription": "Old Version of Passpartout: Starving Artist - 1.31",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1231",
-          "size": 186541670
-        }
-      ],
-      "version": "1.31",
-      "versionDate": "2025-02-24 18:17:13",
-      "versionDescription": "Even you can become a great artist! Wrestle subjectivity as you attempt to sell your art to rude customers in order to progress in this confusing art scene. The only thing threatening you is your expensive wine and baguette addiction! Will your art end up in the Louvre or on your parents' fridge?\r\n\r\n\r\nPasspartout puts you into the shoes of a French artist trying to navigate the beautifully confusing art scene. Paint and sell your own art to survive your expensive baguette addiction.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1231",
-      "formatedsize": "177.9 MB",
-      "size": 186541670
-    },
-    {
-      "name": "Pacific Fire",
-      "bundleIdentifier": "com.Wirraway.PacificFire",
-      "developerName": "Geoffrey Ayre",
-      "subtitle": "Pacific Fire is a turn-based strategic wargame set in the Pacific Theater of World War II. Take command of US, Japanese, British, Australian, New Zealand, Chinese and Dutch forces in the Pacific and Southeast Asia from 1941-1945.",
-      "localizedDescription": "Pacific Fire is a turn-based strategic wargame set in the Pacific Theater of World War II. Take command of US, Japanese, British, Australian, New Zealand, Chinese and Dutch forces in the Pacific and Southeast Asia from 1941-1945.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.Wirraway.PacificFire\n\n Downloads: 47\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740438816.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404388135019567354.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388136186510443.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388137364885253.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388148753332208.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388150596258219.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388160823252054.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.800",
-          "date": "2025-02-24 18:13:36",
-          "localizedDescription": "Current of Pacific Fire - 1.800",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1230",
-          "size": 139460608
-        },
-        {
-          "version": "1.800",
-          "date": "2025-02-24 18:13:36",
-          "localizedDescription": "Old Version of Pacific Fire - 1.800",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1230",
-          "size": 139460608
-        }
-      ],
-      "version": "1.800",
-      "versionDate": "2025-02-24 18:13:36",
-      "versionDescription": "Pacific Fire is a turn-based strategic wargame set in the Pacific Theater of World War II. Take command of US, Japanese, British, Australian, New Zealand, Chinese and Dutch forces in the Pacific and Southeast Asia from 1941-1945.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1230",
-      "formatedsize": "133 MB",
-      "size": 139460608
-    },
-    {
-      "name": "Wreckfest",
-      "bundleIdentifier": "com.hg.wreckfest",
-      "developerName": "HandyGames",
-      "subtitle": "Burn rubber and shred metal in the ultimate driving playground!\r\n\r\nWreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there.",
-      "localizedDescription": "Burn rubber and shred metal in the ultimate driving playground!\r\n\r\nWreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.hg.wreckfest\n\n Downloads: 491\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740438247.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404382462584998272.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382463317866559.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382464675816373.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382465297916907.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382466389613988.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382473327346038.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.88",
-          "date": "2025-02-24 18:04:07",
-          "localizedDescription": "Current of Wreckfest - 1.0.88",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
-          "size": 963641344
-        },
-        {
-          "version": "1.0.88",
-          "date": "2025-02-24 18:04:07",
-          "localizedDescription": "Old Version of Wreckfest - 1.0.88",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
-          "size": 963641344
-        }
-      ],
-      "version": "1.0.88",
-      "versionDate": "2025-02-24 18:04:07",
-      "versionDescription": "Burn rubber and shred metal in the ultimate driving playground!\r\n\r\nWreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
-      "formatedsize": "919.00 MB",
-      "size": 963641344
-    },
-    {
-      "name": "Brotato - Premium",
-      "bundleIdentifier": "com.brotato.shooting.survivors.games.paid.ios",
-      "developerName": "Erabit Studios",
-      "subtitle": "A top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
-      "localizedDescription": "A top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.brotato.shooting.survivors.games.paid.ios\n\n Downloads: 252\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735164627.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351646270004300225.webp",
-        "https://apps.nabzclan.vip/screenshots/17351646270488899169.webp",
-        "https://apps.nabzclan.vip/screenshots/17351646270972334545.webp",
-        "https://apps.nabzclan.vip/screenshots/17351646271398785299.webp",
-        "https://apps.nabzclan.vip/screenshots/17351646276489893073.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.102",
-          "date": "2025-02-24 17:47:03",
-          "localizedDescription": "Current of Brotato - Premium - 1.3.102",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1227",
-          "size": 128240844
-        },
-        {
-          "version": "1.3.75",
-          "date": "2024-12-25 17:10:27",
-          "localizedDescription": "Old Version of Brotato - Premium - 1.3.75",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1143",
-          "size": 128135987
-        },
-        {
-          "version": "1.3.81",
-          "date": "2025-01-01 18:06:36",
-          "localizedDescription": "Old Version of Brotato - Premium - 1.3.81",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1151",
-          "size": 122295418
-        },
-        {
-          "version": "1.3.102",
-          "date": "2025-02-24 17:47:03",
-          "localizedDescription": "Old Version of Brotato - Premium - 1.3.102",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1227",
-          "size": 128240844
-        }
-      ],
-      "version": "1.3.102",
-      "versionDate": "2025-02-24 17:47:03",
-      "versionDescription": "A top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1227",
-      "formatedsize": "122.3 MB",
-      "size": 128240844
-    },
-    {
-      "name": "Goat Simulator+",
-      "bundleIdentifier": "com.coffeestainstudios.goatsimulator.arcade",
-      "developerName": "Coffee Stain Publishing",
-      "subtitle": "Goat Simulator+ is the latest in goat simulation technology, bringing next-gen goat simulation to YOU. You no longer have to fantasize about being a goat, your mobile dreams have finally come true!\r\n\r\nGameplay-wise, Goat Simulator+ is all about causing as much destruction as you possibly can as a goat. It has been compared to an old-school skating game, except instead of being a skater, you're a goat, and instead of doing tricks, you wreck stuff. more! When it comes to goats, not even the sky is the limit, as you can probably just bug through it and crash the game.",
-      "localizedDescription": "Goat Simulator+ is the latest in goat simulation technology, bringing next-gen goat simulation to YOU. You no longer have to fantasize about being a goat, your mobile dreams have finally come true!\r\n\r\nGameplay-wise, Goat Simulator+ is all about causing as much destruction as you possibly can as a goat. It has been compared to an old-school skating game, except instead of being a skater, you're a goat, and instead of doing tricks, you wreck stuff. more! When it comes to goats, not even the sky is the limit, as you can probably just bug through it and crash the game.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.coffeestainstudios.goatsimulator.arcade\n\n Downloads: 635\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1734733825.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17347338233924487035.webp",
-        "https://apps.nabzclan.vip/screenshots/17347338256071652833.webp",
-        "https://apps.nabzclan.vip/screenshots/17347338256726423925.webp",
-        "https://apps.nabzclan.vip/screenshots/17347338257146682621.webp",
-        "https://apps.nabzclan.vip/screenshots/17347338257771441630.webp",
-        "https://apps.nabzclan.vip/screenshots/17347338258705148851.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.4",
-          "date": "2025-02-24 17:43:23",
-          "localizedDescription": "Current of Goat Simulator+ - 1.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1226",
-          "size": 1728724336
-        },
-        {
-          "version": "1.8.4",
-          "date": "2024-12-20 17:30:26",
-          "localizedDescription": "Old Version of Goat Simulator+ - 1.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1113",
-          "size": 1728724336
-        },
-        {
-          "version": "1.8.4",
-          "date": "2025-02-24 17:43:23",
-          "localizedDescription": "Old Version of Goat Simulator+ - 1.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1226",
-          "size": 1728724336
-        }
-      ],
-      "version": "1.8.4",
-      "versionDate": "2025-02-24 17:43:23",
-      "versionDescription": "Goat Simulator+ is the latest in goat simulation technology, bringing next-gen goat simulation to YOU. You no longer have to fantasize about being a goat, your mobile dreams have finally come true!\r\n\r\nGameplay-wise, Goat Simulator+ is all about causing as much destruction as you possibly can as a goat. It has been compared to an old-school skating game, except instead of being a skater, you're a goat, and instead of doing tricks, you wreck stuff. more! When it comes to goats, not even the sky is the limit, as you can probably just bug through it and crash the game.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1226",
-      "formatedsize": "1.61 GB",
-      "size": 1728724336
-    },
-    {
-      "name": "Kingdom Two Crowns",
-      "bundleIdentifier": "se.raw-fury.kingdom-two-crown",
-      "developerName": "Raw Fury",
-      "subtitle": "A shroud of mystery envelops these uncharted medieval lands where ancient monuments, relics and mythical creatures await. Echoes of bygone eras speak of past greatness and in Kingdom Two Crowns, part of the award-winning franchise Kingdom, you embark on an adventure as the Monarch. In this side-scrolling journey atop your steed, you recruit loyal subjects, build your Kingdom and protect your crown from the Greed, monstrous creatures looking to steal your Kingdom's treasures.",
-      "localizedDescription": "A shroud of mystery envelops these uncharted medieval lands where ancient monuments, relics and mythical creatures await. Echoes of bygone eras speak of past greatness and in Kingdom Two Crowns, part of the award-winning franchise Kingdom, you embark on an adventure as the Monarch. In this side-scrolling journey atop your steed, you recruit loyal subjects, build your Kingdom and protect your crown from the Greed, monstrous creatures looking to steal your Kingdom's treasures.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: se.raw-fury.kingdom-two-crown\n\n Downloads: 157\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1740436956.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404369555065114031.webp",
-        "https://apps.nabzclan.vip/screenshots/17404369556922609117.webp",
-        "https://apps.nabzclan.vip/screenshots/17404369557607758191.webp",
-        "https://apps.nabzclan.vip/screenshots/17404369558187529860.webp",
-        "https://apps.nabzclan.vip/screenshots/17404369559071587411.webp",
-        "https://apps.nabzclan.vip/screenshots/17404369559988073697.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.0",
-          "date": "2025-02-24 17:42:36",
-          "localizedDescription": "Current of Kingdom Two Crowns - 2.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1225",
-          "size": 1492501135
-        },
-        {
-          "version": "2.1.0",
-          "date": "2025-02-24 17:42:36",
-          "localizedDescription": "Old Version of Kingdom Two Crowns - 2.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1225",
-          "size": 1492501135
-        }
-      ],
-      "version": "2.1.0",
-      "versionDate": "2025-02-24 17:42:36",
-      "versionDescription": "A shroud of mystery envelops these uncharted medieval lands where ancient monuments, relics and mythical creatures await. Echoes of bygone eras speak of past greatness and in Kingdom Two Crowns, part of the award-winning franchise Kingdom, you embark on an adventure as the Monarch. In this side-scrolling journey atop your steed, you recruit loyal subjects, build your Kingdom and protect your crown from the Greed, monstrous creatures looking to steal your Kingdom's treasures.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1225",
-      "formatedsize": "1.39 GB",
-      "size": 1492501135
-    },
-    {
-      "name": "Afterplace",
-      "bundleIdentifier": "com.kice.afterplace",
-      "developerName": "Evan Kice",
-      "subtitle": "An open world adventure game filled with silly characters and terrible secrets.\r\n\r\nAfterplace is an adventurous indie game for mobile devices. It's a huge open world, full of hidden secrets, treasures, and creatures. You'll run around the woods, fight monsters, and talk to ostensibly shady characters! All from your pocket! Be warned though - you never know what the forest might be hiding, and not all trails are paved. Labyrinths and dungeons are tucked away in the most concealed nooks. There are no waypoints in Afterplace. You'll have to forge your own path.",
-      "localizedDescription": "An open world adventure game filled with silly characters and terrible secrets.\r\n\r\nAfterplace is an adventurous indie game for mobile devices. It's a huge open world, full of hidden secrets, treasures, and creatures. You'll run around the woods, fight monsters, and talk to ostensibly shady characters! All from your pocket! Be warned though - you never know what the forest might be hiding, and not all trails are paved. Labyrinths and dungeons are tucked away in the most concealed nooks. There are no waypoints in Afterplace. You'll have to forge your own path.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.kice.afterplace\n\n Downloads: 53\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740433379.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404333788276902883.webp",
-        "https://apps.nabzclan.vip/screenshots/17404333789441307834.webp",
-        "https://apps.nabzclan.vip/screenshots/17404333790109296698.webp",
-        "https://apps.nabzclan.vip/screenshots/17404333790955212698.webp",
-        "https://apps.nabzclan.vip/screenshots/17404333791593216243.webp",
-        "https://apps.nabzclan.vip/screenshots/17404333792344613981.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.15",
-          "date": "2025-02-24 16:42:59",
-          "localizedDescription": "Current of Afterplace - 1.2.15",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1224",
-          "size": 56119787
-        },
-        {
-          "version": "1.2.15",
-          "date": "2025-02-24 16:42:59",
-          "localizedDescription": "Old Version of Afterplace - 1.2.15",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1224",
-          "size": 56119787
-        }
-      ],
-      "version": "1.2.15",
-      "versionDate": "2025-02-24 16:42:59",
-      "versionDescription": "An open world adventure game filled with silly characters and terrible secrets.\r\n\r\nAfterplace is an adventurous indie game for mobile devices. It's a huge open world, full of hidden secrets, treasures, and creatures. You'll run around the woods, fight monsters, and talk to ostensibly shady characters! All from your pocket! Be warned though - you never know what the forest might be hiding, and not all trails are paved. Labyrinths and dungeons are tucked away in the most concealed nooks. There are no waypoints in Afterplace. You'll have to forge your own path.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1224",
-      "formatedsize": "53.52 MB",
-      "size": 56119787
-    },
-    {
-      "name": "Pocket Rogues: Ultimate",
-      "bundleIdentifier": "com.EtherGaming.PocketRoguesUltimate",
-      "developerName": "Alexej Leonydov",
-      "subtitle": "POCKET ROGUES combines the classic flavor of old-school Action-RPGs with the dynamic challenges of the Roguelike genre. Fight through hordes of monsters, explore unique and procedurally generated locations, upgrade your guild fortress, and develop increasingly powerful heroes to uncover the secrets hidden in mysterious dungeons.",
-      "localizedDescription": "POCKET ROGUES combines the classic flavor of old-school Action-RPGs with the dynamic challenges of the Roguelike genre. Fight through hordes of monsters, explore unique and procedurally generated locations, upgrade your guild fortress, and develop increasingly powerful heroes to uncover the secrets hidden in mysterious dungeons.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.EtherGaming.PocketRoguesUltimate\n\n Downloads: 91\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1740433198.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404331981481128151.webp",
-        "https://apps.nabzclan.vip/screenshots/17404331982435888674.webp",
-        "https://apps.nabzclan.vip/screenshots/17404331982873355680.webp",
-        "https://apps.nabzclan.vip/screenshots/17404331983363762280.webp",
-        "https://apps.nabzclan.vip/screenshots/17404331983801623810.webp",
-        "https://apps.nabzclan.vip/screenshots/17404331984862296797.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.37.42",
-          "date": "2025-02-24 16:39:58",
-          "localizedDescription": "Current of Pocket Rogues: Ultimate - 1.37.42",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1223",
-          "size": 163923886
-        },
-        {
-          "version": "1.37.42",
-          "date": "2025-02-24 16:39:58",
-          "localizedDescription": "Old Version of Pocket Rogues: Ultimate - 1.37.42",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1223",
-          "size": 163923886
-        }
-      ],
-      "version": "1.37.42",
-      "versionDate": "2025-02-24 16:39:58",
-      "versionDescription": "POCKET ROGUES combines the classic flavor of old-school Action-RPGs with the dynamic challenges of the Roguelike genre. Fight through hordes of monsters, explore unique and procedurally generated locations, upgrade your guild fortress, and develop increasingly powerful heroes to uncover the secrets hidden in mysterious dungeons.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1223",
-      "formatedsize": "156.33 MB",
-      "size": 163923886
-    },
-    {
-      "name": "Edge - Game",
-      "bundleIdentifier": "net.mobigame.Edge",
-      "developerName": "Mobigame",
-      "subtitle": "\"A rare flash of design style... for pure race-to-the-exit charm, Edge is hard to beat.\"\r\nThe 50 best iPhone / iPod Touch games, EDGE Magazine",
-      "localizedDescription": "\"A rare flash of design style... for pure race-to-the-exit charm, Edge is hard to beat.\"\r\nThe 50 best iPhone / iPod Touch games, EDGE Magazine\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: net.mobigame.Edge\n\n Downloads: 219\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740432830.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404328299456123226.webp",
-        "https://apps.nabzclan.vip/screenshots/17404328301313109931.webp",
-        "https://apps.nabzclan.vip/screenshots/17404328303012036635.webp",
-        "https://apps.nabzclan.vip/screenshots/17404328304163497178.webp",
-        "https://apps.nabzclan.vip/screenshots/17404328305859440324.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.0.0",
-          "date": "2025-02-24 16:33:50",
-          "localizedDescription": "Current of Edge - Game - 4.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1222",
-          "size": 23530045
-        },
-        {
-          "version": "4.0.0",
-          "date": "2025-02-24 16:33:50",
-          "localizedDescription": "Old Version of Edge - Game - 4.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1222",
-          "size": 23530045
-        }
-      ],
-      "version": "4.0.0",
-      "versionDate": "2025-02-24 16:33:50",
-      "versionDescription": "\"A rare flash of design style... for pure race-to-the-exit charm, Edge is hard to beat.\"\r\nThe 50 best iPhone / iPod Touch games, EDGE Magazine",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1222",
-      "formatedsize": "22.44 MB",
-      "size": 23530045
-    },
-    {
-      "name": "Manuganu 2",
-      "bundleIdentifier": "com.Alper.Manuganu2",
-      "developerName": "ALPER SARIKAYA",
-      "subtitle": "Manuganu is back with lots of action and brand new features for new adventures. Help him in his quest to rescue his best friend.\r\n\r\nNEVERENDING ACTION\r\n40 unequally designed levels. Beat 4 Epic Bosses and complete the saga. Collect all the items to win extra awards. Follow alternative paths to collect the three stars and gain \u201cGame Center\u201d achievements.\r\n\r\nTIMING IS THE TRICK\r\nTo run away from enemies and dodge the obstacles use the halt feature. In Manuganu timing is everything.",
-      "localizedDescription": "Manuganu is back with lots of action and brand new features for new adventures. Help him in his quest to rescue his best friend.\r\n\r\nNEVERENDING ACTION\r\n40 unequally designed levels. Beat 4 Epic Bosses and complete the saga. Collect all the items to win extra awards. Follow alternative paths to collect the three stars and gain \u201cGame Center\u201d achievements.\r\n\r\nTIMING IS THE TRICK\r\nTo run away from enemies and dodge the obstacles use the halt feature. In Manuganu timing is everything.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.Alper.Manuganu2\n\n Downloads: 80\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1740432523.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404325229462922843.webp",
-        "https://apps.nabzclan.vip/screenshots/17404325231814694992.webp",
-        "https://apps.nabzclan.vip/screenshots/17404325233363533711.webp",
-        "https://apps.nabzclan.vip/screenshots/17404325234734808248.webp",
-        "https://apps.nabzclan.vip/screenshots/17404325235389562213.webp",
-        "https://apps.nabzclan.vip/screenshots/17404325236139041909.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.2",
-          "date": "2025-02-24 16:28:44",
-          "localizedDescription": "Current of Manuganu 2 - 1.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1221",
-          "size": 157496115
-        },
-        {
-          "version": "1.0.2",
-          "date": "2025-02-24 16:28:44",
-          "localizedDescription": "Old Version of Manuganu 2 - 1.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1221",
-          "size": 157496115
-        }
-      ],
-      "version": "1.0.2",
-      "versionDate": "2025-02-24 16:28:44",
-      "versionDescription": "Manuganu is back with lots of action and brand new features for new adventures. Help him in his quest to rescue his best friend.\r\n\r\nNEVERENDING ACTION\r\n40 unequally designed levels. Beat 4 Epic Bosses and complete the saga. Collect all the items to win extra awards. Follow alternative paths to collect the three stars and gain \u201cGame Center\u201d achievements.\r\n\r\nTIMING IS THE TRICK\r\nTo run away from enemies and dodge the obstacles use the halt feature. In Manuganu timing is everything.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1221",
-      "formatedsize": "150.2 MB",
-      "size": 157496115
-    },
-    {
-      "name": "This Is the Police",
-      "bundleIdentifier": "com.hg.titp",
-      "developerName": "HandyGames",
-      "subtitle": "Dive into a deep story of corruption, crime and intrigue. Take the role of gritty Police Chief Jack Boyd, and come face to face with the ugly underbelly of Freeburg, a city spiraling the drain. Will Jack reach his retirement with a nice stack of bills, or will he end up broken ... or worse?",
-      "localizedDescription": "Dive into a deep story of corruption, crime and intrigue. Take the role of gritty Police Chief Jack Boyd, and come face to face with the ugly underbelly of Freeburg, a city spiraling the drain. Will Jack reach his retirement with a nice stack of bills, or will he end up broken ... or worse?\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.hg.titp\n\n Downloads: 152\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740173119.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17401731186383927006.webp",
-        "https://apps.nabzclan.vip/screenshots/17401731187173372343.webp",
-        "https://apps.nabzclan.vip/screenshots/17401731187941627740.webp",
-        "https://apps.nabzclan.vip/screenshots/17401731188723195283.webp",
-        "https://apps.nabzclan.vip/screenshots/17401731189464412922.webp",
-        "https://apps.nabzclan.vip/screenshots/17401731190096742153.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1.4",
-          "date": "2025-02-21 16:25:19",
-          "localizedDescription": "Current of This Is the Police - 1.1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1220",
-          "size": 859517747
-        },
-        {
-          "version": "1.1.4",
-          "date": "2025-02-21 16:25:19",
-          "localizedDescription": "Old Version of This Is the Police - 1.1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1220",
-          "size": 859517747
-        }
-      ],
-      "version": "1.1.4",
-      "versionDate": "2025-02-21 16:25:19",
-      "versionDescription": "Dive into a deep story of corruption, crime and intrigue. Take the role of gritty Police Chief Jack Boyd, and come face to face with the ugly underbelly of Freeburg, a city spiraling the drain. Will Jack reach his retirement with a nice stack of bills, or will he end up broken ... or worse?",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1220",
-      "formatedsize": "819.7 MB",
-      "size": 859517747
-    },
-    {
-      "name": "Angry Birds Reloaded",
-      "bundleIdentifier": "com.rovio.abreloaded",
-      "developerName": "Rovio Entertainment Oyj",
-      "subtitle": "The world\u2019s most famous flock has returned in a new version of the mobile game that took the world by storm.  Join Red, Chuck, Bomb, Silver and the rest of the gang for classic slingshot action that will please fans of all ages.  Angry Birds Reloaded features familiar physics-based gameplay from the original game - now remastered with visual enhancements, new characters, and plenty of destruction!",
-      "localizedDescription": "The world\u2019s most famous flock has returned in a new version of the mobile game that took the world by storm.  Join Red, Chuck, Bomb, Silver and the rest of the gang for classic slingshot action that will please fans of all ages.  Angry Birds Reloaded features familiar physics-based gameplay from the original game - now remastered with visual enhancements, new characters, and plenty of destruction!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.rovio.abreloaded\n\n Downloads: 566\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731964544.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17319645429071387096.webp",
-        "https://apps.nabzclan.vip/screenshots/17319645429651942426.webp",
-        "https://apps.nabzclan.vip/screenshots/17319645441442962386.webp",
-        "https://apps.nabzclan.vip/screenshots/17319645441969279855.webp",
-        "https://apps.nabzclan.vip/screenshots/17319645442683019533.webp",
-        "https://apps.nabzclan.vip/screenshots/17319645443075738100.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.13.20809",
-          "date": "2025-02-21 16:09:54",
-          "localizedDescription": "Current of Angry Birds Reloaded - 3.13.20809",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1219",
-          "size": 669096345
-        },
-        {
-          "version": "3.13.20809",
-          "date": "2025-02-21 16:09:54",
-          "localizedDescription": "Old Version of Angry Birds Reloaded - 3.13.20809",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1219",
-          "size": 669096345
-        }
-      ],
-      "version": "3.13.20809",
-      "versionDate": "2025-02-21 16:09:54",
-      "versionDescription": "The world\u2019s most famous flock has returned in a new version of the mobile game that took the world by storm.  Join Red, Chuck, Bomb, Silver and the rest of the gang for classic slingshot action that will please fans of all ages.  Angry Birds Reloaded features familiar physics-based gameplay from the original game - now remastered with visual enhancements, new characters, and plenty of destruction!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1219",
-      "formatedsize": "638.1 MB",
-      "size": 669096345
-    },
-    {
-      "name": "Exploding Kittens 2",
-      "bundleIdentifier": "com.marmalade.explodingkittens",
-      "developerName": "Marmalade Game Studio",
-      "subtitle": "The ultimate card game with friends is back with a bang, people! EXPLODING KITTENS\u00ae 2 has it all \u2013 customisable avatars, emojis, oodles of game modes and cards full of quirky humour and animations sleeker than an oiled kitty with catnip-fuelled zoomies!",
-      "localizedDescription": "The ultimate card game with friends is back with a bang, people! EXPLODING KITTENS\u00ae 2 has it all \u2013 customisable avatars, emojis, oodles of game modes and cards full of quirky humour and animations sleeker than an oiled kitty with catnip-fuelled zoomies!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.marmalade.explodingkittens\n\n Downloads: 131\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731281959.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312819584901223018.webp",
-        "https://apps.nabzclan.vip/screenshots/17312819589142829688.webp",
-        "https://apps.nabzclan.vip/screenshots/17312819590555790995.webp",
-        "https://apps.nabzclan.vip/screenshots/17312819591898755714.webp",
-        "https://apps.nabzclan.vip/screenshots/17312819594287022332.webp",
-        "https://apps.nabzclan.vip/screenshots/17312819595576105905.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.0.27",
-          "date": "2025-02-21 16:03:23",
-          "localizedDescription": "Current of Exploding Kittens 2 - 0.0.27",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1218",
-          "size": 327470284
-        },
-        {
-          "version": "0.0.24",
-          "date": "2024-12-25 17:07:18",
-          "localizedDescription": "Old Version of Exploding Kittens 2 - 0.0.24",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1142",
-          "size": 353789542
-        },
-        {
-          "version": "0.0.27",
-          "date": "2025-02-21 16:03:23",
-          "localizedDescription": "Old Version of Exploding Kittens 2 - 0.0.27",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1218",
-          "size": 327470284
-        }
-      ],
-      "version": "0.0.27",
-      "versionDate": "2025-02-21 16:03:23",
-      "versionDescription": "The ultimate card game with friends is back with a bang, people! EXPLODING KITTENS\u00ae 2 has it all \u2013 customisable avatars, emojis, oodles of game modes and cards full of quirky humour and animations sleeker than an oiled kitty with catnip-fuelled zoomies!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1218",
-      "formatedsize": "312.3 MB",
-      "size": 327470284
-    },
-    {
-      "name": "20 Minutes Till Dawn:Premium",
-      "bundleIdentifier": "com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.ios",
-      "developerName": "Erabit Studios",
-      "subtitle": "Survive the onslaught of an endless horde of monsters for 20 minutes!\r\n\r\n20 Minutes Till Dawn is a roguelike, shoot'em up where you mow down endless hordes of monstrous baddies.",
-      "localizedDescription": "Survive the onslaught of an endless horde of monsters for 20 minutes!\r\n\r\n20 Minutes Till Dawn is a roguelike, shoot'em up where you mow down endless hordes of monstrous baddies.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.ios\n\n Downloads: 210\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735163038.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351630376793918010.webp",
-        "https://apps.nabzclan.vip/screenshots/17351630377434788163.webp",
-        "https://apps.nabzclan.vip/screenshots/17351630378347644406.webp",
-        "https://apps.nabzclan.vip/screenshots/17351630378772364779.webp",
-        "https://apps.nabzclan.vip/screenshots/17351630379112275637.webp",
-        "https://apps.nabzclan.vip/screenshots/17351630379742433211.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.4",
-          "date": "2025-02-21 15:58:52",
-          "localizedDescription": "Current of 20 Minutes Till Dawn:Premium - 5.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1217",
-          "size": 61341696
-        },
-        {
-          "version": "5.2.b676",
-          "date": "2024-12-25 16:43:58",
-          "localizedDescription": "Old Version of 20 Minutes Till Dawn:Premium - 5.2.b676",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1137",
-          "size": 61551411
-        },
-        {
-          "version": "5.4",
-          "date": "2025-02-21 15:58:52",
-          "localizedDescription": "Old Version of 20 Minutes Till Dawn:Premium - 5.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1217",
-          "size": 61341696
-        }
-      ],
-      "version": "5.4",
-      "versionDate": "2025-02-21 15:58:52",
-      "versionDescription": "Survive the onslaught of an endless horde of monsters for 20 minutes!\r\n\r\n20 Minutes Till Dawn is a roguelike, shoot'em up where you mow down endless hordes of monstrous baddies.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1217",
-      "formatedsize": "58.5 MB",
-      "size": 61341696
-    },
-    {
-      "name": "YouCut - AI Video Editor (Hack)",
-      "bundleIdentifier": "com.shantanu.YouCut",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: com.shantanu.YouCut\n\n Downloads: 561\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740169429.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17401694285127675128.webp",
-        "https://apps.nabzclan.vip/screenshots/17401694286598178821.webp",
-        "https://apps.nabzclan.vip/screenshots/17401694287342430578.webp",
-        "https://apps.nabzclan.vip/screenshots/17401694288858463694.webp",
-        "https://apps.nabzclan.vip/screenshots/17401694290614621465.webp",
-        "https://apps.nabzclan.vip/screenshots/17401694292225772404.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.23.0",
-          "date": "2025-02-21 15:23:49",
-          "localizedDescription": "Current of YouCut - AI Video Editor (Hack) - 1.23.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1214",
-          "size": 156688711
-        },
-        {
-          "version": "1.23.0",
-          "date": "2025-02-21 15:23:49",
-          "localizedDescription": "Old Version of YouCut - AI Video Editor (Hack) - 1.23.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1214",
-          "size": 156688711
-        }
-      ],
-      "version": "1.23.0",
-      "versionDate": "2025-02-21 15:23:49",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1214",
-      "formatedsize": "149.43 MB",
-      "size": 156688711
-    },
-    {
-      "name": "Terraforming Mars",
-      "bundleIdentifier": "com.asmodee-digital.terraformingmars",
-      "developerName": "TWIN SAILS INTERACTIVE",
-      "subtitle": "App Features:\r\n- free paid app\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps for free in app purchases:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "App Features:\r\n- free paid app\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps for free in app purchases:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Free Paid Apps, Tweaked Game\n\n BundleID: com.asmodee-digital.terraformingmars\n\n Downloads: 156\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1740075962.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17400759619158738210.webp",
-        "https://apps.nabzclan.vip/screenshots/17400759620005971939.webp",
-        "https://apps.nabzclan.vip/screenshots/17400759620567219388.webp",
-        "https://apps.nabzclan.vip/screenshots/17400759621227131196.webp",
-        "https://apps.nabzclan.vip/screenshots/17400759621764600842.webp",
-        "https://apps.nabzclan.vip/screenshots/17400759622077584089.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.8.0",
-          "date": "2025-02-20 13:26:02",
-          "localizedDescription": "Current of Terraforming Mars - 2.8.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1207",
-          "size": 133976555
-        },
-        {
-          "version": "2.8.0",
-          "date": "2025-02-20 13:26:02",
-          "localizedDescription": "Old Version of Terraforming Mars - 2.8.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1207",
-          "size": 133976555
-        }
-      ],
-      "version": "2.8.0",
-      "versionDate": "2025-02-20 13:26:02",
-      "versionDescription": "App Features:\r\n- free paid app\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps for free in app purchases:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1207",
-      "formatedsize": "127.77 MB",
-      "size": 133976555
-    },
-    {
-      "name": "Le Havre (The Harbor)",
-      "bundleIdentifier": "ca.codito.LeHavre",
-      "developerName": "Codito Development Inc.",
-      "subtitle": "Uwe Rosenberg is an award-winning German game designer. He is well known for the development of innovative card game mechanisms. He also designed Agricola, a game that dethroned Puerto Rico as the highest rated game on BoardGameGeek.com. Le Havre is a successor to that game, and the second in Rosenberg's series of economic-themed building games.\r\n\r\nSage Board Games is an independent software developer, focusing on bringing award winning and classic board games to mobile devices. With a veritable \u201cwho\u2019s who\u201d of Euro games already licensed, Sage Board Games is poised to become the premier source of board games for iPad, iPhone and iPod Touch.",
-      "localizedDescription": "Uwe Rosenberg is an award-winning German game designer. He is well known for the development of innovative card game mechanisms. He also designed Agricola, a game that dethroned Puerto Rico as the highest rated game on BoardGameGeek.com. Le Havre is a successor to that game, and the second in Rosenberg's series of economic-themed building games.\r\n\r\nSage Board Games is an independent software developer, focusing on bringing award winning and classic board games to mobile devices. With a veritable \u201cwho\u2019s who\u201d of Euro games already licensed, Sage Board Games is poised to become the premier source of board games for iPad, iPhone and iPod Touch.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: ca.codito.LeHavre\n\n Downloads: 68\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1738803907.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17388039074149011221.webp",
-        "https://apps.nabzclan.vip/screenshots/17388039075626997547.webp",
-        "https://apps.nabzclan.vip/screenshots/17388039076617737526.webp",
-        "https://apps.nabzclan.vip/screenshots/17388039077707109587.webp",
-        "https://apps.nabzclan.vip/screenshots/17388039078165025184.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.5",
-          "date": "2025-02-05 20:05:08",
-          "localizedDescription": "Current of Le Havre (The Harbor) - 2.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1206",
-          "size": 189330882
-        },
-        {
-          "version": "2.5",
-          "date": "2025-02-05 20:05:08",
-          "localizedDescription": "Old Version of Le Havre (The Harbor) - 2.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1206",
-          "size": 189330882
-        }
-      ],
-      "version": "2.5",
-      "versionDate": "2025-02-05 20:05:08",
-      "versionDescription": "Uwe Rosenberg is an award-winning German game designer. He is well known for the development of innovative card game mechanisms. He also designed Agricola, a game that dethroned Puerto Rico as the highest rated game on BoardGameGeek.com. Le Havre is a successor to that game, and the second in Rosenberg's series of economic-themed building games.\r\n\r\nSage Board Games is an independent software developer, focusing on bringing award winning and classic board games to mobile devices. With a veritable \u201cwho\u2019s who\u201d of Euro games already licensed, Sage Board Games is poised to become the premier source of board games for iPad, iPhone and iPod Touch.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1206",
-      "formatedsize": "180.56 MB",
-      "size": 189330882
-    },
-    {
-      "name": "Railways!",
-      "bundleIdentifier": "com.infinitygames.railways",
-      "developerName": "INFINITY GAMES, LDA",
-      "subtitle": "Do you have a refined taste for games? \r\nAre you searching for the ultimate immersive experience in mobile games?\r\nWhy do you pour the milk before the cereal? Ouch, wrong chat.",
-      "localizedDescription": "Do you have a refined taste for games? \r\nAre you searching for the ultimate immersive experience in mobile games?\r\nWhy do you pour the milk before the cereal? Ouch, wrong chat.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.infinitygames.railways\n\n Downloads: 163\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1738803408.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17388034068118248312.webp",
-        "https://apps.nabzclan.vip/screenshots/17388034068801927726.webp",
-        "https://apps.nabzclan.vip/screenshots/17388034070092164959.webp",
-        "https://apps.nabzclan.vip/screenshots/17388034077911419685.webp",
-        "https://apps.nabzclan.vip/screenshots/17388034081088299295.webp",
-        "https://apps.nabzclan.vip/screenshots/17388034082586249433.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.4.8",
-          "date": "2025-02-05 19:56:48",
-          "localizedDescription": "Current of Railways! - 2.4.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1205",
-          "size": 82785075
-        },
-        {
-          "version": "2.4.8",
-          "date": "2025-02-05 19:56:48",
-          "localizedDescription": "Old Version of Railways! - 2.4.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1205",
-          "size": 82785075
-        }
-      ],
-      "version": "2.4.8",
-      "versionDate": "2025-02-05 19:56:48",
-      "versionDescription": "Do you have a refined taste for games? \r\nAre you searching for the ultimate immersive experience in mobile games?\r\nWhy do you pour the milk before the cereal? Ouch, wrong chat.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1205",
-      "formatedsize": "78.95 MB",
-      "size": 82785075
-    },
-    {
-      "name": "Super Hexagon",
-      "bundleIdentifier": "com.distractionware.superhexagon",
-      "developerName": "Distractionware Limited",
-      "subtitle": "Super Hexagon is a minimal action game by Terry Cavanagh, with music by Chipzel.\r\n\r\nSuper Hexagon was a best of 2012 runner up for game of the year on the app store.\r\n\r\n\"A masterpiece of design purity\" - EDGE 9/10\r\n\r\n\"This is the kind of game you\u2019re going to pass off to your friends and say, \u201cYou\u2019ve gotta check this out.\u201d It\u2019s dangerously addictive.\" - IGN 9/10\r\n\r\n\"One of the best mobile gaming experiences I've had this year.\" - Destructoid, 10/10\r\n\r\n\"Knows exactly what type of game it wants to be and executes on it spectacularly. Merciless difficulty meets brilliant design.\" - Gamezebo, 5/5",
-      "localizedDescription": "Super Hexagon is a minimal action game by Terry Cavanagh, with music by Chipzel.\r\n\r\nSuper Hexagon was a best of 2012 runner up for game of the year on the app store.\r\n\r\n\"A masterpiece of design purity\" - EDGE 9/10\r\n\r\n\"This is the kind of game you\u2019re going to pass off to your friends and say, \u201cYou\u2019ve gotta check this out.\u201d It\u2019s dangerously addictive.\" - IGN 9/10\r\n\r\n\"One of the best mobile gaming experiences I've had this year.\" - Destructoid, 10/10\r\n\r\n\"Knows exactly what type of game it wants to be and executes on it spectacularly. Merciless difficulty meets brilliant design.\" - Gamezebo, 5/5\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.distractionware.superhexagon\n\n Downloads: 222\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1738802828.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17388028278141983836.webp",
-        "https://apps.nabzclan.vip/screenshots/17388028278921777834.webp",
-        "https://apps.nabzclan.vip/screenshots/17388028279949174676.webp",
-        "https://apps.nabzclan.vip/screenshots/17388028281891715073.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.0.2",
-          "date": "2025-02-05 19:47:08",
-          "localizedDescription": "Current of Super Hexagon - 3.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1203",
-          "size": 29297213
-        },
-        {
-          "version": "3.0.2",
-          "date": "2025-02-05 19:47:08",
-          "localizedDescription": "Old Version of Super Hexagon - 3.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1203",
-          "size": 29297213
-        }
-      ],
-      "version": "3.0.2",
-      "versionDate": "2025-02-05 19:47:08",
-      "versionDescription": "Super Hexagon is a minimal action game by Terry Cavanagh, with music by Chipzel.\r\n\r\nSuper Hexagon was a best of 2012 runner up for game of the year on the app store.\r\n\r\n\"A masterpiece of design purity\" - EDGE 9/10\r\n\r\n\"This is the kind of game you\u2019re going to pass off to your friends and say, \u201cYou\u2019ve gotta check this out.\u201d It\u2019s dangerously addictive.\" - IGN 9/10\r\n\r\n\"One of the best mobile gaming experiences I've had this year.\" - Destructoid, 10/10\r\n\r\n\"Knows exactly what type of game it wants to be and executes on it spectacularly. Merciless difficulty meets brilliant design.\" - Gamezebo, 5/5",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1203",
-      "formatedsize": "27.94 MB",
-      "size": 29297213
-    },
-    {
-      "name": "Incredibox (Hack)",
-      "bundleIdentifier": "com.sofarsogood.incredibox",
-      "developerName": "Nabzclan",
-      "subtitle": "Features:\r\n- everything unlocked",
-      "localizedDescription": "Features:\r\n- everything unlocked\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps, Tweaked Game\n\n BundleID: com.sofarsogood.incredibox\n\n Downloads: 1996\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731390876.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17313908761475467550.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908762629646894.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908763516591047.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908764368595232.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908764917045065.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908765809414902.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.6",
-          "date": "2025-02-05 17:40:29",
-          "localizedDescription": "Current of Incredibox (Hack) - 1.2.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/996",
-          "size": 145846435
-        },
-        {
-          "version": "1.2.6",
-          "date": "2025-02-05 17:40:29",
-          "localizedDescription": "Old Version of Incredibox (Hack) - 1.2.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/996",
-          "size": 145846435
-        }
-      ],
-      "version": "1.2.6",
-      "versionDate": "2025-02-05 17:40:29",
-      "versionDescription": "Features:\r\n- everything unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/996",
-      "formatedsize": "139.09 MB",
-      "size": 145846435
-    },
-    {
-      "name": "Esign",
-      "bundleIdentifier": "p3.xyz.yyyue.esign",
-      "developerName": "yyyue team",
-      "subtitle": "WARNING! This app sends analytics with your identifiers to servers located in China!\r\n\r\nExamine this service's terms of service carefully!\r\n\r\nEasy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
-      "localizedDescription": "WARNING! This app sends analytics with your identifiers to servers located in China!\r\n\r\nExamine this service's terms of service carefully!\r\n\r\nEasy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: p3.xyz.yyyue.esign\n\n Downloads: 13759\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1687264217.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17058254538929219.webp",
-        "https://apps.nabzclan.vip/screenshots/17058254649865646.webp",
-        "https://apps.nabzclan.vip/screenshots/17058254706425812.webp",
-        "https://apps.nabzclan.vip/screenshots/17058254766971816.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.0.2",
-          "date": "2025-02-05 17:38:52",
-          "localizedDescription": "Current of Esign - 5.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/382",
-          "size": 7518289
-        },
-        {
-          "version": "5.0.2",
-          "date": "2025-02-05 17:38:52",
-          "localizedDescription": "Old Version of Esign - 5.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/382",
-          "size": 7518289
-        }
-      ],
-      "version": "5.0.2",
-      "versionDate": "2025-02-05 17:38:52",
-      "versionDescription": "WARNING! This app sends analytics with your identifiers to servers located in China!\r\n\r\nExamine this service's terms of service carefully!\r\n\r\nEasy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/382",
-      "formatedsize": "7.17 MB",
-      "size": 7518289
-    },
-    {
-      "name": "Gamma AI (Hack)",
-      "bundleIdentifier": "com.gemini.ai.chatbot",
-      "developerName": "Unknown",
-      "subtitle": "Features Hack:\r\n-Cracked Premium  \r\n\r\nSteps:\r\n- close the window - there is a cross at the top right then tap restore purchases",
-      "localizedDescription": "Features Hack:\r\n-Cracked Premium  \r\n\r\nSteps:\r\n- close the window - there is a cross at the top right then tap restore purchases\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.gemini.ai.chatbot\n\n Downloads: 646\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1734280124.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342801239294724601.webp",
-        "https://apps.nabzclan.vip/screenshots/17342801240515521113.webp",
-        "https://apps.nabzclan.vip/screenshots/17342801241354747102.webp",
-        "https://apps.nabzclan.vip/screenshots/17342801242063394616.webp",
-        "https://apps.nabzclan.vip/screenshots/17342801242767659933.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1.3",
-          "date": "2025-02-05 17:30:00",
-          "localizedDescription": "Current of Gamma AI (Hack) - 1.1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1195",
-          "size": 56245616
-        },
-        {
-          "version": "2.2",
-          "date": "2024-12-15 11:28:44",
-          "localizedDescription": "Old Version of Gamma AI (Hack) - 2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1103",
-          "size": 79251374
-        },
-        {
-          "version": "1.1.3",
-          "date": "2025-02-05 17:30:00",
-          "localizedDescription": "Old Version of Gamma AI (Hack) - 1.1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1195",
-          "size": 56245616
-        }
-      ],
-      "version": "1.1.3",
-      "versionDate": "2025-02-05 17:30:00",
-      "versionDescription": "Features Hack:\r\n-Cracked Premium  \r\n\r\nSteps:\r\n- close the window - there is a cross at the top right then tap restore purchases",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1195",
-      "formatedsize": "53.64 MB",
-      "size": 56245616
-    },
-    {
-      "name": "Cash App++",
-      "bundleIdentifier": "ivglitched.wizkid.appmonger.cashapp-ac2_cracked_nabzclan",
-      "developerName": "ivglitched",
-      "subtitle": "Cracked by nabzclan\r\n\r\nWarning:\r\n\r\n- prop only \r\n\r\n- some tabs on this app causes the app to crash (04/13/2025)\r\n\r\nFeatures:\r\n- add any amount of money\r\n- prank friends and family\r\n\r\nSteps:\r\nEnter anything on \"enter serial code\".\r\n\r\nVideo:\r\nhttps://youtube.com/shorts/uZZINuaIpD4\r\n\r\nCredits:\r\nNabzclan & ultik for helping",
-      "localizedDescription": "Cracked by nabzclan\r\n\r\nWarning:\r\n\r\n- prop only \r\n\r\n- some tabs on this app causes the app to crash (04/13/2025)\r\n\r\nFeatures:\r\n- add any amount of money\r\n- prank friends and family\r\n\r\nSteps:\r\nEnter anything on \"enter serial code\".\r\n\r\nVideo:\r\nhttps://youtube.com/shorts/uZZINuaIpD4\r\n\r\nCredits:\r\nNabzclan & ultik for helping\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: ivglitched.wizkid.appmonger.cashapp-ac2_cracked_nabzclan\n\n Downloads: 19407\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1690675155.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16906751706634939.webp",
-        "https://apps.nabzclan.vip/screenshots/16906751704846435.webp",
-        "https://apps.nabzclan.vip/screenshots/16906751718946506.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.5 recracked",
-          "date": "2025-02-02 12:59:45",
-          "localizedDescription": "Current of Cash App++ - 4.5 recracked",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/726",
-          "size": 16043212
-        },
-        {
-          "version": "4.5 recracked",
-          "date": "2025-02-02 12:59:45",
-          "localizedDescription": "Old Version of Cash App++ - 4.5 recracked",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/726",
-          "size": 16043212
-        }
-      ],
-      "version": "4.5 recracked",
-      "versionDate": "2025-02-02 12:59:45",
-      "versionDescription": "Cracked by nabzclan\r\n\r\nWarning:\r\n\r\n- prop only \r\n\r\n- some tabs on this app causes the app to crash (04/13/2025)\r\n\r\nFeatures:\r\n- add any amount of money\r\n- prank friends and family\r\n\r\nSteps:\r\nEnter anything on \"enter serial code\".\r\n\r\nVideo:\r\nhttps://youtube.com/shorts/uZZINuaIpD4\r\n\r\nCredits:\r\nNabzclan & ultik for helping",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/726",
-      "formatedsize": "15.3 MB",
-      "size": 16043212
-    },
-    {
-      "name": "Pocket City 2",
-      "bundleIdentifier": "com.codebrewgames.pocketcity2",
-      "developerName": "Codebrew Games Inc.",
-      "subtitle": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!",
-      "localizedDescription": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.codebrewgames.pocketcity2\n\n Downloads: 242\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1738519022.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17385190222952552899.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190223631168836.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190224113107020.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190224512202462.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190224998927889.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190225426334231.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.080",
-          "date": "2025-02-02 12:57:02",
-          "localizedDescription": "Current of Pocket City 2 - 1.080",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
-          "size": 145542348
-        },
-        {
-          "version": "1.080",
-          "date": "2025-02-02 12:57:02",
-          "localizedDescription": "Old Version of Pocket City 2 - 1.080",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
-          "size": 145542348
-        }
-      ],
-      "version": "1.080",
-      "versionDate": "2025-02-02 12:57:02",
-      "versionDescription": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
-      "formatedsize": "138.8 MB",
-      "size": 145542348
-    },
-    {
-      "name": "Black Border 2",
-      "bundleIdentifier": "com.bitzooma.blackborder2",
-      "developerName": "MONTE CERVINO LTD",
-      "subtitle": "Inspect papers, Prevent smuggling\u2014keep border safe or profit from corruption.\r\n\r\nExperience the thrill of frontline national security in Black Border 2: Border Patrol Simulator! Step into the shoes of a Border Police Officer where every decision matters. With stunning visuals and gripping gameplay, you're at the heart of the action.\r\n\r\nTake on the duty of protecting your country's borders from illegal smuggling. Inspect papers, scrutinize passports and permits, and decide who gets approval or rejection.  Use X-ray scanners, weigh vehicles, and deploy your loyal dog to sniff out hidden contraband.",
-      "localizedDescription": "Inspect papers, Prevent smuggling\u2014keep border safe or profit from corruption.\r\n\r\nExperience the thrill of frontline national security in Black Border 2: Border Patrol Simulator! Step into the shoes of a Border Police Officer where every decision matters. With stunning visuals and gripping gameplay, you're at the heart of the action.\r\n\r\nTake on the duty of protecting your country's borders from illegal smuggling. Inspect papers, scrutinize passports and permits, and decide who gets approval or rejection.  Use X-ray scanners, weigh vehicles, and deploy your loyal dog to sniff out hidden contraband.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.bitzooma.blackborder2\n\n Downloads: 290\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1738518860.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17385188597422759448.webp",
-        "https://apps.nabzclan.vip/screenshots/17385188598627205385.webp",
-        "https://apps.nabzclan.vip/screenshots/17385188599488658650.webp",
-        "https://apps.nabzclan.vip/screenshots/17385188600031484431.webp",
-        "https://apps.nabzclan.vip/screenshots/17385188601128794536.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.10",
-          "date": "2025-02-02 12:54:20",
-          "localizedDescription": "Current of Black Border 2 - 2.0.10",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1189",
-          "size": 111673344
-        },
-        {
-          "version": "2.0.10",
-          "date": "2025-02-02 12:54:20",
-          "localizedDescription": "Old Version of Black Border 2 - 2.0.10",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1189",
-          "size": 111673344
-        }
-      ],
-      "version": "2.0.10",
-      "versionDate": "2025-02-02 12:54:20",
-      "versionDescription": "Inspect papers, Prevent smuggling\u2014keep border safe or profit from corruption.\r\n\r\nExperience the thrill of frontline national security in Black Border 2: Border Patrol Simulator! Step into the shoes of a Border Police Officer where every decision matters. With stunning visuals and gripping gameplay, you're at the heart of the action.\r\n\r\nTake on the duty of protecting your country's borders from illegal smuggling. Inspect papers, scrutinize passports and permits, and decide who gets approval or rejection.  Use X-ray scanners, weigh vehicles, and deploy your loyal dog to sniff out hidden contraband.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1189",
-      "formatedsize": "106.5 MB",
-      "size": 111673344
-    },
-    {
-      "name": "Things 3",
-      "bundleIdentifier": "com.culturedcode.ThingsiPhone",
-      "developerName": "Cultured Code GmbH & Co. KG",
-      "subtitle": "Get things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.",
-      "localizedDescription": "Get things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.culturedcode.ThingsiPhone\n\n Downloads: 249\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1738518310.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17385183094496712525.webp",
-        "https://apps.nabzclan.vip/screenshots/17385183095259066185.webp",
-        "https://apps.nabzclan.vip/screenshots/17385183098069301798.webp",
-        "https://apps.nabzclan.vip/screenshots/17385183098548919063.webp",
-        "https://apps.nabzclan.vip/screenshots/17385183099041944607.webp",
-        "https://apps.nabzclan.vip/screenshots/17385183099565346695.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.21.7",
-          "date": "2025-02-02 12:45:10",
-          "localizedDescription": "Current of Things 3 - 3.21.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1187",
-          "size": 122609991
-        },
-        {
-          "version": "3.21.7",
-          "date": "2025-02-02 12:45:10",
-          "localizedDescription": "Old Version of Things 3 - 3.21.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1187",
-          "size": 122609991
-        }
-      ],
-      "version": "3.21.7",
-      "versionDate": "2025-02-02 12:45:10",
-      "versionDescription": "Get things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1187",
-      "formatedsize": "116.93 MB",
-      "size": 122609991
-    },
-    {
-      "name": "FL Studio Mobile (Hack)",
-      "bundleIdentifier": "com.imageline.FLStudioMobileHD",
-      "developerName": "Nabzclan",
-      "subtitle": "Extra Features:\r\n- In app purchase \r\n\r\n----\r\n\r\nCreate and save complete multi-track music projects on your iPad, iPhone or Mac. Record, sequence, edit, mix and render complete songs.",
-      "localizedDescription": "Extra Features:\r\n- In app purchase \r\n\r\n----\r\n\r\nCreate and save complete multi-track music projects on your iPad, iPhone or Mac. Record, sequence, edit, mix and render complete songs.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps, Tweaked Apps, Free in app purchases\n\n BundleID: com.imageline.FLStudioMobileHD\n\n Downloads: 1161\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730904033.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309040263475049023.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040273996038972.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040285398699451.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040296192473327.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040301232613143.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040315849275521.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.7.2",
-          "date": "2025-02-02 12:25:12",
-          "localizedDescription": "Current of FL Studio Mobile (Hack) - 4.7.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1184",
-          "size": 246729932
-        },
-        {
-          "version": "4.7.2",
-          "date": "2025-02-02 12:25:12",
-          "localizedDescription": "Old Version of FL Studio Mobile (Hack) - 4.7.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1184",
-          "size": 246729932
-        }
-      ],
-      "version": "4.7.2",
-      "versionDate": "2025-02-02 12:25:12",
-      "versionDescription": "Extra Features:\r\n- In app purchase \r\n\r\n----\r\n\r\nCreate and save complete multi-track music projects on your iPad, iPhone or Mac. Record, sequence, edit, mix and render complete songs.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1184",
-      "formatedsize": "235.3 MB",
-      "size": 246729932
-    },
-    {
-      "name": "Two Dots: Connect the dots (Hacked)",
-      "bundleIdentifier": "com.weplaydots.twodots",
-      "developerName": "BabylonIPA",
-      "subtitle": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives",
-      "localizedDescription": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.weplaydots.twodots\n\n Downloads: 266\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1736553738.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17365537378528485558.webp",
-        "https://apps.nabzclan.vip/screenshots/17365537379607436103.webp",
-        "https://apps.nabzclan.vip/screenshots/17365537380584840845.webp",
-        "https://apps.nabzclan.vip/screenshots/17365537381442767877.webp",
-        "https://apps.nabzclan.vip/screenshots/17365537382538982293.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "8.83.0",
-          "date": "2025-01-10 19:02:18",
-          "localizedDescription": "Current of Two Dots: Connect the dots (Hacked) - 8.83.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
-          "size": 178257920
-        },
-        {
-          "version": "8.83.0",
-          "date": "2025-01-10 19:02:18",
-          "localizedDescription": "Old Version of Two Dots: Connect the dots (Hacked) - 8.83.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
-          "size": 178257920
-        }
-      ],
-      "version": "8.83.0",
-      "versionDate": "2025-01-10 19:02:18",
-      "versionDescription": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
-      "formatedsize": "170 MB",
-      "size": 178257920
-    },
-    {
-      "name": "Mob Control - Hack",
-      "bundleIdentifier": "com.vincentb.MobControl",
-      "developerName": "BabyloniPA",
-      "subtitle": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked",
-      "localizedDescription": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.vincentb.MobControl\n\n Downloads: 2309\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725954738.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17260541021956710.webp",
-        "https://apps.nabzclan.vip/screenshots/17260541022077645.webp",
-        "https://apps.nabzclan.vip/screenshots/17260541032701695.webp",
-        "https://apps.nabzclan.vip/screenshots/17260541035293190.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.21.51",
-          "date": "2025-01-10 18:59:11",
-          "localizedDescription": "Current of Mob Control - Hack - 1.21.51",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
-          "size": 211288064
-        },
-        {
-          "version": "2.80.3",
-          "date": "2024-12-14 13:22:42",
-          "localizedDescription": "Old Version of Mob Control - Hack - 2.80.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1091",
-          "size": 209400627
-        },
-        {
-          "version": "1.21.51",
-          "date": "2025-01-10 18:59:11",
-          "localizedDescription": "Old Version of Mob Control - Hack - 1.21.51",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
-          "size": 211288064
-        }
-      ],
-      "version": "1.21.51",
-      "versionDate": "2025-01-10 18:59:11",
-      "versionDescription": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
-      "formatedsize": "201.5 MB",
-      "size": 211288064
-    },
-    {
-      "name": "Find Hidden Objects\u30fbHidmont II (Hack)",
-      "bundleIdentifier": "com.cleverside.hidden",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.cleverside.hidden\n\n Downloads: 110\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1736552573.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17365525727087885442.webp",
-        "https://apps.nabzclan.vip/screenshots/17365525729639685123.webp",
-        "https://apps.nabzclan.vip/screenshots/17365525732193923979.webp",
-        "https://apps.nabzclan.vip/screenshots/17365525734604900367.webp",
-        "https://apps.nabzclan.vip/screenshots/17365525736507359356.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.0",
-          "date": "2025-01-10 18:42:54",
-          "localizedDescription": "Current of Find Hidden Objects\u30fbHidmont II (Hack) - 1.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1180",
-          "size": 94896128
-        },
-        {
-          "version": "1.2.0",
-          "date": "2025-01-10 18:42:54",
-          "localizedDescription": "Old Version of Find Hidden Objects\u30fbHidmont II (Hack) - 1.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1180",
-          "size": 94896128
-        }
-      ],
-      "version": "1.2.0",
-      "versionDate": "2025-01-10 18:42:54",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1180",
-      "formatedsize": "90.5 MB",
-      "size": 94896128
-    },
-    {
-      "name": "Lined: Connect the Dot Game (Hack)",
-      "bundleIdentifier": "com.lemel.flow",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.lemel.flow\n\n Downloads: 125\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1736552258.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17365522585105580480.webp",
-        "https://apps.nabzclan.vip/screenshots/17365522586428718918.webp",
-        "https://apps.nabzclan.vip/screenshots/17365522587592603421.webp",
-        "https://apps.nabzclan.vip/screenshots/17365522588708245453.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1.0",
-          "date": "2025-01-10 18:37:39",
-          "localizedDescription": "Current of Lined: Connect the Dot Game (Hack) - 1.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1178",
-          "size": 57933824
-        },
-        {
-          "version": "1.1.0",
-          "date": "2025-01-10 18:37:39",
-          "localizedDescription": "Old Version of Lined: Connect the Dot Game (Hack) - 1.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1178",
-          "size": 57933824
-        }
-      ],
-      "version": "1.1.0",
-      "versionDate": "2025-01-10 18:37:39",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1178",
-      "formatedsize": "55.25 MB",
-      "size": 57933824
-    },
-    {
-      "name": "Root Board Game",
-      "bundleIdentifier": "com.direwolfdigital.root",
-      "developerName": "Dire Wolf Digital",
-      "subtitle": "The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance\u2019s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.",
-      "localizedDescription": "The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance\u2019s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Free Paid Apps, Tweaked Apps\n\n BundleID: com.direwolfdigital.root\n\n Downloads: 75\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1736551495.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17365514945194251919.webp",
-        "https://apps.nabzclan.vip/screenshots/17365514946434312860.webp",
-        "https://apps.nabzclan.vip/screenshots/17365514947148721824.webp",
-        "https://apps.nabzclan.vip/screenshots/17365514947898089812.webp",
-        "https://apps.nabzclan.vip/screenshots/17365514948844437598.webp",
-        "https://apps.nabzclan.vip/screenshots/17365514949852749326.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.31.5",
-          "date": "2025-01-10 18:24:55",
-          "localizedDescription": "Current of Root Board Game - 1.31.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1175",
-          "size": 340682342
-        },
-        {
-          "version": "1.31.5",
-          "date": "2025-01-10 18:24:55",
-          "localizedDescription": "Old Version of Root Board Game - 1.31.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1175",
-          "size": 340682342
-        }
-      ],
-      "version": "1.31.5",
-      "versionDate": "2025-01-10 18:24:55",
-      "versionDescription": "The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance\u2019s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1175",
-      "formatedsize": "324.9 MB",
-      "size": 340682342
-    },
-    {
-      "name": "Small World - The Board Game",
-      "bundleIdentifier": "com.daysofwonder.SmallWorld",
-      "developerName": "TWIN SAILS INTERACTIVE",
-      "subtitle": "CONTROL FANTASY RACES, SET OFF TO CONQUER NEW LANDS, OVERTHROW YOUR ENEMIES AND CLAIM THE VICTORY!\r\nIn this digital adaptation of the legendary board game, dive into a world inhabited by whimsical fantasy races.",
-      "localizedDescription": "CONTROL FANTASY RACES, SET OFF TO CONQUER NEW LANDS, OVERTHROW YOUR ENEMIES AND CLAIM THE VICTORY!\r\nIn this digital adaptation of the legendary board game, dive into a world inhabited by whimsical fantasy races.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.daysofwonder.SmallWorld\n\n Downloads: 109\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1735778725.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17357787237822679151.webp",
-        "https://apps.nabzclan.vip/screenshots/17357787239246354765.webp",
-        "https://apps.nabzclan.vip/screenshots/17357787240985693599.webp",
-        "https://apps.nabzclan.vip/screenshots/17357787242721629932.webp",
-        "https://apps.nabzclan.vip/screenshots/17357787248444585922.webp",
-        "https://apps.nabzclan.vip/screenshots/17357787255302715416.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.0.6",
-          "date": "2025-01-01 19:45:25",
-          "localizedDescription": "Current of Small World - The Board Game - 3.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1162",
-          "size": 416074956
-        },
-        {
-          "version": "3.0.6",
-          "date": "2025-01-01 19:45:25",
-          "localizedDescription": "Old Version of Small World - The Board Game - 3.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1162",
-          "size": 416074956
-        }
-      ],
-      "version": "3.0.6",
-      "versionDate": "2025-01-01 19:45:25",
-      "versionDescription": "CONTROL FANTASY RACES, SET OFF TO CONQUER NEW LANDS, OVERTHROW YOUR ENEMIES AND CLAIM THE VICTORY!\r\nIn this digital adaptation of the legendary board game, dive into a world inhabited by whimsical fantasy races.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1162",
-      "formatedsize": "396.8 MB",
-      "size": 416074956
-    },
-    {
-      "name": "Car Simulator Multiplayer 2024 (Hacked)",
-      "bundleIdentifier": "com.cargame2021.simulator",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.cargame2021.simulator\n\n Downloads: 1911\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731627348.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17316273472773746380.webp",
-        "https://apps.nabzclan.vip/screenshots/17316273475435724562.webp",
-        "https://apps.nabzclan.vip/screenshots/17316273477367139932.webp",
-        "https://apps.nabzclan.vip/screenshots/17316273479353048627.webp",
-        "https://apps.nabzclan.vip/screenshots/17316273480729827676.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.23",
-          "date": "2025-01-01 19:37:45",
-          "localizedDescription": "Current of Car Simulator Multiplayer 2024 (Hacked) - 1.23",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1010",
-          "size": 91645542
-        },
-        {
-          "version": "1.23",
-          "date": "2025-01-01 19:37:45",
-          "localizedDescription": "Old Version of Car Simulator Multiplayer 2024 (Hacked) - 1.23",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1010",
-          "size": 91645542
-        }
-      ],
-      "version": "1.23",
-      "versionDate": "2025-01-01 19:37:45",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1010",
-      "formatedsize": "87.4 MB",
-      "size": 91645542
-    },
-    {
-      "name": "Halls of Torment: Premium",
-      "bundleIdentifier": "com.halls.of.torment.paid.ios",
-      "developerName": "Erabit Studios",
-      "subtitle": "Halls of Torment is a horde survival game with a pre-rendered retro look reminiscent of RPGs from the late 90s. Choose one of many hero characters and descend into the deadly Halls of Torment. Fight unholy horrors from beyond and survive wave after wave of enemies until you face one of the tormented Lords.",
-      "localizedDescription": "Halls of Torment is a horde survival game with a pre-rendered retro look reminiscent of RPGs from the late 90s. Choose one of many hero characters and descend into the deadly Halls of Torment. Fight unholy horrors from beyond and survive wave after wave of enemies until you face one of the tormented Lords.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.halls.of.torment.paid.ios\n\n Downloads: 180\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735777758.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17357777581626869413.webp",
-        "https://apps.nabzclan.vip/screenshots/17357777583115223561.webp",
-        "https://apps.nabzclan.vip/screenshots/17357777584499167565.webp",
-        "https://apps.nabzclan.vip/screenshots/17357777585465774902.webp",
-        "https://apps.nabzclan.vip/screenshots/17357777586065731133.webp",
-        "https://apps.nabzclan.vip/screenshots/17357777586712764216.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1.125",
-          "date": "2025-01-01 19:29:18",
-          "localizedDescription": "Current of Halls of Torment: Premium - 1.1.125",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1158",
-          "size": 301465600
-        },
-        {
-          "version": "1.1.125",
-          "date": "2025-01-01 19:29:18",
-          "localizedDescription": "Old Version of Halls of Torment: Premium - 1.1.125",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1158",
-          "size": 301465600
-        }
-      ],
-      "version": "1.1.125",
-      "versionDate": "2025-01-01 19:29:18",
-      "versionDescription": "Halls of Torment is a horde survival game with a pre-rendered retro look reminiscent of RPGs from the late 90s. Choose one of many hero characters and descend into the deadly Halls of Torment. Fight unholy horrors from beyond and survive wave after wave of enemies until you face one of the tormented Lords.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1158",
-      "formatedsize": "287.5 MB",
-      "size": 301465600
-    },
-    {
-      "name": "Hoplite",
-      "bundleIdentifier": "com.magmafortress.hoplite",
-      "developerName": "Douglas Cowley",
-      "subtitle": "\"Blanket recommendation for this one.\" - Pocket Tactics (5 stars)\r\n\r\n\"It's very simple to learn, but there's a huge amount of depth to the game\" - Touch Arcade (5 stars)\r\n\r\n\r\nHoplite is a turn-based strategy game focusing on tactical movement around small maps.\r\n\r\nThis game is designed to be hard, yet fair.  You'll need to think before you act if you hope to win.  Every move counts!",
-      "localizedDescription": "\"Blanket recommendation for this one.\" - Pocket Tactics (5 stars)\r\n\r\n\"It's very simple to learn, but there's a huge amount of depth to the game\" - Touch Arcade (5 stars)\r\n\r\n\r\nHoplite is a turn-based strategy game focusing on tactical movement around small maps.\r\n\r\nThis game is designed to be hard, yet fair.  You'll need to think before you act if you hope to win.  Every move counts!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.magmafortress.hoplite\n\n Downloads: 151\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735776275.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17357762754279094839.webp",
-        "https://apps.nabzclan.vip/screenshots/17357762756399111080.webp",
-        "https://apps.nabzclan.vip/screenshots/17357762758146080414.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.8.39",
-          "date": "2025-01-01 19:04:36",
-          "localizedDescription": "Current of Hoplite - 2.8.39",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1154",
-          "size": 15309209
-        },
-        {
-          "version": "2.8.39",
-          "date": "2025-01-01 19:04:36",
-          "localizedDescription": "Old Version of Hoplite - 2.8.39",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1154",
-          "size": 15309209
-        }
-      ],
-      "version": "2.8.39",
-      "versionDate": "2025-01-01 19:04:36",
-      "versionDescription": "\"Blanket recommendation for this one.\" - Pocket Tactics (5 stars)\r\n\r\n\"It's very simple to learn, but there's a huge amount of depth to the game\" - Touch Arcade (5 stars)\r\n\r\n\r\nHoplite is a turn-based strategy game focusing on tactical movement around small maps.\r\n\r\nThis game is designed to be hard, yet fair.  You'll need to think before you act if you hope to win.  Every move counts!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1154",
-      "formatedsize": "14.6 MB",
-      "size": 15309209
-    },
-    {
-      "name": "Radiation Island",
-      "bundleIdentifier": "com.atypicalgames.radiationisland",
-      "developerName": "Atypical Games",
-      "subtitle": "Radiation Island is a survival adventure game where you craft your own destiny in a huge open world environment. As part of the Philadelphia Experiment you have become stranded in a parallel, alternate reality. Discover this new and mysterious world, with all its surprises. Use everything you find to survive it and solve its puzzle to get back to the real world.",
-      "localizedDescription": "Radiation Island is a survival adventure game where you craft your own destiny in a huge open world environment. As part of the Philadelphia Experiment you have become stranded in a parallel, alternate reality. Discover this new and mysterious world, with all its surprises. Use everything you find to survive it and solve its puzzle to get back to the real world.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.atypicalgames.radiationisland\n\n Downloads: 188\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1735772336.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17357723357878799603.webp",
-        "https://apps.nabzclan.vip/screenshots/17357723359258550838.webp",
-        "https://apps.nabzclan.vip/screenshots/17357723360706171072.webp",
-        "https://apps.nabzclan.vip/screenshots/17357723361641833790.webp",
-        "https://apps.nabzclan.vip/screenshots/17357723363106094032.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.12",
-          "date": "2025-01-01 17:58:56",
-          "localizedDescription": "Current of Radiation Island - 1.0.12",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1150",
-          "size": 843369676
-        },
-        {
-          "version": "1.0.12",
-          "date": "2025-01-01 17:58:56",
-          "localizedDescription": "Old Version of Radiation Island - 1.0.12",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1150",
-          "size": 843369676
-        }
-      ],
-      "version": "1.0.12",
-      "versionDate": "2025-01-01 17:58:56",
-      "versionDescription": "Radiation Island is a survival adventure game where you craft your own destiny in a huge open world environment. As part of the Philadelphia Experiment you have become stranded in a parallel, alternate reality. Discover this new and mysterious world, with all its surprises. Use everything you find to survive it and solve its puzzle to get back to the real world.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1150",
-      "formatedsize": "804.3 MB",
-      "size": 843369676
-    },
-    {
-      "name": "Hitman Sniper",
-      "bundleIdentifier": "com.squareenixmontreal.hitmansniper",
-      "developerName": "Deca Live Operations GmbH",
-      "subtitle": "BECOME THE ULTIMATE SILENT ASSASSIN\r\nStep into the shoes of Agent 47 in Hitman: Sniper and discover the most compelling sniper experience on mobile.\r\nHitman: Sniper is memory intensive. Devices such as iPad 2, iPad Mini, iPhone 4S and iPod Touch 5th Generation will suffer from occasional dips in performance and will not support Everyplay.",
-      "localizedDescription": "BECOME THE ULTIMATE SILENT ASSASSIN\r\nStep into the shoes of Agent 47 in Hitman: Sniper and discover the most compelling sniper experience on mobile.\r\nHitman: Sniper is memory intensive. Devices such as iPad 2, iPad Mini, iPhone 4S and iPod Touch 5th Generation will suffer from occasional dips in performance and will not support Everyplay.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.squareenixmontreal.hitmansniper\n\n Downloads: 1417\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735166061.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351660616446827130.webp",
-        "https://apps.nabzclan.vip/screenshots/17351660617091326224.webp",
-        "https://apps.nabzclan.vip/screenshots/17351660617607336538.webp",
-        "https://apps.nabzclan.vip/screenshots/17351660618042640460.webp",
-        "https://apps.nabzclan.vip/screenshots/17351660618769345703.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.12",
-          "date": "2024-12-25 17:34:22",
-          "localizedDescription": "Current of Hitman Sniper - 1.12",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1149",
-          "size": 667733196
-        },
-        {
-          "version": "1.12",
-          "date": "2024-12-25 17:34:22",
-          "localizedDescription": "Old Version of Hitman Sniper - 1.12",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1149",
-          "size": 667733196
-        }
-      ],
-      "version": "1.12",
-      "versionDate": "2024-12-25 17:34:22",
-      "versionDescription": "BECOME THE ULTIMATE SILENT ASSASSIN\r\nStep into the shoes of Agent 47 in Hitman: Sniper and discover the most compelling sniper experience on mobile.\r\nHitman: Sniper is memory intensive. Devices such as iPad 2, iPad Mini, iPhone 4S and iPod Touch 5th Generation will suffer from occasional dips in performance and will not support Everyplay.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1149",
-      "formatedsize": "636.8 MB",
-      "size": 667733196
-    },
-    {
-      "name": "MiniGames - Watch Games Arcade",
-      "bundleIdentifier": "com.alhogames.Twisted",
-      "developerName": "AlhoGames",
-      "subtitle": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\r\nIt's like your own personal games arcade on the go.",
-      "localizedDescription": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\r\nIt's like your own personal games arcade on the go.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.alhogames.Twisted\n\n Downloads: 693\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735165796.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351657960145108316.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657961352193566.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657962143959676.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657963248891583.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657964499176751.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657965423718623.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.22.11",
-          "date": "2024-12-25 17:29:56",
-          "localizedDescription": "Current of MiniGames - Watch Games Arcade - 1.22.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1148",
-          "size": 36050042
-        },
-        {
-          "version": "1.22.11",
-          "date": "2024-12-25 17:29:56",
-          "localizedDescription": "Old Version of MiniGames - Watch Games Arcade - 1.22.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1148",
-          "size": 36050042
-        }
-      ],
-      "version": "1.22.11",
-      "versionDate": "2024-12-25 17:29:56",
-      "versionDescription": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\r\nIt's like your own personal games arcade on the go.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1148",
-      "formatedsize": "34.38 MB",
-      "size": 36050042
-    },
-    {
-      "name": "Isoland : Pumpkin town",
-      "bundleIdentifier": "com.redfishgame.isolandEN",
-      "developerName": "COTTONGAME Network Technology Co., Ltd.",
-      "subtitle": "Appearing deceptively peaceful to the casual passerby, a mysterious island exists in the far reaches of the Atlantic Ocean. The inhabitants know not how they got there or why they stay; all they\u2019re sure of is that the place in which they are trapped is called Isoland.",
-      "localizedDescription": "Appearing deceptively peaceful to the casual passerby, a mysterious island exists in the far reaches of the Atlantic Ocean. The inhabitants know not how they got there or why they stay; all they\u2019re sure of is that the place in which they are trapped is called Isoland.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.redfishgame.isolandEN\n\n Downloads: 150\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1735165584.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351655834922222082.webp",
-        "https://apps.nabzclan.vip/screenshots/17351655835955577234.webp",
-        "https://apps.nabzclan.vip/screenshots/17351655837259940886.webp",
-        "https://apps.nabzclan.vip/screenshots/17351655838855050247.webp",
-        "https://apps.nabzclan.vip/screenshots/17351655839898959455.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.3.0",
-          "date": "2024-12-25 17:26:24",
-          "localizedDescription": "Current of Isoland : Pumpkin town - 2.3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1147",
-          "size": 251448524
-        },
-        {
-          "version": "2.3.0",
-          "date": "2024-12-25 17:26:24",
-          "localizedDescription": "Old Version of Isoland : Pumpkin town - 2.3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1147",
-          "size": 251448524
-        }
-      ],
-      "version": "2.3.0",
-      "versionDate": "2024-12-25 17:26:24",
-      "versionDescription": "Appearing deceptively peaceful to the casual passerby, a mysterious island exists in the far reaches of the Atlantic Ocean. The inhabitants know not how they got there or why they stay; all they\u2019re sure of is that the place in which they are trapped is called Isoland.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1147",
-      "formatedsize": "239.8 MB",
-      "size": 251448524
     }
   ],
   "userInfo": {}
