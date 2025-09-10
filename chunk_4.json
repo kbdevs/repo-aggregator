@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Mockup",
+      "type": 1,
+      "bundleID": "com.hasankassem.mockup",
+      "bundleIdentifier": "com.hasankassem.mockup",
+      "version": "3.16.1",
+      "versionDate": "2025-08-04",
+      "fullDate": "20250804113227",
+      "size": 27943185,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/Mockup_3.16.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/Mockup_3.16.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png"
+    },
+    {
+      "name": "PeakVisor",
+      "type": 1,
+      "bundleID": "ru.routes.peakvisor",
+      "bundleIdentifier": "ru.routes.peakvisor",
+      "version": "5.65",
+      "versionDate": "2025-08-04",
+      "fullDate": "20250804113222",
+      "size": 111099948,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/PeakVisor_5.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/PeakVisor_5.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+    },
+    {
       "name": "OfflineMusic",
       "type": 1,
       "bundleID": "com.offlinemusic",
@@ -338,22 +370,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
-    },
-    {
-      "name": "Wallcraft",
-      "type": 1,
-      "bundleID": "com.wallpaperscraft.wallpapers",
-      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
-      "version": "3.27",
-      "versionDate": "2025-07-23",
-      "fullDate": "20250723141049",
-      "size": 91693250,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Wallcraft_3.27_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Wallcraft_3.27_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
     },
     {
       "name": "Reels",
@@ -834,22 +850,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png"
-    },
-    {
-      "name": "Buddy",
-      "type": 1,
-      "bundleID": "com.iPwners.Plonkan",
-      "bundleIdentifier": "com.iPwners.Plonkan",
-      "version": "12.62",
-      "versionDate": "2025-07-10",
-      "fullDate": "20250710095151",
-      "size": 68165724,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Buddy_12.62_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Buddy_12.62_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png"
     },
     {
       "name": "AITattoo",
