@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "LiveWallpapersFree",
+      "type": 1,
+      "bundleID": "com.apalonapps.livewallpapersfree",
+      "bundleIdentifier": "com.apalonapps.livewallpapersfree",
+      "version": "2.42.32",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704140309",
+      "size": 144344174,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/LiveWallpapersFree_2.42.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/LiveWallpapersFree_2.42.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
+    },
+    {
       "name": "ReceiptLens",
       "type": 1,
       "bundleID": "com.glority.receipt",
@@ -1906,22 +1922,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raftsurvival.raft.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raftsurvival.raft.png"
-    },
-    {
-      "name": "TideGuide",
-      "type": 1,
-      "bundleID": "com.condor.digital.Tide-Over",
-      "bundleIdentifier": "com.condor.digital.Tide-Over",
-      "version": "6.40",
-      "versionDate": "2025-06-13",
-      "fullDate": "20250613170807",
-      "size": 117848383,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/TideGuide_6.40_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/TideGuide_6.40_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png"
     }
   ],
   "userInfo": {}

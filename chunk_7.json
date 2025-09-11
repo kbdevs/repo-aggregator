@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "DRIVE",
+      "type": 2,
+      "bundleID": "com.pixelperfectdude.htdrive",
+      "bundleIdentifier": "com.pixelperfectdude.htdrive",
+      "version": "3.1.344",
+      "versionDate": "2025-05-26",
+      "fullDate": "20250526171734",
+      "size": 255577925,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/DRIVE_3.1.344_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/DRIVE_3.1.344_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixelperfectdude.htdrive.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixelperfectdude.htdrive.png"
+    },
+    {
       "name": "Plusfinity",
       "type": 1,
       "bundleID": "com.infinitix.plusfinity",
@@ -322,22 +338,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unstuckstudy.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unstuckstudy.png"
-    },
-    {
-      "name": "Chatbot",
-      "type": 1,
-      "bundleID": "com.aichatbot.chatturbo.ios",
-      "bundleIdentifier": "com.aichatbot.chatturbo.ios",
-      "version": "1.2.1",
-      "versionDate": "2025-05-19",
-      "fullDate": "20250519193047",
-      "size": 39899317,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Chatbot_1.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Chatbot_1.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.chatturbo.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.chatturbo.ios.png"
     },
     {
       "name": "ArcaneKnight",

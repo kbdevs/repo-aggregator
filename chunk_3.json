@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "SwitchingHeroes",
+      "type": 2,
+      "bundleID": "com.zilliongames.collectionidle",
+      "bundleIdentifier": "com.zilliongames.collectionidle",
+      "version": "2.90",
+      "versionDate": "2025-08-25",
+      "fullDate": "20250825211133",
+      "size": 197951586,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/SwitchingHeroes_2.90_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/SwitchingHeroes_2.90_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zilliongames.collectionidle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zilliongames.collectionidle.png"
+    },
+    {
+      "name": "TheBattleCats",
+      "type": 2,
+      "bundleID": "jp.co.ponos.battlecatsen",
+      "bundleIdentifier": "jp.co.ponos.battlecatsen",
+      "version": "14.5.1",
+      "versionDate": "2025-08-25",
+      "fullDate": "20250825211126",
+      "size": 174870604,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/TheBattleCats_14.5.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/TheBattleCats_14.5.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.ponos.battlecatsen.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.ponos.battlecatsen.png"
+    },
+    {
+      "name": "Gardenscapes",
+      "type": 2,
+      "bundleID": "com.playrix.gardenscapes-m3-ios",
+      "bundleIdentifier": "com.playrix.gardenscapes-m3-ios",
+      "version": "9.0.0",
+      "versionDate": "2025-08-25",
+      "fullDate": "20250825210617",
+      "size": 206954334,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Gardenscapes_9.0.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Gardenscapes_9.0.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-m3-ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-m3-ios.png"
+    },
+    {
+      "name": "Homescapes",
+      "type": 2,
+      "bundleID": "com.playrix.gardenscapes-sweethome",
+      "bundleIdentifier": "com.playrix.gardenscapes-sweethome",
+      "version": "8.2.1",
+      "versionDate": "2025-08-25",
+      "fullDate": "20250825210609",
+      "size": 198133336,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Homescapes_8.2.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Homescapes_8.2.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-sweethome.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-sweethome.png"
+    },
+    {
       "name": "RoyalMatch",
       "type": 2,
       "bundleID": "com.dreamgames.royalmatch",
@@ -178,22 +242,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png"
-    },
-    {
-      "name": "Temply",
-      "type": 1,
-      "bundleID": "com.templyvideo.Temply",
-      "bundleIdentifier": "com.templyvideo.Temply",
-      "version": "7.8.1",
-      "versionDate": "2025-08-25",
-      "fullDate": "20250825122516",
-      "size": 87307403,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Temply_7.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Temply_7.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png"
     },
     {
       "name": "CoinSnap",
@@ -1572,22 +1620,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.untitledinbrackets.untitled-ios.png"
     },
     {
-      "name": "Pixomatic",
-      "type": 1,
-      "bundleID": "us.pixomaticpro.PixomaticPro",
-      "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
-      "version": "2.55.34",
-      "versionDate": "2025-08-09",
-      "fullDate": "20250809031839",
-      "size": 177294916,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2025/Pixomatic_2.55.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2025/Pixomatic_2.55.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png"
-    },
-    {
       "name": "Minutes",
       "type": 1,
       "bundleID": "ventures.slam.minutes",
@@ -1828,22 +1860,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png"
     },
     {
-      "name": "PlanesLiveFree",
-      "type": 1,
-      "bundleID": "com.apalonapps.planesfree",
-      "bundleIdentifier": "com.apalonapps.planesfree",
-      "version": "3.10.49",
-      "versionDate": "2025-08-05",
-      "fullDate": "20250805135326",
-      "size": 132415898,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/PlanesLiveFree_3.10.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/PlanesLiveFree_3.10.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png"
-    },
-    {
       "name": "OurPact",
       "type": 1,
       "bundleID": "com.parentsware.ourpact",
@@ -1906,22 +1922,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png"
-    },
-    {
-      "name": "SkyGuide",
-      "type": 1,
-      "bundleID": "com.fifthstarlabs.skyguide",
-      "bundleIdentifier": "com.fifthstarlabs.skyguide",
-      "version": "11.1",
-      "versionDate": "2025-08-04",
-      "fullDate": "20250804113730",
-      "size": 261813069,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/SkyGuide_11.1_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/SkyGuide_11.1_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png"
     }
   ],
   "userInfo": {}
