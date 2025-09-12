@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "Limon",
+      "bundleIdentifier": "com.antique.Limon",
+      "version": "1.0.8.4",
+      "versionDate": "2024-10-09",
+      "size": 17299572,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Limon/Limon-1.0.8.4.ipa",
+      "developerName": "emuPlace",
+      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
+    },
+    {
+      "name": "LightleapPro",
+      "bundleIdentifier": "com.lightricks.Enlight-Photos",
+      "version": "1.9.20",
+      "versionDate": "2024-10-09",
+      "size": 247018582,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightleapPro/LightleapPro-1.9.20.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Enlight-Photos.png"
+    },
+    {
       "name": "KleinanzeigenPlus",
       "bundleIdentifier": "com.ebaykleinanzeigen.ebc",
       "version": "100.16.0",

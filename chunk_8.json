@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "FlexIptv",
+      "type": 1,
+      "bundleID": "com.funlabsoft.iptv",
+      "bundleIdentifier": "com.funlabsoft.iptv",
+      "version": "2.12",
+      "versionDate": "2025-01-25",
+      "fullDate": "20250125015840",
+      "size": 20163743,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/FlexIptv_2.12_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/FlexIptv_2.12_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png"
+    },
+    {
+      "name": "Carrot",
+      "type": 1,
+      "bundleID": "com.grailr.CARROTweather",
+      "bundleIdentifier": "com.grailr.CARROTweather",
+      "version": "6.2",
+      "versionDate": "2025-01-18",
+      "fullDate": "20250118110612",
+      "size": 246539271,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/Carrot_6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/Carrot_6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png"
+    },
+    {
       "name": "ShadowFight2",
       "type": 2,
       "bundleID": "com.nekki.shadowfight",
@@ -4272,77 +4304,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1016",
       "formatedsize": "62.8 MB",
       "size": 65850572
-    },
-    {
-      "name": "Def1nit3lyN0tAJa1lbr3akTool",
-      "bundleIdentifier": "com.pop.com",
-      "developerName": "KpwnZ",
-      "subtitle": "https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool",
-      "localizedDescription": "https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: com.pop.com\n\n Downloads: 861\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726476820.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.1",
-          "date": "2025-02-25 16:45:17",
-          "localizedDescription": "Current of Def1nit3lyN0tAJa1lbr3akTool - 1.0.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/547",
-          "size": 67528294
-        },
-        {
-          "version": "1.0.1",
-          "date": "2025-02-25 16:45:17",
-          "localizedDescription": "Old Version of Def1nit3lyN0tAJa1lbr3akTool - 1.0.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/547",
-          "size": 67528294
-        }
-      ],
-      "version": "1.0.1",
-      "versionDate": "2025-02-25 16:45:17",
-      "versionDescription": "https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/547",
-      "formatedsize": "64.4 MB",
-      "size": 67528294
-    },
-    {
-      "name": "Taurine",
-      "bundleIdentifier": "org.coolstar.taurine",
-      "developerName": "CoolStar",
-      "subtitle": "jailbreak for iOS 14.4 -> 14.8.1",
-      "localizedDescription": "jailbreak for iOS 14.4 -> 14.8.1\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: org.coolstar.taurine\n\n Downloads: 323\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1695109493.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16951096299636631.webp",
-        "https://apps.nabzclan.vip/screenshots/16951096296610795.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1.7-3",
-          "date": "2025-02-25 16:44:01",
-          "localizedDescription": "Current of Taurine - 1.1.7-3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/428",
-          "size": 32243712
-        },
-        {
-          "version": "1.1.7-3",
-          "date": "2025-02-25 16:44:01",
-          "localizedDescription": "Old Version of Taurine - 1.1.7-3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/428",
-          "size": 32243712
-        }
-      ],
-      "version": "1.1.7-3",
-      "versionDate": "2025-02-25 16:44:01",
-      "versionDescription": "jailbreak for iOS 14.4 -> 14.8.1",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/428",
-      "formatedsize": "30.75 MB",
-      "size": 32243712
     }
   ],
   "userInfo": {}

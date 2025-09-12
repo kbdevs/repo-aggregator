@@ -4,6 +4,85 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "The Walking Dead: Michonne (Hacked)",
+      "bundleIdentifier": "com.telltalegames.WDM100",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.telltalegames.WDM100\n\n Downloads: 256\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731098357.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310983561643340218.webp",
+        "https://apps.nabzclan.vip/screenshots/17310983564554951855.webp",
+        "https://apps.nabzclan.vip/screenshots/17310983566225962866.webp",
+        "https://apps.nabzclan.vip/screenshots/17310983570769624584.webp",
+        "https://apps.nabzclan.vip/screenshots/17310983573394190306.webp",
+        "https://apps.nabzclan.vip/screenshots/17310983576028533405.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2024-11-08 20:39:18",
+          "localizedDescription": "Current of The Walking Dead: Michonne (Hacked) - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/930",
+          "size": 833722777
+        },
+        {
+          "version": "1.2",
+          "date": "2024-11-08 20:39:18",
+          "localizedDescription": "Old Version of The Walking Dead: Michonne (Hacked) - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/930",
+          "size": 833722777
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2024-11-08 20:39:18",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/930",
+      "formatedsize": "795.1 MB",
+      "size": 833722777
+    },
+    {
+      "name": "Walking Dead: A New Frontier (Hacked)",
+      "bundleIdentifier": "com.telltalegames.WDS300",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.telltalegames.WDS300\n\n Downloads: 300\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731097859.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310978586691147481.webp",
+        "https://apps.nabzclan.vip/screenshots/17310978589543423555.webp",
+        "https://apps.nabzclan.vip/screenshots/17310978591973294166.webp",
+        "https://apps.nabzclan.vip/screenshots/17310978596069089294.webp",
+        "https://apps.nabzclan.vip/screenshots/17310978597029485233.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2024-11-08 20:31:00",
+          "localizedDescription": "Current of Walking Dead: A New Frontier (Hacked) - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/928",
+          "size": 986185728
+        },
+        {
+          "version": "1.2",
+          "date": "2024-11-08 20:31:00",
+          "localizedDescription": "Old Version of Walking Dead: A New Frontier (Hacked) - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/928",
+          "size": 986185728
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2024-11-08 20:31:00",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/928",
+      "formatedsize": "940.5 MB",
+      "size": 986185728
+    },
+    {
       "name": "The Walking Dead: Season 2 (Hacked)",
       "bundleIdentifier": "com.telltalegames.walkingdead2",
       "developerName": "Nabzclan",
@@ -4850,86 +4929,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/206",
       "formatedsize": "1.21 MB",
       "size": 1268776
-    },
-    {
-      "name": "Modern Combat 5 (crosshair)",
-      "bundleIdentifier": "com.gameloft.ModernCombat5",
-      "developerName": "nabzclan",
-      "subtitle": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
-      "localizedDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.gameloft.ModernCombat5\n\n Downloads: 461\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1693270247.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16932702399685969951.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702415679766528.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702421277735400.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702431211422244.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702441202026711.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702458386585984.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.8.9",
-          "date": "2023-08-29 00:50:48",
-          "localizedDescription": "Current of Modern Combat 5 (crosshair) - 5.8.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/204",
-          "size": 2201170739
-        },
-        {
-          "version": "5.8.9",
-          "date": "2023-08-29 00:50:48",
-          "localizedDescription": "Old Version of Modern Combat 5 (crosshair) - 5.8.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/204",
-          "size": 2201170739
-        }
-      ],
-      "version": "5.8.9",
-      "versionDate": "2023-08-29 00:50:48",
-      "versionDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/204",
-      "formatedsize": "2.05 GB",
-      "size": 2201170739
-    },
-    {
-      "name": "File Converter (Premium)",
-      "bundleIdentifier": "com.icecoldapps.fileconverter",
-      "developerName": "nabzclan",
-      "subtitle": "Injected with Premium",
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.icecoldapps.fileconverter\n\n Downloads: 532\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692923976.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16929239693436806949.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239700721704081.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239724117792781.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239737379547810.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239738743684899.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239759077673350.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "16.2.4",
-          "date": "2023-08-25 00:39:36",
-          "localizedDescription": "Current of File Converter (Premium) - 16.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/198",
-          "size": 28804382
-        },
-        {
-          "version": "16.2.4",
-          "date": "2023-08-25 00:39:36",
-          "localizedDescription": "Old Version of File Converter (Premium) - 16.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/198",
-          "size": 28804382
-        }
-      ],
-      "version": "16.2.4",
-      "versionDate": "2023-08-25 00:39:36",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/198",
-      "formatedsize": "27.47 MB",
-      "size": 28804382
     }
   ],
   "userInfo": {}

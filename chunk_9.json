@@ -4,6 +4,77 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Def1nit3lyN0tAJa1lbr3akTool",
+      "bundleIdentifier": "com.pop.com",
+      "developerName": "KpwnZ",
+      "subtitle": "https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool",
+      "localizedDescription": "https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: com.pop.com\n\n Downloads: 861\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1726476820.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2025-02-25 16:45:17",
+          "localizedDescription": "Current of Def1nit3lyN0tAJa1lbr3akTool - 1.0.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/547",
+          "size": 67528294
+        },
+        {
+          "version": "1.0.1",
+          "date": "2025-02-25 16:45:17",
+          "localizedDescription": "Old Version of Def1nit3lyN0tAJa1lbr3akTool - 1.0.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/547",
+          "size": 67528294
+        }
+      ],
+      "version": "1.0.1",
+      "versionDate": "2025-02-25 16:45:17",
+      "versionDescription": "https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/547",
+      "formatedsize": "64.4 MB",
+      "size": 67528294
+    },
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "org.coolstar.taurine",
+      "developerName": "CoolStar",
+      "subtitle": "jailbreak for iOS 14.4 -> 14.8.1",
+      "localizedDescription": "jailbreak for iOS 14.4 -> 14.8.1\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: org.coolstar.taurine\n\n Downloads: 323\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1695109493.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16951096299636631.webp",
+        "https://apps.nabzclan.vip/screenshots/16951096296610795.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1.7-3",
+          "date": "2025-02-25 16:44:01",
+          "localizedDescription": "Current of Taurine - 1.1.7-3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/428",
+          "size": 32243712
+        },
+        {
+          "version": "1.1.7-3",
+          "date": "2025-02-25 16:44:01",
+          "localizedDescription": "Old Version of Taurine - 1.1.7-3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/428",
+          "size": 32243712
+        }
+      ],
+      "version": "1.1.7-3",
+      "versionDate": "2025-02-25 16:44:01",
+      "versionDescription": "jailbreak for iOS 14.4 -> 14.8.1",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/428",
+      "formatedsize": "30.75 MB",
+      "size": 32243712
+    },
+    {
       "name": "Dopamine",
       "bundleIdentifier": "com.opa334.Dopamine",
       "developerName": "opa334",
@@ -4948,85 +5019,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/934",
       "formatedsize": "69.5 MB",
       "size": 72876032
-    },
-    {
-      "name": "The Walking Dead: Michonne (Hacked)",
-      "bundleIdentifier": "com.telltalegames.WDM100",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.telltalegames.WDM100\n\n Downloads: 256\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731098357.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310983561643340218.webp",
-        "https://apps.nabzclan.vip/screenshots/17310983564554951855.webp",
-        "https://apps.nabzclan.vip/screenshots/17310983566225962866.webp",
-        "https://apps.nabzclan.vip/screenshots/17310983570769624584.webp",
-        "https://apps.nabzclan.vip/screenshots/17310983573394190306.webp",
-        "https://apps.nabzclan.vip/screenshots/17310983576028533405.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2024-11-08 20:39:18",
-          "localizedDescription": "Current of The Walking Dead: Michonne (Hacked) - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/930",
-          "size": 833722777
-        },
-        {
-          "version": "1.2",
-          "date": "2024-11-08 20:39:18",
-          "localizedDescription": "Old Version of The Walking Dead: Michonne (Hacked) - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/930",
-          "size": 833722777
-        }
-      ],
-      "version": "1.2",
-      "versionDate": "2024-11-08 20:39:18",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/930",
-      "formatedsize": "795.1 MB",
-      "size": 833722777
-    },
-    {
-      "name": "Walking Dead: A New Frontier (Hacked)",
-      "bundleIdentifier": "com.telltalegames.WDS300",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.telltalegames.WDS300\n\n Downloads: 300\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731097859.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310978586691147481.webp",
-        "https://apps.nabzclan.vip/screenshots/17310978589543423555.webp",
-        "https://apps.nabzclan.vip/screenshots/17310978591973294166.webp",
-        "https://apps.nabzclan.vip/screenshots/17310978596069089294.webp",
-        "https://apps.nabzclan.vip/screenshots/17310978597029485233.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2024-11-08 20:31:00",
-          "localizedDescription": "Current of Walking Dead: A New Frontier (Hacked) - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/928",
-          "size": 986185728
-        },
-        {
-          "version": "1.2",
-          "date": "2024-11-08 20:31:00",
-          "localizedDescription": "Old Version of Walking Dead: A New Frontier (Hacked) - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/928",
-          "size": 986185728
-        }
-      ],
-      "version": "1.2",
-      "versionDate": "2024-11-08 20:31:00",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/928",
-      "formatedsize": "940.5 MB",
-      "size": 986185728
     }
   ],
   "userInfo": {}
