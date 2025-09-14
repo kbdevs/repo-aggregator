@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "BimmerCode for BMW and MINI (Hacked)",
+      "bundleIdentifier": "com.bimmerlink.BimmerLinkCoder",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: com.bimmerlink.BimmerLinkCoder\n\n Downloads: 608\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731099166.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310991659843013725.webp",
+        "https://apps.nabzclan.vip/screenshots/17310991660744865009.webp",
+        "https://apps.nabzclan.vip/screenshots/17310991662192079583.webp",
+        "https://apps.nabzclan.vip/screenshots/17310991663829417907.webp",
+        "https://apps.nabzclan.vip/screenshots/17310991664874458449.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.3",
+          "date": "2024-11-08 20:52:46",
+          "localizedDescription": "Current of BimmerCode for BMW and MINI (Hacked) - 4.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/934",
+          "size": 72876032
+        },
+        {
+          "version": "4.3",
+          "date": "2024-11-08 20:52:46",
+          "localizedDescription": "Old Version of BimmerCode for BMW and MINI (Hacked) - 4.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/934",
+          "size": 72876032
+        }
+      ],
+      "version": "4.3",
+      "versionDate": "2024-11-08 20:52:46",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/934",
+      "formatedsize": "69.5 MB",
+      "size": 72876032
+    },
+    {
       "name": "The Walking Dead: Michonne (Hacked)",
       "bundleIdentifier": "com.telltalegames.WDM100",
       "developerName": "Nabzclan",
@@ -4894,41 +4933,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/219",
       "formatedsize": "27.75 MB",
       "size": 29097984
-    },
-    {
-      "name": "Blacklist KFD",
-      "bundleIdentifier": "com.AppInstalleriOS.Blacklist-KFD",
-      "developerName": "AppInstaller ios",
-      "subtitle": "You can bypass blacklist restrictions and revoke apps on iOS versions 16.2 to 16.5, and 16.6 beta 1.",
-      "localizedDescription": "You can bypass blacklist restrictions and revoke apps on iOS versions 16.2 to 16.5, and 16.6 beta 1.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.AppInstalleriOS.Blacklist-KFD\n\n Downloads: 1208\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1693272281.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2023-08-29 01:24:41",
-          "localizedDescription": "Current of Blacklist KFD - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/206",
-          "size": 1268776
-        },
-        {
-          "version": "1.0",
-          "date": "2023-08-29 01:24:41",
-          "localizedDescription": "Old Version of Blacklist KFD - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/206",
-          "size": 1268776
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2023-08-29 01:24:41",
-      "versionDescription": "You can bypass blacklist restrictions and revoke apps on iOS versions 16.2 to 16.5, and 16.6 beta 1.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/206",
-      "formatedsize": "1.21 MB",
-      "size": 1268776
     }
   ],
   "userInfo": {}

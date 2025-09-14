@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "FoundIt",
+      "type": 2,
+      "bundleID": "games.urmobi.found.it",
+      "bundleIdentifier": "games.urmobi.found.it",
+      "version": "1.49.80",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704160356",
+      "size": 262050399,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/FoundIt_1.49.80_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/FoundIt_1.49.80_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png"
+    },
+    {
       "name": "BillTracker",
       "type": 1,
       "bundleID": "com.unofficialcalculators.payplan",
@@ -1906,22 +1922,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tensquaregames.letsfish2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tensquaregames.letsfish2.png"
-    },
-    {
-      "name": "GuardianWar",
-      "type": 2,
-      "bundleID": "com.fansipan.guardian.war.rpg.pixel.hero.adventure.games",
-      "bundleIdentifier": "com.fansipan.guardian.war.rpg.pixel.hero.adventure.games",
-      "version": "0.2.643",
-      "versionDate": "2025-06-14",
-      "fullDate": "20250614181510",
-      "size": 165284085,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GuardianWar_0.2.643_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GuardianWar_0.2.643_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fansipan.guardian.war.rpg.pixel.hero.adventure.games.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fansipan.guardian.war.rpg.pixel.hero.adventure.games.png"
     }
   ],
   "userInfo": {}

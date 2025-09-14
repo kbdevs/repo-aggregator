@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "LocSim",
+      "bundleIdentifier": "com.mika.LocationSimulation",
+      "version": "1.3.7",
+      "versionDate": "2024-10-09",
+      "size": 1917334,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocSim/LocSim-1.3.7.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
+    },
+    {
       "name": "Limon",
       "bundleIdentifier": "com.antique.Limon",
       "version": "1.0.8.4",

@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Blacklist KFD",
+      "bundleIdentifier": "com.AppInstalleriOS.Blacklist-KFD",
+      "developerName": "AppInstaller ios",
+      "subtitle": "You can bypass blacklist restrictions and revoke apps on iOS versions 16.2 to 16.5, and 16.6 beta 1.",
+      "localizedDescription": "You can bypass blacklist restrictions and revoke apps on iOS versions 16.2 to 16.5, and 16.6 beta 1.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.AppInstalleriOS.Blacklist-KFD\n\n Downloads: 1208\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1693272281.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2023-08-29 01:24:41",
+          "localizedDescription": "Current of Blacklist KFD - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/206",
+          "size": 1268776
+        },
+        {
+          "version": "1.0",
+          "date": "2023-08-29 01:24:41",
+          "localizedDescription": "Old Version of Blacklist KFD - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/206",
+          "size": 1268776
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2023-08-29 01:24:41",
+      "versionDescription": "You can bypass blacklist restrictions and revoke apps on iOS versions 16.2 to 16.5, and 16.6 beta 1.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/206",
+      "formatedsize": "1.21 MB",
+      "size": 1268776
+    },
+    {
       "name": "Modern Combat 5 (crosshair)",
       "bundleIdentifier": "com.gameloft.ModernCombat5",
       "developerName": "nabzclan",
@@ -1696,17 +1731,6 @@
       "developerName": "N/A",
       "localizedDescription": "HDO Box clone. see original app description for more info\nLast updated: 07-17-2023\nStatus: \u26a0\ufe0f \u2754",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xoumb.mp3.video.player.png"
-    },
-    {
-      "name": "LocSim",
-      "bundleIdentifier": "com.mika.LocationSimulation",
-      "version": "1.3.7",
-      "versionDate": "2024-10-09",
-      "size": 1917334,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocSim/LocSim-1.3.7.ipa",
-      "developerName": "CyPwn IPA Library",
-      "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
     }
   ],
   "userInfo": {}

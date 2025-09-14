@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Five Nights at Freddy's 3",
+      "bundleIdentifier": "com.scottgames.fivenights3",
+      "developerName": "CLICKTEAM LLC USA",
+      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
+      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fivenights3\n\n Downloads: 542\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731695847.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17316958465559562514.webp",
+        "https://apps.nabzclan.vip/screenshots/17316958466804836797.webp",
+        "https://apps.nabzclan.vip/screenshots/17316958467667459354.webp",
+        "https://apps.nabzclan.vip/screenshots/17316958468468051535.webp",
+        "https://apps.nabzclan.vip/screenshots/17316958469544419113.webp",
+        "https://apps.nabzclan.vip/screenshots/17316958470321469562.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2025-02-25 16:49:38",
+          "localizedDescription": "Current of Five Nights at Freddy's 3 - 2.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1016",
+          "size": 65850572
+        },
+        {
+          "version": "2.0.2",
+          "date": "2025-02-25 16:49:38",
+          "localizedDescription": "Old Version of Five Nights at Freddy's 3 - 2.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1016",
+          "size": 65850572
+        }
+      ],
+      "version": "2.0.2",
+      "versionDate": "2025-02-25 16:49:38",
+      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1016",
+      "formatedsize": "62.8 MB",
+      "size": 65850572
+    },
+    {
       "name": "Def1nit3lyN0tAJa1lbr3akTool",
       "bundleIdentifier": "com.pop.com",
       "developerName": "KpwnZ",
@@ -4980,45 +5020,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/941",
       "formatedsize": "204.2 MB",
       "size": 214119219
-    },
-    {
-      "name": "BimmerCode for BMW and MINI (Hacked)",
-      "bundleIdentifier": "com.bimmerlink.BimmerLinkCoder",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: com.bimmerlink.BimmerLinkCoder\n\n Downloads: 608\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731099166.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310991659843013725.webp",
-        "https://apps.nabzclan.vip/screenshots/17310991660744865009.webp",
-        "https://apps.nabzclan.vip/screenshots/17310991662192079583.webp",
-        "https://apps.nabzclan.vip/screenshots/17310991663829417907.webp",
-        "https://apps.nabzclan.vip/screenshots/17310991664874458449.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.3",
-          "date": "2024-11-08 20:52:46",
-          "localizedDescription": "Current of BimmerCode for BMW and MINI (Hacked) - 4.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/934",
-          "size": 72876032
-        },
-        {
-          "version": "4.3",
-          "date": "2024-11-08 20:52:46",
-          "localizedDescription": "Old Version of BimmerCode for BMW and MINI (Hacked) - 4.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/934",
-          "size": 72876032
-        }
-      ],
-      "version": "4.3",
-      "versionDate": "2024-11-08 20:52:46",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/934",
-      "formatedsize": "69.5 MB",
-      "size": 72876032
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "OpusVpn",
+      "type": 1,
+      "bundleID": "com.biel.opus.vpn",
+      "bundleIdentifier": "com.biel.opus.vpn",
+      "version": "1.9.0",
+      "versionDate": "2025-02-02",
+      "fullDate": "20250202115614",
+      "size": 15635988,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/OpusVpn_1.9.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/OpusVpn_1.9.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.biel.opus.vpn.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.biel.opus.vpn.png"
+    },
+    {
       "name": "FlexIptv",
       "type": 1,
       "bundleID": "com.funlabsoft.iptv",
@@ -4264,46 +4280,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1015",
       "formatedsize": "600.8 MB",
       "size": 629984460
-    },
-    {
-      "name": "Five Nights at Freddy's 3",
-      "bundleIdentifier": "com.scottgames.fivenights3",
-      "developerName": "CLICKTEAM LLC USA",
-      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fivenights3\n\n Downloads: 542\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731695847.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17316958465559562514.webp",
-        "https://apps.nabzclan.vip/screenshots/17316958466804836797.webp",
-        "https://apps.nabzclan.vip/screenshots/17316958467667459354.webp",
-        "https://apps.nabzclan.vip/screenshots/17316958468468051535.webp",
-        "https://apps.nabzclan.vip/screenshots/17316958469544419113.webp",
-        "https://apps.nabzclan.vip/screenshots/17316958470321469562.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.2",
-          "date": "2025-02-25 16:49:38",
-          "localizedDescription": "Current of Five Nights at Freddy's 3 - 2.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1016",
-          "size": 65850572
-        },
-        {
-          "version": "2.0.2",
-          "date": "2025-02-25 16:49:38",
-          "localizedDescription": "Old Version of Five Nights at Freddy's 3 - 2.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1016",
-          "size": 65850572
-        }
-      ],
-      "version": "2.0.2",
-      "versionDate": "2025-02-25 16:49:38",
-      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1016",
-      "formatedsize": "62.8 MB",
-      "size": 65850572
     }
   ],
   "userInfo": {}

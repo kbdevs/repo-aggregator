@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "GuardianWar",
+      "type": 2,
+      "bundleID": "com.fansipan.guardian.war.rpg.pixel.hero.adventure.games",
+      "bundleIdentifier": "com.fansipan.guardian.war.rpg.pixel.hero.adventure.games",
+      "version": "0.2.643",
+      "versionDate": "2025-06-14",
+      "fullDate": "20250614181510",
+      "size": 165284085,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GuardianWar_0.2.643_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GuardianWar_0.2.643_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fansipan.guardian.war.rpg.pixel.hero.adventure.games.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fansipan.guardian.war.rpg.pixel.hero.adventure.games.png"
+    },
+    {
       "name": "IdleNinjaOnline",
       "type": 2,
       "bundleID": "com.puzzlemonsters.growninja",
@@ -1906,22 +1922,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png"
-    },
-    {
-      "name": "Eatventure",
-      "type": 2,
-      "bundleID": "com.hwqgrhhjfd.idlefastfood",
-      "bundleIdentifier": "com.hwqgrhhjfd.idlefastfood",
-      "version": "1.37.0",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527141203",
-      "size": 124583537,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Eatventure_1.37.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Eatventure_1.37.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hwqgrhhjfd.idlefastfood.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hwqgrhhjfd.idlefastfood.png"
     }
   ],
   "userInfo": {}
