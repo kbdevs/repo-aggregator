@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Impulse",
+      "type": 1,
+      "bundleID": "gen.tech.impulse",
+      "bundleIdentifier": "gen.tech.impulse",
+      "version": "1.34",
+      "versionDate": "2025-08-28",
+      "fullDate": "20250828211735",
+      "size": 86601400,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Impulse_1.34_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Impulse_1.34_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png"
+    },
+    {
+      "name": "TickTick",
+      "type": 1,
+      "bundleID": "com.TickTick.task",
+      "bundleIdentifier": "com.TickTick.task",
+      "version": "7.6.80",
+      "versionDate": "2025-08-28",
+      "fullDate": "20250828211223",
+      "size": 93689286,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/TickTick_7.6.80_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/TickTick_7.6.80_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TickTick.task.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TickTick.task.png"
+    },
+    {
+      "name": "OldRoll",
+      "type": 1,
+      "bundleID": "com.zijayrate.analogcam",
+      "bundleIdentifier": "com.zijayrate.analogcam",
+      "version": "7.7.0",
+      "versionDate": "2025-08-28",
+      "fullDate": "20250828203710",
+      "size": 158169965,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/OldRoll_7.7.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/OldRoll_7.7.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png"
+    },
+    {
       "name": "SNOW",
       "type": 1,
       "bundleID": "com.campmobile.snow",
@@ -66,22 +114,6 @@
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
-    },
-    {
-      "name": "Anime",
-      "type": 1,
-      "bundleID": "com.wallpapershub.anime",
-      "bundleIdentifier": "com.wallpapershub.anime",
-      "version": "3.8.7",
-      "versionDate": "2025-08-28",
-      "fullDate": "20250828115914",
-      "size": 112378000,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Anime_3.8.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Anime_3.8.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png"
     },
     {
       "name": "NOAARadar",
@@ -1748,22 +1780,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png"
     },
     {
-      "name": "TheWeather",
-      "type": 1,
-      "bundleID": "com.impalastudios.theweatherfree",
-      "bundleIdentifier": "com.impalastudios.theweatherfree",
-      "version": "2.0.11",
-      "versionDate": "2025-08-11",
-      "fullDate": "20250811135017",
-      "size": 143960796,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/TheWeather_2.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/TheWeather_2.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png"
-    },
-    {
       "name": "Peachy",
       "type": 1,
       "bundleID": "com.camerasideas.Peachy",
@@ -1906,22 +1922,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png"
-    },
-    {
-      "name": "FarmVille2",
-      "type": 2,
-      "bundleID": "com.zynga.FarmVille2CountryEscape",
-      "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
-      "version": "28.0",
-      "versionDate": "2025-08-07",
-      "fullDate": "20250807110043",
-      "size": 307984676,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/FarmVille2_28.0_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/FarmVille2_28.0_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png"
     }
   ],
   "userInfo": {}
