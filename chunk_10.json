@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Crime City: Bank Robbery (Hack)",
+      "bundleIdentifier": "com.gamegears.robberysniper",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.gamegears.robberysniper\n\n Downloads: 254\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731134784.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17311347727985751005.webp",
+        "https://apps.nabzclan.vip/screenshots/17311347738819125515.webp",
+        "https://apps.nabzclan.vip/screenshots/17311347762091371293.webp",
+        "https://apps.nabzclan.vip/screenshots/17311347777002452280.webp",
+        "https://apps.nabzclan.vip/screenshots/17311347798203378971.webp",
+        "https://apps.nabzclan.vip/screenshots/17311347820856683864.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.9",
+          "date": "2024-11-09 01:46:24",
+          "localizedDescription": "Current of Crime City: Bank Robbery (Hack) - 1.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/941",
+          "size": 214119219
+        },
+        {
+          "version": "1.9",
+          "date": "2024-11-09 01:46:24",
+          "localizedDescription": "Old Version of Crime City: Bank Robbery (Hack) - 1.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/941",
+          "size": 214119219
+        }
+      ],
+      "version": "1.9",
+      "versionDate": "2024-11-09 01:46:24",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/941",
+      "formatedsize": "204.2 MB",
+      "size": 214119219
+    },
+    {
       "name": "BimmerCode for BMW and MINI (Hacked)",
       "bundleIdentifier": "com.bimmerlink.BimmerLinkCoder",
       "developerName": "Nabzclan",
@@ -4894,45 +4934,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/226",
       "formatedsize": "489.96 MB",
       "size": 513760296
-    },
-    {
-      "name": "MegaFlix (No Ads) - VIP",
-      "bundleIdentifier": "com.puneso.converter",
-      "developerName": "Nabzclan",
-      "subtitle": "movie app to watch any type of movies with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/",
-      "localizedDescription": "movie app to watch any type of movies with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/\n\n --- \n\n More app Information:\n\n Category: Media, Tweaked Apps, VIP\n\n BundleID: com.puneso.converter\n\n Downloads: 3749\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1694940783.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16949407770027688262.webp",
-        "https://apps.nabzclan.vip/screenshots/16949407783223312095.webp",
-        "https://apps.nabzclan.vip/screenshots/16949407804597554743.webp",
-        "https://apps.nabzclan.vip/screenshots/16949407808191279249.webp",
-        "https://apps.nabzclan.vip/screenshots/16949407822498281521.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.0",
-          "date": "2023-09-17 09:36:43",
-          "localizedDescription": "Current of MegaFlix (No Ads) - VIP - 5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/219",
-          "size": 29097984
-        },
-        {
-          "version": "5.0",
-          "date": "2023-09-17 09:36:43",
-          "localizedDescription": "Old Version of MegaFlix (No Ads) - VIP - 5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/219",
-          "size": 29097984
-        }
-      ],
-      "version": "5.0",
-      "versionDate": "2023-09-17 09:36:43",
-      "versionDescription": "movie app to watch any type of movies with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/219",
-      "formatedsize": "27.75 MB",
-      "size": 29097984
     }
   ],
   "userInfo": {}

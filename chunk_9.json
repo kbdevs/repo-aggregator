@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Five Nights at Freddy's: HW",
+      "bundleIdentifier": "com.steelwoolstudios.fnafhw",
+      "developerName": "Steel Wool Games, Inc.",
+      "subtitle": "This is the mobile version of Five Nights at Freddy\u2019s: Help Wanted, a collection of classic and original mini-games set in the Five Nights universe.",
+      "localizedDescription": "This is the mobile version of Five Nights at Freddy\u2019s: Help Wanted, a collection of classic and original mini-games set in the Five Nights universe.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.steelwoolstudios.fnafhw\n\n Downloads: 728\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1731695506.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17316955054587866715.webp",
+        "https://apps.nabzclan.vip/screenshots/17316955055485516527.webp",
+        "https://apps.nabzclan.vip/screenshots/17316955056193544195.webp",
+        "https://apps.nabzclan.vip/screenshots/17316955058777137437.webp",
+        "https://apps.nabzclan.vip/screenshots/17316955060414251105.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1.3",
+          "date": "2025-02-25 16:57:32",
+          "localizedDescription": "Current of Five Nights at Freddy's: HW - 1.1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1015",
+          "size": 629984460
+        },
+        {
+          "version": "1.1.3",
+          "date": "2025-02-25 16:57:32",
+          "localizedDescription": "Old Version of Five Nights at Freddy's: HW - 1.1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1015",
+          "size": 629984460
+        }
+      ],
+      "version": "1.1.3",
+      "versionDate": "2025-02-25 16:57:32",
+      "versionDescription": "This is the mobile version of Five Nights at Freddy\u2019s: Help Wanted, a collection of classic and original mini-games set in the Five Nights universe.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1015",
+      "formatedsize": "600.8 MB",
+      "size": 629984460
+    },
+    {
       "name": "Five Nights at Freddy's 3",
       "bundleIdentifier": "com.scottgames.fivenights3",
       "developerName": "CLICKTEAM LLC USA",
@@ -4980,46 +5019,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/947",
       "formatedsize": "161.5 MB",
       "size": 169345024
-    },
-    {
-      "name": "Crime City: Bank Robbery (Hack)",
-      "bundleIdentifier": "com.gamegears.robberysniper",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.gamegears.robberysniper\n\n Downloads: 254\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731134784.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17311347727985751005.webp",
-        "https://apps.nabzclan.vip/screenshots/17311347738819125515.webp",
-        "https://apps.nabzclan.vip/screenshots/17311347762091371293.webp",
-        "https://apps.nabzclan.vip/screenshots/17311347777002452280.webp",
-        "https://apps.nabzclan.vip/screenshots/17311347798203378971.webp",
-        "https://apps.nabzclan.vip/screenshots/17311347820856683864.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.9",
-          "date": "2024-11-09 01:46:24",
-          "localizedDescription": "Current of Crime City: Bank Robbery (Hack) - 1.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/941",
-          "size": 214119219
-        },
-        {
-          "version": "1.9",
-          "date": "2024-11-09 01:46:24",
-          "localizedDescription": "Old Version of Crime City: Bank Robbery (Hack) - 1.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/941",
-          "size": 214119219
-        }
-      ],
-      "version": "1.9",
-      "versionDate": "2024-11-09 01:46:24",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/941",
-      "formatedsize": "204.2 MB",
-      "size": 214119219
     }
   ],
   "userInfo": {}

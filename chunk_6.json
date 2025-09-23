@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "GrandSummoners",
+      "type": 2,
+      "bundleID": "jp.goodsmile.grandsummonersglobal",
+      "bundleIdentifier": "jp.goodsmile.grandsummonersglobal",
+      "version": "3.50.2",
+      "versionDate": "2025-06-14",
+      "fullDate": "20250614182023",
+      "size": 59722217,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GrandSummoners_3.50.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GrandSummoners_3.50.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.goodsmile.grandsummonersglobal.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.goodsmile.grandsummonersglobal.png"
+    },
+    {
+      "name": "FishingClash",
+      "type": 2,
+      "bundleID": "com.tensquaregames.letsfish2",
+      "bundleIdentifier": "com.tensquaregames.letsfish2",
+      "version": "1.0.377",
+      "versionDate": "2025-06-14",
+      "fullDate": "20250614181516",
+      "size": 160275890,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/FishingClash_1.0.377_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/FishingClash_1.0.377_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tensquaregames.letsfish2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tensquaregames.letsfish2.png"
+    },
+    {
       "name": "GuardianWar",
       "type": 2,
       "bundleID": "com.fansipan.guardian.war.rpg.pixel.hero.adventure.games",
@@ -1890,38 +1922,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dxx.firenow.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dxx.firenow.png"
-    },
-    {
-      "name": "MargonemAdventures",
-      "type": 2,
-      "bundleID": "pl.Garmory.MargonemAdventures",
-      "bundleIdentifier": "pl.Garmory.MargonemAdventures",
-      "version": "1.16.0",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527142211",
-      "size": 184263106,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png"
-    },
-    {
-      "name": "NFLRB25",
-      "type": 2,
-      "bundleID": "com.newstarresearch.retrobowlpro",
-      "bundleIdentifier": "com.newstarresearch.retrobowlpro",
-      "version": "1.0.72",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527142208",
-      "size": 49732701,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png"
     }
   ],
   "userInfo": {}

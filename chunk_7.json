@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "MargonemAdventures",
+      "type": 2,
+      "bundleID": "pl.Garmory.MargonemAdventures",
+      "bundleIdentifier": "pl.Garmory.MargonemAdventures",
+      "version": "1.16.0",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527142211",
+      "size": 184263106,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png"
+    },
+    {
+      "name": "NFLRB25",
+      "type": 2,
+      "bundleID": "com.newstarresearch.retrobowlpro",
+      "bundleIdentifier": "com.newstarresearch.retrobowlpro",
+      "version": "1.0.72",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527142208",
+      "size": 49732701,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png"
+    },
+    {
       "name": "Eatventure",
       "type": 2,
       "bundleID": "com.hwqgrhhjfd.idlefastfood",
@@ -1876,22 +1908,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appercut.kegel.png"
     },
     {
-      "name": "Flipclock",
-      "type": 1,
-      "bundleID": "com.cuilingshi.flipclock",
-      "bundleIdentifier": "com.cuilingshi.flipclock",
-      "version": "6.6",
-      "versionDate": "2025-02-02",
-      "fullDate": "20250202121334",
-      "size": 38721114,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Flipclock_6.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Flipclock_6.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png"
-    },
-    {
       "name": "LastDayOnEarth.Survival",
       "type": 2,
       "bundleID": "zombie.survival.craft.z",
@@ -1906,22 +1922,6 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png"
-    },
-    {
-      "name": "Fujixweekly",
-      "type": 1,
-      "bundleID": "com.fujixweekly.fujixweeklyrecipes",
-      "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
-      "version": "1.8.0",
-      "versionDate": "2025-02-02",
-      "fullDate": "20250202120221",
-      "size": 5820129,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Fujixweekly_1.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Fujixweekly_1.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png"
     }
   ],
   "userInfo": {}

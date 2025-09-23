@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Planta",
+      "type": 1,
+      "bundleID": "com.stromming.Plants",
+      "bundleIdentifier": "com.stromming.Plants",
+      "version": "3.91.2",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704163429",
+      "size": 103239125,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Planta_3.91.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Planta_3.91.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png"
+    },
+    {
+      "name": "Reframe",
+      "type": 1,
+      "bundleID": "com.glucobit.cravingBuster.CravingBuster",
+      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
+      "version": "3.8.57",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704160406",
+      "size": 261313859,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Reframe_3.8.57_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Reframe_3.8.57_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png"
+    },
+    {
       "name": "FoundIt",
       "type": 2,
       "bundleID": "games.urmobi.found.it",
@@ -1890,38 +1922,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nhn.gunsup.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nhn.gunsup.png"
-    },
-    {
-      "name": "GrandSummoners",
-      "type": 2,
-      "bundleID": "jp.goodsmile.grandsummonersglobal",
-      "bundleIdentifier": "jp.goodsmile.grandsummonersglobal",
-      "version": "3.50.2",
-      "versionDate": "2025-06-14",
-      "fullDate": "20250614182023",
-      "size": 59722217,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GrandSummoners_3.50.2_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GrandSummoners_3.50.2_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.goodsmile.grandsummonersglobal.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.goodsmile.grandsummonersglobal.png"
-    },
-    {
-      "name": "FishingClash",
-      "type": 2,
-      "bundleID": "com.tensquaregames.letsfish2",
-      "bundleIdentifier": "com.tensquaregames.letsfish2",
-      "version": "1.0.377",
-      "versionDate": "2025-06-14",
-      "fullDate": "20250614181516",
-      "size": 160275890,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/FishingClash_1.0.377_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/FishingClash_1.0.377_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tensquaregames.letsfish2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tensquaregames.letsfish2.png"
     }
   ],
   "userInfo": {}
