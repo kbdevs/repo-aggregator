@@ -4,6 +4,124 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Bloons TD Battles 2+",
+      "bundleIdentifier": "com.ninjakiwi.bloonstdbattles2plus",
+      "developerName": "Ninja Kiwi",
+      "subtitle": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
+      "localizedDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.ninjakiwi.bloonstdbattles2plus\n\n Downloads: 256\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731274257.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312742574188651103.webp",
+        "https://apps.nabzclan.vip/screenshots/17312742574878086788.webp",
+        "https://apps.nabzclan.vip/screenshots/17312742575255618301.webp",
+        "https://apps.nabzclan.vip/screenshots/17312742575632902216.webp",
+        "https://apps.nabzclan.vip/screenshots/17312742576077967916.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.3.1",
+          "date": "2024-11-10 16:30:58",
+          "localizedDescription": "Current of Bloons TD Battles 2+ - 4.3.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
+          "size": 923323596
+        },
+        {
+          "version": "4.3.1",
+          "date": "2024-11-10 16:30:58",
+          "localizedDescription": "Old Version of Bloons TD Battles 2+ - 4.3.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
+          "size": 923323596
+        }
+      ],
+      "version": "4.3.1",
+      "versionDate": "2024-11-10 16:30:58",
+      "versionDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/962",
+      "formatedsize": "880.55 MB",
+      "size": 923323596
+    },
+    {
+      "name": "Shadow Fight 2 Special Edition",
+      "bundleIdentifier": "com.nekki.shadowfight.paid",
+      "developerName": "Nekki Limited",
+      "subtitle": "The best fighting series on mobile has returned and become even more SPECIAL - Shadow Fight 2 Special Edition!! \r\n\r\n- No Ads!\r\n- No energy restoring. Jump into the fray anytime and anywhere you want!\r\n- Unveil a truth behind Sensei's past in a whole new story chapter!\r\n- Complete the story mode without grinding!\r\n- Equip yourself with a huge amount of weapons and armor. Get a lot of gems through battles and make your arsenal even more larger!\r\n- Travel across 7 distinct provinces and force to terrify Titan himself!\r\n- Simple controls is designed for touch screen usage. Shadow Fight 2 is easy to play but hard to master!\r\n- Astonishing animations and unique design!",
+      "localizedDescription": "The best fighting series on mobile has returned and become even more SPECIAL - Shadow Fight 2 Special Edition!! \r\n\r\n- No Ads!\r\n- No energy restoring. Jump into the fray anytime and anywhere you want!\r\n- Unveil a truth behind Sensei's past in a whole new story chapter!\r\n- Complete the story mode without grinding!\r\n- Equip yourself with a huge amount of weapons and armor. Get a lot of gems through battles and make your arsenal even more larger!\r\n- Travel across 7 distinct provinces and force to terrify Titan himself!\r\n- Simple controls is designed for touch screen usage. Shadow Fight 2 is easy to play but hard to master!\r\n- Astonishing animations and unique design!\n\n --- \n\n More app Information:\n\n Category: Free in app purchases\n\n BundleID: com.nekki.shadowfight.paid\n\n Downloads: 3084\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731272048.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312720470032471396.webp",
+        "https://apps.nabzclan.vip/screenshots/17312720472105452163.webp",
+        "https://apps.nabzclan.vip/screenshots/17312720476767859850.webp",
+        "https://apps.nabzclan.vip/screenshots/17312720478535807805.webp",
+        "https://apps.nabzclan.vip/screenshots/17312720479582737396.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2024-11-10 15:54:09",
+          "localizedDescription": "Current of Shadow Fight 2 Special Edition - 1.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/958",
+          "size": 109261619
+        },
+        {
+          "version": "1.0.4",
+          "date": "2024-11-10 15:54:09",
+          "localizedDescription": "Old Version of Shadow Fight 2 Special Edition - 1.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/958",
+          "size": 109261619
+        }
+      ],
+      "version": "1.0.4",
+      "versionDate": "2024-11-10 15:54:09",
+      "versionDescription": "The best fighting series on mobile has returned and become even more SPECIAL - Shadow Fight 2 Special Edition!! \r\n\r\n- No Ads!\r\n- No energy restoring. Jump into the fray anytime and anywhere you want!\r\n- Unveil a truth behind Sensei's past in a whole new story chapter!\r\n- Complete the story mode without grinding!\r\n- Equip yourself with a huge amount of weapons and armor. Get a lot of gems through battles and make your arsenal even more larger!\r\n- Travel across 7 distinct provinces and force to terrify Titan himself!\r\n- Simple controls is designed for touch screen usage. Shadow Fight 2 is easy to play but hard to master!\r\n- Astonishing animations and unique design!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/958",
+      "formatedsize": "104.2 MB",
+      "size": 109261619
+    },
+    {
+      "name": "Bardcard",
+      "bundleIdentifier": "org.reactjs.native.example.GraphicsSandbox",
+      "developerName": "Card-matching dungeon crawler",
+      "subtitle": "Bardcard is a card-matching roguelite featuring a mysterious subterranean world to explore. Match cards to advance through the dungeon. Discover helpful equipment, battle dangerous minions, and meet magical familiars that join you on your adventure. Learn the secrets of this realm and discover the truth about the chaos that engulfs it.",
+      "localizedDescription": "Bardcard is a card-matching roguelite featuring a mysterious subterranean world to explore. Match cards to advance through the dungeon. Discover helpful equipment, battle dangerous minions, and meet magical familiars that join you on your adventure. Learn the secrets of this realm and discover the truth about the chaos that engulfs it.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: org.reactjs.native.example.GraphicsSandbox\n\n Downloads: 131\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731136699.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17311366921288061263.webp",
+        "https://apps.nabzclan.vip/screenshots/17311366924139458465.webp",
+        "https://apps.nabzclan.vip/screenshots/17311366942501536948.webp",
+        "https://apps.nabzclan.vip/screenshots/17311366956874175434.webp",
+        "https://apps.nabzclan.vip/screenshots/17311366972555488031.webp",
+        "https://apps.nabzclan.vip/screenshots/17311366987945950553.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.28",
+          "date": "2024-11-09 02:18:19",
+          "localizedDescription": "Current of Bardcard - 2.28",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/947",
+          "size": 169345024
+        },
+        {
+          "version": "2.28",
+          "date": "2024-11-09 02:18:19",
+          "localizedDescription": "Old Version of Bardcard - 2.28",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/947",
+          "size": 169345024
+        }
+      ],
+      "version": "2.28",
+      "versionDate": "2024-11-09 02:18:19",
+      "versionDescription": "Bardcard is a card-matching roguelite featuring a mysterious subterranean world to explore. Match cards to advance through the dungeon. Discover helpful equipment, battle dangerous minions, and meet magical familiars that join you on your adventure. Learn the secrets of this realm and discover the truth about the chaos that engulfs it.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/947",
+      "formatedsize": "161.5 MB",
+      "size": 169345024
+    },
+    {
       "name": "Crime City: Bank Robbery (Hack)",
       "bundleIdentifier": "com.gamegears.robberysniper",
       "developerName": "Nabzclan",
@@ -4805,135 +4923,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/247",
       "formatedsize": "33.22 MB",
       "size": 34833694
-    },
-    {
-      "name": "Nicegram (PREMIUM)",
-      "bundleIdentifier": "app.nicegram",
-      "developerName": "nabzclan",
-      "subtitle": "Nicegram injected with PREMIUM",
-      "localizedDescription": "Nicegram injected with PREMIUM\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: app.nicegram\n\n Downloads: 1127\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692898750.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16928987454427386061.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987458828506964.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987474889743242.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987478429185893.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987479804631340.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987482397569662.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.0",
-          "date": "2023-09-19 06:56:05",
-          "localizedDescription": "Current of Nicegram (PREMIUM) - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
-          "size": 94508154
-        },
-        {
-          "version": "1.3.9",
-          "date": "2023-08-24 17:39:10",
-          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.3.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/187",
-          "size": 64948797
-        },
-        {
-          "version": "1.4.0",
-          "date": "2023-09-19 06:56:05",
-          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
-          "size": 94508154
-        }
-      ],
-      "version": "1.4.0",
-      "versionDate": "2023-09-19 06:56:05",
-      "versionDescription": "Nicegram injected with PREMIUM",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/231",
-      "formatedsize": "90.13 MB",
-      "size": 94508154
-    },
-    {
-      "name": "Almighty Sign",
-      "bundleIdentifier": "qnq.nuosike.sign",
-      "developerName": "Almighty Sign Team",
-      "subtitle": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
-      "localizedDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: qnq.nuosike.sign\n\n Downloads: 819\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1694977326.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "7.3.9",
-          "date": "2023-09-18 11:25:01",
-          "localizedDescription": "Current of Almighty Sign - 7.3.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
-          "size": 6899630
-        },
-        {
-          "version": "7.3.9",
-          "date": "2023-09-18 11:25:01",
-          "localizedDescription": "Old Version of Almighty Sign - 7.3.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
-          "size": 6899630
-        }
-      ],
-      "version": "7.3.9",
-      "versionDate": "2023-09-18 11:25:01",
-      "versionDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/224",
-      "formatedsize": "6.58 MB",
-      "size": 6899630
-    },
-    {
-      "name": "Pixel Gun 3D (crosshair)",
-      "bundleIdentifier": "zombiegun3d",
-      "developerName": "nabzclan",
-      "subtitle": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
-      "localizedDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: zombiegun3d\n\n Downloads: 578\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1693336848.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16933368465892618539.webp",
-        "https://apps.nabzclan.vip/screenshots/16933368469527917642.webp",
-        "https://apps.nabzclan.vip/screenshots/16933368471962045570.webp",
-        "https://apps.nabzclan.vip/screenshots/16933368473667251773.webp",
-        "https://apps.nabzclan.vip/screenshots/16933368477753550269.webp",
-        "https://apps.nabzclan.vip/screenshots/16933368480986252081.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "23.7.0",
-          "date": "2023-09-18 00:13:00",
-          "localizedDescription": "Current of Pixel Gun 3D (crosshair) - 23.7.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/226",
-          "size": 513760296
-        },
-        {
-          "version": "23.6.2",
-          "date": "2023-08-29 19:20:48",
-          "localizedDescription": "Old Version of Pixel Gun 3D (crosshair) - 23.6.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/209",
-          "size": 480824524
-        },
-        {
-          "version": "23.7.0",
-          "date": "2023-09-18 00:13:00",
-          "localizedDescription": "Old Version of Pixel Gun 3D (crosshair) - 23.7.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/226",
-          "size": 513760296
-        }
-      ],
-      "version": "23.7.0",
-      "versionDate": "2023-09-18 00:13:00",
-      "versionDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/226",
-      "formatedsize": "489.96 MB",
-      "size": 513760296
     }
   ],
   "userInfo": {}

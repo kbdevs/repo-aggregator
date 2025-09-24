@@ -4,6 +4,135 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Nicegram (PREMIUM)",
+      "bundleIdentifier": "app.nicegram",
+      "developerName": "nabzclan",
+      "subtitle": "Nicegram injected with PREMIUM",
+      "localizedDescription": "Nicegram injected with PREMIUM\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: app.nicegram\n\n Downloads: 1127\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692898750.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16928987454427386061.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987458828506964.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987474889743242.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987478429185893.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987479804631340.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987482397569662.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.0",
+          "date": "2023-09-19 06:56:05",
+          "localizedDescription": "Current of Nicegram (PREMIUM) - 1.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
+          "size": 94508154
+        },
+        {
+          "version": "1.3.9",
+          "date": "2023-08-24 17:39:10",
+          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.3.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/187",
+          "size": 64948797
+        },
+        {
+          "version": "1.4.0",
+          "date": "2023-09-19 06:56:05",
+          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
+          "size": 94508154
+        }
+      ],
+      "version": "1.4.0",
+      "versionDate": "2023-09-19 06:56:05",
+      "versionDescription": "Nicegram injected with PREMIUM",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/231",
+      "formatedsize": "90.13 MB",
+      "size": 94508154
+    },
+    {
+      "name": "Almighty Sign",
+      "bundleIdentifier": "qnq.nuosike.sign",
+      "developerName": "Almighty Sign Team",
+      "subtitle": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
+      "localizedDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: qnq.nuosike.sign\n\n Downloads: 819\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1694977326.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "7.3.9",
+          "date": "2023-09-18 11:25:01",
+          "localizedDescription": "Current of Almighty Sign - 7.3.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
+          "size": 6899630
+        },
+        {
+          "version": "7.3.9",
+          "date": "2023-09-18 11:25:01",
+          "localizedDescription": "Old Version of Almighty Sign - 7.3.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
+          "size": 6899630
+        }
+      ],
+      "version": "7.3.9",
+      "versionDate": "2023-09-18 11:25:01",
+      "versionDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/224",
+      "formatedsize": "6.58 MB",
+      "size": 6899630
+    },
+    {
+      "name": "Pixel Gun 3D (crosshair)",
+      "bundleIdentifier": "zombiegun3d",
+      "developerName": "nabzclan",
+      "subtitle": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
+      "localizedDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: zombiegun3d\n\n Downloads: 578\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1693336848.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16933368465892618539.webp",
+        "https://apps.nabzclan.vip/screenshots/16933368469527917642.webp",
+        "https://apps.nabzclan.vip/screenshots/16933368471962045570.webp",
+        "https://apps.nabzclan.vip/screenshots/16933368473667251773.webp",
+        "https://apps.nabzclan.vip/screenshots/16933368477753550269.webp",
+        "https://apps.nabzclan.vip/screenshots/16933368480986252081.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "23.7.0",
+          "date": "2023-09-18 00:13:00",
+          "localizedDescription": "Current of Pixel Gun 3D (crosshair) - 23.7.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/226",
+          "size": 513760296
+        },
+        {
+          "version": "23.6.2",
+          "date": "2023-08-29 19:20:48",
+          "localizedDescription": "Old Version of Pixel Gun 3D (crosshair) - 23.6.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/209",
+          "size": 480824524
+        },
+        {
+          "version": "23.7.0",
+          "date": "2023-09-18 00:13:00",
+          "localizedDescription": "Old Version of Pixel Gun 3D (crosshair) - 23.7.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/226",
+          "size": 513760296
+        }
+      ],
+      "version": "23.7.0",
+      "versionDate": "2023-09-18 00:13:00",
+      "versionDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/226",
+      "formatedsize": "489.96 MB",
+      "size": 513760296
+    },
+    {
       "name": "MegaFlix (No Ads) - VIP",
       "bundleIdentifier": "com.puneso.converter",
       "developerName": "Nabzclan",
@@ -1726,39 +1855,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
-    },
-    {
-      "name": "Mangayomi",
-      "bundleIdentifier": "com.kodjodevf.mangayomi",
-      "version": "0.1.0",
-      "versionDate": "2024-10-09",
-      "size": 93145110,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
-      "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
-    },
-    {
-      "name": "LyricifyMobile",
-      "bundleIdentifier": "com.wxriw.LyricifyMobile",
-      "version": "1.4.3",
-      "versionDate": "2024-10-09",
-      "size": 23887689,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
-      "developerName": "Lyricify-App",
-      "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png"
-    },
-    {
-      "name": "LoopsiePro",
-      "bundleIdentifier": "com.gamelounge.loopsie.ios",
-      "version": "8.10.2",
-      "versionDate": "2024-10-09",
-      "size": 185592561,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
     }
   ],
   "userInfo": {}

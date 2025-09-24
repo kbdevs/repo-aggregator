@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "F.b",
+      "type": 1,
+      "bundleID": "com.vgfit.fitnessvip",
+      "bundleIdentifier": "com.vgfit.fitnessvip",
+      "version": "1.10.9",
+      "versionDate": "2025-02-04",
+      "fullDate": "20250204170953",
+      "size": 30755497,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/F.b_1.10.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/F.b_1.10.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png"
+    },
+    {
+      "name": "Dr.Kegel",
+      "type": 1,
+      "bundleID": "com.appercut.kegel",
+      "bundleIdentifier": "com.appercut.kegel",
+      "version": "2.53.1",
+      "versionDate": "2025-02-02",
+      "fullDate": "20250202121822",
+      "size": 191478402,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Dr.Kegel_2.53.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Dr.Kegel_2.53.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appercut.kegel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appercut.kegel.png"
+    },
+    {
+      "name": "LastDayOnEarth.Survival",
+      "type": 2,
+      "bundleID": "zombie.survival.craft.z",
+      "bundleIdentifier": "zombie.survival.craft.z",
+      "version": "1.32.0",
+      "versionDate": "2025-02-02",
+      "fullDate": "20250202120516",
+      "size": 881041012,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/LastDayOnEarth.Survival_1.32.0_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/LastDayOnEarth.Survival_1.32.0_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png"
+    },
+    {
       "name": "Fujixweekly",
       "type": 1,
       "bundleID": "com.fujixweekly.fujixweeklyrecipes",
@@ -4138,125 +4186,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
       "formatedsize": "1.06 GB",
       "size": 1138166333
-    },
-    {
-      "name": "Bridge Constructor Stunts",
-      "bundleIdentifier": "com.headupgames.bridgeconstructorstunts",
-      "developerName": "Headup GmbH",
-      "subtitle": "The successful Bridge Constructor series \u2013 number 1 in the AppStore in over 60 countries, with over 35 million players worldwide \u2013 treads new paths with Bridge Constructor Stunts! \r\n\r\nStuntman and engineer in one? No problem with Bridge Constructor Stunts!\r\nBuild imposing ramps and loops to reach your goal in the diverse stages. But building structures alone isn't enough this time: you sit behind the wheel of the vehicles yourself and have to maneuver them skillfully to the goal. Collect stars, complete daredevil jumps, flips and spectacular stunts, leaving behind a trail of destruction across the entire level to beat the high score. But you can only do all that with perfectly constructed bridges and ramps.",
-      "localizedDescription": "The successful Bridge Constructor series \u2013 number 1 in the AppStore in over 60 countries, with over 35 million players worldwide \u2013 treads new paths with Bridge Constructor Stunts! \r\n\r\nStuntman and engineer in one? No problem with Bridge Constructor Stunts!\r\nBuild imposing ramps and loops to reach your goal in the diverse stages. But building structures alone isn't enough this time: you sit behind the wheel of the vehicles yourself and have to maneuver them skillfully to the goal. Collect stars, complete daredevil jumps, flips and spectacular stunts, leaving behind a trail of destruction across the entire level to beat the high score. But you can only do all that with perfectly constructed bridges and ramps.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.headupgames.bridgeconstructorstunts\n\n Downloads: 244\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1741121966.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17411219656934991167.webp",
-        "https://apps.nabzclan.vip/screenshots/17411219658047391200.webp",
-        "https://apps.nabzclan.vip/screenshots/17411219658703287294.webp",
-        "https://apps.nabzclan.vip/screenshots/17411219659388042113.webp",
-        "https://apps.nabzclan.vip/screenshots/17411219660025292220.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.7",
-          "date": "2025-03-04 15:59:26",
-          "localizedDescription": "Current of Bridge Constructor Stunts - 2.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1241",
-          "size": 62390272
-        },
-        {
-          "version": "2.7",
-          "date": "2025-03-04 15:59:26",
-          "localizedDescription": "Old Version of Bridge Constructor Stunts - 2.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1241",
-          "size": 62390272
-        }
-      ],
-      "version": "2.7",
-      "versionDate": "2025-03-04 15:59:26",
-      "versionDescription": "The successful Bridge Constructor series \u2013 number 1 in the AppStore in over 60 countries, with over 35 million players worldwide \u2013 treads new paths with Bridge Constructor Stunts! \r\n\r\nStuntman and engineer in one? No problem with Bridge Constructor Stunts!\r\nBuild imposing ramps and loops to reach your goal in the diverse stages. But building structures alone isn't enough this time: you sit behind the wheel of the vehicles yourself and have to maneuver them skillfully to the goal. Collect stars, complete daredevil jumps, flips and spectacular stunts, leaving behind a trail of destruction across the entire level to beat the high score. But you can only do all that with perfectly constructed bridges and ramps.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1241",
-      "formatedsize": "59.5 MB",
-      "size": 62390272
-    },
-    {
-      "name": "Five Nights at Freddy's 2",
-      "bundleIdentifier": "com.scottgames.fnaf2",
-      "developerName": "CLICKTEAM LLC USA",
-      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fnaf2\n\n Downloads: 922\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731694737.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17316947365892033142.webp",
-        "https://apps.nabzclan.vip/screenshots/17316947367507722606.webp",
-        "https://apps.nabzclan.vip/screenshots/17316947368164834238.webp",
-        "https://apps.nabzclan.vip/screenshots/17316947368762373386.webp",
-        "https://apps.nabzclan.vip/screenshots/17316947369135909296.webp",
-        "https://apps.nabzclan.vip/screenshots/17316947369829425846.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.5",
-          "date": "2025-02-25 17:03:26",
-          "localizedDescription": "Current of Five Nights at Freddy's 2 - 2.0.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1014",
-          "size": 117157396
-        },
-        {
-          "version": "2.0.5",
-          "date": "2025-02-25 17:03:26",
-          "localizedDescription": "Old Version of Five Nights at Freddy's 2 - 2.0.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1014",
-          "size": 117157396
-        }
-      ],
-      "version": "2.0.5",
-      "versionDate": "2025-02-25 17:03:26",
-      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1014",
-      "formatedsize": "111.73 MB",
-      "size": 117157396
-    },
-    {
-      "name": "Five Nights at Freddy's 4",
-      "bundleIdentifier": "com.scottgames.fnaf4",
-      "developerName": "What have you brought home",
-      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fnaf4\n\n Downloads: 785\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1691164826.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16911648157146498081.webp",
-        "https://apps.nabzclan.vip/screenshots/16911648161212001883.webp",
-        "https://apps.nabzclan.vip/screenshots/16911648183829877167.webp",
-        "https://apps.nabzclan.vip/screenshots/16911648197976631516.webp",
-        "https://apps.nabzclan.vip/screenshots/16911648221053840018.webp",
-        "https://apps.nabzclan.vip/screenshots/16911648251089398131.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.2",
-          "date": "2025-02-25 17:01:14",
-          "localizedDescription": "Current of Five Nights at Freddy's 4 - 2.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1013",
-          "size": 44742737
-        },
-        {
-          "version": "2.0.2",
-          "date": "2025-02-25 17:01:14",
-          "localizedDescription": "Old Version of Five Nights at Freddy's 4 - 2.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1013",
-          "size": 44742737
-        }
-      ],
-      "version": "2.0.2",
-      "versionDate": "2025-02-25 17:01:14",
-      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1013",
-      "formatedsize": "42.67 MB",
-      "size": 44742737
     }
   ],
   "userInfo": {}

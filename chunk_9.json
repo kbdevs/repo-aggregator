@@ -4,6 +4,125 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Bridge Constructor Stunts",
+      "bundleIdentifier": "com.headupgames.bridgeconstructorstunts",
+      "developerName": "Headup GmbH",
+      "subtitle": "The successful Bridge Constructor series \u2013 number 1 in the AppStore in over 60 countries, with over 35 million players worldwide \u2013 treads new paths with Bridge Constructor Stunts! \r\n\r\nStuntman and engineer in one? No problem with Bridge Constructor Stunts!\r\nBuild imposing ramps and loops to reach your goal in the diverse stages. But building structures alone isn't enough this time: you sit behind the wheel of the vehicles yourself and have to maneuver them skillfully to the goal. Collect stars, complete daredevil jumps, flips and spectacular stunts, leaving behind a trail of destruction across the entire level to beat the high score. But you can only do all that with perfectly constructed bridges and ramps.",
+      "localizedDescription": "The successful Bridge Constructor series \u2013 number 1 in the AppStore in over 60 countries, with over 35 million players worldwide \u2013 treads new paths with Bridge Constructor Stunts! \r\n\r\nStuntman and engineer in one? No problem with Bridge Constructor Stunts!\r\nBuild imposing ramps and loops to reach your goal in the diverse stages. But building structures alone isn't enough this time: you sit behind the wheel of the vehicles yourself and have to maneuver them skillfully to the goal. Collect stars, complete daredevil jumps, flips and spectacular stunts, leaving behind a trail of destruction across the entire level to beat the high score. But you can only do all that with perfectly constructed bridges and ramps.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.headupgames.bridgeconstructorstunts\n\n Downloads: 244\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1741121966.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17411219656934991167.webp",
+        "https://apps.nabzclan.vip/screenshots/17411219658047391200.webp",
+        "https://apps.nabzclan.vip/screenshots/17411219658703287294.webp",
+        "https://apps.nabzclan.vip/screenshots/17411219659388042113.webp",
+        "https://apps.nabzclan.vip/screenshots/17411219660025292220.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.7",
+          "date": "2025-03-04 15:59:26",
+          "localizedDescription": "Current of Bridge Constructor Stunts - 2.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1241",
+          "size": 62390272
+        },
+        {
+          "version": "2.7",
+          "date": "2025-03-04 15:59:26",
+          "localizedDescription": "Old Version of Bridge Constructor Stunts - 2.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1241",
+          "size": 62390272
+        }
+      ],
+      "version": "2.7",
+      "versionDate": "2025-03-04 15:59:26",
+      "versionDescription": "The successful Bridge Constructor series \u2013 number 1 in the AppStore in over 60 countries, with over 35 million players worldwide \u2013 treads new paths with Bridge Constructor Stunts! \r\n\r\nStuntman and engineer in one? No problem with Bridge Constructor Stunts!\r\nBuild imposing ramps and loops to reach your goal in the diverse stages. But building structures alone isn't enough this time: you sit behind the wheel of the vehicles yourself and have to maneuver them skillfully to the goal. Collect stars, complete daredevil jumps, flips and spectacular stunts, leaving behind a trail of destruction across the entire level to beat the high score. But you can only do all that with perfectly constructed bridges and ramps.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1241",
+      "formatedsize": "59.5 MB",
+      "size": 62390272
+    },
+    {
+      "name": "Five Nights at Freddy's 2",
+      "bundleIdentifier": "com.scottgames.fnaf2",
+      "developerName": "CLICKTEAM LLC USA",
+      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
+      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fnaf2\n\n Downloads: 922\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731694737.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17316947365892033142.webp",
+        "https://apps.nabzclan.vip/screenshots/17316947367507722606.webp",
+        "https://apps.nabzclan.vip/screenshots/17316947368164834238.webp",
+        "https://apps.nabzclan.vip/screenshots/17316947368762373386.webp",
+        "https://apps.nabzclan.vip/screenshots/17316947369135909296.webp",
+        "https://apps.nabzclan.vip/screenshots/17316947369829425846.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.5",
+          "date": "2025-02-25 17:03:26",
+          "localizedDescription": "Current of Five Nights at Freddy's 2 - 2.0.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1014",
+          "size": 117157396
+        },
+        {
+          "version": "2.0.5",
+          "date": "2025-02-25 17:03:26",
+          "localizedDescription": "Old Version of Five Nights at Freddy's 2 - 2.0.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1014",
+          "size": 117157396
+        }
+      ],
+      "version": "2.0.5",
+      "versionDate": "2025-02-25 17:03:26",
+      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1014",
+      "formatedsize": "111.73 MB",
+      "size": 117157396
+    },
+    {
+      "name": "Five Nights at Freddy's 4",
+      "bundleIdentifier": "com.scottgames.fnaf4",
+      "developerName": "What have you brought home",
+      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
+      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fnaf4\n\n Downloads: 785\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1691164826.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16911648157146498081.webp",
+        "https://apps.nabzclan.vip/screenshots/16911648161212001883.webp",
+        "https://apps.nabzclan.vip/screenshots/16911648183829877167.webp",
+        "https://apps.nabzclan.vip/screenshots/16911648197976631516.webp",
+        "https://apps.nabzclan.vip/screenshots/16911648221053840018.webp",
+        "https://apps.nabzclan.vip/screenshots/16911648251089398131.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2025-02-25 17:01:14",
+          "localizedDescription": "Current of Five Nights at Freddy's 4 - 2.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1013",
+          "size": 44742737
+        },
+        {
+          "version": "2.0.2",
+          "date": "2025-02-25 17:01:14",
+          "localizedDescription": "Old Version of Five Nights at Freddy's 4 - 2.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1013",
+          "size": 44742737
+        }
+      ],
+      "version": "2.0.2",
+      "versionDate": "2025-02-25 17:01:14",
+      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1013",
+      "formatedsize": "42.67 MB",
+      "size": 44742737
+    },
+    {
       "name": "Five Nights at Freddy's: HW",
       "bundleIdentifier": "com.steelwoolstudios.fnafhw",
       "developerName": "Steel Wool Games, Inc.",
@@ -4901,124 +5020,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/964",
       "formatedsize": "953.4 MB",
       "size": 999712358
-    },
-    {
-      "name": "Bloons TD Battles 2+",
-      "bundleIdentifier": "com.ninjakiwi.bloonstdbattles2plus",
-      "developerName": "Ninja Kiwi",
-      "subtitle": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
-      "localizedDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.ninjakiwi.bloonstdbattles2plus\n\n Downloads: 256\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731274257.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312742574188651103.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742574878086788.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742575255618301.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742575632902216.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742576077967916.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.3.1",
-          "date": "2024-11-10 16:30:58",
-          "localizedDescription": "Current of Bloons TD Battles 2+ - 4.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
-          "size": 923323596
-        },
-        {
-          "version": "4.3.1",
-          "date": "2024-11-10 16:30:58",
-          "localizedDescription": "Old Version of Bloons TD Battles 2+ - 4.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
-          "size": 923323596
-        }
-      ],
-      "version": "4.3.1",
-      "versionDate": "2024-11-10 16:30:58",
-      "versionDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/962",
-      "formatedsize": "880.55 MB",
-      "size": 923323596
-    },
-    {
-      "name": "Shadow Fight 2 Special Edition",
-      "bundleIdentifier": "com.nekki.shadowfight.paid",
-      "developerName": "Nekki Limited",
-      "subtitle": "The best fighting series on mobile has returned and become even more SPECIAL - Shadow Fight 2 Special Edition!! \r\n\r\n- No Ads!\r\n- No energy restoring. Jump into the fray anytime and anywhere you want!\r\n- Unveil a truth behind Sensei's past in a whole new story chapter!\r\n- Complete the story mode without grinding!\r\n- Equip yourself with a huge amount of weapons and armor. Get a lot of gems through battles and make your arsenal even more larger!\r\n- Travel across 7 distinct provinces and force to terrify Titan himself!\r\n- Simple controls is designed for touch screen usage. Shadow Fight 2 is easy to play but hard to master!\r\n- Astonishing animations and unique design!",
-      "localizedDescription": "The best fighting series on mobile has returned and become even more SPECIAL - Shadow Fight 2 Special Edition!! \r\n\r\n- No Ads!\r\n- No energy restoring. Jump into the fray anytime and anywhere you want!\r\n- Unveil a truth behind Sensei's past in a whole new story chapter!\r\n- Complete the story mode without grinding!\r\n- Equip yourself with a huge amount of weapons and armor. Get a lot of gems through battles and make your arsenal even more larger!\r\n- Travel across 7 distinct provinces and force to terrify Titan himself!\r\n- Simple controls is designed for touch screen usage. Shadow Fight 2 is easy to play but hard to master!\r\n- Astonishing animations and unique design!\n\n --- \n\n More app Information:\n\n Category: Free in app purchases\n\n BundleID: com.nekki.shadowfight.paid\n\n Downloads: 3084\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731272048.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312720470032471396.webp",
-        "https://apps.nabzclan.vip/screenshots/17312720472105452163.webp",
-        "https://apps.nabzclan.vip/screenshots/17312720476767859850.webp",
-        "https://apps.nabzclan.vip/screenshots/17312720478535807805.webp",
-        "https://apps.nabzclan.vip/screenshots/17312720479582737396.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.4",
-          "date": "2024-11-10 15:54:09",
-          "localizedDescription": "Current of Shadow Fight 2 Special Edition - 1.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/958",
-          "size": 109261619
-        },
-        {
-          "version": "1.0.4",
-          "date": "2024-11-10 15:54:09",
-          "localizedDescription": "Old Version of Shadow Fight 2 Special Edition - 1.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/958",
-          "size": 109261619
-        }
-      ],
-      "version": "1.0.4",
-      "versionDate": "2024-11-10 15:54:09",
-      "versionDescription": "The best fighting series on mobile has returned and become even more SPECIAL - Shadow Fight 2 Special Edition!! \r\n\r\n- No Ads!\r\n- No energy restoring. Jump into the fray anytime and anywhere you want!\r\n- Unveil a truth behind Sensei's past in a whole new story chapter!\r\n- Complete the story mode without grinding!\r\n- Equip yourself with a huge amount of weapons and armor. Get a lot of gems through battles and make your arsenal even more larger!\r\n- Travel across 7 distinct provinces and force to terrify Titan himself!\r\n- Simple controls is designed for touch screen usage. Shadow Fight 2 is easy to play but hard to master!\r\n- Astonishing animations and unique design!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/958",
-      "formatedsize": "104.2 MB",
-      "size": 109261619
-    },
-    {
-      "name": "Bardcard",
-      "bundleIdentifier": "org.reactjs.native.example.GraphicsSandbox",
-      "developerName": "Card-matching dungeon crawler",
-      "subtitle": "Bardcard is a card-matching roguelite featuring a mysterious subterranean world to explore. Match cards to advance through the dungeon. Discover helpful equipment, battle dangerous minions, and meet magical familiars that join you on your adventure. Learn the secrets of this realm and discover the truth about the chaos that engulfs it.",
-      "localizedDescription": "Bardcard is a card-matching roguelite featuring a mysterious subterranean world to explore. Match cards to advance through the dungeon. Discover helpful equipment, battle dangerous minions, and meet magical familiars that join you on your adventure. Learn the secrets of this realm and discover the truth about the chaos that engulfs it.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: org.reactjs.native.example.GraphicsSandbox\n\n Downloads: 131\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731136699.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17311366921288061263.webp",
-        "https://apps.nabzclan.vip/screenshots/17311366924139458465.webp",
-        "https://apps.nabzclan.vip/screenshots/17311366942501536948.webp",
-        "https://apps.nabzclan.vip/screenshots/17311366956874175434.webp",
-        "https://apps.nabzclan.vip/screenshots/17311366972555488031.webp",
-        "https://apps.nabzclan.vip/screenshots/17311366987945950553.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.28",
-          "date": "2024-11-09 02:18:19",
-          "localizedDescription": "Current of Bardcard - 2.28",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/947",
-          "size": 169345024
-        },
-        {
-          "version": "2.28",
-          "date": "2024-11-09 02:18:19",
-          "localizedDescription": "Old Version of Bardcard - 2.28",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/947",
-          "size": 169345024
-        }
-      ],
-      "version": "2.28",
-      "versionDate": "2024-11-09 02:18:19",
-      "versionDescription": "Bardcard is a card-matching roguelite featuring a mysterious subterranean world to explore. Match cards to advance through the dungeon. Discover helpful equipment, battle dangerous minions, and meet magical familiars that join you on your adventure. Learn the secrets of this realm and discover the truth about the chaos that engulfs it.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/947",
-      "formatedsize": "161.5 MB",
-      "size": 169345024
     }
   ],
   "userInfo": {}
