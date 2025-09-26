@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "LogoMaker",
+      "type": 1,
+      "bundleID": "com.contentarcade.LogoMaker",
+      "bundleIdentifier": "com.contentarcade.LogoMaker",
+      "version": "11.2.8",
+      "versionDate": "2025-02-04",
+      "fullDate": "20250204233200",
+      "size": 254708880,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/LogoMaker_11.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/LogoMaker_11.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.contentarcade.LogoMaker.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.contentarcade.LogoMaker.png"
+    },
+    {
+      "name": "StoryFont",
+      "type": 1,
+      "bundleID": "com.mfapp.storyFontEn",
+      "bundleIdentifier": "com.mfapp.storyFontEn",
+      "version": "3.0.2",
+      "versionDate": "2025-02-04",
+      "fullDate": "20250204232752",
+      "size": 44566957,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/StoryFont_3.0.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/StoryFont_3.0.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png"
+    },
+    {
+      "name": "Rungo",
+      "type": 1,
+      "bundleID": "com.leapingcoyote.rungo",
+      "bundleIdentifier": "com.leapingcoyote.rungo",
+      "version": "7.1.2",
+      "versionDate": "2025-02-04",
+      "fullDate": "20250204171026",
+      "size": 34618265,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/Rungo_7.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/Rungo_7.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png"
+    },
+    {
       "name": "F.b",
       "type": 1,
       "bundleID": "com.vgfit.fitnessvip",
@@ -50,22 +98,6 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png"
-    },
-    {
-      "name": "Fujixweekly",
-      "type": 1,
-      "bundleID": "com.fujixweekly.fujixweeklyrecipes",
-      "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
-      "version": "1.8.0",
-      "versionDate": "2025-02-02",
-      "fullDate": "20250202120221",
-      "size": 5820129,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Fujixweekly_1.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Fujixweekly_1.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png"
     },
     {
       "name": "OpusVpn",
@@ -4111,81 +4143,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
       "formatedsize": "48.7 MB",
       "size": 51065651
-    },
-    {
-      "name": "Blasphemous",
-      "bundleIdentifier": "com.thegamekitchen.blasphemous",
-      "developerName": "The Game Kitchen Games",
-      "subtitle": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.\r\nPlay as The Penitent One - a sole survivor of the massacre of the \u2018Silent Sorrow\u2019. Trapped in an endless cycle of death and rebirth, it\u2019s down to you to free the world from this terrible fate and reach the origin of your anguish.\r\nExplore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, all ready to rip you limb from limb. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.",
-      "localizedDescription": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.\r\nPlay as The Penitent One - a sole survivor of the massacre of the \u2018Silent Sorrow\u2019. Trapped in an endless cycle of death and rebirth, it\u2019s down to you to free the world from this terrible fate and reach the origin of your anguish.\r\nExplore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, all ready to rip you limb from limb. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.thegamekitchen.blasphemous\n\n Downloads: 765\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1741480635.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4",
-          "date": "2025-03-08 19:37:09",
-          "localizedDescription": "Current of Blasphemous - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
-          "size": 867486924
-        },
-        {
-          "version": "1.4",
-          "date": "2025-03-08 19:37:09",
-          "localizedDescription": "Old Version of Blasphemous - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
-          "size": 867486924
-        }
-      ],
-      "version": "1.4",
-      "versionDate": "2025-03-08 19:37:09",
-      "versionDescription": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.\r\nPlay as The Penitent One - a sole survivor of the massacre of the \u2018Silent Sorrow\u2019. Trapped in an endless cycle of death and rebirth, it\u2019s down to you to free the world from this terrible fate and reach the origin of your anguish.\r\nExplore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, all ready to rip you limb from limb. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
-      "formatedsize": "827.3 MB",
-      "size": 867486924
-    },
-    {
-      "name": "TMNT Splintered Fate",
-      "bundleIdentifier": "com.mtvn.tmntsplinteredfate",
-      "developerName": "Viacom International Inc.",
-      "subtitle": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.",
-      "localizedDescription": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.mtvn.tmntsplinteredfate\n\n Downloads: 112\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1741479436.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414794358217720070.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794359569483439.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794360683973138.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794361815224574.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794363025236929.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794363778285186.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.1",
-          "date": "2025-03-08 19:17:16",
-          "localizedDescription": "Current of TMNT Splintered Fate - 1.7.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
-          "size": 1138166333
-        },
-        {
-          "version": "1.7.1",
-          "date": "2025-03-08 19:17:16",
-          "localizedDescription": "Old Version of TMNT Splintered Fate - 1.7.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
-          "size": 1138166333
-        }
-      ],
-      "version": "1.7.1",
-      "versionDate": "2025-03-08 19:17:16",
-      "versionDescription": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
-      "formatedsize": "1.06 GB",
-      "size": 1138166333
     }
   ],
   "userInfo": {}
