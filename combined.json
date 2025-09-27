@@ -870,6 +870,134 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "AlightMotion",
+      "type": 1,
+      "bundleID": "com.alightcreative.motion",
+      "bundleIdentifier": "com.alightcreative.motion",
+      "version": "6.2.40",
+      "versionDate": "2025-09-27",
+      "fullDate": "20250927005925",
+      "size": 124248562,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-09-2025/AlightMotion_6.2.40_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-09-2025/AlightMotion_6.2.40_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
+    },
+    {
+      "name": "Photoroom",
+      "type": 1,
+      "bundleID": "com.dr1ven.eraser",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "version": "2025.38.01",
+      "versionDate": "2025-09-27",
+      "fullDate": "20250927001015",
+      "size": 130544473,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-09-2025/Photoroom_2025.38.01_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-09-2025/Photoroom_2025.38.01_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png"
+    },
+    {
+      "name": "",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "9.1.7",
+      "versionDate": "2025-09-26",
+      "fullDate": "20250926234506",
+      "size": 158273545,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/_9.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/_9.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
+      "name": "Headway",
+      "type": 1,
+      "bundleID": "com.headway.books",
+      "bundleIdentifier": "com.headway.books",
+      "version": "349.1",
+      "versionDate": "2025-09-26",
+      "fullDate": "20250926225449",
+      "size": 305698519,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/Headway_349.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/Headway_349.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+    },
+    {
+      "name": "RiseSleep",
+      "type": 1,
+      "bundleID": "com.risesci.nyx",
+      "bundleIdentifier": "com.risesci.nyx",
+      "version": "0.1.538",
+      "versionDate": "2025-09-26",
+      "fullDate": "20250926224943",
+      "size": 116444808,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/RiseSleep_0.1.538_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/RiseSleep_0.1.538_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+    },
+    {
+      "name": "AllTrails",
+      "type": 1,
+      "bundleID": "com.alltrails.AllTrails",
+      "bundleIdentifier": "com.alltrails.AllTrails",
+      "version": "25.9.41",
+      "versionDate": "2025-09-26",
+      "fullDate": "20250926205931",
+      "size": 109679750,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/AllTrails_25.9.41_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/AllTrails_25.9.41_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png"
+    },
+    {
+      "name": "SODA",
+      "type": 1,
+      "bundleID": "com.snowcorp.soda",
+      "bundleIdentifier": "com.snowcorp.soda",
+      "version": "9.3.20",
+      "versionDate": "2025-09-26",
+      "fullDate": "20250926152906",
+      "size": 136902635,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/SODA_9.3.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/SODA_9.3.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png"
+    },
+    {
+      "name": "HiWidget",
+      "type": 1,
+      "bundleID": "com.zerone.hidesktop",
+      "bundleIdentifier": "com.zerone.hidesktop",
+      "version": "4.3.35",
+      "versionDate": "2025-09-26",
+      "fullDate": "20250926075321",
+      "size": 381304931,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/HiWidget_4.3.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/HiWidget_4.3.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
+    },
+    {
       "name": "Captions",
       "type": 1,
       "bundleID": "boomer.Smart-Video",
@@ -1702,22 +1830,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png"
     },
     {
-      "name": "AllTrails",
-      "type": 1,
-      "bundleID": "com.alltrails.AllTrails",
-      "bundleIdentifier": "com.alltrails.AllTrails",
-      "version": "25.9.40",
-      "versionDate": "2025-09-24",
-      "fullDate": "20250924213617",
-      "size": 109387029,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/AllTrails_25.9.40_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/AllTrails_25.9.40_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png"
-    },
-    {
       "name": "Sketchar",
       "type": 1,
       "bundleID": "tech.sketchar.ios",
@@ -1748,22 +1860,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
-    },
-    {
-      "name": "Headway",
-      "type": 1,
-      "bundleID": "com.headway.books",
-      "bundleIdentifier": "com.headway.books",
-      "version": "348.6",
-      "versionDate": "2025-09-24",
-      "fullDate": "20250924154532",
-      "size": 305694302,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Headway_348.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Headway_348.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
     },
     {
       "name": "YAZIO",
@@ -2918,22 +3014,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png"
     },
     {
-      "name": "RiseSleep",
-      "type": 1,
-      "bundleID": "com.risesci.nyx",
-      "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.537",
-      "versionDate": "2025-09-22",
-      "fullDate": "20250922213027",
-      "size": 108824069,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/RiseSleep_0.1.537_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/RiseSleep_0.1.537_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
-    },
-    {
       "name": "Moonly",
       "type": 1,
       "bundleID": "com.moonly.Moonly",
@@ -3060,22 +3140,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png"
-    },
-    {
-      "name": "",
-      "type": 1,
-      "bundleID": "com.intsig.CamScannerLite",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "9.1.6",
-      "versionDate": "2025-09-22",
-      "fullDate": "20250922142844",
-      "size": 152898053,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/_9.1.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/_9.1.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
     },
     {
       "name": "Productive",
@@ -3220,22 +3284,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png"
-    },
-    {
-      "name": "HiWidget",
-      "type": 1,
-      "bundleID": "com.zerone.hidesktop",
-      "bundleIdentifier": "com.zerone.hidesktop",
-      "version": "4.3.25",
-      "versionDate": "2025-09-14",
-      "fullDate": "20250914164421",
-      "size": 379485409,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2025/HiWidget_4.3.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2025/HiWidget_4.3.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
     },
     {
       "name": "Videoleap",
@@ -3606,22 +3654,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png"
     },
     {
-      "name": "AlightMotion",
-      "type": 1,
-      "bundleID": "com.alightcreative.motion",
-      "bundleIdentifier": "com.alightcreative.motion",
-      "version": "6.2.38",
-      "versionDate": "2025-09-12",
-      "fullDate": "20250912125645",
-      "size": 124808097,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2025/AlightMotion_6.2.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2025/AlightMotion_6.2.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
-    },
-    {
       "name": "Bazaart",
       "type": 1,
       "bundleID": "co.bazaart.app",
@@ -3844,22 +3876,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png"
-    },
-    {
-      "name": "Photoroom",
-      "type": 1,
-      "bundleID": "com.dr1ven.eraser",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "version": "2025.36.01",
-      "versionDate": "2025-09-11",
-      "fullDate": "20250911230141",
-      "size": 115024530,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2025/Photoroom_2025.36.01_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2025/Photoroom_2025.36.01_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png"
     },
     {
       "name": "Compress",
@@ -4612,22 +4628,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
-    },
-    {
-      "name": "SODA",
-      "type": 1,
-      "bundleID": "com.snowcorp.soda",
-      "bundleIdentifier": "com.snowcorp.soda",
-      "version": "9.3.15",
-      "versionDate": "2025-09-04",
-      "fullDate": "20250904163950",
-      "size": 136724003,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2025/SODA_9.3.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2025/SODA_9.3.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png"
     },
     {
       "name": "Wordscapes",
@@ -8740,6 +8740,22 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
+    },
+    {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704082624",
+      "size": 176231919,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
     },
     {
       "name": "ReceiptLens",
@@ -13750,22 +13766,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
-      "name": "AndalusiDesign",
-      "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
-    },
-    {
       "name": "RashaqaWorkout",
       "type": 1,
       "bundleID": "com.madarsoft.fitness",
@@ -14703,10 +14703,10 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "2.3.1",
-          "date": "2025-08-08T08:20:00Z",
+          "version": "2.4.0",
+          "date": "2025-10-26T08:20:00Z",
           "size": 12598584,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.1/Feather.ipa"
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.4.0/Feather.ipa"
         }
       ],
       "appPermissions": {},
@@ -14716,10 +14716,10 @@
         "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Sign.png?raw=true",
         "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Store.png?raw=true"
       ],
-      "version": "2.3.1",
-      "versionDate": "2025-08-08T08:20:00Z",
+      "version": "2.4.0",
+      "versionDate": "2025-10-26T08:20:00Z",
       "size": 12598584,
-      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.3.1/Feather.ipa"
+      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.4.0/Feather.ipa"
     },
     {
       "beta": false,
