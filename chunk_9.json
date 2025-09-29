@@ -4,81 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
-      "name": "Blasphemous",
-      "bundleIdentifier": "com.thegamekitchen.blasphemous",
-      "developerName": "The Game Kitchen Games",
-      "subtitle": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.\r\nPlay as The Penitent One - a sole survivor of the massacre of the \u2018Silent Sorrow\u2019. Trapped in an endless cycle of death and rebirth, it\u2019s down to you to free the world from this terrible fate and reach the origin of your anguish.\r\nExplore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, all ready to rip you limb from limb. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.",
-      "localizedDescription": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.\r\nPlay as The Penitent One - a sole survivor of the massacre of the \u2018Silent Sorrow\u2019. Trapped in an endless cycle of death and rebirth, it\u2019s down to you to free the world from this terrible fate and reach the origin of your anguish.\r\nExplore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, all ready to rip you limb from limb. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.thegamekitchen.blasphemous\n\n Downloads: 765\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1741480635.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4",
-          "date": "2025-03-08 19:37:09",
-          "localizedDescription": "Current of Blasphemous - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
-          "size": 867486924
-        },
-        {
-          "version": "1.4",
-          "date": "2025-03-08 19:37:09",
-          "localizedDescription": "Old Version of Blasphemous - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
-          "size": 867486924
-        }
-      ],
-      "version": "1.4",
-      "versionDate": "2025-03-08 19:37:09",
-      "versionDescription": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.\r\nPlay as The Penitent One - a sole survivor of the massacre of the \u2018Silent Sorrow\u2019. Trapped in an endless cycle of death and rebirth, it\u2019s down to you to free the world from this terrible fate and reach the origin of your anguish.\r\nExplore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, all ready to rip you limb from limb. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
-      "formatedsize": "827.3 MB",
-      "size": 867486924
-    },
-    {
-      "name": "TMNT Splintered Fate",
-      "bundleIdentifier": "com.mtvn.tmntsplinteredfate",
-      "developerName": "Viacom International Inc.",
-      "subtitle": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.",
-      "localizedDescription": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.mtvn.tmntsplinteredfate\n\n Downloads: 112\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1741479436.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414794358217720070.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794359569483439.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794360683973138.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794361815224574.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794363025236929.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794363778285186.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.1",
-          "date": "2025-03-08 19:17:16",
-          "localizedDescription": "Current of TMNT Splintered Fate - 1.7.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
-          "size": 1138166333
-        },
-        {
-          "version": "1.7.1",
-          "date": "2025-03-08 19:17:16",
-          "localizedDescription": "Old Version of TMNT Splintered Fate - 1.7.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
-          "size": 1138166333
-        }
-      ],
-      "version": "1.7.1",
-      "versionDate": "2025-03-08 19:17:16",
-      "versionDescription": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
-      "formatedsize": "1.06 GB",
-      "size": 1138166333
-    },
-    {
       "name": "Bridge Constructor Stunts",
       "bundleIdentifier": "com.headupgames.bridgeconstructorstunts",
       "developerName": "Headup GmbH",
@@ -5016,6 +4941,124 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/966",
       "formatedsize": "114.3 MB",
       "size": 119852236
+    },
+    {
+      "name": "Cityscapes: Sim Builder",
+      "bundleIdentifier": "com.playstack.citybuilder",
+      "developerName": "Playstack Ltd",
+      "subtitle": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
+      "localizedDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.playstack.citybuilder\n\n Downloads: 581\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731275303.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312753022326085404.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753023306944792.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753024142050486.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753035862043958.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753037077891302.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.3.50",
+          "date": "2024-11-10 16:48:24",
+          "localizedDescription": "Current of Cityscapes: Sim Builder - 1.3.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
+          "size": 518940262
+        },
+        {
+          "version": "1.3.50",
+          "date": "2024-11-10 16:48:24",
+          "localizedDescription": "Old Version of Cityscapes: Sim Builder - 1.3.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
+          "size": 518940262
+        }
+      ],
+      "version": "1.3.50",
+      "versionDate": "2024-11-10 16:48:24",
+      "versionDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/965",
+      "formatedsize": "494.9 MB",
+      "size": 518940262
+    },
+    {
+      "name": "Human Fall Flat+",
+      "bundleIdentifier": "com.games505.Humanfallflatarcade",
+      "developerName": "505 Games (US), Inc.",
+      "subtitle": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
+      "localizedDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.games505.Humanfallflatarcade\n\n Downloads: 815\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731274989.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312749889834144108.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749891107895071.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749892519166813.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749893873030714.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749894591353222.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749895628193699.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1",
+          "date": "2024-11-10 16:43:10",
+          "localizedDescription": "Current of Human Fall Flat+ - 2.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
+          "size": 999712358
+        },
+        {
+          "version": "2.1",
+          "date": "2024-11-10 16:43:10",
+          "localizedDescription": "Old Version of Human Fall Flat+ - 2.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
+          "size": 999712358
+        }
+      ],
+      "version": "2.1",
+      "versionDate": "2024-11-10 16:43:10",
+      "versionDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/964",
+      "formatedsize": "953.4 MB",
+      "size": 999712358
+    },
+    {
+      "name": "Bloons TD Battles 2+",
+      "bundleIdentifier": "com.ninjakiwi.bloonstdbattles2plus",
+      "developerName": "Ninja Kiwi",
+      "subtitle": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
+      "localizedDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.ninjakiwi.bloonstdbattles2plus\n\n Downloads: 256\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731274257.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312742574188651103.webp",
+        "https://apps.nabzclan.vip/screenshots/17312742574878086788.webp",
+        "https://apps.nabzclan.vip/screenshots/17312742575255618301.webp",
+        "https://apps.nabzclan.vip/screenshots/17312742575632902216.webp",
+        "https://apps.nabzclan.vip/screenshots/17312742576077967916.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.3.1",
+          "date": "2024-11-10 16:30:58",
+          "localizedDescription": "Current of Bloons TD Battles 2+ - 4.3.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
+          "size": 923323596
+        },
+        {
+          "version": "4.3.1",
+          "date": "2024-11-10 16:30:58",
+          "localizedDescription": "Old Version of Bloons TD Battles 2+ - 4.3.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
+          "size": 923323596
+        }
+      ],
+      "version": "4.3.1",
+      "versionDate": "2024-11-10 16:30:58",
+      "versionDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/962",
+      "formatedsize": "880.55 MB",
+      "size": 923323596
     }
   ],
   "userInfo": {}

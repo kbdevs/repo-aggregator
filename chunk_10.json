@@ -4,124 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
-      "name": "Cityscapes: Sim Builder",
-      "bundleIdentifier": "com.playstack.citybuilder",
-      "developerName": "Playstack Ltd",
-      "subtitle": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
-      "localizedDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.playstack.citybuilder\n\n Downloads: 581\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731275303.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312753022326085404.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753023306944792.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753024142050486.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753035862043958.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753037077891302.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.50",
-          "date": "2024-11-10 16:48:24",
-          "localizedDescription": "Current of Cityscapes: Sim Builder - 1.3.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
-          "size": 518940262
-        },
-        {
-          "version": "1.3.50",
-          "date": "2024-11-10 16:48:24",
-          "localizedDescription": "Old Version of Cityscapes: Sim Builder - 1.3.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
-          "size": 518940262
-        }
-      ],
-      "version": "1.3.50",
-      "versionDate": "2024-11-10 16:48:24",
-      "versionDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/965",
-      "formatedsize": "494.9 MB",
-      "size": 518940262
-    },
-    {
-      "name": "Human Fall Flat+",
-      "bundleIdentifier": "com.games505.Humanfallflatarcade",
-      "developerName": "505 Games (US), Inc.",
-      "subtitle": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
-      "localizedDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.games505.Humanfallflatarcade\n\n Downloads: 815\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731274989.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312749889834144108.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749891107895071.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749892519166813.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749893873030714.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749894591353222.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749895628193699.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1",
-          "date": "2024-11-10 16:43:10",
-          "localizedDescription": "Current of Human Fall Flat+ - 2.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
-          "size": 999712358
-        },
-        {
-          "version": "2.1",
-          "date": "2024-11-10 16:43:10",
-          "localizedDescription": "Old Version of Human Fall Flat+ - 2.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
-          "size": 999712358
-        }
-      ],
-      "version": "2.1",
-      "versionDate": "2024-11-10 16:43:10",
-      "versionDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/964",
-      "formatedsize": "953.4 MB",
-      "size": 999712358
-    },
-    {
-      "name": "Bloons TD Battles 2+",
-      "bundleIdentifier": "com.ninjakiwi.bloonstdbattles2plus",
-      "developerName": "Ninja Kiwi",
-      "subtitle": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
-      "localizedDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.ninjakiwi.bloonstdbattles2plus\n\n Downloads: 256\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731274257.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312742574188651103.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742574878086788.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742575255618301.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742575632902216.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742576077967916.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.3.1",
-          "date": "2024-11-10 16:30:58",
-          "localizedDescription": "Current of Bloons TD Battles 2+ - 4.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
-          "size": 923323596
-        },
-        {
-          "version": "4.3.1",
-          "date": "2024-11-10 16:30:58",
-          "localizedDescription": "Old Version of Bloons TD Battles 2+ - 4.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
-          "size": 923323596
-        }
-      ],
-      "version": "4.3.1",
-      "versionDate": "2024-11-10 16:30:58",
-      "versionDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/962",
-      "formatedsize": "880.55 MB",
-      "size": 923323596
-    },
-    {
       "name": "Shadow Fight 2 Special Edition",
       "bundleIdentifier": "com.nekki.shadowfight.paid",
       "developerName": "Nekki Limited",
@@ -4927,6 +4809,163 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/266",
       "formatedsize": "3.5 MB",
       "size": 3670016
+    },
+    {
+      "name": "Tutubox UI",
+      "bundleIdentifier": "tutu.io.app",
+      "developerName": "Saunders Tech",
+      "subtitle": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)",
+      "localizedDescription": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: tutu.io.app\n\n Downloads: 1645\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1697770788.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2023-10-20 02:59:48",
+          "localizedDescription": "Current of Tutubox UI - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/268",
+          "size": 6291456
+        },
+        {
+          "version": "1.1",
+          "date": "2023-10-20 02:59:48",
+          "localizedDescription": "Old Version of Tutubox UI - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/268",
+          "size": 6291456
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2023-10-20 02:59:48",
+      "versionDescription": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/268",
+      "formatedsize": "6 MB",
+      "size": 6291456
+    },
+    {
+      "name": "IokTok (No Ads)",
+      "bundleIdentifier": "com.mazoli.box",
+      "developerName": "Nabzclan",
+      "subtitle": "Free movie app with no ads",
+      "localizedDescription": "Free movie app with no ads\n\n --- \n\n More app Information:\n\n Category: Media, VIP\n\n BundleID: com.mazoli.box\n\n Downloads: 553\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1695512035.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16955120244232626981.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120259574841453.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120276859738621.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120290004967029.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120312409656833.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120339209240001.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.0",
+          "date": "2023-09-23 23:36:06",
+          "localizedDescription": "Current of IokTok (No Ads) - 5.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/247",
+          "size": 34833694
+        },
+        {
+          "version": "5.0",
+          "date": "2023-09-23 23:36:06",
+          "localizedDescription": "Old Version of IokTok (No Ads) - 5.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/247",
+          "size": 34833694
+        }
+      ],
+      "version": "5.0",
+      "versionDate": "2023-09-23 23:36:06",
+      "versionDescription": "Free movie app with no ads",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/247",
+      "formatedsize": "33.22 MB",
+      "size": 34833694
+    },
+    {
+      "name": "Nicegram (PREMIUM)",
+      "bundleIdentifier": "app.nicegram",
+      "developerName": "nabzclan",
+      "subtitle": "Nicegram injected with PREMIUM",
+      "localizedDescription": "Nicegram injected with PREMIUM\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: app.nicegram\n\n Downloads: 1127\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692898750.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16928987454427386061.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987458828506964.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987474889743242.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987478429185893.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987479804631340.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987482397569662.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.0",
+          "date": "2023-09-19 06:56:05",
+          "localizedDescription": "Current of Nicegram (PREMIUM) - 1.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
+          "size": 94508154
+        },
+        {
+          "version": "1.3.9",
+          "date": "2023-08-24 17:39:10",
+          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.3.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/187",
+          "size": 64948797
+        },
+        {
+          "version": "1.4.0",
+          "date": "2023-09-19 06:56:05",
+          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
+          "size": 94508154
+        }
+      ],
+      "version": "1.4.0",
+      "versionDate": "2023-09-19 06:56:05",
+      "versionDescription": "Nicegram injected with PREMIUM",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/231",
+      "formatedsize": "90.13 MB",
+      "size": 94508154
+    },
+    {
+      "name": "Almighty Sign",
+      "bundleIdentifier": "qnq.nuosike.sign",
+      "developerName": "Almighty Sign Team",
+      "subtitle": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
+      "localizedDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: qnq.nuosike.sign\n\n Downloads: 819\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1694977326.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "7.3.9",
+          "date": "2023-09-18 11:25:01",
+          "localizedDescription": "Current of Almighty Sign - 7.3.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
+          "size": 6899630
+        },
+        {
+          "version": "7.3.9",
+          "date": "2023-09-18 11:25:01",
+          "localizedDescription": "Old Version of Almighty Sign - 7.3.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
+          "size": 6899630
+        }
+      ],
+      "version": "7.3.9",
+      "versionDate": "2023-09-18 11:25:01",
+      "versionDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/224",
+      "formatedsize": "6.58 MB",
+      "size": 6899630
     }
   ],
   "userInfo": {}

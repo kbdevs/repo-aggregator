@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "APEXRacer",
+      "type": 2,
+      "bundleID": "com.pixeldev.APEXRacers",
+      "bundleIdentifier": "com.pixeldev.APEXRacers",
+      "version": "0.9.33",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528145512",
+      "size": 181105699,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/APEXRacer_0.9.33_CustomPower_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/APEXRacer_0.9.33_CustomPower_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with CustomPower",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixeldev.APEXRacers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixeldev.APEXRacers.png"
+    },
+    {
+      "name": "IdleBankTycoon",
+      "type": 2,
+      "bundleID": "com.luckyskeletonstudios.idlebanktycoon",
+      "bundleIdentifier": "com.luckyskeletonstudios.idlebanktycoon",
+      "version": "1.57.0",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528145506",
+      "size": 150342839,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/IdleBankTycoon_1.57.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/IdleBankTycoon_1.57.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luckyskeletonstudios.idlebanktycoon.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luckyskeletonstudios.idlebanktycoon.png"
+    },
+    {
       "name": "MyHotel",
       "type": 2,
       "bundleID": "com.master.hotelmaster",
@@ -306,22 +338,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png"
-    },
-    {
-      "name": "Zoomable",
-      "type": 1,
-      "bundleID": "com.actowise.browser",
-      "bundleIdentifier": "com.actowise.browser",
-      "version": "3.2",
-      "versionDate": "2025-05-24",
-      "fullDate": "20250524011112",
-      "size": 5164952,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/Zoomable_3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/Zoomable_3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png"
     },
     {
       "name": "FitNotes",
