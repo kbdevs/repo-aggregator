@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "FrameGrabber",
+      "type": 1,
+      "bundleID": "de.arthurhammer.framegrabber",
+      "bundleIdentifier": "de.arthurhammer.framegrabber",
+      "version": "1.6.3",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208010453",
+      "size": 33742054,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/FrameGrabber_1.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/FrameGrabber_1.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.arthurhammer.framegrabber.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.arthurhammer.framegrabber.png"
+    },
+    {
+      "name": "Mw2",
+      "type": 2,
+      "bundleID": "com.zillionwhales.mushroomwars2",
+      "bundleIdentifier": "com.zillionwhales.mushroomwars2",
+      "version": "2024.6.6",
+      "versionDate": "2025-02-04",
+      "fullDate": "20250204233317",
+      "size": 651859607,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/Mw2_2024.6.6_All_Episodes_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/Mw2_2024.6.6_All_Episodes_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with All Episodes",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zillionwhales.mushroomwars2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zillionwhales.mushroomwars2.png"
+    },
+    {
       "name": "LogoMaker",
       "type": 1,
       "bundleID": "com.contentarcade.LogoMaker",
@@ -3721,46 +3753,6 @@
       "size": 183291084
     },
     {
-      "name": "Lose Weight for Men at Home (PRO)",
-      "bundleIdentifier": "com.leapfitness.loseweightformen",
-      "developerName": "Nabzclan",
-      "subtitle": "Features:\r\n- in app purchase\r\n\r\n---\r\n\r\nPress buy premium then cancel if you get the popup to buy it\r\n\r\n1- purchase \r\n\r\n2- cancel the purchase \r\n\r\n3- enjoy",
-      "localizedDescription": "Features:\r\n- in app purchase\r\n\r\n---\r\n\r\nPress buy premium then cancel if you get the popup to buy it\r\n\r\n1- purchase \r\n\r\n2- cancel the purchase \r\n\r\n3- enjoy\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.leapfitness.loseweightformen\n\n Downloads: 346\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1704329880.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17043298766445579229.webp",
-        "https://apps.nabzclan.vip/screenshots/17043298780914950590.webp",
-        "https://apps.nabzclan.vip/screenshots/17043298790315834641.webp",
-        "https://apps.nabzclan.vip/screenshots/17043298793332059938.webp",
-        "https://apps.nabzclan.vip/screenshots/17043298799673996529.webp",
-        "https://apps.nabzclan.vip/screenshots/17043298803968328872.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.1",
-          "date": "2025-03-14 22:06:08",
-          "localizedDescription": "Current of Lose Weight for Men at Home (PRO) - 1.8.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1258",
-          "size": 164049715
-        },
-        {
-          "version": "1.8.1",
-          "date": "2025-03-14 22:06:08",
-          "localizedDescription": "Old Version of Lose Weight for Men at Home (PRO) - 1.8.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1258",
-          "size": 164049715
-        }
-      ],
-      "version": "1.8.1",
-      "versionDate": "2025-03-14 22:06:08",
-      "versionDescription": "Features:\r\n- in app purchase\r\n\r\n---\r\n\r\nPress buy premium then cancel if you get the popup to buy it\r\n\r\n1- purchase \r\n\r\n2- cancel the purchase \r\n\r\n3- enjoy",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1258",
-      "formatedsize": "156.45 MB",
-      "size": 164049715
-    },
-    {
       "name": "Batman - The Telltale Series (Hacked)",
       "bundleIdentifier": "com.telltalegames.BAT100",
       "developerName": "Nabzclan",
@@ -4162,46 +4154,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
       "formatedsize": "827.3 MB",
       "size": 867486924
-    },
-    {
-      "name": "TMNT Splintered Fate",
-      "bundleIdentifier": "com.mtvn.tmntsplinteredfate",
-      "developerName": "Viacom International Inc.",
-      "subtitle": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.",
-      "localizedDescription": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.mtvn.tmntsplinteredfate\n\n Downloads: 112\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1741479436.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414794358217720070.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794359569483439.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794360683973138.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794361815224574.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794363025236929.webp",
-        "https://apps.nabzclan.vip/screenshots/17414794363778285186.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.1",
-          "date": "2025-03-08 19:17:16",
-          "localizedDescription": "Current of TMNT Splintered Fate - 1.7.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
-          "size": 1138166333
-        },
-        {
-          "version": "1.7.1",
-          "date": "2025-03-08 19:17:16",
-          "localizedDescription": "Old Version of TMNT Splintered Fate - 1.7.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
-          "size": 1138166333
-        }
-      ],
-      "version": "1.7.1",
-      "versionDate": "2025-03-08 19:17:16",
-      "versionDescription": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
-      "formatedsize": "1.06 GB",
-      "size": 1138166333
     }
   ],
   "userInfo": {}

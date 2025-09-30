@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "TMNT Splintered Fate",
+      "bundleIdentifier": "com.mtvn.tmntsplinteredfate",
+      "developerName": "Viacom International Inc.",
+      "subtitle": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.",
+      "localizedDescription": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.mtvn.tmntsplinteredfate\n\n Downloads: 112\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1741479436.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17414794358217720070.webp",
+        "https://apps.nabzclan.vip/screenshots/17414794359569483439.webp",
+        "https://apps.nabzclan.vip/screenshots/17414794360683973138.webp",
+        "https://apps.nabzclan.vip/screenshots/17414794361815224574.webp",
+        "https://apps.nabzclan.vip/screenshots/17414794363025236929.webp",
+        "https://apps.nabzclan.vip/screenshots/17414794363778285186.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.7.1",
+          "date": "2025-03-08 19:17:16",
+          "localizedDescription": "Current of TMNT Splintered Fate - 1.7.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
+          "size": 1138166333
+        },
+        {
+          "version": "1.7.1",
+          "date": "2025-03-08 19:17:16",
+          "localizedDescription": "Old Version of TMNT Splintered Fate - 1.7.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
+          "size": 1138166333
+        }
+      ],
+      "version": "1.7.1",
+      "versionDate": "2025-03-08 19:17:16",
+      "versionDescription": "Splinter is captured. The Foot Clan are on the attack. New York City is in chaos! Enter the FIGHT, ADAPT, REPEAT portal loop of Splintered Fate to set things straight.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1245",
+      "formatedsize": "1.06 GB",
+      "size": 1138166333
+    },
+    {
       "name": "Bridge Constructor Stunts",
       "bundleIdentifier": "com.headupgames.bridgeconstructorstunts",
       "developerName": "Headup GmbH",
@@ -5020,45 +5060,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/964",
       "formatedsize": "953.4 MB",
       "size": 999712358
-    },
-    {
-      "name": "Bloons TD Battles 2+",
-      "bundleIdentifier": "com.ninjakiwi.bloonstdbattles2plus",
-      "developerName": "Ninja Kiwi",
-      "subtitle": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
-      "localizedDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.ninjakiwi.bloonstdbattles2plus\n\n Downloads: 256\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731274257.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312742574188651103.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742574878086788.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742575255618301.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742575632902216.webp",
-        "https://apps.nabzclan.vip/screenshots/17312742576077967916.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.3.1",
-          "date": "2024-11-10 16:30:58",
-          "localizedDescription": "Current of Bloons TD Battles 2+ - 4.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
-          "size": 923323596
-        },
-        {
-          "version": "4.3.1",
-          "date": "2024-11-10 16:30:58",
-          "localizedDescription": "Old Version of Bloons TD Battles 2+ - 4.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/962",
-          "size": 923323596
-        }
-      ],
-      "version": "4.3.1",
-      "versionDate": "2024-11-10 16:30:58",
-      "versionDescription": "The ultimate head to head tower defense game is now here! Featuring powerful Heroes, epic Monkey Towers and new dynamic Maps. Plus there are now even more ways to play Bloon bustin\u2019 battles, including the brand new offline Hero Challenge mode.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/962",
-      "formatedsize": "880.55 MB",
-      "size": 923323596
     }
   ],
   "userInfo": {}

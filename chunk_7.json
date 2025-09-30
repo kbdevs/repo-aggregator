@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "BloonsTD6",
+      "type": 2,
+      "bundleID": "com.ninjakiwi.bloonstd6",
+      "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+      "version": "48.2",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528145519",
+      "size": 81880095,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/BloonsTD6_48.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/BloonsTD6_48.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ninjakiwi.bloonstd6.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ninjakiwi.bloonstd6.png"
+    },
+    {
       "name": "APEXRacer",
       "type": 2,
       "bundleID": "com.pixeldev.APEXRacers",
@@ -1524,6 +1540,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
       "name": "RashaqaWorkout",
       "type": 1,
       "bundleID": "com.madarsoft.fitness",
@@ -1906,38 +1938,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png"
-    },
-    {
-      "name": "FrameGrabber",
-      "type": 1,
-      "bundleID": "de.arthurhammer.framegrabber",
-      "bundleIdentifier": "de.arthurhammer.framegrabber",
-      "version": "1.6.3",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208010453",
-      "size": 33742054,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/FrameGrabber_1.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/FrameGrabber_1.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.arthurhammer.framegrabber.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.arthurhammer.framegrabber.png"
-    },
-    {
-      "name": "Mw2",
-      "type": 2,
-      "bundleID": "com.zillionwhales.mushroomwars2",
-      "bundleIdentifier": "com.zillionwhales.mushroomwars2",
-      "version": "2024.6.6",
-      "versionDate": "2025-02-04",
-      "fullDate": "20250204233317",
-      "size": 651859607,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/Mw2_2024.6.6_All_Episodes_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/Mw2_2024.6.6_All_Episodes_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with All Episodes",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zillionwhales.mushroomwars2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zillionwhales.mushroomwars2.png"
     }
   ],
   "userInfo": {}
