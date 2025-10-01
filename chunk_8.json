@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Network",
+      "type": 1,
+      "bundleID": "net.doublerew.NetworkUtilityPro",
+      "bundleIdentifier": "net.doublerew.NetworkUtilityPro",
+      "version": "9.10.3",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208011521",
+      "size": 5678768,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Network_9.10.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Network_9.10.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png"
+    },
+    {
+      "name": "Leto",
+      "type": 1,
+      "bundleID": "biser.stories",
+      "bundleIdentifier": "biser.stories",
+      "version": "8.2.2",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208011354",
+      "size": 165263826,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Leto_8.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Leto_8.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png"
+    },
+    {
+      "name": "CarParking",
+      "type": 2,
+      "bundleID": "com.aidana.cardriving.ios",
+      "bundleIdentifier": "com.aidana.cardriving.ios",
+      "version": "4.8.16",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208011158",
+      "size": 1354236846,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/CarParking_4.8.16_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/CarParking_4.8.16_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png"
+    },
+    {
+      "name": "Dehancer",
+      "type": 1,
+      "bundleID": "com.dehancer.film.ios-app",
+      "bundleIdentifier": "com.dehancer.film.ios-app",
+      "version": "4.15",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208010822",
+      "size": 112903788,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Dehancer_4.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Dehancer_4.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png"
+    },
+    {
       "name": "FrameGrabber",
       "type": 1,
       "bundleID": "de.arthurhammer.framegrabber",
@@ -3994,166 +4058,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
       "formatedsize": "246.1 MB",
       "size": 258054553
-    },
-    {
-      "name": "MONOPOLY: The Board Game (PAID)",
-      "bundleIdentifier": "com.marmalade.monopoly",
-      "developerName": "Roll the Dice, Pass Go & Win",
-      "subtitle": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
-      "localizedDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.marmalade.monopoly\n\n Downloads: 448\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1741482099.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17311390414624386875.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390417895560905.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390431133561919.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390434587870778.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390437482203536.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.14.7",
-          "date": "2025-03-08 20:03:41",
-          "localizedDescription": "Current of MONOPOLY: The Board Game (PAID) - 1.14.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
-          "size": 688704716
-        },
-        {
-          "version": "1.14.1",
-          "date": "2024-12-20 17:33:59",
-          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1114",
-          "size": 763468185
-        },
-        {
-          "version": "1.14.7",
-          "date": "2025-03-08 20:03:41",
-          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
-          "size": 688704716
-        }
-      ],
-      "version": "1.14.7",
-      "versionDate": "2025-03-08 20:03:41",
-      "versionDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
-      "formatedsize": "656.8 MB",
-      "size": 688704716
-    },
-    {
-      "name": "Tomb Raider I",
-      "bundleIdentifier": "com.squareenix.tombraider1classic",
-      "developerName": "squareenix",
-      "subtitle": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
-      "localizedDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.squareenix.tombraider1classic\n\n Downloads: 144\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1741481724.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414817805448000.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817806087819.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817809158414.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817807593147.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817803934434.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.4",
-          "date": "2025-03-08 19:55:24",
-          "localizedDescription": "Current of Tomb Raider I - 1.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
-          "size": 318452531
-        },
-        {
-          "version": "1.0.4",
-          "date": "2025-03-08 19:55:24",
-          "localizedDescription": "Old Version of Tomb Raider I - 1.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
-          "size": 318452531
-        }
-      ],
-      "version": "1.0.4",
-      "versionDate": "2025-03-08 19:55:24",
-      "versionDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
-      "formatedsize": "303.7 MB",
-      "size": 318452531
-    },
-    {
-      "name": "Overwinter Survival",
-      "bundleIdentifier": "com.fatih.survival",
-      "developerName": "Fatih Beceren",
-      "subtitle": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
-      "localizedDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.fatih.survival\n\n Downloads: 55\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1741481293.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414812925859519172.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812926769316044.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812927787888461.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812928689654804.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812929552912956.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812930495352614.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.2",
-          "date": "2025-03-08 19:48:13",
-          "localizedDescription": "Current of Overwinter Survival - 2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
-          "size": 51065651
-        },
-        {
-          "version": "2.2",
-          "date": "2025-03-08 19:48:13",
-          "localizedDescription": "Old Version of Overwinter Survival - 2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
-          "size": 51065651
-        }
-      ],
-      "version": "2.2",
-      "versionDate": "2025-03-08 19:48:13",
-      "versionDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
-      "formatedsize": "48.7 MB",
-      "size": 51065651
-    },
-    {
-      "name": "Blasphemous",
-      "bundleIdentifier": "com.thegamekitchen.blasphemous",
-      "developerName": "The Game Kitchen Games",
-      "subtitle": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.\r\nPlay as The Penitent One - a sole survivor of the massacre of the \u2018Silent Sorrow\u2019. Trapped in an endless cycle of death and rebirth, it\u2019s down to you to free the world from this terrible fate and reach the origin of your anguish.\r\nExplore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, all ready to rip you limb from limb. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.",
-      "localizedDescription": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.\r\nPlay as The Penitent One - a sole survivor of the massacre of the \u2018Silent Sorrow\u2019. Trapped in an endless cycle of death and rebirth, it\u2019s down to you to free the world from this terrible fate and reach the origin of your anguish.\r\nExplore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, all ready to rip you limb from limb. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.thegamekitchen.blasphemous\n\n Downloads: 765\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1741480635.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4",
-          "date": "2025-03-08 19:37:09",
-          "localizedDescription": "Current of Blasphemous - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
-          "size": 867486924
-        },
-        {
-          "version": "1.4",
-          "date": "2025-03-08 19:37:09",
-          "localizedDescription": "Old Version of Blasphemous - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
-          "size": 867486924
-        }
-      ],
-      "version": "1.4",
-      "versionDate": "2025-03-08 19:37:09",
-      "versionDescription": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.\r\nPlay as The Penitent One - a sole survivor of the massacre of the \u2018Silent Sorrow\u2019. Trapped in an endless cycle of death and rebirth, it\u2019s down to you to free the world from this terrible fate and reach the origin of your anguish.\r\nExplore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, all ready to rip you limb from limb. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1246",
-      "formatedsize": "827.3 MB",
-      "size": 867486924
     }
   ],
   "userInfo": {}
