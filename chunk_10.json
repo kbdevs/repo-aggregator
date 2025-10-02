@@ -4,6 +4,86 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Hyper Evolution",
+      "bundleIdentifier": "com.evolution.hyper",
+      "developerName": "SayGames LTD",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.evolution.hyper\n\n Downloads: 199\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731277447.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312774466952976014.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774468719826948.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774469769576566.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774472792534786.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774473957693012.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774475744587285.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.17",
+          "date": "2024-11-10 17:24:07",
+          "localizedDescription": "Current of Hyper Evolution - 1.2.17",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
+          "size": 163368140
+        },
+        {
+          "version": "1.2.17",
+          "date": "2024-11-10 17:24:07",
+          "localizedDescription": "Old Version of Hyper Evolution - 1.2.17",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
+          "size": 163368140
+        }
+      ],
+      "version": "1.2.17",
+      "versionDate": "2024-11-10 17:24:07",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/971",
+      "formatedsize": "155.8 MB",
+      "size": 163368140
+    },
+    {
+      "name": "Hidden Stuff (Hack)",
+      "bundleIdentifier": "com.my.little.things",
+      "developerName": "SayGames LTD",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.my.little.things\n\n Downloads: 146\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731276608.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312766070036449257.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766074275719101.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766076611446892.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766079238103282.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766080689821707.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766082489776534.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.20.9",
+          "date": "2024-11-10 17:10:08",
+          "localizedDescription": "Current of Hidden Stuff (Hack) - 1.20.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/969",
+          "size": 189005824
+        },
+        {
+          "version": "1.20.9",
+          "date": "2024-11-10 17:10:08",
+          "localizedDescription": "Old Version of Hidden Stuff (Hack) - 1.20.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/969",
+          "size": 189005824
+        }
+      ],
+      "version": "1.20.9",
+      "versionDate": "2024-11-10 17:10:08",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/969",
+      "formatedsize": "180.25 MB",
+      "size": 189005824
+    },
+    {
       "name": "Fruit Ninja Classic+",
       "bundleIdentifier": "com.halfbrick.fruitninjaapplearcade",
       "developerName": "Halfbrick Studios",
@@ -4892,81 +4972,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/278",
       "formatedsize": "15.89 MB",
       "size": 16661872
-    },
-    {
-      "name": "Broadcaster",
-      "bundleIdentifier": "com.streamer.broadcaster",
-      "developerName": "StreamerApp Team",
-      "subtitle": "Watch all your favorite tv channels live on your iPhone",
-      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Current of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        },
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        }
-      ],
-      "version": "0.0.2",
-      "versionDate": "2023-10-21 21:43:13",
-      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-      "formatedsize": "15.27 MB",
-      "size": 16011755
-    },
-    {
-      "name": "MEGA Cracked",
-      "bundleIdentifier": "mega.ios",
-      "developerName": "Qamishlo",
-      "subtitle": "Cracked mega",
-      "localizedDescription": "Cracked mega\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: mega.ios\n\n Downloads: 3983\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1697860780.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16978607788594277497.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607793507706508.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607796479904213.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607798125626645.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607799393248294.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607800769394369.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "9.8",
-          "date": "2023-10-21 03:59:40",
-          "localizedDescription": "Current of MEGA Cracked - 9.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
-          "size": 89118474
-        },
-        {
-          "version": "9.8",
-          "date": "2023-10-21 03:59:40",
-          "localizedDescription": "Old Version of MEGA Cracked - 9.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
-          "size": 89118474
-        }
-      ],
-      "version": "9.8",
-      "versionDate": "2023-10-21 03:59:40",
-      "versionDescription": "Cracked mega",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/270",
-      "formatedsize": "84.99 MB",
-      "size": 89118474
     }
   ],
   "userInfo": {}

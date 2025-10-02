@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "PlantPower",
+      "type": 2,
+      "bundleID": "com.CHEUNG.plant",
+      "bundleIdentifier": "com.CHEUNG.plant",
+      "version": "7.7.1",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528163514",
+      "size": 126223345,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PlantPower_7.7.1_NOADS_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PlantPower_7.7.1_NOADS_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with NOADS",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CHEUNG.plant.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CHEUNG.plant.png"
+    },
+    {
+      "name": "DominoDream",
+      "type": 2,
+      "bundleID": "com.superplaystudios.dominodreams",
+      "bundleIdentifier": "com.superplaystudios.dominodreams",
+      "version": "1.41.3",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528163502",
+      "size": 141255739,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DominoDream_1.41.3_CoinsUnlimited_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DominoDream_1.41.3_CoinsUnlimited_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with CoinsUnlimited",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.dominodreams.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.dominodreams.png"
+    },
+    {
       "name": "RiseofMonsters",
       "type": 2,
       "bundleID": "com.onemt.ios.rom",
@@ -1906,38 +1938,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png"
-    },
-    {
-      "name": "Uben",
-      "type": 1,
-      "bundleID": "com.ubenai.www.ios",
-      "bundleIdentifier": "com.ubenai.www.ios",
-      "version": "3.1.3",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011648",
-      "size": 19447075,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Uben_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Uben_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png"
-    },
-    {
-      "name": "WeedFirm2",
-      "type": 2,
-      "bundleID": "com.bcanada.weedfirm2",
-      "bundleIdentifier": "com.bcanada.weedfirm2",
-      "version": "4.1.1",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011610",
-      "size": 270498598,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png"
     }
   ],
   "userInfo": {}

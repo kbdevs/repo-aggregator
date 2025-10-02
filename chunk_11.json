@@ -4,6 +4,81 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Broadcaster",
+      "bundleIdentifier": "com.streamer.broadcaster",
+      "developerName": "StreamerApp Team",
+      "subtitle": "Watch all your favorite tv channels live on your iPhone",
+      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "0.0.2",
+          "date": "2023-10-21 21:43:13",
+          "localizedDescription": "Current of Broadcaster - 0.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+          "size": 16011755
+        },
+        {
+          "version": "0.0.2",
+          "date": "2023-10-21 21:43:13",
+          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+          "size": 16011755
+        }
+      ],
+      "version": "0.0.2",
+      "versionDate": "2023-10-21 21:43:13",
+      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+      "formatedsize": "15.27 MB",
+      "size": 16011755
+    },
+    {
+      "name": "MEGA Cracked",
+      "bundleIdentifier": "mega.ios",
+      "developerName": "Qamishlo",
+      "subtitle": "Cracked mega",
+      "localizedDescription": "Cracked mega\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: mega.ios\n\n Downloads: 3983\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1697860780.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16978607788594277497.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607793507706508.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607796479904213.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607798125626645.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607799393248294.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607800769394369.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "9.8",
+          "date": "2023-10-21 03:59:40",
+          "localizedDescription": "Current of MEGA Cracked - 9.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
+          "size": 89118474
+        },
+        {
+          "version": "9.8",
+          "date": "2023-10-21 03:59:40",
+          "localizedDescription": "Old Version of MEGA Cracked - 9.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
+          "size": 89118474
+        }
+      ],
+      "version": "9.8",
+      "versionDate": "2023-10-21 03:59:40",
+      "versionDescription": "Cracked mega",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/270",
+      "formatedsize": "84.99 MB",
+      "size": 89118474
+    },
+    {
       "name": "Gbox VIP mod",
       "bundleIdentifier": "com.ncs.gbox.caomod",
       "developerName": "Caomodz",
@@ -1924,28 +1999,6 @@
       "developerName": "IAppsBestLibrary",
       "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
-    },
-    {
-      "name": "MoisesPremium",
-      "bundleIdentifier": "ai.moises",
-      "version": "2.40.0",
-      "versionDate": "2024-10-11",
-      "size": 60999285,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
-    },
-    {
-      "name": "Misaka",
-      "bundleIdentifier": "com.straight-tamago.misakaRS",
-      "version": "3.3.5",
-      "versionDate": "2024-10-10",
-      "size": 28563166,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
-      "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     }
   ],
   "userInfo": {}
