@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "DCDarkLegion",
+      "type": 2,
+      "bundleID": "com.kingsgroup.dcdl",
+      "bundleIdentifier": "com.kingsgroup.dcdl",
+      "version": "2.1.25",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705154137",
+      "size": 475712979,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/DCDarkLegion_2.1.25_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/DCDarkLegion_2.1.25_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsgroup.dcdl.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsgroup.dcdl.png"
+    },
+    {
+      "name": "AttackandDefenseTD",
+      "type": 2,
+      "bundleID": "com.fanqu.b6",
+      "bundleIdentifier": "com.fanqu.b6",
+      "version": "2.2.2",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705154129",
+      "size": 178590448,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/AttackandDefenseTD_2.2.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/AttackandDefenseTD_2.2.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fanqu.b6.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fanqu.b6.png"
+    },
+    {
       "name": "UltimateGolf",
       "type": 2,
       "bundleID": "com.hypgames.ultimategolf",
@@ -1732,22 +1764,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itranslate.itranslateone.png"
     },
     {
-      "name": "AlarmClockforMe",
-      "type": 1,
-      "bundleID": "com.apalonapps.alarmclockfree",
-      "bundleIdentifier": "com.apalonapps.alarmclockfree",
-      "version": "3.19.17",
-      "versionDate": "2025-06-18",
-      "fullDate": "20250618205128",
-      "size": 72178235,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/AlarmClockforMe_3.19.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/AlarmClockforMe_3.19.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png"
-    },
-    {
       "name": "Wallpapers",
       "type": 1,
       "bundleID": "com.apalonapps.wallpaperspys",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heliogames.amikin.survival.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heliogames.amikin.survival.png"
-    },
-    {
-      "name": "MADFUT",
-      "type": 2,
-      "bundleID": "com.madfut.madfut25",
-      "bundleIdentifier": "com.madfut.madfut25",
-      "version": "1.1.4",
-      "versionDate": "2025-06-17",
-      "fullDate": "20250617172812",
-      "size": 166517857,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/MADFUT_1.1.4_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/MADFUT_1.1.4_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madfut.madfut25.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madfut.madfut25.png"
     }
   ],
   "userInfo": {}
