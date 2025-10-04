@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Facer",
+      "type": 1,
+      "bundleID": "com.little-labs.Facer",
+      "bundleIdentifier": "com.little-labs.Facer",
+      "version": "6.2.46",
+      "versionDate": "2025-08-24",
+      "fullDate": "20250824130520",
+      "size": 166094482,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Facer_6.2.46_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Facer_6.2.46_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.little-labs.Facer.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.little-labs.Facer.png"
+    },
+    {
+      "name": "Steps",
+      "type": 1,
+      "bundleID": "com.adambinsz.Steps",
+      "bundleIdentifier": "com.adambinsz.Steps",
+      "version": "6.1",
+      "versionDate": "2025-08-24",
+      "fullDate": "20250824130519",
+      "size": 8839710,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Steps_6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Steps_6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adambinsz.Steps.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adambinsz.Steps.png"
+    },
+    {
       "name": "FiveCents",
       "type": 1,
       "bundleID": "com.degisner.fivecents",
@@ -468,22 +500,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png"
     },
     {
-      "name": "SoundLab",
-      "type": 1,
-      "bundleID": "com.castpeer.audioroom.ios",
-      "bundleIdentifier": "com.castpeer.audioroom.ios",
-      "version": "2.9.4",
-      "versionDate": "2025-08-19",
-      "fullDate": "20250819080721",
-      "size": 130999283,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2025/SoundLab_2.9.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2025/SoundLab_2.9.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png"
-    },
-    {
       "name": "Unzip",
       "type": 1,
       "bundleID": "com.cuilingshi.fileextract",
@@ -866,22 +882,6 @@
       "localizedDescription": "Injected with Satella",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.polarr.ppe.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.polarr.ppe.png"
-    },
-    {
-      "name": "SlideShow",
-      "type": 1,
-      "bundleID": "com.spacegab.slideshow",
-      "bundleIdentifier": "com.spacegab.slideshow",
-      "version": "5.6.40",
-      "versionDate": "2025-08-06",
-      "fullDate": "20250806134804",
-      "size": 121423186,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2025/SlideShow_5.6.40_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2025/SlideShow_5.6.40_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png"
     },
     {
       "name": "Lampa",

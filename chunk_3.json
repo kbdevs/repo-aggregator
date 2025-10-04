@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "WeatherLive",
+      "type": 1,
+      "bundleID": "com.apalonapps.wlf",
+      "bundleIdentifier": "com.apalonapps.wlf",
+      "version": "7.24.37",
+      "versionDate": "2025-09-22",
+      "fullDate": "20250922142831",
+      "size": 149840938,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/WeatherLive_7.24.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/WeatherLive_7.24.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png"
+    },
+    {
+      "name": "Mimo",
+      "type": 1,
+      "bundleID": "com.getmimo.mimo",
+      "bundleIdentifier": "com.getmimo.mimo",
+      "version": "9.25.0",
+      "versionDate": "2025-09-22",
+      "fullDate": "20250922142828",
+      "size": 55117806,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/Mimo_9.25.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/Mimo_9.25.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png"
+    },
+    {
       "name": "Unfold",
       "type": 1,
       "bundleID": "com.moonlab.unfoldstories",
@@ -1906,38 +1938,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fr.adriencarvalot.Timetable.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fr.adriencarvalot.Timetable.png"
-    },
-    {
-      "name": "Facer",
-      "type": 1,
-      "bundleID": "com.little-labs.Facer",
-      "bundleIdentifier": "com.little-labs.Facer",
-      "version": "6.2.46",
-      "versionDate": "2025-08-24",
-      "fullDate": "20250824130520",
-      "size": 166094482,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Facer_6.2.46_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Facer_6.2.46_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.little-labs.Facer.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.little-labs.Facer.png"
-    },
-    {
-      "name": "Steps",
-      "type": 1,
-      "bundleID": "com.adambinsz.Steps",
-      "bundleIdentifier": "com.adambinsz.Steps",
-      "version": "6.1",
-      "versionDate": "2025-08-24",
-      "fullDate": "20250824130519",
-      "size": 8839710,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Steps_6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Steps_6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adambinsz.Steps.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adambinsz.Steps.png"
     }
   ],
   "userInfo": {}
