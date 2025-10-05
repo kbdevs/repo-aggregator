@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "PhotoEraser",
+      "type": 1,
+      "bundleID": "LB-Software.PhotoEraser",
+      "bundleIdentifier": "LB-Software.PhotoEraser",
+      "version": "3.5.1",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208011757",
+      "size": 104454086,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/PhotoEraser_3.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/PhotoEraser_3.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png"
+    },
+    {
       "name": "Uben",
       "type": 1,
       "bundleID": "com.ubenai.www.ios",
@@ -3965,45 +3981,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
       "formatedsize": "25.62 MB",
       "size": 26864517
-    },
-    {
-      "name": "TombRaider2",
-      "bundleIdentifier": "com.squareenix.tombraider2classic",
-      "developerName": "squareenix",
-      "subtitle": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!",
-      "localizedDescription": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.squareenix.tombraider2classic\n\n Downloads: 199\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1741483764.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414838226689162.webp",
-        "https://apps.nabzclan.vip/screenshots/17414838224348899.webp",
-        "https://apps.nabzclan.vip/screenshots/17414838229576756.webp",
-        "https://apps.nabzclan.vip/screenshots/17414838228367410.webp",
-        "https://apps.nabzclan.vip/screenshots/17414838226425117.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.3",
-          "date": "2025-03-08 20:29:24",
-          "localizedDescription": "Current of TombRaider2 - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
-          "size": 255747686
-        },
-        {
-          "version": "1.0.3",
-          "date": "2025-03-08 20:29:24",
-          "localizedDescription": "Old Version of TombRaider2 - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
-          "size": 255747686
-        }
-      ],
-      "version": "1.0.3",
-      "versionDate": "2025-03-08 20:29:24",
-      "versionDescription": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
-      "formatedsize": "243.9 MB",
-      "size": 255747686
     }
   ],
   "userInfo": {}

@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Musify",
+      "type": 1,
+      "bundleID": "com.TPowenda.Musify",
+      "bundleIdentifier": "com.TPowenda.Musify",
+      "version": "1.4",
+      "versionDate": "2025-08-24",
+      "fullDate": "20250824130532",
+      "size": 6621084,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Musify_1.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Musify_1.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TPowenda.Musify.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TPowenda.Musify.png"
+    },
+    {
+      "name": "TubePod",
+      "type": 1,
+      "bundleID": "com.byteapp.tubepod",
+      "bundleIdentifier": "com.byteapp.tubepod",
+      "version": "3.7",
+      "versionDate": "2025-08-24",
+      "fullDate": "20250824130529",
+      "size": 56100026,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/TubePod_3.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/TubePod_3.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.byteapp.tubepod.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.byteapp.tubepod.png"
+    },
+    {
+      "name": "Timetable",
+      "type": 1,
+      "bundleID": "fr.adriencarvalot.Timetable",
+      "bundleIdentifier": "fr.adriencarvalot.Timetable",
+      "version": "1.6.4",
+      "versionDate": "2025-08-24",
+      "fullDate": "20250824130527",
+      "size": 40423142,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Timetable_1.6.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Timetable_1.6.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fr.adriencarvalot.Timetable.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fr.adriencarvalot.Timetable.png"
+    },
+    {
       "name": "Facer",
       "type": 1,
       "bundleID": "com.little-labs.Facer",
@@ -996,22 +1044,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png"
     },
     {
-      "name": "WebSSH",
-      "type": 1,
-      "bundleID": "com.itimeteo.webssh",
-      "bundleIdentifier": "com.itimeteo.webssh",
-      "version": "29.9",
-      "versionDate": "2025-07-31",
-      "fullDate": "20250731063455",
-      "size": 54206879,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/WebSSH_29.9_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/WebSSH_29.9_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png"
-    },
-    {
       "name": "VideoCompress",
       "type": 1,
       "bundleID": "com.photoclean.videocompress",
@@ -1186,22 +1218,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
-    },
-    {
-      "name": "Reels",
-      "type": 1,
-      "bundleID": "com.TetianaKolomiichuk.Reel-Templates",
-      "bundleIdentifier": "com.TetianaKolomiichuk.Reel-Templates",
-      "version": "3.2.2",
-      "versionDate": "2025-07-23",
-      "fullDate": "20250723045002",
-      "size": 122781765,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Reels_3.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Reels_3.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png"
     },
     {
       "name": "Pixly",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios.png"
-    },
-    {
-      "name": "ClawsAndChaos",
-      "type": 2,
-      "bundleID": "com.madmushroom.clawsnchaos",
-      "bundleIdentifier": "com.madmushroom.clawsnchaos",
-      "version": "1.17.2",
-      "versionDate": "2025-07-05",
-      "fullDate": "20250705154655",
-      "size": 361653612,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/ClawsAndChaos_1.17.2_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/ClawsAndChaos_1.17.2_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madmushroom.clawsnchaos.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madmushroom.clawsnchaos.png"
     }
   ],
   "userInfo": {}

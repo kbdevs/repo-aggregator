@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "TombRaider2",
+      "bundleIdentifier": "com.squareenix.tombraider2classic",
+      "developerName": "squareenix",
+      "subtitle": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!",
+      "localizedDescription": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.squareenix.tombraider2classic\n\n Downloads: 199\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1741483764.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17414838226689162.webp",
+        "https://apps.nabzclan.vip/screenshots/17414838224348899.webp",
+        "https://apps.nabzclan.vip/screenshots/17414838229576756.webp",
+        "https://apps.nabzclan.vip/screenshots/17414838228367410.webp",
+        "https://apps.nabzclan.vip/screenshots/17414838226425117.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2025-03-08 20:29:24",
+          "localizedDescription": "Current of TombRaider2 - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
+          "size": 255747686
+        },
+        {
+          "version": "1.0.3",
+          "date": "2025-03-08 20:29:24",
+          "localizedDescription": "Old Version of TombRaider2 - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
+          "size": 255747686
+        }
+      ],
+      "version": "1.0.3",
+      "versionDate": "2025-03-08 20:29:24",
+      "versionDescription": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
+      "formatedsize": "243.9 MB",
+      "size": 255747686
+    },
+    {
       "name": "Punch Kick Duck+",
       "bundleIdentifier": "com.pipsqueakgames.punchkickduckplus",
       "developerName": "Shaun Coleman",
@@ -5031,44 +5070,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/973",
       "formatedsize": "190.63 MB",
       "size": 199890042
-    },
-    {
-      "name": "Anti-Hack",
-      "bundleIdentifier": "com.HauntCoutureGames.Anti-Hack",
-      "developerName": "Eric McConnell",
-      "subtitle": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
-      "localizedDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.HauntCoutureGames.Anti-Hack\n\n Downloads: 172\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731279533.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312795317516214446.webp",
-        "https://apps.nabzclan.vip/screenshots/17312795325099344269.webp",
-        "https://apps.nabzclan.vip/screenshots/17312795330217055168.webp",
-        "https://apps.nabzclan.vip/screenshots/17312795331418831224.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3",
-          "date": "2024-11-10 17:58:54",
-          "localizedDescription": "Current of Anti-Hack - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
-          "size": 305869619
-        },
-        {
-          "version": "1.3",
-          "date": "2024-11-10 17:58:54",
-          "localizedDescription": "Old Version of Anti-Hack - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
-          "size": 305869619
-        }
-      ],
-      "version": "1.3",
-      "versionDate": "2024-11-10 17:58:54",
-      "versionDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/972",
-      "formatedsize": "291.7 MB",
-      "size": 305869619
     }
   ],
   "userInfo": {}
