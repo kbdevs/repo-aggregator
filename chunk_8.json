@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "AlohaVpn",
+      "type": 1,
+      "bundleID": "com.alohabrowser.vpn",
+      "bundleIdentifier": "com.alohabrowser.vpn",
+      "version": "2.5.0",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208012018",
+      "size": 162321152,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AlohaVpn_2.5.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AlohaVpn_2.5.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png"
+    },
+    {
       "name": "PhotoEraser",
       "type": 1,
       "bundleID": "LB-Software.PhotoEraser",
@@ -3942,45 +3958,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1255",
       "formatedsize": "162.4 MB",
       "size": 170288742
-    },
-    {
-      "name": "Osmos for iPad",
-      "bundleIdentifier": "com.hemispheregames.osmosHDr",
-      "developerName": "Hemisphere Games",
-      "subtitle": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
-      "localizedDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.hemispheregames.osmosHDr\n\n Downloads: 126\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1741910322.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17419103227329891465.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103227956297296.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103228289001588.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103228676683738.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103229007540435.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.6.2",
-          "date": "2025-03-13 19:58:43",
-          "localizedDescription": "Current of Osmos for iPad - 2.6.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
-          "size": 26864517
-        },
-        {
-          "version": "2.6.2",
-          "date": "2025-03-13 19:58:43",
-          "localizedDescription": "Old Version of Osmos for iPad - 2.6.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
-          "size": 26864517
-        }
-      ],
-      "version": "2.6.2",
-      "versionDate": "2025-03-13 19:58:43",
-      "versionDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
-      "formatedsize": "25.62 MB",
-      "size": 26864517
     }
   ],
   "userInfo": {}

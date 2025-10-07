@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Osmos for iPad",
+      "bundleIdentifier": "com.hemispheregames.osmosHDr",
+      "developerName": "Hemisphere Games",
+      "subtitle": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
+      "localizedDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.hemispheregames.osmosHDr\n\n Downloads: 126\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1741910322.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17419103227329891465.webp",
+        "https://apps.nabzclan.vip/screenshots/17419103227956297296.webp",
+        "https://apps.nabzclan.vip/screenshots/17419103228289001588.webp",
+        "https://apps.nabzclan.vip/screenshots/17419103228676683738.webp",
+        "https://apps.nabzclan.vip/screenshots/17419103229007540435.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.6.2",
+          "date": "2025-03-13 19:58:43",
+          "localizedDescription": "Current of Osmos for iPad - 2.6.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
+          "size": 26864517
+        },
+        {
+          "version": "2.6.2",
+          "date": "2025-03-13 19:58:43",
+          "localizedDescription": "Old Version of Osmos for iPad - 2.6.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
+          "size": 26864517
+        }
+      ],
+      "version": "2.6.2",
+      "versionDate": "2025-03-13 19:58:43",
+      "versionDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
+      "formatedsize": "25.62 MB",
+      "size": 26864517
+    },
+    {
       "name": "TombRaider2",
       "bundleIdentifier": "com.squareenix.tombraider2classic",
       "developerName": "squareenix",
@@ -5031,45 +5070,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/974",
       "formatedsize": "398.4 MB",
       "size": 417752678
-    },
-    {
-      "name": "Duke Nukem: Manhattan Project (Paid)",
-      "bundleIdentifier": "com.spawnstudios.DukeNukemMP",
-      "developerName": "Spawn Studios, Lda",
-      "subtitle": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
-      "localizedDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.spawnstudios.DukeNukemMP\n\n Downloads: 269\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731279801.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312798009968043435.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798011326161101.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798012836170189.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798016696443743.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798017914190750.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.14",
-          "date": "2024-11-10 18:03:22",
-          "localizedDescription": "Current of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-          "size": 199890042
-        },
-        {
-          "version": "1.0.14",
-          "date": "2024-11-10 18:03:22",
-          "localizedDescription": "Old Version of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-          "size": 199890042
-        }
-      ],
-      "version": "1.0.14",
-      "versionDate": "2024-11-10 18:03:22",
-      "versionDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-      "formatedsize": "190.63 MB",
-      "size": 199890042
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "20MinutesTillDawnEndless",
+      "type": 2,
+      "bundleID": "com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios",
+      "bundleIdentifier": "com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios",
+      "version": "6.7",
+      "versionDate": "2025-07-06",
+      "fullDate": "20250706162007",
+      "size": 80994269,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/20MinutesTillDawnEndless_6.7_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/20MinutesTillDawnEndless_6.7_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios.png"
+    },
+    {
       "name": "ClawsAndChaos",
       "type": 2,
       "bundleID": "com.madmushroom.clawsnchaos",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ChillyRoom.DungeonShooter.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ChillyRoom.DungeonShooter.png"
-    },
-    {
-      "name": "jujutsuphanpara",
-      "type": 2,
-      "bundleID": "com.bilibilihk.jujutsuphanparaios",
-      "bundleIdentifier": "com.bilibilihk.jujutsuphanparaios",
-      "version": "2.2.0",
-      "versionDate": "2025-06-17",
-      "fullDate": "20250617173341",
-      "size": 167389206,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/jujutsuphanpara_2.2.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/jujutsuphanpara_2.2.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bilibilihk.jujutsuphanparaios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bilibilihk.jujutsuphanparaios.png"
     }
   ],
   "userInfo": {}

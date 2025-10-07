@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "AfterInc",
+      "type": 2,
+      "bundleID": "com.ndemiccreations.survivors",
+      "bundleIdentifier": "com.ndemiccreations.survivors",
+      "version": "1.6.1",
+      "versionDate": "2025-08-25",
+      "fullDate": "20250825205513",
+      "size": 130759180,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/AfterInc_1.6.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/AfterInc_1.6.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ndemiccreations.survivors.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ndemiccreations.survivors.png"
+    },
+    {
+      "name": "Endel",
+      "type": 1,
+      "bundleID": "com.endel.endel",
+      "bundleIdentifier": "com.endel.endel",
+      "version": "4.48.269",
+      "versionDate": "2025-08-25",
+      "fullDate": "20250825200946",
+      "size": 193154754,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Endel_4.48.269_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Endel_4.48.269_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png"
+    },
+    {
+      "name": "BoxBox",
+      "type": 1,
+      "bundleID": "club.boxbox.widgets-ios",
+      "bundleIdentifier": "club.boxbox.widgets-ios",
+      "version": "5.2.2",
+      "versionDate": "2025-08-25",
+      "fullDate": "20250825152138",
+      "size": 88245959,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/BoxBox_5.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/BoxBox_5.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png"
+    },
+    {
       "name": "Musify",
       "type": 1,
       "bundleID": "com.TPowenda.Musify",
@@ -452,22 +500,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png"
     },
     {
-      "name": "NRv115480",
-      "type": 1,
-      "bundleID": "nt.nr.ios",
-      "bundleIdentifier": "nt.nr.ios",
-      "version": "11.548.0",
-      "versionDate": "2025-08-21",
-      "fullDate": "20250821032432",
-      "size": 846843728,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2025/NRv115480_11.548.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2025/NRv115480_11.548.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png"
-    },
-    {
       "name": "Summarify",
       "type": 1,
       "bundleID": "nz.digitaltools.Tube-GPT",
@@ -882,22 +914,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paha.LoFiCam.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paha.LoFiCam.png"
-    },
-    {
-      "name": "CollaNote",
-      "type": 1,
-      "bundleID": "net.quochuywdm.collanote496",
-      "bundleIdentifier": "net.quochuywdm.collanote496",
-      "version": "3.1.8",
-      "versionDate": "2025-08-07",
-      "fullDate": "20250807150213",
-      "size": 186748386,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/CollaNote_3.1.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/CollaNote_3.1.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png"
     },
     {
       "name": "Amie",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alien.shooter.galaxy.attack.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alien.shooter.galaxy.attack.png"
-    },
-    {
-      "name": "20MinutesTillDawnEndless",
-      "type": 2,
-      "bundleID": "com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios",
-      "bundleIdentifier": "com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios",
-      "version": "6.7",
-      "versionDate": "2025-07-06",
-      "fullDate": "20250706162007",
-      "size": 80994269,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/20MinutesTillDawnEndless_6.7_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/20MinutesTillDawnEndless_6.7_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.iap.ios.png"
     }
   ],
   "userInfo": {}

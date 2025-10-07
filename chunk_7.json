@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "DisneySolitaire",
+      "type": 2,
+      "bundleID": "com.superplaystudios.disneysolitairedreams",
+      "bundleIdentifier": "com.superplaystudios.disneysolitairedreams",
+      "version": "1.1.2",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528164542",
+      "size": 154944780,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DisneySolitaire_1.1.2_Coins_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DisneySolitaire_1.1.2_Coins_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Coins",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.disneysolitairedreams.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.disneysolitairedreams.png"
+    },
+    {
       "name": "ProjectMakeover",
       "type": 2,
       "bundleID": "com.bgg.jump",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codebysms.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codebysms.png"
-    },
-    {
-      "name": "AlohaVpn",
-      "type": 1,
-      "bundleID": "com.alohabrowser.vpn",
-      "bundleIdentifier": "com.alohabrowser.vpn",
-      "version": "2.5.0",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208012018",
-      "size": 162321152,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AlohaVpn_2.5.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AlohaVpn_2.5.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "jujutsuphanpara",
+      "type": 2,
+      "bundleID": "com.bilibilihk.jujutsuphanparaios",
+      "bundleIdentifier": "com.bilibilihk.jujutsuphanparaios",
+      "version": "2.2.0",
+      "versionDate": "2025-06-17",
+      "fullDate": "20250617173341",
+      "size": 167389206,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/jujutsuphanpara_2.2.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/jujutsuphanpara_2.2.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bilibilihk.jujutsuphanparaios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bilibilihk.jujutsuphanparaios.png"
+    },
+    {
       "name": "AmikinVillage",
       "type": 2,
       "bundleID": "com.heliogames.amikin.survival",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with InfiniteCurrency",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobirate.DeadAheadTactics.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobirate.DeadAheadTactics.png"
-    },
-    {
-      "name": "DisneySolitaire",
-      "type": 2,
-      "bundleID": "com.superplaystudios.disneysolitairedreams",
-      "bundleIdentifier": "com.superplaystudios.disneysolitairedreams",
-      "version": "1.1.2",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528164542",
-      "size": 154944780,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DisneySolitaire_1.1.2_Coins_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DisneySolitaire_1.1.2_Coins_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Coins",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.disneysolitairedreams.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.disneysolitairedreams.png"
     }
   ],
   "userInfo": {}
