@@ -4,349 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "iSH",
-      "bundleIdentifier": "app.ish.iSH",
-      "developerName": "iSH Team",
-      "subtitle": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: app.ish.iSH\n\n Downloads: 322\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699833373.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.3",
-          "date": "2023-11-12 23:56:13",
-          "localizedDescription": "Current of iSH - 1.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-          "size": 4173332
-        },
-        {
-          "version": "1.3.3",
-          "date": "2023-11-12 23:56:13",
-          "localizedDescription": "Old Version of iSH - 1.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-          "size": 4173332
-        }
-      ],
-      "version": "1.3.3",
-      "versionDate": "2023-11-12 23:56:13",
-      "versionDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-      "formatedsize": "3.98 MB",
-      "size": 4173332
-    },
-    {
-      "name": "Scarlet",
-      "bundleIdentifier": "com.debianarch.scarlet",
-      "developerName": "DebianArch",
-      "subtitle": "Scarlet is a great signing tool",
-      "localizedDescription": "Scarlet is a great signing tool\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.debianarch.scarlet\n\n Downloads: 6923\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1689466067.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16894661778611194.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661776925586.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775566227.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775533509.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Current of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        },
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Old Version of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2023-10-28 17:24:40",
-      "versionDescription": "Scarlet is a great signing tool",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-      "formatedsize": "15.89 MB",
-      "size": 16661872
-    },
-    {
-      "name": "Broadcaster",
-      "bundleIdentifier": "com.streamer.broadcaster",
-      "developerName": "StreamerApp Team",
-      "subtitle": "Watch all your favorite tv channels live on your iPhone",
-      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Current of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        },
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        }
-      ],
-      "version": "0.0.2",
-      "versionDate": "2023-10-21 21:43:13",
-      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-      "formatedsize": "15.27 MB",
-      "size": 16011755
-    },
-    {
-      "name": "MEGA Cracked",
-      "bundleIdentifier": "mega.ios",
-      "developerName": "Qamishlo",
-      "subtitle": "Cracked mega",
-      "localizedDescription": "Cracked mega\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: mega.ios\n\n Downloads: 3983\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1697860780.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16978607788594277497.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607793507706508.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607796479904213.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607798125626645.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607799393248294.webp",
-        "https://apps.nabzclan.vip/screenshots/16978607800769394369.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "9.8",
-          "date": "2023-10-21 03:59:40",
-          "localizedDescription": "Current of MEGA Cracked - 9.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
-          "size": 89118474
-        },
-        {
-          "version": "9.8",
-          "date": "2023-10-21 03:59:40",
-          "localizedDescription": "Old Version of MEGA Cracked - 9.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
-          "size": 89118474
-        }
-      ],
-      "version": "9.8",
-      "versionDate": "2023-10-21 03:59:40",
-      "versionDescription": "Cracked mega",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/270",
-      "formatedsize": "84.99 MB",
-      "size": 89118474
-    },
-    {
-      "name": "Gbox VIP mod",
-      "bundleIdentifier": "com.ncs.gbox.caomod",
-      "developerName": "Caomodz",
-      "subtitle": "Features:\r\n- cracked Gbox",
-      "localizedDescription": "Features:\r\n- cracked Gbox\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.ncs.gbox.caomod\n\n Downloads: 2983\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1697752502.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269019977675901.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019978410567.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019973077402.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019978241790.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.5",
-          "date": "2023-10-20 22:40:21",
-          "localizedDescription": "Current of Gbox VIP mod - 4.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/266",
-          "size": 3670016
-        },
-        {
-          "version": "4.5",
-          "date": "2023-10-20 22:40:21",
-          "localizedDescription": "Old Version of Gbox VIP mod - 4.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/266",
-          "size": 3670016
-        }
-      ],
-      "version": "4.5",
-      "versionDate": "2023-10-20 22:40:21",
-      "versionDescription": "Features:\r\n- cracked Gbox",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/266",
-      "formatedsize": "3.5 MB",
-      "size": 3670016
-    },
-    {
-      "name": "Tutubox UI",
-      "bundleIdentifier": "tutu.io.app",
-      "developerName": "Saunders Tech",
-      "subtitle": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)",
-      "localizedDescription": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: tutu.io.app\n\n Downloads: 1645\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1697770788.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1",
-          "date": "2023-10-20 02:59:48",
-          "localizedDescription": "Current of Tutubox UI - 1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/268",
-          "size": 6291456
-        },
-        {
-          "version": "1.1",
-          "date": "2023-10-20 02:59:48",
-          "localizedDescription": "Old Version of Tutubox UI - 1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/268",
-          "size": 6291456
-        }
-      ],
-      "version": "1.1",
-      "versionDate": "2023-10-20 02:59:48",
-      "versionDescription": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/268",
-      "formatedsize": "6 MB",
-      "size": 6291456
-    },
-    {
-      "name": "IokTok (No Ads)",
-      "bundleIdentifier": "com.mazoli.box",
-      "developerName": "Nabzclan",
-      "subtitle": "Free movie app with no ads",
-      "localizedDescription": "Free movie app with no ads\n\n --- \n\n More app Information:\n\n Category: Media, VIP\n\n BundleID: com.mazoli.box\n\n Downloads: 553\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1695512035.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16955120244232626981.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120259574841453.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120276859738621.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120290004967029.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120312409656833.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120339209240001.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.0",
-          "date": "2023-09-23 23:36:06",
-          "localizedDescription": "Current of IokTok (No Ads) - 5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/247",
-          "size": 34833694
-        },
-        {
-          "version": "5.0",
-          "date": "2023-09-23 23:36:06",
-          "localizedDescription": "Old Version of IokTok (No Ads) - 5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/247",
-          "size": 34833694
-        }
-      ],
-      "version": "5.0",
-      "versionDate": "2023-09-23 23:36:06",
-      "versionDescription": "Free movie app with no ads",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/247",
-      "formatedsize": "33.22 MB",
-      "size": 34833694
-    },
-    {
-      "name": "Nicegram (PREMIUM)",
-      "bundleIdentifier": "app.nicegram",
-      "developerName": "nabzclan",
-      "subtitle": "Nicegram injected with PREMIUM",
-      "localizedDescription": "Nicegram injected with PREMIUM\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: app.nicegram\n\n Downloads: 1127\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692898750.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16928987454427386061.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987458828506964.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987474889743242.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987478429185893.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987479804631340.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987482397569662.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.0",
-          "date": "2023-09-19 06:56:05",
-          "localizedDescription": "Current of Nicegram (PREMIUM) - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
-          "size": 94508154
-        },
-        {
-          "version": "1.3.9",
-          "date": "2023-08-24 17:39:10",
-          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.3.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/187",
-          "size": 64948797
-        },
-        {
-          "version": "1.4.0",
-          "date": "2023-09-19 06:56:05",
-          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
-          "size": 94508154
-        }
-      ],
-      "version": "1.4.0",
-      "versionDate": "2023-09-19 06:56:05",
-      "versionDescription": "Nicegram injected with PREMIUM",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/231",
-      "formatedsize": "90.13 MB",
-      "size": 94508154
-    },
-    {
-      "name": "Almighty Sign",
-      "bundleIdentifier": "qnq.nuosike.sign",
-      "developerName": "Almighty Sign Team",
-      "subtitle": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
-      "localizedDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: qnq.nuosike.sign\n\n Downloads: 819\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1694977326.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "7.3.9",
-          "date": "2023-09-18 11:25:01",
-          "localizedDescription": "Current of Almighty Sign - 7.3.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
-          "size": 6899630
-        },
-        {
-          "version": "7.3.9",
-          "date": "2023-09-18 11:25:01",
-          "localizedDescription": "Old Version of Almighty Sign - 7.3.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
-          "size": 6899630
-        }
-      ],
-      "version": "7.3.9",
-      "versionDate": "2023-09-18 11:25:01",
-      "versionDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/224",
-      "formatedsize": "6.58 MB",
-      "size": 6899630
-    },
-    {
       "name": "Pixel Gun 3D (crosshair)",
       "bundleIdentifier": "zombiegun3d",
       "developerName": "nabzclan",
@@ -2050,6 +1707,116 @@
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
+    },
+    {
+      "name": "MuffinStore",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "version": "1.1",
+      "versionDate": "2024-10-11",
+      "size": 29281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
+    },
+    {
+      "name": "MoovitPlus",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "version": "5.146.1",
+      "versionDate": "2024-10-11",
+      "size": 85759040,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
+    },
+    {
+      "name": "MoisesPremium",
+      "bundleIdentifier": "ai.moises",
+      "version": "2.40.0",
+      "versionDate": "2024-10-11",
+      "size": 60999285,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
+    },
+    {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "version": "3.3.5",
+      "versionDate": "2024-10-10",
+      "size": 28563166,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
+      "developerName": "Misaka",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "version": "2023.11.17",
+      "versionDate": "2024-10-10",
+      "size": 90694453,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
+    },
+    {
+      "name": "MatterPremium",
+      "bundleIdentifier": "com.Matter.MatterApp",
+      "version": "3.1.4",
+      "versionDate": "2024-10-09",
+      "size": 83875186,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
+    },
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "version": "0.1.0",
+      "versionDate": "2024-10-09",
+      "size": 93145110,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
+      "developerName": "kodjodevf",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
+    },
+    {
+      "name": "LyricifyMobile",
+      "bundleIdentifier": "com.wxriw.LyricifyMobile",
+      "version": "1.4.3",
+      "versionDate": "2024-10-09",
+      "size": 23887689,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
+      "developerName": "Lyricify-App",
+      "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png"
+    },
+    {
+      "name": "LoopsiePro",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
+      "version": "8.10.2",
+      "versionDate": "2024-10-09",
+      "size": 185592561,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
+    },
+    {
+      "name": "LokLok",
+      "bundleIdentifier": "com.xoumb.mp3.video.player",
+      "version": "5.0",
+      "versionDate": "2024-10-09",
+      "size": 22035388,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LokLok/LokLok-5.0.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "HDO Box clone. see original app description for more info\nLast updated: 07-17-2023\nStatus: \u26a0\ufe0f \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xoumb.mp3.video.player.png"
     }
   ],
   "userInfo": {}

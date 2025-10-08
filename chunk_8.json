@@ -4,102 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "AlohaVpn",
-      "type": 1,
-      "bundleID": "com.alohabrowser.vpn",
-      "bundleIdentifier": "com.alohabrowser.vpn",
-      "version": "2.5.0",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208012018",
-      "size": 162321152,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AlohaVpn_2.5.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AlohaVpn_2.5.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png"
-    },
-    {
-      "name": "PhotoEraser",
-      "type": 1,
-      "bundleID": "LB-Software.PhotoEraser",
-      "bundleIdentifier": "LB-Software.PhotoEraser",
-      "version": "3.5.1",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011757",
-      "size": 104454086,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/PhotoEraser_3.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/PhotoEraser_3.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png"
-    },
-    {
-      "name": "Uben",
-      "type": 1,
-      "bundleID": "com.ubenai.www.ios",
-      "bundleIdentifier": "com.ubenai.www.ios",
-      "version": "3.1.3",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011648",
-      "size": 19447075,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Uben_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Uben_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png"
-    },
-    {
-      "name": "WeedFirm2",
-      "type": 2,
-      "bundleID": "com.bcanada.weedfirm2",
-      "bundleIdentifier": "com.bcanada.weedfirm2",
-      "version": "4.1.1",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011610",
-      "size": 270498598,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png"
-    },
-    {
-      "name": "Network",
-      "type": 1,
-      "bundleID": "net.doublerew.NetworkUtilityPro",
-      "bundleIdentifier": "net.doublerew.NetworkUtilityPro",
-      "version": "9.10.3",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011521",
-      "size": 5678768,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Network_9.10.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Network_9.10.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png"
-    },
-    {
-      "name": "Leto",
-      "type": 1,
-      "bundleID": "biser.stories",
-      "bundleIdentifier": "biser.stories",
-      "version": "8.2.2",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011354",
-      "size": 165263826,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Leto_8.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Leto_8.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png"
-    },
-    {
       "name": "CarParking",
       "type": 2,
       "bundleID": "com.aidana.cardriving.ios",
@@ -3958,6 +3862,295 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1255",
       "formatedsize": "162.4 MB",
       "size": 170288742
+    },
+    {
+      "name": "Osmos for iPad",
+      "bundleIdentifier": "com.hemispheregames.osmosHDr",
+      "developerName": "Hemisphere Games",
+      "subtitle": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
+      "localizedDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.hemispheregames.osmosHDr\n\n Downloads: 126\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1741910322.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17419103227329891465.webp",
+        "https://apps.nabzclan.vip/screenshots/17419103227956297296.webp",
+        "https://apps.nabzclan.vip/screenshots/17419103228289001588.webp",
+        "https://apps.nabzclan.vip/screenshots/17419103228676683738.webp",
+        "https://apps.nabzclan.vip/screenshots/17419103229007540435.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.6.2",
+          "date": "2025-03-13 19:58:43",
+          "localizedDescription": "Current of Osmos for iPad - 2.6.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
+          "size": 26864517
+        },
+        {
+          "version": "2.6.2",
+          "date": "2025-03-13 19:58:43",
+          "localizedDescription": "Old Version of Osmos for iPad - 2.6.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
+          "size": 26864517
+        }
+      ],
+      "version": "2.6.2",
+      "versionDate": "2025-03-13 19:58:43",
+      "versionDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
+      "formatedsize": "25.62 MB",
+      "size": 26864517
+    },
+    {
+      "name": "TombRaider2",
+      "bundleIdentifier": "com.squareenix.tombraider2classic",
+      "developerName": "squareenix",
+      "subtitle": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!",
+      "localizedDescription": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.squareenix.tombraider2classic\n\n Downloads: 199\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1741483764.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17414838226689162.webp",
+        "https://apps.nabzclan.vip/screenshots/17414838224348899.webp",
+        "https://apps.nabzclan.vip/screenshots/17414838229576756.webp",
+        "https://apps.nabzclan.vip/screenshots/17414838228367410.webp",
+        "https://apps.nabzclan.vip/screenshots/17414838226425117.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2025-03-08 20:29:24",
+          "localizedDescription": "Current of TombRaider2 - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
+          "size": 255747686
+        },
+        {
+          "version": "1.0.3",
+          "date": "2025-03-08 20:29:24",
+          "localizedDescription": "Old Version of TombRaider2 - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
+          "size": 255747686
+        }
+      ],
+      "version": "1.0.3",
+      "versionDate": "2025-03-08 20:29:24",
+      "versionDescription": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
+      "formatedsize": "243.9 MB",
+      "size": 255747686
+    },
+    {
+      "name": "Punch Kick Duck+",
+      "bundleIdentifier": "com.pipsqueakgames.punchkickduckplus",
+      "developerName": "Shaun Coleman",
+      "subtitle": "Fighting is all about timing. Just ask any duck.\r\n\r\nPUNCH KICK DUCK+ features:\r\n\r\n* Three selectable difficulty levels.\r\n* Unbox a colorful cast of characters.\r\n* Playable in both landscape and portrait modes.\r\n* Game Center Leaderboards and Achievements.\r\n* Supports saving to iCloud.\r\n* Simple responsive touch controls.\r\n* Controller support.",
+      "localizedDescription": "Fighting is all about timing. Just ask any duck.\r\n\r\nPUNCH KICK DUCK+ features:\r\n\r\n* Three selectable difficulty levels.\r\n* Unbox a colorful cast of characters.\r\n* Playable in both landscape and portrait modes.\r\n* Game Center Leaderboards and Achievements.\r\n* Supports saving to iCloud.\r\n* Simple responsive touch controls.\r\n* Controller support.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.pipsqueakgames.punchkickduckplus\n\n Downloads: 144\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1740169864.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17401698635884386839.webp",
+        "https://apps.nabzclan.vip/screenshots/17401698637138063241.webp",
+        "https://apps.nabzclan.vip/screenshots/17401698638054343082.webp",
+        "https://apps.nabzclan.vip/screenshots/17401698638984456898.webp",
+        "https://apps.nabzclan.vip/screenshots/17401698639716107546.webp",
+        "https://apps.nabzclan.vip/screenshots/17401698640704514742.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.14.1",
+          "date": "2025-03-08 20:20:11",
+          "localizedDescription": "Current of Punch Kick Duck+ - 1.14.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1252",
+          "size": 98083799
+        },
+        {
+          "version": "1.14",
+          "date": "2025-02-21 15:31:04",
+          "localizedDescription": "Old Version of Punch Kick Duck+ - 1.14",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1215",
+          "size": 103179878
+        },
+        {
+          "version": "1.14.1",
+          "date": "2025-03-08 20:20:11",
+          "localizedDescription": "Old Version of Punch Kick Duck+ - 1.14.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1252",
+          "size": 98083799
+        }
+      ],
+      "version": "1.14.1",
+      "versionDate": "2025-03-08 20:20:11",
+      "versionDescription": "Fighting is all about timing. Just ask any duck.\r\n\r\nPUNCH KICK DUCK+ features:\r\n\r\n* Three selectable difficulty levels.\r\n* Unbox a colorful cast of characters.\r\n* Playable in both landscape and portrait modes.\r\n* Game Center Leaderboards and Achievements.\r\n* Supports saving to iCloud.\r\n* Simple responsive touch controls.\r\n* Controller support.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1252",
+      "formatedsize": "93.54 MB",
+      "size": 98083799
+    },
+    {
+      "name": "Drive Ahead! Carcade",
+      "bundleIdentifier": "com.dodreams.carcade",
+      "developerName": "Dodreams Fairytale Company Oy",
+      "subtitle": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.",
+      "localizedDescription": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.dodreams.carcade\n\n Downloads: 105\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731276174.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312761740896436880.webp",
+        "https://apps.nabzclan.vip/screenshots/17312761741712129471.webp",
+        "https://apps.nabzclan.vip/screenshots/17312761742156585574.webp",
+        "https://apps.nabzclan.vip/screenshots/17312761742583472226.webp",
+        "https://apps.nabzclan.vip/screenshots/17312761743008449025.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.1",
+          "date": "2025-03-08 20:15:24",
+          "localizedDescription": "Current of Drive Ahead! Carcade - 1.4.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
+          "size": 258054553
+        },
+        {
+          "version": "1.4.1",
+          "date": "2025-03-08 20:15:24",
+          "localizedDescription": "Old Version of Drive Ahead! Carcade - 1.4.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
+          "size": 258054553
+        }
+      ],
+      "version": "1.4.1",
+      "versionDate": "2025-03-08 20:15:24",
+      "versionDescription": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
+      "formatedsize": "246.1 MB",
+      "size": 258054553
+    },
+    {
+      "name": "MONOPOLY: The Board Game (PAID)",
+      "bundleIdentifier": "com.marmalade.monopoly",
+      "developerName": "Roll the Dice, Pass Go & Win",
+      "subtitle": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
+      "localizedDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.marmalade.monopoly\n\n Downloads: 448\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1741482099.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17311390414624386875.webp",
+        "https://apps.nabzclan.vip/screenshots/17311390417895560905.webp",
+        "https://apps.nabzclan.vip/screenshots/17311390431133561919.webp",
+        "https://apps.nabzclan.vip/screenshots/17311390434587870778.webp",
+        "https://apps.nabzclan.vip/screenshots/17311390437482203536.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.14.7",
+          "date": "2025-03-08 20:03:41",
+          "localizedDescription": "Current of MONOPOLY: The Board Game (PAID) - 1.14.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
+          "size": 688704716
+        },
+        {
+          "version": "1.14.1",
+          "date": "2024-12-20 17:33:59",
+          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1114",
+          "size": 763468185
+        },
+        {
+          "version": "1.14.7",
+          "date": "2025-03-08 20:03:41",
+          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
+          "size": 688704716
+        }
+      ],
+      "version": "1.14.7",
+      "versionDate": "2025-03-08 20:03:41",
+      "versionDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
+      "formatedsize": "656.8 MB",
+      "size": 688704716
+    },
+    {
+      "name": "Tomb Raider I",
+      "bundleIdentifier": "com.squareenix.tombraider1classic",
+      "developerName": "squareenix",
+      "subtitle": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
+      "localizedDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.squareenix.tombraider1classic\n\n Downloads: 144\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1741481724.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17414817805448000.webp",
+        "https://apps.nabzclan.vip/screenshots/17414817806087819.webp",
+        "https://apps.nabzclan.vip/screenshots/17414817809158414.webp",
+        "https://apps.nabzclan.vip/screenshots/17414817807593147.webp",
+        "https://apps.nabzclan.vip/screenshots/17414817803934434.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2025-03-08 19:55:24",
+          "localizedDescription": "Current of Tomb Raider I - 1.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
+          "size": 318452531
+        },
+        {
+          "version": "1.0.4",
+          "date": "2025-03-08 19:55:24",
+          "localizedDescription": "Old Version of Tomb Raider I - 1.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
+          "size": 318452531
+        }
+      ],
+      "version": "1.0.4",
+      "versionDate": "2025-03-08 19:55:24",
+      "versionDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
+      "formatedsize": "303.7 MB",
+      "size": 318452531
+    },
+    {
+      "name": "Overwinter Survival",
+      "bundleIdentifier": "com.fatih.survival",
+      "developerName": "Fatih Beceren",
+      "subtitle": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
+      "localizedDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.fatih.survival\n\n Downloads: 55\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1741481293.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17414812925859519172.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812926769316044.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812927787888461.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812928689654804.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812929552912956.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812930495352614.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.2",
+          "date": "2025-03-08 19:48:13",
+          "localizedDescription": "Current of Overwinter Survival - 2.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
+          "size": 51065651
+        },
+        {
+          "version": "2.2",
+          "date": "2025-03-08 19:48:13",
+          "localizedDescription": "Old Version of Overwinter Survival - 2.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
+          "size": 51065651
+        }
+      ],
+      "version": "2.2",
+      "versionDate": "2025-03-08 19:48:13",
+      "versionDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
+      "formatedsize": "48.7 MB",
+      "size": 51065651
     }
   ],
   "userInfo": {}

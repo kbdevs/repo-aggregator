@@ -4,320 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
-      "name": "Duke Nukem: Manhattan Project (Paid)",
-      "bundleIdentifier": "com.spawnstudios.DukeNukemMP",
-      "developerName": "Spawn Studios, Lda",
-      "subtitle": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
-      "localizedDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.spawnstudios.DukeNukemMP\n\n Downloads: 269\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731279801.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312798009968043435.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798011326161101.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798012836170189.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798016696443743.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798017914190750.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.14",
-          "date": "2024-11-10 18:03:22",
-          "localizedDescription": "Current of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-          "size": 199890042
-        },
-        {
-          "version": "1.0.14",
-          "date": "2024-11-10 18:03:22",
-          "localizedDescription": "Old Version of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-          "size": 199890042
-        }
-      ],
-      "version": "1.0.14",
-      "versionDate": "2024-11-10 18:03:22",
-      "versionDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-      "formatedsize": "190.63 MB",
-      "size": 199890042
-    },
-    {
-      "name": "Anti-Hack",
-      "bundleIdentifier": "com.HauntCoutureGames.Anti-Hack",
-      "developerName": "Eric McConnell",
-      "subtitle": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
-      "localizedDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.HauntCoutureGames.Anti-Hack\n\n Downloads: 172\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731279533.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312795317516214446.webp",
-        "https://apps.nabzclan.vip/screenshots/17312795325099344269.webp",
-        "https://apps.nabzclan.vip/screenshots/17312795330217055168.webp",
-        "https://apps.nabzclan.vip/screenshots/17312795331418831224.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3",
-          "date": "2024-11-10 17:58:54",
-          "localizedDescription": "Current of Anti-Hack - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
-          "size": 305869619
-        },
-        {
-          "version": "1.3",
-          "date": "2024-11-10 17:58:54",
-          "localizedDescription": "Old Version of Anti-Hack - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
-          "size": 305869619
-        }
-      ],
-      "version": "1.3",
-      "versionDate": "2024-11-10 17:58:54",
-      "versionDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/972",
-      "formatedsize": "291.7 MB",
-      "size": 305869619
-    },
-    {
-      "name": "Hyper Evolution",
-      "bundleIdentifier": "com.evolution.hyper",
-      "developerName": "SayGames LTD",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.evolution.hyper\n\n Downloads: 199\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731277447.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312774466952976014.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774468719826948.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774469769576566.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774472792534786.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774473957693012.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774475744587285.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.17",
-          "date": "2024-11-10 17:24:07",
-          "localizedDescription": "Current of Hyper Evolution - 1.2.17",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
-          "size": 163368140
-        },
-        {
-          "version": "1.2.17",
-          "date": "2024-11-10 17:24:07",
-          "localizedDescription": "Old Version of Hyper Evolution - 1.2.17",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
-          "size": 163368140
-        }
-      ],
-      "version": "1.2.17",
-      "versionDate": "2024-11-10 17:24:07",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/971",
-      "formatedsize": "155.8 MB",
-      "size": 163368140
-    },
-    {
-      "name": "Hidden Stuff (Hack)",
-      "bundleIdentifier": "com.my.little.things",
-      "developerName": "SayGames LTD",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.my.little.things\n\n Downloads: 146\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731276608.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312766070036449257.webp",
-        "https://apps.nabzclan.vip/screenshots/17312766074275719101.webp",
-        "https://apps.nabzclan.vip/screenshots/17312766076611446892.webp",
-        "https://apps.nabzclan.vip/screenshots/17312766079238103282.webp",
-        "https://apps.nabzclan.vip/screenshots/17312766080689821707.webp",
-        "https://apps.nabzclan.vip/screenshots/17312766082489776534.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.20.9",
-          "date": "2024-11-10 17:10:08",
-          "localizedDescription": "Current of Hidden Stuff (Hack) - 1.20.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/969",
-          "size": 189005824
-        },
-        {
-          "version": "1.20.9",
-          "date": "2024-11-10 17:10:08",
-          "localizedDescription": "Old Version of Hidden Stuff (Hack) - 1.20.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/969",
-          "size": 189005824
-        }
-      ],
-      "version": "1.20.9",
-      "versionDate": "2024-11-10 17:10:08",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/969",
-      "formatedsize": "180.25 MB",
-      "size": 189005824
-    },
-    {
-      "name": "Fruit Ninja Classic+",
-      "bundleIdentifier": "com.halfbrick.fruitninjaapplearcade",
-      "developerName": "Halfbrick Studios",
-      "subtitle": "Slice fruit, don\u2019t slice bombs \u2013 that is all you need to know to get started as a Fruit Ninja!\r\n\r\nThe original hit returns to satisfy your fruit-destroying appetite, now with juicy updates. Slice for a high score, line up combos for extra points, and go crazy on the multi-slice Pomegranate!\r\n\r\nSurvive the longest you can in Classic mode, go wild with special bananas in Arcade mode, or relax and practice your fruit-slicing skills in Zen mode. \r\n\r\nCollect Blades and Dojos so you can slice in style - Search Sensei's Swag and uncover hidden challenges to unlock more!\r\n\r\nWant more fun? Go head-to-head and show off your skills as the ultimate ninja against your friends with local multiplayer and cut your way to the top!",
-      "localizedDescription": "Slice fruit, don\u2019t slice bombs \u2013 that is all you need to know to get started as a Fruit Ninja!\r\n\r\nThe original hit returns to satisfy your fruit-destroying appetite, now with juicy updates. Slice for a high score, line up combos for extra points, and go crazy on the multi-slice Pomegranate!\r\n\r\nSurvive the longest you can in Classic mode, go wild with special bananas in Arcade mode, or relax and practice your fruit-slicing skills in Zen mode. \r\n\r\nCollect Blades and Dojos so you can slice in style - Search Sensei's Swag and uncover hidden challenges to unlock more!\r\n\r\nWant more fun? Go head-to-head and show off your skills as the ultimate ninja against your friends with local multiplayer and cut your way to the top!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.halfbrick.fruitninjaapplearcade\n\n Downloads: 658\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731275864.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312758635409742138.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758636844637255.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758638076070208.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758639563367581.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758640268425336.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758644935830591.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.32.0",
-          "date": "2024-11-10 16:57:45",
-          "localizedDescription": "Current of Fruit Ninja Classic+ - 1.32.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/967",
-          "size": 193881702
-        },
-        {
-          "version": "1.32.0",
-          "date": "2024-11-10 16:57:45",
-          "localizedDescription": "Old Version of Fruit Ninja Classic+ - 1.32.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/967",
-          "size": 193881702
-        }
-      ],
-      "version": "1.32.0",
-      "versionDate": "2024-11-10 16:57:45",
-      "versionDescription": "Slice fruit, don\u2019t slice bombs \u2013 that is all you need to know to get started as a Fruit Ninja!\r\n\r\nThe original hit returns to satisfy your fruit-destroying appetite, now with juicy updates. Slice for a high score, line up combos for extra points, and go crazy on the multi-slice Pomegranate!\r\n\r\nSurvive the longest you can in Classic mode, go wild with special bananas in Arcade mode, or relax and practice your fruit-slicing skills in Zen mode. \r\n\r\nCollect Blades and Dojos so you can slice in style - Search Sensei's Swag and uncover hidden challenges to unlock more!\r\n\r\nWant more fun? Go head-to-head and show off your skills as the ultimate ninja against your friends with local multiplayer and cut your way to the top!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/967",
-      "formatedsize": "184.9 MB",
-      "size": 193881702
-    },
-    {
-      "name": "Mini Metro+",
-      "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
-      "developerName": "Dinosaur Polo Club",
-      "subtitle": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
-      "localizedDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.dinopoloclub.minimetro.arcade\n\n Downloads: 390\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731275569.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312755685446323889.webp",
-        "https://apps.nabzclan.vip/screenshots/17312755686791708827.webp",
-        "https://apps.nabzclan.vip/screenshots/17312755688024919416.webp",
-        "https://apps.nabzclan.vip/screenshots/17312755689361511155.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.3",
-          "date": "2024-11-10 16:52:49",
-          "localizedDescription": "Current of Mini Metro+ - 1.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
-          "size": 119852236
-        },
-        {
-          "version": "1.7.3",
-          "date": "2024-11-10 16:52:49",
-          "localizedDescription": "Old Version of Mini Metro+ - 1.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
-          "size": 119852236
-        }
-      ],
-      "version": "1.7.3",
-      "versionDate": "2024-11-10 16:52:49",
-      "versionDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/966",
-      "formatedsize": "114.3 MB",
-      "size": 119852236
-    },
-    {
-      "name": "Cityscapes: Sim Builder",
-      "bundleIdentifier": "com.playstack.citybuilder",
-      "developerName": "Playstack Ltd",
-      "subtitle": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
-      "localizedDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.playstack.citybuilder\n\n Downloads: 581\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731275303.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312753022326085404.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753023306944792.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753024142050486.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753035862043958.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753037077891302.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.50",
-          "date": "2024-11-10 16:48:24",
-          "localizedDescription": "Current of Cityscapes: Sim Builder - 1.3.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
-          "size": 518940262
-        },
-        {
-          "version": "1.3.50",
-          "date": "2024-11-10 16:48:24",
-          "localizedDescription": "Old Version of Cityscapes: Sim Builder - 1.3.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
-          "size": 518940262
-        }
-      ],
-      "version": "1.3.50",
-      "versionDate": "2024-11-10 16:48:24",
-      "versionDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/965",
-      "formatedsize": "494.9 MB",
-      "size": 518940262
-    },
-    {
-      "name": "Human Fall Flat+",
-      "bundleIdentifier": "com.games505.Humanfallflatarcade",
-      "developerName": "505 Games (US), Inc.",
-      "subtitle": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
-      "localizedDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.games505.Humanfallflatarcade\n\n Downloads: 815\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731274989.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312749889834144108.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749891107895071.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749892519166813.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749893873030714.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749894591353222.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749895628193699.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1",
-          "date": "2024-11-10 16:43:10",
-          "localizedDescription": "Current of Human Fall Flat+ - 2.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
-          "size": 999712358
-        },
-        {
-          "version": "2.1",
-          "date": "2024-11-10 16:43:10",
-          "localizedDescription": "Old Version of Human Fall Flat+ - 2.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
-          "size": 999712358
-        }
-      ],
-      "version": "2.1",
-      "versionDate": "2024-11-10 16:43:10",
-      "versionDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/964",
-      "formatedsize": "953.4 MB",
-      "size": 999712358
-    },
-    {
       "name": "Bloons TD Battles 2+",
       "bundleIdentifier": "com.ninjakiwi.bloonstdbattles2plus",
       "developerName": "Ninja Kiwi",
@@ -4976,6 +4662,349 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/290",
       "formatedsize": "110.85 MB",
       "size": 116234649
+    },
+    {
+      "name": "iSH",
+      "bundleIdentifier": "app.ish.iSH",
+      "developerName": "iSH Team",
+      "subtitle": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: app.ish.iSH\n\n Downloads: 322\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699833373.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.3.3",
+          "date": "2023-11-12 23:56:13",
+          "localizedDescription": "Current of iSH - 1.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
+          "size": 4173332
+        },
+        {
+          "version": "1.3.3",
+          "date": "2023-11-12 23:56:13",
+          "localizedDescription": "Old Version of iSH - 1.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
+          "size": 4173332
+        }
+      ],
+      "version": "1.3.3",
+      "versionDate": "2023-11-12 23:56:13",
+      "versionDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/289",
+      "formatedsize": "3.98 MB",
+      "size": 4173332
+    },
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.debianarch.scarlet",
+      "developerName": "DebianArch",
+      "subtitle": "Scarlet is a great signing tool",
+      "localizedDescription": "Scarlet is a great signing tool\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.debianarch.scarlet\n\n Downloads: 6923\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1689466067.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16894661778611194.webp",
+        "https://apps.nabzclan.vip/screenshots/16894661776925586.webp",
+        "https://apps.nabzclan.vip/screenshots/16894661775566227.webp",
+        "https://apps.nabzclan.vip/screenshots/16894661775533509.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2023-10-28 17:24:40",
+          "localizedDescription": "Current of Scarlet - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
+          "size": 16661872
+        },
+        {
+          "version": "1.0",
+          "date": "2023-10-28 17:24:40",
+          "localizedDescription": "Old Version of Scarlet - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
+          "size": 16661872
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2023-10-28 17:24:40",
+      "versionDescription": "Scarlet is a great signing tool",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/278",
+      "formatedsize": "15.89 MB",
+      "size": 16661872
+    },
+    {
+      "name": "Broadcaster",
+      "bundleIdentifier": "com.streamer.broadcaster",
+      "developerName": "StreamerApp Team",
+      "subtitle": "Watch all your favorite tv channels live on your iPhone",
+      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "0.0.2",
+          "date": "2023-10-21 21:43:13",
+          "localizedDescription": "Current of Broadcaster - 0.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+          "size": 16011755
+        },
+        {
+          "version": "0.0.2",
+          "date": "2023-10-21 21:43:13",
+          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+          "size": 16011755
+        }
+      ],
+      "version": "0.0.2",
+      "versionDate": "2023-10-21 21:43:13",
+      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+      "formatedsize": "15.27 MB",
+      "size": 16011755
+    },
+    {
+      "name": "MEGA Cracked",
+      "bundleIdentifier": "mega.ios",
+      "developerName": "Qamishlo",
+      "subtitle": "Cracked mega",
+      "localizedDescription": "Cracked mega\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: mega.ios\n\n Downloads: 3983\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1697860780.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16978607788594277497.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607793507706508.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607796479904213.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607798125626645.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607799393248294.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607800769394369.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "9.8",
+          "date": "2023-10-21 03:59:40",
+          "localizedDescription": "Current of MEGA Cracked - 9.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
+          "size": 89118474
+        },
+        {
+          "version": "9.8",
+          "date": "2023-10-21 03:59:40",
+          "localizedDescription": "Old Version of MEGA Cracked - 9.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
+          "size": 89118474
+        }
+      ],
+      "version": "9.8",
+      "versionDate": "2023-10-21 03:59:40",
+      "versionDescription": "Cracked mega",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/270",
+      "formatedsize": "84.99 MB",
+      "size": 89118474
+    },
+    {
+      "name": "Gbox VIP mod",
+      "bundleIdentifier": "com.ncs.gbox.caomod",
+      "developerName": "Caomodz",
+      "subtitle": "Features:\r\n- cracked Gbox",
+      "localizedDescription": "Features:\r\n- cracked Gbox\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.ncs.gbox.caomod\n\n Downloads: 2983\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1697752502.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269019977675901.webp",
+        "https://apps.nabzclan.vip/screenshots/17269019978410567.webp",
+        "https://apps.nabzclan.vip/screenshots/17269019973077402.webp",
+        "https://apps.nabzclan.vip/screenshots/17269019978241790.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.5",
+          "date": "2023-10-20 22:40:21",
+          "localizedDescription": "Current of Gbox VIP mod - 4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/266",
+          "size": 3670016
+        },
+        {
+          "version": "4.5",
+          "date": "2023-10-20 22:40:21",
+          "localizedDescription": "Old Version of Gbox VIP mod - 4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/266",
+          "size": 3670016
+        }
+      ],
+      "version": "4.5",
+      "versionDate": "2023-10-20 22:40:21",
+      "versionDescription": "Features:\r\n- cracked Gbox",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/266",
+      "formatedsize": "3.5 MB",
+      "size": 3670016
+    },
+    {
+      "name": "Tutubox UI",
+      "bundleIdentifier": "tutu.io.app",
+      "developerName": "Saunders Tech",
+      "subtitle": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)",
+      "localizedDescription": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: tutu.io.app\n\n Downloads: 1645\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1697770788.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2023-10-20 02:59:48",
+          "localizedDescription": "Current of Tutubox UI - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/268",
+          "size": 6291456
+        },
+        {
+          "version": "1.1",
+          "date": "2023-10-20 02:59:48",
+          "localizedDescription": "Old Version of Tutubox UI - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/268",
+          "size": 6291456
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2023-10-20 02:59:48",
+      "versionDescription": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/268",
+      "formatedsize": "6 MB",
+      "size": 6291456
+    },
+    {
+      "name": "IokTok (No Ads)",
+      "bundleIdentifier": "com.mazoli.box",
+      "developerName": "Nabzclan",
+      "subtitle": "Free movie app with no ads",
+      "localizedDescription": "Free movie app with no ads\n\n --- \n\n More app Information:\n\n Category: Media, VIP\n\n BundleID: com.mazoli.box\n\n Downloads: 553\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1695512035.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16955120244232626981.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120259574841453.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120276859738621.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120290004967029.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120312409656833.webp",
+        "https://apps.nabzclan.vip/screenshots/16955120339209240001.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.0",
+          "date": "2023-09-23 23:36:06",
+          "localizedDescription": "Current of IokTok (No Ads) - 5.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/247",
+          "size": 34833694
+        },
+        {
+          "version": "5.0",
+          "date": "2023-09-23 23:36:06",
+          "localizedDescription": "Old Version of IokTok (No Ads) - 5.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/247",
+          "size": 34833694
+        }
+      ],
+      "version": "5.0",
+      "versionDate": "2023-09-23 23:36:06",
+      "versionDescription": "Free movie app with no ads",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/247",
+      "formatedsize": "33.22 MB",
+      "size": 34833694
+    },
+    {
+      "name": "Nicegram (PREMIUM)",
+      "bundleIdentifier": "app.nicegram",
+      "developerName": "nabzclan",
+      "subtitle": "Nicegram injected with PREMIUM",
+      "localizedDescription": "Nicegram injected with PREMIUM\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: app.nicegram\n\n Downloads: 1127\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692898750.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16928987454427386061.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987458828506964.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987474889743242.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987478429185893.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987479804631340.webp",
+        "https://apps.nabzclan.vip/screenshots/16928987482397569662.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.0",
+          "date": "2023-09-19 06:56:05",
+          "localizedDescription": "Current of Nicegram (PREMIUM) - 1.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
+          "size": 94508154
+        },
+        {
+          "version": "1.3.9",
+          "date": "2023-08-24 17:39:10",
+          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.3.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/187",
+          "size": 64948797
+        },
+        {
+          "version": "1.4.0",
+          "date": "2023-09-19 06:56:05",
+          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
+          "size": 94508154
+        }
+      ],
+      "version": "1.4.0",
+      "versionDate": "2023-09-19 06:56:05",
+      "versionDescription": "Nicegram injected with PREMIUM",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/231",
+      "formatedsize": "90.13 MB",
+      "size": 94508154
+    },
+    {
+      "name": "Almighty Sign",
+      "bundleIdentifier": "qnq.nuosike.sign",
+      "developerName": "Almighty Sign Team",
+      "subtitle": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
+      "localizedDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: qnq.nuosike.sign\n\n Downloads: 819\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1694977326.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "7.3.9",
+          "date": "2023-09-18 11:25:01",
+          "localizedDescription": "Current of Almighty Sign - 7.3.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
+          "size": 6899630
+        },
+        {
+          "version": "7.3.9",
+          "date": "2023-09-18 11:25:01",
+          "localizedDescription": "Old Version of Almighty Sign - 7.3.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
+          "size": 6899630
+        }
+      ],
+      "version": "7.3.9",
+      "versionDate": "2023-09-18 11:25:01",
+      "versionDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/224",
+      "formatedsize": "6.58 MB",
+      "size": 6899630
     }
   ],
   "userInfo": {}

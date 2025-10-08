@@ -4,295 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
-      "name": "Osmos for iPad",
-      "bundleIdentifier": "com.hemispheregames.osmosHDr",
-      "developerName": "Hemisphere Games",
-      "subtitle": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
-      "localizedDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.hemispheregames.osmosHDr\n\n Downloads: 126\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1741910322.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17419103227329891465.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103227956297296.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103228289001588.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103228676683738.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103229007540435.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.6.2",
-          "date": "2025-03-13 19:58:43",
-          "localizedDescription": "Current of Osmos for iPad - 2.6.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
-          "size": 26864517
-        },
-        {
-          "version": "2.6.2",
-          "date": "2025-03-13 19:58:43",
-          "localizedDescription": "Old Version of Osmos for iPad - 2.6.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
-          "size": 26864517
-        }
-      ],
-      "version": "2.6.2",
-      "versionDate": "2025-03-13 19:58:43",
-      "versionDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
-      "formatedsize": "25.62 MB",
-      "size": 26864517
-    },
-    {
-      "name": "TombRaider2",
-      "bundleIdentifier": "com.squareenix.tombraider2classic",
-      "developerName": "squareenix",
-      "subtitle": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!",
-      "localizedDescription": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.squareenix.tombraider2classic\n\n Downloads: 199\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1741483764.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414838226689162.webp",
-        "https://apps.nabzclan.vip/screenshots/17414838224348899.webp",
-        "https://apps.nabzclan.vip/screenshots/17414838229576756.webp",
-        "https://apps.nabzclan.vip/screenshots/17414838228367410.webp",
-        "https://apps.nabzclan.vip/screenshots/17414838226425117.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.3",
-          "date": "2025-03-08 20:29:24",
-          "localizedDescription": "Current of TombRaider2 - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
-          "size": 255747686
-        },
-        {
-          "version": "1.0.3",
-          "date": "2025-03-08 20:29:24",
-          "localizedDescription": "Old Version of TombRaider2 - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
-          "size": 255747686
-        }
-      ],
-      "version": "1.0.3",
-      "versionDate": "2025-03-08 20:29:24",
-      "versionDescription": "The legendary Lara Croft returns in Tomb Raider II to find the mysterious Dagger of Xian, imbued with the power of the dragon. But the path to the artifact is fraught with danger: warlike monks and cult fanatics weave intrigues against her. Travel with Lara through the snow-capped peaks of Tibet, the canals of Venice, and the depths of the ocean. You'll encounter new locations, powerful weapons\u2014from pistols to rocket launchers\u2014and vehicle controls, along with more than 50 achievements. Includes the \"Golden Mask\" expansion!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1253",
-      "formatedsize": "243.9 MB",
-      "size": 255747686
-    },
-    {
-      "name": "Punch Kick Duck+",
-      "bundleIdentifier": "com.pipsqueakgames.punchkickduckplus",
-      "developerName": "Shaun Coleman",
-      "subtitle": "Fighting is all about timing. Just ask any duck.\r\n\r\nPUNCH KICK DUCK+ features:\r\n\r\n* Three selectable difficulty levels.\r\n* Unbox a colorful cast of characters.\r\n* Playable in both landscape and portrait modes.\r\n* Game Center Leaderboards and Achievements.\r\n* Supports saving to iCloud.\r\n* Simple responsive touch controls.\r\n* Controller support.",
-      "localizedDescription": "Fighting is all about timing. Just ask any duck.\r\n\r\nPUNCH KICK DUCK+ features:\r\n\r\n* Three selectable difficulty levels.\r\n* Unbox a colorful cast of characters.\r\n* Playable in both landscape and portrait modes.\r\n* Game Center Leaderboards and Achievements.\r\n* Supports saving to iCloud.\r\n* Simple responsive touch controls.\r\n* Controller support.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.pipsqueakgames.punchkickduckplus\n\n Downloads: 144\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740169864.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17401698635884386839.webp",
-        "https://apps.nabzclan.vip/screenshots/17401698637138063241.webp",
-        "https://apps.nabzclan.vip/screenshots/17401698638054343082.webp",
-        "https://apps.nabzclan.vip/screenshots/17401698638984456898.webp",
-        "https://apps.nabzclan.vip/screenshots/17401698639716107546.webp",
-        "https://apps.nabzclan.vip/screenshots/17401698640704514742.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.14.1",
-          "date": "2025-03-08 20:20:11",
-          "localizedDescription": "Current of Punch Kick Duck+ - 1.14.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1252",
-          "size": 98083799
-        },
-        {
-          "version": "1.14",
-          "date": "2025-02-21 15:31:04",
-          "localizedDescription": "Old Version of Punch Kick Duck+ - 1.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1215",
-          "size": 103179878
-        },
-        {
-          "version": "1.14.1",
-          "date": "2025-03-08 20:20:11",
-          "localizedDescription": "Old Version of Punch Kick Duck+ - 1.14.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1252",
-          "size": 98083799
-        }
-      ],
-      "version": "1.14.1",
-      "versionDate": "2025-03-08 20:20:11",
-      "versionDescription": "Fighting is all about timing. Just ask any duck.\r\n\r\nPUNCH KICK DUCK+ features:\r\n\r\n* Three selectable difficulty levels.\r\n* Unbox a colorful cast of characters.\r\n* Playable in both landscape and portrait modes.\r\n* Game Center Leaderboards and Achievements.\r\n* Supports saving to iCloud.\r\n* Simple responsive touch controls.\r\n* Controller support.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1252",
-      "formatedsize": "93.54 MB",
-      "size": 98083799
-    },
-    {
-      "name": "Drive Ahead! Carcade",
-      "bundleIdentifier": "com.dodreams.carcade",
-      "developerName": "Dodreams Fairytale Company Oy",
-      "subtitle": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.",
-      "localizedDescription": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.dodreams.carcade\n\n Downloads: 105\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731276174.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312761740896436880.webp",
-        "https://apps.nabzclan.vip/screenshots/17312761741712129471.webp",
-        "https://apps.nabzclan.vip/screenshots/17312761742156585574.webp",
-        "https://apps.nabzclan.vip/screenshots/17312761742583472226.webp",
-        "https://apps.nabzclan.vip/screenshots/17312761743008449025.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.1",
-          "date": "2025-03-08 20:15:24",
-          "localizedDescription": "Current of Drive Ahead! Carcade - 1.4.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
-          "size": 258054553
-        },
-        {
-          "version": "1.4.1",
-          "date": "2025-03-08 20:15:24",
-          "localizedDescription": "Old Version of Drive Ahead! Carcade - 1.4.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
-          "size": 258054553
-        }
-      ],
-      "version": "1.4.1",
-      "versionDate": "2025-03-08 20:15:24",
-      "versionDescription": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
-      "formatedsize": "246.1 MB",
-      "size": 258054553
-    },
-    {
-      "name": "MONOPOLY: The Board Game (PAID)",
-      "bundleIdentifier": "com.marmalade.monopoly",
-      "developerName": "Roll the Dice, Pass Go & Win",
-      "subtitle": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
-      "localizedDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.marmalade.monopoly\n\n Downloads: 448\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1741482099.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17311390414624386875.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390417895560905.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390431133561919.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390434587870778.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390437482203536.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.14.7",
-          "date": "2025-03-08 20:03:41",
-          "localizedDescription": "Current of MONOPOLY: The Board Game (PAID) - 1.14.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
-          "size": 688704716
-        },
-        {
-          "version": "1.14.1",
-          "date": "2024-12-20 17:33:59",
-          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1114",
-          "size": 763468185
-        },
-        {
-          "version": "1.14.7",
-          "date": "2025-03-08 20:03:41",
-          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
-          "size": 688704716
-        }
-      ],
-      "version": "1.14.7",
-      "versionDate": "2025-03-08 20:03:41",
-      "versionDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
-      "formatedsize": "656.8 MB",
-      "size": 688704716
-    },
-    {
-      "name": "Tomb Raider I",
-      "bundleIdentifier": "com.squareenix.tombraider1classic",
-      "developerName": "squareenix",
-      "subtitle": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
-      "localizedDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.squareenix.tombraider1classic\n\n Downloads: 144\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1741481724.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414817805448000.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817806087819.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817809158414.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817807593147.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817803934434.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.4",
-          "date": "2025-03-08 19:55:24",
-          "localizedDescription": "Current of Tomb Raider I - 1.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
-          "size": 318452531
-        },
-        {
-          "version": "1.0.4",
-          "date": "2025-03-08 19:55:24",
-          "localizedDescription": "Old Version of Tomb Raider I - 1.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
-          "size": 318452531
-        }
-      ],
-      "version": "1.0.4",
-      "versionDate": "2025-03-08 19:55:24",
-      "versionDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
-      "formatedsize": "303.7 MB",
-      "size": 318452531
-    },
-    {
-      "name": "Overwinter Survival",
-      "bundleIdentifier": "com.fatih.survival",
-      "developerName": "Fatih Beceren",
-      "subtitle": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
-      "localizedDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.fatih.survival\n\n Downloads: 55\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1741481293.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414812925859519172.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812926769316044.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812927787888461.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812928689654804.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812929552912956.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812930495352614.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.2",
-          "date": "2025-03-08 19:48:13",
-          "localizedDescription": "Current of Overwinter Survival - 2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
-          "size": 51065651
-        },
-        {
-          "version": "2.2",
-          "date": "2025-03-08 19:48:13",
-          "localizedDescription": "Old Version of Overwinter Survival - 2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
-          "size": 51065651
-        }
-      ],
-      "version": "2.2",
-      "versionDate": "2025-03-08 19:48:13",
-      "versionDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
-      "formatedsize": "48.7 MB",
-      "size": 51065651
-    },
-    {
       "name": "Blasphemous",
       "bundleIdentifier": "com.thegamekitchen.blasphemous",
       "developerName": "The Game Kitchen Games",
@@ -5070,6 +4781,320 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/974",
       "formatedsize": "398.4 MB",
       "size": 417752678
+    },
+    {
+      "name": "Duke Nukem: Manhattan Project (Paid)",
+      "bundleIdentifier": "com.spawnstudios.DukeNukemMP",
+      "developerName": "Spawn Studios, Lda",
+      "subtitle": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
+      "localizedDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.spawnstudios.DukeNukemMP\n\n Downloads: 269\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731279801.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312798009968043435.webp",
+        "https://apps.nabzclan.vip/screenshots/17312798011326161101.webp",
+        "https://apps.nabzclan.vip/screenshots/17312798012836170189.webp",
+        "https://apps.nabzclan.vip/screenshots/17312798016696443743.webp",
+        "https://apps.nabzclan.vip/screenshots/17312798017914190750.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.14",
+          "date": "2024-11-10 18:03:22",
+          "localizedDescription": "Current of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
+          "size": 199890042
+        },
+        {
+          "version": "1.0.14",
+          "date": "2024-11-10 18:03:22",
+          "localizedDescription": "Old Version of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
+          "size": 199890042
+        }
+      ],
+      "version": "1.0.14",
+      "versionDate": "2024-11-10 18:03:22",
+      "versionDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/973",
+      "formatedsize": "190.63 MB",
+      "size": 199890042
+    },
+    {
+      "name": "Anti-Hack",
+      "bundleIdentifier": "com.HauntCoutureGames.Anti-Hack",
+      "developerName": "Eric McConnell",
+      "subtitle": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
+      "localizedDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.HauntCoutureGames.Anti-Hack\n\n Downloads: 172\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731279533.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312795317516214446.webp",
+        "https://apps.nabzclan.vip/screenshots/17312795325099344269.webp",
+        "https://apps.nabzclan.vip/screenshots/17312795330217055168.webp",
+        "https://apps.nabzclan.vip/screenshots/17312795331418831224.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2024-11-10 17:58:54",
+          "localizedDescription": "Current of Anti-Hack - 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
+          "size": 305869619
+        },
+        {
+          "version": "1.3",
+          "date": "2024-11-10 17:58:54",
+          "localizedDescription": "Old Version of Anti-Hack - 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
+          "size": 305869619
+        }
+      ],
+      "version": "1.3",
+      "versionDate": "2024-11-10 17:58:54",
+      "versionDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/972",
+      "formatedsize": "291.7 MB",
+      "size": 305869619
+    },
+    {
+      "name": "Hyper Evolution",
+      "bundleIdentifier": "com.evolution.hyper",
+      "developerName": "SayGames LTD",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.evolution.hyper\n\n Downloads: 199\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731277447.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312774466952976014.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774468719826948.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774469769576566.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774472792534786.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774473957693012.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774475744587285.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.17",
+          "date": "2024-11-10 17:24:07",
+          "localizedDescription": "Current of Hyper Evolution - 1.2.17",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
+          "size": 163368140
+        },
+        {
+          "version": "1.2.17",
+          "date": "2024-11-10 17:24:07",
+          "localizedDescription": "Old Version of Hyper Evolution - 1.2.17",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
+          "size": 163368140
+        }
+      ],
+      "version": "1.2.17",
+      "versionDate": "2024-11-10 17:24:07",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/971",
+      "formatedsize": "155.8 MB",
+      "size": 163368140
+    },
+    {
+      "name": "Hidden Stuff (Hack)",
+      "bundleIdentifier": "com.my.little.things",
+      "developerName": "SayGames LTD",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.my.little.things\n\n Downloads: 146\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731276608.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312766070036449257.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766074275719101.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766076611446892.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766079238103282.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766080689821707.webp",
+        "https://apps.nabzclan.vip/screenshots/17312766082489776534.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.20.9",
+          "date": "2024-11-10 17:10:08",
+          "localizedDescription": "Current of Hidden Stuff (Hack) - 1.20.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/969",
+          "size": 189005824
+        },
+        {
+          "version": "1.20.9",
+          "date": "2024-11-10 17:10:08",
+          "localizedDescription": "Old Version of Hidden Stuff (Hack) - 1.20.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/969",
+          "size": 189005824
+        }
+      ],
+      "version": "1.20.9",
+      "versionDate": "2024-11-10 17:10:08",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/969",
+      "formatedsize": "180.25 MB",
+      "size": 189005824
+    },
+    {
+      "name": "Fruit Ninja Classic+",
+      "bundleIdentifier": "com.halfbrick.fruitninjaapplearcade",
+      "developerName": "Halfbrick Studios",
+      "subtitle": "Slice fruit, don\u2019t slice bombs \u2013 that is all you need to know to get started as a Fruit Ninja!\r\n\r\nThe original hit returns to satisfy your fruit-destroying appetite, now with juicy updates. Slice for a high score, line up combos for extra points, and go crazy on the multi-slice Pomegranate!\r\n\r\nSurvive the longest you can in Classic mode, go wild with special bananas in Arcade mode, or relax and practice your fruit-slicing skills in Zen mode. \r\n\r\nCollect Blades and Dojos so you can slice in style - Search Sensei's Swag and uncover hidden challenges to unlock more!\r\n\r\nWant more fun? Go head-to-head and show off your skills as the ultimate ninja against your friends with local multiplayer and cut your way to the top!",
+      "localizedDescription": "Slice fruit, don\u2019t slice bombs \u2013 that is all you need to know to get started as a Fruit Ninja!\r\n\r\nThe original hit returns to satisfy your fruit-destroying appetite, now with juicy updates. Slice for a high score, line up combos for extra points, and go crazy on the multi-slice Pomegranate!\r\n\r\nSurvive the longest you can in Classic mode, go wild with special bananas in Arcade mode, or relax and practice your fruit-slicing skills in Zen mode. \r\n\r\nCollect Blades and Dojos so you can slice in style - Search Sensei's Swag and uncover hidden challenges to unlock more!\r\n\r\nWant more fun? Go head-to-head and show off your skills as the ultimate ninja against your friends with local multiplayer and cut your way to the top!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.halfbrick.fruitninjaapplearcade\n\n Downloads: 658\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731275864.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312758635409742138.webp",
+        "https://apps.nabzclan.vip/screenshots/17312758636844637255.webp",
+        "https://apps.nabzclan.vip/screenshots/17312758638076070208.webp",
+        "https://apps.nabzclan.vip/screenshots/17312758639563367581.webp",
+        "https://apps.nabzclan.vip/screenshots/17312758640268425336.webp",
+        "https://apps.nabzclan.vip/screenshots/17312758644935830591.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.32.0",
+          "date": "2024-11-10 16:57:45",
+          "localizedDescription": "Current of Fruit Ninja Classic+ - 1.32.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/967",
+          "size": 193881702
+        },
+        {
+          "version": "1.32.0",
+          "date": "2024-11-10 16:57:45",
+          "localizedDescription": "Old Version of Fruit Ninja Classic+ - 1.32.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/967",
+          "size": 193881702
+        }
+      ],
+      "version": "1.32.0",
+      "versionDate": "2024-11-10 16:57:45",
+      "versionDescription": "Slice fruit, don\u2019t slice bombs \u2013 that is all you need to know to get started as a Fruit Ninja!\r\n\r\nThe original hit returns to satisfy your fruit-destroying appetite, now with juicy updates. Slice for a high score, line up combos for extra points, and go crazy on the multi-slice Pomegranate!\r\n\r\nSurvive the longest you can in Classic mode, go wild with special bananas in Arcade mode, or relax and practice your fruit-slicing skills in Zen mode. \r\n\r\nCollect Blades and Dojos so you can slice in style - Search Sensei's Swag and uncover hidden challenges to unlock more!\r\n\r\nWant more fun? Go head-to-head and show off your skills as the ultimate ninja against your friends with local multiplayer and cut your way to the top!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/967",
+      "formatedsize": "184.9 MB",
+      "size": 193881702
+    },
+    {
+      "name": "Mini Metro+",
+      "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
+      "developerName": "Dinosaur Polo Club",
+      "subtitle": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
+      "localizedDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.dinopoloclub.minimetro.arcade\n\n Downloads: 390\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731275569.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312755685446323889.webp",
+        "https://apps.nabzclan.vip/screenshots/17312755686791708827.webp",
+        "https://apps.nabzclan.vip/screenshots/17312755688024919416.webp",
+        "https://apps.nabzclan.vip/screenshots/17312755689361511155.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.7.3",
+          "date": "2024-11-10 16:52:49",
+          "localizedDescription": "Current of Mini Metro+ - 1.7.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
+          "size": 119852236
+        },
+        {
+          "version": "1.7.3",
+          "date": "2024-11-10 16:52:49",
+          "localizedDescription": "Old Version of Mini Metro+ - 1.7.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
+          "size": 119852236
+        }
+      ],
+      "version": "1.7.3",
+      "versionDate": "2024-11-10 16:52:49",
+      "versionDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/966",
+      "formatedsize": "114.3 MB",
+      "size": 119852236
+    },
+    {
+      "name": "Cityscapes: Sim Builder",
+      "bundleIdentifier": "com.playstack.citybuilder",
+      "developerName": "Playstack Ltd",
+      "subtitle": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
+      "localizedDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.playstack.citybuilder\n\n Downloads: 581\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731275303.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312753022326085404.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753023306944792.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753024142050486.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753035862043958.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753037077891302.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.3.50",
+          "date": "2024-11-10 16:48:24",
+          "localizedDescription": "Current of Cityscapes: Sim Builder - 1.3.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
+          "size": 518940262
+        },
+        {
+          "version": "1.3.50",
+          "date": "2024-11-10 16:48:24",
+          "localizedDescription": "Old Version of Cityscapes: Sim Builder - 1.3.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
+          "size": 518940262
+        }
+      ],
+      "version": "1.3.50",
+      "versionDate": "2024-11-10 16:48:24",
+      "versionDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/965",
+      "formatedsize": "494.9 MB",
+      "size": 518940262
+    },
+    {
+      "name": "Human Fall Flat+",
+      "bundleIdentifier": "com.games505.Humanfallflatarcade",
+      "developerName": "505 Games (US), Inc.",
+      "subtitle": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
+      "localizedDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.games505.Humanfallflatarcade\n\n Downloads: 815\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731274989.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312749889834144108.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749891107895071.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749892519166813.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749893873030714.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749894591353222.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749895628193699.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1",
+          "date": "2024-11-10 16:43:10",
+          "localizedDescription": "Current of Human Fall Flat+ - 2.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
+          "size": 999712358
+        },
+        {
+          "version": "2.1",
+          "date": "2024-11-10 16:43:10",
+          "localizedDescription": "Old Version of Human Fall Flat+ - 2.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
+          "size": 999712358
+        }
+      ],
+      "version": "2.1",
+      "versionDate": "2024-11-10 16:43:10",
+      "versionDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/964",
+      "formatedsize": "953.4 MB",
+      "size": 999712358
     }
   ],
   "userInfo": {}
