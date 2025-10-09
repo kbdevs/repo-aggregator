@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Human Fall Flat+",
+      "bundleIdentifier": "com.games505.Humanfallflatarcade",
+      "developerName": "505 Games (US), Inc.",
+      "subtitle": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
+      "localizedDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.games505.Humanfallflatarcade\n\n Downloads: 815\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731274989.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312749889834144108.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749891107895071.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749892519166813.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749893873030714.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749894591353222.webp",
+        "https://apps.nabzclan.vip/screenshots/17312749895628193699.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1",
+          "date": "2024-11-10 16:43:10",
+          "localizedDescription": "Current of Human Fall Flat+ - 2.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
+          "size": 999712358
+        },
+        {
+          "version": "2.1",
+          "date": "2024-11-10 16:43:10",
+          "localizedDescription": "Old Version of Human Fall Flat+ - 2.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
+          "size": 999712358
+        }
+      ],
+      "version": "2.1",
+      "versionDate": "2024-11-10 16:43:10",
+      "versionDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/964",
+      "formatedsize": "953.4 MB",
+      "size": 999712358
+    },
+    {
       "name": "Bloons TD Battles 2+",
       "bundleIdentifier": "com.ninjakiwi.bloonstdbattles2plus",
       "developerName": "Ninja Kiwi",
@@ -4970,41 +5010,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/231",
       "formatedsize": "90.13 MB",
       "size": 94508154
-    },
-    {
-      "name": "Almighty Sign",
-      "bundleIdentifier": "qnq.nuosike.sign",
-      "developerName": "Almighty Sign Team",
-      "subtitle": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
-      "localizedDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: qnq.nuosike.sign\n\n Downloads: 819\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1694977326.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "7.3.9",
-          "date": "2023-09-18 11:25:01",
-          "localizedDescription": "Current of Almighty Sign - 7.3.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
-          "size": 6899630
-        },
-        {
-          "version": "7.3.9",
-          "date": "2023-09-18 11:25:01",
-          "localizedDescription": "Old Version of Almighty Sign - 7.3.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/224",
-          "size": 6899630
-        }
-      ],
-      "version": "7.3.9",
-      "versionDate": "2023-09-18 11:25:01",
-      "versionDescription": "Note from uploader: some Features in the app are in Chinese it is recommended to use the Google app to Translate unless you can read Chinese.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/224",
-      "formatedsize": "6.58 MB",
-      "size": 6899630
     }
   ],
   "userInfo": {}

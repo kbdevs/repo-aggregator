@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Network",
+      "type": 1,
+      "bundleID": "net.doublerew.NetworkUtilityPro",
+      "bundleIdentifier": "net.doublerew.NetworkUtilityPro",
+      "version": "9.10.3",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208011521",
+      "size": 5678768,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Network_9.10.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Network_9.10.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png"
+    },
+    {
+      "name": "Leto",
+      "type": 1,
+      "bundleID": "biser.stories",
+      "bundleIdentifier": "biser.stories",
+      "version": "8.2.2",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208011354",
+      "size": 165263826,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Leto_8.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Leto_8.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png"
+    },
+    {
       "name": "CarParking",
       "type": 2,
       "bundleID": "com.aidana.cardriving.ios",
@@ -18,22 +50,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png"
-    },
-    {
-      "name": "Dehancer",
-      "type": 1,
-      "bundleID": "com.dehancer.film.ios-app",
-      "bundleIdentifier": "com.dehancer.film.ios-app",
-      "version": "4.15",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208010822",
-      "size": 112903788,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Dehancer_4.15_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Dehancer_4.15_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png"
     },
     {
       "name": "FrameGrabber",
@@ -4111,46 +4127,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
       "formatedsize": "303.7 MB",
       "size": 318452531
-    },
-    {
-      "name": "Overwinter Survival",
-      "bundleIdentifier": "com.fatih.survival",
-      "developerName": "Fatih Beceren",
-      "subtitle": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
-      "localizedDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.fatih.survival\n\n Downloads: 55\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1741481293.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414812925859519172.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812926769316044.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812927787888461.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812928689654804.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812929552912956.webp",
-        "https://apps.nabzclan.vip/screenshots/17414812930495352614.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.2",
-          "date": "2025-03-08 19:48:13",
-          "localizedDescription": "Current of Overwinter Survival - 2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
-          "size": 51065651
-        },
-        {
-          "version": "2.2",
-          "date": "2025-03-08 19:48:13",
-          "localizedDescription": "Old Version of Overwinter Survival - 2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
-          "size": 51065651
-        }
-      ],
-      "version": "2.2",
-      "versionDate": "2025-03-08 19:48:13",
-      "versionDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
-      "formatedsize": "48.7 MB",
-      "size": 51065651
     }
   ],
   "userInfo": {}

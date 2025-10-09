@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Overwinter Survival",
+      "bundleIdentifier": "com.fatih.survival",
+      "developerName": "Fatih Beceren",
+      "subtitle": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
+      "localizedDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.fatih.survival\n\n Downloads: 55\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1741481293.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17414812925859519172.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812926769316044.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812927787888461.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812928689654804.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812929552912956.webp",
+        "https://apps.nabzclan.vip/screenshots/17414812930495352614.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.2",
+          "date": "2025-03-08 19:48:13",
+          "localizedDescription": "Current of Overwinter Survival - 2.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
+          "size": 51065651
+        },
+        {
+          "version": "2.2",
+          "date": "2025-03-08 19:48:13",
+          "localizedDescription": "Old Version of Overwinter Survival - 2.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
+          "size": 51065651
+        }
+      ],
+      "version": "2.2",
+      "versionDate": "2025-03-08 19:48:13",
+      "versionDescription": "Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.\r\n\r\nThe cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1247",
+      "formatedsize": "48.7 MB",
+      "size": 51065651
+    },
+    {
       "name": "Blasphemous",
       "bundleIdentifier": "com.thegamekitchen.blasphemous",
       "developerName": "The Game Kitchen Games",
@@ -5055,46 +5095,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/965",
       "formatedsize": "494.9 MB",
       "size": 518940262
-    },
-    {
-      "name": "Human Fall Flat+",
-      "bundleIdentifier": "com.games505.Humanfallflatarcade",
-      "developerName": "505 Games (US), Inc.",
-      "subtitle": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
-      "localizedDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.games505.Humanfallflatarcade\n\n Downloads: 815\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731274989.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312749889834144108.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749891107895071.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749892519166813.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749893873030714.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749894591353222.webp",
-        "https://apps.nabzclan.vip/screenshots/17312749895628193699.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1",
-          "date": "2024-11-10 16:43:10",
-          "localizedDescription": "Current of Human Fall Flat+ - 2.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
-          "size": 999712358
-        },
-        {
-          "version": "2.1",
-          "date": "2024-11-10 16:43:10",
-          "localizedDescription": "Old Version of Human Fall Flat+ - 2.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/964",
-          "size": 999712358
-        }
-      ],
-      "version": "2.1",
-      "versionDate": "2024-11-10 16:43:10",
-      "versionDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/964",
-      "formatedsize": "953.4 MB",
-      "size": 999712358
     }
   ],
   "userInfo": {}
