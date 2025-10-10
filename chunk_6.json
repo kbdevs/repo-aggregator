@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "WarofArcaneEmpires",
+      "type": 2,
+      "bundleID": "com.arcaneempire.realms",
+      "bundleIdentifier": "com.arcaneempire.realms",
+      "version": "1.0.1",
+      "versionDate": "2025-06-17",
+      "fullDate": "20250617174443",
+      "size": 109455819,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/WarofArcaneEmpires_1.0.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/WarofArcaneEmpires_1.0.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.arcaneempire.realms.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.arcaneempire.realms.png"
+    },
+    {
+      "name": "HeroBlitz",
+      "type": 2,
+      "bundleID": "com.ondi.swordroguelite",
+      "bundleIdentifier": "com.ondi.swordroguelite",
+      "version": "1.6.1",
+      "versionDate": "2025-06-17",
+      "fullDate": "20250617174430",
+      "size": 334143308,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/HeroBlitz_1.6.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/HeroBlitz_1.6.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ondi.swordroguelite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ondi.swordroguelite.png"
+    },
+    {
       "name": "SoulKnight",
       "type": 2,
       "bundleID": "com.ChillyRoom.DungeonShooter",
@@ -1922,38 +1954,6 @@
       "localizedDescription": "Injected with InfiniteCurrency",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobirate.DeadAheadTactics.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobirate.DeadAheadTactics.png"
-    },
-    {
-      "name": "DisneySolitaire",
-      "type": 2,
-      "bundleID": "com.superplaystudios.disneysolitairedreams",
-      "bundleIdentifier": "com.superplaystudios.disneysolitairedreams",
-      "version": "1.1.2",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528164542",
-      "size": 154944780,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DisneySolitaire_1.1.2_Coins_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DisneySolitaire_1.1.2_Coins_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Coins",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.disneysolitairedreams.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.disneysolitairedreams.png"
-    },
-    {
-      "name": "ProjectMakeover",
-      "type": 2,
-      "bundleID": "com.bgg.jump",
-      "bundleIdentifier": "com.bgg.jump",
-      "version": "2.114.1",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528163518",
-      "size": 286291840,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/ProjectMakeover_2.114.1_UnlimitedCash_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/ProjectMakeover_2.114.1_UnlimitedCash_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with UnlimitedCash",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bgg.jump.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bgg.jump.png"
     }
   ],
   "userInfo": {}

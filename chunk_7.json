@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "DisneySolitaire",
+      "type": 2,
+      "bundleID": "com.superplaystudios.disneysolitairedreams",
+      "bundleIdentifier": "com.superplaystudios.disneysolitairedreams",
+      "version": "1.1.2",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528164542",
+      "size": 154944780,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DisneySolitaire_1.1.2_Coins_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DisneySolitaire_1.1.2_Coins_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Coins",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.disneysolitairedreams.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.superplaystudios.disneysolitairedreams.png"
+    },
+    {
+      "name": "ProjectMakeover",
+      "type": 2,
+      "bundleID": "com.bgg.jump",
+      "bundleIdentifier": "com.bgg.jump",
+      "version": "2.114.1",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528163518",
+      "size": 286291840,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/ProjectMakeover_2.114.1_UnlimitedCash_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/ProjectMakeover_2.114.1_UnlimitedCash_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with UnlimitedCash",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bgg.jump.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bgg.jump.png"
+    },
+    {
       "name": "PlantPower",
       "type": 2,
       "bundleID": "com.CHEUNG.plant",
@@ -1922,38 +1954,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png"
-    },
-    {
-      "name": "Uben",
-      "type": 1,
-      "bundleID": "com.ubenai.www.ios",
-      "bundleIdentifier": "com.ubenai.www.ios",
-      "version": "3.1.3",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011648",
-      "size": 19447075,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Uben_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Uben_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png"
-    },
-    {
-      "name": "WeedFirm2",
-      "type": 2,
-      "bundleID": "com.bcanada.weedfirm2",
-      "bundleIdentifier": "com.bcanada.weedfirm2",
-      "version": "4.1.1",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011610",
-      "size": 270498598,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,83 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Mini Metro+",
+      "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
+      "developerName": "Dinosaur Polo Club",
+      "subtitle": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
+      "localizedDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.dinopoloclub.minimetro.arcade\n\n Downloads: 390\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731275569.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312755685446323889.webp",
+        "https://apps.nabzclan.vip/screenshots/17312755686791708827.webp",
+        "https://apps.nabzclan.vip/screenshots/17312755688024919416.webp",
+        "https://apps.nabzclan.vip/screenshots/17312755689361511155.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.7.3",
+          "date": "2024-11-10 16:52:49",
+          "localizedDescription": "Current of Mini Metro+ - 1.7.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
+          "size": 119852236
+        },
+        {
+          "version": "1.7.3",
+          "date": "2024-11-10 16:52:49",
+          "localizedDescription": "Old Version of Mini Metro+ - 1.7.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
+          "size": 119852236
+        }
+      ],
+      "version": "1.7.3",
+      "versionDate": "2024-11-10 16:52:49",
+      "versionDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/966",
+      "formatedsize": "114.3 MB",
+      "size": 119852236
+    },
+    {
+      "name": "Cityscapes: Sim Builder",
+      "bundleIdentifier": "com.playstack.citybuilder",
+      "developerName": "Playstack Ltd",
+      "subtitle": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
+      "localizedDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.playstack.citybuilder\n\n Downloads: 581\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731275303.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312753022326085404.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753023306944792.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753024142050486.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753035862043958.webp",
+        "https://apps.nabzclan.vip/screenshots/17312753037077891302.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.3.50",
+          "date": "2024-11-10 16:48:24",
+          "localizedDescription": "Current of Cityscapes: Sim Builder - 1.3.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
+          "size": 518940262
+        },
+        {
+          "version": "1.3.50",
+          "date": "2024-11-10 16:48:24",
+          "localizedDescription": "Old Version of Cityscapes: Sim Builder - 1.3.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
+          "size": 518940262
+        }
+      ],
+      "version": "1.3.50",
+      "versionDate": "2024-11-10 16:48:24",
+      "versionDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/965",
+      "formatedsize": "494.9 MB",
+      "size": 518940262
+    },
+    {
       "name": "Human Fall Flat+",
       "bundleIdentifier": "com.games505.Humanfallflatarcade",
       "developerName": "505 Games (US), Inc.",
@@ -4923,93 +5000,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/268",
       "formatedsize": "6 MB",
       "size": 6291456
-    },
-    {
-      "name": "IokTok (No Ads)",
-      "bundleIdentifier": "com.mazoli.box",
-      "developerName": "Nabzclan",
-      "subtitle": "Free movie app with no ads",
-      "localizedDescription": "Free movie app with no ads\n\n --- \n\n More app Information:\n\n Category: Media, VIP\n\n BundleID: com.mazoli.box\n\n Downloads: 553\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1695512035.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16955120244232626981.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120259574841453.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120276859738621.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120290004967029.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120312409656833.webp",
-        "https://apps.nabzclan.vip/screenshots/16955120339209240001.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.0",
-          "date": "2023-09-23 23:36:06",
-          "localizedDescription": "Current of IokTok (No Ads) - 5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/247",
-          "size": 34833694
-        },
-        {
-          "version": "5.0",
-          "date": "2023-09-23 23:36:06",
-          "localizedDescription": "Old Version of IokTok (No Ads) - 5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/247",
-          "size": 34833694
-        }
-      ],
-      "version": "5.0",
-      "versionDate": "2023-09-23 23:36:06",
-      "versionDescription": "Free movie app with no ads",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/247",
-      "formatedsize": "33.22 MB",
-      "size": 34833694
-    },
-    {
-      "name": "Nicegram (PREMIUM)",
-      "bundleIdentifier": "app.nicegram",
-      "developerName": "nabzclan",
-      "subtitle": "Nicegram injected with PREMIUM",
-      "localizedDescription": "Nicegram injected with PREMIUM\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: app.nicegram\n\n Downloads: 1127\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692898750.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16928987454427386061.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987458828506964.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987474889743242.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987478429185893.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987479804631340.webp",
-        "https://apps.nabzclan.vip/screenshots/16928987482397569662.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.0",
-          "date": "2023-09-19 06:56:05",
-          "localizedDescription": "Current of Nicegram (PREMIUM) - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
-          "size": 94508154
-        },
-        {
-          "version": "1.3.9",
-          "date": "2023-08-24 17:39:10",
-          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.3.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/187",
-          "size": 64948797
-        },
-        {
-          "version": "1.4.0",
-          "date": "2023-09-19 06:56:05",
-          "localizedDescription": "Old Version of Nicegram (PREMIUM) - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/231",
-          "size": 94508154
-        }
-      ],
-      "version": "1.4.0",
-      "versionDate": "2023-09-19 06:56:05",
-      "versionDescription": "Nicegram injected with PREMIUM",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/231",
-      "formatedsize": "90.13 MB",
-      "size": 94508154
     }
   ],
   "userInfo": {}

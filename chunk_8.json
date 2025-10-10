@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Uben",
+      "type": 1,
+      "bundleID": "com.ubenai.www.ios",
+      "bundleIdentifier": "com.ubenai.www.ios",
+      "version": "3.1.3",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208011648",
+      "size": 19447075,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Uben_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Uben_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png"
+    },
+    {
+      "name": "WeedFirm2",
+      "type": 2,
+      "bundleID": "com.bcanada.weedfirm2",
+      "bundleIdentifier": "com.bcanada.weedfirm2",
+      "version": "4.1.1",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208011610",
+      "size": 270498598,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png"
+    },
+    {
       "name": "Network",
       "type": 1,
       "bundleID": "net.doublerew.NetworkUtilityPro",
@@ -4042,91 +4074,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
       "formatedsize": "246.1 MB",
       "size": 258054553
-    },
-    {
-      "name": "MONOPOLY: The Board Game (PAID)",
-      "bundleIdentifier": "com.marmalade.monopoly",
-      "developerName": "Roll the Dice, Pass Go & Win",
-      "subtitle": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
-      "localizedDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.marmalade.monopoly\n\n Downloads: 448\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1741482099.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17311390414624386875.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390417895560905.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390431133561919.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390434587870778.webp",
-        "https://apps.nabzclan.vip/screenshots/17311390437482203536.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.14.7",
-          "date": "2025-03-08 20:03:41",
-          "localizedDescription": "Current of MONOPOLY: The Board Game (PAID) - 1.14.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
-          "size": 688704716
-        },
-        {
-          "version": "1.14.1",
-          "date": "2024-12-20 17:33:59",
-          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1114",
-          "size": 763468185
-        },
-        {
-          "version": "1.14.7",
-          "date": "2025-03-08 20:03:41",
-          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
-          "size": 688704716
-        }
-      ],
-      "version": "1.14.7",
-      "versionDate": "2025-03-08 20:03:41",
-      "versionDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
-      "formatedsize": "656.8 MB",
-      "size": 688704716
-    },
-    {
-      "name": "Tomb Raider I",
-      "bundleIdentifier": "com.squareenix.tombraider1classic",
-      "developerName": "squareenix",
-      "subtitle": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
-      "localizedDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.squareenix.tombraider1classic\n\n Downloads: 144\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1741481724.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17414817805448000.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817806087819.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817809158414.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817807593147.webp",
-        "https://apps.nabzclan.vip/screenshots/17414817803934434.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.4",
-          "date": "2025-03-08 19:55:24",
-          "localizedDescription": "Current of Tomb Raider I - 1.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
-          "size": 318452531
-        },
-        {
-          "version": "1.0.4",
-          "date": "2025-03-08 19:55:24",
-          "localizedDescription": "Old Version of Tomb Raider I - 1.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
-          "size": 318452531
-        }
-      ],
-      "version": "1.0.4",
-      "versionDate": "2025-03-08 19:55:24",
-      "versionDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
-      "formatedsize": "303.7 MB",
-      "size": 318452531
     }
   ],
   "userInfo": {}

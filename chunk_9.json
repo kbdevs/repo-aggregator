@@ -4,6 +4,91 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "MONOPOLY: The Board Game (PAID)",
+      "bundleIdentifier": "com.marmalade.monopoly",
+      "developerName": "Roll the Dice, Pass Go & Win",
+      "subtitle": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
+      "localizedDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.marmalade.monopoly\n\n Downloads: 448\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1741482099.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17311390414624386875.webp",
+        "https://apps.nabzclan.vip/screenshots/17311390417895560905.webp",
+        "https://apps.nabzclan.vip/screenshots/17311390431133561919.webp",
+        "https://apps.nabzclan.vip/screenshots/17311390434587870778.webp",
+        "https://apps.nabzclan.vip/screenshots/17311390437482203536.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.14.7",
+          "date": "2025-03-08 20:03:41",
+          "localizedDescription": "Current of MONOPOLY: The Board Game (PAID) - 1.14.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
+          "size": 688704716
+        },
+        {
+          "version": "1.14.1",
+          "date": "2024-12-20 17:33:59",
+          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1114",
+          "size": 763468185
+        },
+        {
+          "version": "1.14.7",
+          "date": "2025-03-08 20:03:41",
+          "localizedDescription": "Old Version of MONOPOLY: The Board Game (PAID) - 1.14.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
+          "size": 688704716
+        }
+      ],
+      "version": "1.14.7",
+      "versionDate": "2025-03-08 20:03:41",
+      "versionDescription": "Play Hasbro\u2019s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It\u2019s the game you love with no ads!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1250",
+      "formatedsize": "656.8 MB",
+      "size": 688704716
+    },
+    {
+      "name": "Tomb Raider I",
+      "bundleIdentifier": "com.squareenix.tombraider1classic",
+      "developerName": "squareenix",
+      "subtitle": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
+      "localizedDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.squareenix.tombraider1classic\n\n Downloads: 144\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1741481724.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17414817805448000.webp",
+        "https://apps.nabzclan.vip/screenshots/17414817806087819.webp",
+        "https://apps.nabzclan.vip/screenshots/17414817809158414.webp",
+        "https://apps.nabzclan.vip/screenshots/17414817807593147.webp",
+        "https://apps.nabzclan.vip/screenshots/17414817803934434.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2025-03-08 19:55:24",
+          "localizedDescription": "Current of Tomb Raider I - 1.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
+          "size": 318452531
+        },
+        {
+          "version": "1.0.4",
+          "date": "2025-03-08 19:55:24",
+          "localizedDescription": "Old Version of Tomb Raider I - 1.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
+          "size": 318452531
+        }
+      ],
+      "version": "1.0.4",
+      "versionDate": "2025-03-08 19:55:24",
+      "versionDescription": "Tomb Raider laid the foundations of the third-person shooter genre, becoming a cult classic that inspired numerous successors. This project had a massive impact on the evolution of the gaming industry, shaping its direction. Even today, Tomb Raider and its main character, Lara Croft, remain iconic figures in the world of video games, symbolizing an era and maintaining their popularity among gamers thanks to a unique blend of adventure, action, and a charismatic persona.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1248",
+      "formatedsize": "303.7 MB",
+      "size": 318452531
+    },
+    {
       "name": "Overwinter Survival",
       "bundleIdentifier": "com.fatih.survival",
       "developerName": "Fatih Beceren",
@@ -5018,83 +5103,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/967",
       "formatedsize": "184.9 MB",
       "size": 193881702
-    },
-    {
-      "name": "Mini Metro+",
-      "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
-      "developerName": "Dinosaur Polo Club",
-      "subtitle": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
-      "localizedDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.dinopoloclub.minimetro.arcade\n\n Downloads: 390\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731275569.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312755685446323889.webp",
-        "https://apps.nabzclan.vip/screenshots/17312755686791708827.webp",
-        "https://apps.nabzclan.vip/screenshots/17312755688024919416.webp",
-        "https://apps.nabzclan.vip/screenshots/17312755689361511155.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.3",
-          "date": "2024-11-10 16:52:49",
-          "localizedDescription": "Current of Mini Metro+ - 1.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
-          "size": 119852236
-        },
-        {
-          "version": "1.7.3",
-          "date": "2024-11-10 16:52:49",
-          "localizedDescription": "Old Version of Mini Metro+ - 1.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
-          "size": 119852236
-        }
-      ],
-      "version": "1.7.3",
-      "versionDate": "2024-11-10 16:52:49",
-      "versionDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/966",
-      "formatedsize": "114.3 MB",
-      "size": 119852236
-    },
-    {
-      "name": "Cityscapes: Sim Builder",
-      "bundleIdentifier": "com.playstack.citybuilder",
-      "developerName": "Playstack Ltd",
-      "subtitle": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
-      "localizedDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.playstack.citybuilder\n\n Downloads: 581\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731275303.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312753022326085404.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753023306944792.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753024142050486.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753035862043958.webp",
-        "https://apps.nabzclan.vip/screenshots/17312753037077891302.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.50",
-          "date": "2024-11-10 16:48:24",
-          "localizedDescription": "Current of Cityscapes: Sim Builder - 1.3.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
-          "size": 518940262
-        },
-        {
-          "version": "1.3.50",
-          "date": "2024-11-10 16:48:24",
-          "localizedDescription": "Old Version of Cityscapes: Sim Builder - 1.3.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/965",
-          "size": 518940262
-        }
-      ],
-      "version": "1.3.50",
-      "versionDate": "2024-11-10 16:48:24",
-      "versionDescription": "Welcome! You are a short helicopter ride away from becoming one of the most celebrated and admired city mayors of all time.\r\n\r\nThis is Cityscapes: Sim Builder! A brand new, sustainable take on classic city building games, and brought to you by veteran sim builders.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/965",
-      "formatedsize": "494.9 MB",
-      "size": 518940262
     }
   ],
   "userInfo": {}
