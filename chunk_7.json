@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "DeadAhead",
+      "type": 2,
+      "bundleID": "com.mobirate.DeadAheadTactics",
+      "bundleIdentifier": "com.mobirate.DeadAheadTactics",
+      "version": "4.2.2",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528164547",
+      "size": 105908345,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DeadAhead_4.2.2_InfiniteCurrency_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/DeadAhead_4.2.2_InfiniteCurrency_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with InfiniteCurrency",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobirate.DeadAheadTactics.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobirate.DeadAheadTactics.png"
+    },
+    {
       "name": "DisneySolitaire",
       "type": 2,
       "bundleID": "com.superplaystudios.disneysolitairedreams",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png"
-    },
-    {
-      "name": "PhotoEraser",
-      "type": 1,
-      "bundleID": "LB-Software.PhotoEraser",
-      "bundleIdentifier": "LB-Software.PhotoEraser",
-      "version": "3.5.1",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011757",
-      "size": 104454086,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/PhotoEraser_3.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/PhotoEraser_3.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Tutubox UI",
+      "bundleIdentifier": "tutu.io.app",
+      "developerName": "Saunders Tech",
+      "subtitle": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)",
+      "localizedDescription": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: tutu.io.app\n\n Downloads: 1645\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1697770788.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2023-10-20 02:59:48",
+          "localizedDescription": "Current of Tutubox UI - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/268",
+          "size": 6291456
+        },
+        {
+          "version": "1.1",
+          "date": "2023-10-20 02:59:48",
+          "localizedDescription": "Old Version of Tutubox UI - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/268",
+          "size": 6291456
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2023-10-20 02:59:48",
+      "versionDescription": "This is the tutubox app but sadly there are no apps on it because there are none connected to the sever after AppValley bought it and ruined it this is just simply for nostalgia :)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/268",
+      "formatedsize": "6 MB",
+      "size": 6291456
+    },
+    {
       "name": "IokTok (No Ads)",
       "bundleIdentifier": "com.mazoli.box",
       "developerName": "Nabzclan",
@@ -1895,17 +1930,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
-    },
-    {
-      "name": "Mangayomi",
-      "bundleIdentifier": "com.kodjodevf.mangayomi",
-      "version": "0.1.0",
-      "versionDate": "2024-10-09",
-      "size": 93145110,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
-      "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     }
   ],
   "userInfo": {}

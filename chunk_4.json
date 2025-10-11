@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "SubwaySurf",
+      "type": 2,
+      "bundleID": "com.kiloo.subwaysurfers",
+      "bundleIdentifier": "com.kiloo.subwaysurfers",
+      "version": "3.51.0",
+      "versionDate": "2025-08-25",
+      "fullDate": "20250825211154",
+      "size": 166626765,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/SubwaySurf_3.51.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/SubwaySurf_3.51.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png"
+    },
+    {
+      "name": "SpaceQuest",
+      "type": 2,
+      "bundleID": "com.tryagaingamestudio.spacelanders",
+      "bundleIdentifier": "com.tryagaingamestudio.spacelanders",
+      "version": "2.4.9",
+      "versionDate": "2025-08-25",
+      "fullDate": "20250825211140",
+      "size": 347957655,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/SpaceQuest_2.4.9_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/SpaceQuest_2.4.9_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tryagaingamestudio.spacelanders.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tryagaingamestudio.spacelanders.png"
+    },
+    {
       "name": "SwitchingHeroes",
       "type": 2,
       "bundleID": "com.zilliongames.collectionidle",
@@ -658,22 +690,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png"
-    },
-    {
-      "name": "BrainTest3",
-      "type": 2,
-      "bundleID": "com.unicostudio.braintest3",
-      "bundleIdentifier": "com.unicostudio.braintest3",
-      "version": "1.76.5",
-      "versionDate": "2025-08-19",
-      "fullDate": "20250819234816",
-      "size": 120397964,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2025/BrainTest3_1.76.5_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2025/BrainTest3_1.76.5_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest3.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest3.png"
     },
     {
       "name": "Dictionary",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nitrogames.newdawn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nitrogames.newdawn.png"
-    },
-    {
-      "name": "CityOfSurvivors",
-      "type": 2,
-      "bundleID": "com.gatherfun.cityofsurvivors",
-      "bundleIdentifier": "com.gatherfun.cityofsurvivors",
-      "version": "0.0.19",
-      "versionDate": "2025-07-06",
-      "fullDate": "20250706162549",
-      "size": 347856247,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/CityOfSurvivors_0.0.19_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/CityOfSurvivors_0.0.19_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gatherfun.cityofsurvivors.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gatherfun.cityofsurvivors.png"
     }
   ],
   "userInfo": {}

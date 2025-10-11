@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Drive Ahead! Carcade",
+      "bundleIdentifier": "com.dodreams.carcade",
+      "developerName": "Dodreams Fairytale Company Oy",
+      "subtitle": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.",
+      "localizedDescription": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.dodreams.carcade\n\n Downloads: 105\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731276174.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312761740896436880.webp",
+        "https://apps.nabzclan.vip/screenshots/17312761741712129471.webp",
+        "https://apps.nabzclan.vip/screenshots/17312761742156585574.webp",
+        "https://apps.nabzclan.vip/screenshots/17312761742583472226.webp",
+        "https://apps.nabzclan.vip/screenshots/17312761743008449025.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.1",
+          "date": "2025-03-08 20:15:24",
+          "localizedDescription": "Current of Drive Ahead! Carcade - 1.4.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
+          "size": 258054553
+        },
+        {
+          "version": "1.4.1",
+          "date": "2025-03-08 20:15:24",
+          "localizedDescription": "Old Version of Drive Ahead! Carcade - 1.4.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
+          "size": 258054553
+        }
+      ],
+      "version": "1.4.1",
+      "versionDate": "2025-03-08 20:15:24",
+      "versionDescription": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
+      "formatedsize": "246.1 MB",
+      "size": 258054553
+    },
+    {
       "name": "MONOPOLY: The Board Game (PAID)",
       "bundleIdentifier": "com.marmalade.monopoly",
       "developerName": "Roll the Dice, Pass Go & Win",
@@ -5063,46 +5102,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/969",
       "formatedsize": "180.25 MB",
       "size": 189005824
-    },
-    {
-      "name": "Fruit Ninja Classic+",
-      "bundleIdentifier": "com.halfbrick.fruitninjaapplearcade",
-      "developerName": "Halfbrick Studios",
-      "subtitle": "Slice fruit, don\u2019t slice bombs \u2013 that is all you need to know to get started as a Fruit Ninja!\r\n\r\nThe original hit returns to satisfy your fruit-destroying appetite, now with juicy updates. Slice for a high score, line up combos for extra points, and go crazy on the multi-slice Pomegranate!\r\n\r\nSurvive the longest you can in Classic mode, go wild with special bananas in Arcade mode, or relax and practice your fruit-slicing skills in Zen mode. \r\n\r\nCollect Blades and Dojos so you can slice in style - Search Sensei's Swag and uncover hidden challenges to unlock more!\r\n\r\nWant more fun? Go head-to-head and show off your skills as the ultimate ninja against your friends with local multiplayer and cut your way to the top!",
-      "localizedDescription": "Slice fruit, don\u2019t slice bombs \u2013 that is all you need to know to get started as a Fruit Ninja!\r\n\r\nThe original hit returns to satisfy your fruit-destroying appetite, now with juicy updates. Slice for a high score, line up combos for extra points, and go crazy on the multi-slice Pomegranate!\r\n\r\nSurvive the longest you can in Classic mode, go wild with special bananas in Arcade mode, or relax and practice your fruit-slicing skills in Zen mode. \r\n\r\nCollect Blades and Dojos so you can slice in style - Search Sensei's Swag and uncover hidden challenges to unlock more!\r\n\r\nWant more fun? Go head-to-head and show off your skills as the ultimate ninja against your friends with local multiplayer and cut your way to the top!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.halfbrick.fruitninjaapplearcade\n\n Downloads: 658\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731275864.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312758635409742138.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758636844637255.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758638076070208.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758639563367581.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758640268425336.webp",
-        "https://apps.nabzclan.vip/screenshots/17312758644935830591.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.32.0",
-          "date": "2024-11-10 16:57:45",
-          "localizedDescription": "Current of Fruit Ninja Classic+ - 1.32.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/967",
-          "size": 193881702
-        },
-        {
-          "version": "1.32.0",
-          "date": "2024-11-10 16:57:45",
-          "localizedDescription": "Old Version of Fruit Ninja Classic+ - 1.32.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/967",
-          "size": 193881702
-        }
-      ],
-      "version": "1.32.0",
-      "versionDate": "2024-11-10 16:57:45",
-      "versionDescription": "Slice fruit, don\u2019t slice bombs \u2013 that is all you need to know to get started as a Fruit Ninja!\r\n\r\nThe original hit returns to satisfy your fruit-destroying appetite, now with juicy updates. Slice for a high score, line up combos for extra points, and go crazy on the multi-slice Pomegranate!\r\n\r\nSurvive the longest you can in Classic mode, go wild with special bananas in Arcade mode, or relax and practice your fruit-slicing skills in Zen mode. \r\n\r\nCollect Blades and Dojos so you can slice in style - Search Sensei's Swag and uncover hidden challenges to unlock more!\r\n\r\nWant more fun? Go head-to-head and show off your skills as the ultimate ninja against your friends with local multiplayer and cut your way to the top!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/967",
-      "formatedsize": "184.9 MB",
-      "size": 193881702
     }
   ],
   "userInfo": {}

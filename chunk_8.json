@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "PhotoEraser",
+      "type": 1,
+      "bundleID": "LB-Software.PhotoEraser",
+      "bundleIdentifier": "LB-Software.PhotoEraser",
+      "version": "3.5.1",
+      "versionDate": "2025-02-08",
+      "fullDate": "20250208011757",
+      "size": 104454086,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/PhotoEraser_3.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/PhotoEraser_3.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LB-Software.PhotoEraser.png"
+    },
+    {
       "name": "Uben",
       "type": 1,
       "bundleID": "com.ubenai.www.ios",
@@ -4035,45 +4051,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1252",
       "formatedsize": "93.54 MB",
       "size": 98083799
-    },
-    {
-      "name": "Drive Ahead! Carcade",
-      "bundleIdentifier": "com.dodreams.carcade",
-      "developerName": "Dodreams Fairytale Company Oy",
-      "subtitle": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.",
-      "localizedDescription": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.dodreams.carcade\n\n Downloads: 105\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731276174.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312761740896436880.webp",
-        "https://apps.nabzclan.vip/screenshots/17312761741712129471.webp",
-        "https://apps.nabzclan.vip/screenshots/17312761742156585574.webp",
-        "https://apps.nabzclan.vip/screenshots/17312761742583472226.webp",
-        "https://apps.nabzclan.vip/screenshots/17312761743008449025.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.1",
-          "date": "2025-03-08 20:15:24",
-          "localizedDescription": "Current of Drive Ahead! Carcade - 1.4.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
-          "size": 258054553
-        },
-        {
-          "version": "1.4.1",
-          "date": "2025-03-08 20:15:24",
-          "localizedDescription": "Old Version of Drive Ahead! Carcade - 1.4.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
-          "size": 258054553
-        }
-      ],
-      "version": "1.4.1",
-      "versionDate": "2025-03-08 20:15:24",
-      "versionDescription": "In Drive Ahead! Carcade, you win by knocking your opponents on the head in cars with just one hit, it\u2019s that simple!\r\nExperience a brand new evolution of the Drive Ahead! world, filled with real time multiplayer chaos and crazy unforgettable moments where anything can happen.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1251",
-      "formatedsize": "246.1 MB",
-      "size": 258054553
     }
   ],
   "userInfo": {}
