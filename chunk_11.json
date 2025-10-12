@@ -4,6 +4,84 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "MEGA Cracked",
+      "bundleIdentifier": "mega.ios",
+      "developerName": "Qamishlo",
+      "subtitle": "Cracked mega",
+      "localizedDescription": "Cracked mega\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: mega.ios\n\n Downloads: 3983\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1697860780.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16978607788594277497.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607793507706508.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607796479904213.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607798125626645.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607799393248294.webp",
+        "https://apps.nabzclan.vip/screenshots/16978607800769394369.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "9.8",
+          "date": "2023-10-21 03:59:40",
+          "localizedDescription": "Current of MEGA Cracked - 9.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
+          "size": 89118474
+        },
+        {
+          "version": "9.8",
+          "date": "2023-10-21 03:59:40",
+          "localizedDescription": "Old Version of MEGA Cracked - 9.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/270",
+          "size": 89118474
+        }
+      ],
+      "version": "9.8",
+      "versionDate": "2023-10-21 03:59:40",
+      "versionDescription": "Cracked mega",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/270",
+      "formatedsize": "84.99 MB",
+      "size": 89118474
+    },
+    {
+      "name": "Gbox VIP mod",
+      "bundleIdentifier": "com.ncs.gbox.caomod",
+      "developerName": "Caomodz",
+      "subtitle": "Features:\r\n- cracked Gbox",
+      "localizedDescription": "Features:\r\n- cracked Gbox\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.ncs.gbox.caomod\n\n Downloads: 2983\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1697752502.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17269019977675901.webp",
+        "https://apps.nabzclan.vip/screenshots/17269019978410567.webp",
+        "https://apps.nabzclan.vip/screenshots/17269019973077402.webp",
+        "https://apps.nabzclan.vip/screenshots/17269019978241790.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.5",
+          "date": "2023-10-20 22:40:21",
+          "localizedDescription": "Current of Gbox VIP mod - 4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/266",
+          "size": 3670016
+        },
+        {
+          "version": "4.5",
+          "date": "2023-10-20 22:40:21",
+          "localizedDescription": "Old Version of Gbox VIP mod - 4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/266",
+          "size": 3670016
+        }
+      ],
+      "version": "4.5",
+      "versionDate": "2023-10-20 22:40:21",
+      "versionDescription": "Features:\r\n- cracked Gbox",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/266",
+      "formatedsize": "3.5 MB",
+      "size": 3670016
+    },
+    {
       "name": "Tutubox UI",
       "bundleIdentifier": "tutu.io.app",
       "developerName": "Saunders Tech",
@@ -1908,28 +1986,6 @@
       "developerName": "Misaka",
       "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
-    },
-    {
-      "name": "MemrisePremium",
-      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
-      "version": "2023.11.17",
-      "versionDate": "2024-10-10",
-      "size": 90694453,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
-      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
-    },
-    {
-      "name": "MatterPremium",
-      "bundleIdentifier": "com.Matter.MatterApp",
-      "version": "3.1.4",
-      "versionDate": "2024-10-09",
-      "size": 83875186,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
     }
   ],
   "userInfo": {}

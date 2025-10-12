@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "version": "2023.11.17",
+      "versionDate": "2024-10-10",
+      "size": 90694453,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
+    },
+    {
+      "name": "MatterPremium",
+      "bundleIdentifier": "com.Matter.MatterApp",
+      "version": "3.1.4",
+      "versionDate": "2024-10-09",
+      "size": 83875186,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
+    },
+    {
       "name": "Mangayomi",
       "bundleIdentifier": "com.kodjodevf.mangayomi",
       "version": "0.1.0",
@@ -822,6 +844,15 @@
       "beta": false,
       "versions": [
         {
+          "version": "5.0.0b1",
+          "date": "2025-10-11T17:00:00.0000000Z",
+          "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
+          "size": 17958943,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "99.0"
+        },
+        {
           "version": "4.0.0b8",
           "date": "2025-01-19T00:00:00.0000000Z",
           "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
@@ -849,11 +880,11 @@
           "maxOSVersion": "99.0"
         }
       ],
-      "version": "4.0.0b8",
-      "versionDate": "2025-01-19T00:00:00.0000000Z",
+      "version": "5.0.0b1",
+      "versionDate": "2025-10-11T17:00:00.0000000Z",
       "versionDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
-      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
-      "size": 15830129
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
+      "size": 17958943
     },
     {
       "name": "PojavLauncher",
@@ -864,7 +895,7 @@
       "versionDate": "2023-05-06T17:00:00-05:00",
       "versionDescription": "PojavLauncher 2.2 Deepslate puts a focus on our core functionality, working to squash bugs, improve performance, and increase reliability.",
       "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-      "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\n\u00e2\u0080\u00a2 Play most versions of Minecraft, from the very first beta to the latest snapshots.\n\u00e2\u0080\u00a2 Customize with mods, resource packs, and compatible shaders\n\u00e2\u0080\u00a2 Create multiple instances of Minecraft for multiple versions\n\u00e2\u0080\u00a2 Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\n\u00e2\u0080\u00a2 Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.",
+      "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\n\u2022 Play most versions of Minecraft, from the very first beta to the latest snapshots.\n\u2022 Customize with mods, resource packs, and compatible shaders\n\u2022 Create multiple instances of Minecraft for multiple versions\n\u2022 Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\n\u2022 Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.",
       "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
       "tintColor": "746344",
       "size": 108175347,
