@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Flamb",
+      "type": 2,
+      "bundleID": "com.mf.cola",
+      "bundleIdentifier": "com.mf.cola",
+      "version": "1.20.1",
+      "versionDate": "2025-07-06",
+      "fullDate": "20250706203141",
+      "size": 120773206,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/Flamb_1.20.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/Flamb_1.20.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mf.cola.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mf.cola.png"
+    },
+    {
       "name": "Grimguard",
       "type": 2,
       "bundleID": "com.outerdawn.grimguard",
@@ -1922,22 +1938,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itranslate.itranslateone.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itranslate.itranslateone.png"
-    },
-    {
-      "name": "Wallpapers",
-      "type": 1,
-      "bundleID": "com.apalonapps.wallpaperspys",
-      "bundleIdentifier": "com.apalonapps.wallpaperspys",
-      "version": "5.22.18",
-      "versionDate": "2025-06-18",
-      "fullDate": "20250618204116",
-      "size": 70623685,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Wallpapers_5.22.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Wallpapers_5.22.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png"
     },
     {
       "name": "Window",

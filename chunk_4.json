@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Quizlet",
+      "type": 1,
+      "bundleID": "com.quizlet.quizlet",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "10.2",
+      "versionDate": "2025-08-28",
+      "fullDate": "20250828120428",
+      "size": 62979035,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
+    },
+    {
+      "name": "FaceLab",
+      "type": 1,
+      "bundleID": "com.lyrebirdstudio.facelab",
+      "bundleIdentifier": "com.lyrebirdstudio.facelab",
+      "version": "4.42.0",
+      "versionDate": "2025-08-27",
+      "fullDate": "20250827214615",
+      "size": 162549777,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2025/FaceLab_4.42.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2025/FaceLab_4.42.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png"
+    },
+    {
       "name": "MyFitCoach",
       "type": 1,
       "bundleID": "de.my-fit-coach.myfitcoach-ios",
@@ -1444,22 +1476,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.comapps.live.photo.png"
     },
     {
-      "name": "Heartify",
-      "type": 1,
-      "bundleID": "com.heartify",
-      "bundleIdentifier": "com.heartify",
-      "version": "2.4.5",
-      "versionDate": "2025-07-21",
-      "fullDate": "20250721164206",
-      "size": 203494093,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Heartify_2.4.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Heartify_2.4.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png"
-    },
-    {
       "name": "SwiftyCompiler",
       "type": 1,
       "bundleID": "com.hassantaleb.SwiftCompiler",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.battleroyale.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.battleroyale.png"
-    },
-    {
-      "name": "Flamb",
-      "type": 2,
-      "bundleID": "com.mf.cola",
-      "bundleIdentifier": "com.mf.cola",
-      "version": "1.20.1",
-      "versionDate": "2025-07-06",
-      "fullDate": "20250706203141",
-      "size": 120773206,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/Flamb_1.20.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/Flamb_1.20.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mf.cola.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mf.cola.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "NeoServer",
+      "type": 1,
+      "bundleID": "com.neo.NeoMan",
+      "bundleIdentifier": "com.neo.NeoMan",
+      "version": "7.9.3",
+      "versionDate": "2025-09-27",
+      "fullDate": "20250927201039",
+      "size": 23293992,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-09-2025/NeoServer_7.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-09-2025/NeoServer_7.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png"
+    },
+    {
+      "name": "HiWidget",
+      "type": 1,
+      "bundleID": "com.zerone.hidesktop",
+      "bundleIdentifier": "com.zerone.hidesktop",
+      "version": "4.3.35",
+      "versionDate": "2025-09-26",
+      "fullDate": "20250926075321",
+      "size": 381304931,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/HiWidget_4.3.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/HiWidget_4.3.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
+    },
+    {
       "name": "Float",
       "type": 1,
       "bundleID": "com.strv.labs.float",
@@ -1922,38 +1954,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png"
-    },
-    {
-      "name": "Quizlet",
-      "type": 1,
-      "bundleID": "com.quizlet.quizlet",
-      "bundleIdentifier": "com.quizlet.quizlet",
-      "version": "10.2",
-      "versionDate": "2025-08-28",
-      "fullDate": "20250828120428",
-      "size": 62979035,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
-    },
-    {
-      "name": "FaceLab",
-      "type": 1,
-      "bundleID": "com.lyrebirdstudio.facelab",
-      "bundleIdentifier": "com.lyrebirdstudio.facelab",
-      "version": "4.42.0",
-      "versionDate": "2025-08-27",
-      "fullDate": "20250827214615",
-      "size": 162549777,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2025/FaceLab_4.42.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2025/FaceLab_4.42.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png"
     }
   ],
   "userInfo": {}
