@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Investing.com",
+      "type": 1,
+      "bundleID": "com.investing.app",
+      "bundleIdentifier": "com.investing.app",
+      "version": "6.50.0",
+      "versionDate": "2025-03-05",
+      "fullDate": "20250305022359",
+      "size": 139300019,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Investing.com_6.50.0_NoAds_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Investing.com_6.50.0_NoAds_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with NoAds",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.investing.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.investing.app.png"
+    },
+    {
+      "name": "TvRemote",
+      "type": 1,
+      "bundleID": "evolly.app.rokuremote",
+      "bundleIdentifier": "evolly.app.rokuremote",
+      "version": "2.0.4",
+      "versionDate": "2025-02-12",
+      "fullDate": "20250212150626",
+      "size": 81369164,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/TvRemote_2.0.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/TvRemote_2.0.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/evolly.app.rokuremote.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/evolly.app.rokuremote.png"
+    },
+    {
       "name": "HearBoost",
       "type": 1,
       "bundleID": "com.futuremoments.audiospy",
@@ -82,22 +114,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubenai.www.ios.png"
-    },
-    {
-      "name": "WeedFirm2",
-      "type": 2,
-      "bundleID": "com.bcanada.weedfirm2",
-      "bundleIdentifier": "com.bcanada.weedfirm2",
-      "version": "4.1.1",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011610",
-      "size": 270498598,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/WeedFirm2_4.1.1_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png"
     },
     {
       "name": "Network",
@@ -3958,45 +3974,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1255",
       "formatedsize": "162.4 MB",
       "size": 170288742
-    },
-    {
-      "name": "Osmos for iPad",
-      "bundleIdentifier": "com.hemispheregames.osmosHDr",
-      "developerName": "Hemisphere Games",
-      "subtitle": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
-      "localizedDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.hemispheregames.osmosHDr\n\n Downloads: 126\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1741910322.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17419103227329891465.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103227956297296.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103228289001588.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103228676683738.webp",
-        "https://apps.nabzclan.vip/screenshots/17419103229007540435.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.6.2",
-          "date": "2025-03-13 19:58:43",
-          "localizedDescription": "Current of Osmos for iPad - 2.6.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
-          "size": 26864517
-        },
-        {
-          "version": "2.6.2",
-          "date": "2025-03-13 19:58:43",
-          "localizedDescription": "Old Version of Osmos for iPad - 2.6.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
-          "size": 26864517
-        }
-      ],
-      "version": "2.6.2",
-      "versionDate": "2025-03-13 19:58:43",
-      "versionDescription": "** Apple Design Award winner and iPad Game of the Year! **\r\nEnter the Darwinian world of a galactic mote. To survive, absorb smaller organisms and grow\u2014but beware of larger predators. Osmos features unique physics-based play, stellar graphics, and a hypnotic ambient soundtrack. Absorb or be absorbed!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1254",
-      "formatedsize": "25.62 MB",
-      "size": 26864517
     }
   ],
   "userInfo": {}

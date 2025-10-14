@@ -4,6 +4,44 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Anti-Hack",
+      "bundleIdentifier": "com.HauntCoutureGames.Anti-Hack",
+      "developerName": "Eric McConnell",
+      "subtitle": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
+      "localizedDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.HauntCoutureGames.Anti-Hack\n\n Downloads: 172\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731279533.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312795317516214446.webp",
+        "https://apps.nabzclan.vip/screenshots/17312795325099344269.webp",
+        "https://apps.nabzclan.vip/screenshots/17312795330217055168.webp",
+        "https://apps.nabzclan.vip/screenshots/17312795331418831224.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2024-11-10 17:58:54",
+          "localizedDescription": "Current of Anti-Hack - 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
+          "size": 305869619
+        },
+        {
+          "version": "1.3",
+          "date": "2024-11-10 17:58:54",
+          "localizedDescription": "Old Version of Anti-Hack - 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
+          "size": 305869619
+        }
+      ],
+      "version": "1.3",
+      "versionDate": "2024-11-10 17:58:54",
+      "versionDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/972",
+      "formatedsize": "291.7 MB",
+      "size": 305869619
+    },
+    {
       "name": "Hyper Evolution",
       "bundleIdentifier": "com.evolution.hyper",
       "developerName": "SayGames LTD",
@@ -4972,41 +5010,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/278",
       "formatedsize": "15.89 MB",
       "size": 16661872
-    },
-    {
-      "name": "Broadcaster",
-      "bundleIdentifier": "com.streamer.broadcaster",
-      "developerName": "StreamerApp Team",
-      "subtitle": "Watch all your favorite tv channels live on your iPhone",
-      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Current of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        },
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        }
-      ],
-      "version": "0.0.2",
-      "versionDate": "2023-10-21 21:43:13",
-      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-      "formatedsize": "15.27 MB",
-      "size": 16011755
     }
   ],
   "userInfo": {}

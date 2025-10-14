@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "version": "3.3.5",
+      "versionDate": "2024-10-10",
+      "size": 28563166,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
+      "developerName": "Misaka",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
+    },
+    {
       "name": "MemrisePremium",
       "bundleIdentifier": "com.memrise.ios.memrisecompanion",
       "version": "2023.11.17",
@@ -844,6 +855,15 @@
       "beta": false,
       "versions": [
         {
+          "version": "5.0.0b2",
+          "date": "2025-10-13T00:00:00.0000000Z",
+          "localizedDescription": "Adds support for JIT on iOS 26 using StikDebug.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
+          "size": 17958943,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "99.0"
+        },
+        {
           "version": "5.0.0b1",
           "date": "2025-10-11T17:00:00.0000000Z",
           "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
@@ -880,10 +900,10 @@
           "maxOSVersion": "99.0"
         }
       ],
-      "version": "5.0.0b1",
-      "versionDate": "2025-10-11T17:00:00.0000000Z",
-      "versionDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
-      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
+      "version": "5.0.0b2",
+      "versionDate": "2025-10-13T00:00:00.0000000Z",
+      "versionDescription": "Adds support for JIT on iOS 26 using StikDebug.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
       "size": 17958943
     },
     {
