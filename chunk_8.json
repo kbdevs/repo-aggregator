@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Life360",
+      "type": 1,
+      "bundleID": "com.life360.safetymap",
+      "bundleIdentifier": "com.life360.safetymap",
+      "version": "25.8.0",
+      "versionDate": "2025-03-07",
+      "fullDate": "20250307014534",
+      "size": 134519801,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Life360_25.8.0_Crack_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Life360_25.8.0_Crack_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Crack",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.life360.safetymap.png"
+    },
+    {
+      "name": "Overdrop",
+      "type": 1,
+      "bundleID": "com.weather.overdrop",
+      "bundleIdentifier": "com.weather.overdrop",
+      "version": "2.2.0",
+      "versionDate": "2025-03-05",
+      "fullDate": "20250305134020",
+      "size": 218501891,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Overdrop_2.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Overdrop_2.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png"
+    },
+    {
       "name": "Investing.com",
       "type": 1,
       "bundleID": "com.investing.app",
@@ -3895,85 +3927,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1261",
       "formatedsize": "174.8 MB",
       "size": 183291084
-    },
-    {
-      "name": "Batman - The Telltale Series (Hacked)",
-      "bundleIdentifier": "com.telltalegames.BAT100",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.telltalegames.BAT100\n\n Downloads: 1425\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731800586.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17318005838628252278.webp",
-        "https://apps.nabzclan.vip/screenshots/17318005839806872325.webp",
-        "https://apps.nabzclan.vip/screenshots/17318005841223843573.webp",
-        "https://apps.nabzclan.vip/screenshots/17318005845453952730.webp",
-        "https://apps.nabzclan.vip/screenshots/17318005846497244671.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0",
-          "date": "2025-03-14 22:02:38",
-          "localizedDescription": "Current of Batman - The Telltale Series (Hacked) - 2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1033",
-          "size": 891604172
-        },
-        {
-          "version": "2.0",
-          "date": "2025-03-14 22:02:38",
-          "localizedDescription": "Old Version of Batman - The Telltale Series (Hacked) - 2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1033",
-          "size": 891604172
-        }
-      ],
-      "version": "2.0",
-      "versionDate": "2025-03-14 22:02:38",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1033",
-      "formatedsize": "850.3 MB",
-      "size": 891604172
-    },
-    {
-      "name": "Codenames",
-      "bundleIdentifier": "com.czechgames.codenamesdigital",
-      "developerName": "Solve word-association puzzles",
-      "subtitle": "Step into the thrilling world of spies and secret agents! Codenames App brings the beloved word association game to your mobile device in a dynamic and engaging new way. Decipher your spymaster's one-word clues, connect the right words, and contact all your agents before the opposing team does to claim victory. This digital adaptation captures all the excitement of one of the most popular board games worldwide, now optimized for your pocket.",
-      "localizedDescription": "Step into the thrilling world of spies and secret agents! Codenames App brings the beloved word association game to your mobile device in a dynamic and engaging new way. Decipher your spymaster's one-word clues, connect the right words, and contact all your agents before the opposing team does to claim victory. This digital adaptation captures all the excitement of one of the most popular board games worldwide, now optimized for your pocket.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.czechgames.codenamesdigital\n\n Downloads: 65\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730896583.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17308965824303646493.webp",
-        "https://apps.nabzclan.vip/screenshots/17308965825223857527.webp",
-        "https://apps.nabzclan.vip/screenshots/17308965825788224765.webp",
-        "https://apps.nabzclan.vip/screenshots/17308965827548475150.webp",
-        "https://apps.nabzclan.vip/screenshots/17308965829035462802.webp",
-        "https://apps.nabzclan.vip/screenshots/17308965830379279421.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.57.3761",
-          "date": "2025-03-13 20:02:00",
-          "localizedDescription": "Current of Codenames - 1.57.3761",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1255",
-          "size": 170288742
-        },
-        {
-          "version": "1.57.3761",
-          "date": "2025-03-13 20:02:00",
-          "localizedDescription": "Old Version of Codenames - 1.57.3761",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1255",
-          "size": 170288742
-        }
-      ],
-      "version": "1.57.3761",
-      "versionDate": "2025-03-13 20:02:00",
-      "versionDescription": "Step into the thrilling world of spies and secret agents! Codenames App brings the beloved word association game to your mobile device in a dynamic and engaging new way. Decipher your spymaster's one-word clues, connect the right words, and contact all your agents before the opposing team does to claim victory. This digital adaptation captures all the excitement of one of the most popular board games worldwide, now optimized for your pocket.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1255",
-      "formatedsize": "162.4 MB",
-      "size": 170288742
     }
   ],
   "userInfo": {}

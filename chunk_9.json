@@ -4,6 +4,85 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Batman - The Telltale Series (Hacked)",
+      "bundleIdentifier": "com.telltalegames.BAT100",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.telltalegames.BAT100\n\n Downloads: 1425\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731800586.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17318005838628252278.webp",
+        "https://apps.nabzclan.vip/screenshots/17318005839806872325.webp",
+        "https://apps.nabzclan.vip/screenshots/17318005841223843573.webp",
+        "https://apps.nabzclan.vip/screenshots/17318005845453952730.webp",
+        "https://apps.nabzclan.vip/screenshots/17318005846497244671.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2025-03-14 22:02:38",
+          "localizedDescription": "Current of Batman - The Telltale Series (Hacked) - 2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1033",
+          "size": 891604172
+        },
+        {
+          "version": "2.0",
+          "date": "2025-03-14 22:02:38",
+          "localizedDescription": "Old Version of Batman - The Telltale Series (Hacked) - 2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1033",
+          "size": 891604172
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2025-03-14 22:02:38",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1033",
+      "formatedsize": "850.3 MB",
+      "size": 891604172
+    },
+    {
+      "name": "Codenames",
+      "bundleIdentifier": "com.czechgames.codenamesdigital",
+      "developerName": "Solve word-association puzzles",
+      "subtitle": "Step into the thrilling world of spies and secret agents! Codenames App brings the beloved word association game to your mobile device in a dynamic and engaging new way. Decipher your spymaster's one-word clues, connect the right words, and contact all your agents before the opposing team does to claim victory. This digital adaptation captures all the excitement of one of the most popular board games worldwide, now optimized for your pocket.",
+      "localizedDescription": "Step into the thrilling world of spies and secret agents! Codenames App brings the beloved word association game to your mobile device in a dynamic and engaging new way. Decipher your spymaster's one-word clues, connect the right words, and contact all your agents before the opposing team does to claim victory. This digital adaptation captures all the excitement of one of the most popular board games worldwide, now optimized for your pocket.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.czechgames.codenamesdigital\n\n Downloads: 65\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1730896583.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17308965824303646493.webp",
+        "https://apps.nabzclan.vip/screenshots/17308965825223857527.webp",
+        "https://apps.nabzclan.vip/screenshots/17308965825788224765.webp",
+        "https://apps.nabzclan.vip/screenshots/17308965827548475150.webp",
+        "https://apps.nabzclan.vip/screenshots/17308965829035462802.webp",
+        "https://apps.nabzclan.vip/screenshots/17308965830379279421.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.57.3761",
+          "date": "2025-03-13 20:02:00",
+          "localizedDescription": "Current of Codenames - 1.57.3761",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1255",
+          "size": 170288742
+        },
+        {
+          "version": "1.57.3761",
+          "date": "2025-03-13 20:02:00",
+          "localizedDescription": "Old Version of Codenames - 1.57.3761",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1255",
+          "size": 170288742
+        }
+      ],
+      "version": "1.57.3761",
+      "versionDate": "2025-03-13 20:02:00",
+      "versionDescription": "Step into the thrilling world of spies and secret agents! Codenames App brings the beloved word association game to your mobile device in a dynamic and engaging new way. Decipher your spymaster's one-word clues, connect the right words, and contact all your agents before the opposing team does to claim victory. This digital adaptation captures all the excitement of one of the most popular board games worldwide, now optimized for your pocket.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1255",
+      "formatedsize": "162.4 MB",
+      "size": 170288742
+    },
+    {
       "name": "Osmos for iPad",
       "bundleIdentifier": "com.hemispheregames.osmosHDr",
       "developerName": "Hemisphere Games",
@@ -5030,85 +5109,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/975",
       "formatedsize": "160.6 MB",
       "size": 168401305
-    },
-    {
-      "name": "The Forgotten Room",
-      "bundleIdentifier": "com.glitchgames.theforgottenroom",
-      "developerName": "Glitch Games",
-      "subtitle": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
-      "localizedDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.glitchgames.theforgottenroom\n\n Downloads: 229\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731280017.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312800160479509149.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800161912364314.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800164035276171.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800165027847909.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800169127406388.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800177149621548.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.4",
-          "date": "2024-11-10 18:06:58",
-          "localizedDescription": "Current of The Forgotten Room - 1.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
-          "size": 417752678
-        },
-        {
-          "version": "1.2.4",
-          "date": "2024-11-10 18:06:58",
-          "localizedDescription": "Old Version of The Forgotten Room - 1.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
-          "size": 417752678
-        }
-      ],
-      "version": "1.2.4",
-      "versionDate": "2024-11-10 18:06:58",
-      "versionDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/974",
-      "formatedsize": "398.4 MB",
-      "size": 417752678
-    },
-    {
-      "name": "Duke Nukem: Manhattan Project (Paid)",
-      "bundleIdentifier": "com.spawnstudios.DukeNukemMP",
-      "developerName": "Spawn Studios, Lda",
-      "subtitle": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
-      "localizedDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.spawnstudios.DukeNukemMP\n\n Downloads: 269\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731279801.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312798009968043435.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798011326161101.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798012836170189.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798016696443743.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798017914190750.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.14",
-          "date": "2024-11-10 18:03:22",
-          "localizedDescription": "Current of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-          "size": 199890042
-        },
-        {
-          "version": "1.0.14",
-          "date": "2024-11-10 18:03:22",
-          "localizedDescription": "Old Version of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-          "size": 199890042
-        }
-      ],
-      "version": "1.0.14",
-      "versionDate": "2024-11-10 18:03:22",
-      "versionDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-      "formatedsize": "190.63 MB",
-      "size": 199890042
     }
   ],
   "userInfo": {}

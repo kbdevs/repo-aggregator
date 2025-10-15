@@ -4,6 +4,85 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "The Forgotten Room",
+      "bundleIdentifier": "com.glitchgames.theforgottenroom",
+      "developerName": "Glitch Games",
+      "subtitle": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
+      "localizedDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.glitchgames.theforgottenroom\n\n Downloads: 229\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731280017.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312800160479509149.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800161912364314.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800164035276171.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800165027847909.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800169127406388.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800177149621548.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.4",
+          "date": "2024-11-10 18:06:58",
+          "localizedDescription": "Current of The Forgotten Room - 1.2.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
+          "size": 417752678
+        },
+        {
+          "version": "1.2.4",
+          "date": "2024-11-10 18:06:58",
+          "localizedDescription": "Old Version of The Forgotten Room - 1.2.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
+          "size": 417752678
+        }
+      ],
+      "version": "1.2.4",
+      "versionDate": "2024-11-10 18:06:58",
+      "versionDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/974",
+      "formatedsize": "398.4 MB",
+      "size": 417752678
+    },
+    {
+      "name": "Duke Nukem: Manhattan Project (Paid)",
+      "bundleIdentifier": "com.spawnstudios.DukeNukemMP",
+      "developerName": "Spawn Studios, Lda",
+      "subtitle": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
+      "localizedDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.spawnstudios.DukeNukemMP\n\n Downloads: 269\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731279801.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312798009968043435.webp",
+        "https://apps.nabzclan.vip/screenshots/17312798011326161101.webp",
+        "https://apps.nabzclan.vip/screenshots/17312798012836170189.webp",
+        "https://apps.nabzclan.vip/screenshots/17312798016696443743.webp",
+        "https://apps.nabzclan.vip/screenshots/17312798017914190750.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.14",
+          "date": "2024-11-10 18:03:22",
+          "localizedDescription": "Current of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
+          "size": 199890042
+        },
+        {
+          "version": "1.0.14",
+          "date": "2024-11-10 18:03:22",
+          "localizedDescription": "Old Version of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
+          "size": 199890042
+        }
+      ],
+      "version": "1.0.14",
+      "versionDate": "2024-11-10 18:03:22",
+      "versionDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/973",
+      "formatedsize": "190.63 MB",
+      "size": 199890042
+    },
+    {
       "name": "Anti-Hack",
       "bundleIdentifier": "com.HauntCoutureGames.Anti-Hack",
       "developerName": "Eric McConnell",
@@ -4937,79 +5016,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/290",
       "formatedsize": "110.85 MB",
       "size": 116234649
-    },
-    {
-      "name": "iSH",
-      "bundleIdentifier": "app.ish.iSH",
-      "developerName": "iSH Team",
-      "subtitle": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: app.ish.iSH\n\n Downloads: 322\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699833373.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.3",
-          "date": "2023-11-12 23:56:13",
-          "localizedDescription": "Current of iSH - 1.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-          "size": 4173332
-        },
-        {
-          "version": "1.3.3",
-          "date": "2023-11-12 23:56:13",
-          "localizedDescription": "Old Version of iSH - 1.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-          "size": 4173332
-        }
-      ],
-      "version": "1.3.3",
-      "versionDate": "2023-11-12 23:56:13",
-      "versionDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-      "formatedsize": "3.98 MB",
-      "size": 4173332
-    },
-    {
-      "name": "Scarlet",
-      "bundleIdentifier": "com.debianarch.scarlet",
-      "developerName": "DebianArch",
-      "subtitle": "Scarlet is a great signing tool",
-      "localizedDescription": "Scarlet is a great signing tool\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.debianarch.scarlet\n\n Downloads: 6923\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1689466067.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16894661778611194.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661776925586.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775566227.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775533509.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Current of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        },
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Old Version of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2023-10-28 17:24:40",
-      "versionDescription": "Scarlet is a great signing tool",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-      "formatedsize": "15.89 MB",
-      "size": 16661872
     }
   ],
   "userInfo": {}
