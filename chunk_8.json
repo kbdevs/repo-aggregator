@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "APTV",
+      "type": 1,
+      "bundleID": "com.kimen.aptvpro",
+      "bundleIdentifier": "com.kimen.aptvpro",
+      "version": "9.4.6",
+      "versionDate": "2025-04-28",
+      "fullDate": "20250428024256",
+      "size": 45529084,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/APTV_9.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/APTV_9.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kimen.aptvpro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kimen.aptvpro.png"
+    },
+    {
+      "name": "PhotifyAi",
+      "type": 1,
+      "bundleID": "com.apps.PhotifyAI",
+      "bundleIdentifier": "com.apps.PhotifyAI",
+      "version": "2.4.1",
+      "versionDate": "2025-04-04",
+      "fullDate": "20250404000430",
+      "size": 81802809,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/PhotifyAi_2.4.1_Subscription_IAP_Patched_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/PhotifyAi_2.4.1_Subscription_IAP_Patched_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription IAP Patched",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apps.PhotifyAI.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apps.PhotifyAI.png"
+    },
+    {
+      "name": "WizardAi",
+      "type": 1,
+      "bundleID": "com.oneMoreThing.AI-LivePainting",
+      "bundleIdentifier": "com.oneMoreThing.AI-LivePainting",
+      "version": "9.4.2",
+      "versionDate": "2025-04-04",
+      "fullDate": "20250404000229",
+      "size": 85479170,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/WizardAi_9.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/WizardAi_9.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oneMoreThing.AI-LivePainting.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oneMoreThing.AI-LivePainting.png"
+    },
+    {
+      "name": "NcV17.126.6",
+      "type": 1,
+      "bundleID": "nt.nc.ios",
+      "bundleIdentifier": "nt.nc.ios",
+      "version": "17.126.6",
+      "versionDate": "2025-04-03",
+      "fullDate": "20250403235156",
+      "size": 325768630,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/NcV17.126.6_17.126.6_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/NcV17.126.6_17.126.6_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
+    },
+    {
       "name": "Life360",
       "type": 1,
       "bundleID": "com.life360.safetymap",
@@ -3769,164 +3833,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
       "formatedsize": "187.9 MB",
       "size": 197027430
-    },
-    {
-      "name": "Go Fish! (Hacked)",
-      "bundleIdentifier": "com.kwalee.gofish",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.kwalee.gofish\n\n Downloads: 197\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742163244.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17421632437353922498.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632439267435763.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632440518018115.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632442828617189.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632444066781089.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.6.5",
-          "date": "2025-03-16 18:14:04",
-          "localizedDescription": "Current of Go Fish! (Hacked) - 1.6.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
-          "size": 95420416
-        },
-        {
-          "version": "1.6.5",
-          "date": "2025-03-16 18:14:04",
-          "localizedDescription": "Old Version of Go Fish! (Hacked) - 1.6.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
-          "size": 95420416
-        }
-      ],
-      "version": "1.6.5",
-      "versionDate": "2025-03-16 18:14:04",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
-      "formatedsize": "91.0 MB",
-      "size": 95420416
-    },
-    {
-      "name": "Calorie Counter by fatsecret (Hacked)",
-      "bundleIdentifier": "com.fatsecret.caloriecounter",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: com.fatsecret.caloriecounter\n\n Downloads: 180\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1732781734.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17327817343786736064.webp",
-        "https://apps.nabzclan.vip/screenshots/17327817344939833802.webp",
-        "https://apps.nabzclan.vip/screenshots/17327817346012137552.webp",
-        "https://apps.nabzclan.vip/screenshots/17327817346599444303.webp",
-        "https://apps.nabzclan.vip/screenshots/17327817347313709120.webp",
-        "https://apps.nabzclan.vip/screenshots/17327817348002385779.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "9.41.1",
-          "date": "2025-03-14 23:13:58",
-          "localizedDescription": "Current of Calorie Counter by fatsecret (Hacked) - 9.41.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1262",
-          "size": 53718548
-        },
-        {
-          "version": "9.41.1",
-          "date": "2025-03-14 23:13:58",
-          "localizedDescription": "Old Version of Calorie Counter by fatsecret (Hacked) - 9.41.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1262",
-          "size": 53718548
-        }
-      ],
-      "version": "9.41.1",
-      "versionDate": "2025-03-14 23:13:58",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1262",
-      "formatedsize": "51.23 MB",
-      "size": 53718548
-    },
-    {
-      "name": "Banana Kong (Hack)",
-      "bundleIdentifier": "com.FDGEntertainment.BananaKong",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features: \r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features: \r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.FDGEntertainment.BananaKong\n\n Downloads: 563\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1727754849.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17277548480368384066.webp",
-        "https://apps.nabzclan.vip/screenshots/17277548482241422500.webp",
-        "https://apps.nabzclan.vip/screenshots/17277548485022748502.webp",
-        "https://apps.nabzclan.vip/screenshots/17277548487536132968.webp",
-        "https://apps.nabzclan.vip/screenshots/17277548493529706735.webp",
-        "https://apps.nabzclan.vip/screenshots/17277548495049836467.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.9.19",
-          "date": "2025-03-14 22:53:06",
-          "localizedDescription": "Current of Banana Kong (Hack) - 1.9.19",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/711",
-          "size": 92694118
-        },
-        {
-          "version": "1.9.19",
-          "date": "2025-03-14 22:53:06",
-          "localizedDescription": "Old Version of Banana Kong (Hack) - 1.9.19",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/711",
-          "size": 92694118
-        }
-      ],
-      "version": "1.9.19",
-      "versionDate": "2025-03-14 22:53:06",
-      "versionDescription": "Hack Features: \r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/711",
-      "formatedsize": "88.4 MB",
-      "size": 92694118
-    },
-    {
-      "name": "Bermuda Adventures: Farm Games (Hacked)",
-      "bundleIdentifier": "com.samfinaco.paradise",
-      "developerName": "Nabzclan",
-      "subtitle": "App Features:\r\n- free paid app\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps for free in app purchases:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "App Features:\r\n- free paid app\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps for free in app purchases:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.samfinaco.paradise\n\n Downloads: 153\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742006984.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17420069841639843284.webp",
-        "https://apps.nabzclan.vip/screenshots/17420069842665914327.webp",
-        "https://apps.nabzclan.vip/screenshots/17420069843431794217.webp",
-        "https://apps.nabzclan.vip/screenshots/17420069844198734853.webp",
-        "https://apps.nabzclan.vip/screenshots/17420069844944676800.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.19.0",
-          "date": "2025-03-14 22:49:44",
-          "localizedDescription": "Current of Bermuda Adventures: Farm Games (Hacked) - 1.19.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1261",
-          "size": 183291084
-        },
-        {
-          "version": "1.19.0",
-          "date": "2025-03-14 22:49:44",
-          "localizedDescription": "Old Version of Bermuda Adventures: Farm Games (Hacked) - 1.19.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1261",
-          "size": 183291084
-        }
-      ],
-      "version": "1.19.0",
-      "versionDate": "2025-03-14 22:49:44",
-      "versionDescription": "App Features:\r\n- free paid app\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps for free in app purchases:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1261",
-      "formatedsize": "174.8 MB",
-      "size": 183291084
     }
   ],
   "userInfo": {}

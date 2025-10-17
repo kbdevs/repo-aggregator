@@ -4,6 +4,126 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "djay - (Premium)",
+      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+      "developerName": "nabzclan",
+      "subtitle": "Injected with Premium",
+      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.algoriddim.djay-iphone-free\n\n Downloads: 1849\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699838516.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998385144551134669.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385147382387112.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385155163037687.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385158825317870.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385164026631825.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385166703799872.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Current of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        },
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Old Version of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        }
+      ],
+      "version": "4.1.7",
+      "versionDate": "2023-11-13 01:21:57",
+      "versionDescription": "Injected with Premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+      "formatedsize": "190.43 MB",
+      "size": 199680327
+    },
+    {
+      "name": "PAC-MAN (Hack)",
+      "bundleIdentifier": "com.namconetworks.pacmanlite",
+      "developerName": "nabzclan",
+      "subtitle": "Injected with UnlimitedHackes.",
+      "localizedDescription": "Injected with UnlimitedHackes.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.namconetworks.pacmanlite\n\n Downloads: 141\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699837151.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998371455249565189.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371469909074699.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371480447343966.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371481896508373.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371500346566352.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371504262285771.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "11.3.3",
+          "date": "2023-11-13 00:59:11",
+          "localizedDescription": "Current of PAC-MAN (Hack) - 11.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
+          "size": 155503820
+        },
+        {
+          "version": "11.3.3",
+          "date": "2023-11-13 00:59:11",
+          "localizedDescription": "Old Version of PAC-MAN (Hack) - 11.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
+          "size": 155503820
+        }
+      ],
+      "version": "11.3.3",
+      "versionDate": "2023-11-13 00:59:11",
+      "versionDescription": "Injected with UnlimitedHackes.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/292",
+      "formatedsize": "148.30 MB",
+      "size": 155503820
+    },
+    {
+      "name": "Duolingo - (Premium)",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "TY",
+      "subtitle": "with premium",
+      "localizedDescription": "with premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.duolingo.DuolingoMobile\n\n Downloads: 1758\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699834208.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998342066372110084.webp",
+        "https://apps.nabzclan.vip/screenshots/16998342075737932820.webp",
+        "https://apps.nabzclan.vip/screenshots/16998342076678366967.webp",
+        "https://apps.nabzclan.vip/screenshots/16998342078535655646.webp",
+        "https://apps.nabzclan.vip/screenshots/16998342080225868410.webp",
+        "https://apps.nabzclan.vip/screenshots/16998342081294614744.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "6.233.0",
+          "date": "2023-11-13 00:10:08",
+          "localizedDescription": "Current of Duolingo - (Premium) - 6.233.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/290",
+          "size": 116234649
+        },
+        {
+          "version": "6.233.0",
+          "date": "2023-11-13 00:10:08",
+          "localizedDescription": "Old Version of Duolingo - (Premium) - 6.233.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/290",
+          "size": 116234649
+        }
+      ],
+      "version": "6.233.0",
+      "versionDate": "2023-11-13 00:10:08",
+      "versionDescription": "with premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/290",
+      "formatedsize": "110.85 MB",
+      "size": 116234649
+    },
+    {
       "name": "iSH",
       "bundleIdentifier": "app.ish.iSH",
       "developerName": "iSH Team",
@@ -1733,17 +1853,6 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simplycode.PostBox-Pocket.png"
     },
     {
-      "name": "PolishPro",
-      "bundleIdentifier": "com.photoeditor.polish",
-      "version": "1.6.3",
-      "versionDate": "2024-10-12",
-      "size": 84943731,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PolishPro/PolishPro-1.6.3.ipa",
-      "developerName": "DPixel",
-      "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 07-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.photoeditor.polish.png"
-    },
-    {
       "name": "PlayTally",
       "bundleIdentifier": "com.michaelclay.BackTracks",
       "version": "1.4.9",
@@ -2039,28 +2148,6 @@
       "developerName": "Zzz Zzz",
       "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
-    },
-    {
-      "name": "Musi",
-      "bundleIdentifier": "com.feelthemusi.musi",
-      "version": "6.2.35",
-      "versionDate": "2024-10-11",
-      "size": 19556756,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
-    },
-    {
-      "name": "MuffinStore",
-      "bundleIdentifier": "dev.mineek.muffinstore",
-      "version": "1.1",
-      "versionDate": "2024-10-11",
-      "size": 29281,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
     }
   ],
   "userInfo": {}
