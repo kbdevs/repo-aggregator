@@ -4,22 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
-      "name": "PvZ",
-      "type": 2,
-      "bundleID": "com.ea.pvzfree.bv",
-      "bundleIdentifier": "com.ea.pvzfree.bv",
-      "version": "3.9.0",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528180041",
-      "size": 110138522,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PvZ_3.9.0_InfiniteSun_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PvZ_3.9.0_InfiniteSun_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with InfiniteSun",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.pvzfree.bv.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.pvzfree.bv.png"
-    },
-    {
       "name": "BitLife",
       "type": 2,
       "bundleID": "com.wtfapps.apollo16",
@@ -1954,6 +1938,38 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hammerandchisel.discord.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hammerandchisel.discord.png"
+    },
+    {
+      "name": "APTV",
+      "type": 1,
+      "bundleID": "com.kimen.aptvpro",
+      "bundleIdentifier": "com.kimen.aptvpro",
+      "version": "9.4.6",
+      "versionDate": "2025-04-28",
+      "fullDate": "20250428024256",
+      "size": 45529084,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/APTV_9.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/APTV_9.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kimen.aptvpro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kimen.aptvpro.png"
+    },
+    {
+      "name": "PhotifyAi",
+      "type": 1,
+      "bundleID": "com.apps.PhotifyAI",
+      "bundleIdentifier": "com.apps.PhotifyAI",
+      "version": "2.4.1",
+      "versionDate": "2025-04-04",
+      "fullDate": "20250404000430",
+      "size": 81802809,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/PhotifyAi_2.4.1_Subscription_IAP_Patched_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/PhotifyAi_2.4.1_Subscription_IAP_Patched_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription IAP Patched",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apps.PhotifyAI.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apps.PhotifyAI.png"
     }
   ],
   "userInfo": {}

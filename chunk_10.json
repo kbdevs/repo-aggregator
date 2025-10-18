@@ -4,165 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
-      "name": "Through the Ages",
-      "bundleIdentifier": "com.czechgames.tta",
-      "developerName": "CGE Digital s.r.o.",
-      "subtitle": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.",
-      "localizedDescription": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.czechgames.tta\n\n Downloads: 70\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731284692.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312846924737983408.webp",
-        "https://apps.nabzclan.vip/screenshots/17312846925377073916.webp",
-        "https://apps.nabzclan.vip/screenshots/17312846925794169515.webp",
-        "https://apps.nabzclan.vip/screenshots/17312846926175471623.webp",
-        "https://apps.nabzclan.vip/screenshots/17312846926522417781.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.19.1018",
-          "date": "2024-11-10 19:24:52",
-          "localizedDescription": "Current of Through the Ages - 2.19.1018",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/978",
-          "size": 193042841
-        },
-        {
-          "version": "2.19.1018",
-          "date": "2024-11-10 19:24:52",
-          "localizedDescription": "Old Version of Through the Ages - 2.19.1018",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/978",
-          "size": 193042841
-        }
-      ],
-      "version": "2.19.1018",
-      "versionDate": "2024-11-10 19:24:52",
-      "versionDescription": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/978",
-      "formatedsize": "184.1 MB",
-      "size": 193042841
-    },
-    {
-      "name": "The Battle of Polytopia+",
-      "bundleIdentifier": "com.felixrum.supertribes.plus",
-      "developerName": "Midjiwan AB",
-      "subtitle": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0",
-      "localizedDescription": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.felixrum.supertribes.plus\n\n Downloads: 140\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731282963.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312829629908895960.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829630865949746.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829631281842999.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829631776766473.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829632172997407.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829632616377687.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.9.1",
-          "date": "2024-11-10 18:56:03",
-          "localizedDescription": "Current of The Battle of Polytopia+ - 2.9.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/977",
-          "size": 176066396
-        },
-        {
-          "version": "2.9.1",
-          "date": "2024-11-10 18:56:03",
-          "localizedDescription": "Old Version of The Battle of Polytopia+ - 2.9.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/977",
-          "size": 176066396
-        }
-      ],
-      "version": "2.9.1",
-      "versionDate": "2024-11-10 18:56:03",
-      "versionDescription": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/977",
-      "formatedsize": "167.91 MB",
-      "size": 176066396
-    },
-    {
-      "name": "Project V90",
-      "bundleIdentifier": "com.vg90studio.projectv90",
-      "developerName": "VG90 STUDIO",
-      "subtitle": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
-      "localizedDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.vg90studio.projectv90\n\n Downloads: 52\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731280389.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312803879765080465.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803881625276003.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803885733130427.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803886987988610.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803888446045703.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803892305704199.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.0",
-          "date": "2024-11-10 18:13:09",
-          "localizedDescription": "Current of Project V90 - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
-          "size": 168401305
-        },
-        {
-          "version": "3.0",
-          "date": "2024-11-10 18:13:09",
-          "localizedDescription": "Old Version of Project V90 - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
-          "size": 168401305
-        }
-      ],
-      "version": "3.0",
-      "versionDate": "2024-11-10 18:13:09",
-      "versionDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/975",
-      "formatedsize": "160.6 MB",
-      "size": 168401305
-    },
-    {
-      "name": "The Forgotten Room",
-      "bundleIdentifier": "com.glitchgames.theforgottenroom",
-      "developerName": "Glitch Games",
-      "subtitle": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
-      "localizedDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.glitchgames.theforgottenroom\n\n Downloads: 229\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731280017.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312800160479509149.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800161912364314.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800164035276171.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800165027847909.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800169127406388.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800177149621548.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.4",
-          "date": "2024-11-10 18:06:58",
-          "localizedDescription": "Current of The Forgotten Room - 1.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
-          "size": 417752678
-        },
-        {
-          "version": "1.2.4",
-          "date": "2024-11-10 18:06:58",
-          "localizedDescription": "Old Version of The Forgotten Room - 1.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
-          "size": 417752678
-        }
-      ],
-      "version": "1.2.4",
-      "versionDate": "2024-11-10 18:06:58",
-      "versionDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/974",
-      "formatedsize": "398.4 MB",
-      "size": 417752678
-    },
-    {
       "name": "Duke Nukem: Manhattan Project (Paid)",
       "bundleIdentifier": "com.spawnstudios.DukeNukemMP",
       "developerName": "Spawn Studios, Lda",
@@ -5015,6 +4856,194 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/294",
       "formatedsize": "873.61 MB",
       "size": 916046479
+    },
+    {
+      "name": "djay - (Premium)",
+      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+      "developerName": "nabzclan",
+      "subtitle": "Injected with Premium",
+      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.algoriddim.djay-iphone-free\n\n Downloads: 1849\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699838516.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998385144551134669.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385147382387112.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385155163037687.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385158825317870.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385164026631825.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385166703799872.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Current of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        },
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Old Version of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        }
+      ],
+      "version": "4.1.7",
+      "versionDate": "2023-11-13 01:21:57",
+      "versionDescription": "Injected with Premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+      "formatedsize": "190.43 MB",
+      "size": 199680327
+    },
+    {
+      "name": "PAC-MAN (Hack)",
+      "bundleIdentifier": "com.namconetworks.pacmanlite",
+      "developerName": "nabzclan",
+      "subtitle": "Injected with UnlimitedHackes.",
+      "localizedDescription": "Injected with UnlimitedHackes.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.namconetworks.pacmanlite\n\n Downloads: 141\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699837151.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998371455249565189.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371469909074699.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371480447343966.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371481896508373.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371500346566352.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371504262285771.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "11.3.3",
+          "date": "2023-11-13 00:59:11",
+          "localizedDescription": "Current of PAC-MAN (Hack) - 11.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
+          "size": 155503820
+        },
+        {
+          "version": "11.3.3",
+          "date": "2023-11-13 00:59:11",
+          "localizedDescription": "Old Version of PAC-MAN (Hack) - 11.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
+          "size": 155503820
+        }
+      ],
+      "version": "11.3.3",
+      "versionDate": "2023-11-13 00:59:11",
+      "versionDescription": "Injected with UnlimitedHackes.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/292",
+      "formatedsize": "148.30 MB",
+      "size": 155503820
+    },
+    {
+      "name": "iSH",
+      "bundleIdentifier": "app.ish.iSH",
+      "developerName": "iSH Team",
+      "subtitle": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: app.ish.iSH\n\n Downloads: 322\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699833373.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.3.3",
+          "date": "2023-11-12 23:56:13",
+          "localizedDescription": "Current of iSH - 1.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
+          "size": 4173332
+        },
+        {
+          "version": "1.3.3",
+          "date": "2023-11-12 23:56:13",
+          "localizedDescription": "Old Version of iSH - 1.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
+          "size": 4173332
+        }
+      ],
+      "version": "1.3.3",
+      "versionDate": "2023-11-12 23:56:13",
+      "versionDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/289",
+      "formatedsize": "3.98 MB",
+      "size": 4173332
+    },
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.debianarch.scarlet",
+      "developerName": "DebianArch",
+      "subtitle": "Scarlet is a great signing tool",
+      "localizedDescription": "Scarlet is a great signing tool\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.debianarch.scarlet\n\n Downloads: 6923\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1689466067.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16894661778611194.webp",
+        "https://apps.nabzclan.vip/screenshots/16894661776925586.webp",
+        "https://apps.nabzclan.vip/screenshots/16894661775566227.webp",
+        "https://apps.nabzclan.vip/screenshots/16894661775533509.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2023-10-28 17:24:40",
+          "localizedDescription": "Current of Scarlet - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
+          "size": 16661872
+        },
+        {
+          "version": "1.0",
+          "date": "2023-10-28 17:24:40",
+          "localizedDescription": "Old Version of Scarlet - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
+          "size": 16661872
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2023-10-28 17:24:40",
+      "versionDescription": "Scarlet is a great signing tool",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/278",
+      "formatedsize": "15.89 MB",
+      "size": 16661872
+    },
+    {
+      "name": "Broadcaster",
+      "bundleIdentifier": "com.streamer.broadcaster",
+      "developerName": "StreamerApp Team",
+      "subtitle": "Watch all your favorite tv channels live on your iPhone",
+      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "0.0.2",
+          "date": "2023-10-21 21:43:13",
+          "localizedDescription": "Current of Broadcaster - 0.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+          "size": 16011755
+        },
+        {
+          "version": "0.0.2",
+          "date": "2023-10-21 21:43:13",
+          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+          "size": 16011755
+        }
+      ],
+      "version": "0.0.2",
+      "versionDate": "2023-10-21 21:43:13",
+      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+      "formatedsize": "15.27 MB",
+      "size": 16011755
     }
   ],
   "userInfo": {}

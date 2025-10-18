@@ -4,234 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "djay - (Premium)",
-      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
-      "developerName": "nabzclan",
-      "subtitle": "Injected with Premium",
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.algoriddim.djay-iphone-free\n\n Downloads: 1849\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699838516.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998385144551134669.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385147382387112.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385155163037687.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385158825317870.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385164026631825.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385166703799872.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.1.7",
-          "date": "2023-11-13 01:21:57",
-          "localizedDescription": "Current of djay - (Premium) - 4.1.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
-          "size": 199680327
-        },
-        {
-          "version": "4.1.7",
-          "date": "2023-11-13 01:21:57",
-          "localizedDescription": "Old Version of djay - (Premium) - 4.1.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
-          "size": 199680327
-        }
-      ],
-      "version": "4.1.7",
-      "versionDate": "2023-11-13 01:21:57",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/293",
-      "formatedsize": "190.43 MB",
-      "size": 199680327
-    },
-    {
-      "name": "PAC-MAN (Hack)",
-      "bundleIdentifier": "com.namconetworks.pacmanlite",
-      "developerName": "nabzclan",
-      "subtitle": "Injected with UnlimitedHackes.",
-      "localizedDescription": "Injected with UnlimitedHackes.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.namconetworks.pacmanlite\n\n Downloads: 141\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699837151.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998371455249565189.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371469909074699.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371480447343966.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371481896508373.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371500346566352.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371504262285771.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "11.3.3",
-          "date": "2023-11-13 00:59:11",
-          "localizedDescription": "Current of PAC-MAN (Hack) - 11.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
-          "size": 155503820
-        },
-        {
-          "version": "11.3.3",
-          "date": "2023-11-13 00:59:11",
-          "localizedDescription": "Old Version of PAC-MAN (Hack) - 11.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
-          "size": 155503820
-        }
-      ],
-      "version": "11.3.3",
-      "versionDate": "2023-11-13 00:59:11",
-      "versionDescription": "Injected with UnlimitedHackes.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/292",
-      "formatedsize": "148.30 MB",
-      "size": 155503820
-    },
-    {
-      "name": "Duolingo - (Premium)",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "TY",
-      "subtitle": "with premium",
-      "localizedDescription": "with premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.duolingo.DuolingoMobile\n\n Downloads: 1758\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699834208.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998342066372110084.webp",
-        "https://apps.nabzclan.vip/screenshots/16998342075737932820.webp",
-        "https://apps.nabzclan.vip/screenshots/16998342076678366967.webp",
-        "https://apps.nabzclan.vip/screenshots/16998342078535655646.webp",
-        "https://apps.nabzclan.vip/screenshots/16998342080225868410.webp",
-        "https://apps.nabzclan.vip/screenshots/16998342081294614744.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "6.233.0",
-          "date": "2023-11-13 00:10:08",
-          "localizedDescription": "Current of Duolingo - (Premium) - 6.233.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/290",
-          "size": 116234649
-        },
-        {
-          "version": "6.233.0",
-          "date": "2023-11-13 00:10:08",
-          "localizedDescription": "Old Version of Duolingo - (Premium) - 6.233.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/290",
-          "size": 116234649
-        }
-      ],
-      "version": "6.233.0",
-      "versionDate": "2023-11-13 00:10:08",
-      "versionDescription": "with premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/290",
-      "formatedsize": "110.85 MB",
-      "size": 116234649
-    },
-    {
-      "name": "iSH",
-      "bundleIdentifier": "app.ish.iSH",
-      "developerName": "iSH Team",
-      "subtitle": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: app.ish.iSH\n\n Downloads: 322\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699833373.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.3",
-          "date": "2023-11-12 23:56:13",
-          "localizedDescription": "Current of iSH - 1.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-          "size": 4173332
-        },
-        {
-          "version": "1.3.3",
-          "date": "2023-11-12 23:56:13",
-          "localizedDescription": "Old Version of iSH - 1.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-          "size": 4173332
-        }
-      ],
-      "version": "1.3.3",
-      "versionDate": "2023-11-12 23:56:13",
-      "versionDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-      "formatedsize": "3.98 MB",
-      "size": 4173332
-    },
-    {
-      "name": "Scarlet",
-      "bundleIdentifier": "com.debianarch.scarlet",
-      "developerName": "DebianArch",
-      "subtitle": "Scarlet is a great signing tool",
-      "localizedDescription": "Scarlet is a great signing tool\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.debianarch.scarlet\n\n Downloads: 6923\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1689466067.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16894661778611194.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661776925586.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775566227.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775533509.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Current of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        },
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Old Version of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2023-10-28 17:24:40",
-      "versionDescription": "Scarlet is a great signing tool",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-      "formatedsize": "15.89 MB",
-      "size": 16661872
-    },
-    {
-      "name": "Broadcaster",
-      "bundleIdentifier": "com.streamer.broadcaster",
-      "developerName": "StreamerApp Team",
-      "subtitle": "Watch all your favorite tv channels live on your iPhone",
-      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Current of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        },
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        }
-      ],
-      "version": "0.0.2",
-      "versionDate": "2023-10-21 21:43:13",
-      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-      "formatedsize": "15.27 MB",
-      "size": 16011755
-    },
-    {
       "name": "MEGA Cracked",
       "bundleIdentifier": "mega.ios",
       "developerName": "Qamishlo",
@@ -2148,6 +1920,83 @@
       "developerName": "Zzz Zzz",
       "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
+    },
+    {
+      "name": "Musi",
+      "bundleIdentifier": "com.feelthemusi.musi",
+      "version": "6.2.35",
+      "versionDate": "2024-10-11",
+      "size": 19556756,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
+    },
+    {
+      "name": "MuffinStore",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "version": "1.1",
+      "versionDate": "2024-10-11",
+      "size": 29281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
+    },
+    {
+      "name": "MoovitPlus",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "version": "5.146.1",
+      "versionDate": "2024-10-11",
+      "size": 85759040,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
+    },
+    {
+      "name": "MoisesPremium",
+      "bundleIdentifier": "ai.moises",
+      "version": "2.40.0",
+      "versionDate": "2024-10-11",
+      "size": 60999285,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
+    },
+    {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "version": "3.3.5",
+      "versionDate": "2024-10-10",
+      "size": 28563166,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
+      "developerName": "Misaka",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "version": "2023.11.17",
+      "versionDate": "2024-10-10",
+      "size": 90694453,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
+    },
+    {
+      "name": "MatterPremium",
+      "bundleIdentifier": "com.Matter.MatterApp",
+      "version": "3.1.4",
+      "versionDate": "2024-10-09",
+      "size": 83875186,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
     }
   ],
   "userInfo": {}

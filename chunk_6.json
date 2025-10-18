@@ -1954,6 +1954,22 @@
       "localizedDescription": "Injected with InfiniteCurrencies",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CarXTech.highWayRacing.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CarXTech.highWayRacing.png"
+    },
+    {
+      "name": "PvZ",
+      "type": 2,
+      "bundleID": "com.ea.pvzfree.bv",
+      "bundleIdentifier": "com.ea.pvzfree.bv",
+      "version": "3.9.0",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528180041",
+      "size": 110138522,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PvZ_3.9.0_InfiniteSun_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PvZ_3.9.0_InfiniteSun_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with InfiniteSun",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.pvzfree.bv.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.pvzfree.bv.png"
     }
   ],
   "userInfo": {}
