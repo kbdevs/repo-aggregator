@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "ParallelLive",
+      "type": 1,
+      "bundleID": "com.bigbrains.parallel",
+      "bundleIdentifier": "com.bigbrains.parallel",
+      "version": "2.3.13",
+      "versionDate": "2025-06-20",
+      "fullDate": "20250620161332",
+      "size": 197753332,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/ParallelLive_2.3.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/ParallelLive_2.3.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigbrains.parallel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigbrains.parallel.png"
+    },
+    {
+      "name": "Tetris",
+      "type": 2,
+      "bundleID": "com.n3twork.tetris",
+      "bundleIdentifier": "com.n3twork.tetris",
+      "version": "7.3.0",
+      "versionDate": "2025-06-20",
+      "fullDate": "20250620161322",
+      "size": 151335041,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Tetris_7.3.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Tetris_7.3.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png"
+    },
+    {
       "name": "Livity",
       "type": 1,
       "bundleID": "com.app-livity",
@@ -1938,38 +1970,6 @@
       "localizedDescription": "Injected with FreezeCurrencies",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragons.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragons.png"
-    },
-    {
-      "name": "CarXHighwayRacing",
-      "type": 2,
-      "bundleID": "com.CarXTech.highWayRacing",
-      "bundleIdentifier": "com.CarXTech.highWayRacing",
-      "version": "1.75.5",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528181055",
-      "size": 495887175,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CarXHighwayRacing_1.75.5_InfiniteCurrencies_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CarXHighwayRacing_1.75.5_InfiniteCurrencies_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with InfiniteCurrencies",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CarXTech.highWayRacing.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CarXTech.highWayRacing.png"
-    },
-    {
-      "name": "PvZ",
-      "type": 2,
-      "bundleID": "com.ea.pvzfree.bv",
-      "bundleIdentifier": "com.ea.pvzfree.bv",
-      "version": "3.9.0",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528180041",
-      "size": 110138522,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PvZ_3.9.0_InfiniteSun_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PvZ_3.9.0_InfiniteSun_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with InfiniteSun",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.pvzfree.bv.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.pvzfree.bv.png"
     }
   ],
   "userInfo": {}

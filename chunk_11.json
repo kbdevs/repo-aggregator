@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Broadcaster",
+      "bundleIdentifier": "com.streamer.broadcaster",
+      "developerName": "StreamerApp Team",
+      "subtitle": "Watch all your favorite tv channels live on your iPhone",
+      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "0.0.2",
+          "date": "2023-10-21 21:43:13",
+          "localizedDescription": "Current of Broadcaster - 0.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+          "size": 16011755
+        },
+        {
+          "version": "0.0.2",
+          "date": "2023-10-21 21:43:13",
+          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+          "size": 16011755
+        }
+      ],
+      "version": "0.0.2",
+      "versionDate": "2023-10-21 21:43:13",
+      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
+      "formatedsize": "15.27 MB",
+      "size": 16011755
+    },
+    {
       "name": "MEGA Cracked",
       "bundleIdentifier": "mega.ios",
       "developerName": "Qamishlo",
@@ -1986,17 +2021,6 @@
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
       "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
-    },
-    {
-      "name": "MatterPremium",
-      "bundleIdentifier": "com.Matter.MatterApp",
-      "version": "3.1.4",
-      "versionDate": "2024-10-09",
-      "size": 83875186,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
     }
   ],
   "userInfo": {}

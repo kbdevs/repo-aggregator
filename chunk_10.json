@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "The Forgotten Room",
+      "bundleIdentifier": "com.glitchgames.theforgottenroom",
+      "developerName": "Glitch Games",
+      "subtitle": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
+      "localizedDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.glitchgames.theforgottenroom\n\n Downloads: 229\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731280017.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312800160479509149.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800161912364314.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800164035276171.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800165027847909.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800169127406388.webp",
+        "https://apps.nabzclan.vip/screenshots/17312800177149621548.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.4",
+          "date": "2024-11-10 18:06:58",
+          "localizedDescription": "Current of The Forgotten Room - 1.2.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
+          "size": 417752678
+        },
+        {
+          "version": "1.2.4",
+          "date": "2024-11-10 18:06:58",
+          "localizedDescription": "Old Version of The Forgotten Room - 1.2.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
+          "size": 417752678
+        }
+      ],
+      "version": "1.2.4",
+      "versionDate": "2024-11-10 18:06:58",
+      "versionDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/974",
+      "formatedsize": "398.4 MB",
+      "size": 417752678
+    },
+    {
       "name": "Duke Nukem: Manhattan Project (Paid)",
       "bundleIdentifier": "com.spawnstudios.DukeNukemMP",
       "developerName": "Spawn Studios, Lda",
@@ -5009,41 +5049,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/278",
       "formatedsize": "15.89 MB",
       "size": 16661872
-    },
-    {
-      "name": "Broadcaster",
-      "bundleIdentifier": "com.streamer.broadcaster",
-      "developerName": "StreamerApp Team",
-      "subtitle": "Watch all your favorite tv channels live on your iPhone",
-      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Current of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        },
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        }
-      ],
-      "version": "0.0.2",
-      "versionDate": "2023-10-21 21:43:13",
-      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-      "formatedsize": "15.27 MB",
-      "size": 16011755
     }
   ],
   "userInfo": {}

@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "foriOS",
+      "type": 1,
+      "bundleID": "com.tapinfinity.HdjcXcode7",
+      "bundleIdentifier": "com.tapinfinity.HdjcXcode7",
+      "version": "13.1",
+      "versionDate": "2025-07-08",
+      "fullDate": "20250708175811",
+      "size": 39590704,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/foriOS_13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/foriOS_13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png"
+    },
+    {
+      "name": "Twitch",
+      "type": 1,
+      "bundleID": "tv.twitch",
+      "bundleIdentifier": "tv.twitch",
+      "version": "25.1",
+      "versionDate": "2025-07-08",
+      "fullDate": "20250708042326",
+      "size": 120128120,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Twitch_25.1_Adblock_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Twitch_25.1_Adblock_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Adblock",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tv.twitch.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tv.twitch.png"
+    },
+    {
       "name": "MiniFootball",
       "type": 2,
       "bundleID": "com.miniclip.minifootball",
@@ -1938,38 +1970,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.clarity.cozycouples.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.clarity.cozycouples.png"
-    },
-    {
-      "name": "ParallelLive",
-      "type": 1,
-      "bundleID": "com.bigbrains.parallel",
-      "bundleIdentifier": "com.bigbrains.parallel",
-      "version": "2.3.13",
-      "versionDate": "2025-06-20",
-      "fullDate": "20250620161332",
-      "size": 197753332,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/ParallelLive_2.3.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/ParallelLive_2.3.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigbrains.parallel.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigbrains.parallel.png"
-    },
-    {
-      "name": "Tetris",
-      "type": 2,
-      "bundleID": "com.n3twork.tetris",
-      "bundleIdentifier": "com.n3twork.tetris",
-      "version": "7.3.0",
-      "versionDate": "2025-06-20",
-      "fullDate": "20250620161322",
-      "size": 151335041,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Tetris_7.3.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Tetris_7.3.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png"
     }
   ],
   "userInfo": {}
