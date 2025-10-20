@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "RiseofBerk",
+      "type": 2,
+      "bundleID": "com.ludia.dragons",
+      "bundleIdentifier": "com.ludia.dragons",
+      "version": "1.96.7",
+      "versionDate": "2025-05-28",
+      "fullDate": "20250528181617",
+      "size": 626493745,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/RiseofBerk_1.96.7_FreezeCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/RiseofBerk_1.96.7_FreezeCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with FreezeCurrencies",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragons.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragons.png"
+    },
+    {
       "name": "CarXHighwayRacing",
       "type": 2,
       "bundleID": "com.CarXTech.highWayRacing",
@@ -1876,20 +1892,20 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
-      "name": "AndalusiDesign",
+      "name": "RashaqaWorkout",
       "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "bundleID": "com.madarsoft.fitness",
+      "bundleIdentifier": "com.madarsoft.fitness",
+      "version": "15.4",
+      "versionDate": "2025-04-30",
+      "fullDate": "20250430110144",
+      "size": 364761987,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
     },
     {
       "name": "EndZoneDefendandSurvive",
@@ -1954,22 +1970,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.geniechat.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.geniechat.png"
-    },
-    {
-      "name": "Bunny",
-      "type": 2,
-      "bundleID": "com.hammerandchisel.discord",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "version": "275.0",
-      "versionDate": "2025-04-28",
-      "fullDate": "20250428132647",
-      "size": 89348192,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Bunny_275.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Bunny_275.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hammerandchisel.discord.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hammerandchisel.discord.png"
     }
   ],
   "userInfo": {}

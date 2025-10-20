@@ -4,6 +4,44 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.debianarch.scarlet",
+      "developerName": "DebianArch",
+      "subtitle": "Scarlet is a great signing tool",
+      "localizedDescription": "Scarlet is a great signing tool\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.debianarch.scarlet\n\n Downloads: 6923\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1689466067.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16894661778611194.webp",
+        "https://apps.nabzclan.vip/screenshots/16894661776925586.webp",
+        "https://apps.nabzclan.vip/screenshots/16894661775566227.webp",
+        "https://apps.nabzclan.vip/screenshots/16894661775533509.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2023-10-28 17:24:40",
+          "localizedDescription": "Current of Scarlet - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
+          "size": 16661872
+        },
+        {
+          "version": "1.0",
+          "date": "2023-10-28 17:24:40",
+          "localizedDescription": "Old Version of Scarlet - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
+          "size": 16661872
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2023-10-28 17:24:40",
+      "versionDescription": "Scarlet is a great signing tool",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/278",
+      "formatedsize": "15.89 MB",
+      "size": 16661872
+    },
+    {
       "name": "Broadcaster",
       "bundleIdentifier": "com.streamer.broadcaster",
       "developerName": "StreamerApp Team",
@@ -2010,17 +2048,6 @@
       "developerName": "Misaka",
       "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
-    },
-    {
-      "name": "MemrisePremium",
-      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
-      "version": "2023.11.17",
-      "versionDate": "2024-10-10",
-      "size": 90694453,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
-      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "CozyCouples",
+      "type": 1,
+      "bundleID": "com.clarity.cozycouples",
+      "bundleIdentifier": "com.clarity.cozycouples",
+      "version": "1.50",
+      "versionDate": "2025-06-20",
+      "fullDate": "20250620161339",
+      "size": 38574444,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/CozyCouples_1.50_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/CozyCouples_1.50_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.clarity.cozycouples.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.clarity.cozycouples.png"
+    },
+    {
       "name": "ParallelLive",
       "type": 1,
       "bundleID": "com.bigbrains.parallel",
@@ -1954,22 +1970,6 @@
       "localizedDescription": "Injected with Damage Multiplier",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragon3.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragon3.png"
-    },
-    {
-      "name": "RiseofBerk",
-      "type": 2,
-      "bundleID": "com.ludia.dragons",
-      "bundleIdentifier": "com.ludia.dragons",
-      "version": "1.96.7",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528181617",
-      "size": 626493745,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/RiseofBerk_1.96.7_FreezeCurrencies_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/RiseofBerk_1.96.7_FreezeCurrencies_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with FreezeCurrencies",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragons.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragons.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "IPTVExpert",
+      "type": 1,
+      "bundleID": "com.iptv.player",
+      "bundleIdentifier": "com.iptv.player",
+      "version": "8.13.7",
+      "versionDate": "2025-09-05",
+      "fullDate": "20250905125236",
+      "size": 37812570,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/IPTVExpert_8.13.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/IPTVExpert_8.13.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png"
+    },
+    {
+      "name": "GrowIt",
+      "type": 1,
+      "bundleID": "com.grow.my.food",
+      "bundleIdentifier": "com.grow.my.food",
+      "version": "1.34",
+      "versionDate": "2025-09-05",
+      "fullDate": "20250905073144",
+      "size": 54249361,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/GrowIt_1.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/GrowIt_1.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png"
+    },
+    {
       "name": "moneycontrol",
       "type": 1,
       "bundleID": "com.moneycontrol.mc",
@@ -402,22 +434,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png"
-    },
-    {
-      "name": "Motionleap",
-      "type": 1,
-      "bundleID": "com.lightricks.Enlight-Phoenix",
-      "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
-      "version": "1.9.30",
-      "versionDate": "2025-08-26",
-      "fullDate": "20250826122955",
-      "size": 176934172,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2025/Motionleap_1.9.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2025/Motionleap_1.9.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png"
     },
     {
       "name": "KitariaFables",
@@ -1954,22 +1970,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ai.tattoo.generator.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ai.tattoo.generator.app.png"
-    },
-    {
-      "name": "PolyGit",
-      "type": 1,
-      "bundleID": "com.polygitapp.polygit",
-      "bundleIdentifier": "com.polygitapp.polygit",
-      "version": "53.0",
-      "versionDate": "2025-07-10",
-      "fullDate": "20250710000534",
-      "size": 10483870,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/PolyGit_53.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/PolyGit_53.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polygitapp.polygit.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polygitapp.polygit.png"
     }
   ],
   "userInfo": {}

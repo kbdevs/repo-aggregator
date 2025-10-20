@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Project V90",
+      "bundleIdentifier": "com.vg90studio.projectv90",
+      "developerName": "VG90 STUDIO",
+      "subtitle": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
+      "localizedDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.vg90studio.projectv90\n\n Downloads: 52\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731280389.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312803879765080465.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803881625276003.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803885733130427.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803886987988610.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803888446045703.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803892305704199.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2024-11-10 18:13:09",
+          "localizedDescription": "Current of Project V90 - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
+          "size": 168401305
+        },
+        {
+          "version": "3.0",
+          "date": "2024-11-10 18:13:09",
+          "localizedDescription": "Old Version of Project V90 - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
+          "size": 168401305
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2024-11-10 18:13:09",
+      "versionDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/975",
+      "formatedsize": "160.6 MB",
+      "size": 168401305
+    },
+    {
       "name": "The Forgotten Room",
       "bundleIdentifier": "com.glitchgames.theforgottenroom",
       "developerName": "Glitch Games",
@@ -5011,44 +5051,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/289",
       "formatedsize": "3.98 MB",
       "size": 4173332
-    },
-    {
-      "name": "Scarlet",
-      "bundleIdentifier": "com.debianarch.scarlet",
-      "developerName": "DebianArch",
-      "subtitle": "Scarlet is a great signing tool",
-      "localizedDescription": "Scarlet is a great signing tool\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.debianarch.scarlet\n\n Downloads: 6923\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1689466067.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16894661778611194.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661776925586.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775566227.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775533509.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Current of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        },
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Old Version of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2023-10-28 17:24:40",
-      "versionDescription": "Scarlet is a great signing tool",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-      "formatedsize": "15.89 MB",
-      "size": 16661872
     }
   ],
   "userInfo": {}
