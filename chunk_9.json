@@ -4,265 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
-      "name": "Alien Invasion - (Hack)",
-      "bundleIdentifier": "com.multicastgames.venomSurvive",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.multicastgames.venomSurvive\n\n Downloads: 323\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726695142.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17266951329964394311.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951348459023542.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951358042322339.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951377568189468.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951394258004423.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951415396994676.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.10.00",
-          "date": "2025-03-17 05:23:27",
-          "localizedDescription": "Current of Alien Invasion - (Hack) - 4.10.00",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1273",
-          "size": 191260262
-        },
-        {
-          "version": "4.01.00",
-          "date": "2024-12-25 17:19:30",
-          "localizedDescription": "Old Version of Alien Invasion - (Hack) - 4.01.00",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1145",
-          "size": 152253235
-        },
-        {
-          "version": "4.02.01",
-          "date": "2025-01-01 19:30:50",
-          "localizedDescription": "Old Version of Alien Invasion - (Hack) - 4.02.01",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1159",
-          "size": 146905497
-        },
-        {
-          "version": "4.10.00",
-          "date": "2025-03-17 05:23:27",
-          "localizedDescription": "Old Version of Alien Invasion - (Hack) - 4.10.00",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1273",
-          "size": 191260262
-        }
-      ],
-      "version": "4.10.00",
-      "versionDate": "2025-03-17 05:23:27",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1273",
-      "formatedsize": "182.4 MB",
-      "size": 191260262
-    },
-    {
-      "name": "Pok\u00e9mon GO - SpooferPro",
-      "bundleIdentifier": "com.nianticlabs.pokemongo",
-      "developerName": "SpooferPro Team",
-      "subtitle": "SpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!",
-      "localizedDescription": "SpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.nianticlabs.pokemongo\n\n Downloads: 752\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692664677.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16926647907989815.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648534396468.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648548654206.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648547171161.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648546528839.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648558780624.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648558726359.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648563815908.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648567050151.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648575106267.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648575801140.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648708180234.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648705980789.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648713887485.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648711485575.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.351.0",
-          "date": "2025-03-17 05:17:50",
-          "localizedDescription": "Current of Pok\u00e9mon GO - SpooferPro - 0.351.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
-          "size": 142711193
-        },
-        {
-          "version": "0.351.0",
-          "date": "2025-03-17 05:17:50",
-          "localizedDescription": "Old Version of Pok\u00e9mon GO - SpooferPro - 0.351.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
-          "size": 142711193
-        }
-      ],
-      "version": "0.351.0",
-      "versionDate": "2025-03-17 05:17:50",
-      "versionDescription": "SpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
-      "formatedsize": "136.1 MB",
-      "size": 142711193
-    },
-    {
-      "name": "Day R Premium: last world war",
-      "bundleIdentifier": "dayr",
-      "developerName": "RMIND GAMES L.L.C-FZ",
-      "subtitle": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.",
-      "localizedDescription": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: dayr\n\n Downloads: 58\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735776143.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17357761425783226250.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761427367161938.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761428459001131.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761429738135546.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761430834068880.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761431851921924.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.855",
-          "date": "2025-03-17 05:00:16",
-          "localizedDescription": "Current of Day R Premium: last world war - 1.855",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
-          "size": 175017820
-        },
-        {
-          "version": "1.835",
-          "date": "2025-01-01 19:02:23",
-          "localizedDescription": "Old Version of Day R Premium: last world war - 1.835",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1153",
-          "size": 190106828
-        },
-        {
-          "version": "1.855",
-          "date": "2025-03-17 05:00:16",
-          "localizedDescription": "Old Version of Day R Premium: last world war - 1.855",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
-          "size": 175017820
-        }
-      ],
-      "version": "1.855",
-      "versionDate": "2025-03-17 05:00:16",
-      "versionDescription": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
-      "formatedsize": "166.91 MB",
-      "size": 175017820
-    },
-    {
-      "name": "Temple Run (Hacked)",
-      "bundleIdentifier": "com.imangi.templerun",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.imangi.templerun\n\n Downloads: 483\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742201549.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.30.0",
-          "date": "2025-03-17 04:52:29",
-          "localizedDescription": "Current of Temple Run (Hacked) - 1.30.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
-          "size": 99709091
-        },
-        {
-          "version": "1.30.0",
-          "date": "2025-03-17 04:52:29",
-          "localizedDescription": "Old Version of Temple Run (Hacked) - 1.30.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
-          "size": 99709091
-        }
-      ],
-      "version": "1.30.0",
-      "versionDate": "2025-03-17 04:52:29",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
-      "formatedsize": "95.09 MB",
-      "size": 99709091
-    },
-    {
-      "name": "Tastyland - Merge Food Fairies (Hacked)",
-      "bundleIdentifier": "com.zjoy.fairy",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.zjoy.fairy\n\n Downloads: 37\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742200573.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.33.0",
-          "date": "2025-03-17 04:36:13",
-          "localizedDescription": "Current of Tastyland - Merge Food Fairies (Hacked) - 2.33.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
-          "size": 197027430
-        },
-        {
-          "version": "2.33.0",
-          "date": "2025-03-17 04:36:13",
-          "localizedDescription": "Old Version of Tastyland - Merge Food Fairies (Hacked) - 2.33.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
-          "size": 197027430
-        }
-      ],
-      "version": "2.33.0",
-      "versionDate": "2025-03-17 04:36:13",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
-      "formatedsize": "187.9 MB",
-      "size": 197027430
-    },
-    {
-      "name": "Go Fish! (Hacked)",
-      "bundleIdentifier": "com.kwalee.gofish",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.kwalee.gofish\n\n Downloads: 197\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742163244.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17421632437353922498.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632439267435763.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632440518018115.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632442828617189.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632444066781089.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.6.5",
-          "date": "2025-03-16 18:14:04",
-          "localizedDescription": "Current of Go Fish! (Hacked) - 1.6.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
-          "size": 95420416
-        },
-        {
-          "version": "1.6.5",
-          "date": "2025-03-16 18:14:04",
-          "localizedDescription": "Old Version of Go Fish! (Hacked) - 1.6.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
-          "size": 95420416
-        }
-      ],
-      "version": "1.6.5",
-      "versionDate": "2025-03-16 18:14:04",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
-      "formatedsize": "91.0 MB",
-      "size": 95420416
-    },
-    {
       "name": "Calorie Counter by fatsecret (Hacked)",
       "bundleIdentifier": "com.fatsecret.caloriecounter",
       "developerName": "Nabzclan",
@@ -5173,6 +4914,280 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1000",
       "formatedsize": "131.86 MB",
       "size": 138265231
+    },
+    {
+      "name": "Goat Simulator MMO Simulator",
+      "bundleIdentifier": "com.coffeestainstudios.goatmmo",
+      "developerName": "Coffee Stain Publishing",
+      "subtitle": "Coffee Stain Studios brings next-gen Goat MMO simulation to mobile devices. You no longer have to fantasize about being a simulated goat in a simulated MMO, your dreams have finally come true!\r\n\r\nFeatures\r\n* Five different classes: Warrior, Rouge, Magician, Hunter and Microwave \r\n* Complete dozens of quests, level up a hundred times and play five different classes that\u2019s a ton of content you do the math\r\n* Level cap is 101, 1 level higher than you-know-what\r\n* There are even elves and dwarves like in that movie\r\n* Stay a while and listen to Dumblebore the Grey in Twistram",
+      "localizedDescription": "Coffee Stain Studios brings next-gen Goat MMO simulation to mobile devices. You no longer have to fantasize about being a simulated goat in a simulated MMO, your dreams have finally come true!\r\n\r\nFeatures\r\n* Five different classes: Warrior, Rouge, Magician, Hunter and Microwave \r\n* Complete dozens of quests, level up a hundred times and play five different classes that\u2019s a ton of content you do the math\r\n* Level cap is 101, 1 level higher than you-know-what\r\n* There are even elves and dwarves like in that movie\r\n* Stay a while and listen to Dumblebore the Grey in Twistram\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.coffeestainstudios.goatmmo\n\n Downloads: 499\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731388159.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17313881588875743306.webp",
+        "https://apps.nabzclan.vip/screenshots/17313881590202427673.webp",
+        "https://apps.nabzclan.vip/screenshots/17313881591301789434.webp",
+        "https://apps.nabzclan.vip/screenshots/17313881592123984050.webp",
+        "https://apps.nabzclan.vip/screenshots/17313881592863539126.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.8",
+          "date": "2024-11-12 00:09:19",
+          "localizedDescription": "Current of Goat Simulator MMO Simulator - 2.0.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/995",
+          "size": 818623283
+        },
+        {
+          "version": "2.0.8",
+          "date": "2024-11-12 00:09:19",
+          "localizedDescription": "Old Version of Goat Simulator MMO Simulator - 2.0.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/995",
+          "size": 818623283
+        }
+      ],
+      "version": "2.0.8",
+      "versionDate": "2024-11-12 00:09:19",
+      "versionDescription": "Coffee Stain Studios brings next-gen Goat MMO simulation to mobile devices. You no longer have to fantasize about being a simulated goat in a simulated MMO, your dreams have finally come true!\r\n\r\nFeatures\r\n* Five different classes: Warrior, Rouge, Magician, Hunter and Microwave \r\n* Complete dozens of quests, level up a hundred times and play five different classes that\u2019s a ton of content you do the math\r\n* Level cap is 101, 1 level higher than you-know-what\r\n* There are even elves and dwarves like in that movie\r\n* Stay a while and listen to Dumblebore the Grey in Twistram",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/995",
+      "formatedsize": "780.7 MB",
+      "size": 818623283
+    },
+    {
+      "name": "Bridges: Link Formatting",
+      "bundleIdentifier": "com.onishry.Bridges",
+      "developerName": "Jonathan Ruiz",
+      "subtitle": "Bridges is the best way to collect custom formatted links. Saving a link for your podcast, newsletter, or blog post has never been easier.",
+      "localizedDescription": "Bridges is the best way to collect custom formatted links. Saving a link for your podcast, newsletter, or blog post has never been easier.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.onishry.Bridges\n\n Downloads: 92\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731379068.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17313790673005214840.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790674942923581.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790679686663449.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790681089133018.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790683049452787.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790684527895379.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2024-11-11 21:37:49",
+          "localizedDescription": "Current of Bridges: Link Formatting - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/994",
+          "size": 14082375
+        },
+        {
+          "version": "1.5",
+          "date": "2024-11-11 21:37:49",
+          "localizedDescription": "Old Version of Bridges: Link Formatting - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/994",
+          "size": 14082375
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2024-11-11 21:37:49",
+      "versionDescription": "Bridges is the best way to collect custom formatted links. Saving a link for your podcast, newsletter, or blog post has never been easier.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/994",
+      "formatedsize": "13.43 MB",
+      "size": 14082375
+    },
+    {
+      "name": "Vidi \u00b7 Media Center",
+      "bundleIdentifier": "se.plomo.Habanero",
+      "developerName": "Plata o Plomo AB",
+      "subtitle": "Vidi is a modular media center for Apple platforms. The app acts as a hub and is extendible with addons to provide content and other functionality.\r\n\r\n- Integrated player with support for HDR10, HDR10+ and Dolby Vision.\r\n- It tracks your progress in the app and between your devices with iCloud.\r\n\r\nCurrently Vidi only supports addons using the Stremio addon API. Read more about what subset of the Stremio addon API is supported on the website:\r\n\r\nhttps://vidi.plomo.se/",
+      "localizedDescription": "Vidi is a modular media center for Apple platforms. The app acts as a hub and is extendible with addons to provide content and other functionality.\r\n\r\n- Integrated player with support for HDR10, HDR10+ and Dolby Vision.\r\n- It tracks your progress in the app and between your devices with iCloud.\r\n\r\nCurrently Vidi only supports addons using the Stremio addon API. Read more about what subset of the Stremio addon API is supported on the website:\r\n\r\nhttps://vidi.plomo.se/\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: se.plomo.Habanero\n\n Downloads: 867\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731377746.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17313777455148960577.webp",
+        "https://apps.nabzclan.vip/screenshots/17313777460254023469.webp",
+        "https://apps.nabzclan.vip/screenshots/17313777461962903414.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.0",
+          "date": "2024-11-11 21:15:46",
+          "localizedDescription": "Current of Vidi \u00b7 Media Center - 1.8.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/992",
+          "size": 33239859
+        },
+        {
+          "version": "1.8.0",
+          "date": "2024-11-11 21:15:46",
+          "localizedDescription": "Old Version of Vidi \u00b7 Media Center - 1.8.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/992",
+          "size": 33239859
+        }
+      ],
+      "version": "1.8.0",
+      "versionDate": "2024-11-11 21:15:46",
+      "versionDescription": "Vidi is a modular media center for Apple platforms. The app acts as a hub and is extendible with addons to provide content and other functionality.\r\n\r\n- Integrated player with support for HDR10, HDR10+ and Dolby Vision.\r\n- It tracks your progress in the app and between your devices with iCloud.\r\n\r\nCurrently Vidi only supports addons using the Stremio addon API. Read more about what subset of the Stremio addon API is supported on the website:\r\n\r\nhttps://vidi.plomo.se/",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/992",
+      "formatedsize": "31.7 MB",
+      "size": 33239859
+    },
+    {
+      "name": "Pou",
+      "bundleIdentifier": "me.pou.app",
+      "developerName": "Zakeh Limited",
+      "subtitle": "Think you have what it takes to adopt a POU? How will YOU customize your POU?\r\nDo you have what it takes to take care of your very own alien pet?! Feed it, clean it, play with it and watch it grow up while leveling up and unlocking different wallpapers and outfits to satisfy your unique taste. How will YOU customize your POU?\r\n\r\n* Feed and take care of Pou, and watch it grow!\r\n* Play Games in the Game Room and collect Coins!\r\n* Experiment with Potions at the Lab!\r\n* Customize Pou's appearance!\r\n* Try out new Outfits, Hats and Eyeglasses!\r\n* Customize each room's Wallpaper!\r\n* Unlock Achievements and Special items!\r\n* Visit and play with your friends!\r\n* Talk to Pou and listen back!",
+      "localizedDescription": "Think you have what it takes to adopt a POU? How will YOU customize your POU?\r\nDo you have what it takes to take care of your very own alien pet?! Feed it, clean it, play with it and watch it grow up while leveling up and unlocking different wallpapers and outfits to satisfy your unique taste. How will YOU customize your POU?\r\n\r\n* Feed and take care of Pou, and watch it grow!\r\n* Play Games in the Game Room and collect Coins!\r\n* Experiment with Potions at the Lab!\r\n* Customize Pou's appearance!\r\n* Try out new Outfits, Hats and Eyeglasses!\r\n* Customize each room's Wallpaper!\r\n* Unlock Achievements and Special items!\r\n* Visit and play with your friends!\r\n* Talk to Pou and listen back!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: me.pou.app\n\n Downloads: 999\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731373920.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17313739192419613212.webp",
+        "https://apps.nabzclan.vip/screenshots/17313739195492476730.webp",
+        "https://apps.nabzclan.vip/screenshots/17313739196791611617.webp",
+        "https://apps.nabzclan.vip/screenshots/17313739198879153572.webp",
+        "https://apps.nabzclan.vip/screenshots/17313739203622766142.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.119",
+          "date": "2024-11-11 20:12:00",
+          "localizedDescription": "Current of Pou - 1.4.119",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/983",
+          "size": 40548433
+        },
+        {
+          "version": "1.4.119",
+          "date": "2024-11-11 20:12:00",
+          "localizedDescription": "Old Version of Pou - 1.4.119",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/983",
+          "size": 40548433
+        }
+      ],
+      "version": "1.4.119",
+      "versionDate": "2024-11-11 20:12:00",
+      "versionDescription": "Think you have what it takes to adopt a POU? How will YOU customize your POU?\r\nDo you have what it takes to take care of your very own alien pet?! Feed it, clean it, play with it and watch it grow up while leveling up and unlocking different wallpapers and outfits to satisfy your unique taste. How will YOU customize your POU?\r\n\r\n* Feed and take care of Pou, and watch it grow!\r\n* Play Games in the Game Room and collect Coins!\r\n* Experiment with Potions at the Lab!\r\n* Customize Pou's appearance!\r\n* Try out new Outfits, Hats and Eyeglasses!\r\n* Customize each room's Wallpaper!\r\n* Unlock Achievements and Special items!\r\n* Visit and play with your friends!\r\n* Talk to Pou and listen back!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/983",
+      "formatedsize": "38.67 MB",
+      "size": 40548433
+    },
+    {
+      "name": "Through the Ages",
+      "bundleIdentifier": "com.czechgames.tta",
+      "developerName": "CGE Digital s.r.o.",
+      "subtitle": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.",
+      "localizedDescription": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.czechgames.tta\n\n Downloads: 70\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731284692.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312846924737983408.webp",
+        "https://apps.nabzclan.vip/screenshots/17312846925377073916.webp",
+        "https://apps.nabzclan.vip/screenshots/17312846925794169515.webp",
+        "https://apps.nabzclan.vip/screenshots/17312846926175471623.webp",
+        "https://apps.nabzclan.vip/screenshots/17312846926522417781.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.19.1018",
+          "date": "2024-11-10 19:24:52",
+          "localizedDescription": "Current of Through the Ages - 2.19.1018",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/978",
+          "size": 193042841
+        },
+        {
+          "version": "2.19.1018",
+          "date": "2024-11-10 19:24:52",
+          "localizedDescription": "Old Version of Through the Ages - 2.19.1018",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/978",
+          "size": 193042841
+        }
+      ],
+      "version": "2.19.1018",
+      "versionDate": "2024-11-10 19:24:52",
+      "versionDescription": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/978",
+      "formatedsize": "184.1 MB",
+      "size": 193042841
+    },
+    {
+      "name": "The Battle of Polytopia+",
+      "bundleIdentifier": "com.felixrum.supertribes.plus",
+      "developerName": "Midjiwan AB",
+      "subtitle": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0",
+      "localizedDescription": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.felixrum.supertribes.plus\n\n Downloads: 140\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731282963.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312829629908895960.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829630865949746.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829631281842999.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829631776766473.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829632172997407.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829632616377687.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.9.1",
+          "date": "2024-11-10 18:56:03",
+          "localizedDescription": "Current of The Battle of Polytopia+ - 2.9.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/977",
+          "size": 176066396
+        },
+        {
+          "version": "2.9.1",
+          "date": "2024-11-10 18:56:03",
+          "localizedDescription": "Old Version of The Battle of Polytopia+ - 2.9.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/977",
+          "size": 176066396
+        }
+      ],
+      "version": "2.9.1",
+      "versionDate": "2024-11-10 18:56:03",
+      "versionDescription": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/977",
+      "formatedsize": "167.91 MB",
+      "size": 176066396
+    },
+    {
+      "name": "Project V90",
+      "bundleIdentifier": "com.vg90studio.projectv90",
+      "developerName": "VG90 STUDIO",
+      "subtitle": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
+      "localizedDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.vg90studio.projectv90\n\n Downloads: 52\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731280389.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312803879765080465.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803881625276003.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803885733130427.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803886987988610.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803888446045703.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803892305704199.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2024-11-10 18:13:09",
+          "localizedDescription": "Current of Project V90 - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
+          "size": 168401305
+        },
+        {
+          "version": "3.0",
+          "date": "2024-11-10 18:13:09",
+          "localizedDescription": "Old Version of Project V90 - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
+          "size": 168401305
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2024-11-10 18:13:09",
+      "versionDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/975",
+      "formatedsize": "160.6 MB",
+      "size": 168401305
     }
   ],
   "userInfo": {}

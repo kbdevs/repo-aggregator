@@ -4,86 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "AppGroupCheck",
-      "type": 1,
-      "bundleID": "com.choco.appgroupcheck",
-      "bundleIdentifier": "com.choco.appgroupcheck",
-      "version": "1.0.0",
-      "versionDate": "2025-05-02",
-      "fullDate": "20250502041032",
-      "size": 3329442,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
-    },
-    {
-      "name": "RashaqaWorkout",
-      "type": 1,
-      "bundleID": "com.madarsoft.fitness",
-      "bundleIdentifier": "com.madarsoft.fitness",
-      "version": "15.4",
-      "versionDate": "2025-04-30",
-      "fullDate": "20250430110144",
-      "size": 364761987,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
-    },
-    {
-      "name": "EndZoneDefendandSurvive",
-      "type": 2,
-      "bundleID": "com.jiujiu.zombiedefense",
-      "bundleIdentifier": "com.jiujiu.zombiedefense",
-      "version": "1.0.1",
-      "versionDate": "2025-04-30",
-      "fullDate": "20250430055117",
-      "size": 89814601,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/EndZoneDefendandSurvive_1.0.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/EndZoneDefendandSurvive_1.0.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with GodMode",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jiujiu.zombiedefense.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jiujiu.zombiedefense.png"
-    },
-    {
-      "name": "OfflineGames",
-      "type": 2,
-      "bundleID": "com.JindoBlu.OfflineGamesIOS",
-      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
-      "version": "3.0.2",
-      "versionDate": "2025-04-30",
-      "fullDate": "20250430025902",
-      "size": 90621348,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/OfflineGames_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/OfflineGames_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.OfflineGamesIOS.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.OfflineGamesIOS.png"
-    },
-    {
-      "name": "Yuka",
-      "type": 1,
-      "bundleID": "yuca.scanner",
-      "bundleIdentifier": "yuca.scanner",
-      "version": "4.58",
-      "versionDate": "2025-04-29",
-      "fullDate": "20250429124234",
-      "size": 115603191,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Yuka_4.58_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Yuka_4.58_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/yuca.scanner.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/yuca.scanner.png"
-    },
-    {
       "name": "Genie",
       "type": 1,
       "bundleID": "co.appnation.geniechat",
@@ -3709,6 +3629,265 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1274",
       "formatedsize": "95.0 MB",
       "size": 99614720
+    },
+    {
+      "name": "Alien Invasion - (Hack)",
+      "bundleIdentifier": "com.multicastgames.venomSurvive",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.multicastgames.venomSurvive\n\n Downloads: 323\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726695142.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17266951329964394311.webp",
+        "https://apps.nabzclan.vip/screenshots/17266951348459023542.webp",
+        "https://apps.nabzclan.vip/screenshots/17266951358042322339.webp",
+        "https://apps.nabzclan.vip/screenshots/17266951377568189468.webp",
+        "https://apps.nabzclan.vip/screenshots/17266951394258004423.webp",
+        "https://apps.nabzclan.vip/screenshots/17266951415396994676.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.10.00",
+          "date": "2025-03-17 05:23:27",
+          "localizedDescription": "Current of Alien Invasion - (Hack) - 4.10.00",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1273",
+          "size": 191260262
+        },
+        {
+          "version": "4.01.00",
+          "date": "2024-12-25 17:19:30",
+          "localizedDescription": "Old Version of Alien Invasion - (Hack) - 4.01.00",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1145",
+          "size": 152253235
+        },
+        {
+          "version": "4.02.01",
+          "date": "2025-01-01 19:30:50",
+          "localizedDescription": "Old Version of Alien Invasion - (Hack) - 4.02.01",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1159",
+          "size": 146905497
+        },
+        {
+          "version": "4.10.00",
+          "date": "2025-03-17 05:23:27",
+          "localizedDescription": "Old Version of Alien Invasion - (Hack) - 4.10.00",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1273",
+          "size": 191260262
+        }
+      ],
+      "version": "4.10.00",
+      "versionDate": "2025-03-17 05:23:27",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1273",
+      "formatedsize": "182.4 MB",
+      "size": 191260262
+    },
+    {
+      "name": "Pok\u00e9mon GO - SpooferPro",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "SpooferPro Team",
+      "subtitle": "SpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!",
+      "localizedDescription": "SpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.nianticlabs.pokemongo\n\n Downloads: 752\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692664677.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16926647907989815.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648534396468.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648548654206.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648547171161.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648546528839.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648558780624.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648558726359.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648563815908.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648567050151.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648575106267.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648575801140.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648708180234.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648705980789.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648713887485.webp",
+        "https://apps.nabzclan.vip/screenshots/16926648711485575.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "0.351.0",
+          "date": "2025-03-17 05:17:50",
+          "localizedDescription": "Current of Pok\u00e9mon GO - SpooferPro - 0.351.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
+          "size": 142711193
+        },
+        {
+          "version": "0.351.0",
+          "date": "2025-03-17 05:17:50",
+          "localizedDescription": "Old Version of Pok\u00e9mon GO - SpooferPro - 0.351.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
+          "size": 142711193
+        }
+      ],
+      "version": "0.351.0",
+      "versionDate": "2025-03-17 05:17:50",
+      "versionDescription": "SpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
+      "formatedsize": "136.1 MB",
+      "size": 142711193
+    },
+    {
+      "name": "Day R Premium: last world war",
+      "bundleIdentifier": "dayr",
+      "developerName": "RMIND GAMES L.L.C-FZ",
+      "subtitle": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.",
+      "localizedDescription": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: dayr\n\n Downloads: 58\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1735776143.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17357761425783226250.webp",
+        "https://apps.nabzclan.vip/screenshots/17357761427367161938.webp",
+        "https://apps.nabzclan.vip/screenshots/17357761428459001131.webp",
+        "https://apps.nabzclan.vip/screenshots/17357761429738135546.webp",
+        "https://apps.nabzclan.vip/screenshots/17357761430834068880.webp",
+        "https://apps.nabzclan.vip/screenshots/17357761431851921924.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.855",
+          "date": "2025-03-17 05:00:16",
+          "localizedDescription": "Current of Day R Premium: last world war - 1.855",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
+          "size": 175017820
+        },
+        {
+          "version": "1.835",
+          "date": "2025-01-01 19:02:23",
+          "localizedDescription": "Old Version of Day R Premium: last world war - 1.835",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1153",
+          "size": 190106828
+        },
+        {
+          "version": "1.855",
+          "date": "2025-03-17 05:00:16",
+          "localizedDescription": "Old Version of Day R Premium: last world war - 1.855",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
+          "size": 175017820
+        }
+      ],
+      "version": "1.855",
+      "versionDate": "2025-03-17 05:00:16",
+      "versionDescription": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
+      "formatedsize": "166.91 MB",
+      "size": 175017820
+    },
+    {
+      "name": "Temple Run (Hacked)",
+      "bundleIdentifier": "com.imangi.templerun",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.imangi.templerun\n\n Downloads: 483\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1742201549.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.30.0",
+          "date": "2025-03-17 04:52:29",
+          "localizedDescription": "Current of Temple Run (Hacked) - 1.30.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
+          "size": 99709091
+        },
+        {
+          "version": "1.30.0",
+          "date": "2025-03-17 04:52:29",
+          "localizedDescription": "Old Version of Temple Run (Hacked) - 1.30.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
+          "size": 99709091
+        }
+      ],
+      "version": "1.30.0",
+      "versionDate": "2025-03-17 04:52:29",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
+      "formatedsize": "95.09 MB",
+      "size": 99709091
+    },
+    {
+      "name": "Tastyland - Merge Food Fairies (Hacked)",
+      "bundleIdentifier": "com.zjoy.fairy",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.zjoy.fairy\n\n Downloads: 37\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1742200573.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.33.0",
+          "date": "2025-03-17 04:36:13",
+          "localizedDescription": "Current of Tastyland - Merge Food Fairies (Hacked) - 2.33.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
+          "size": 197027430
+        },
+        {
+          "version": "2.33.0",
+          "date": "2025-03-17 04:36:13",
+          "localizedDescription": "Old Version of Tastyland - Merge Food Fairies (Hacked) - 2.33.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
+          "size": 197027430
+        }
+      ],
+      "version": "2.33.0",
+      "versionDate": "2025-03-17 04:36:13",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
+      "formatedsize": "187.9 MB",
+      "size": 197027430
+    },
+    {
+      "name": "Go Fish! (Hacked)",
+      "bundleIdentifier": "com.kwalee.gofish",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.kwalee.gofish\n\n Downloads: 197\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1742163244.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17421632437353922498.webp",
+        "https://apps.nabzclan.vip/screenshots/17421632439267435763.webp",
+        "https://apps.nabzclan.vip/screenshots/17421632440518018115.webp",
+        "https://apps.nabzclan.vip/screenshots/17421632442828617189.webp",
+        "https://apps.nabzclan.vip/screenshots/17421632444066781089.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.6.5",
+          "date": "2025-03-16 18:14:04",
+          "localizedDescription": "Current of Go Fish! (Hacked) - 1.6.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
+          "size": 95420416
+        },
+        {
+          "version": "1.6.5",
+          "date": "2025-03-16 18:14:04",
+          "localizedDescription": "Old Version of Go Fish! (Hacked) - 1.6.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
+          "size": 95420416
+        }
+      ],
+      "version": "1.6.5",
+      "versionDate": "2025-03-16 18:14:04",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
+      "formatedsize": "91.0 MB",
+      "size": 95420416
     }
   ],
   "userInfo": {}
