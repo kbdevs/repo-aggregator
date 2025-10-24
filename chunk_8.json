@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "EndZoneDefendandSurvive",
+      "type": 2,
+      "bundleID": "com.jiujiu.zombiedefense",
+      "bundleIdentifier": "com.jiujiu.zombiedefense",
+      "version": "1.0.1",
+      "versionDate": "2025-04-30",
+      "fullDate": "20250430055117",
+      "size": 89814601,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/EndZoneDefendandSurvive_1.0.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/EndZoneDefendandSurvive_1.0.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with GodMode",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jiujiu.zombiedefense.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jiujiu.zombiedefense.png"
+    },
+    {
+      "name": "OfflineGames",
+      "type": 2,
+      "bundleID": "com.JindoBlu.OfflineGamesIOS",
+      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+      "version": "3.0.2",
+      "versionDate": "2025-04-30",
+      "fullDate": "20250430025902",
+      "size": 90621348,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/OfflineGames_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/OfflineGames_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.OfflineGamesIOS.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.OfflineGamesIOS.png"
+    },
+    {
+      "name": "Yuka",
+      "type": 1,
+      "bundleID": "yuca.scanner",
+      "bundleIdentifier": "yuca.scanner",
+      "version": "4.58",
+      "versionDate": "2025-04-29",
+      "fullDate": "20250429124234",
+      "size": 115603191,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Yuka_4.58_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Yuka_4.58_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/yuca.scanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/yuca.scanner.png"
+    },
+    {
       "name": "Genie",
       "type": 1,
       "bundleID": "co.appnation.geniechat",
@@ -258,22 +306,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png"
-    },
-    {
-      "name": "Leto",
-      "type": 1,
-      "bundleID": "biser.stories",
-      "bundleIdentifier": "biser.stories",
-      "version": "8.2.2",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208011354",
-      "size": 165263826,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Leto_8.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Leto_8.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png"
     },
     {
       "name": "FrameGrabber",
@@ -3814,80 +3846,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
       "formatedsize": "95.09 MB",
       "size": 99709091
-    },
-    {
-      "name": "Tastyland - Merge Food Fairies (Hacked)",
-      "bundleIdentifier": "com.zjoy.fairy",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.zjoy.fairy\n\n Downloads: 37\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742200573.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.33.0",
-          "date": "2025-03-17 04:36:13",
-          "localizedDescription": "Current of Tastyland - Merge Food Fairies (Hacked) - 2.33.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
-          "size": 197027430
-        },
-        {
-          "version": "2.33.0",
-          "date": "2025-03-17 04:36:13",
-          "localizedDescription": "Old Version of Tastyland - Merge Food Fairies (Hacked) - 2.33.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
-          "size": 197027430
-        }
-      ],
-      "version": "2.33.0",
-      "versionDate": "2025-03-17 04:36:13",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1266",
-      "formatedsize": "187.9 MB",
-      "size": 197027430
-    },
-    {
-      "name": "Go Fish! (Hacked)",
-      "bundleIdentifier": "com.kwalee.gofish",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.kwalee.gofish\n\n Downloads: 197\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742163244.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17421632437353922498.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632439267435763.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632440518018115.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632442828617189.webp",
-        "https://apps.nabzclan.vip/screenshots/17421632444066781089.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.6.5",
-          "date": "2025-03-16 18:14:04",
-          "localizedDescription": "Current of Go Fish! (Hacked) - 1.6.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
-          "size": 95420416
-        },
-        {
-          "version": "1.6.5",
-          "date": "2025-03-16 18:14:04",
-          "localizedDescription": "Old Version of Go Fish! (Hacked) - 1.6.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
-          "size": 95420416
-        }
-      ],
-      "version": "1.6.5",
-      "versionDate": "2025-03-16 18:14:04",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1264",
-      "formatedsize": "91.0 MB",
-      "size": 95420416
     }
   ],
   "userInfo": {}

@@ -4,6 +4,86 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "The Battle of Polytopia+",
+      "bundleIdentifier": "com.felixrum.supertribes.plus",
+      "developerName": "Midjiwan AB",
+      "subtitle": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0",
+      "localizedDescription": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.felixrum.supertribes.plus\n\n Downloads: 140\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731282963.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312829629908895960.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829630865949746.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829631281842999.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829631776766473.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829632172997407.webp",
+        "https://apps.nabzclan.vip/screenshots/17312829632616377687.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.9.1",
+          "date": "2024-11-10 18:56:03",
+          "localizedDescription": "Current of The Battle of Polytopia+ - 2.9.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/977",
+          "size": 176066396
+        },
+        {
+          "version": "2.9.1",
+          "date": "2024-11-10 18:56:03",
+          "localizedDescription": "Old Version of The Battle of Polytopia+ - 2.9.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/977",
+          "size": 176066396
+        }
+      ],
+      "version": "2.9.1",
+      "versionDate": "2024-11-10 18:56:03",
+      "versionDescription": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/977",
+      "formatedsize": "167.91 MB",
+      "size": 176066396
+    },
+    {
+      "name": "Project V90",
+      "bundleIdentifier": "com.vg90studio.projectv90",
+      "developerName": "VG90 STUDIO",
+      "subtitle": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
+      "localizedDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.vg90studio.projectv90\n\n Downloads: 52\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731280389.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312803879765080465.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803881625276003.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803885733130427.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803886987988610.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803888446045703.webp",
+        "https://apps.nabzclan.vip/screenshots/17312803892305704199.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2024-11-10 18:13:09",
+          "localizedDescription": "Current of Project V90 - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
+          "size": 168401305
+        },
+        {
+          "version": "3.0",
+          "date": "2024-11-10 18:13:09",
+          "localizedDescription": "Old Version of Project V90 - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
+          "size": 168401305
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2024-11-10 18:13:09",
+      "versionDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/975",
+      "formatedsize": "160.6 MB",
+      "size": 168401305
+    },
+    {
       "name": "The Forgotten Room",
       "bundleIdentifier": "com.glitchgames.theforgottenroom",
       "developerName": "Glitch Games",
@@ -5011,79 +5091,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/289",
       "formatedsize": "3.98 MB",
       "size": 4173332
-    },
-    {
-      "name": "Scarlet",
-      "bundleIdentifier": "com.debianarch.scarlet",
-      "developerName": "DebianArch",
-      "subtitle": "Scarlet is a great signing tool",
-      "localizedDescription": "Scarlet is a great signing tool\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.debianarch.scarlet\n\n Downloads: 6923\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1689466067.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16894661778611194.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661776925586.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775566227.webp",
-        "https://apps.nabzclan.vip/screenshots/16894661775533509.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Current of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        },
-        {
-          "version": "1.0",
-          "date": "2023-10-28 17:24:40",
-          "localizedDescription": "Old Version of Scarlet - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-          "size": 16661872
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2023-10-28 17:24:40",
-      "versionDescription": "Scarlet is a great signing tool",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/278",
-      "formatedsize": "15.89 MB",
-      "size": 16661872
-    },
-    {
-      "name": "Broadcaster",
-      "bundleIdentifier": "com.streamer.broadcaster",
-      "developerName": "StreamerApp Team",
-      "subtitle": "Watch all your favorite tv channels live on your iPhone",
-      "localizedDescription": "Watch all your favorite tv channels live on your iPhone\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.broadcaster\n\n Downloads: 644\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1692724870.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16927248407570265.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Current of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        },
-        {
-          "version": "0.0.2",
-          "date": "2023-10-21 21:43:13",
-          "localizedDescription": "Old Version of Broadcaster - 0.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-          "size": 16011755
-        }
-      ],
-      "version": "0.0.2",
-      "versionDate": "2023-10-21 21:43:13",
-      "versionDescription": "Watch all your favorite tv channels live on your iPhone",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/174",
-      "formatedsize": "15.27 MB",
-      "size": 16011755
     }
   ],
   "userInfo": {}

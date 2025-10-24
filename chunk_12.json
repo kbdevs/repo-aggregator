@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "MatterPremium",
+      "bundleIdentifier": "com.Matter.MatterApp",
+      "version": "3.1.4",
+      "versionDate": "2024-10-09",
+      "size": 83875186,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
+    },
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "version": "0.1.0",
+      "versionDate": "2024-10-09",
+      "size": 93145110,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
+      "developerName": "kodjodevf",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
+    },
+    {
       "name": "LyricifyMobile",
       "bundleIdentifier": "com.wxriw.LyricifyMobile",
       "version": "1.4.3",
@@ -800,6 +822,15 @@
       "beta": false,
       "versions": [
         {
+          "version": "5.0.0b4",
+          "date": "2025-10-23T02:30:00.0000000Z",
+          "localizedDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
+          "size": 17958943,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "99.0"
+        },
+        {
           "version": "5.0.0b3",
           "date": "2025-10-18T00:00:00.0000000Z",
           "localizedDescription": "Adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.",
@@ -854,10 +885,10 @@
           "maxOSVersion": "99.0"
         }
       ],
-      "version": "5.0.0b3",
-      "versionDate": "2025-10-18T00:00:00.0000000Z",
-      "versionDescription": "Adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.",
-      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
+      "version": "5.0.0b4",
+      "versionDate": "2025-10-23T02:30:00.0000000Z",
+      "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943
     },
     {
