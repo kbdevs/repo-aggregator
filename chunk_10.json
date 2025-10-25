@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Through the Ages",
+      "bundleIdentifier": "com.czechgames.tta",
+      "developerName": "CGE Digital s.r.o.",
+      "subtitle": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.",
+      "localizedDescription": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.czechgames.tta\n\n Downloads: 70\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731284692.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312846924737983408.webp",
+        "https://apps.nabzclan.vip/screenshots/17312846925377073916.webp",
+        "https://apps.nabzclan.vip/screenshots/17312846925794169515.webp",
+        "https://apps.nabzclan.vip/screenshots/17312846926175471623.webp",
+        "https://apps.nabzclan.vip/screenshots/17312846926522417781.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.19.1018",
+          "date": "2024-11-10 19:24:52",
+          "localizedDescription": "Current of Through the Ages - 2.19.1018",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/978",
+          "size": 193042841
+        },
+        {
+          "version": "2.19.1018",
+          "date": "2024-11-10 19:24:52",
+          "localizedDescription": "Old Version of Through the Ages - 2.19.1018",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/978",
+          "size": 193042841
+        }
+      ],
+      "version": "2.19.1018",
+      "versionDate": "2024-11-10 19:24:52",
+      "versionDescription": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/978",
+      "formatedsize": "184.1 MB",
+      "size": 193042841
+    },
+    {
       "name": "The Battle of Polytopia+",
       "bundleIdentifier": "com.felixrum.supertribes.plus",
       "developerName": "Midjiwan AB",
@@ -5056,41 +5095,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/292",
       "formatedsize": "148.30 MB",
       "size": 155503820
-    },
-    {
-      "name": "iSH",
-      "bundleIdentifier": "app.ish.iSH",
-      "developerName": "iSH Team",
-      "subtitle": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: app.ish.iSH\n\n Downloads: 322\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699833373.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.3",
-          "date": "2023-11-12 23:56:13",
-          "localizedDescription": "Current of iSH - 1.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-          "size": 4173332
-        },
-        {
-          "version": "1.3.3",
-          "date": "2023-11-12 23:56:13",
-          "localizedDescription": "Old Version of iSH - 1.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-          "size": 4173332
-        }
-      ],
-      "version": "1.3.3",
-      "versionDate": "2023-11-12 23:56:13",
-      "versionDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/289",
-      "formatedsize": "3.98 MB",
-      "size": 4173332
     }
   ],
   "userInfo": {}

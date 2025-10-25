@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "HeadifyAIHeadshotGenerator",
+      "type": 1,
+      "bundleID": "com.photoshoot.headshotaigenerator",
+      "bundleIdentifier": "com.photoshoot.headshotaigenerator",
+      "version": "4.18.3",
+      "versionDate": "2025-07-15",
+      "fullDate": "20250715184030",
+      "size": 80556561,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/HeadifyAIHeadshotGenerator_4.18.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/HeadifyAIHeadshotGenerator_4.18.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoshoot.headshotaigenerator.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoshoot.headshotaigenerator.png"
+    },
+    {
+      "name": "NBv62258",
+      "type": 1,
+      "bundleID": "nt.nb.ios",
+      "bundleIdentifier": "nt.nb.ios",
+      "version": "62.258",
+      "versionDate": "2025-07-15",
+      "fullDate": "20250715000036",
+      "size": 805009285,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/NBv62258_62.258_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/NBv62258_62.258_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png"
+    },
+    {
       "name": "iSTB",
       "type": 1,
       "bundleID": "com.na.istb",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png"
-    },
-    {
-      "name": "NBALIVE",
-      "type": 2,
-      "bundleID": "com.ea.ios.nbamobile",
-      "bundleIdentifier": "com.ea.ios.nbamobile",
-      "version": "9.1.30",
-      "versionDate": "2025-06-21",
-      "fullDate": "20250621172100",
-      "size": 112205135,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/NBALIVE_9.1.30_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/NBALIVE_9.1.30_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.ios.nbamobile.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.ios.nbamobile.png"
-    },
-    {
-      "name": "TinyReaperReborn",
-      "type": 2,
-      "bundleID": "com.daerigame.babysasin",
-      "bundleIdentifier": "com.daerigame.babysasin",
-      "version": "1.0.3",
-      "versionDate": "2025-06-21",
-      "fullDate": "20250621171548",
-      "size": 279587750,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/TinyReaperReborn_1.0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/TinyReaperReborn_1.0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.daerigame.babysasin.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.daerigame.babysasin.png"
     }
   ],
   "userInfo": {}

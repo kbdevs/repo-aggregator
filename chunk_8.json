@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
+      "name": "RashaqaWorkout",
+      "type": 1,
+      "bundleID": "com.madarsoft.fitness",
+      "bundleIdentifier": "com.madarsoft.fitness",
+      "version": "15.4",
+      "versionDate": "2025-04-30",
+      "fullDate": "20250430110144",
+      "size": 364761987,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
+    },
+    {
       "name": "EndZoneDefendandSurvive",
       "type": 2,
       "bundleID": "com.jiujiu.zombiedefense",
@@ -466,22 +498,6 @@
       "localizedDescription": "Injected with Mod",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nekki.shadowfight.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nekki.shadowfight.png"
-    },
-    {
-      "name": "Apollo",
-      "type": 1,
-      "bundleID": "com.christianselig.Apollo",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "version": "1.15.11",
-      "versionDate": "2024-12-24",
-      "fullDate": "20241224024350",
-      "size": 108300277,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2024/Apollo_1.15.11_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2024/Apollo_1.15.11_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.christianselig.Apollo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.christianselig.Apollo.png"
     },
     {
       "name": "CoinId",
@@ -3811,41 +3827,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
       "formatedsize": "166.91 MB",
       "size": 175017820
-    },
-    {
-      "name": "Temple Run (Hacked)",
-      "bundleIdentifier": "com.imangi.templerun",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.imangi.templerun\n\n Downloads: 483\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742201549.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.30.0",
-          "date": "2025-03-17 04:52:29",
-          "localizedDescription": "Current of Temple Run (Hacked) - 1.30.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
-          "size": 99709091
-        },
-        {
-          "version": "1.30.0",
-          "date": "2025-03-17 04:52:29",
-          "localizedDescription": "Old Version of Temple Run (Hacked) - 1.30.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
-          "size": 99709091
-        }
-      ],
-      "version": "1.30.0",
-      "versionDate": "2025-03-17 04:52:29",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1267",
-      "formatedsize": "95.09 MB",
-      "size": 99709091
     }
   ],
   "userInfo": {}
