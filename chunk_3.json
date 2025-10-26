@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "CollaNote",
+      "type": 1,
+      "bundleID": "net.quochuywdm.collanote496",
+      "bundleIdentifier": "net.quochuywdm.collanote496",
+      "version": "4.0.0",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010045616",
+      "size": 146316372,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/CollaNote_4.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/CollaNote_4.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png"
+    },
+    {
+      "name": "AdobeScan",
+      "type": 1,
+      "bundleID": "com.adobe.scan.ios",
+      "bundleIdentifier": "com.adobe.scan.ios",
+      "version": "25.10.10",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010040102",
+      "size": 171715022,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/AdobeScan_25.10.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/AdobeScan_25.10.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png"
+    },
+    {
       "name": "VideoGPTPublic",
       "type": 1,
       "bundleID": "com.elven.video",
@@ -1604,22 +1636,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png"
     },
     {
-      "name": "Labbet",
-      "type": 1,
-      "bundleID": "app.labbet.labbet",
-      "bundleIdentifier": "app.labbet.labbet",
-      "version": "2.46",
-      "versionDate": "2025-09-24",
-      "fullDate": "20250924041354",
-      "size": 89923517,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Labbet_2.46_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Labbet_2.46_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
-    },
-    {
       "name": "Ornament",
       "type": 1,
       "bundleID": "com.ornament.ornament.health",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png"
-    },
-    {
-      "name": "OldRoll",
-      "type": 1,
-      "bundleID": "com.zijayrate.analogcam",
-      "bundleIdentifier": "com.zijayrate.analogcam",
-      "version": "7.8.0",
-      "versionDate": "2025-09-23",
-      "fullDate": "20250923005821",
-      "size": 150705218,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2025/OldRoll_7.8.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2025/OldRoll_7.8.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png"
     },
     {
       "name": "Focos",
