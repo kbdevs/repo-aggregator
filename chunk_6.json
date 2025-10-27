@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "HillClimb2",
+      "type": 2,
+      "bundleID": "com.fingersoft.hillclimbracing2",
+      "bundleIdentifier": "com.fingersoft.hillclimbracing2",
+      "version": "1.66.2",
+      "versionDate": "2025-06-21",
+      "fullDate": "20250621172625",
+      "size": 196538322,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/HillClimb2_1.66.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/HillClimb2_1.66.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing2.png"
+    },
+    {
+      "name": "Minecraft",
+      "type": 2,
+      "bundleID": "com.mojang.minecraftpe",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "version": "1.21.92",
+      "versionDate": "2025-06-21",
+      "fullDate": "20250621172104",
+      "size": 609536140,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Minecraft_1.21.92_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Minecraft_1.21.92_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png"
+    },
+    {
       "name": "NBALIVE",
       "type": 2,
       "bundleID": "com.ea.ios.nbamobile",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with UnlimitedCurrency",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ca.lbcstudios.hempire.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ca.lbcstudios.hempire.png"
-    },
-    {
-      "name": "LastCloudia",
-      "type": 2,
-      "bundleID": "com.aidis.lastcloudiaen",
-      "bundleIdentifier": "com.aidis.lastcloudiaen",
-      "version": "6.1.1",
-      "versionDate": "2025-05-31",
-      "fullDate": "20250531154431",
-      "size": 199863283,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/LastCloudia_6.1.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/LastCloudia_6.1.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with GodMode",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidis.lastcloudiaen.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidis.lastcloudiaen.png"
-    },
-    {
-      "name": "FutureFight",
-      "type": 2,
-      "bundleID": "com.netmarble.mheros",
-      "bundleIdentifier": "com.netmarble.mheros",
-      "version": "10.9.0",
-      "versionDate": "2025-05-31",
-      "fullDate": "20250531153456",
-      "size": 260015890,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/FutureFight_10.9.0_InstantSkill_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/FutureFight_10.9.0_InstantSkill_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with InstantSkill",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.mheros.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.mheros.png"
     }
   ],
   "userInfo": {}

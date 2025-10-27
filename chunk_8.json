@@ -4,20 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "AndalusiDesign",
-      "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "name": "CashInc",
+      "type": 2,
+      "bundleID": "com.alegrium.cong2",
+      "bundleIdentifier": "com.alegrium.cong2",
+      "version": "2.4.14",
+      "versionDate": "2025-05-02",
+      "fullDate": "20250502204253",
+      "size": 133372230,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/CashInc_2.4.14_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/CashInc_2.4.14_IAP_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alegrium.cong2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alegrium.cong2.png"
+    },
+    {
+      "name": "AppGroupCheck",
+      "type": 1,
+      "bundleID": "com.choco.appgroupcheck",
+      "bundleIdentifier": "com.choco.appgroupcheck",
+      "version": "1.0.0",
+      "versionDate": "2025-05-02",
+      "fullDate": "20250502041032",
+      "size": 3329442,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
       "name": "RashaqaWorkout",
@@ -3780,53 +3796,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
       "formatedsize": "136.1 MB",
       "size": 142711193
-    },
-    {
-      "name": "Day R Premium: last world war",
-      "bundleIdentifier": "dayr",
-      "developerName": "RMIND GAMES L.L.C-FZ",
-      "subtitle": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.",
-      "localizedDescription": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: dayr\n\n Downloads: 58\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735776143.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17357761425783226250.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761427367161938.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761428459001131.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761429738135546.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761430834068880.webp",
-        "https://apps.nabzclan.vip/screenshots/17357761431851921924.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.855",
-          "date": "2025-03-17 05:00:16",
-          "localizedDescription": "Current of Day R Premium: last world war - 1.855",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
-          "size": 175017820
-        },
-        {
-          "version": "1.835",
-          "date": "2025-01-01 19:02:23",
-          "localizedDescription": "Old Version of Day R Premium: last world war - 1.835",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1153",
-          "size": 190106828
-        },
-        {
-          "version": "1.855",
-          "date": "2025-03-17 05:00:16",
-          "localizedDescription": "Old Version of Day R Premium: last world war - 1.855",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
-          "size": 175017820
-        }
-      ],
-      "version": "1.855",
-      "versionDate": "2025-03-17 05:00:16",
-      "versionDescription": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1268",
-      "formatedsize": "166.91 MB",
-      "size": 175017820
     }
   ],
   "userInfo": {}

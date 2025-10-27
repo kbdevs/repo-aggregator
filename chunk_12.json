@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "version": "3.3.5",
+      "versionDate": "2024-10-10",
+      "size": 28563166,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
+      "developerName": "Misaka",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
+    },
+    {
       "name": "MemrisePremium",
       "bundleIdentifier": "com.memrise.ios.memrisecompanion",
       "version": "2023.11.17",
@@ -2828,6 +2839,13 @@
         "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
       ],
       "versions": [
+        {
+          "version": "30557",
+          "date": "2025-10-26T22:21:03+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client-PTS.ipa?r=29764",
+          "size": 134626479,
+          "sha256": "547843831bc73f9662bf17b13b74094b1f47a1c3946f5084eaadb4ccaa5a613b"
+        },
         {
           "version": "23662",
           "date": "2023-06-10T18:49:07+00:00",

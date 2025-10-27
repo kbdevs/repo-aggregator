@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "LastCloudia",
+      "type": 2,
+      "bundleID": "com.aidis.lastcloudiaen",
+      "bundleIdentifier": "com.aidis.lastcloudiaen",
+      "version": "6.1.1",
+      "versionDate": "2025-05-31",
+      "fullDate": "20250531154431",
+      "size": 199863283,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/LastCloudia_6.1.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/LastCloudia_6.1.1_GodMode_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with GodMode",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidis.lastcloudiaen.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidis.lastcloudiaen.png"
+    },
+    {
+      "name": "FutureFight",
+      "type": 2,
+      "bundleID": "com.netmarble.mheros",
+      "bundleIdentifier": "com.netmarble.mheros",
+      "version": "10.9.0",
+      "versionDate": "2025-05-31",
+      "fullDate": "20250531153456",
+      "size": 260015890,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/FutureFight_10.9.0_InstantSkill_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/FutureFight_10.9.0_InstantSkill_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with InstantSkill",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.mheros.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.mheros.png"
+    },
+    {
       "name": "Calculator",
       "type": 1,
       "bundleID": "com.incpt.mobis.CalculatorInfinite",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sk.phx.terrarium.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sk.phx.terrarium.png"
-    },
-    {
-      "name": "CashInc",
-      "type": 2,
-      "bundleID": "com.alegrium.cong2",
-      "bundleIdentifier": "com.alegrium.cong2",
-      "version": "2.4.14",
-      "versionDate": "2025-05-02",
-      "fullDate": "20250502204253",
-      "size": 133372230,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/CashInc_2.4.14_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/CashInc_2.4.14_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alegrium.cong2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alegrium.cong2.png"
-    },
-    {
-      "name": "AppGroupCheck",
-      "type": 1,
-      "bundleID": "com.choco.appgroupcheck",
-      "bundleIdentifier": "com.choco.appgroupcheck",
-      "version": "1.0.0",
-      "versionDate": "2025-05-02",
-      "fullDate": "20250502041032",
-      "size": 3329442,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AppGroupCheck_1.0.0_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     }
   ],
   "userInfo": {}

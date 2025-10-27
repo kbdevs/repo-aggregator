@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Pou",
+      "bundleIdentifier": "me.pou.app",
+      "developerName": "Zakeh Limited",
+      "subtitle": "Think you have what it takes to adopt a POU? How will YOU customize your POU?\r\nDo you have what it takes to take care of your very own alien pet?! Feed it, clean it, play with it and watch it grow up while leveling up and unlocking different wallpapers and outfits to satisfy your unique taste. How will YOU customize your POU?\r\n\r\n* Feed and take care of Pou, and watch it grow!\r\n* Play Games in the Game Room and collect Coins!\r\n* Experiment with Potions at the Lab!\r\n* Customize Pou's appearance!\r\n* Try out new Outfits, Hats and Eyeglasses!\r\n* Customize each room's Wallpaper!\r\n* Unlock Achievements and Special items!\r\n* Visit and play with your friends!\r\n* Talk to Pou and listen back!",
+      "localizedDescription": "Think you have what it takes to adopt a POU? How will YOU customize your POU?\r\nDo you have what it takes to take care of your very own alien pet?! Feed it, clean it, play with it and watch it grow up while leveling up and unlocking different wallpapers and outfits to satisfy your unique taste. How will YOU customize your POU?\r\n\r\n* Feed and take care of Pou, and watch it grow!\r\n* Play Games in the Game Room and collect Coins!\r\n* Experiment with Potions at the Lab!\r\n* Customize Pou's appearance!\r\n* Try out new Outfits, Hats and Eyeglasses!\r\n* Customize each room's Wallpaper!\r\n* Unlock Achievements and Special items!\r\n* Visit and play with your friends!\r\n* Talk to Pou and listen back!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: me.pou.app\n\n Downloads: 999\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731373920.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17313739192419613212.webp",
+        "https://apps.nabzclan.vip/screenshots/17313739195492476730.webp",
+        "https://apps.nabzclan.vip/screenshots/17313739196791611617.webp",
+        "https://apps.nabzclan.vip/screenshots/17313739198879153572.webp",
+        "https://apps.nabzclan.vip/screenshots/17313739203622766142.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.119",
+          "date": "2024-11-11 20:12:00",
+          "localizedDescription": "Current of Pou - 1.4.119",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/983",
+          "size": 40548433
+        },
+        {
+          "version": "1.4.119",
+          "date": "2024-11-11 20:12:00",
+          "localizedDescription": "Old Version of Pou - 1.4.119",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/983",
+          "size": 40548433
+        }
+      ],
+      "version": "1.4.119",
+      "versionDate": "2024-11-11 20:12:00",
+      "versionDescription": "Think you have what it takes to adopt a POU? How will YOU customize your POU?\r\nDo you have what it takes to take care of your very own alien pet?! Feed it, clean it, play with it and watch it grow up while leveling up and unlocking different wallpapers and outfits to satisfy your unique taste. How will YOU customize your POU?\r\n\r\n* Feed and take care of Pou, and watch it grow!\r\n* Play Games in the Game Room and collect Coins!\r\n* Experiment with Potions at the Lab!\r\n* Customize Pou's appearance!\r\n* Try out new Outfits, Hats and Eyeglasses!\r\n* Customize each room's Wallpaper!\r\n* Unlock Achievements and Special items!\r\n* Visit and play with your friends!\r\n* Talk to Pou and listen back!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/983",
+      "formatedsize": "38.67 MB",
+      "size": 40548433
+    },
+    {
       "name": "Through the Ages",
       "bundleIdentifier": "com.czechgames.tta",
       "developerName": "CGE Digital s.r.o.",
@@ -5055,46 +5094,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/293",
       "formatedsize": "190.43 MB",
       "size": 199680327
-    },
-    {
-      "name": "PAC-MAN (Hack)",
-      "bundleIdentifier": "com.namconetworks.pacmanlite",
-      "developerName": "nabzclan",
-      "subtitle": "Injected with UnlimitedHackes.",
-      "localizedDescription": "Injected with UnlimitedHackes.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.namconetworks.pacmanlite\n\n Downloads: 141\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699837151.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998371455249565189.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371469909074699.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371480447343966.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371481896508373.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371500346566352.webp",
-        "https://apps.nabzclan.vip/screenshots/16998371504262285771.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "11.3.3",
-          "date": "2023-11-13 00:59:11",
-          "localizedDescription": "Current of PAC-MAN (Hack) - 11.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
-          "size": 155503820
-        },
-        {
-          "version": "11.3.3",
-          "date": "2023-11-13 00:59:11",
-          "localizedDescription": "Old Version of PAC-MAN (Hack) - 11.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
-          "size": 155503820
-        }
-      ],
-      "version": "11.3.3",
-      "versionDate": "2023-11-13 00:59:11",
-      "versionDescription": "Injected with UnlimitedHackes.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/292",
-      "formatedsize": "148.30 MB",
-      "size": 155503820
     }
   ],
   "userInfo": {}

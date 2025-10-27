@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Supershift",
+      "type": 1,
+      "bundleID": "io.erna",
+      "bundleIdentifier": "io.erna",
+      "version": "2025.21",
+      "versionDate": "2025-07-17",
+      "fullDate": "20250717202040",
+      "size": 33015506,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Supershift_2025.21_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Supershift_2025.21_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png"
+    },
+    {
       "name": "HeadifyAIHeadshotGenerator",
       "type": 1,
       "bundleID": "com.photoshoot.headshotaigenerator",
@@ -1188,6 +1204,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
     },
     {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704082624",
+      "size": 176231919,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
       "name": "ReceiptLens",
       "type": 1,
       "bundleID": "com.glority.receipt",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.starwarscapital.bv.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.starwarscapital.bv.png"
-    },
-    {
-      "name": "HillClimb2",
-      "type": 2,
-      "bundleID": "com.fingersoft.hillclimbracing2",
-      "bundleIdentifier": "com.fingersoft.hillclimbracing2",
-      "version": "1.66.2",
-      "versionDate": "2025-06-21",
-      "fullDate": "20250621172625",
-      "size": 196538322,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/HillClimb2_1.66.2_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/HillClimb2_1.66.2_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing2.png"
-    },
-    {
-      "name": "Minecraft",
-      "type": 2,
-      "bundleID": "com.mojang.minecraftpe",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "version": "1.21.92",
-      "versionDate": "2025-06-21",
-      "fullDate": "20250621172104",
-      "size": 609536140,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Minecraft_1.21.92_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Minecraft_1.21.92_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png"
     }
   ],
   "userInfo": {}
