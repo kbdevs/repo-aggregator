@@ -4,6 +4,83 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Bridges: Link Formatting",
+      "bundleIdentifier": "com.onishry.Bridges",
+      "developerName": "Jonathan Ruiz",
+      "subtitle": "Bridges is the best way to collect custom formatted links. Saving a link for your podcast, newsletter, or blog post has never been easier.",
+      "localizedDescription": "Bridges is the best way to collect custom formatted links. Saving a link for your podcast, newsletter, or blog post has never been easier.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.onishry.Bridges\n\n Downloads: 92\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731379068.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17313790673005214840.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790674942923581.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790679686663449.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790681089133018.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790683049452787.webp",
+        "https://apps.nabzclan.vip/screenshots/17313790684527895379.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2024-11-11 21:37:49",
+          "localizedDescription": "Current of Bridges: Link Formatting - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/994",
+          "size": 14082375
+        },
+        {
+          "version": "1.5",
+          "date": "2024-11-11 21:37:49",
+          "localizedDescription": "Old Version of Bridges: Link Formatting - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/994",
+          "size": 14082375
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2024-11-11 21:37:49",
+      "versionDescription": "Bridges is the best way to collect custom formatted links. Saving a link for your podcast, newsletter, or blog post has never been easier.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/994",
+      "formatedsize": "13.43 MB",
+      "size": 14082375
+    },
+    {
+      "name": "Vidi \u00b7 Media Center",
+      "bundleIdentifier": "se.plomo.Habanero",
+      "developerName": "Plata o Plomo AB",
+      "subtitle": "Vidi is a modular media center for Apple platforms. The app acts as a hub and is extendible with addons to provide content and other functionality.\r\n\r\n- Integrated player with support for HDR10, HDR10+ and Dolby Vision.\r\n- It tracks your progress in the app and between your devices with iCloud.\r\n\r\nCurrently Vidi only supports addons using the Stremio addon API. Read more about what subset of the Stremio addon API is supported on the website:\r\n\r\nhttps://vidi.plomo.se/",
+      "localizedDescription": "Vidi is a modular media center for Apple platforms. The app acts as a hub and is extendible with addons to provide content and other functionality.\r\n\r\n- Integrated player with support for HDR10, HDR10+ and Dolby Vision.\r\n- It tracks your progress in the app and between your devices with iCloud.\r\n\r\nCurrently Vidi only supports addons using the Stremio addon API. Read more about what subset of the Stremio addon API is supported on the website:\r\n\r\nhttps://vidi.plomo.se/\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: se.plomo.Habanero\n\n Downloads: 867\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731377746.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17313777455148960577.webp",
+        "https://apps.nabzclan.vip/screenshots/17313777460254023469.webp",
+        "https://apps.nabzclan.vip/screenshots/17313777461962903414.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.0",
+          "date": "2024-11-11 21:15:46",
+          "localizedDescription": "Current of Vidi \u00b7 Media Center - 1.8.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/992",
+          "size": 33239859
+        },
+        {
+          "version": "1.8.0",
+          "date": "2024-11-11 21:15:46",
+          "localizedDescription": "Old Version of Vidi \u00b7 Media Center - 1.8.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/992",
+          "size": 33239859
+        }
+      ],
+      "version": "1.8.0",
+      "versionDate": "2024-11-11 21:15:46",
+      "versionDescription": "Vidi is a modular media center for Apple platforms. The app acts as a hub and is extendible with addons to provide content and other functionality.\r\n\r\n- Integrated player with support for HDR10, HDR10+ and Dolby Vision.\r\n- It tracks your progress in the app and between your devices with iCloud.\r\n\r\nCurrently Vidi only supports addons using the Stremio addon API. Read more about what subset of the Stremio addon API is supported on the website:\r\n\r\nhttps://vidi.plomo.se/",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/992",
+      "formatedsize": "31.7 MB",
+      "size": 33239859
+    },
+    {
       "name": "Pou",
       "bundleIdentifier": "me.pou.app",
       "developerName": "Zakeh Limited",
@@ -5014,86 +5091,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/297",
       "formatedsize": "30.11 MB",
       "size": 31572623
-    },
-    {
-      "name": "Kritika: The White Knights (Hack)",
-      "bundleIdentifier": "com.gamevil.kritikam.ios.apple.global.normal",
-      "developerName": "nabzclan",
-      "subtitle": "features: (Unlimited Karat)",
-      "localizedDescription": "features: (Unlimited Karat)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.gamevil.kritikam.ios.apple.global.normal\n\n Downloads: 153\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699866660.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998666495876817335.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666519336306578.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666534759290349.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666560615488533.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666576723495477.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666594512351343.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.38.3",
-          "date": "2023-11-13 09:11:00",
-          "localizedDescription": "Current of Kritika: The White Knights (Hack) - 4.38.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/294",
-          "size": 916046479
-        },
-        {
-          "version": "4.38.3",
-          "date": "2023-11-13 09:11:00",
-          "localizedDescription": "Old Version of Kritika: The White Knights (Hack) - 4.38.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/294",
-          "size": 916046479
-        }
-      ],
-      "version": "4.38.3",
-      "versionDate": "2023-11-13 09:11:00",
-      "versionDescription": "features: (Unlimited Karat)",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/294",
-      "formatedsize": "873.61 MB",
-      "size": 916046479
-    },
-    {
-      "name": "djay - (Premium)",
-      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
-      "developerName": "nabzclan",
-      "subtitle": "Injected with Premium",
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.algoriddim.djay-iphone-free\n\n Downloads: 1849\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699838516.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998385144551134669.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385147382387112.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385155163037687.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385158825317870.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385164026631825.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385166703799872.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.1.7",
-          "date": "2023-11-13 01:21:57",
-          "localizedDescription": "Current of djay - (Premium) - 4.1.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
-          "size": 199680327
-        },
-        {
-          "version": "4.1.7",
-          "date": "2023-11-13 01:21:57",
-          "localizedDescription": "Old Version of djay - (Premium) - 4.1.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
-          "size": 199680327
-        }
-      ],
-      "version": "4.1.7",
-      "versionDate": "2023-11-13 01:21:57",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/293",
-      "formatedsize": "190.43 MB",
-      "size": 199680327
     }
   ],
   "userInfo": {}

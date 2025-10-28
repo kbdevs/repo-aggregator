@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "SwiftyCompiler",
+      "type": 1,
+      "bundleID": "com.hassantaleb.SwiftCompiler",
+      "bundleIdentifier": "com.hassantaleb.SwiftCompiler",
+      "version": "9.16",
+      "versionDate": "2025-07-19",
+      "fullDate": "20250719055710",
+      "size": 30744483,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/SwiftyCompiler_9.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/SwiftyCompiler_9.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png"
+    },
+    {
+      "name": "Infltr",
+      "type": 1,
+      "bundleID": "com.Yooshr.Infltr",
+      "bundleIdentifier": "com.Yooshr.Infltr",
+      "version": "6.15",
+      "versionDate": "2025-07-18",
+      "fullDate": "20250718022216",
+      "size": 221714340,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Infltr_6.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Infltr_6.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Yooshr.Infltr.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Yooshr.Infltr.png"
+    },
+    {
       "name": "Supershift",
       "type": 1,
       "bundleID": "io.erna",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nssurge.inc.surge-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nssurge.inc.surge-ios.png"
-    },
-    {
-      "name": "Transcender",
-      "type": 2,
-      "bundleID": "com.playgames.transcender",
-      "bundleIdentifier": "com.playgames.transcender",
-      "version": "1.6.2",
-      "versionDate": "2025-06-21",
-      "fullDate": "20250621172635",
-      "size": 306273868,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Transcender_1.6.2_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Transcender_1.6.2_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgames.transcender.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgames.transcender.png"
-    },
-    {
-      "name": "StarWars",
-      "type": 2,
-      "bundleID": "com.ea.starwarscapital.bv",
-      "bundleIdentifier": "com.ea.starwarscapital.bv",
-      "version": "0.36.7",
-      "versionDate": "2025-06-21",
-      "fullDate": "20250621172632",
-      "size": 96808474,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/StarWars_0.36.7_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/StarWars_0.36.7_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.starwarscapital.bv.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.starwarscapital.bv.png"
     }
   ],
   "userInfo": {}

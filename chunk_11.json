@@ -4,6 +4,86 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Kritika: The White Knights (Hack)",
+      "bundleIdentifier": "com.gamevil.kritikam.ios.apple.global.normal",
+      "developerName": "nabzclan",
+      "subtitle": "features: (Unlimited Karat)",
+      "localizedDescription": "features: (Unlimited Karat)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.gamevil.kritikam.ios.apple.global.normal\n\n Downloads: 153\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699866660.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998666495876817335.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666519336306578.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666534759290349.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666560615488533.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666576723495477.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666594512351343.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.38.3",
+          "date": "2023-11-13 09:11:00",
+          "localizedDescription": "Current of Kritika: The White Knights (Hack) - 4.38.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/294",
+          "size": 916046479
+        },
+        {
+          "version": "4.38.3",
+          "date": "2023-11-13 09:11:00",
+          "localizedDescription": "Old Version of Kritika: The White Knights (Hack) - 4.38.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/294",
+          "size": 916046479
+        }
+      ],
+      "version": "4.38.3",
+      "versionDate": "2023-11-13 09:11:00",
+      "versionDescription": "features: (Unlimited Karat)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/294",
+      "formatedsize": "873.61 MB",
+      "size": 916046479
+    },
+    {
+      "name": "djay - (Premium)",
+      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+      "developerName": "nabzclan",
+      "subtitle": "Injected with Premium",
+      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.algoriddim.djay-iphone-free\n\n Downloads: 1849\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699838516.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998385144551134669.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385147382387112.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385155163037687.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385158825317870.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385164026631825.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385166703799872.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Current of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        },
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Old Version of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        }
+      ],
+      "version": "4.1.7",
+      "versionDate": "2023-11-13 01:21:57",
+      "versionDescription": "Injected with Premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+      "formatedsize": "190.43 MB",
+      "size": 199680327
+    },
+    {
       "name": "PAC-MAN (Hack)",
       "bundleIdentifier": "com.namconetworks.pacmanlite",
       "developerName": "nabzclan",
@@ -2090,28 +2170,6 @@
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
-    },
-    {
-      "name": "MoovitPlus",
-      "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "version": "5.146.1",
-      "versionDate": "2024-10-11",
-      "size": 85759040,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
-      "developerName": "IAppsBestLibrary",
-      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
-    },
-    {
-      "name": "MoisesPremium",
-      "bundleIdentifier": "ai.moises",
-      "version": "2.40.0",
-      "versionDate": "2024-10-11",
-      "size": 60999285,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
     }
   ],
   "userInfo": {}

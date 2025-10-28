@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "TapTitans",
+      "type": 2,
+      "bundleID": "com.gamehivecorp.taptitans2",
+      "bundleIdentifier": "com.gamehivecorp.taptitans2",
+      "version": "7.10.3",
+      "versionDate": "2025-05-31",
+      "fullDate": "20250531170247",
+      "size": 170771074,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/TapTitans_7.10.3_FreeLevelUp_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/TapTitans_7.10.3_FreeLevelUp_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with FreeLevelUp",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamehivecorp.taptitans2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamehivecorp.taptitans2.png"
+    },
+    {
+      "name": "Hempire",
+      "type": 2,
+      "bundleID": "ca.lbcstudios.hempire",
+      "bundleIdentifier": "ca.lbcstudios.hempire",
+      "version": "2.41.0",
+      "versionDate": "2025-05-31",
+      "fullDate": "20250531162516",
+      "size": 73789938,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Hempire_2.41.0_UnlimitedCurrency_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Hempire_2.41.0_UnlimitedCurrency_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with UnlimitedCurrency",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ca.lbcstudios.hempire.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ca.lbcstudios.hempire.png"
+    },
+    {
       "name": "LastCloudia",
       "type": 2,
       "bundleID": "com.aidis.lastcloudiaen",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png"
-    },
-    {
-      "name": "Brite",
-      "type": 1,
-      "bundleID": "io.konveier.timo",
-      "bundleIdentifier": "io.konveier.timo",
-      "version": "24.1.8",
-      "versionDate": "2025-05-03",
-      "fullDate": "20250503143519",
-      "size": 25493291,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Brite_24.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Brite_24.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png"
-    },
-    {
-      "name": "TerrariumGardenIdle",
-      "type": 2,
-      "bundleID": "sk.phx.terrarium",
-      "bundleIdentifier": "sk.phx.terrarium",
-      "version": "1.31.4",
-      "versionDate": "2025-05-03",
-      "fullDate": "20250503143015",
-      "size": 69756217,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/TerrariumGardenIdle_1.31.4_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/TerrariumGardenIdle_1.31.4_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sk.phx.terrarium.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sk.phx.terrarium.png"
     }
   ],
   "userInfo": {}

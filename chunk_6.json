@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Transcender",
+      "type": 2,
+      "bundleID": "com.playgames.transcender",
+      "bundleIdentifier": "com.playgames.transcender",
+      "version": "1.6.2",
+      "versionDate": "2025-06-21",
+      "fullDate": "20250621172635",
+      "size": 306273868,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Transcender_1.6.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Transcender_1.6.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgames.transcender.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgames.transcender.png"
+    },
+    {
+      "name": "StarWars",
+      "type": 2,
+      "bundleID": "com.ea.starwarscapital.bv",
+      "bundleIdentifier": "com.ea.starwarscapital.bv",
+      "version": "0.36.7",
+      "versionDate": "2025-06-21",
+      "fullDate": "20250621172632",
+      "size": 96808474,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/StarWars_0.36.7_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/StarWars_0.36.7_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.starwarscapital.bv.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.starwarscapital.bv.png"
+    },
+    {
       "name": "HillClimb2",
       "type": 2,
       "bundleID": "com.fingersoft.hillclimbracing2",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with GodMode",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.com2us.legion.ios.apple.global.normal.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.com2us.legion.ios.apple.global.normal.png"
-    },
-    {
-      "name": "TapTitans",
-      "type": 2,
-      "bundleID": "com.gamehivecorp.taptitans2",
-      "bundleIdentifier": "com.gamehivecorp.taptitans2",
-      "version": "7.10.3",
-      "versionDate": "2025-05-31",
-      "fullDate": "20250531170247",
-      "size": 170771074,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/TapTitans_7.10.3_FreeLevelUp_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/TapTitans_7.10.3_FreeLevelUp_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with FreeLevelUp",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamehivecorp.taptitans2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamehivecorp.taptitans2.png"
-    },
-    {
-      "name": "Hempire",
-      "type": 2,
-      "bundleID": "ca.lbcstudios.hempire",
-      "bundleIdentifier": "ca.lbcstudios.hempire",
-      "version": "2.41.0",
-      "versionDate": "2025-05-31",
-      "fullDate": "20250531162516",
-      "size": 73789938,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Hempire_2.41.0_UnlimitedCurrency_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Hempire_2.41.0_UnlimitedCurrency_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with UnlimitedCurrency",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ca.lbcstudios.hempire.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ca.lbcstudios.hempire.png"
     }
   ],
   "userInfo": {}
