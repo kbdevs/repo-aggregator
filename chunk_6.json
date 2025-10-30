@@ -1986,6 +1986,22 @@
       "localizedDescription": "Injected with Unlocked All Functions",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.treespleasegames.merge1.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.treespleasegames.merge1.png"
+    },
+    {
+      "name": "Stiiitch",
+      "type": 1,
+      "bundleID": "com.abighead.stiiitch",
+      "bundleIdentifier": "com.abighead.stiiitch",
+      "version": "2.3",
+      "versionDate": "2025-06-02",
+      "fullDate": "20250602035105",
+      "size": 31981271,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Stiiitch_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Stiiitch_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png"
     }
   ],
   "userInfo": {}

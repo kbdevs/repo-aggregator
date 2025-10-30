@@ -4,22 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
-      "name": "Stiiitch",
-      "type": 1,
-      "bundleID": "com.abighead.stiiitch",
-      "bundleIdentifier": "com.abighead.stiiitch",
-      "version": "2.3",
-      "versionDate": "2025-06-02",
-      "fullDate": "20250602035105",
-      "size": 31981271,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Stiiitch_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Stiiitch_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png"
-    },
-    {
       "name": "Warship",
       "type": 2,
       "bundleID": "com.jsbak.Warship",
@@ -1028,22 +1012,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sablostudio.dig.tycoon.idle.game.png"
     },
     {
-      "name": "GymWorkout",
-      "type": 1,
-      "bundleID": "com.leapfitness.gym",
-      "bundleIdentifier": "com.leapfitness.gym",
-      "version": "1.3.5",
-      "versionDate": "2025-05-23",
-      "fullDate": "20250523050652",
-      "size": 60936061,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/GymWorkout_1.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/GymWorkout_1.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.gym.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.gym.png"
-    },
-    {
       "name": "DuelLinks",
       "type": 2,
       "bundleID": "jp.konami.yugiohmobile",
@@ -1986,6 +1954,54 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png"
+    },
+    {
+      "name": "PhotoSwipe",
+      "type": 1,
+      "bundleID": "com.app.gallerycleaner",
+      "bundleIdentifier": "com.app.gallerycleaner",
+      "version": "6.0",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503151535",
+      "size": 3767709,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PhotoSwipe_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PhotoSwipe_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.gallerycleaner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.gallerycleaner.png"
+    },
+    {
+      "name": "POV",
+      "type": 1,
+      "bundleID": "com.SixThree.POV",
+      "bundleIdentifier": "com.SixThree.POV",
+      "version": "5.14",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503151532",
+      "size": 48879436,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/POV_5.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/POV_5.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png"
+    },
+    {
+      "name": "OffScreen",
+      "type": 1,
+      "bundleID": "tech.miidii.off-screen",
+      "bundleIdentifier": "tech.miidii.off-screen",
+      "version": "3.19.7",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503151028",
+      "size": 89352180,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png"
     }
   ],
   "userInfo": {}
