@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "POV",
+      "type": 1,
+      "bundleID": "com.SixThree.POV",
+      "bundleIdentifier": "com.SixThree.POV",
+      "version": "5.14",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503151532",
+      "size": 48879436,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/POV_5.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/POV_5.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png"
+    },
+    {
+      "name": "OffScreen",
+      "type": 1,
+      "bundleID": "tech.miidii.off-screen",
+      "bundleIdentifier": "tech.miidii.off-screen",
+      "version": "3.19.7",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503151028",
+      "size": 89352180,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png"
+    },
+    {
       "name": "Brite",
       "type": 1,
       "bundleID": "io.konveier.timo",
@@ -3709,109 +3741,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1274",
       "formatedsize": "95.0 MB",
       "size": 99614720
-    },
-    {
-      "name": "Alien Invasion - (Hack)",
-      "bundleIdentifier": "com.multicastgames.venomSurvive",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.multicastgames.venomSurvive\n\n Downloads: 323\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726695142.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17266951329964394311.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951348459023542.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951358042322339.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951377568189468.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951394258004423.webp",
-        "https://apps.nabzclan.vip/screenshots/17266951415396994676.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.10.00",
-          "date": "2025-03-17 05:23:27",
-          "localizedDescription": "Current of Alien Invasion - (Hack) - 4.10.00",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1273",
-          "size": 191260262
-        },
-        {
-          "version": "4.01.00",
-          "date": "2024-12-25 17:19:30",
-          "localizedDescription": "Old Version of Alien Invasion - (Hack) - 4.01.00",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1145",
-          "size": 152253235
-        },
-        {
-          "version": "4.02.01",
-          "date": "2025-01-01 19:30:50",
-          "localizedDescription": "Old Version of Alien Invasion - (Hack) - 4.02.01",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1159",
-          "size": 146905497
-        },
-        {
-          "version": "4.10.00",
-          "date": "2025-03-17 05:23:27",
-          "localizedDescription": "Old Version of Alien Invasion - (Hack) - 4.10.00",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1273",
-          "size": 191260262
-        }
-      ],
-      "version": "4.10.00",
-      "versionDate": "2025-03-17 05:23:27",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1273",
-      "formatedsize": "182.4 MB",
-      "size": 191260262
-    },
-    {
-      "name": "Pok\u00e9mon GO - SpooferPro",
-      "bundleIdentifier": "com.nianticlabs.pokemongo",
-      "developerName": "SpooferPro Team",
-      "subtitle": "SpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!",
-      "localizedDescription": "SpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.nianticlabs.pokemongo\n\n Downloads: 752\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692664677.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16926647907989815.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648534396468.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648548654206.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648547171161.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648546528839.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648558780624.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648558726359.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648563815908.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648567050151.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648575106267.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648575801140.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648708180234.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648705980789.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648713887485.webp",
-        "https://apps.nabzclan.vip/screenshots/16926648711485575.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.351.0",
-          "date": "2025-03-17 05:17:50",
-          "localizedDescription": "Current of Pok\u00e9mon GO - SpooferPro - 0.351.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
-          "size": 142711193
-        },
-        {
-          "version": "0.351.0",
-          "date": "2025-03-17 05:17:50",
-          "localizedDescription": "Old Version of Pok\u00e9mon GO - SpooferPro - 0.351.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
-          "size": 142711193
-        }
-      ],
-      "version": "0.351.0",
-      "versionDate": "2025-03-17 05:17:50",
-      "versionDescription": "SpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1272",
-      "formatedsize": "136.1 MB",
-      "size": 142711193
     }
   ],
   "userInfo": {}

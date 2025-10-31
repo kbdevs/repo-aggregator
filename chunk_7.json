@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "TheSevenDeadlySinsIdleAdventure",
+      "type": 2,
+      "bundleID": "com.netmarble.nanarise",
+      "bundleIdentifier": "com.netmarble.nanarise",
+      "version": "1.15.1",
+      "versionDate": "2025-06-02",
+      "fullDate": "20250602170317",
+      "size": 1058965152,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/TheSevenDeadlySinsIdleAdventure_1.15.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/TheSevenDeadlySinsIdleAdventure_1.15.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.nanarise.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.nanarise.png"
+    },
+    {
+      "name": "LongleafValley",
+      "type": 2,
+      "bundleID": "com.treespleasegames.merge1",
+      "bundleIdentifier": "com.treespleasegames.merge1",
+      "version": "1.35.26",
+      "versionDate": "2025-06-02",
+      "fullDate": "20250602165753",
+      "size": 241102400,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/LongleafValley_1.35.26_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/LongleafValley_1.35.26_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.treespleasegames.merge1.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.treespleasegames.merge1.png"
+    },
+    {
       "name": "Warship",
       "type": 2,
       "bundleID": "com.jsbak.Warship",
@@ -1970,38 +2002,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.gallerycleaner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.gallerycleaner.png"
-    },
-    {
-      "name": "POV",
-      "type": 1,
-      "bundleID": "com.SixThree.POV",
-      "bundleIdentifier": "com.SixThree.POV",
-      "version": "5.14",
-      "versionDate": "2025-05-03",
-      "fullDate": "20250503151532",
-      "size": 48879436,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/POV_5.14_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/POV_5.14_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SixThree.POV.png"
-    },
-    {
-      "name": "OffScreen",
-      "type": 1,
-      "bundleID": "tech.miidii.off-screen",
-      "bundleIdentifier": "tech.miidii.off-screen",
-      "version": "3.19.7",
-      "versionDate": "2025-05-03",
-      "fullDate": "20250503151028",
-      "size": 89352180,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png"
     }
   ],
   "userInfo": {}
