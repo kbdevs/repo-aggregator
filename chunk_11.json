@@ -4,6 +4,206 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Snake.io - Fun Online Slither (MOD)",
+      "bundleIdentifier": "com.amelosinteractive.snake",
+      "developerName": "Kamo",
+      "subtitle": "MOD (Drone View, Skin Unlocked)",
+      "localizedDescription": "MOD (Drone View, Skin Unlocked)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.amelosinteractive.snake\n\n Downloads: 389\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700107745.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17001077381206636817.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077387127913615.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077387932408895.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077405847730356.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077423706686641.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077443562013712.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.16.69",
+          "date": "2023-11-16 04:09:05",
+          "localizedDescription": "Current of Snake.io - Fun Online Slither (MOD) - 1.16.69",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/302",
+          "size": 66804776
+        },
+        {
+          "version": "1.16.69",
+          "date": "2023-11-16 04:09:05",
+          "localizedDescription": "Old Version of Snake.io - Fun Online Slither (MOD) - 1.16.69",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/302",
+          "size": 66804776
+        }
+      ],
+      "version": "1.16.69",
+      "versionDate": "2023-11-16 04:09:05",
+      "versionDescription": "MOD (Drone View, Skin Unlocked)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/302",
+      "formatedsize": "63.71 MB",
+      "size": 66804776
+    },
+    {
+      "name": "Cyber Dead: Metal Super Squad (MOD)",
+      "bundleIdentifier": "com.anglesgames.cyberdead",
+      "developerName": "nabzclan",
+      "subtitle": "MOD (Unlimited Currencies)",
+      "localizedDescription": "MOD (Unlimited Currencies)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.anglesgames.cyberdead\n\n Downloads: 67\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1700106798.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17001067871917317694.webp",
+        "https://apps.nabzclan.vip/screenshots/17001067894067083382.webp",
+        "https://apps.nabzclan.vip/screenshots/17001067921096047118.webp",
+        "https://apps.nabzclan.vip/screenshots/17001067936874828579.webp",
+        "https://apps.nabzclan.vip/screenshots/17001067959219484020.webp",
+        "https://apps.nabzclan.vip/screenshots/17001067971215615140.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.63.01",
+          "date": "2023-11-16 03:53:18",
+          "localizedDescription": "Current of Cyber Dead: Metal Super Squad (MOD) - 1.63.01",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/301",
+          "size": 118489088
+        },
+        {
+          "version": "1.63.01",
+          "date": "2023-11-16 03:53:18",
+          "localizedDescription": "Old Version of Cyber Dead: Metal Super Squad (MOD) - 1.63.01",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/301",
+          "size": 118489088
+        }
+      ],
+      "version": "1.63.01",
+      "versionDate": "2023-11-16 03:53:18",
+      "versionDescription": "MOD (Unlimited Currencies)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/301",
+      "formatedsize": "113.00 MB",
+      "size": 118489088
+    },
+    {
+      "name": "Make More! (Mod)",
+      "bundleIdentifier": "com.badcrane.makemore",
+      "developerName": "nabzclan",
+      "subtitle": "(Unlimited Money)\r\n(in app  purchases free)",
+      "localizedDescription": "(Unlimited Money)\r\n(in app  purchases free)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.badcrane.makemore\n\n Downloads: 288\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699869576.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998695721079842377.webp",
+        "https://apps.nabzclan.vip/screenshots/16998695726537715831.webp",
+        "https://apps.nabzclan.vip/screenshots/16998695728207790932.webp",
+        "https://apps.nabzclan.vip/screenshots/16998695729798597147.webp",
+        "https://apps.nabzclan.vip/screenshots/16998695731586950190.webp",
+        "https://apps.nabzclan.vip/screenshots/16998695749061377763.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.5.9",
+          "date": "2023-11-13 09:59:36",
+          "localizedDescription": "Current of Make More! (Mod) - 3.5.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/297",
+          "size": 31572623
+        },
+        {
+          "version": "3.5.9",
+          "date": "2023-11-13 09:59:36",
+          "localizedDescription": "Old Version of Make More! (Mod) - 3.5.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/297",
+          "size": 31572623
+        }
+      ],
+      "version": "3.5.9",
+      "versionDate": "2023-11-13 09:59:36",
+      "versionDescription": "(Unlimited Money)\r\n(in app  purchases free)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/297",
+      "formatedsize": "30.11 MB",
+      "size": 31572623
+    },
+    {
+      "name": "Kritika: The White Knights (Hack)",
+      "bundleIdentifier": "com.gamevil.kritikam.ios.apple.global.normal",
+      "developerName": "nabzclan",
+      "subtitle": "features: (Unlimited Karat)",
+      "localizedDescription": "features: (Unlimited Karat)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.gamevil.kritikam.ios.apple.global.normal\n\n Downloads: 153\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699866660.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998666495876817335.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666519336306578.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666534759290349.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666560615488533.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666576723495477.webp",
+        "https://apps.nabzclan.vip/screenshots/16998666594512351343.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.38.3",
+          "date": "2023-11-13 09:11:00",
+          "localizedDescription": "Current of Kritika: The White Knights (Hack) - 4.38.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/294",
+          "size": 916046479
+        },
+        {
+          "version": "4.38.3",
+          "date": "2023-11-13 09:11:00",
+          "localizedDescription": "Old Version of Kritika: The White Knights (Hack) - 4.38.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/294",
+          "size": 916046479
+        }
+      ],
+      "version": "4.38.3",
+      "versionDate": "2023-11-13 09:11:00",
+      "versionDescription": "features: (Unlimited Karat)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/294",
+      "formatedsize": "873.61 MB",
+      "size": 916046479
+    },
+    {
+      "name": "djay - (Premium)",
+      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+      "developerName": "nabzclan",
+      "subtitle": "Injected with Premium",
+      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.algoriddim.djay-iphone-free\n\n Downloads: 1849\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699838516.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998385144551134669.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385147382387112.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385155163037687.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385158825317870.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385164026631825.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385166703799872.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Current of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        },
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Old Version of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        }
+      ],
+      "version": "4.1.7",
+      "versionDate": "2023-11-13 01:21:57",
+      "versionDescription": "Injected with Premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+      "formatedsize": "190.43 MB",
+      "size": 199680327
+    },
+    {
       "name": "PAC-MAN (Hack)",
       "bundleIdentifier": "com.namconetworks.pacmanlite",
       "developerName": "nabzclan",
@@ -2068,61 +2268,6 @@
       "developerName": "Zzz Zzz",
       "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
-    },
-    {
-      "name": "Musi",
-      "bundleIdentifier": "com.feelthemusi.musi",
-      "version": "6.2.35",
-      "versionDate": "2024-10-11",
-      "size": 19556756,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
-    },
-    {
-      "name": "MuffinStore",
-      "bundleIdentifier": "dev.mineek.muffinstore",
-      "version": "1.1",
-      "versionDate": "2024-10-11",
-      "size": 29281,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
-    },
-    {
-      "name": "MoovitPlus",
-      "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "version": "5.146.1",
-      "versionDate": "2024-10-11",
-      "size": 85759040,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
-      "developerName": "IAppsBestLibrary",
-      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
-    },
-    {
-      "name": "MoisesPremium",
-      "bundleIdentifier": "ai.moises",
-      "version": "2.40.0",
-      "versionDate": "2024-10-11",
-      "size": 60999285,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
-    },
-    {
-      "name": "Misaka",
-      "bundleIdentifier": "com.straight-tamago.misakaRS",
-      "version": "3.3.5",
-      "versionDate": "2024-10-10",
-      "size": 28563166,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
-      "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     }
   ],
   "userInfo": {}

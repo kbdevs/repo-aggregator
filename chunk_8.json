@@ -4,6 +4,86 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "DarkNoise",
+      "type": 1,
+      "bundleID": "com.charliemchapman.dark-noise",
+      "bundleIdentifier": "com.charliemchapman.dark-noise",
+      "version": "3.4.3",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503161109",
+      "size": 178355138,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/DarkNoise_3.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/DarkNoise_3.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.charliemchapman.dark-noise.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.charliemchapman.dark-noise.png"
+    },
+    {
+      "name": "PeekWeather",
+      "type": 1,
+      "bundleID": "com.indiegoodies.Weather2",
+      "bundleIdentifier": "com.indiegoodies.Weather2",
+      "version": "1.4.1",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503155057",
+      "size": 227975607,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PeekWeather_1.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PeekWeather_1.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.indiegoodies.Weather2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.indiegoodies.Weather2.png"
+    },
+    {
+      "name": "Artistai",
+      "type": 1,
+      "bundleID": "com.livintis.aiartapp",
+      "bundleIdentifier": "com.livintis.aiartapp",
+      "version": "33",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503154047",
+      "size": 212138964,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Artistai_33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Artistai_33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.livintis.aiartapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.livintis.aiartapp.png"
+    },
+    {
+      "name": "Breathwrk",
+      "type": 1,
+      "bundleID": "com.breathwrk.ios",
+      "bundleIdentifier": "com.breathwrk.ios",
+      "version": "23.38",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503153538",
+      "size": 237901443,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Breathwrk_23.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Breathwrk_23.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png"
+    },
+    {
+      "name": "PhotoSwipe",
+      "type": 1,
+      "bundleID": "com.app.gallerycleaner",
+      "bundleIdentifier": "com.app.gallerycleaner",
+      "version": "6.0",
+      "versionDate": "2025-05-03",
+      "fullDate": "20250503151535",
+      "size": 3767709,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PhotoSwipe_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PhotoSwipe_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.gallerycleaner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.gallerycleaner.png"
+    },
+    {
       "name": "POV",
       "type": 1,
       "bundleID": "com.SixThree.POV",
@@ -98,6 +178,22 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
+    },
+    {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
     },
     {
       "name": "RashaqaWorkout",
@@ -530,22 +626,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png"
-    },
-    {
-      "name": "Carrot",
-      "type": 1,
-      "bundleID": "com.grailr.CARROTweather",
-      "bundleIdentifier": "com.grailr.CARROTweather",
-      "version": "6.2",
-      "versionDate": "2025-01-18",
-      "fullDate": "20250118110612",
-      "size": 246539271,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/Carrot_6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/Carrot_6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png"
     },
     {
       "name": "ShadowFight2",
@@ -3543,204 +3623,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1278",
       "formatedsize": "449.1 MB",
       "size": 470915481
-    },
-    {
-      "name": "Zombie Idle Defense (Hacked)",
-      "bundleIdentifier": "com.tdcgame.idle.zombie",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.tdcgame.idle.zombie\n\n Downloads: 272\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742205149.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422051468746532391.webp",
-        "https://apps.nabzclan.vip/screenshots/17422051470497610726.webp",
-        "https://apps.nabzclan.vip/screenshots/17422051471847356682.webp",
-        "https://apps.nabzclan.vip/screenshots/17422051473247385892.webp",
-        "https://apps.nabzclan.vip/screenshots/17422051474837812069.webp",
-        "https://apps.nabzclan.vip/screenshots/17422051480226111120.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.6.6",
-          "date": "2025-03-17 05:52:29",
-          "localizedDescription": "Current of Zombie Idle Defense (Hacked) - 2.6.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1277",
-          "size": 90806681
-        },
-        {
-          "version": "2.6.6",
-          "date": "2025-03-17 05:52:29",
-          "localizedDescription": "Old Version of Zombie Idle Defense (Hacked) - 2.6.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1277",
-          "size": 90806681
-        }
-      ],
-      "version": "2.6.6",
-      "versionDate": "2025-03-17 05:52:29",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1277",
-      "formatedsize": "86.6 MB",
-      "size": 90806681
-    },
-    {
-      "name": "Dino Bash - Defend & Fight (Hacked)",
-      "bundleIdentifier": "com.pokokostudio.dinobash",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.pokokostudio.dinobash\n\n Downloads: 28\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742204956.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422049558198688598.webp",
-        "https://apps.nabzclan.vip/screenshots/17422049559414069903.webp",
-        "https://apps.nabzclan.vip/screenshots/17422049565327642785.webp",
-        "https://apps.nabzclan.vip/screenshots/17422049566489396901.webp",
-        "https://apps.nabzclan.vip/screenshots/17422049567749680959.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.10.4",
-          "date": "2025-03-17 05:49:17",
-          "localizedDescription": "Current of Dino Bash - Defend & Fight (Hacked) - 1.10.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
-          "size": 91488256
-        },
-        {
-          "version": "1.10.4",
-          "date": "2025-03-17 05:49:17",
-          "localizedDescription": "Old Version of Dino Bash - Defend & Fight (Hacked) - 1.10.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
-          "size": 91488256
-        }
-      ],
-      "version": "1.10.4",
-      "versionDate": "2025-03-17 05:49:17",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
-      "formatedsize": "87.25 MB",
-      "size": 91488256
-    },
-    {
-      "name": "MovieBox Pro",
-      "bundleIdentifier": "com.xd.mbp31",
-      "developerName": "MovieBoxPro Team",
-      "subtitle": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV",
-      "localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.xd.mbp31\n\n Downloads: 1421\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1695111914.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16951119931899682.webp",
-        "https://apps.nabzclan.vip/screenshots/16951119949696379.webp",
-        "https://apps.nabzclan.vip/screenshots/16951119944857634.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "14.5",
-          "date": "2025-03-17 05:44:50",
-          "localizedDescription": "Current of MovieBox Pro - 14.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1275",
-          "size": 36071014
-        },
-        {
-          "version": "14.3",
-          "date": "2025-02-05 18:25:16",
-          "localizedDescription": "Old Version of MovieBox Pro - 14.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1199",
-          "size": 36008099
-        },
-        {
-          "version": "14.5",
-          "date": "2025-03-17 05:44:50",
-          "localizedDescription": "Old Version of MovieBox Pro - 14.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1275",
-          "size": 36071014
-        }
-      ],
-      "version": "14.5",
-      "versionDate": "2025-03-17 05:44:50",
-      "versionDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1275",
-      "formatedsize": "34.4 MB",
-      "size": 36071014
-    },
-    {
-      "name": "COD:BOZ- MOD",
-      "bundleIdentifier": "com.activision.callofduty.blackopszombies",
-      "developerName": "Nabzclan",
-      "subtitle": "Features:\r\n\r\n-unlimited money",
-      "localizedDescription": "Features:\r\n\r\n-unlimited money\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Removed from the AppStore\n\n BundleID: com.activision.callofduty.blackopszombies\n\n Downloads: 3911\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1704796458.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.5",
-          "date": "2025-03-17 05:36:18",
-          "localizedDescription": "Current of COD:BOZ- MOD - 1.3.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/354",
-          "size": 380538716
-        },
-        {
-          "version": "1.3.5",
-          "date": "2025-03-17 05:36:18",
-          "localizedDescription": "Old Version of COD:BOZ- MOD - 1.3.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/354",
-          "size": 380538716
-        }
-      ],
-      "version": "1.3.5",
-      "versionDate": "2025-03-17 05:36:18",
-      "versionDescription": "Features:\r\n\r\n-unlimited money",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/354",
-      "formatedsize": "362.91 MB",
-      "size": 380538716
-    },
-    {
-      "name": "BeReal (Hack)",
-      "bundleIdentifier": "AlexisBarreyat.BeReal",
-      "developerName": "yandevelop",
-      "subtitle": "- View BeReals without posting your own\r\n- Upload BeReals from the camera roll:\r\n-- Post on time, even if you're posting late\r\n-- Set a custom location\r\n-- Set a custom retake count\r\n-- Add what you're currently playing or add a song\r\n- Download BeReals",
-      "localizedDescription": "- View BeReals without posting your own\r\n- Upload BeReals from the camera roll:\r\n-- Post on time, even if you're posting late\r\n-- Set a custom location\r\n-- Set a custom retake count\r\n-- Add what you're currently playing or add a song\r\n- Download BeReals\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: AlexisBarreyat.BeReal\n\n Downloads: 258\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1689950837.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16899508365676981518.webp",
-        "https://apps.nabzclan.vip/screenshots/16899508369109947837.webp",
-        "https://apps.nabzclan.vip/screenshots/16899508369994816345.webp",
-        "https://apps.nabzclan.vip/screenshots/16899508371063740978.webp",
-        "https://apps.nabzclan.vip/screenshots/16899508372083629183.webp",
-        "https://apps.nabzclan.vip/screenshots/16899508373027196645.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.14.0",
-          "date": "2025-03-17 05:31:02",
-          "localizedDescription": "Current of BeReal (Hack) - 4.14.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1274",
-          "size": 99614720
-        },
-        {
-          "version": "4.14.0",
-          "date": "2025-03-17 05:31:02",
-          "localizedDescription": "Old Version of BeReal (Hack) - 4.14.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1274",
-          "size": 99614720
-        }
-      ],
-      "version": "4.14.0",
-      "versionDate": "2025-03-17 05:31:02",
-      "versionDescription": "- View BeReals without posting your own\r\n- Upload BeReals from the camera roll:\r\n-- Post on time, even if you're posting late\r\n-- Set a custom location\r\n-- Set a custom retake count\r\n-- Add what you're currently playing or add a song\r\n- Download BeReals",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1274",
-      "formatedsize": "95.0 MB",
-      "size": 99614720
     }
   ],
   "userInfo": {}
