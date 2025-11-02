@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "WebSSH",
+      "type": 1,
+      "bundleID": "com.itimeteo.webssh",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "30.4",
+      "versionDate": "2025-10-17",
+      "fullDate": "20251017130204",
+      "size": 55575088,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/WebSSH_30.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/WebSSH_30.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png"
+    },
+    {
+      "name": "Walli",
+      "type": 1,
+      "bundleID": "com.stanga.projectKu",
+      "bundleIdentifier": "com.stanga.projectKu",
+      "version": "1.94.0",
+      "versionDate": "2025-10-17",
+      "fullDate": "20251017130159",
+      "size": 131130195,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/Walli_1.94.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/Walli_1.94.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png"
+    },
+    {
+      "name": "AudioEditor",
+      "type": 1,
+      "bundleID": "com.hemin.mp3editor",
+      "bundleIdentifier": "com.hemin.mp3editor",
+      "version": "5.70",
+      "versionDate": "2025-10-17",
+      "fullDate": "20251017125654",
+      "size": 107609847,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/AudioEditor_5.70_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/AudioEditor_5.70_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png"
+    },
+    {
       "name": "PhotoCollagePublic",
       "type": 1,
       "bundleID": "com.reezo.RezooPipCam",
@@ -1092,22 +1140,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png"
     },
     {
-      "name": "Lifesum",
-      "type": 1,
-      "bundleID": "com.sillens.iShape",
-      "bundleIdentifier": "com.sillens.iShape",
-      "version": "22.1.0",
-      "versionDate": "2025-10-09",
-      "fullDate": "20251009013521",
-      "size": 130950596,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/Lifesum_22.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/Lifesum_22.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png"
-    },
-    {
       "name": "WaterMinder",
       "type": 1,
       "bundleID": "com.waterminder.waterminder",
@@ -1460,22 +1492,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png"
     },
     {
-      "name": "FitnessAI",
-      "type": 1,
-      "bundleID": "com.jakemor.firness-ai",
-      "bundleIdentifier": "com.jakemor.firness-ai",
-      "version": "14.3",
-      "versionDate": "2025-10-02",
-      "fullDate": "20251002131554",
-      "size": 147227987,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2025/FitnessAI_14.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2025/FitnessAI_14.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png"
-    },
-    {
       "name": "ChatbotAI",
       "type": 1,
       "bundleID": "com.talgat.AIChat",
@@ -1666,22 +1682,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png"
-    },
-    {
-      "name": "MyDexTCG",
-      "type": 1,
-      "bundleID": "com.albertomoral.PokedexTradingCards",
-      "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
-      "version": "1.7.0",
-      "versionDate": "2025-09-30",
-      "fullDate": "20250930102852",
-      "size": 19445019,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/MyDexTCG_1.7.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/MyDexTCG_1.7.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png"
     },
     {
       "name": "LoseWeightforMen",

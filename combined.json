@@ -870,6 +870,118 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "MyDexTCG",
+      "type": 1,
+      "bundleID": "com.albertomoral.PokedexTradingCards",
+      "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
+      "version": "1.7.3",
+      "versionDate": "2025-11-02",
+      "fullDate": "20251102035655",
+      "size": 20469121,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png"
+    },
+    {
+      "name": "Labbet",
+      "type": 1,
+      "bundleID": "app.labbet.labbet",
+      "bundleIdentifier": "app.labbet.labbet",
+      "version": "2.49",
+      "versionDate": "2025-11-02",
+      "fullDate": "20251102035649",
+      "size": 103355994,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/Labbet_2.49_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/Labbet_2.49_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
+    },
+    {
+      "name": "Tripsy",
+      "type": 1,
+      "bundleID": "app.tripsy.ios",
+      "bundleIdentifier": "app.tripsy.ios",
+      "version": "3.6.14",
+      "versionDate": "2025-11-02",
+      "fullDate": "20251102015130",
+      "size": 106934033,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/Tripsy_3.6.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/Tripsy_3.6.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
+    },
+    {
+      "name": "VSCO",
+      "type": 1,
+      "bundleID": "co.visualsupply.cam",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "version": "447.0.0",
+      "versionDate": "2025-11-02",
+      "fullDate": "20251102010114",
+      "size": 206607491,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/VSCO_447.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/VSCO_447.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
+    },
+    {
+      "name": "Lifesum",
+      "type": 1,
+      "bundleID": "com.sillens.iShape",
+      "bundleIdentifier": "com.sillens.iShape",
+      "version": "22.1.1",
+      "versionDate": "2025-11-01",
+      "fullDate": "20251101221542",
+      "size": 130997524,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Lifesum_22.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Lifesum_22.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png"
+    },
+    {
+      "name": "",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "9.2.3",
+      "versionDate": "2025-11-01",
+      "fullDate": "20251101171019",
+      "size": 159306796,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/_9.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/_9.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
+      "name": "FitnessAI",
+      "type": 1,
+      "bundleID": "com.jakemor.firness-ai",
+      "bundleIdentifier": "com.jakemor.firness-ai",
+      "version": "14.4",
+      "versionDate": "2025-11-01",
+      "fullDate": "20251101135003",
+      "size": 148654257,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/FitnessAI_14.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/FitnessAI_14.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png"
+    },
+    {
       "name": "Rolls",
       "type": 1,
       "bundleID": "rolls.tech.mindflick",
@@ -1126,22 +1238,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raktech.wallgenie.png"
     },
     {
-      "name": "Tripsy",
-      "type": 1,
-      "bundleID": "app.tripsy.ios",
-      "bundleIdentifier": "app.tripsy.ios",
-      "version": "3.6.12",
-      "versionDate": "2025-10-31",
-      "fullDate": "20251031230718",
-      "size": 106907612,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Tripsy_3.6.12_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Tripsy_3.6.12_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
-    },
-    {
       "name": "RiseSleep",
       "type": 1,
       "bundleID": "com.risesci.nyx",
@@ -1268,22 +1364,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoeditor.polish.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoeditor.polish.png"
-    },
-    {
-      "name": "",
-      "type": 1,
-      "bundleID": "com.intsig.CamScannerLite",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "7.4.6",
-      "versionDate": "2025-10-31",
-      "fullDate": "20251031083407",
-      "size": 188216572,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/_7.4.6_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/_7.4.6_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
     },
     {
       "name": "Tachimanga",
@@ -3350,22 +3430,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png"
     },
     {
-      "name": "Labbet",
-      "type": 1,
-      "bundleID": "app.labbet.labbet",
-      "bundleIdentifier": "app.labbet.labbet",
-      "version": "2.48",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025131730",
-      "size": 102830696,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2025/Labbet_2.48_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2025/Labbet_2.48_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
-    },
-    {
       "name": "SCRL",
       "type": 1,
       "bundleID": "com.dopedevelopment.Panels",
@@ -3764,22 +3828,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png"
-    },
-    {
-      "name": "VSCO",
-      "type": 1,
-      "bundleID": "co.visualsupply.cam",
-      "bundleIdentifier": "co.visualsupply.cam",
-      "version": "445.0.3",
-      "versionDate": "2025-10-23",
-      "fullDate": "20251023204850",
-      "size": 206456885,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/VSCO_445.0.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/VSCO_445.0.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
     },
     {
       "name": "Flo",
@@ -5830,22 +5878,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png"
     },
     {
-      "name": "Lifesum",
-      "type": 1,
-      "bundleID": "com.sillens.iShape",
-      "bundleIdentifier": "com.sillens.iShape",
-      "version": "22.1.0",
-      "versionDate": "2025-10-09",
-      "fullDate": "20251009013521",
-      "size": 130950596,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/Lifesum_22.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/Lifesum_22.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png"
-    },
-    {
       "name": "WaterMinder",
       "type": 1,
       "bundleID": "com.waterminder.waterminder",
@@ -6198,22 +6230,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png"
     },
     {
-      "name": "FitnessAI",
-      "type": 1,
-      "bundleID": "com.jakemor.firness-ai",
-      "bundleIdentifier": "com.jakemor.firness-ai",
-      "version": "14.3",
-      "versionDate": "2025-10-02",
-      "fullDate": "20251002131554",
-      "size": 147227987,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2025/FitnessAI_14.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2025/FitnessAI_14.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png"
-    },
-    {
       "name": "ChatbotAI",
       "type": 1,
       "bundleID": "com.talgat.AIChat",
@@ -6404,22 +6420,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png"
-    },
-    {
-      "name": "MyDexTCG",
-      "type": 1,
-      "bundleID": "com.albertomoral.PokedexTradingCards",
-      "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
-      "version": "1.7.0",
-      "versionDate": "2025-09-30",
-      "fullDate": "20250930102852",
-      "size": 19445019,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/MyDexTCG_1.7.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/MyDexTCG_1.7.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png"
     },
     {
       "name": "LoseWeightforMen",
@@ -10180,6 +10180,22 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
+    },
+    {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704082624",
+      "size": 176231919,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
     },
     {
       "name": "ReceiptLens",
@@ -14916,22 +14932,6 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
-    },
-    {
-      "name": "AndalusiDesign",
-      "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
     },
     {
       "name": "RashaqaWorkout",
@@ -33345,6 +33345,27 @@
         "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
       ],
       "versions": [
+        {
+          "version": "30761",
+          "date": "2025-11-01T10:38:22+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=30761",
+          "size": 135777160,
+          "sha256": "4e94781e2ae5e3e6ed03993661a6815710dd114e78e54bff06a37e20f7bb9f0e"
+        },
+        {
+          "version": "30750",
+          "date": "2025-11-01T04:36:54+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=30750",
+          "size": 135772818,
+          "sha256": "bdc054b2921a462e6626248df282c26834e413a22367ec0dc7ba09702276e473"
+        },
+        {
+          "version": "30735",
+          "date": "2025-11-01T02:03:52+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=30735",
+          "size": 135782869,
+          "sha256": "e719fd72b6747bc1d4e1f091dbdeaec9cfe12d6c8b9f04b9f060f3b387b4196c"
+        },
         {
           "version": "29764",
           "date": "2025-08-01T00:24:37+00:00",
