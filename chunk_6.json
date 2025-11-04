@@ -4,22 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
-      "name": "Sleep",
-      "type": 1,
-      "bundleID": "com.bendingspoonsapps.SleepHelp",
-      "bundleIdentifier": "com.bendingspoonsapps.SleepHelp",
-      "version": "2.7.16",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624120923",
-      "size": 42628049,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Sleep_2.7.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Sleep_2.7.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bendingspoonsapps.SleepHelp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bendingspoonsapps.SleepHelp.png"
-    },
-    {
       "name": "YogaWave",
       "type": 1,
       "bundleID": "com.flyingnayeem.yoga",
@@ -2002,6 +1986,22 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cookapps.bm.fortresssaga.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cookapps.bm.fortresssaga.png"
+    },
+    {
+      "name": "LegendofSurvivors",
+      "type": 2,
+      "bundleID": "com.abi.legendofsurvivors",
+      "bundleIdentifier": "com.abi.legendofsurvivors",
+      "version": "1.2.4",
+      "versionDate": "2025-06-02",
+      "fullDate": "20250602174957",
+      "size": 307700733,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/LegendofSurvivors_1.2.4_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/LegendofSurvivors_1.2.4_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abi.legendofsurvivors.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abi.legendofsurvivors.png"
     }
   ],
   "userInfo": {}
