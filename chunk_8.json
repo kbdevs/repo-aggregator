@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "WhatsApp",
+      "type": 1,
+      "bundleID": "net.whatsapp.WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "version": "25.12.73",
+      "versionDate": "2025-05-05",
+      "fullDate": "20250505151708",
+      "size": 119365705,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WhatsApp_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WhatsApp_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Watusi",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png"
+    },
+    {
       "name": "DarkNoise",
       "type": 1,
       "bundleID": "com.charliemchapman.dark-noise",
@@ -3584,45 +3600,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1280",
       "formatedsize": "149.3 MB",
       "size": 156552396
-    },
-    {
-      "name": "Touchgrind Skate 2 (Hacked)",
-      "bundleIdentifier": "se.illusionlabs.skate2",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: se.illusionlabs.skate2\n\n Downloads: 371\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742205390.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422053890902180127.webp",
-        "https://apps.nabzclan.vip/screenshots/17422053891714875978.webp",
-        "https://apps.nabzclan.vip/screenshots/17422053892371737209.webp",
-        "https://apps.nabzclan.vip/screenshots/17422053894044252901.webp",
-        "https://apps.nabzclan.vip/screenshots/17422053896827325366.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.0",
-          "date": "2025-03-17 05:56:30",
-          "localizedDescription": "Current of Touchgrind Skate 2 (Hacked) - 2.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1278",
-          "size": 470915481
-        },
-        {
-          "version": "2.1.0",
-          "date": "2025-03-17 05:56:30",
-          "localizedDescription": "Old Version of Touchgrind Skate 2 (Hacked) - 2.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1278",
-          "size": 470915481
-        }
-      ],
-      "version": "2.1.0",
-      "versionDate": "2025-03-17 05:56:30",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1278",
-      "formatedsize": "449.1 MB",
-      "size": 470915481
     }
   ],
   "userInfo": {}

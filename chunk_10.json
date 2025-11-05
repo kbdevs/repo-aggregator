@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Five Nights at Freddy's: SL",
+      "bundleIdentifier": "com.scottgames.sisterlocation",
+      "developerName": "CLICKTEAM LLC USA",
+      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 3 GB of RAM is required for this game to run properly.\r\n\r\nWelcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\r\n\r\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.",
+      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 3 GB of RAM is required for this game to run properly.\r\n\r\nWelcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\r\n\r\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.sisterlocation\n\n Downloads: 615\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731696159.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17316961570841966366.webp",
+        "https://apps.nabzclan.vip/screenshots/17316961582917078619.webp",
+        "https://apps.nabzclan.vip/screenshots/17316961583724811022.webp",
+        "https://apps.nabzclan.vip/screenshots/17316961584914891935.webp",
+        "https://apps.nabzclan.vip/screenshots/17316961585962833929.webp",
+        "https://apps.nabzclan.vip/screenshots/17316961586768729377.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.3",
+          "date": "2024-11-15 13:42:39",
+          "localizedDescription": "Current of Five Nights at Freddy's: SL - 2.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1017",
+          "size": 314048512
+        },
+        {
+          "version": "2.0.3",
+          "date": "2024-11-15 13:42:39",
+          "localizedDescription": "Old Version of Five Nights at Freddy's: SL - 2.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1017",
+          "size": 314048512
+        }
+      ],
+      "version": "2.0.3",
+      "versionDate": "2024-11-15 13:42:39",
+      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 3 GB of RAM is required for this game to run properly.\r\n\r\nWelcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\r\n\r\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1017",
+      "formatedsize": "299.5 MB",
+      "size": 314048512
+    },
+    {
       "name": "Doorman Story. Hotel simulator (Hack)",
       "bundleIdentifier": "com.rmg.hotelteam",
       "developerName": "Nabzclan",
@@ -1298,53 +1338,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/913",
       "formatedsize": "2.23 MB",
       "size": 2338324
-    },
-    {
-      "name": "Flacbox (Hack)",
-      "bundleIdentifier": "com.leshko.flap",
-      "developerName": "iapp",
-      "subtitle": "Features:\r\n-Cracked Premium",
-      "localizedDescription": "Features:\r\n-Cracked Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.leshko.flap\n\n Downloads: 561\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730594480.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17305944800555413264.webp",
-        "https://apps.nabzclan.vip/screenshots/17305944801375879667.webp",
-        "https://apps.nabzclan.vip/screenshots/17305944802349565475.webp",
-        "https://apps.nabzclan.vip/screenshots/17305944802794817525.webp",
-        "https://apps.nabzclan.vip/screenshots/17305944803148456482.webp",
-        "https://apps.nabzclan.vip/screenshots/17305944804694470890.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "6.0",
-          "date": "2024-11-06 14:20:37",
-          "localizedDescription": "Current of Flacbox (Hack) - 6.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/912",
-          "size": 49671045
-        },
-        {
-          "version": "5.8",
-          "date": "2024-11-03 04:41:20",
-          "localizedDescription": "Old Version of Flacbox (Hack) - 5.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/868",
-          "size": 160117555
-        },
-        {
-          "version": "6.0",
-          "date": "2024-11-06 14:20:37",
-          "localizedDescription": "Old Version of Flacbox (Hack) - 6.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/912",
-          "size": 49671045
-        }
-      ],
-      "version": "6.0",
-      "versionDate": "2024-11-06 14:20:37",
-      "versionDescription": "Features:\r\n-Cracked Premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/912",
-      "formatedsize": "47.37 MB",
-      "size": 49671045
     },
     {
       "name": "Waze (Hack)",
