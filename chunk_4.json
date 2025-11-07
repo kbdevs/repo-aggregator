@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "StretchingExercises",
+      "type": 1,
+      "bundleID": "com.abishkking.stretching",
+      "bundleIdentifier": "com.abishkking.stretching",
+      "version": "1.1.17",
+      "versionDate": "2025-09-28",
+      "fullDate": "20250928165920",
+      "size": 92511201,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/StretchingExercises_1.1.17_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/StretchingExercises_1.1.17_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png"
+    },
+    {
       "name": "Filtru",
       "type": 1,
       "bundleID": "com.przemyslawbobak.filtru",
@@ -786,22 +802,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png"
-    },
-    {
-      "name": "IPTVExpert",
-      "type": 1,
-      "bundleID": "com.iptv.player",
-      "bundleIdentifier": "com.iptv.player",
-      "version": "8.13.7",
-      "versionDate": "2025-09-05",
-      "fullDate": "20250905125236",
-      "size": 37812570,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/IPTVExpert_8.13.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/IPTVExpert_8.13.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png"
     },
     {
       "name": "GrowIt",

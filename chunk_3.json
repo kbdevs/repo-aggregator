@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Phoenix",
+      "type": 1,
+      "bundleID": "com.phoenix.motivationapp",
+      "bundleIdentifier": "com.phoenix.motivationapp",
+      "version": "2.1.23",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024011108",
+      "size": 24835203,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Phoenix_2.1.23_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Phoenix_2.1.23_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phoenix.motivationapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phoenix.motivationapp.png"
+    },
+    {
+      "name": "Wordscapes",
+      "type": 2,
+      "bundleID": "com.peoplefun.wordcross",
+      "bundleIdentifier": "com.peoplefun.wordcross",
+      "version": "3.5.1",
+      "versionDate": "2025-10-23",
+      "fullDate": "20251023224036",
+      "size": 198554340,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Wordscapes_3.5.1_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Wordscapes_3.5.1_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png"
+    },
+    {
+      "name": "AdobeFresco",
+      "type": 1,
+      "bundleID": "com.adobe.fresco.ios",
+      "bundleIdentifier": "com.adobe.fresco.ios",
+      "version": "7.0.0",
+      "versionDate": "2025-10-23",
+      "fullDate": "20251023222508",
+      "size": 763363622,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/AdobeFresco_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/AdobeFresco_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png"
+    },
+    {
       "name": "Flo",
       "type": 1,
       "bundleID": "org.iggymedia.periodtracker",
@@ -82,22 +130,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png"
-    },
-    {
-      "name": "CleanMyPhone",
-      "type": 1,
-      "bundleID": "com.macpaw.iosgemini",
-      "bundleIdentifier": "com.macpaw.iosgemini",
-      "version": "2.9.3",
-      "versionDate": "2025-10-23",
-      "fullDate": "20251023140624",
-      "size": 103351671,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/CleanMyPhone_2.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/CleanMyPhone_2.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.macpaw.iosgemini.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.macpaw.iosgemini.png"
     },
     {
       "name": "SoundLab",
@@ -1652,22 +1684,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.brushedtype.doppler-ios.png"
     },
     {
-      "name": "Phocus",
-      "type": 1,
-      "bundleID": "com.ahmetserdarkaradeniz.Phocus",
-      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
-      "version": "3.0.6",
-      "versionDate": "2025-10-04",
-      "fullDate": "20251004152322",
-      "size": 211676938,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2025/Phocus_3.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2025/Phocus_3.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png"
-    },
-    {
       "name": "Edith",
       "type": 1,
       "bundleID": "com.thenovik.Presets",
@@ -1986,22 +2002,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png"
-    },
-    {
-      "name": "StretchingExercises",
-      "type": 1,
-      "bundleID": "com.abishkking.stretching",
-      "bundleIdentifier": "com.abishkking.stretching",
-      "version": "1.1.17",
-      "versionDate": "2025-09-28",
-      "fullDate": "20250928165920",
-      "size": 92511201,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/StretchingExercises_1.1.17_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/StretchingExercises_1.1.17_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png"
     }
   ],
   "userInfo": {}
