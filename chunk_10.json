@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Backflip Madness 2",
+      "bundleIdentifier": "com.gamesoulstudio.Backflip-Madness-2",
+      "developerName": "Gamesoul Studio",
+      "subtitle": "Fast-paced, parkour-flavored extreme sports game. Your goal is simple - make tons of spectacular tricks and stunts. Take it to the extreme, again!\r\n\r\nThe long-awaited sequel has finally arrived! Backflip Madness 2 brings more thrills with enhanced graphics, realistic physics, smooth animations, and new features like fully explorable levels, character customization, multiplayer mode, and combo tricks. Dive into the ultimate parkour experience now and join the backflip revolution.",
+      "localizedDescription": "Fast-paced, parkour-flavored extreme sports game. Your goal is simple - make tons of spectacular tricks and stunts. Take it to the extreme, again!\r\n\r\nThe long-awaited sequel has finally arrived! Backflip Madness 2 brings more thrills with enhanced graphics, realistic physics, smooth animations, and new features like fully explorable levels, character customization, multiplayer mode, and combo tricks. Dive into the ultimate parkour experience now and join the backflip revolution.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.gamesoulstudio.Backflip-Madness-2\n\n Downloads: 460\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731698233.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17316982333572614125.webp",
+        "https://apps.nabzclan.vip/screenshots/17316982334317351526.webp",
+        "https://apps.nabzclan.vip/screenshots/17316982334824684066.webp",
+        "https://apps.nabzclan.vip/screenshots/17316982335286361873.webp",
+        "https://apps.nabzclan.vip/screenshots/17316982335755082332.webp",
+        "https://apps.nabzclan.vip/screenshots/17316982336242351930.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2024-11-15 14:17:13",
+          "localizedDescription": "Current of Backflip Madness 2 - 1.2.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1024",
+          "size": 31876710
+        },
+        {
+          "version": "1.2.1",
+          "date": "2024-11-15 14:17:13",
+          "localizedDescription": "Old Version of Backflip Madness 2 - 1.2.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1024",
+          "size": 31876710
+        }
+      ],
+      "version": "1.2.1",
+      "versionDate": "2024-11-15 14:17:13",
+      "versionDescription": "Fast-paced, parkour-flavored extreme sports game. Your goal is simple - make tons of spectacular tricks and stunts. Take it to the extreme, again!\r\n\r\nThe long-awaited sequel has finally arrived! Backflip Madness 2 brings more thrills with enhanced graphics, realistic physics, smooth animations, and new features like fully explorable levels, character customization, multiplayer mode, and combo tricks. Dive into the ultimate parkour experience now and join the backflip revolution.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1024",
+      "formatedsize": "30.4 MB",
+      "size": 31876710
+    },
+    {
       "name": "Cut the Rope 2",
       "bundleIdentifier": "com.zeptolab.ctr2",
       "developerName": "ZeptoLab UK Limited",
@@ -5089,46 +5129,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/324",
       "formatedsize": "199.04 MB",
       "size": 208708567
-    },
-    {
-      "name": "Five Nights at Freddy's",
-      "bundleIdentifier": "com.scottgames.fivenights",
-      "developerName": "You have the night watch",
-      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fivenights\n\n Downloads: 744\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700712724.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17007127192975787800.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127199266762380.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127200388103846.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127207544820062.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127240824586915.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127244313832330.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.3",
-          "date": "2023-11-23 04:12:04",
-          "localizedDescription": "Current of Five Nights at Freddy's - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-          "size": 106210263
-        },
-        {
-          "version": "2.0.3",
-          "date": "2023-11-23 04:12:04",
-          "localizedDescription": "Old Version of Five Nights at Freddy's - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-          "size": 106210263
-        }
-      ],
-      "version": "2.0.3",
-      "versionDate": "2023-11-23 04:12:04",
-      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-      "formatedsize": "101.29 MB",
-      "size": 106210263
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "MonokaiToolkitPro",
+      "type": 1,
+      "bundleID": "com.monokaitoolkit.pro",
+      "bundleIdentifier": "com.monokaitoolkit.pro",
+      "version": "1.2.6",
+      "versionDate": "2025-08-12",
+      "fullDate": "20250812012743",
+      "size": 42825257,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MonokaiToolkitPro_1.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MonokaiToolkitPro_1.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png"
+    },
+    {
       "name": "AdGuardPro",
       "type": 1,
       "bundleID": "com.adguard.AdguardPro",
@@ -1986,22 +2002,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png"
-    },
-    {
-      "name": "Imprint",
-      "type": 1,
-      "bundleID": "com.polywise.weekly",
-      "bundleIdentifier": "com.polywise.weekly",
-      "version": "4.8.5",
-      "versionDate": "2025-06-25",
-      "fullDate": "20250625162512",
-      "size": 88702834,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/Imprint_4.8.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/Imprint_4.8.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polywise.weekly.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polywise.weekly.png"
     }
   ],
   "userInfo": {}

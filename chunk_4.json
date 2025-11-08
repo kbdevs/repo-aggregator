@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Dropshare",
+      "type": 1,
+      "bundleID": "net.mkswap.Dropshare-iOS",
+      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+      "version": "3.56",
+      "versionDate": "2025-09-28",
+      "fullDate": "20250928215114",
+      "size": 66710468,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Dropshare_3.56_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Dropshare_3.56_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png"
+    },
+    {
+      "name": "StoryFont",
+      "type": 1,
+      "bundleID": "com.mfapp.storyFontEn",
+      "bundleIdentifier": "com.mfapp.storyFontEn",
+      "version": "3.1.7",
+      "versionDate": "2025-09-28",
+      "fullDate": "20250928211107",
+      "size": 40021540,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/StoryFont_3.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/StoryFont_3.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png"
+    },
+    {
+      "name": "ARMCPUZ",
+      "type": 1,
+      "bundleID": "com.benchu.ARMCPUZ",
+      "bundleIdentifier": "com.benchu.ARMCPUZ",
+      "version": "1.8.2",
+      "versionDate": "2025-09-28",
+      "fullDate": "20250928173952",
+      "size": 8585073,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png"
+    },
+    {
       "name": "StretchingExercises",
       "type": 1,
       "bundleID": "com.abishkking.stretching",
@@ -644,22 +692,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png"
     },
     {
-      "name": "Chatbot",
-      "type": 1,
-      "bundleID": "com.aichatbot.chatturbo.ios",
-      "bundleIdentifier": "com.aichatbot.chatturbo.ios",
-      "version": "1.3.0",
-      "versionDate": "2025-09-10",
-      "fullDate": "20250910155721",
-      "size": 43272584,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2025/Chatbot_1.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2025/Chatbot_1.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.chatturbo.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.chatturbo.ios.png"
-    },
-    {
       "name": "WolframAlpha",
       "type": 1,
       "bundleID": "com.wolframalpha.wolframalphaviewer",
@@ -994,22 +1026,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png"
-    },
-    {
-      "name": "ScannerAir",
-      "type": 1,
-      "bundleID": "co.airapps.scannerapp",
-      "bundleIdentifier": "co.airapps.scannerapp",
-      "version": "2025.8.3",
-      "versionDate": "2025-09-01",
-      "fullDate": "20250901065756",
-      "size": 100639491,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/ScannerAir_2025.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/ScannerAir_2025.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png"
     },
     {
       "name": "DeepGronkAI",
@@ -1986,22 +2002,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png"
-    },
-    {
-      "name": "MonokaiToolkitPro",
-      "type": 1,
-      "bundleID": "com.monokaitoolkit.pro",
-      "bundleIdentifier": "com.monokaitoolkit.pro",
-      "version": "1.2.6",
-      "versionDate": "2025-08-12",
-      "fullDate": "20250812012743",
-      "size": 42825257,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MonokaiToolkitPro_1.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MonokaiToolkitPro_1.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png"
     }
   ],
   "userInfo": {}

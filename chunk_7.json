@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "PokerHero",
+      "type": 2,
+      "bundleID": "com.gemini.dash.deck",
+      "bundleIdentifier": "com.gemini.dash.deck",
+      "version": "1.8.2",
+      "versionDate": "2025-06-04",
+      "fullDate": "20250604125729",
+      "size": 141948323,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/PokerHero_1.8.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/PokerHero_1.8.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gemini.dash.deck.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gemini.dash.deck.png"
+    },
+    {
       "name": "FontCandy",
       "type": 1,
       "bundleID": "com.aaronray.fontcandy",
@@ -1986,22 +2002,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.happymagenta.fromcore.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.happymagenta.fromcore.png"
-    },
-    {
-      "name": "myTunerRadio",
-      "type": 1,
-      "bundleID": "mobi.digitalminds.itunerfree",
-      "bundleIdentifier": "mobi.digitalminds.itunerfree",
-      "version": "9.5.7",
-      "versionDate": "2025-05-06",
-      "fullDate": "20250506190853",
-      "size": 79592337,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png"
     }
   ],
   "userInfo": {}
