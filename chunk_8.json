@@ -4,118 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "myTunerRadio",
-      "type": 1,
-      "bundleID": "mobi.digitalminds.itunerfree",
-      "bundleIdentifier": "mobi.digitalminds.itunerfree",
-      "version": "9.5.7",
-      "versionDate": "2025-05-06",
-      "fullDate": "20250506190853",
-      "size": 79592337,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png"
-    },
-    {
-      "name": "PREQUEL",
-      "type": 1,
-      "bundleID": "com.aiarlabs.prequel",
-      "bundleIdentifier": "com.aiarlabs.prequel",
-      "version": "2.69.0",
-      "versionDate": "2025-05-06",
-      "fullDate": "20250506141618",
-      "size": 200036691,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Satella",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
-    },
-    {
-      "name": "Pinterest",
-      "type": 1,
-      "bundleID": "pinterest",
-      "bundleIdentifier": "pinterest",
-      "version": "13.15",
-      "versionDate": "2025-05-06",
-      "fullDate": "20250506071416",
-      "size": 102527304,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with NoAds",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png"
-    },
-    {
-      "name": "Finch",
-      "type": 1,
-      "bundleID": "com.finch.finch",
-      "bundleIdentifier": "com.finch.finch",
-      "version": "3.73.15",
-      "versionDate": "2025-05-05",
-      "fullDate": "20250505161235",
-      "size": 167058066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Finch_3.73.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Finch_3.73.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finch.finch.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finch.finch.png"
-    },
-    {
-      "name": "WABusiness",
-      "type": 1,
-      "bundleID": "net.whatsapp.WhatsAppSMB",
-      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "version": "25.12.73",
-      "versionDate": "2025-05-05",
-      "fullDate": "20250505151712",
-      "size": 126593027,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WABusiness_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WABusiness_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Watusi",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png"
-    },
-    {
-      "name": "WhatsApp",
-      "type": 1,
-      "bundleID": "net.whatsapp.WhatsApp",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "25.12.73",
-      "versionDate": "2025-05-05",
-      "fullDate": "20250505151708",
-      "size": 119365705,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WhatsApp_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WhatsApp_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Watusi",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png"
-    },
-    {
-      "name": "DarkNoise",
-      "type": 1,
-      "bundleID": "com.charliemchapman.dark-noise",
-      "bundleIdentifier": "com.charliemchapman.dark-noise",
-      "version": "3.4.3",
-      "versionDate": "2025-05-03",
-      "fullDate": "20250503161109",
-      "size": 178355138,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/DarkNoise_3.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/DarkNoise_3.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.charliemchapman.dark-noise.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.charliemchapman.dark-noise.png"
-    },
-    {
       "name": "PeekWeather",
       "type": 1,
       "bundleID": "com.indiegoodies.Weather2",
@@ -3493,6 +3381,339 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1286",
       "formatedsize": "100.6 MB",
       "size": 105486745
+    },
+    {
+      "name": "Smash Hit (Hack 2)",
+      "bundleIdentifier": "com.mediocre.smashhit",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.mediocre.smashhit\n\n Downloads: 371\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1727748381.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17277483720418051070.webp",
+        "https://apps.nabzclan.vip/screenshots/17277483744221226178.webp",
+        "https://apps.nabzclan.vip/screenshots/17277483761984490137.webp",
+        "https://apps.nabzclan.vip/screenshots/17277483768565599880.webp",
+        "https://apps.nabzclan.vip/screenshots/17277483796396852159.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5.5",
+          "date": "2025-03-17 12:28:15",
+          "localizedDescription": "Current of Smash Hit (Hack 2) - 1.5.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1285",
+          "size": 59601059
+        },
+        {
+          "version": "1.5.3",
+          "date": "2024-12-20 16:16:06",
+          "localizedDescription": "Old Version of Smash Hit (Hack 2) - 1.5.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1109",
+          "size": 58856570
+        },
+        {
+          "version": "1.5.5",
+          "date": "2025-03-17 12:28:15",
+          "localizedDescription": "Old Version of Smash Hit (Hack 2) - 1.5.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1285",
+          "size": 59601059
+        }
+      ],
+      "version": "1.5.5",
+      "versionDate": "2025-03-17 12:28:15",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1285",
+      "formatedsize": "56.84 MB",
+      "size": 59601059
+    },
+    {
+      "name": "Outlets Rush (Hack)",
+      "bundleIdentifier": "com.corestudios.storemanagementidle",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
+      "localizedDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.corestudios.storemanagementidle\n\n Downloads: 299\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1726695722.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17266957174569103688.webp",
+        "https://apps.nabzclan.vip/screenshots/17266957180198775060.webp",
+        "https://apps.nabzclan.vip/screenshots/17266957199474273318.webp",
+        "https://apps.nabzclan.vip/screenshots/17266957201692594934.webp",
+        "https://apps.nabzclan.vip/screenshots/17266957221636565244.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.82.0",
+          "date": "2025-03-17 12:05:37",
+          "localizedDescription": "Current of Outlets Rush (Hack) - 1.82.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1283",
+          "size": 166377553
+        },
+        {
+          "version": "1.75.0",
+          "date": "2025-01-01 19:35:07",
+          "localizedDescription": "Old Version of Outlets Rush (Hack) - 1.75.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1160",
+          "size": 168925593
+        },
+        {
+          "version": "1.82.0",
+          "date": "2025-03-17 12:05:37",
+          "localizedDescription": "Old Version of Outlets Rush (Hack) - 1.82.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1283",
+          "size": 166377553
+        }
+      ],
+      "version": "1.82.0",
+      "versionDate": "2025-03-17 12:05:37",
+      "versionDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1283",
+      "formatedsize": "158.67 MB",
+      "size": 166377553
+    },
+    {
+      "name": "Flick Goal! (Hacked)",
+      "bundleIdentifier": "mobi.gameguru.flickgoal",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: mobi.gameguru.flickgoal\n\n Downloads: 137\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1742206504.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17422065036888620772.webp",
+        "https://apps.nabzclan.vip/screenshots/17422065038293521450.webp",
+        "https://apps.nabzclan.vip/screenshots/17422065039623010184.webp",
+        "https://apps.nabzclan.vip/screenshots/17422065040861684117.webp",
+        "https://apps.nabzclan.vip/screenshots/17422065042116739938.webp",
+        "https://apps.nabzclan.vip/screenshots/17422065043287427287.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.4",
+          "date": "2025-03-17 06:15:04",
+          "localizedDescription": "Current of Flick Goal! (Hacked) - 2.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1281",
+          "size": 169481338
+        },
+        {
+          "version": "2.0.4",
+          "date": "2025-03-17 06:15:04",
+          "localizedDescription": "Old Version of Flick Goal! (Hacked) - 2.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1281",
+          "size": 169481338
+        }
+      ],
+      "version": "2.0.4",
+      "versionDate": "2025-03-17 06:15:04",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1281",
+      "formatedsize": "161.63 MB",
+      "size": 169481338
+    },
+    {
+      "name": "Flip Runner (Hacked)",
+      "bundleIdentifier": "com.motionvolt.fliprunner",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.motionvolt.fliprunner\n\n Downloads: 129\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1742206292.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17422062912854802280.webp",
+        "https://apps.nabzclan.vip/screenshots/17422062922743342135.webp",
+        "https://apps.nabzclan.vip/screenshots/17422062924606102644.webp",
+        "https://apps.nabzclan.vip/screenshots/17422062926365125722.webp",
+        "https://apps.nabzclan.vip/screenshots/17422062927929293621.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.1.30",
+          "date": "2025-03-17 06:11:33",
+          "localizedDescription": "Current of Flip Runner (Hacked) - 3.1.30",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1280",
+          "size": 156552396
+        },
+        {
+          "version": "3.1.30",
+          "date": "2025-03-17 06:11:33",
+          "localizedDescription": "Old Version of Flip Runner (Hacked) - 3.1.30",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1280",
+          "size": 156552396
+        }
+      ],
+      "version": "3.1.30",
+      "versionDate": "2025-03-17 06:11:33",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1280",
+      "formatedsize": "149.3 MB",
+      "size": 156552396
+    },
+    {
+      "name": "Touchgrind Skate 2 (Hacked)",
+      "bundleIdentifier": "se.illusionlabs.skate2",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: se.illusionlabs.skate2\n\n Downloads: 371\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1742205390.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17422053890902180127.webp",
+        "https://apps.nabzclan.vip/screenshots/17422053891714875978.webp",
+        "https://apps.nabzclan.vip/screenshots/17422053892371737209.webp",
+        "https://apps.nabzclan.vip/screenshots/17422053894044252901.webp",
+        "https://apps.nabzclan.vip/screenshots/17422053896827325366.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1.0",
+          "date": "2025-03-17 05:56:30",
+          "localizedDescription": "Current of Touchgrind Skate 2 (Hacked) - 2.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1278",
+          "size": 470915481
+        },
+        {
+          "version": "2.1.0",
+          "date": "2025-03-17 05:56:30",
+          "localizedDescription": "Old Version of Touchgrind Skate 2 (Hacked) - 2.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1278",
+          "size": 470915481
+        }
+      ],
+      "version": "2.1.0",
+      "versionDate": "2025-03-17 05:56:30",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1278",
+      "formatedsize": "449.1 MB",
+      "size": 470915481
+    },
+    {
+      "name": "Zombie Idle Defense (Hacked)",
+      "bundleIdentifier": "com.tdcgame.idle.zombie",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.tdcgame.idle.zombie\n\n Downloads: 272\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1742205149.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17422051468746532391.webp",
+        "https://apps.nabzclan.vip/screenshots/17422051470497610726.webp",
+        "https://apps.nabzclan.vip/screenshots/17422051471847356682.webp",
+        "https://apps.nabzclan.vip/screenshots/17422051473247385892.webp",
+        "https://apps.nabzclan.vip/screenshots/17422051474837812069.webp",
+        "https://apps.nabzclan.vip/screenshots/17422051480226111120.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.6.6",
+          "date": "2025-03-17 05:52:29",
+          "localizedDescription": "Current of Zombie Idle Defense (Hacked) - 2.6.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1277",
+          "size": 90806681
+        },
+        {
+          "version": "2.6.6",
+          "date": "2025-03-17 05:52:29",
+          "localizedDescription": "Old Version of Zombie Idle Defense (Hacked) - 2.6.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1277",
+          "size": 90806681
+        }
+      ],
+      "version": "2.6.6",
+      "versionDate": "2025-03-17 05:52:29",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1277",
+      "formatedsize": "86.6 MB",
+      "size": 90806681
+    },
+    {
+      "name": "Dino Bash - Defend & Fight (Hacked)",
+      "bundleIdentifier": "com.pokokostudio.dinobash",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.pokokostudio.dinobash\n\n Downloads: 28\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1742204956.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17422049558198688598.webp",
+        "https://apps.nabzclan.vip/screenshots/17422049559414069903.webp",
+        "https://apps.nabzclan.vip/screenshots/17422049565327642785.webp",
+        "https://apps.nabzclan.vip/screenshots/17422049566489396901.webp",
+        "https://apps.nabzclan.vip/screenshots/17422049567749680959.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.10.4",
+          "date": "2025-03-17 05:49:17",
+          "localizedDescription": "Current of Dino Bash - Defend & Fight (Hacked) - 1.10.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
+          "size": 91488256
+        },
+        {
+          "version": "1.10.4",
+          "date": "2025-03-17 05:49:17",
+          "localizedDescription": "Old Version of Dino Bash - Defend & Fight (Hacked) - 1.10.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
+          "size": 91488256
+        }
+      ],
+      "version": "1.10.4",
+      "versionDate": "2025-03-17 05:49:17",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
+      "formatedsize": "87.25 MB",
+      "size": 91488256
+    },
+    {
+      "name": "MovieBox Pro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName": "MovieBoxPro Team",
+      "subtitle": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV",
+      "localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.xd.mbp31\n\n Downloads: 1421\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1695111914.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16951119931899682.webp",
+        "https://apps.nabzclan.vip/screenshots/16951119949696379.webp",
+        "https://apps.nabzclan.vip/screenshots/16951119944857634.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "14.5",
+          "date": "2025-03-17 05:44:50",
+          "localizedDescription": "Current of MovieBox Pro - 14.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1275",
+          "size": 36071014
+        },
+        {
+          "version": "14.3",
+          "date": "2025-02-05 18:25:16",
+          "localizedDescription": "Old Version of MovieBox Pro - 14.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1199",
+          "size": 36008099
+        },
+        {
+          "version": "14.5",
+          "date": "2025-03-17 05:44:50",
+          "localizedDescription": "Old Version of MovieBox Pro - 14.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1275",
+          "size": 36071014
+        }
+      ],
+      "version": "14.5",
+      "versionDate": "2025-03-17 05:44:50",
+      "versionDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1275",
+      "formatedsize": "34.4 MB",
+      "size": 36071014
     }
   ],
   "userInfo": {}

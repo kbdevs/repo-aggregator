@@ -4,22 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
-      "name": "AlfredCamera",
-      "type": 1,
-      "bundleID": "com.kalavision.alfred",
-      "bundleIdentifier": "com.kalavision.alfred",
-      "version": "2025.22.0",
-      "versionDate": "2025-10-24",
-      "fullDate": "20251024185924",
-      "size": 124855068,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/AlfredCamera_2025.22.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/AlfredCamera_2025.22.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png"
-    },
-    {
       "name": "Euforia",
       "type": 1,
       "bundleID": "digital.euforia",
@@ -1108,22 +1092,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.mockup.png"
     },
     {
-      "name": "FELFishEyeLens",
-      "type": 1,
-      "bundleID": "com.phantom.fantengmu",
-      "bundleIdentifier": "com.phantom.fantengmu",
-      "version": "2.0.25",
-      "versionDate": "2025-10-13",
-      "fullDate": "20251013210414",
-      "size": 76121283,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-10-2025/FELFishEyeLens_2.0.25_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-10-2025/FELFishEyeLens_2.0.25_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png"
-    },
-    {
       "name": "Clipboard",
       "type": 1,
       "bundleID": "com.zeus.EasyCopy",
@@ -2002,6 +1970,54 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png"
+    },
+    {
+      "name": "Dropshare",
+      "type": 1,
+      "bundleID": "net.mkswap.Dropshare-iOS",
+      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+      "version": "3.56",
+      "versionDate": "2025-09-28",
+      "fullDate": "20250928215114",
+      "size": 66710468,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Dropshare_3.56_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Dropshare_3.56_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png"
+    },
+    {
+      "name": "StoryFont",
+      "type": 1,
+      "bundleID": "com.mfapp.storyFontEn",
+      "bundleIdentifier": "com.mfapp.storyFontEn",
+      "version": "3.1.7",
+      "versionDate": "2025-09-28",
+      "fullDate": "20250928211107",
+      "size": 40021540,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/StoryFont_3.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/StoryFont_3.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png"
+    },
+    {
+      "name": "ARMCPUZ",
+      "type": 1,
+      "bundleID": "com.benchu.ARMCPUZ",
+      "bundleIdentifier": "com.benchu.ARMCPUZ",
+      "version": "1.8.2",
+      "versionDate": "2025-09-28",
+      "fullDate": "20250928173952",
+      "size": 8585073,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png"
     }
   ],
   "userInfo": {}

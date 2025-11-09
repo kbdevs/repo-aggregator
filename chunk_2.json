@@ -4,20 +4,52 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
-      "name": "X",
+      "name": "SleepCycle",
       "type": 1,
-      "bundleID": "com.atebits.Tweetie2",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "11.36",
+      "bundleID": "com.lexwarelabs.goodmorning",
+      "bundleIdentifier": "com.lexwarelabs.goodmorning",
+      "version": "6.25.43",
       "versionDate": "2025-11-03",
-      "fullDate": "20251103213337",
-      "size": 164584118,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/X_11.36_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/X_11.36_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "fullDate": "20251103213855",
+      "size": 309362942,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/SleepCycle_6.25.43_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/SleepCycle_6.25.43_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png"
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png"
+    },
+    {
+      "name": "Yazio",
+      "type": 1,
+      "bundleID": "com.yazio.ios.YAZIO",
+      "bundleIdentifier": "com.yazio.ios.YAZIO",
+      "version": "12.57.0",
+      "versionDate": "2025-11-03",
+      "fullDate": "20251103213347",
+      "size": 118310634,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Yazio_12.57.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Yazio_12.57.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png"
+    },
+    {
+      "name": "Truecaller",
+      "type": 1,
+      "bundleID": "com.truesoftware.TrueCallerOther",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "version": "14.41.5",
+      "versionDate": "2025-11-03",
+      "fullDate": "20251103213343",
+      "size": 79000268,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Truecaller_14.41.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Truecaller_14.41.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png"
     },
     {
       "name": "GALATEA",
@@ -418,22 +450,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
-    },
-    {
-      "name": "Tripsy",
-      "type": 1,
-      "bundleID": "app.tripsy.ios",
-      "bundleIdentifier": "app.tripsy.ios",
-      "version": "3.6.14",
-      "versionDate": "2025-11-02",
-      "fullDate": "20251102015130",
-      "size": 106934033,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/Tripsy_3.6.14_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/Tripsy_3.6.14_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
     },
     {
       "name": "VSCO",
@@ -1908,22 +1924,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beelinguapp.beelinguapp.png"
     },
     {
-      "name": "SODA",
-      "type": 1,
-      "bundleID": "com.snowcorp.soda",
-      "bundleIdentifier": "com.snowcorp.soda",
-      "version": "9.5.1",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025131739",
-      "size": 141172614,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2025/SODA_9.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2025/SODA_9.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png"
-    },
-    {
       "name": "SCRL",
       "type": 1,
       "bundleID": "com.dopedevelopment.Panels",
@@ -2002,6 +2002,22 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+    },
+    {
+      "name": "AlfredCamera",
+      "type": 1,
+      "bundleID": "com.kalavision.alfred",
+      "bundleIdentifier": "com.kalavision.alfred",
+      "version": "2025.22.0",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024185924",
+      "size": 124855068,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/AlfredCamera_2025.22.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/AlfredCamera_2025.22.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png"
     }
   ],
   "userInfo": {}
