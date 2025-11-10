@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "VideoShow",
+      "type": 1,
+      "bundleID": "com.enjoy.VideoShow",
+      "bundleIdentifier": "com.enjoy.VideoShow",
+      "version": "5.10.130",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024192005",
+      "size": 253328694,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/VideoShow_5.10.130_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/VideoShow_5.10.130_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png"
+    },
+    {
+      "name": "SixPackAbsAbsWorkout",
+      "type": 1,
+      "bundleID": "com.abishkking.sixpack",
+      "bundleIdentifier": "com.abishkking.sixpack",
+      "version": "1.40.0",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024191448",
+      "size": 397050192,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/SixPackAbsAbsWorkout_1.40.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/SixPackAbsAbsWorkout_1.40.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+    },
+    {
+      "name": "AlfredCamera",
+      "type": 1,
+      "bundleID": "com.kalavision.alfred",
+      "bundleIdentifier": "com.kalavision.alfred",
+      "version": "2025.22.0",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024185924",
+      "size": 124855068,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/AlfredCamera_2025.22.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/AlfredCamera_2025.22.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png"
+    },
+    {
       "name": "Euforia",
       "type": 1,
       "bundleID": "digital.euforia",
@@ -66,22 +114,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png"
-    },
-    {
-      "name": "Trace",
-      "type": 1,
-      "bundleID": "com.morpholioapps.trace",
-      "bundleIdentifier": "com.morpholioapps.trace",
-      "version": "6.76",
-      "versionDate": "2025-10-24",
-      "fullDate": "20251024021135",
-      "size": 386842379,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Trace_6.76_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Trace_6.76_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.morpholioapps.trace.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.morpholioapps.trace.png"
     },
     {
       "name": "MetadataEditor",
@@ -162,22 +194,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png"
-    },
-    {
-      "name": "Flo",
-      "type": 1,
-      "bundleID": "org.iggymedia.periodtracker",
-      "bundleIdentifier": "org.iggymedia.periodtracker",
-      "version": "9.90.0",
-      "versionDate": "2025-10-23",
-      "fullDate": "20251023201339",
-      "size": 123167818,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Flo_9.90.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Flo_9.90.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png"
     },
     {
       "name": "Leto",
@@ -2002,22 +2018,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png"
-    },
-    {
-      "name": "ARMCPUZ",
-      "type": 1,
-      "bundleID": "com.benchu.ARMCPUZ",
-      "bundleIdentifier": "com.benchu.ARMCPUZ",
-      "version": "1.8.2",
-      "versionDate": "2025-09-28",
-      "fullDate": "20250928173952",
-      "size": 8585073,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png"
     }
   ],
   "userInfo": {}
