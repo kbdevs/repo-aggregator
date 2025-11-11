@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "MovieBox Pro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName": "MovieBoxPro Team",
+      "subtitle": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV",
+      "localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.xd.mbp31\n\n Downloads: 1421\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1695111914.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16951119931899682.webp",
+        "https://apps.nabzclan.vip/screenshots/16951119949696379.webp",
+        "https://apps.nabzclan.vip/screenshots/16951119944857634.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "14.5",
+          "date": "2025-03-17 05:44:50",
+          "localizedDescription": "Current of MovieBox Pro - 14.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1275",
+          "size": 36071014
+        },
+        {
+          "version": "14.3",
+          "date": "2025-02-05 18:25:16",
+          "localizedDescription": "Old Version of MovieBox Pro - 14.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1199",
+          "size": 36008099
+        },
+        {
+          "version": "14.5",
+          "date": "2025-03-17 05:44:50",
+          "localizedDescription": "Old Version of MovieBox Pro - 14.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1275",
+          "size": 36071014
+        }
+      ],
+      "version": "14.5",
+      "versionDate": "2025-03-17 05:44:50",
+      "versionDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1275",
+      "formatedsize": "34.4 MB",
+      "size": 36071014
+    },
+    {
       "name": "COD:BOZ- MOD",
       "bundleIdentifier": "com.activision.callofduty.blackopszombies",
       "developerName": "Nabzclan",
@@ -5248,45 +5292,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1000",
       "formatedsize": "131.86 MB",
       "size": 138265231
-    },
-    {
-      "name": "Goat Simulator MMO Simulator",
-      "bundleIdentifier": "com.coffeestainstudios.goatmmo",
-      "developerName": "Coffee Stain Publishing",
-      "subtitle": "Coffee Stain Studios brings next-gen Goat MMO simulation to mobile devices. You no longer have to fantasize about being a simulated goat in a simulated MMO, your dreams have finally come true!\r\n\r\nFeatures\r\n* Five different classes: Warrior, Rouge, Magician, Hunter and Microwave \r\n* Complete dozens of quests, level up a hundred times and play five different classes that\u2019s a ton of content you do the math\r\n* Level cap is 101, 1 level higher than you-know-what\r\n* There are even elves and dwarves like in that movie\r\n* Stay a while and listen to Dumblebore the Grey in Twistram",
-      "localizedDescription": "Coffee Stain Studios brings next-gen Goat MMO simulation to mobile devices. You no longer have to fantasize about being a simulated goat in a simulated MMO, your dreams have finally come true!\r\n\r\nFeatures\r\n* Five different classes: Warrior, Rouge, Magician, Hunter and Microwave \r\n* Complete dozens of quests, level up a hundred times and play five different classes that\u2019s a ton of content you do the math\r\n* Level cap is 101, 1 level higher than you-know-what\r\n* There are even elves and dwarves like in that movie\r\n* Stay a while and listen to Dumblebore the Grey in Twistram\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.coffeestainstudios.goatmmo\n\n Downloads: 499\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731388159.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17313881588875743306.webp",
-        "https://apps.nabzclan.vip/screenshots/17313881590202427673.webp",
-        "https://apps.nabzclan.vip/screenshots/17313881591301789434.webp",
-        "https://apps.nabzclan.vip/screenshots/17313881592123984050.webp",
-        "https://apps.nabzclan.vip/screenshots/17313881592863539126.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.8",
-          "date": "2024-11-12 00:09:19",
-          "localizedDescription": "Current of Goat Simulator MMO Simulator - 2.0.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/995",
-          "size": 818623283
-        },
-        {
-          "version": "2.0.8",
-          "date": "2024-11-12 00:09:19",
-          "localizedDescription": "Old Version of Goat Simulator MMO Simulator - 2.0.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/995",
-          "size": 818623283
-        }
-      ],
-      "version": "2.0.8",
-      "versionDate": "2024-11-12 00:09:19",
-      "versionDescription": "Coffee Stain Studios brings next-gen Goat MMO simulation to mobile devices. You no longer have to fantasize about being a simulated goat in a simulated MMO, your dreams have finally come true!\r\n\r\nFeatures\r\n* Five different classes: Warrior, Rouge, Magician, Hunter and Microwave \r\n* Complete dozens of quests, level up a hundred times and play five different classes that\u2019s a ton of content you do the math\r\n* Level cap is 101, 1 level higher than you-know-what\r\n* There are even elves and dwarves like in that movie\r\n* Stay a while and listen to Dumblebore the Grey in Twistram",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/995",
-      "formatedsize": "780.7 MB",
-      "size": 818623283
     }
   ],
   "userInfo": {}

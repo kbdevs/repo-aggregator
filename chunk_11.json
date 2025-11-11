@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "PAC-MAN (Hack)",
+      "bundleIdentifier": "com.namconetworks.pacmanlite",
+      "developerName": "nabzclan",
+      "subtitle": "Injected with UnlimitedHackes.",
+      "localizedDescription": "Injected with UnlimitedHackes.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.namconetworks.pacmanlite\n\n Downloads: 141\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699837151.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998371455249565189.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371469909074699.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371480447343966.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371481896508373.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371500346566352.webp",
+        "https://apps.nabzclan.vip/screenshots/16998371504262285771.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "11.3.3",
+          "date": "2023-11-13 00:59:11",
+          "localizedDescription": "Current of PAC-MAN (Hack) - 11.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
+          "size": 155503820
+        },
+        {
+          "version": "11.3.3",
+          "date": "2023-11-13 00:59:11",
+          "localizedDescription": "Old Version of PAC-MAN (Hack) - 11.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/292",
+          "size": 155503820
+        }
+      ],
+      "version": "11.3.3",
+      "versionDate": "2023-11-13 00:59:11",
+      "versionDescription": "Injected with UnlimitedHackes.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/292",
+      "formatedsize": "148.30 MB",
+      "size": 155503820
+    },
+    {
       "name": "iSH",
       "bundleIdentifier": "app.ish.iSH",
       "developerName": "iSH Team",
@@ -2094,17 +2134,6 @@
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
       "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
-    },
-    {
-      "name": "MatterPremium",
-      "bundleIdentifier": "com.Matter.MatterApp",
-      "version": "3.1.4",
-      "versionDate": "2024-10-09",
-      "size": 83875186,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
     }
   ],
   "userInfo": {}
