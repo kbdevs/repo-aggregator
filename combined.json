@@ -870,6 +870,374 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "Dropshare",
+      "type": 1,
+      "bundleID": "net.mkswap.Dropshare-iOS",
+      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+      "version": "3.57",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112050901",
+      "size": 69888171,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Dropshare_3.57_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Dropshare_3.57_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png"
+    },
+    {
+      "name": "Shapr3D",
+      "type": 1,
+      "bundleID": "com.shapr3d.shapr",
+      "bundleIdentifier": "com.shapr3d.shapr",
+      "version": "5.990.0",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112050323",
+      "size": 1166427286,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Shapr3D_5.990.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Shapr3D_5.990.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png"
+    },
+    {
+      "name": "Lingokids",
+      "type": 1,
+      "bundleID": "es.monkimun.lingokids",
+      "bundleIdentifier": "es.monkimun.lingokids",
+      "version": "25.45.0",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112044317",
+      "size": 92065789,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Lingokids_25.45.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Lingokids_25.45.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/es.monkimun.lingokids.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/es.monkimun.lingokids.png"
+    },
+    {
+      "name": "PlaneFinder",
+      "type": 1,
+      "bundleID": "uk.co.leeus.planefinderfree",
+      "bundleIdentifier": "uk.co.leeus.planefinderfree",
+      "version": "2025.5.4",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112044310",
+      "size": 113837985,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/PlaneFinder_2025.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/PlaneFinder_2025.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png"
+    },
+    {
+      "name": "Threads",
+      "type": 1,
+      "bundleID": "com.burbn.barcelona",
+      "bundleIdentifier": "com.burbn.barcelona",
+      "version": "406.0.0",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112044306",
+      "size": 70020487,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Threads_406.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Threads_406.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png"
+    },
+    {
+      "name": "Tarteel",
+      "type": 1,
+      "bundleID": "com.iqraapp.Iqra",
+      "bundleIdentifier": "com.iqraapp.Iqra",
+      "version": "5.68.5",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112043800",
+      "size": 111792866,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Tarteel_5.68.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Tarteel_5.68.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png"
+    },
+    {
+      "name": "MyScriptNotes",
+      "type": 1,
+      "bundleID": "com.myscript.nebo",
+      "bundleIdentifier": "com.myscript.nebo",
+      "version": "7.0.8",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112043753",
+      "size": 117406687,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/MyScriptNotes_7.0.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/MyScriptNotes_7.0.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png"
+    },
+    {
+      "name": "YouTubeMusic",
+      "type": 1,
+      "bundleID": "com.google.ios.youtubemusic",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "version": "8.45.3",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112043248",
+      "size": 97852147,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/YouTubeMusic_8.45.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/YouTubeMusic_8.45.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png"
+    },
+    {
+      "name": "SNOW",
+      "type": 1,
+      "bundleID": "com.campmobile.snow",
+      "bundleIdentifier": "com.campmobile.snow",
+      "version": "14.6.1",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112043243",
+      "size": 135702300,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/SNOW_14.6.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/SNOW_14.6.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png"
+    },
+    {
+      "name": "Buddy",
+      "type": 1,
+      "bundleID": "com.iPwners.Plonkan",
+      "bundleIdentifier": "com.iPwners.Plonkan",
+      "version": "13.8",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112042737",
+      "size": 74313099,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Buddy_13.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Buddy_13.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png"
+    },
+    {
+      "name": "PeakVisor",
+      "type": 1,
+      "bundleID": "ru.routes.peakvisor",
+      "bundleIdentifier": "ru.routes.peakvisor",
+      "version": "5.69",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112032727",
+      "size": 109535470,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/PeakVisor_5.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/PeakVisor_5.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+    },
+    {
+      "name": "TikTok",
+      "type": 1,
+      "bundleID": "com.zhiliaoapp.musically",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "42.5.0",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112021701",
+      "size": 393560755,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/TikTok_42.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/TikTok_42.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
+      "name": "MyFitnessPal",
+      "type": 1,
+      "bundleID": "com.myfitnesspal.mfp",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "version": "25.45.0",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112015153",
+      "size": 129202849,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/MyFitnessPal_25.45.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/MyFitnessPal_25.45.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
+    },
+    {
+      "name": "Phocus",
+      "type": 1,
+      "bundleID": "com.ahmetserdarkaradeniz.Phocus",
+      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
+      "version": "3.0.8",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112005639",
+      "size": 211811329,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Phocus_3.0.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/Phocus_3.0.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png"
+    },
+    {
+      "name": "SkyGuide",
+      "type": 1,
+      "bundleID": "com.fifthstarlabs.skyguide",
+      "bundleIdentifier": "com.fifthstarlabs.skyguide",
+      "version": "12.0.7",
+      "versionDate": "2025-11-12",
+      "fullDate": "20251112005626",
+      "size": 268913276,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/SkyGuide_12.0.7_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2025/SkyGuide_12.0.7_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png"
+    },
+    {
+      "name": "Duolingo",
+      "type": 1,
+      "bundleID": "com.duolingo.DuolingoMobile",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "version": "7.99.0",
+      "versionDate": "2025-11-11",
+      "fullDate": "20251111233612",
+      "size": 191888682,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/Duolingo_7.99.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/Duolingo_7.99.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png"
+    },
+    {
+      "name": "SCRL",
+      "type": 1,
+      "bundleID": "com.dopedevelopment.Panels",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "version": "9.20.1",
+      "versionDate": "2025-11-11",
+      "fullDate": "20251111181535",
+      "size": 91414017,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/SCRL_9.20.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/SCRL_9.20.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png"
+    },
+    {
+      "name": "KineMaster",
+      "type": 1,
+      "bundleID": "com.kinemaster.kios",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "version": "8.0.4",
+      "versionDate": "2025-11-11",
+      "fullDate": "20251111134012",
+      "size": 117860785,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/KineMaster_8.0.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/KineMaster_8.0.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
+    },
+    {
+      "name": "Foodie",
+      "type": 1,
+      "bundleID": "com.linecorp.Foodie",
+      "bundleIdentifier": "com.linecorp.Foodie",
+      "version": "7.4.1",
+      "versionDate": "2025-11-11",
+      "fullDate": "20251111134007",
+      "size": 135991432,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/Foodie_7.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/Foodie_7.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.Foodie.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.Foodie.png"
+    },
+    {
+      "name": "YouCut",
+      "type": 1,
+      "bundleID": "com.shantanu.YouCut",
+      "bundleIdentifier": "com.shantanu.YouCut",
+      "version": "1.26.1",
+      "versionDate": "2025-11-11",
+      "fullDate": "20251111124500",
+      "size": 82745656,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/YouCut_1.26.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/YouCut_1.26.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png"
+    },
+    {
+      "name": "PlantApp",
+      "type": 1,
+      "bundleID": "com.scaleup.plantid",
+      "bundleIdentifier": "com.scaleup.plantid",
+      "version": "3.2.5",
+      "versionDate": "2025-11-11",
+      "fullDate": "20251111121955",
+      "size": 90759194,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/PlantApp_3.2.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/PlantApp_3.2.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png"
+    },
+    {
+      "name": "NeoServer",
+      "type": 1,
+      "bundleID": "com.neo.NeoMan",
+      "bundleIdentifier": "com.neo.NeoMan",
+      "version": "7.9.9",
+      "versionDate": "2025-11-11",
+      "fullDate": "20251111083941",
+      "size": 22063191,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/NeoServer_7.9.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/NeoServer_7.9.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png"
+    },
+    {
+      "name": "YouTubeOLED",
+      "type": 1,
+      "bundleID": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "20.45.3",
+      "versionDate": "2025-11-11",
+      "fullDate": "20251111070931",
+      "size": 128972746,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/YouTubeOLED_20.45.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/YouTubeOLED_20.45.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png"
+    },
+    {
       "name": "BeautyPlus",
       "type": 1,
       "bundleID": "com.commsource.BeautyPlus",
@@ -932,22 +1300,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mindsethealth.ibs.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mindsethealth.ibs.png"
-    },
-    {
-      "name": "MyScriptNotes",
-      "type": 1,
-      "bundleID": "com.myscript.nebo",
-      "bundleIdentifier": "com.myscript.nebo",
-      "version": "7.0.7",
-      "versionDate": "2025-11-11",
-      "fullDate": "20251111051351",
-      "size": 117366211,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/MyScriptNotes_7.0.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/MyScriptNotes_7.0.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png"
     },
     {
       "name": "Noteshelf3",
@@ -1412,22 +1764,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png"
-    },
-    {
-      "name": "SCRL",
-      "type": 1,
-      "bundleID": "com.dopedevelopment.Panels",
-      "bundleIdentifier": "com.dopedevelopment.Panels",
-      "version": "9.20",
-      "versionDate": "2025-11-11",
-      "fullDate": "20251111023921",
-      "size": 91191487,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/SCRL_9.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/SCRL_9.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png"
     },
     {
       "name": "SnoreLab",
@@ -1942,22 +2278,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png"
     },
     {
-      "name": "SNOW",
-      "type": 1,
-      "bundleID": "com.campmobile.snow",
-      "bundleIdentifier": "com.campmobile.snow",
-      "version": "14.6.0",
-      "versionDate": "2025-11-07",
-      "fullDate": "20251107171501",
-      "size": 135703377,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2025/SNOW_14.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2025/SNOW_14.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png"
-    },
-    {
       "name": "Chatbot",
       "type": 1,
       "bundleID": "com.aichatbot.chatturbo.ios",
@@ -2214,22 +2534,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
-      "name": "Phocus",
-      "type": 1,
-      "bundleID": "com.ahmetserdarkaradeniz.Phocus",
-      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
-      "version": "3.0.7",
-      "versionDate": "2025-11-06",
-      "fullDate": "20251106164128",
-      "size": 211811262,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Phocus_3.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Phocus_3.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png"
-    },
-    {
       "name": "GOWOD",
       "type": 1,
       "bundleID": "eu.gowod",
@@ -2276,22 +2580,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png"
-    },
-    {
-      "name": "SkyGuide",
-      "type": 1,
-      "bundleID": "com.fifthstarlabs.skyguide",
-      "bundleIdentifier": "com.fifthstarlabs.skyguide",
-      "version": "12.0.6",
-      "versionDate": "2025-11-06",
-      "fullDate": "20251106083017",
-      "size": 278586329,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/SkyGuide_12.0.6_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/SkyGuide_12.0.6_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png"
     },
     {
       "name": "Tachimanga",
@@ -2742,38 +3030,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png"
     },
     {
-      "name": "Buddy",
-      "type": 1,
-      "bundleID": "com.iPwners.Plonkan",
-      "bundleIdentifier": "com.iPwners.Plonkan",
-      "version": "13.7",
-      "versionDate": "2025-11-05",
-      "fullDate": "20251105133747",
-      "size": 68459356,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/Buddy_13.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/Buddy_13.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png"
-    },
-    {
-      "name": "YouTubeOLED",
-      "type": 1,
-      "bundleID": "com.google.ios.youtube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "version": "20.44.2",
-      "versionDate": "2025-11-05",
-      "fullDate": "20251105125738",
-      "size": 131130423,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/YouTubeOLED_20.44.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/YouTubeOLED_20.44.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png"
-    },
-    {
       "name": "VivaCut",
       "type": 1,
       "bundleID": "com.vivacut.videoeditor",
@@ -2838,22 +3094,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png"
     },
     {
-      "name": "MyFitnessPal",
-      "type": 1,
-      "bundleID": "com.myfitnesspal.mfp",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "version": "25.44.0",
-      "versionDate": "2025-11-05",
-      "fullDate": "20251105014102",
-      "size": 129107397,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/MyFitnessPal_25.44.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/MyFitnessPal_25.44.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
-    },
-    {
       "name": "Uplens",
       "type": 1,
       "bundleID": "app.uplens",
@@ -2868,22 +3108,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png"
-    },
-    {
-      "name": "Duolingo",
-      "type": 1,
-      "bundleID": "com.duolingo.DuolingoMobile",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "version": "7.98.0",
-      "versionDate": "2025-11-05",
-      "fullDate": "20251105002041",
-      "size": 192382390,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/Duolingo_7.98.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/Duolingo_7.98.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png"
     },
     {
       "name": "Peachy",
@@ -3012,22 +3236,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png"
-    },
-    {
-      "name": "YouTubeMusic",
-      "type": 1,
-      "bundleID": "com.google.ios.youtubemusic",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "version": "8.44.2",
-      "versionDate": "2025-11-04",
-      "fullDate": "20251104155325",
-      "size": 98306678,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/YouTubeMusic_8.44.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/YouTubeMusic_8.44.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png"
     },
     {
       "name": "Flacbox",
@@ -3174,38 +3382,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png"
     },
     {
-      "name": "KineMaster",
-      "type": 1,
-      "bundleID": "com.kinemaster.kios",
-      "bundleIdentifier": "com.kinemaster.kios",
-      "version": "8.0.3",
-      "versionDate": "2025-11-04",
-      "fullDate": "20251104072136",
-      "size": 117288131,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/KineMaster_8.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/KineMaster_8.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
-    },
-    {
-      "name": "TikTok",
-      "type": 1,
-      "bundleID": "com.zhiliaoapp.musically",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "42.4.0",
-      "versionDate": "2025-11-04",
-      "fullDate": "20251104065611",
-      "size": 391561827,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/TikTok_42.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/TikTok_42.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png"
-    },
-    {
       "name": "AdobeExpress",
       "type": 1,
       "bundleID": "com.adobe.post",
@@ -3236,22 +3412,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png"
-    },
-    {
-      "name": "Threads",
-      "type": 1,
-      "bundleID": "com.burbn.barcelona",
-      "bundleIdentifier": "com.burbn.barcelona",
-      "version": "405.0.0",
-      "versionDate": "2025-11-04",
-      "fullDate": "20251104031034",
-      "size": 70746397,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/Threads_405.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/Threads_405.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png"
     },
     {
       "name": "UpNote",
@@ -3862,22 +4022,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raktech.wallgenie.png"
     },
     {
-      "name": "PlantApp",
-      "type": 1,
-      "bundleID": "com.scaleup.plantid",
-      "bundleIdentifier": "com.scaleup.plantid",
-      "version": "3.2.4",
-      "versionDate": "2025-10-31",
-      "fullDate": "20251031230205",
-      "size": 90247443,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/PlantApp_3.2.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/PlantApp_3.2.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png"
-    },
-    {
       "name": "Headway",
       "type": 1,
       "bundleID": "com.headway.books",
@@ -4118,22 +4262,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png"
     },
     {
-      "name": "Tarteel",
-      "type": 1,
-      "bundleID": "com.iqraapp.Iqra",
-      "bundleIdentifier": "com.iqraapp.Iqra",
-      "version": "5.68.4",
-      "versionDate": "2025-10-30",
-      "fullDate": "20251030173455",
-      "size": 111718506,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/Tarteel_5.68.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/Tarteel_5.68.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png"
-    },
-    {
       "name": "Mondly",
       "type": 1,
       "bundleID": "com.atistudios.MondlyLanguages",
@@ -4180,22 +4308,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png"
-    },
-    {
-      "name": "Shapr3D",
-      "type": 1,
-      "bundleID": "com.shapr3d.shapr",
-      "bundleIdentifier": "com.shapr3d.shapr",
-      "version": "5.980.0",
-      "versionDate": "2025-10-30",
-      "fullDate": "20251030064802",
-      "size": 1186302726,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/Shapr3D_5.980.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/Shapr3D_5.980.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png"
     },
     {
       "name": "LumaFusion",
@@ -4518,22 +4630,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png"
     },
     {
-      "name": "YouCut",
-      "type": 1,
-      "bundleID": "com.shantanu.YouCut",
-      "bundleIdentifier": "com.shantanu.YouCut",
-      "version": "1.26.0",
-      "versionDate": "2025-10-28",
-      "fullDate": "20251028225532",
-      "size": 82809676,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/YouCut_1.26.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/YouCut_1.26.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png"
-    },
-    {
       "name": "Yogger",
       "type": 1,
       "bundleID": "io.yogger.Yogger",
@@ -4628,22 +4724,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png"
-    },
-    {
-      "name": "NeoServer",
-      "type": 1,
-      "bundleID": "com.neo.NeoMan",
-      "bundleIdentifier": "com.neo.NeoMan",
-      "version": "7.9.8",
-      "versionDate": "2025-10-28",
-      "fullDate": "20251028061704",
-      "size": 22050284,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/NeoServer_7.9.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/NeoServer_7.9.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png"
     },
     {
       "name": "HeavyBagPro",
@@ -4852,22 +4932,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png"
-    },
-    {
-      "name": "PlaneFinder",
-      "type": 1,
-      "bundleID": "uk.co.leeus.planefinderfree",
-      "bundleIdentifier": "uk.co.leeus.planefinderfree",
-      "version": "2025.5.3",
-      "versionDate": "2025-10-27",
-      "fullDate": "20251027004550",
-      "size": 110768866,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/PlaneFinder_2025.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/PlaneFinder_2025.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png"
     },
     {
       "name": "SimplyPiano",
@@ -5412,22 +5476,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vixerapp.Vixer.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vixerapp.Vixer.png"
-    },
-    {
-      "name": "Foodie",
-      "type": 1,
-      "bundleID": "com.linecorp.Foodie",
-      "bundleIdentifier": "com.linecorp.Foodie",
-      "version": "7.4.0",
-      "versionDate": "2025-10-21",
-      "fullDate": "20251021192340",
-      "size": 135990009,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2025/Foodie_7.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2025/Foodie_7.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.Foodie.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.Foodie.png"
     },
     {
       "name": "MelonVPNPublic",
@@ -6774,22 +6822,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.loseweightformen.png"
     },
     {
-      "name": "Lingokids",
-      "type": 1,
-      "bundleID": "es.monkimun.lingokids",
-      "bundleIdentifier": "es.monkimun.lingokids",
-      "version": "8.124.0",
-      "versionDate": "2025-09-30",
-      "fullDate": "20250930021232",
-      "size": 90789537,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/Lingokids_8.124.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/Lingokids_8.124.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/es.monkimun.lingokids.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/es.monkimun.lingokids.png"
-    },
-    {
       "name": "Stemz",
       "type": 1,
       "bundleID": "com.mwm.stems",
@@ -6804,22 +6836,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png"
-    },
-    {
-      "name": "Dropshare",
-      "type": 1,
-      "bundleID": "net.mkswap.Dropshare-iOS",
-      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
-      "version": "3.56",
-      "versionDate": "2025-09-28",
-      "fullDate": "20250928215114",
-      "size": 66710468,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Dropshare_3.56_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Dropshare_3.56_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png"
     },
     {
       "name": "StoryFont",
@@ -6916,22 +6932,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leica-camera.camera.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leica-camera.camera.png"
-    },
-    {
-      "name": "PeakVisor",
-      "type": 1,
-      "bundleID": "ru.routes.peakvisor",
-      "bundleIdentifier": "ru.routes.peakvisor",
-      "version": "5.68",
-      "versionDate": "2025-09-28",
-      "fullDate": "20250928093227",
-      "size": 110447201,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/PeakVisor_5.68_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/PeakVisor_5.68_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
     },
     {
       "name": "MediaConvert",
@@ -32007,191 +32007,6 @@
       "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943
-    },
-    {
-      "name": "Angel Aura Amethyst",
-      "bundleIdentifier": "org.angelauramc.amethyst",
-      "developerName": "AngelAuraMC",
-      "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
-      "localizedDescription": "Angel Aura Amethyst is a Minecraft: Java Edition launcher for iOS based on the PojavLauncher project.\n\n\u2022 Play most versions of Minecraft, from the very first beta to the latest snapshots.\n\u2022 Customize with mods, resource packs, and compatible shaders\n\u2022 Create multiple instances of Minecraft for multiple versions\n\u2022 Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\n\u2022 Play online with full Java Edition servers\n...and so much more!\n\nNotice: Amethyst requires JIT to function correctly. This application automatically enables JIT with AltServer, TrollStore, or when jailbroken, however other methods can be used if required.",
-      "iconURL": "https://raw.githubusercontent.com/AngelAuraMC/Amethyst-iOS/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/1024x1024.png",
-      "tintColor": "#9649B8",
-      "category": "games",
-      "screenshots": {
-        "iphone": [
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG",
-            "width": 2796,
-            "height": 1290
-          }
-        ],
-        "ipad": [
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG",
-            "width": 2796,
-            "height": 1290
-          }
-        ]
-      },
-      "versions": [
-        {
-          "version": "1.0 beta",
-          "date": "2023-05-06T17:00:00-05:00",
-          "localizedDescription": "Amethyst's 1.0 beta, built on PojavLauncher 3.0.",
-          "downloadURL": "https://crystall1ne.dev/null",
-          "size": 108175347,
-          "minOSVersion": "14.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.private.security.container-required",
-          "com.apple.private.mobileinstall.upgrade-enabled",
-          "com.apple.private.security.no-sandbox",
-          "com.apple.private.security.storage.AppDataContainers",
-          "com.apple.private.security.storage.MobileDocuments",
-          "com.apple.security.iokit-user-client-class",
-          "platform-application",
-          "get-task-allow",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.private.memorystatus",
-          "local.sandboxed-jit"
-        ],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "Amethyst uses the microphone to enable support for voice chat mods.",
-          "NSLocalNetworkUsageDescription": "Amethyst uses the local network to find and communicate with AltServer and LAN servers."
-        }
-      }
-    },
-    {
-      "name": "PojavLauncher iOS",
-      "bundleIdentifier": "net.kdt.pojavlauncher",
-      "developerName": "PojavLauncherTeam",
-      "subtitle": "Brought Minecraft: Java Edition to mobile devices.",
-      "localizedDescription": "PojavLauncher was a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\nNotice: PojavLauncher iOS has been discontinued and replaced by Amethyst. This application is here for archival purposes only, as it does not work on the latest version of iOS.",
-      "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
-      "tintColor": "#746344",
-      "category": "games",
-      "screenshots": [
-        {
-          "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
-          "width": 2796,
-          "height": 1290
-        },
-        {
-          "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
-          "width": 2796,
-          "height": 1290
-        },
-        {
-          "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
-          "width": 2796,
-          "height": 1290
-        },
-        {
-          "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG",
-          "width": 2796,
-          "height": 1290
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.2",
-          "date": "2023-05-06T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.2 Deepslate puts a focus on our core functionality, working to squash bugs, improve performance, and increase reliability.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        },
-        {
-          "version": "2.1.3",
-          "date": "2023-01-17T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.1.3 Sculk Catalyst includes various bugfixes for our users.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1.3/net.kdt.pojavlauncher-2.1.3-ios.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        },
-        {
-          "version": "2.1.2",
-          "date": "2023-01-02T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.1.2 Sculk Catalyst includes various bugfixes for our users. This update is highly recommended to return to a stable codebase.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1.2/net.kdt.pojavlauncher-2.1.2-ios.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        },
-        {
-          "version": "2.1.1",
-          "date": "2022-12-18T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.1.1 Sculk Catalyst includes various bugfixes for our users.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1.1/net.kdt.pojavlauncher-2.1.1-ios.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        },
-        {
-          "version": "2.1",
-          "date": "2022-12-10T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.1 Sculk Catalyst is the first release of PojavLauncher for unjailbroken devices. It comes paired with improvements to the user interface, custom controls and support for keyboard, mouse, and controllers, demo mode, and performance optimizations with more compatibility.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1/net.kdt.pojavlauncher-2.1.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.private.security.container-required",
-          "com.apple.private.mobileinstall.upgrade-enabled",
-          "com.apple.private.security.no-sandbox",
-          "com.apple.private.security.storage.AppDataContainers",
-          "com.apple.private.security.storage.MobileDocuments",
-          "com.apple.security.iokit-user-client-class",
-          "platform-application",
-          "get-task-allow",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.private.memorystatus",
-          "local.sandboxed-jit"
-        ],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "PojavLauncher uses the microphone to enable support for voice chat mods.",
-          "NSLocalNetworkUsageDescription": "PojavLauncher uses the local network to find and communicate with AltServer and LAN servers."
-        }
-      }
     },
     {
       "name": "Provenance EMU",
