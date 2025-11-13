@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Photoshop",
+      "type": 1,
+      "bundleID": "com.adobe.photoshop.ios",
+      "bundleIdentifier": "com.adobe.photoshop.ios",
+      "version": "7.0",
+      "versionDate": "2025-10-28",
+      "fullDate": "20251028160836",
+      "size": 283148360,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/Photoshop_7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/Photoshop_7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png"
+    },
+    {
       "name": "FitbittoAppleHealth",
       "type": 1,
       "bundleID": "com.bickster.myFitnessSync",
@@ -1172,22 +1188,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png"
     },
     {
-      "name": "SlideShow",
-      "type": 1,
-      "bundleID": "com.spacegab.slideshow",
-      "bundleIdentifier": "com.spacegab.slideshow",
-      "version": "5.6.42",
-      "versionDate": "2025-10-14",
-      "fullDate": "20251014205427",
-      "size": 121577982,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-10-2025/SlideShow_5.6.42_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-10-2025/SlideShow_5.6.42_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png"
-    },
-    {
       "name": "MkIIIPublic",
       "type": 1,
       "bundleID": "camera.lux.halide.mkii",
@@ -2002,6 +2002,22 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.plusblog.smpro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.plusblog.smpro.png"
+    },
+    {
+      "name": "Narwhal",
+      "type": 1,
+      "bundleID": "com.rickharrison.narwhal",
+      "bundleIdentifier": "com.rickharrison.narwhal",
+      "version": "2025.8.2",
+      "versionDate": "2025-10-01",
+      "fullDate": "20251001164515",
+      "size": 16540355,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/Narwhal_2025.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/Narwhal_2025.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png"
     }
   ],
   "userInfo": {}
