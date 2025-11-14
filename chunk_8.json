@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "WhatsApp",
+      "type": 1,
+      "bundleID": "net.whatsapp.WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "version": "25.12.73",
+      "versionDate": "2025-05-05",
+      "fullDate": "20250505151708",
+      "size": 119365705,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WhatsApp_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WhatsApp_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Watusi",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png"
+    },
+    {
       "name": "DarkNoise",
       "type": 1,
       "bundleID": "com.charliemchapman.dark-noise",
@@ -3647,45 +3663,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1277",
       "formatedsize": "86.6 MB",
       "size": 90806681
-    },
-    {
-      "name": "Dino Bash - Defend & Fight (Hacked)",
-      "bundleIdentifier": "com.pokokostudio.dinobash",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.pokokostudio.dinobash\n\n Downloads: 28\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742204956.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422049558198688598.webp",
-        "https://apps.nabzclan.vip/screenshots/17422049559414069903.webp",
-        "https://apps.nabzclan.vip/screenshots/17422049565327642785.webp",
-        "https://apps.nabzclan.vip/screenshots/17422049566489396901.webp",
-        "https://apps.nabzclan.vip/screenshots/17422049567749680959.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.10.4",
-          "date": "2025-03-17 05:49:17",
-          "localizedDescription": "Current of Dino Bash - Defend & Fight (Hacked) - 1.10.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
-          "size": 91488256
-        },
-        {
-          "version": "1.10.4",
-          "date": "2025-03-17 05:49:17",
-          "localizedDescription": "Old Version of Dino Bash - Defend & Fight (Hacked) - 1.10.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
-          "size": 91488256
-        }
-      ],
-      "version": "1.10.4",
-      "versionDate": "2025-03-17 05:49:17",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
-      "formatedsize": "87.25 MB",
-      "size": 91488256
     }
   ],
   "userInfo": {}

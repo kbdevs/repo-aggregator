@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "djay - (Premium)",
+      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+      "developerName": "nabzclan",
+      "subtitle": "Injected with Premium",
+      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.algoriddim.djay-iphone-free\n\n Downloads: 1849\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1699838516.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998385144551134669.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385147382387112.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385155163037687.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385158825317870.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385164026631825.webp",
+        "https://apps.nabzclan.vip/screenshots/16998385166703799872.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Current of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        },
+        {
+          "version": "4.1.7",
+          "date": "2023-11-13 01:21:57",
+          "localizedDescription": "Old Version of djay - (Premium) - 4.1.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+          "size": 199680327
+        }
+      ],
+      "version": "4.1.7",
+      "versionDate": "2023-11-13 01:21:57",
+      "versionDescription": "Injected with Premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/293",
+      "formatedsize": "190.43 MB",
+      "size": 199680327
+    },
+    {
       "name": "PAC-MAN (Hack)",
       "bundleIdentifier": "com.namconetworks.pacmanlite",
       "developerName": "nabzclan",
@@ -2123,17 +2163,6 @@
       "developerName": "Misaka",
       "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
-    },
-    {
-      "name": "MemrisePremium",
-      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
-      "version": "2023.11.17",
-      "versionDate": "2024-10-10",
-      "size": 90694453,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
-      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     }
   ],
   "userInfo": {}

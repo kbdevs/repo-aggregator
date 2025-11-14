@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Dino Bash - Defend & Fight (Hacked)",
+      "bundleIdentifier": "com.pokokostudio.dinobash",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.pokokostudio.dinobash\n\n Downloads: 28\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1742204956.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17422049558198688598.webp",
+        "https://apps.nabzclan.vip/screenshots/17422049559414069903.webp",
+        "https://apps.nabzclan.vip/screenshots/17422049565327642785.webp",
+        "https://apps.nabzclan.vip/screenshots/17422049566489396901.webp",
+        "https://apps.nabzclan.vip/screenshots/17422049567749680959.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.10.4",
+          "date": "2025-03-17 05:49:17",
+          "localizedDescription": "Current of Dino Bash - Defend & Fight (Hacked) - 1.10.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
+          "size": 91488256
+        },
+        {
+          "version": "1.10.4",
+          "date": "2025-03-17 05:49:17",
+          "localizedDescription": "Old Version of Dino Bash - Defend & Fight (Hacked) - 1.10.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
+          "size": 91488256
+        }
+      ],
+      "version": "1.10.4",
+      "versionDate": "2025-03-17 05:49:17",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1276",
+      "formatedsize": "87.25 MB",
+      "size": 91488256
+    },
+    {
       "name": "MovieBox Pro",
       "bundleIdentifier": "com.xd.mbp31",
       "developerName": "MovieBoxPro Team",
@@ -5252,46 +5291,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/985",
       "formatedsize": "116.51 MB",
       "size": 122169589
-    },
-    {
-      "name": "Candy Crush Jelly Saga (Hack)",
-      "bundleIdentifier": "com.midasplayer.apps.candycrushjellysaga1",
-      "developerName": "Babylonipa",
-      "subtitle": "Hack Features :\r\n- Unlimited Moves",
-      "localizedDescription": "Hack Features :\r\n- Unlimited Moves\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps, BabyloniPA\n\n BundleID: com.midasplayer.apps.candycrushjellysaga1\n\n Downloads: 384\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731374768.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17313747666848316535.webp",
-        "https://apps.nabzclan.vip/screenshots/17313747671637574522.webp",
-        "https://apps.nabzclan.vip/screenshots/17313747673804996353.webp",
-        "https://apps.nabzclan.vip/screenshots/17313747676847436162.webp",
-        "https://apps.nabzclan.vip/screenshots/17313747680623332790.webp",
-        "https://apps.nabzclan.vip/screenshots/17313747685898247499.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.31.0.0",
-          "date": "2024-11-13 11:42:35",
-          "localizedDescription": "Current of Candy Crush Jelly Saga (Hack) - 3.31.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1000",
-          "size": 138265231
-        },
-        {
-          "version": "3.31.0.0",
-          "date": "2024-11-13 11:42:35",
-          "localizedDescription": "Old Version of Candy Crush Jelly Saga (Hack) - 3.31.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1000",
-          "size": 138265231
-        }
-      ],
-      "version": "3.31.0.0",
-      "versionDate": "2024-11-13 11:42:35",
-      "versionDescription": "Hack Features :\r\n- Unlimited Moves",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1000",
-      "formatedsize": "131.86 MB",
-      "size": 138265231
     }
   ],
   "userInfo": {}

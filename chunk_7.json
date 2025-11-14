@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "FortressSaga",
+      "type": 2,
+      "bundleID": "com.cookapps.bm.fortresssaga",
+      "bundleIdentifier": "com.cookapps.bm.fortresssaga",
+      "version": "1.8.04",
+      "versionDate": "2025-06-02",
+      "fullDate": "20250602175536",
+      "size": 149334114,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/FortressSaga_1.8.04_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/FortressSaga_1.8.04_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cookapps.bm.fortresssaga.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cookapps.bm.fortresssaga.png"
+    },
+    {
       "name": "LegendofSurvivors",
       "type": 2,
       "bundleID": "com.abi.legendofsurvivors",
@@ -2002,22 +2018,6 @@
       "localizedDescription": "Injected with Watusi",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png"
-    },
-    {
-      "name": "WhatsApp",
-      "type": 1,
-      "bundleID": "net.whatsapp.WhatsApp",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "25.12.73",
-      "versionDate": "2025-05-05",
-      "fullDate": "20250505151708",
-      "size": 119365705,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WhatsApp_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WhatsApp_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Watusi",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png"
     }
   ],
   "userInfo": {}

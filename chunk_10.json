@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Candy Crush Jelly Saga (Hack)",
+      "bundleIdentifier": "com.midasplayer.apps.candycrushjellysaga1",
+      "developerName": "Babylonipa",
+      "subtitle": "Hack Features :\r\n- Unlimited Moves",
+      "localizedDescription": "Hack Features :\r\n- Unlimited Moves\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps, BabyloniPA\n\n BundleID: com.midasplayer.apps.candycrushjellysaga1\n\n Downloads: 384\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731374768.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17313747666848316535.webp",
+        "https://apps.nabzclan.vip/screenshots/17313747671637574522.webp",
+        "https://apps.nabzclan.vip/screenshots/17313747673804996353.webp",
+        "https://apps.nabzclan.vip/screenshots/17313747676847436162.webp",
+        "https://apps.nabzclan.vip/screenshots/17313747680623332790.webp",
+        "https://apps.nabzclan.vip/screenshots/17313747685898247499.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.31.0.0",
+          "date": "2024-11-13 11:42:35",
+          "localizedDescription": "Current of Candy Crush Jelly Saga (Hack) - 3.31.0.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1000",
+          "size": 138265231
+        },
+        {
+          "version": "3.31.0.0",
+          "date": "2024-11-13 11:42:35",
+          "localizedDescription": "Old Version of Candy Crush Jelly Saga (Hack) - 3.31.0.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1000",
+          "size": 138265231
+        }
+      ],
+      "version": "3.31.0.0",
+      "versionDate": "2024-11-13 11:42:35",
+      "versionDescription": "Hack Features :\r\n- Unlimited Moves",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1000",
+      "formatedsize": "131.86 MB",
+      "size": 138265231
+    },
+    {
       "name": "Goat Simulator MMO Simulator",
       "bundleIdentifier": "com.coffeestainstudios.goatmmo",
       "developerName": "Coffee Stain Publishing",
@@ -5123,46 +5163,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/294",
       "formatedsize": "873.61 MB",
       "size": 916046479
-    },
-    {
-      "name": "djay - (Premium)",
-      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
-      "developerName": "nabzclan",
-      "subtitle": "Injected with Premium",
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.algoriddim.djay-iphone-free\n\n Downloads: 1849\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699838516.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998385144551134669.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385147382387112.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385155163037687.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385158825317870.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385164026631825.webp",
-        "https://apps.nabzclan.vip/screenshots/16998385166703799872.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.1.7",
-          "date": "2023-11-13 01:21:57",
-          "localizedDescription": "Current of djay - (Premium) - 4.1.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
-          "size": 199680327
-        },
-        {
-          "version": "4.1.7",
-          "date": "2023-11-13 01:21:57",
-          "localizedDescription": "Old Version of djay - (Premium) - 4.1.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/293",
-          "size": 199680327
-        }
-      ],
-      "version": "4.1.7",
-      "versionDate": "2023-11-13 01:21:57",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/293",
-      "formatedsize": "190.43 MB",
-      "size": 199680327
     }
   ],
   "userInfo": {}
