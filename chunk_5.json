@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "MistLens",
+      "type": 1,
+      "bundleID": "com.latenightking.TrueFilm",
+      "bundleIdentifier": "com.latenightking.TrueFilm",
+      "version": "2.3",
+      "versionDate": "2025-08-12",
+      "fullDate": "20250812161543",
+      "size": 10406199,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MistLens_2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MistLens_2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png"
+    },
+    {
       "name": "MonokaiToolkitPro",
       "type": 1,
       "bundleID": "com.monokaitoolkit.pro",
@@ -210,22 +226,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parallaxlabs.ShiftCalendar.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parallaxlabs.ShiftCalendar.png"
-    },
-    {
-      "name": "Shapy",
-      "type": 1,
-      "bundleID": "com.blake.femalefitness",
-      "bundleIdentifier": "com.blake.femalefitness",
-      "version": "10.4.3",
-      "versionDate": "2025-07-27",
-      "fullDate": "20250727081755",
-      "size": 38138242,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2025/Shapy_10.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2025/Shapy_10.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png"
     },
     {
       "name": "Koloro",
