@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "B42",
+      "type": 1,
+      "bundleID": "com.soccerFitYou.App",
+      "bundleIdentifier": "com.soccerFitYou.App",
+      "version": "6.7.8",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031043839",
+      "size": 78998608,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/B42_6.7.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/B42_6.7.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soccerFitYou.App.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soccerFitYou.App.png"
+    },
+    {
+      "name": "Steps4Dogs",
+      "type": 1,
+      "bundleID": "com.steps4dogs.app",
+      "bundleIdentifier": "com.steps4dogs.app",
+      "version": "1.0.9",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031043830",
+      "size": 29352040,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Steps4Dogs_1.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Steps4Dogs_1.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steps4dogs.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steps4dogs.app.png"
+    },
+    {
       "name": "Riveo",
       "type": 1,
       "bundleID": "co.forgeandform.riveo",
@@ -1924,22 +1956,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png"
     },
     {
-      "name": "Calisteniapp",
-      "type": 1,
-      "bundleID": "com.inakitajes.Calisthenial",
-      "bundleIdentifier": "com.inakitajes.Calisthenial",
-      "version": "25.10.0",
-      "versionDate": "2025-10-09",
-      "fullDate": "20251009201332",
-      "size": 29789162,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/Calisteniapp_25.10.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/Calisteniapp_25.10.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png"
-    },
-    {
       "name": "iLovePDF",
       "type": 1,
       "bundleID": "com.ilovepdf.www",
@@ -2002,22 +2018,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madfut.madfut25.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madfut.madfut25.png"
-    },
-    {
-      "name": "FindDiamonds",
-      "type": 2,
-      "bundleID": "me.eladga.finddiamonds",
-      "bundleIdentifier": "me.eladga.finddiamonds",
-      "version": "1.2.21",
-      "versionDate": "2025-10-08",
-      "fullDate": "20251008021143",
-      "size": 53590209,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/FindDiamonds_1.2.21_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/FindDiamonds_1.2.21_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.eladga.finddiamonds.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.eladga.finddiamonds.png"
     }
   ],
   "userInfo": {}

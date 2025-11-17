@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Cover Fire: Gun Shooting games (Hacked)",
+      "bundleIdentifier": "com.generagames.resistance",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.generagames.resistance\n\n Downloads: 502\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1742229606.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17422296065413508719.webp",
+        "https://apps.nabzclan.vip/screenshots/17422296065918129543.webp",
+        "https://apps.nabzclan.vip/screenshots/17422296066253029805.webp",
+        "https://apps.nabzclan.vip/screenshots/17422296066566433012.webp",
+        "https://apps.nabzclan.vip/screenshots/17422296066851946554.webp",
+        "https://apps.nabzclan.vip/screenshots/17422296067339707155.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.32.17",
+          "date": "2025-03-17 12:40:06",
+          "localizedDescription": "Current of Cover Fire: Gun Shooting games (Hacked) - 1.32.17",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1288",
+          "size": 532781465
+        },
+        {
+          "version": "1.32.17",
+          "date": "2025-03-17 12:40:06",
+          "localizedDescription": "Old Version of Cover Fire: Gun Shooting games (Hacked) - 1.32.17",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1288",
+          "size": 532781465
+        }
+      ],
+      "version": "1.32.17",
+      "versionDate": "2025-03-17 12:40:06",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1288",
+      "formatedsize": "508.1 MB",
+      "size": 532781465
+    },
+    {
       "name": "Dino Bash: Travel Through Time (HAcked)",
       "bundleIdentifier": "com.pokokostudio.dinobashtime",
       "developerName": "Nabzclan",
@@ -5248,46 +5288,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1032",
       "formatedsize": "544.8 MB",
       "size": 571264204
-    },
-    {
-      "name": "Nuclear Day Survival (Hacked)",
-      "bundleIdentifier": "com.somniumfabri.nuclearday",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.somniumfabri.nuclearday\n\n Downloads: 297\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731699830.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17316998296486605215.webp",
-        "https://apps.nabzclan.vip/screenshots/17316998297661776264.webp",
-        "https://apps.nabzclan.vip/screenshots/17316998298474002895.webp",
-        "https://apps.nabzclan.vip/screenshots/17316998299338008140.webp",
-        "https://apps.nabzclan.vip/screenshots/17316998299769419007.webp",
-        "https://apps.nabzclan.vip/screenshots/17316998300285275553.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1.9",
-          "date": "2024-11-15 14:43:50",
-          "localizedDescription": "Current of Nuclear Day Survival (Hacked) - 1.1.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1027",
-          "size": 222056939
-        },
-        {
-          "version": "1.1.9",
-          "date": "2024-11-15 14:43:50",
-          "localizedDescription": "Old Version of Nuclear Day Survival (Hacked) - 1.1.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1027",
-          "size": 222056939
-        }
-      ],
-      "version": "1.1.9",
-      "versionDate": "2024-11-15 14:43:50",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1027",
-      "formatedsize": "211.77 MB",
-      "size": 222056939
     }
   ],
   "userInfo": {}

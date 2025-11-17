@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "PodcastyAI",
+      "type": 1,
+      "bundleID": "com.stbokarev.podcastyai",
+      "bundleIdentifier": "com.stbokarev.podcastyai",
+      "version": "1.1.22",
+      "versionDate": "2025-05-09",
+      "fullDate": "20250509153302",
+      "size": 22003782,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png"
+    },
+    {
       "name": "BrainOut",
       "type": 2,
       "bundleID": "com.mind.quiz.brain.out",
@@ -3423,46 +3439,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1290",
       "formatedsize": "170.8 MB",
       "size": 179096780
-    },
-    {
-      "name": "Cover Fire: Gun Shooting games (Hacked)",
-      "bundleIdentifier": "com.generagames.resistance",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.generagames.resistance\n\n Downloads: 502\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742229606.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422296065413508719.webp",
-        "https://apps.nabzclan.vip/screenshots/17422296065918129543.webp",
-        "https://apps.nabzclan.vip/screenshots/17422296066253029805.webp",
-        "https://apps.nabzclan.vip/screenshots/17422296066566433012.webp",
-        "https://apps.nabzclan.vip/screenshots/17422296066851946554.webp",
-        "https://apps.nabzclan.vip/screenshots/17422296067339707155.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.32.17",
-          "date": "2025-03-17 12:40:06",
-          "localizedDescription": "Current of Cover Fire: Gun Shooting games (Hacked) - 1.32.17",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1288",
-          "size": 532781465
-        },
-        {
-          "version": "1.32.17",
-          "date": "2025-03-17 12:40:06",
-          "localizedDescription": "Old Version of Cover Fire: Gun Shooting games (Hacked) - 1.32.17",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1288",
-          "size": 532781465
-        }
-      ],
-      "version": "1.32.17",
-      "versionDate": "2025-03-17 12:40:06",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1288",
-      "formatedsize": "508.1 MB",
-      "size": 532781465
     }
   ],
   "userInfo": {}

@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Ultimate Custom Night",
+      "bundleIdentifier": "com.clickteam.ultimatecustomnight",
+      "developerName": "The ultimate FNaF mashup",
+      "subtitle": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.",
+      "localizedDescription": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.clickteam.ultimatecustomnight\n\n Downloads: 246\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700713261.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17007132595573242695.webp",
+        "https://apps.nabzclan.vip/screenshots/17007132601321666621.webp",
+        "https://apps.nabzclan.vip/screenshots/17007132604308262544.webp",
+        "https://apps.nabzclan.vip/screenshots/17007132610284986795.webp",
+        "https://apps.nabzclan.vip/screenshots/17007132613349100987.webp",
+        "https://apps.nabzclan.vip/screenshots/17007132616346167645.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2023-11-23 04:21:02",
+          "localizedDescription": "Current of Ultimate Custom Night - 1.0.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/324",
+          "size": 208708567
+        },
+        {
+          "version": "1.0.5",
+          "date": "2023-11-23 04:21:02",
+          "localizedDescription": "Old Version of Ultimate Custom Night - 1.0.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/324",
+          "size": 208708567
+        }
+      ],
+      "version": "1.0.5",
+      "versionDate": "2023-11-23 04:21:02",
+      "versionDescription": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/324",
+      "formatedsize": "199.04 MB",
+      "size": 208708567
+    },
+    {
       "name": "Five Nights at Freddy's",
       "bundleIdentifier": "com.scottgames.fivenights",
       "developerName": "You have the night watch",
@@ -2389,17 +2429,6 @@
       "developerName": "iOSGods!",
       "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.icandiapps.nightsky.png"
-    },
-    {
-      "name": "NGLPro",
-      "bundleIdentifier": "fun.ask",
-      "version": "6.1.117",
-      "versionDate": "2024-10-11",
-      "size": 50645390,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
-      "developerName": "AbodSyripa",
-      "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png"
     }
   ],
   "userInfo": {}

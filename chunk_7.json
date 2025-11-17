@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Tacticus",
+      "type": 2,
+      "bundleID": "com.snowprintstudios.tacticus",
+      "bundleIdentifier": "com.snowprintstudios.tacticus",
+      "version": "1.29.13",
+      "versionDate": "2025-06-04",
+      "fullDate": "20250604233356",
+      "size": 164216695,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/Tacticus_1.29.13_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/Tacticus_1.29.13_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowprintstudios.tacticus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowprintstudios.tacticus.png"
+    },
+    {
       "name": "TheSimsMobile",
       "type": 2,
       "bundleID": "com.ea.ios.simsmobile",
@@ -2002,22 +2018,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamegos.adventure.bay.paradise.farm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamegos.adventure.bay.paradise.farm.png"
-    },
-    {
-      "name": "PodcastyAI",
-      "type": 1,
-      "bundleID": "com.stbokarev.podcastyai",
-      "bundleIdentifier": "com.stbokarev.podcastyai",
-      "version": "1.1.22",
-      "versionDate": "2025-05-09",
-      "fullDate": "20250509153302",
-      "size": 22003782,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png"
     }
   ],
   "userInfo": {}
