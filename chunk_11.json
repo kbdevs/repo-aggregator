@@ -4,371 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "Ultimate Custom Night",
-      "bundleIdentifier": "com.clickteam.ultimatecustomnight",
-      "developerName": "The ultimate FNaF mashup",
-      "subtitle": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.clickteam.ultimatecustomnight\n\n Downloads: 246\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700713261.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17007132595573242695.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132601321666621.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132604308262544.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132610284986795.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132613349100987.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132616346167645.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.5",
-          "date": "2023-11-23 04:21:02",
-          "localizedDescription": "Current of Ultimate Custom Night - 1.0.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/324",
-          "size": 208708567
-        },
-        {
-          "version": "1.0.5",
-          "date": "2023-11-23 04:21:02",
-          "localizedDescription": "Old Version of Ultimate Custom Night - 1.0.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/324",
-          "size": 208708567
-        }
-      ],
-      "version": "1.0.5",
-      "versionDate": "2023-11-23 04:21:02",
-      "versionDescription": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/324",
-      "formatedsize": "199.04 MB",
-      "size": 208708567
-    },
-    {
-      "name": "Five Nights at Freddy's",
-      "bundleIdentifier": "com.scottgames.fivenights",
-      "developerName": "You have the night watch",
-      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fivenights\n\n Downloads: 744\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700712724.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17007127192975787800.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127199266762380.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127200388103846.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127207544820062.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127240824586915.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127244313832330.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.3",
-          "date": "2023-11-23 04:12:04",
-          "localizedDescription": "Current of Five Nights at Freddy's - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-          "size": 106210263
-        },
-        {
-          "version": "2.0.3",
-          "date": "2023-11-23 04:12:04",
-          "localizedDescription": "Old Version of Five Nights at Freddy's - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-          "size": 106210263
-        }
-      ],
-      "version": "2.0.3",
-      "versionDate": "2023-11-23 04:12:04",
-      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-      "formatedsize": "101.29 MB",
-      "size": 106210263
-    },
-    {
-      "name": "SoundHound - Music Discovery",
-      "bundleIdentifier": "com.melodis.midomi",
-      "developerName": "Find & play songs with lyrics",
-      "subtitle": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you\u2019re in the car or out and about \u2014 open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we\u2019ll tell you exactly what\u2019s playing! It's been called pure magic \u2014 and with 300M+ downloads and billions of songs discovered \u2014 we tend to agree.",
-      "localizedDescription": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you\u2019re in the car or out and about \u2014 open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we\u2019ll tell you exactly what\u2019s playing! It's been called pure magic \u2014 and with 300M+ downloads and billions of songs discovered \u2014 we tend to agree.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.melodis.midomi\n\n Downloads: 206\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700711782.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17007117814331982228.webp",
-        "https://apps.nabzclan.vip/screenshots/17007117820356900477.webp",
-        "https://apps.nabzclan.vip/screenshots/17007117823201479654.webp",
-        "https://apps.nabzclan.vip/screenshots/17007117827508125361.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "10.2.3",
-          "date": "2023-11-23 03:56:22",
-          "localizedDescription": "Current of SoundHound - Music Discovery - 10.2.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/321",
-          "size": 21810380
-        },
-        {
-          "version": "10.2.3",
-          "date": "2023-11-23 03:56:22",
-          "localizedDescription": "Old Version of SoundHound - Music Discovery - 10.2.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/321",
-          "size": 21810380
-        }
-      ],
-      "version": "10.2.3",
-      "versionDate": "2023-11-23 03:56:22",
-      "versionDescription": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you\u2019re in the car or out and about \u2014 open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we\u2019ll tell you exactly what\u2019s playing! It's been called pure magic \u2014 and with 300M+ downloads and billions of songs discovered \u2014 we tend to agree.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/321",
-      "formatedsize": "20.80 MB",
-      "size": 21810380
-    },
-    {
-      "name": "Trivia Crack (No Ads)",
-      "bundleIdentifier": "com.etermax.preguntados.pro",
-      "developerName": "Play fun and ad-free quizzes\u202a!\u202c",
-      "subtitle": "Wanna play some no-ad games and become a Pro? Trivia Crack No Ads is a thrilling trivia game if you love competing with friends and family! Test your knowledge and prove you are the smartest not only by answering trivia questions but by suggesting multiple-choice questions in this brain test! So if you're looking for ad-free games this is your chance! Enjoy without interruptions tons of trivia questions and be a Pro!",
-      "localizedDescription": "Wanna play some no-ad games and become a Pro? Trivia Crack No Ads is a thrilling trivia game if you love competing with friends and family! Test your knowledge and prove you are the smartest not only by answering trivia questions but by suggesting multiple-choice questions in this brain test! So if you're looking for ad-free games this is your chance! Enjoy without interruptions tons of trivia questions and be a Pro!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.etermax.preguntados.pro\n\n Downloads: 201\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1693087589.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16930875842699892403.webp",
-        "https://apps.nabzclan.vip/screenshots/16930875859788297456.webp",
-        "https://apps.nabzclan.vip/screenshots/16930875862995043589.webp",
-        "https://apps.nabzclan.vip/screenshots/16930875878578314978.webp",
-        "https://apps.nabzclan.vip/screenshots/16930875881953172536.webp",
-        "https://apps.nabzclan.vip/screenshots/16930875895959841066.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.241.0",
-          "date": "2023-11-23 03:51:07",
-          "localizedDescription": "Current of Trivia Crack (No Ads) - 3.241.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/320",
-          "size": 183542743
-        },
-        {
-          "version": "3.227.0",
-          "date": "2023-08-26 22:06:30",
-          "localizedDescription": "Old Version of Trivia Crack (No Ads) - 3.227.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/201",
-          "size": 160149012
-        },
-        {
-          "version": "3.241.0",
-          "date": "2023-11-23 03:51:07",
-          "localizedDescription": "Old Version of Trivia Crack (No Ads) - 3.241.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/320",
-          "size": 183542743
-        }
-      ],
-      "version": "3.241.0",
-      "versionDate": "2023-11-23 03:51:07",
-      "versionDescription": "Wanna play some no-ad games and become a Pro? Trivia Crack No Ads is a thrilling trivia game if you love competing with friends and family! Test your knowledge and prove you are the smartest not only by answering trivia questions but by suggesting multiple-choice questions in this brain test! So if you're looking for ad-free games this is your chance! Enjoy without interruptions tons of trivia questions and be a Pro!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/320",
-      "formatedsize": "175.04 MB",
-      "size": 183542743
-    },
-    {
-      "name": "Scratch Adventure: Sex Games (Premium)",
-      "bundleIdentifier": "com.MauriceWirthInternetagentur.ScratchAdventure",
-      "developerName": "nabzclan",
-      "subtitle": "Premium Features unlocked",
-      "localizedDescription": "Premium Features unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.MauriceWirthInternetagentur.ScratchAdventure\n\n Downloads: 1715\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700381587.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17003815856859933765.webp",
-        "https://apps.nabzclan.vip/screenshots/17003815864715008403.webp",
-        "https://apps.nabzclan.vip/screenshots/17003815866554767962.webp",
-        "https://apps.nabzclan.vip/screenshots/17003815868258823875.webp",
-        "https://apps.nabzclan.vip/screenshots/17003815869903023242.webp",
-        "https://apps.nabzclan.vip/screenshots/17003815871493395288.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "6.53.0",
-          "date": "2023-11-19 08:13:07",
-          "localizedDescription": "Current of Scratch Adventure: Sex Games (Premium) - 6.53.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/309",
-          "size": 149862481
-        },
-        {
-          "version": "6.53.0",
-          "date": "2023-11-19 08:13:07",
-          "localizedDescription": "Old Version of Scratch Adventure: Sex Games (Premium) - 6.53.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/309",
-          "size": 149862481
-        }
-      ],
-      "version": "6.53.0",
-      "versionDate": "2023-11-19 08:13:07",
-      "versionDescription": "Premium Features unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/309",
-      "formatedsize": "142.92 MB",
-      "size": 149862481
-    },
-    {
-      "name": "Snake.io - Fun Online Slither (MOD)",
-      "bundleIdentifier": "com.amelosinteractive.snake",
-      "developerName": "Kamo",
-      "subtitle": "MOD (Drone View, Skin Unlocked)",
-      "localizedDescription": "MOD (Drone View, Skin Unlocked)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.amelosinteractive.snake\n\n Downloads: 389\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700107745.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17001077381206636817.webp",
-        "https://apps.nabzclan.vip/screenshots/17001077387127913615.webp",
-        "https://apps.nabzclan.vip/screenshots/17001077387932408895.webp",
-        "https://apps.nabzclan.vip/screenshots/17001077405847730356.webp",
-        "https://apps.nabzclan.vip/screenshots/17001077423706686641.webp",
-        "https://apps.nabzclan.vip/screenshots/17001077443562013712.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.16.69",
-          "date": "2023-11-16 04:09:05",
-          "localizedDescription": "Current of Snake.io - Fun Online Slither (MOD) - 1.16.69",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/302",
-          "size": 66804776
-        },
-        {
-          "version": "1.16.69",
-          "date": "2023-11-16 04:09:05",
-          "localizedDescription": "Old Version of Snake.io - Fun Online Slither (MOD) - 1.16.69",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/302",
-          "size": 66804776
-        }
-      ],
-      "version": "1.16.69",
-      "versionDate": "2023-11-16 04:09:05",
-      "versionDescription": "MOD (Drone View, Skin Unlocked)",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/302",
-      "formatedsize": "63.71 MB",
-      "size": 66804776
-    },
-    {
-      "name": "Cyber Dead: Metal Super Squad (MOD)",
-      "bundleIdentifier": "com.anglesgames.cyberdead",
-      "developerName": "nabzclan",
-      "subtitle": "MOD (Unlimited Currencies)",
-      "localizedDescription": "MOD (Unlimited Currencies)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.anglesgames.cyberdead\n\n Downloads: 67\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1700106798.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17001067871917317694.webp",
-        "https://apps.nabzclan.vip/screenshots/17001067894067083382.webp",
-        "https://apps.nabzclan.vip/screenshots/17001067921096047118.webp",
-        "https://apps.nabzclan.vip/screenshots/17001067936874828579.webp",
-        "https://apps.nabzclan.vip/screenshots/17001067959219484020.webp",
-        "https://apps.nabzclan.vip/screenshots/17001067971215615140.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.63.01",
-          "date": "2023-11-16 03:53:18",
-          "localizedDescription": "Current of Cyber Dead: Metal Super Squad (MOD) - 1.63.01",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/301",
-          "size": 118489088
-        },
-        {
-          "version": "1.63.01",
-          "date": "2023-11-16 03:53:18",
-          "localizedDescription": "Old Version of Cyber Dead: Metal Super Squad (MOD) - 1.63.01",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/301",
-          "size": 118489088
-        }
-      ],
-      "version": "1.63.01",
-      "versionDate": "2023-11-16 03:53:18",
-      "versionDescription": "MOD (Unlimited Currencies)",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/301",
-      "formatedsize": "113.00 MB",
-      "size": 118489088
-    },
-    {
-      "name": "Make More! (Mod)",
-      "bundleIdentifier": "com.badcrane.makemore",
-      "developerName": "nabzclan",
-      "subtitle": "(Unlimited Money)\r\n(in app  purchases free)",
-      "localizedDescription": "(Unlimited Money)\r\n(in app  purchases free)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.badcrane.makemore\n\n Downloads: 288\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699869576.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998695721079842377.webp",
-        "https://apps.nabzclan.vip/screenshots/16998695726537715831.webp",
-        "https://apps.nabzclan.vip/screenshots/16998695728207790932.webp",
-        "https://apps.nabzclan.vip/screenshots/16998695729798597147.webp",
-        "https://apps.nabzclan.vip/screenshots/16998695731586950190.webp",
-        "https://apps.nabzclan.vip/screenshots/16998695749061377763.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.5.9",
-          "date": "2023-11-13 09:59:36",
-          "localizedDescription": "Current of Make More! (Mod) - 3.5.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/297",
-          "size": 31572623
-        },
-        {
-          "version": "3.5.9",
-          "date": "2023-11-13 09:59:36",
-          "localizedDescription": "Old Version of Make More! (Mod) - 3.5.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/297",
-          "size": 31572623
-        }
-      ],
-      "version": "3.5.9",
-      "versionDate": "2023-11-13 09:59:36",
-      "versionDescription": "(Unlimited Money)\r\n(in app  purchases free)",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/297",
-      "formatedsize": "30.11 MB",
-      "size": 31572623
-    },
-    {
-      "name": "Kritika: The White Knights (Hack)",
-      "bundleIdentifier": "com.gamevil.kritikam.ios.apple.global.normal",
-      "developerName": "nabzclan",
-      "subtitle": "features: (Unlimited Karat)",
-      "localizedDescription": "features: (Unlimited Karat)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.gamevil.kritikam.ios.apple.global.normal\n\n Downloads: 153\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1699866660.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16998666495876817335.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666519336306578.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666534759290349.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666560615488533.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666576723495477.webp",
-        "https://apps.nabzclan.vip/screenshots/16998666594512351343.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.38.3",
-          "date": "2023-11-13 09:11:00",
-          "localizedDescription": "Current of Kritika: The White Knights (Hack) - 4.38.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/294",
-          "size": 916046479
-        },
-        {
-          "version": "4.38.3",
-          "date": "2023-11-13 09:11:00",
-          "localizedDescription": "Old Version of Kritika: The White Knights (Hack) - 4.38.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/294",
-          "size": 916046479
-        }
-      ],
-      "version": "4.38.3",
-      "versionDate": "2023-11-13 09:11:00",
-      "versionDescription": "features: (Unlimited Karat)",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/294",
-      "formatedsize": "873.61 MB",
-      "size": 916046479
-    },
-    {
       "name": "djay - (Premium)",
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "developerName": "nabzclan",
@@ -2429,6 +2064,116 @@
       "developerName": "iOSGods!",
       "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.icandiapps.nightsky.png"
+    },
+    {
+      "name": "NGLPro",
+      "bundleIdentifier": "fun.ask",
+      "version": "6.1.117",
+      "versionDate": "2024-10-11",
+      "size": 50645390,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
+      "developerName": "AbodSyripa",
+      "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png"
+    },
+    {
+      "name": "MyDiaryPremium",
+      "bundleIdentifier": "com.simpleinnovation.diary",
+      "version": "1.9.3",
+      "versionDate": "2024-10-11",
+      "size": 40528267,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
+    },
+    {
+      "name": "MusixmatchPremium",
+      "bundleIdentifier": "com.musixmatch.lyrics",
+      "version": "7.10.8",
+      "versionDate": "2024-10-11",
+      "size": 74673060,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
+    },
+    {
+      "name": "MusicAIVIP",
+      "bundleIdentifier": "com.feraset.tune",
+      "version": "4.1.5",
+      "versionDate": "2024-10-11",
+      "size": 49729423,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusicAIVIP/MusicAIVIP-4.1.5.ipa",
+      "developerName": "Zzz Zzz",
+      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
+    },
+    {
+      "name": "Musi",
+      "bundleIdentifier": "com.feelthemusi.musi",
+      "version": "6.2.35",
+      "versionDate": "2024-10-11",
+      "size": 19556756,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
+    },
+    {
+      "name": "MuffinStore",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "version": "1.1",
+      "versionDate": "2024-10-11",
+      "size": 29281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
+    },
+    {
+      "name": "MoovitPlus",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "version": "5.146.1",
+      "versionDate": "2024-10-11",
+      "size": 85759040,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
+    },
+    {
+      "name": "MoisesPremium",
+      "bundleIdentifier": "ai.moises",
+      "version": "2.40.0",
+      "versionDate": "2024-10-11",
+      "size": 60999285,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
+    },
+    {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "version": "3.3.5",
+      "versionDate": "2024-10-10",
+      "size": 28563166,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
+      "developerName": "Misaka",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "version": "2023.11.17",
+      "versionDate": "2024-10-10",
+      "size": 90694453,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     }
   ],
   "userInfo": {}
