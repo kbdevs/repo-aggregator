@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "MADFUT",
+      "type": 2,
+      "bundleID": "com.madfut.madfut25",
+      "bundleIdentifier": "com.madfut.madfut25",
+      "version": "1.0",
+      "versionDate": "2025-10-08",
+      "fullDate": "20251008102757",
+      "size": 149825597,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/MADFUT_1.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/MADFUT_1.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madfut.madfut25.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madfut.madfut25.png"
+    },
+    {
+      "name": "FindDiamonds",
+      "type": 2,
+      "bundleID": "me.eladga.finddiamonds",
+      "bundleIdentifier": "me.eladga.finddiamonds",
+      "version": "1.2.21",
+      "versionDate": "2025-10-08",
+      "fullDate": "20251008021143",
+      "size": 53590209,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/FindDiamonds_1.2.21_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/FindDiamonds_1.2.21_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.eladga.finddiamonds.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.eladga.finddiamonds.png"
+    },
+    {
       "name": "JSCodePad",
       "type": 1,
       "bundleID": "com.markodevcic.js-code-pad",
@@ -114,22 +146,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png"
-    },
-    {
-      "name": "duet",
-      "type": 1,
-      "bundleID": "com.kairos.duet",
-      "bundleIdentifier": "com.kairos.duet",
-      "version": "3.0.1",
-      "versionDate": "2025-10-02",
-      "fullDate": "20251002202659",
-      "size": 43829705,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2025/duet_3.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2025/duet_3.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
     },
     {
       "name": "HabitKit",
@@ -1954,22 +1970,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png"
-    },
-    {
-      "name": "Dictionary",
-      "type": 1,
-      "bundleID": "com.mobisystems.OxfordDictionaryOfEnglishFree",
-      "bundleIdentifier": "com.mobisystems.OxfordDictionaryOfEnglishFree",
-      "version": "15.18",
-      "versionDate": "2025-08-19",
-      "fullDate": "20250819211225",
-      "size": 43104784,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2025/Dictionary_15.18_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2025/Dictionary_15.18_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png"
     },
     {
       "name": "YPT",
