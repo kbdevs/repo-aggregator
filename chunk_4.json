@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "iLovePDF",
+      "type": 1,
+      "bundleID": "com.ilovepdf.www",
+      "bundleIdentifier": "com.ilovepdf.www",
+      "version": "3.12.5",
+      "versionDate": "2025-10-09",
+      "fullDate": "20251009125721",
+      "size": 163992986,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/iLovePDF_3.12.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/iLovePDF_3.12.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png"
+    },
+    {
       "name": "MADFUT",
       "type": 2,
       "bundleID": "com.madfut.madfut25",
@@ -242,22 +258,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.plusblog.smpro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.plusblog.smpro.png"
-    },
-    {
-      "name": "Narwhal",
-      "type": 1,
-      "bundleID": "com.rickharrison.narwhal",
-      "bundleIdentifier": "com.rickharrison.narwhal",
-      "version": "2025.8.2",
-      "versionDate": "2025-10-01",
-      "fullDate": "20251001164515",
-      "size": 16540355,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/Narwhal_2025.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/Narwhal_2025.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png"
     },
     {
       "name": "Liit",

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "PokerHero",
+      "type": 2,
+      "bundleID": "com.gemini.dash.deck",
+      "bundleIdentifier": "com.gemini.dash.deck",
+      "version": "1.8.2",
+      "versionDate": "2025-06-04",
+      "fullDate": "20250604125729",
+      "size": 141948323,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/PokerHero_1.8.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/PokerHero_1.8.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gemini.dash.deck.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gemini.dash.deck.png"
+    },
+    {
       "name": "FontCandy",
       "type": 1,
       "bundleID": "com.aaronray.fontcandy",
@@ -2018,22 +2034,6 @@
       "localizedDescription": "Injected with Satella",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
-    },
-    {
-      "name": "Pinterest",
-      "type": 1,
-      "bundleID": "pinterest",
-      "bundleIdentifier": "pinterest",
-      "version": "13.15",
-      "versionDate": "2025-05-06",
-      "fullDate": "20250506071416",
-      "size": 102527304,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with NoAds",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png"
     }
   ],
   "userInfo": {}
