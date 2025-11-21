@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "WebVideoCast",
+      "type": 1,
+      "bundleID": "com.instantbits.cast.webvideo",
+      "bundleIdentifier": "com.instantbits.cast.webvideo",
+      "version": "2.48",
+      "versionDate": "2025-08-18",
+      "fullDate": "20250818024155",
+      "size": 47665038,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2025/WebVideoCast_2.48_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2025/WebVideoCast_2.48_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png"
+    },
+    {
       "name": "Purgo",
       "type": 1,
       "bundleID": "com.tonymasek.Purgo",
@@ -370,22 +386,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png"
-    },
-    {
-      "name": "Thenx",
-      "type": 1,
-      "bundleID": "com.calisthenics.thenx",
-      "bundleIdentifier": "com.calisthenics.thenx",
-      "version": "6.4.1",
-      "versionDate": "2025-07-23",
-      "fullDate": "20250723204825",
-      "size": 119756236,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Thenx_6.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Thenx_6.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
     },
     {
       "name": "Pixly",
@@ -1604,22 +1604,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
     },
     {
-      "name": "CamScanner",
-      "type": 1,
-      "bundleID": "com.intsig.CamScannerLite",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "6.91.1",
-      "versionDate": "2025-07-04",
-      "fullDate": "20250704082624",
-      "size": 176231919,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
-    },
-    {
       "name": "ReceiptLens",
       "type": 1,
       "bundleID": "com.glority.receipt",
@@ -2034,6 +2018,22 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cumbemg.davinci.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cumbemg.davinci.png"
+    },
+    {
+      "name": "SnoreGym",
+      "type": 1,
+      "bundleID": "com.snoregym.app",
+      "bundleIdentifier": "com.snoregym.app",
+      "version": "1.3.1",
+      "versionDate": "2025-06-25",
+      "fullDate": "20250625163028",
+      "size": 27401292,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/SnoreGym_1.3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/SnoreGym_1.3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snoregym.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snoregym.app.png"
     }
   ],
   "userInfo": {}

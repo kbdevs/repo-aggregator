@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "StudyCards",
+      "type": 1,
+      "bundleID": "com.cameronshemilt.StudyCards",
+      "bundleIdentifier": "com.cameronshemilt.StudyCards",
+      "version": "3.1.1",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010005505",
+      "size": 27802020,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/StudyCards_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/StudyCards_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cameronshemilt.StudyCards.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cameronshemilt.StudyCards.png"
+    },
+    {
+      "name": "AAI",
+      "type": 1,
+      "bundleID": "app.aplusai",
+      "bundleIdentifier": "app.aplusai",
+      "version": "1.0.7",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010005001",
+      "size": 9241132,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/AAI_1.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/AAI_1.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.aplusai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.aplusai.png"
+    },
+    {
+      "name": "Dehancer",
+      "type": 1,
+      "bundleID": "com.dehancer.film.ios-app",
+      "bundleIdentifier": "com.dehancer.film.ios-app",
+      "version": "5.1",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010001945",
+      "size": 190895852,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/Dehancer_5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/Dehancer_5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png"
+    },
+    {
+      "name": "SigStick",
+      "type": 1,
+      "bundleID": "com.ooeric.SignStick1",
+      "bundleIdentifier": "com.ooeric.SignStick1",
+      "version": "5.32.2",
+      "versionDate": "2025-10-09",
+      "fullDate": "20251009232428",
+      "size": 59252398,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/SigStick_5.32.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/SigStick_5.32.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png"
+    },
+    {
       "name": "iLovePDF",
       "type": 1,
       "bundleID": "com.ilovepdf.www",
@@ -1156,22 +1220,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png"
     },
     {
-      "name": "Swiftgram",
-      "type": 1,
-      "bundleID": "app.swiftgram.ios",
-      "bundleIdentifier": "app.swiftgram.ios",
-      "version": "11.15",
-      "versionDate": "2025-09-04",
-      "fullDate": "20250904223633",
-      "size": 83638646,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2025/Swiftgram_11.15_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2025/Swiftgram_11.15_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
-    },
-    {
       "name": "Monet",
       "type": 1,
       "bundleID": "co.appnation.artgenerator",
@@ -1282,22 +1330,6 @@
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
-    },
-    {
-      "name": "FaceLab",
-      "type": 1,
-      "bundleID": "com.lyrebirdstudio.facelab",
-      "bundleIdentifier": "com.lyrebirdstudio.facelab",
-      "version": "4.42.0",
-      "versionDate": "2025-08-27",
-      "fullDate": "20250827214615",
-      "size": 162549777,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2025/FaceLab_4.42.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2025/FaceLab_4.42.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png"
     },
     {
       "name": "KitariaFables",
@@ -1522,22 +1554,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ndemiccreations.survivors.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ndemiccreations.survivors.png"
-    },
-    {
-      "name": "BoxBox",
-      "type": 1,
-      "bundleID": "club.boxbox.widgets-ios",
-      "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.2.2",
-      "versionDate": "2025-08-25",
-      "fullDate": "20250825152138",
-      "size": 88245959,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/BoxBox_5.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/BoxBox_5.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png"
     },
     {
       "name": "Musify",
@@ -2018,22 +2034,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tw.tyche.voicetube.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tw.tyche.voicetube.png"
-    },
-    {
-      "name": "WebVideoCast",
-      "type": 1,
-      "bundleID": "com.instantbits.cast.webvideo",
-      "bundleIdentifier": "com.instantbits.cast.webvideo",
-      "version": "2.48",
-      "versionDate": "2025-08-18",
-      "fullDate": "20250818024155",
-      "size": 47665038,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2025/WebVideoCast_2.48_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2025/WebVideoCast_2.48_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png"
     }
   ],
   "userInfo": {}
