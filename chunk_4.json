@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "VideoGPTPublic",
+      "type": 1,
+      "bundleID": "com.elven.video",
+      "bundleIdentifier": "com.elven.video",
+      "version": "4.7",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010023037",
+      "size": 242326016,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/VideoGPTPublic_4.7_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/VideoGPTPublic_4.7_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elven.video.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elven.video.png"
+    },
+    {
+      "name": "ReminiPublic",
+      "type": 1,
+      "bundleID": "com.bigwinepot.nwdn.international",
+      "bundleIdentifier": "com.bigwinepot.nwdn.international",
+      "version": "2.10.156",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010015024",
+      "size": 154617594,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/ReminiPublic_2.10.156_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/ReminiPublic_2.10.156_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png"
+    },
+    {
       "name": "StudyCards",
       "type": 1,
       "bundleID": "com.cameronshemilt.StudyCards",
@@ -660,22 +692,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png"
     },
     {
-      "name": "Sketchar",
-      "type": 1,
-      "bundleID": "tech.sketchar.ios",
-      "bundleIdentifier": "tech.sketchar.ios",
-      "version": "10.0.4",
-      "versionDate": "2025-09-24",
-      "fullDate": "20250924173055",
-      "size": 194895089,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Sketchar_10.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Sketchar_10.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png"
-    },
-    {
       "name": "Ornament",
       "type": 1,
       "bundleID": "com.ornament.ornament.health",
@@ -1234,22 +1250,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.artgenerator.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.artgenerator.png"
-    },
-    {
-      "name": "Evertag",
-      "type": 1,
-      "bundleID": "com.leshko.tagseditor",
-      "bundleIdentifier": "com.leshko.tagseditor",
-      "version": "3.8",
-      "versionDate": "2025-09-01",
-      "fullDate": "20250901231133",
-      "size": 37911678,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/Evertag_3.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/Evertag_3.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png"
     },
     {
       "name": "HelloAI",
