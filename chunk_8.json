@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "myTunerRadio",
+      "type": 1,
+      "bundleID": "mobi.digitalminds.itunerfree",
+      "bundleIdentifier": "mobi.digitalminds.itunerfree",
+      "version": "9.5.7",
+      "versionDate": "2025-05-06",
+      "fullDate": "20250506190853",
+      "size": 79592337,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png"
+    },
+    {
+      "name": "PREQUEL",
+      "type": 1,
+      "bundleID": "com.aiarlabs.prequel",
+      "bundleIdentifier": "com.aiarlabs.prequel",
+      "version": "2.69.0",
+      "versionDate": "2025-05-06",
+      "fullDate": "20250506141618",
+      "size": 200036691,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Satella",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
+    },
+    {
+      "name": "Pinterest",
+      "type": 1,
+      "bundleID": "pinterest",
+      "bundleIdentifier": "pinterest",
+      "version": "13.15",
+      "versionDate": "2025-05-06",
+      "fullDate": "20250506071416",
+      "size": 102527304,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Pinterest_13.15_NoAds_%40thisismanpreets_apptesters.org.ipa.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with NoAds",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png"
+    },
+    {
       "name": "Finch",
       "type": 1,
       "bundleID": "com.finch.finch",
@@ -3507,131 +3555,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1285",
       "formatedsize": "56.84 MB",
       "size": 59601059
-    },
-    {
-      "name": "Outlets Rush (Hack)",
-      "bundleIdentifier": "com.corestudios.storemanagementidle",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.corestudios.storemanagementidle\n\n Downloads: 299\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726695722.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17266957174569103688.webp",
-        "https://apps.nabzclan.vip/screenshots/17266957180198775060.webp",
-        "https://apps.nabzclan.vip/screenshots/17266957199474273318.webp",
-        "https://apps.nabzclan.vip/screenshots/17266957201692594934.webp",
-        "https://apps.nabzclan.vip/screenshots/17266957221636565244.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.82.0",
-          "date": "2025-03-17 12:05:37",
-          "localizedDescription": "Current of Outlets Rush (Hack) - 1.82.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1283",
-          "size": 166377553
-        },
-        {
-          "version": "1.75.0",
-          "date": "2025-01-01 19:35:07",
-          "localizedDescription": "Old Version of Outlets Rush (Hack) - 1.75.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1160",
-          "size": 168925593
-        },
-        {
-          "version": "1.82.0",
-          "date": "2025-03-17 12:05:37",
-          "localizedDescription": "Old Version of Outlets Rush (Hack) - 1.82.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1283",
-          "size": 166377553
-        }
-      ],
-      "version": "1.82.0",
-      "versionDate": "2025-03-17 12:05:37",
-      "versionDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1283",
-      "formatedsize": "158.67 MB",
-      "size": 166377553
-    },
-    {
-      "name": "Flick Goal! (Hacked)",
-      "bundleIdentifier": "mobi.gameguru.flickgoal",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: mobi.gameguru.flickgoal\n\n Downloads: 137\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742206504.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422065036888620772.webp",
-        "https://apps.nabzclan.vip/screenshots/17422065038293521450.webp",
-        "https://apps.nabzclan.vip/screenshots/17422065039623010184.webp",
-        "https://apps.nabzclan.vip/screenshots/17422065040861684117.webp",
-        "https://apps.nabzclan.vip/screenshots/17422065042116739938.webp",
-        "https://apps.nabzclan.vip/screenshots/17422065043287427287.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.4",
-          "date": "2025-03-17 06:15:04",
-          "localizedDescription": "Current of Flick Goal! (Hacked) - 2.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1281",
-          "size": 169481338
-        },
-        {
-          "version": "2.0.4",
-          "date": "2025-03-17 06:15:04",
-          "localizedDescription": "Old Version of Flick Goal! (Hacked) - 2.0.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1281",
-          "size": 169481338
-        }
-      ],
-      "version": "2.0.4",
-      "versionDate": "2025-03-17 06:15:04",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1281",
-      "formatedsize": "161.63 MB",
-      "size": 169481338
-    },
-    {
-      "name": "Flip Runner (Hacked)",
-      "bundleIdentifier": "com.motionvolt.fliprunner",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.motionvolt.fliprunner\n\n Downloads: 129\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742206292.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422062912854802280.webp",
-        "https://apps.nabzclan.vip/screenshots/17422062922743342135.webp",
-        "https://apps.nabzclan.vip/screenshots/17422062924606102644.webp",
-        "https://apps.nabzclan.vip/screenshots/17422062926365125722.webp",
-        "https://apps.nabzclan.vip/screenshots/17422062927929293621.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.1.30",
-          "date": "2025-03-17 06:11:33",
-          "localizedDescription": "Current of Flip Runner (Hacked) - 3.1.30",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1280",
-          "size": 156552396
-        },
-        {
-          "version": "3.1.30",
-          "date": "2025-03-17 06:11:33",
-          "localizedDescription": "Old Version of Flip Runner (Hacked) - 3.1.30",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1280",
-          "size": 156552396
-        }
-      ],
-      "version": "3.1.30",
-      "versionDate": "2025-03-17 06:11:33",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases (press buy then cancel)\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1280",
-      "formatedsize": "149.3 MB",
-      "size": 156552396
     }
   ],
   "userInfo": {}
