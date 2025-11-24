@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Summarify",
+      "type": 1,
+      "bundleID": "nz.digitaltools.Tube-GPT",
+      "bundleIdentifier": "nz.digitaltools.Tube-GPT",
+      "version": "3.9.0",
+      "versionDate": "2025-08-20",
+      "fullDate": "20250820143541",
+      "size": 25828144,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2025/Summarify_3.9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2025/Summarify_3.9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png"
+    },
+    {
       "name": "YPT",
       "type": 1,
       "bundleID": "com.pallo.passionTimerScoped",
@@ -498,22 +514,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoshoot.headshotaigenerator.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoshoot.headshotaigenerator.png"
-    },
-    {
-      "name": "iSTB",
-      "type": 1,
-      "bundleID": "com.na.istb",
-      "bundleIdentifier": "com.na.istb",
-      "version": "1.28.10",
-      "versionDate": "2025-07-14",
-      "fullDate": "20250714191907",
-      "size": 38396178,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/iSTB_1.28.10_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/iSTB_1.28.10_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png"
     },
     {
       "name": "WedslyPlanning",
@@ -1652,6 +1652,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
     },
     {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704082624",
+      "size": 176231919,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
       "name": "ReceiptLens",
       "type": 1,
       "bundleID": "com.glority.receipt",
@@ -2018,22 +2034,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.mindist.noise.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.mindist.noise.png"
-    },
-    {
-      "name": "ProCamera",
-      "type": 1,
-      "bundleID": "com.cocologics.ProCamera",
-      "bundleIdentifier": "com.cocologics.ProCamera",
-      "version": "18.3.7",
-      "versionDate": "2025-06-28",
-      "fullDate": "20250628151110",
-      "size": 112880119,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/ProCamera_18.3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/ProCamera_18.3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Smallpdf",
+      "type": 1,
+      "bundleID": "com.smallpdf.app.ios",
+      "bundleIdentifier": "com.smallpdf.app.ios",
+      "version": "1.53.60",
+      "versionDate": "2025-10-12",
+      "fullDate": "20251012010212",
+      "size": 108346784,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/Smallpdf_1.53.60_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/Smallpdf_1.53.60_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.smallpdf.app.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.smallpdf.app.ios.png"
+    },
+    {
       "name": "RunGo",
       "type": 1,
       "bundleID": "com.leapingcoyote.rungo",
@@ -2018,22 +2034,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png"
-    },
-    {
-      "name": "Summarify",
-      "type": 1,
-      "bundleID": "nz.digitaltools.Tube-GPT",
-      "bundleIdentifier": "nz.digitaltools.Tube-GPT",
-      "version": "3.9.0",
-      "versionDate": "2025-08-20",
-      "fullDate": "20250820143541",
-      "size": 25828144,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2025/Summarify_3.9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2025/Summarify_3.9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png"
     }
   ],
   "userInfo": {}
