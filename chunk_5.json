@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "PhotoApp",
+      "type": 1,
+      "bundleID": "com.scaleup.photofx",
+      "bundleIdentifier": "com.scaleup.photofx",
+      "version": "2.7.9",
+      "versionDate": "2025-08-22",
+      "fullDate": "20250822015841",
+      "size": 491971766,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2025/PhotoApp_2.7.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2025/PhotoApp_2.7.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png"
+    },
+    {
       "name": "Summarify",
       "type": 1,
       "bundleID": "nz.digitaltools.Tube-GPT",
@@ -1650,22 +1666,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
-    },
-    {
-      "name": "CamScanner",
-      "type": 1,
-      "bundleID": "com.intsig.CamScannerLite",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "6.91.1",
-      "versionDate": "2025-07-04",
-      "fullDate": "20250704082624",
-      "size": 176231919,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
     },
     {
       "name": "ReceiptLens",

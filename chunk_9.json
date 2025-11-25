@@ -4,6 +4,52 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Smash Hit (Hack 2)",
+      "bundleIdentifier": "com.mediocre.smashhit",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: com.mediocre.smashhit\n\n Downloads: 371\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1727748381.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17277483720418051070.webp",
+        "https://apps.nabzclan.vip/screenshots/17277483744221226178.webp",
+        "https://apps.nabzclan.vip/screenshots/17277483761984490137.webp",
+        "https://apps.nabzclan.vip/screenshots/17277483768565599880.webp",
+        "https://apps.nabzclan.vip/screenshots/17277483796396852159.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5.5",
+          "date": "2025-03-17 12:28:15",
+          "localizedDescription": "Current of Smash Hit (Hack 2) - 1.5.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1285",
+          "size": 59601059
+        },
+        {
+          "version": "1.5.3",
+          "date": "2024-12-20 16:16:06",
+          "localizedDescription": "Old Version of Smash Hit (Hack 2) - 1.5.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1109",
+          "size": 58856570
+        },
+        {
+          "version": "1.5.5",
+          "date": "2025-03-17 12:28:15",
+          "localizedDescription": "Old Version of Smash Hit (Hack 2) - 1.5.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1285",
+          "size": 59601059
+        }
+      ],
+      "version": "1.5.5",
+      "versionDate": "2025-03-17 12:28:15",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1285",
+      "formatedsize": "56.84 MB",
+      "size": 59601059
+    },
+    {
       "name": "Outlets Rush (Hack)",
       "bundleIdentifier": "com.corestudios.storemanagementidle",
       "developerName": "Nabzclan",
@@ -5283,59 +5329,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1022",
       "formatedsize": "77.3 MB",
       "size": 81054924
-    },
-    {
-      "name": "Geometry Dash",
-      "bundleIdentifier": "com.robtop.geometryjumplite",
-      "developerName": "RobTop Games AB",
-      "subtitle": "Jump and fly your way through danger in this rhythm-based action platformer!",
-      "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.robtop.geometryjumplite\n\n Downloads: 2757\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1691163840.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16911638393407550219.webp",
-        "https://apps.nabzclan.vip/screenshots/16911638400205766391.webp",
-        "https://apps.nabzclan.vip/screenshots/16911638401701471975.webp",
-        "https://apps.nabzclan.vip/screenshots/16911638403225498977.webp",
-        "https://apps.nabzclan.vip/screenshots/16911638404858349347.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.207",
-          "date": "2024-11-15 14:06:59",
-          "localizedDescription": "Current of Geometry Dash - 2.207",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1021",
-          "size": 162843852
-        },
-        {
-          "version": "2.11",
-          "date": "2023-08-04 15:44:00",
-          "localizedDescription": "Old Version of Geometry Dash - 2.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/140",
-          "size": 76598476
-        },
-        {
-          "version": "2.206",
-          "date": "2024-11-06 12:24:38",
-          "localizedDescription": "Old Version of Geometry Dash - 2.206",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/900",
-          "size": 160327270
-        },
-        {
-          "version": "2.207",
-          "date": "2024-11-15 14:06:59",
-          "localizedDescription": "Old Version of Geometry Dash - 2.207",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1021",
-          "size": 162843852
-        }
-      ],
-      "version": "2.207",
-      "versionDate": "2024-11-15 14:06:59",
-      "versionDescription": "Jump and fly your way through danger in this rhythm-based action platformer!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1021",
-      "formatedsize": "155.3 MB",
-      "size": 162843852
     }
   ],
   "userInfo": {}
