@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "AdventureBay",
+      "type": 2,
+      "bundleID": "com.gamegos.adventure.bay.paradise.farm",
+      "bundleIdentifier": "com.gamegos.adventure.bay.paradise.farm",
+      "version": "1.38.19",
+      "versionDate": "2025-05-09",
+      "fullDate": "20250509164821",
+      "size": 209709895,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/AdventureBay_1.38.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/AdventureBay_1.38.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamegos.adventure.bay.paradise.farm.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamegos.adventure.bay.paradise.farm.png"
+    },
+    {
+      "name": "PodcastyAI",
+      "type": 1,
+      "bundleID": "com.stbokarev.podcastyai",
+      "bundleIdentifier": "com.stbokarev.podcastyai",
+      "version": "1.1.22",
+      "versionDate": "2025-05-09",
+      "fullDate": "20250509153302",
+      "size": 22003782,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png"
+    },
+    {
+      "name": "BrainOut",
+      "type": 2,
+      "bundleID": "com.mind.quiz.brain.out",
+      "bundleIdentifier": "com.mind.quiz.brain.out",
+      "version": "1.6.0",
+      "versionDate": "2025-05-09",
+      "fullDate": "20250509135750",
+      "size": 80795209,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/BrainOut_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/BrainOut_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brain.out.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brain.out.png"
+    },
+    {
+      "name": "AdGuardHome",
+      "type": 1,
+      "bundleID": "adguardhome.remote.app",
+      "bundleIdentifier": "adguardhome.remote.app",
+      "version": "5.3.2",
+      "versionDate": "2025-05-09",
+      "fullDate": "20250509134248",
+      "size": 18768491,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/AdGuardHome_5.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/AdGuardHome_5.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/adguardhome.remote.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/adguardhome.remote.app.png"
+    },
+    {
       "name": "TomboftheMask",
       "type": 2,
       "bundleID": "com.happymagenta.fromcore",
@@ -292,22 +356,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
-      "name": "AndalusiDesign",
-      "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
-    },
-    {
       "name": "RashaqaWorkout",
       "type": 1,
       "bundleID": "com.madarsoft.fitness",
@@ -498,22 +546,6 @@
       "localizedDescription": "Injected with NoAds",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.investing.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.investing.app.png"
-    },
-    {
-      "name": "TvRemote",
-      "type": 1,
-      "bundleID": "evolly.app.rokuremote",
-      "bundleIdentifier": "evolly.app.rokuremote",
-      "version": "2.0.4",
-      "versionDate": "2025-02-12",
-      "fullDate": "20250212150626",
-      "size": 81369164,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/TvRemote_2.0.4_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/TvRemote_2.0.4_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/evolly.app.rokuremote.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/evolly.app.rokuremote.png"
     },
     {
       "name": "HearBoost",
@@ -3487,44 +3519,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1287",
       "formatedsize": "134 MB",
       "size": 140509184
-    },
-    {
-      "name": "Drive Ahead! Sports (Hacked)",
-      "bundleIdentifier": "com.dodreams.driveaheadsports",
-      "developerName": "nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.dodreams.driveaheadsports\n\n Downloads: 193\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742229050.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422290498927220617.webp",
-        "https://apps.nabzclan.vip/screenshots/17422290499459003695.webp",
-        "https://apps.nabzclan.vip/screenshots/17422290500739206269.webp",
-        "https://apps.nabzclan.vip/screenshots/17422290501909159709.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.20.7",
-          "date": "2025-03-17 12:30:50",
-          "localizedDescription": "Current of Drive Ahead! Sports (Hacked) - 2.20.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1286",
-          "size": 105486745
-        },
-        {
-          "version": "2.20.7",
-          "date": "2025-03-17 12:30:50",
-          "localizedDescription": "Old Version of Drive Ahead! Sports (Hacked) - 2.20.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1286",
-          "size": 105486745
-        }
-      ],
-      "version": "2.20.7",
-      "versionDate": "2025-03-17 12:30:50",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1286",
-      "formatedsize": "100.6 MB",
-      "size": 105486745
     }
   ],
   "userInfo": {}

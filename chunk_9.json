@@ -4,6 +4,44 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Drive Ahead! Sports (Hacked)",
+      "bundleIdentifier": "com.dodreams.driveaheadsports",
+      "developerName": "nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.dodreams.driveaheadsports\n\n Downloads: 193\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1742229050.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17422290498927220617.webp",
+        "https://apps.nabzclan.vip/screenshots/17422290499459003695.webp",
+        "https://apps.nabzclan.vip/screenshots/17422290500739206269.webp",
+        "https://apps.nabzclan.vip/screenshots/17422290501909159709.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.20.7",
+          "date": "2025-03-17 12:30:50",
+          "localizedDescription": "Current of Drive Ahead! Sports (Hacked) - 2.20.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1286",
+          "size": 105486745
+        },
+        {
+          "version": "2.20.7",
+          "date": "2025-03-17 12:30:50",
+          "localizedDescription": "Old Version of Drive Ahead! Sports (Hacked) - 2.20.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1286",
+          "size": 105486745
+        }
+      ],
+      "version": "2.20.7",
+      "versionDate": "2025-03-17 12:30:50",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1286",
+      "formatedsize": "100.6 MB",
+      "size": 105486745
+    },
+    {
       "name": "Smash Hit (Hack 2)",
       "bundleIdentifier": "com.mediocre.smashhit",
       "developerName": "Nabzclan",

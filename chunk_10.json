@@ -5215,6 +5215,46 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/309",
       "formatedsize": "142.92 MB",
       "size": 149862481
+    },
+    {
+      "name": "Snake.io - Fun Online Slither (MOD)",
+      "bundleIdentifier": "com.amelosinteractive.snake",
+      "developerName": "Kamo",
+      "subtitle": "MOD (Drone View, Skin Unlocked)",
+      "localizedDescription": "MOD (Drone View, Skin Unlocked)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.amelosinteractive.snake\n\n Downloads: 389\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700107745.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17001077381206636817.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077387127913615.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077387932408895.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077405847730356.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077423706686641.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077443562013712.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.16.69",
+          "date": "2023-11-16 04:09:05",
+          "localizedDescription": "Current of Snake.io - Fun Online Slither (MOD) - 1.16.69",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/302",
+          "size": 66804776
+        },
+        {
+          "version": "1.16.69",
+          "date": "2023-11-16 04:09:05",
+          "localizedDescription": "Old Version of Snake.io - Fun Online Slither (MOD) - 1.16.69",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/302",
+          "size": 66804776
+        }
+      ],
+      "version": "1.16.69",
+      "versionDate": "2023-11-16 04:09:05",
+      "versionDescription": "MOD (Drone View, Skin Unlocked)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/302",
+      "formatedsize": "63.71 MB",
+      "size": 66804776
     }
   ],
   "userInfo": {}
