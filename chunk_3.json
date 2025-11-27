@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "AlightMotion",
+      "type": 1,
+      "bundleID": "com.alightcreative.motion",
+      "bundleIdentifier": "com.alightcreative.motion",
+      "version": "6.2.44",
+      "versionDate": "2025-11-13",
+      "fullDate": "20251113142400",
+      "size": 124476340,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2025/AlightMotion_6.2.44_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2025/AlightMotion_6.2.44_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
+    },
+    {
+      "name": "HiWidget",
+      "type": 1,
+      "bundleID": "com.zerone.hidesktop",
+      "bundleIdentifier": "com.zerone.hidesktop",
+      "version": "4.3.55",
+      "versionDate": "2025-11-13",
+      "fullDate": "20251113081825",
+      "size": 420617002,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2025/HiWidget_4.3.55_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2025/HiWidget_4.3.55_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
+    },
+    {
+      "name": "LUTStudio",
+      "type": 1,
+      "bundleID": "com.solveit.lut-studio",
+      "bundleIdentifier": "com.solveit.lut-studio",
+      "version": "2.3.7",
+      "versionDate": "2025-11-13",
+      "fullDate": "20251113065314",
+      "size": 109367997,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2025/LUTStudio_2.3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2025/LUTStudio_2.3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png"
+    },
+    {
       "name": "Peachy",
       "type": 1,
       "bundleID": "com.camerasideas.Peachy",
@@ -340,22 +388,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png"
     },
     {
-      "name": "ProCCD",
-      "type": 1,
-      "bundleID": "com.yengshine.proccd",
-      "bundleIdentifier": "com.yengshine.proccd",
-      "version": "5.1.1",
-      "versionDate": "2025-11-08",
-      "fullDate": "20251108001105",
-      "size": 249623594,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2025/ProCCD_5.1.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2025/ProCCD_5.1.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png"
-    },
-    {
       "name": "Avatarify",
       "type": 1,
       "bundleID": "com.v43years.avatarify2",
@@ -418,22 +450,6 @@
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png"
-    },
-    {
-      "name": "GOWOD",
-      "type": 1,
-      "bundleID": "eu.gowod",
-      "bundleIdentifier": "eu.gowod",
-      "version": "5.3.0",
-      "versionDate": "2025-11-06",
-      "fullDate": "20251106141616",
-      "size": 55848523,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/GOWOD_5.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/GOWOD_5.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png"
     },
     {
       "name": "Acrobat",
@@ -2034,22 +2050,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png"
-    },
-    {
-      "name": "BrainTest2",
-      "type": 2,
-      "bundleID": "com.unicostudio.braintest2",
-      "bundleIdentifier": "com.unicostudio.braintest2",
-      "version": "1.20.43",
-      "versionDate": "2025-10-16",
-      "fullDate": "20251016231931",
-      "size": 126685476,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2025/BrainTest2_1.20.43_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2025/BrainTest2_1.20.43_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png"
     }
   ],
   "userInfo": {}
