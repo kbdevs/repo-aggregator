@@ -4,6 +4,86 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Scratch Adventure: Sex Games (Premium)",
+      "bundleIdentifier": "com.MauriceWirthInternetagentur.ScratchAdventure",
+      "developerName": "nabzclan",
+      "subtitle": "Premium Features unlocked",
+      "localizedDescription": "Premium Features unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.MauriceWirthInternetagentur.ScratchAdventure\n\n Downloads: 1715\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700381587.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17003815856859933765.webp",
+        "https://apps.nabzclan.vip/screenshots/17003815864715008403.webp",
+        "https://apps.nabzclan.vip/screenshots/17003815866554767962.webp",
+        "https://apps.nabzclan.vip/screenshots/17003815868258823875.webp",
+        "https://apps.nabzclan.vip/screenshots/17003815869903023242.webp",
+        "https://apps.nabzclan.vip/screenshots/17003815871493395288.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "6.53.0",
+          "date": "2023-11-19 08:13:07",
+          "localizedDescription": "Current of Scratch Adventure: Sex Games (Premium) - 6.53.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/309",
+          "size": 149862481
+        },
+        {
+          "version": "6.53.0",
+          "date": "2023-11-19 08:13:07",
+          "localizedDescription": "Old Version of Scratch Adventure: Sex Games (Premium) - 6.53.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/309",
+          "size": 149862481
+        }
+      ],
+      "version": "6.53.0",
+      "versionDate": "2023-11-19 08:13:07",
+      "versionDescription": "Premium Features unlocked",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/309",
+      "formatedsize": "142.92 MB",
+      "size": 149862481
+    },
+    {
+      "name": "Snake.io - Fun Online Slither (MOD)",
+      "bundleIdentifier": "com.amelosinteractive.snake",
+      "developerName": "Kamo",
+      "subtitle": "MOD (Drone View, Skin Unlocked)",
+      "localizedDescription": "MOD (Drone View, Skin Unlocked)\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.amelosinteractive.snake\n\n Downloads: 389\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700107745.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17001077381206636817.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077387127913615.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077387932408895.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077405847730356.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077423706686641.webp",
+        "https://apps.nabzclan.vip/screenshots/17001077443562013712.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.16.69",
+          "date": "2023-11-16 04:09:05",
+          "localizedDescription": "Current of Snake.io - Fun Online Slither (MOD) - 1.16.69",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/302",
+          "size": 66804776
+        },
+        {
+          "version": "1.16.69",
+          "date": "2023-11-16 04:09:05",
+          "localizedDescription": "Old Version of Snake.io - Fun Online Slither (MOD) - 1.16.69",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/302",
+          "size": 66804776
+        }
+      ],
+      "version": "1.16.69",
+      "versionDate": "2023-11-16 04:09:05",
+      "versionDescription": "MOD (Drone View, Skin Unlocked)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/302",
+      "formatedsize": "63.71 MB",
+      "size": 66804776
+    },
+    {
       "name": "Cyber Dead: Metal Super Squad (MOD)",
       "bundleIdentifier": "com.anglesgames.cyberdead",
       "developerName": "nabzclan",
@@ -2221,28 +2301,6 @@
       "developerName": "IAppsBestLibrary",
       "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
-    },
-    {
-      "name": "MoisesPremium",
-      "bundleIdentifier": "ai.moises",
-      "version": "2.40.0",
-      "versionDate": "2024-10-11",
-      "size": 60999285,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
-    },
-    {
-      "name": "Misaka",
-      "bundleIdentifier": "com.straight-tamago.misakaRS",
-      "version": "3.3.5",
-      "versionDate": "2024-10-10",
-      "size": 28563166,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
-      "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     }
   ],
   "userInfo": {}
