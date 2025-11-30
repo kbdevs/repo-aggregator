@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "LiveScore",
+      "type": 1,
+      "bundleID": "LiveScore",
+      "bundleIdentifier": "LiveScore",
+      "version": "8.7.2",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510150012",
+      "size": 79924994,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LiveScore_8.7.2_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LiveScore_8.7.2_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LiveScore.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LiveScore.png"
+    },
+    {
       "name": "ZenColor",
       "type": 2,
       "bundleID": "happy.paint.color.coloring.number",
@@ -3424,53 +3440,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1292",
       "formatedsize": "51.34 MB",
       "size": 53833891
-    },
-    {
-      "name": "Cooking Town - Restaurant Game (Hack)",
-      "bundleIdentifier": "com.cookingtown.chef.kitchen.restaurant.diner",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.cookingtown.chef.kitchen.restaurant.diner\n\n Downloads: 134\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1734217721.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342177189863055850.webp",
-        "https://apps.nabzclan.vip/screenshots/17342177191451261497.webp",
-        "https://apps.nabzclan.vip/screenshots/17342177205376584591.webp",
-        "https://apps.nabzclan.vip/screenshots/17342177209741745880.webp",
-        "https://apps.nabzclan.vip/screenshots/17342177210962924191.webp",
-        "https://apps.nabzclan.vip/screenshots/17342177212045204075.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.23.11",
-          "date": "2025-03-17 12:50:57",
-          "localizedDescription": "Current of Cooking Town - Restaurant Game (Hack) - 1.23.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1290",
-          "size": 179096780
-        },
-        {
-          "version": "1.23.7",
-          "date": "2024-12-14 18:08:41",
-          "localizedDescription": "Old Version of Cooking Town - Restaurant Game (Hack) - 1.23.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1098",
-          "size": 171924520
-        },
-        {
-          "version": "1.23.11",
-          "date": "2025-03-17 12:50:57",
-          "localizedDescription": "Old Version of Cooking Town - Restaurant Game (Hack) - 1.23.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1290",
-          "size": 179096780
-        }
-      ],
-      "version": "1.23.11",
-      "versionDate": "2025-03-17 12:50:57",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1290",
-      "formatedsize": "170.8 MB",
-      "size": 179096780
     }
   ],
   "userInfo": {}

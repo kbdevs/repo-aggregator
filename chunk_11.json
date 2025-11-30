@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Trivia Crack (No Ads)",
+      "bundleIdentifier": "com.etermax.preguntados.pro",
+      "developerName": "Play fun and ad-free quizzes\u202a!\u202c",
+      "subtitle": "Wanna play some no-ad games and become a Pro? Trivia Crack No Ads is a thrilling trivia game if you love competing with friends and family! Test your knowledge and prove you are the smartest not only by answering trivia questions but by suggesting multiple-choice questions in this brain test! So if you're looking for ad-free games this is your chance! Enjoy without interruptions tons of trivia questions and be a Pro!",
+      "localizedDescription": "Wanna play some no-ad games and become a Pro? Trivia Crack No Ads is a thrilling trivia game if you love competing with friends and family! Test your knowledge and prove you are the smartest not only by answering trivia questions but by suggesting multiple-choice questions in this brain test! So if you're looking for ad-free games this is your chance! Enjoy without interruptions tons of trivia questions and be a Pro!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.etermax.preguntados.pro\n\n Downloads: 201\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1693087589.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16930875842699892403.webp",
+        "https://apps.nabzclan.vip/screenshots/16930875859788297456.webp",
+        "https://apps.nabzclan.vip/screenshots/16930875862995043589.webp",
+        "https://apps.nabzclan.vip/screenshots/16930875878578314978.webp",
+        "https://apps.nabzclan.vip/screenshots/16930875881953172536.webp",
+        "https://apps.nabzclan.vip/screenshots/16930875895959841066.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.241.0",
+          "date": "2023-11-23 03:51:07",
+          "localizedDescription": "Current of Trivia Crack (No Ads) - 3.241.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/320",
+          "size": 183542743
+        },
+        {
+          "version": "3.227.0",
+          "date": "2023-08-26 22:06:30",
+          "localizedDescription": "Old Version of Trivia Crack (No Ads) - 3.227.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/201",
+          "size": 160149012
+        },
+        {
+          "version": "3.241.0",
+          "date": "2023-11-23 03:51:07",
+          "localizedDescription": "Old Version of Trivia Crack (No Ads) - 3.241.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/320",
+          "size": 183542743
+        }
+      ],
+      "version": "3.241.0",
+      "versionDate": "2023-11-23 03:51:07",
+      "versionDescription": "Wanna play some no-ad games and become a Pro? Trivia Crack No Ads is a thrilling trivia game if you love competing with friends and family! Test your knowledge and prove you are the smartest not only by answering trivia questions but by suggesting multiple-choice questions in this brain test! So if you're looking for ad-free games this is your chance! Enjoy without interruptions tons of trivia questions and be a Pro!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/320",
+      "formatedsize": "175.04 MB",
+      "size": 183542743
+    },
+    {
       "name": "Scratch Adventure: Sex Games (Premium)",
       "bundleIdentifier": "com.MauriceWirthInternetagentur.ScratchAdventure",
       "developerName": "nabzclan",
@@ -2290,17 +2337,6 @@
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
-    },
-    {
-      "name": "MoovitPlus",
-      "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "version": "5.146.1",
-      "versionDate": "2024-10-11",
-      "size": 85759040,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
-      "developerName": "IAppsBestLibrary",
-      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
     }
   ],
   "userInfo": {}

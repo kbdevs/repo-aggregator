@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Cooking Town - Restaurant Game (Hack)",
+      "bundleIdentifier": "com.cookingtown.chef.kitchen.restaurant.diner",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.cookingtown.chef.kitchen.restaurant.diner\n\n Downloads: 134\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1734217721.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17342177189863055850.webp",
+        "https://apps.nabzclan.vip/screenshots/17342177191451261497.webp",
+        "https://apps.nabzclan.vip/screenshots/17342177205376584591.webp",
+        "https://apps.nabzclan.vip/screenshots/17342177209741745880.webp",
+        "https://apps.nabzclan.vip/screenshots/17342177210962924191.webp",
+        "https://apps.nabzclan.vip/screenshots/17342177212045204075.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.23.11",
+          "date": "2025-03-17 12:50:57",
+          "localizedDescription": "Current of Cooking Town - Restaurant Game (Hack) - 1.23.11",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1290",
+          "size": 179096780
+        },
+        {
+          "version": "1.23.7",
+          "date": "2024-12-14 18:08:41",
+          "localizedDescription": "Old Version of Cooking Town - Restaurant Game (Hack) - 1.23.7",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1098",
+          "size": 171924520
+        },
+        {
+          "version": "1.23.11",
+          "date": "2025-03-17 12:50:57",
+          "localizedDescription": "Old Version of Cooking Town - Restaurant Game (Hack) - 1.23.11",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1290",
+          "size": 179096780
+        }
+      ],
+      "version": "1.23.11",
+      "versionDate": "2025-03-17 12:50:57",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1290",
+      "formatedsize": "170.8 MB",
+      "size": 179096780
+    },
+    {
       "name": "Cover Fire: Gun Shooting games (Hacked)",
       "bundleIdentifier": "com.generagames.resistance",
       "developerName": "Nabzclan",
@@ -5328,46 +5375,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1027",
       "formatedsize": "211.77 MB",
       "size": 222056939
-    },
-    {
-      "name": "Harvest Moon: Home Sweet Home",
-      "bundleIdentifier": "com.natsume.hmhome",
-      "developerName": "Natsume Inc.",
-      "subtitle": "Head back to your roots and leave the city life for your childhood village of Alba in Harvest Moon: Home Sweet Home, where the freshest fish and tastiest veggies are grown and caught by the local farmers and anglers!",
-      "localizedDescription": "Head back to your roots and leave the city life for your childhood village of Alba in Harvest Moon: Home Sweet Home, where the freshest fish and tastiest veggies are grown and caught by the local farmers and anglers!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.natsume.hmhome\n\n Downloads: 260\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731698427.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17316984263789251543.webp",
-        "https://apps.nabzclan.vip/screenshots/17316984265037405120.webp",
-        "https://apps.nabzclan.vip/screenshots/17316984266375620213.webp",
-        "https://apps.nabzclan.vip/screenshots/17316984267764373609.webp",
-        "https://apps.nabzclan.vip/screenshots/17316984268956090528.webp",
-        "https://apps.nabzclan.vip/screenshots/17316984270727808512.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2024-11-15 14:20:27",
-          "localizedDescription": "Current of Harvest Moon: Home Sweet Home - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1025",
-          "size": 783600844
-        },
-        {
-          "version": "1.0",
-          "date": "2024-11-15 14:20:27",
-          "localizedDescription": "Old Version of Harvest Moon: Home Sweet Home - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1025",
-          "size": 783600844
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2024-11-15 14:20:27",
-      "versionDescription": "Head back to your roots and leave the city life for your childhood village of Alba in Harvest Moon: Home Sweet Home, where the freshest fish and tastiest veggies are grown and caught by the local farmers and anglers!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1025",
-      "formatedsize": "747.3 MB",
-      "size": 783600844
     }
   ],
   "userInfo": {}
