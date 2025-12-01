@@ -4,6 +4,86 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Recursion (Hack)",
+      "bundleIdentifier": "com.glitchgames.recursion",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.glitchgames.recursion\n\n Downloads: 151\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731799899.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17317998968784570832.webp",
+        "https://apps.nabzclan.vip/screenshots/17317998971153473695.webp",
+        "https://apps.nabzclan.vip/screenshots/17317998971894819711.webp",
+        "https://apps.nabzclan.vip/screenshots/17317998972625689752.webp",
+        "https://apps.nabzclan.vip/screenshots/17317998973157894438.webp",
+        "https://apps.nabzclan.vip/screenshots/17317998978501111686.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2024-11-16 18:31:39",
+          "localizedDescription": "Current of Recursion (Hack) - 1.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1032",
+          "size": 571264204
+        },
+        {
+          "version": "1.0.4",
+          "date": "2024-11-16 18:31:39",
+          "localizedDescription": "Old Version of Recursion (Hack) - 1.0.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1032",
+          "size": 571264204
+        }
+      ],
+      "version": "1.0.4",
+      "versionDate": "2024-11-16 18:31:39",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1032",
+      "formatedsize": "544.8 MB",
+      "size": 571264204
+    },
+    {
+      "name": "Nuclear Day Survival (Hacked)",
+      "bundleIdentifier": "com.somniumfabri.nuclearday",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.somniumfabri.nuclearday\n\n Downloads: 297\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731699830.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17316998296486605215.webp",
+        "https://apps.nabzclan.vip/screenshots/17316998297661776264.webp",
+        "https://apps.nabzclan.vip/screenshots/17316998298474002895.webp",
+        "https://apps.nabzclan.vip/screenshots/17316998299338008140.webp",
+        "https://apps.nabzclan.vip/screenshots/17316998299769419007.webp",
+        "https://apps.nabzclan.vip/screenshots/17316998300285275553.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1.9",
+          "date": "2024-11-15 14:43:50",
+          "localizedDescription": "Current of Nuclear Day Survival (Hacked) - 1.1.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1027",
+          "size": 222056939
+        },
+        {
+          "version": "1.1.9",
+          "date": "2024-11-15 14:43:50",
+          "localizedDescription": "Old Version of Nuclear Day Survival (Hacked) - 1.1.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1027",
+          "size": 222056939
+        }
+      ],
+      "version": "1.1.9",
+      "versionDate": "2024-11-15 14:43:50",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1027",
+      "formatedsize": "211.77 MB",
+      "size": 222056939
+    },
+    {
       "name": "Harvest Moon: Home Sweet Home",
       "bundleIdentifier": "com.natsume.hmhome",
       "developerName": "Natsume Inc.",
@@ -5169,84 +5249,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/324",
       "formatedsize": "199.04 MB",
       "size": 208708567
-    },
-    {
-      "name": "Five Nights at Freddy's",
-      "bundleIdentifier": "com.scottgames.fivenights",
-      "developerName": "You have the night watch",
-      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fivenights\n\n Downloads: 744\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700712724.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17007127192975787800.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127199266762380.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127200388103846.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127207544820062.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127240824586915.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127244313832330.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.3",
-          "date": "2023-11-23 04:12:04",
-          "localizedDescription": "Current of Five Nights at Freddy's - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-          "size": 106210263
-        },
-        {
-          "version": "2.0.3",
-          "date": "2023-11-23 04:12:04",
-          "localizedDescription": "Old Version of Five Nights at Freddy's - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-          "size": 106210263
-        }
-      ],
-      "version": "2.0.3",
-      "versionDate": "2023-11-23 04:12:04",
-      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-      "formatedsize": "101.29 MB",
-      "size": 106210263
-    },
-    {
-      "name": "SoundHound - Music Discovery",
-      "bundleIdentifier": "com.melodis.midomi",
-      "developerName": "Find & play songs with lyrics",
-      "subtitle": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you\u2019re in the car or out and about \u2014 open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we\u2019ll tell you exactly what\u2019s playing! It's been called pure magic \u2014 and with 300M+ downloads and billions of songs discovered \u2014 we tend to agree.",
-      "localizedDescription": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you\u2019re in the car or out and about \u2014 open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we\u2019ll tell you exactly what\u2019s playing! It's been called pure magic \u2014 and with 300M+ downloads and billions of songs discovered \u2014 we tend to agree.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.melodis.midomi\n\n Downloads: 206\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700711782.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17007117814331982228.webp",
-        "https://apps.nabzclan.vip/screenshots/17007117820356900477.webp",
-        "https://apps.nabzclan.vip/screenshots/17007117823201479654.webp",
-        "https://apps.nabzclan.vip/screenshots/17007117827508125361.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "10.2.3",
-          "date": "2023-11-23 03:56:22",
-          "localizedDescription": "Current of SoundHound - Music Discovery - 10.2.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/321",
-          "size": 21810380
-        },
-        {
-          "version": "10.2.3",
-          "date": "2023-11-23 03:56:22",
-          "localizedDescription": "Old Version of SoundHound - Music Discovery - 10.2.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/321",
-          "size": 21810380
-        }
-      ],
-      "version": "10.2.3",
-      "versionDate": "2023-11-23 03:56:22",
-      "versionDescription": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you\u2019re in the car or out and about \u2014 open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we\u2019ll tell you exactly what\u2019s playing! It's been called pure magic \u2014 and with 300M+ downloads and billions of songs discovered \u2014 we tend to agree.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/321",
-      "formatedsize": "20.80 MB",
-      "size": 21810380
     }
   ],
   "userInfo": {}

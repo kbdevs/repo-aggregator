@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "intoLive",
+      "type": 1,
+      "bundleID": "me.imgbase.intolive",
+      "bundleIdentifier": "me.imgbase.intolive",
+      "version": "4.3.1",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510151530",
+      "size": 132727260,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/intoLive_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/intoLive_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png"
+    },
+    {
+      "name": "SolarSmash",
+      "type": 2,
+      "bundleID": "com.paradyme.solarsmasher",
+      "bundleIdentifier": "com.paradyme.solarsmasher",
+      "version": "2.5.4",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510151016",
+      "size": 285807404,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SolarSmash_2.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SolarSmash_2.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paradyme.solarsmasher.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paradyme.solarsmasher.png"
+    },
+    {
       "name": "LiveScore",
       "type": 1,
       "bundleID": "LiveScore",
@@ -3362,84 +3394,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1296",
       "formatedsize": "17.64 MB",
       "size": 18496880
-    },
-    {
-      "name": "Stitchly: Cross stitch (Hacked)",
-      "bundleIdentifier": "com.subtlabs.Stitchly",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: com.subtlabs.Stitchly\n\n Downloads: 100\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742230938.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422309379046182145.webp",
-        "https://apps.nabzclan.vip/screenshots/17422309379707936712.webp",
-        "https://apps.nabzclan.vip/screenshots/17422309380258057207.webp",
-        "https://apps.nabzclan.vip/screenshots/17422309380802014469.webp",
-        "https://apps.nabzclan.vip/screenshots/17422309381283122313.webp",
-        "https://apps.nabzclan.vip/screenshots/17422309381888091324.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.95.3",
-          "date": "2025-03-17 13:02:18",
-          "localizedDescription": "Current of Stitchly: Cross stitch (Hacked) - 2.95.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1293",
-          "size": 42026926
-        },
-        {
-          "version": "2.95.3",
-          "date": "2025-03-17 13:02:18",
-          "localizedDescription": "Old Version of Stitchly: Cross stitch (Hacked) - 2.95.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1293",
-          "size": 42026926
-        }
-      ],
-      "version": "2.95.3",
-      "versionDate": "2025-03-17 13:02:18",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1293",
-      "formatedsize": "40.08 MB",
-      "size": 42026926
-    },
-    {
-      "name": "Hero VS Criminal (Hacked)",
-      "bundleIdentifier": "com.radpirates.herovscriminal",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.radpirates.herovscriminal\n\n Downloads: 171\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742230751.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17422307503216961656.webp",
-        "https://apps.nabzclan.vip/screenshots/17422307504797599195.webp",
-        "https://apps.nabzclan.vip/screenshots/17422307514652855684.webp",
-        "https://apps.nabzclan.vip/screenshots/17422307516143188044.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.89",
-          "date": "2025-03-17 12:59:11",
-          "localizedDescription": "Current of Hero VS Criminal (Hacked) - 0.89",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1292",
-          "size": 53833891
-        },
-        {
-          "version": "0.89",
-          "date": "2025-03-17 12:59:11",
-          "localizedDescription": "Old Version of Hero VS Criminal (Hacked) - 0.89",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1292",
-          "size": 53833891
-        }
-      ],
-      "version": "0.89",
-      "versionDate": "2025-03-17 12:59:11",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1292",
-      "formatedsize": "51.34 MB",
-      "size": 53833891
     }
   ],
   "userInfo": {}

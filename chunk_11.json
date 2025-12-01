@@ -4,6 +4,84 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Five Nights at Freddy's",
+      "bundleIdentifier": "com.scottgames.fivenights",
+      "developerName": "You have the night watch",
+      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
+      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fivenights\n\n Downloads: 744\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700712724.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17007127192975787800.webp",
+        "https://apps.nabzclan.vip/screenshots/17007127199266762380.webp",
+        "https://apps.nabzclan.vip/screenshots/17007127200388103846.webp",
+        "https://apps.nabzclan.vip/screenshots/17007127207544820062.webp",
+        "https://apps.nabzclan.vip/screenshots/17007127240824586915.webp",
+        "https://apps.nabzclan.vip/screenshots/17007127244313832330.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.3",
+          "date": "2023-11-23 04:12:04",
+          "localizedDescription": "Current of Five Nights at Freddy's - 2.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
+          "size": 106210263
+        },
+        {
+          "version": "2.0.3",
+          "date": "2023-11-23 04:12:04",
+          "localizedDescription": "Old Version of Five Nights at Freddy's - 2.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
+          "size": 106210263
+        }
+      ],
+      "version": "2.0.3",
+      "versionDate": "2023-11-23 04:12:04",
+      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/323",
+      "formatedsize": "101.29 MB",
+      "size": 106210263
+    },
+    {
+      "name": "SoundHound - Music Discovery",
+      "bundleIdentifier": "com.melodis.midomi",
+      "developerName": "Find & play songs with lyrics",
+      "subtitle": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you\u2019re in the car or out and about \u2014 open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we\u2019ll tell you exactly what\u2019s playing! It's been called pure magic \u2014 and with 300M+ downloads and billions of songs discovered \u2014 we tend to agree.",
+      "localizedDescription": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you\u2019re in the car or out and about \u2014 open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we\u2019ll tell you exactly what\u2019s playing! It's been called pure magic \u2014 and with 300M+ downloads and billions of songs discovered \u2014 we tend to agree.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.melodis.midomi\n\n Downloads: 206\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700711782.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17007117814331982228.webp",
+        "https://apps.nabzclan.vip/screenshots/17007117820356900477.webp",
+        "https://apps.nabzclan.vip/screenshots/17007117823201479654.webp",
+        "https://apps.nabzclan.vip/screenshots/17007117827508125361.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "10.2.3",
+          "date": "2023-11-23 03:56:22",
+          "localizedDescription": "Current of SoundHound - Music Discovery - 10.2.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/321",
+          "size": 21810380
+        },
+        {
+          "version": "10.2.3",
+          "date": "2023-11-23 03:56:22",
+          "localizedDescription": "Old Version of SoundHound - Music Discovery - 10.2.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/321",
+          "size": 21810380
+        }
+      ],
+      "version": "10.2.3",
+      "versionDate": "2023-11-23 03:56:22",
+      "versionDescription": "Hey, what song is that? SoundHound makes it simple to identify music playing around you. Whether you\u2019re in the car or out and about \u2014 open the app, hit the big orange SoundHound button, let your phone listen for a few seconds, and we\u2019ll tell you exactly what\u2019s playing! It's been called pure magic \u2014 and with 300M+ downloads and billions of songs discovered \u2014 we tend to agree.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/321",
+      "formatedsize": "20.80 MB",
+      "size": 21810380
+    },
+    {
       "name": "Trivia Crack (No Ads)",
       "bundleIdentifier": "com.etermax.preguntados.pro",
       "developerName": "Play fun and ad-free quizzes\u202a!\u202c",
@@ -2315,28 +2393,6 @@
       "developerName": "Zzz Zzz",
       "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
-    },
-    {
-      "name": "Musi",
-      "bundleIdentifier": "com.feelthemusi.musi",
-      "version": "6.2.35",
-      "versionDate": "2024-10-11",
-      "size": 19556756,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
-    },
-    {
-      "name": "MuffinStore",
-      "bundleIdentifier": "dev.mineek.muffinstore",
-      "version": "1.1",
-      "versionDate": "2024-10-11",
-      "size": 29281,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
     }
   ],
   "userInfo": {}

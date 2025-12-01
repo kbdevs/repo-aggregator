@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "TheWay",
+      "type": 1,
+      "bundleID": "com.thewayapp.mobile",
+      "bundleIdentifier": "com.thewayapp.mobile",
+      "version": "1.14.4",
+      "versionDate": "2025-06-09",
+      "fullDate": "20250609203656",
+      "size": 88162108,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/TheWay_1.14.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/TheWay_1.14.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thewayapp.mobile.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thewayapp.mobile.png"
+    },
+    {
+      "name": "Studyable",
+      "type": 1,
+      "bundleID": "app.studyable.ios",
+      "bundleIdentifier": "app.studyable.ios",
+      "version": "1.4.4",
+      "versionDate": "2025-06-09",
+      "fullDate": "20250609203153",
+      "size": 10089381,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Studyable_1.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Studyable_1.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.studyable.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.studyable.ios.png"
+    },
+    {
       "name": "StretchClub",
       "type": 1,
       "bundleID": "com.bowery-digital.stretchx",
@@ -2018,38 +2050,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.loveyouchenapps.knockout.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.loveyouchenapps.knockout.png"
-    },
-    {
-      "name": "intoLive",
-      "type": 1,
-      "bundleID": "me.imgbase.intolive",
-      "bundleIdentifier": "me.imgbase.intolive",
-      "version": "4.3.1",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510151530",
-      "size": 132727260,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/intoLive_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/intoLive_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png"
-    },
-    {
-      "name": "SolarSmash",
-      "type": 2,
-      "bundleID": "com.paradyme.solarsmasher",
-      "bundleIdentifier": "com.paradyme.solarsmasher",
-      "version": "2.5.4",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510151016",
-      "size": 285807404,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SolarSmash_2.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SolarSmash_2.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paradyme.solarsmasher.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paradyme.solarsmasher.png"
     }
   ],
   "userInfo": {}
