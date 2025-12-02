@@ -436,6 +436,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
       "name": "RashaqaWorkout",
       "type": 1,
       "bundleID": "com.madarsoft.fitness",
@@ -3354,46 +3370,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
       "formatedsize": "146.4 MB",
       "size": 153511526
-    },
-    {
-      "name": "Shadowrocket - VPN",
-      "bundleIdentifier": "com.liguangming.Shadowrocket",
-      "developerName": "Rule based proxy utility",
-      "subtitle": "Rule based proxy utility client for iPhone/iPad.",
-      "localizedDescription": "Rule based proxy utility client for iPhone/iPad.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.liguangming.Shadowrocket\n\n Downloads: 1863\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692844050.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16928440477409813436.webp",
-        "https://apps.nabzclan.vip/screenshots/16928440480879872241.webp",
-        "https://apps.nabzclan.vip/screenshots/16928440482559776067.webp",
-        "https://apps.nabzclan.vip/screenshots/16928440483996254135.webp",
-        "https://apps.nabzclan.vip/screenshots/16928440486916319640.webp",
-        "https://apps.nabzclan.vip/screenshots/16928440496304304682.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.2.63",
-          "date": "2025-03-19 17:27:57",
-          "localizedDescription": "Current of Shadowrocket - VPN - 2.2.63",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1296",
-          "size": 18496880
-        },
-        {
-          "version": "2.2.63",
-          "date": "2025-03-19 17:27:57",
-          "localizedDescription": "Old Version of Shadowrocket - VPN - 2.2.63",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1296",
-          "size": 18496880
-        }
-      ],
-      "version": "2.2.63",
-      "versionDate": "2025-03-19 17:27:57",
-      "versionDescription": "Rule based proxy utility client for iPhone/iPad.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1296",
-      "formatedsize": "17.64 MB",
-      "size": 18496880
     }
   ],
   "userInfo": {}

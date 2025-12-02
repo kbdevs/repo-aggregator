@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Shadowrocket - VPN",
+      "bundleIdentifier": "com.liguangming.Shadowrocket",
+      "developerName": "Rule based proxy utility",
+      "subtitle": "Rule based proxy utility client for iPhone/iPad.",
+      "localizedDescription": "Rule based proxy utility client for iPhone/iPad.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.liguangming.Shadowrocket\n\n Downloads: 1863\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692844050.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16928440477409813436.webp",
+        "https://apps.nabzclan.vip/screenshots/16928440480879872241.webp",
+        "https://apps.nabzclan.vip/screenshots/16928440482559776067.webp",
+        "https://apps.nabzclan.vip/screenshots/16928440483996254135.webp",
+        "https://apps.nabzclan.vip/screenshots/16928440486916319640.webp",
+        "https://apps.nabzclan.vip/screenshots/16928440496304304682.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.2.63",
+          "date": "2025-03-19 17:27:57",
+          "localizedDescription": "Current of Shadowrocket - VPN - 2.2.63",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1296",
+          "size": 18496880
+        },
+        {
+          "version": "2.2.63",
+          "date": "2025-03-19 17:27:57",
+          "localizedDescription": "Old Version of Shadowrocket - VPN - 2.2.63",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1296",
+          "size": 18496880
+        }
+      ],
+      "version": "2.2.63",
+      "versionDate": "2025-03-19 17:27:57",
+      "versionDescription": "Rule based proxy utility client for iPhone/iPad.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1296",
+      "formatedsize": "17.64 MB",
+      "size": 18496880
+    },
+    {
       "name": "Stitchly: Cross stitch (Hacked)",
       "bundleIdentifier": "com.subtlabs.Stitchly",
       "developerName": "Nabzclan",
@@ -5326,53 +5366,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1038",
       "formatedsize": "671.1 MB",
       "size": 703699353
-    },
-    {
-      "name": "Zombie Frontier 3 - Crosshair",
-      "bundleIdentifier": "com.feelingtouch.zfsd",
-      "developerName": "Nabzclan",
-      "subtitle": "adds the nabzclan crosshair to the app with no bans!\r\n\r\nCrosshair deb file: https://nabzclan.vip/resources/nabz-crosshair.104/",
-      "localizedDescription": "adds the nabzclan crosshair to the app with no bans!\r\n\r\nCrosshair deb file: https://nabzclan.vip/resources/nabz-crosshair.104/\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.feelingtouch.zfsd\n\n Downloads: 473\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1687778030.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16877780194331764750.webp",
-        "https://apps.nabzclan.vip/screenshots/16877780213698599787.webp",
-        "https://apps.nabzclan.vip/screenshots/16877780238336224968.webp",
-        "https://apps.nabzclan.vip/screenshots/16877780250355353303.webp",
-        "https://apps.nabzclan.vip/screenshots/16877780268543543712.webp",
-        "https://apps.nabzclan.vip/screenshots/16877780285349297692.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.10",
-          "date": "2024-11-18 15:35:57",
-          "localizedDescription": "Current of Zombie Frontier 3 - Crosshair - 2.1.10",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1035",
-          "size": 91173683
-        },
-        {
-          "version": "2.1.0",
-          "date": "2023-07-04 02:54:16",
-          "localizedDescription": "Old Version of Zombie Frontier 3 - Crosshair - 2.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/68",
-          "size": 84578140
-        },
-        {
-          "version": "2.1.10",
-          "date": "2024-11-18 15:35:57",
-          "localizedDescription": "Old Version of Zombie Frontier 3 - Crosshair - 2.1.10",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1035",
-          "size": 91173683
-        }
-      ],
-      "version": "2.1.10",
-      "versionDate": "2024-11-18 15:35:57",
-      "versionDescription": "adds the nabzclan crosshair to the app with no bans!\r\n\r\nCrosshair deb file: https://nabzclan.vip/resources/nabz-crosshair.104/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1035",
-      "formatedsize": "86.95 MB",
-      "size": 91173683
     }
   ],
   "userInfo": {}

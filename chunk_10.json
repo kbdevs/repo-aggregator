@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Zombie Frontier 3 - Crosshair",
+      "bundleIdentifier": "com.feelingtouch.zfsd",
+      "developerName": "Nabzclan",
+      "subtitle": "adds the nabzclan crosshair to the app with no bans!\r\n\r\nCrosshair deb file: https://nabzclan.vip/resources/nabz-crosshair.104/",
+      "localizedDescription": "adds the nabzclan crosshair to the app with no bans!\r\n\r\nCrosshair deb file: https://nabzclan.vip/resources/nabz-crosshair.104/\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.feelingtouch.zfsd\n\n Downloads: 473\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1687778030.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16877780194331764750.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780213698599787.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780238336224968.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780250355353303.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780268543543712.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780285349297692.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1.10",
+          "date": "2024-11-18 15:35:57",
+          "localizedDescription": "Current of Zombie Frontier 3 - Crosshair - 2.1.10",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1035",
+          "size": 91173683
+        },
+        {
+          "version": "2.1.0",
+          "date": "2023-07-04 02:54:16",
+          "localizedDescription": "Old Version of Zombie Frontier 3 - Crosshair - 2.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/68",
+          "size": 84578140
+        },
+        {
+          "version": "2.1.10",
+          "date": "2024-11-18 15:35:57",
+          "localizedDescription": "Old Version of Zombie Frontier 3 - Crosshair - 2.1.10",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1035",
+          "size": 91173683
+        }
+      ],
+      "version": "2.1.10",
+      "versionDate": "2024-11-18 15:35:57",
+      "versionDescription": "adds the nabzclan crosshair to the app with no bans!\r\n\r\nCrosshair deb file: https://nabzclan.vip/resources/nabz-crosshair.104/",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1035",
+      "formatedsize": "86.95 MB",
+      "size": 91173683
+    },
+    {
       "name": "Recursion (Hack)",
       "bundleIdentifier": "com.glitchgames.recursion",
       "developerName": "Nabzclan",
@@ -5209,46 +5256,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/337",
       "formatedsize": "20.11 MB",
       "size": 21086863
-    },
-    {
-      "name": "Ultimate Custom Night",
-      "bundleIdentifier": "com.clickteam.ultimatecustomnight",
-      "developerName": "The ultimate FNaF mashup",
-      "subtitle": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.clickteam.ultimatecustomnight\n\n Downloads: 246\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700713261.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17007132595573242695.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132601321666621.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132604308262544.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132610284986795.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132613349100987.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132616346167645.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.5",
-          "date": "2023-11-23 04:21:02",
-          "localizedDescription": "Current of Ultimate Custom Night - 1.0.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/324",
-          "size": 208708567
-        },
-        {
-          "version": "1.0.5",
-          "date": "2023-11-23 04:21:02",
-          "localizedDescription": "Old Version of Ultimate Custom Night - 1.0.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/324",
-          "size": 208708567
-        }
-      ],
-      "version": "1.0.5",
-      "versionDate": "2023-11-23 04:21:02",
-      "versionDescription": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/324",
-      "formatedsize": "199.04 MB",
-      "size": 208708567
     }
   ],
   "userInfo": {}
