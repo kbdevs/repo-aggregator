@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Little Kitten School + Friends",
+      "bundleIdentifier": "com.foxandsheep.littlekittenschool",
+      "developerName": "Squeakosaurus ug & co. kg",
+      "subtitle": "Yay, Little Kitten is back and so excited about going to primary school! Our app \u201eLittle Kitten & Friends\u201c helps preparing children aged between 4 and 7 for their school start. Training perception, coordination and cognitive abilities - with Little Kitten this is a lot of fun!",
+      "localizedDescription": "Yay, Little Kitten is back and so excited about going to primary school! Our app \u201eLittle Kitten & Friends\u201c helps preparing children aged between 4 and 7 for their school start. Training perception, coordination and cognitive abilities - with Little Kitten this is a lot of fun!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.foxandsheep.littlekittenschool\n\n Downloads: 193\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731970619.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17319706179993028364.webp",
+        "https://apps.nabzclan.vip/screenshots/17319706181144239290.webp",
+        "https://apps.nabzclan.vip/screenshots/17319706182642491830.webp",
+        "https://apps.nabzclan.vip/screenshots/17319706183397975557.webp",
+        "https://apps.nabzclan.vip/screenshots/17319706193741850792.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2024-11-18 17:56:59",
+          "localizedDescription": "Current of Little Kitten School + Friends - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1038",
+          "size": 703699353
+        },
+        {
+          "version": "3.0",
+          "date": "2024-11-18 17:56:59",
+          "localizedDescription": "Old Version of Little Kitten School + Friends - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1038",
+          "size": 703699353
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2024-11-18 17:56:59",
+      "versionDescription": "Yay, Little Kitten is back and so excited about going to primary school! Our app \u201eLittle Kitten & Friends\u201c helps preparing children aged between 4 and 7 for their school start. Training perception, coordination and cognitive abilities - with Little Kitten this is a lot of fun!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1038",
+      "formatedsize": "671.1 MB",
+      "size": 703699353
+    },
+    {
       "name": "Zombie Frontier 3 - Crosshair",
       "bundleIdentifier": "com.feelingtouch.zfsd",
       "developerName": "Nabzclan",
@@ -5221,41 +5260,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/348",
       "formatedsize": "38.09 MB",
       "size": 39940259
-    },
-    {
-      "name": "Flixtools - (No ads)",
-      "bundleIdentifier": "com.qiyumon.show",
-      "developerName": "Nazbclan",
-      "subtitle": "Watch free  Movie Box & TVShow with No ads!",
-      "localizedDescription": "Watch free  Movie Box & TVShow with No ads!\n\n --- \n\n More app Information:\n\n Category: VIP\n\n BundleID: com.qiyumon.show\n\n Downloads: 1424\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1701141163.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.0",
-          "date": "2023-11-28 03:12:43",
-          "localizedDescription": "Current of Flixtools - (No ads) - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/337",
-          "size": 21086863
-        },
-        {
-          "version": "3.0",
-          "date": "2023-11-28 03:12:43",
-          "localizedDescription": "Old Version of Flixtools - (No ads) - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/337",
-          "size": 21086863
-        }
-      ],
-      "version": "3.0",
-      "versionDate": "2023-11-28 03:12:43",
-      "versionDescription": "Watch free  Movie Box & TVShow with No ads!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/337",
-      "formatedsize": "20.11 MB",
-      "size": 21086863
     }
   ],
   "userInfo": {}

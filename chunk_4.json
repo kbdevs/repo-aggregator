@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "TuneTally",
+      "type": 1,
+      "bundleID": "universeye.co.TuneTally",
+      "bundleIdentifier": "universeye.co.TuneTally",
+      "version": "1.13.1",
+      "versionDate": "2025-10-22",
+      "fullDate": "20251022010009",
+      "size": 15461456,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/TuneTally_1.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/TuneTally_1.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/universeye.co.TuneTally.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/universeye.co.TuneTally.png"
+    },
+    {
       "name": "MelonVPNPublic",
       "type": 1,
       "bundleID": "com.vpnbottle.melon.unblock.fast.vpn",
@@ -2034,22 +2050,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.budgestudios.HotWheelsUnlimited.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.budgestudios.HotWheelsUnlimited.png"
-    },
-    {
-      "name": "Masketeers",
-      "type": 2,
-      "bundleID": "com.appxplore.masketeers",
-      "bundleIdentifier": "com.appxplore.masketeers",
-      "version": "4.35.0",
-      "versionDate": "2025-08-23",
-      "fullDate": "20250823211736",
-      "size": 196391413,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Masketeers_4.35.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Masketeers_4.35.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appxplore.masketeers.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appxplore.masketeers.png"
     }
   ],
   "userInfo": {}

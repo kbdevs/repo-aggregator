@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Flixtools - (No ads)",
+      "bundleIdentifier": "com.qiyumon.show",
+      "developerName": "Nazbclan",
+      "subtitle": "Watch free  Movie Box & TVShow with No ads!",
+      "localizedDescription": "Watch free  Movie Box & TVShow with No ads!\n\n --- \n\n More app Information:\n\n Category: VIP\n\n BundleID: com.qiyumon.show\n\n Downloads: 1424\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1701141163.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2023-11-28 03:12:43",
+          "localizedDescription": "Current of Flixtools - (No ads) - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/337",
+          "size": 21086863
+        },
+        {
+          "version": "3.0",
+          "date": "2023-11-28 03:12:43",
+          "localizedDescription": "Old Version of Flixtools - (No ads) - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/337",
+          "size": 21086863
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2023-11-28 03:12:43",
+      "versionDescription": "Watch free  Movie Box & TVShow with No ads!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/337",
+      "formatedsize": "20.11 MB",
+      "size": 21086863
+    },
+    {
       "name": "Ultimate Custom Night",
       "bundleIdentifier": "com.clickteam.ultimatecustomnight",
       "developerName": "The ultimate FNaF mashup",
@@ -2411,17 +2446,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
-    },
-    {
-      "name": "MusixmatchPremium",
-      "bundleIdentifier": "com.musixmatch.lyrics",
-      "version": "7.10.8",
-      "versionDate": "2024-10-11",
-      "size": 74673060,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
     }
   ],
   "userInfo": {}

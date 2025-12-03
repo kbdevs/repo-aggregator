@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Spool",
+      "type": 1,
+      "bundleID": "com.pixiteapps.spool",
+      "bundleIdentifier": "com.pixiteapps.spool",
+      "version": "1.15",
+      "versionDate": "2025-11-18",
+      "fullDate": "20251118030221",
+      "size": 66834899,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Spool_1.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Spool_1.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixiteapps.spool.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixiteapps.spool.png"
+    },
+    {
+      "name": "Lightroom",
+      "type": 1,
+      "bundleID": "com.adobe.lrmobilephone",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "version": "11.0.1",
+      "versionDate": "2025-11-18",
+      "fullDate": "20251118004706",
+      "size": 196607458,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Lightroom_11.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Lightroom_11.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
+    },
+    {
+      "name": "Headway",
+      "type": 1,
+      "bundleID": "com.headway.books",
+      "bundleIdentifier": "com.headway.books",
+      "version": "356.2",
+      "versionDate": "2025-11-17",
+      "fullDate": "20251117222547",
+      "size": 243708071,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2025/Headway_356.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2025/Headway_356.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+    },
+    {
       "name": "Noir",
       "type": 1,
       "bundleID": "nl.jeffreykuiken.NoirApp",
@@ -1492,22 +1540,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png"
     },
     {
-      "name": "CollaNote",
-      "type": 1,
-      "bundleID": "net.quochuywdm.collanote496",
-      "bundleIdentifier": "net.quochuywdm.collanote496",
-      "version": "4.0.1",
-      "versionDate": "2025-10-30",
-      "fullDate": "20251030115857",
-      "size": 128007194,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/CollaNote_4.0.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/CollaNote_4.0.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png"
-    },
-    {
       "name": "LumaFusion",
       "type": 1,
       "bundleID": "com.luma-touch.LumaFusion",
@@ -1924,22 +1956,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png"
     },
     {
-      "name": "SoundLab",
-      "type": 1,
-      "bundleID": "com.castpeer.audioroom.ios",
-      "bundleIdentifier": "com.castpeer.audioroom.ios",
-      "version": "2.9.7",
-      "versionDate": "2025-10-23",
-      "fullDate": "20251023011007",
-      "size": 131604206,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/SoundLab_2.9.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/SoundLab_2.9.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png"
-    },
-    {
       "name": "EasyAnatomy3DPublic",
       "type": 1,
       "bundleID": "AB.iOsteology",
@@ -2034,22 +2050,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.umayanga.Budget.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.umayanga.Budget.png"
-    },
-    {
-      "name": "TuneTally",
-      "type": 1,
-      "bundleID": "universeye.co.TuneTally",
-      "bundleIdentifier": "universeye.co.TuneTally",
-      "version": "1.13.1",
-      "versionDate": "2025-10-22",
-      "fullDate": "20251022010009",
-      "size": 15461456,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/TuneTally_1.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/TuneTally_1.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/universeye.co.TuneTally.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/universeye.co.TuneTally.png"
     }
   ],
   "userInfo": {}

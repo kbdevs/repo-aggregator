@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "MusixmatchPremium",
+      "bundleIdentifier": "com.musixmatch.lyrics",
+      "version": "7.10.8",
+      "versionDate": "2024-10-11",
+      "size": 74673060,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
+    },
+    {
       "name": "MusicAIVIP",
       "bundleIdentifier": "com.feraset.tune",
       "version": "4.1.5",
@@ -2354,6 +2365,13 @@
         "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
       ],
       "versions": [
+        {
+          "version": "30989",
+          "date": "2025-12-02T02:03:33+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=30989",
+          "size": 135806750,
+          "sha256": "801dcd1e1e3fadc02c9e9e69fd78d62fd38a956c87d8d7b553d892ae80597d01"
+        },
         {
           "version": "30987",
           "date": "2025-12-01T23:38:10+00:00",

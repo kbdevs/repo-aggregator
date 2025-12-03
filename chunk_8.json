@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "SonivaMusic",
+      "type": 1,
+      "bundleID": "ai.mindveil.musicai",
+      "bundleIdentifier": "ai.mindveil.musicai",
+      "version": "1.5.1",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510153046",
+      "size": 27698473,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SonivaMusic_1.5.1_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SonivaMusic_1.5.1_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Satella",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png"
+    },
+    {
+      "name": "ProKnockout",
+      "type": 1,
+      "bundleID": "com.loveyouchenapps.knockout",
+      "bundleIdentifier": "com.loveyouchenapps.knockout",
+      "version": "7.72",
+      "versionDate": "2025-05-10",
+      "fullDate": "20250510152536",
+      "size": 138986438,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/ProKnockout_7.72_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/ProKnockout_7.72_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.loveyouchenapps.knockout.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.loveyouchenapps.knockout.png"
+    },
+    {
       "name": "intoLive",
       "type": 1,
       "bundleID": "me.imgbase.intolive",
@@ -434,22 +466,6 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
-    },
-    {
-      "name": "AndalusiDesign",
-      "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
     },
     {
       "name": "RashaqaWorkout",
@@ -3302,74 +3318,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
       "formatedsize": "127.72 MB",
       "size": 133924126
-    },
-    {
-      "name": "Reddit - Reddit Deluxe",
-      "bundleIdentifier": "com.reddit.Reddit",
-      "developerName": "Jack cracks",
-      "subtitle": "Features:\r\n- RedditFilter\r\n- RedditSideloadFix\r\n- Redditcache\r\n- RedditCacheCleaner\r\n- RedditUndoScrollUp\r\n- ColorComments",
-      "localizedDescription": "Features:\r\n- RedditFilter\r\n- RedditSideloadFix\r\n- Redditcache\r\n- RedditCacheCleaner\r\n- RedditUndoScrollUp\r\n- ColorComments\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.reddit.Reddit\n\n Downloads: 827\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1727220625.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17272206250507180201.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206253364328969.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206254411595476.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206255322405324.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206256171424124.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206257081973564.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2025.11.0",
-          "date": "2025-03-19 18:25:15",
-          "localizedDescription": "Current of Reddit - Reddit Deluxe - 2025.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
-          "size": 153511526
-        },
-        {
-          "version": "2024.50.0",
-          "date": "2024-12-25 16:57:02",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2024.50.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1139",
-          "size": 181193932
-        },
-        {
-          "version": "2024.50.1",
-          "date": "2025-01-10 18:25:47",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2024.50.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1176",
-          "size": 141547274
-        },
-        {
-          "version": "2025.05.0",
-          "date": "2025-02-05 19:06:50",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2025.05.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1202",
-          "size": 138443489
-        },
-        {
-          "version": "2025.11.0",
-          "date": "2025-03-19 18:25:15",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2025.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1297",
-          "size": 153511526
-        },
-        {
-          "version": "2025.11.0",
-          "date": "2025-03-19 18:25:15",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2025.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
-          "size": 153511526
-        }
-      ],
-      "version": "2025.11.0",
-      "versionDate": "2025-03-19 18:25:15",
-      "versionDescription": "Features:\r\n- RedditFilter\r\n- RedditSideloadFix\r\n- Redditcache\r\n- RedditCacheCleaner\r\n- RedditUndoScrollUp\r\n- ColorComments",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
-      "formatedsize": "146.4 MB",
-      "size": 153511526
     }
   ],
   "userInfo": {}

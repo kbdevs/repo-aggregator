@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "CrossyRoad",
+      "type": 2,
+      "bundleID": "com.hipsterwhale.crossy",
+      "bundleIdentifier": "com.hipsterwhale.crossy",
+      "version": "7.5.0",
+      "versionDate": "2025-07-01",
+      "fullDate": "20250701175936",
+      "size": 148393831,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/CrossyRoad_7.5.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/CrossyRoad_7.5.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png"
+    },
+    {
+      "name": "Gradient",
+      "type": 1,
+      "bundleID": "com.tickettothemoon.gradient",
+      "bundleIdentifier": "com.tickettothemoon.gradient",
+      "version": "1142",
+      "versionDate": "2025-06-28",
+      "fullDate": "20250628155353",
+      "size": 230809830,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/Gradient_1142_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/Gradient_1142_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.gradient.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.gradient.png"
+    },
+    {
       "name": "Structured",
       "type": 1,
       "bundleID": "com.leomehlig.today",
@@ -2018,38 +2050,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.resonantcavity.Voloco.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.resonantcavity.Voloco.png"
-    },
-    {
-      "name": "IAmSober",
-      "type": 1,
-      "bundleID": "com.thehungrywasp.iamsober",
-      "bundleIdentifier": "com.thehungrywasp.iamsober",
-      "version": "8.3.3",
-      "versionDate": "2025-06-09",
-      "fullDate": "20250609205740",
-      "size": 33636931,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/IAmSober_8.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/IAmSober_8.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thehungrywasp.iamsober.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thehungrywasp.iamsober.png"
-    },
-    {
-      "name": "Crouton",
-      "type": 1,
-      "bundleID": "com.meal.plan.ios",
-      "bundleIdentifier": "com.meal.plan.ios",
-      "version": "2025.6",
-      "versionDate": "2025-06-09",
-      "fullDate": "20250609203659",
-      "size": 339434381,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Crouton_2025.6_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Crouton_2025.6_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.meal.plan.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.meal.plan.ios.png"
     }
   ],
   "userInfo": {}
