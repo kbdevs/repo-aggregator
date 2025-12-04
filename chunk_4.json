@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "InOut",
+      "type": 1,
+      "bundleID": "com.umayanga.Budget",
+      "bundleIdentifier": "com.umayanga.Budget",
+      "version": "4.2",
+      "versionDate": "2025-10-22",
+      "fullDate": "20251022010011",
+      "size": 7361590,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/InOut_4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/InOut_4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.umayanga.Budget.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.umayanga.Budget.png"
+    },
+    {
       "name": "TuneTally",
       "type": 1,
       "bundleID": "universeye.co.TuneTally",
@@ -1330,22 +1346,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.ebisusoft.shiftworkcallite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.ebisusoft.shiftworkcallite.png"
-    },
-    {
-      "name": "Mockview",
-      "type": 1,
-      "bundleID": "com.kavsoft.MockviewApp",
-      "bundleIdentifier": "com.kavsoft.MockviewApp",
-      "version": "4.0.4",
-      "versionDate": "2025-09-12",
-      "fullDate": "20250912001348",
-      "size": 74310720,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2025/Mockview_4.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2025/Mockview_4.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png"
     },
     {
       "name": "ImgAI",

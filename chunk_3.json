@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Pillow",
+      "type": 1,
+      "bundleID": "com.neybox.Pillow",
+      "bundleIdentifier": "com.neybox.Pillow",
+      "version": "6.2.2",
+      "versionDate": "2025-11-18",
+      "fullDate": "20251118184937",
+      "size": 519438358,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Pillow_6.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Pillow_6.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png"
+    },
+    {
+      "name": "Cleanup",
+      "type": 1,
+      "bundleID": "com.codeway.cleanerplus",
+      "bundleIdentifier": "com.codeway.cleanerplus",
+      "version": "6.6.0",
+      "versionDate": "2025-11-18",
+      "fullDate": "20251118154403",
+      "size": 147575147,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Cleanup_6.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Cleanup_6.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png"
+    },
+    {
+      "name": "Vixer",
+      "type": 1,
+      "bundleID": "com.vixerapp.Vixer",
+      "bundleIdentifier": "com.vixerapp.Vixer",
+      "version": "6.9",
+      "versionDate": "2025-11-18",
+      "fullDate": "20251118144841",
+      "size": 114283892,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Vixer_6.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Vixer_6.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vixerapp.Vixer.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vixerapp.Vixer.png"
+    },
+    {
+      "name": "Letterboxd",
+      "type": 1,
+      "bundleID": "com.letterboxd.LetterboxdApp",
+      "bundleIdentifier": "com.letterboxd.LetterboxdApp",
+      "version": "4.8.0",
+      "versionDate": "2025-11-18",
+      "fullDate": "20251118062746",
+      "size": 47091726,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Letterboxd_4.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Letterboxd_4.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png"
+    },
+    {
       "name": "Spool",
       "type": 1,
       "bundleID": "com.pixiteapps.spool",
@@ -804,22 +868,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.BodyFast.BodyFast2.png"
     },
     {
-      "name": "Polish",
-      "type": 1,
-      "bundleID": "com.photoeditor.polish",
-      "bundleIdentifier": "com.photoeditor.polish",
-      "version": "2.1.1",
-      "versionDate": "2025-11-09",
-      "fullDate": "20251109094319",
-      "size": 125806042,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2025/Polish_2.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2025/Polish_2.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoeditor.polish.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoeditor.polish.png"
-    },
-    {
       "name": "FELFishEyeLens",
       "type": 1,
       "bundleID": "com.phantom.fantengmu",
@@ -1060,22 +1108,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png"
     },
     {
-      "name": "PSExpress",
-      "type": 1,
-      "bundleID": "com.adobe.PSMobile",
-      "bundleIdentifier": "com.adobe.PSMobile",
-      "version": "25.43.0",
-      "versionDate": "2025-11-04",
-      "fullDate": "20251104151255",
-      "size": 164190532,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/PSExpress_25.43.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/PSExpress_25.43.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png"
-    },
-    {
       "name": "30DayFitness",
       "type": 1,
       "bundleID": "com.vigorapps.30DayFitness",
@@ -1202,22 +1234,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png"
-    },
-    {
-      "name": "EPIK",
-      "type": 1,
-      "bundleID": "com.snowcorp.epik",
-      "bundleIdentifier": "com.snowcorp.epik",
-      "version": "6.4.10",
-      "versionDate": "2025-11-03",
-      "fullDate": "20251103132151",
-      "size": 167634018,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/EPIK_6.4.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/EPIK_6.4.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png"
     },
     {
       "name": "UnifiedDictionary",
@@ -2034,22 +2050,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inkboard.animatic.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inkboard.animatic.png"
-    },
-    {
-      "name": "InOut",
-      "type": 1,
-      "bundleID": "com.umayanga.Budget",
-      "bundleIdentifier": "com.umayanga.Budget",
-      "version": "4.2",
-      "versionDate": "2025-10-22",
-      "fullDate": "20251022010011",
-      "size": 7361590,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/InOut_4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/InOut_4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.umayanga.Budget.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.umayanga.Budget.png"
     }
   ],
   "userInfo": {}
