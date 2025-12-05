@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "HotWheelsUnlimited",
+      "type": 2,
+      "bundleID": "com.budgestudios.HotWheelsUnlimited",
+      "bundleIdentifier": "com.budgestudios.HotWheelsUnlimited",
+      "version": "2025.1.2",
+      "versionDate": "2025-08-23",
+      "fullDate": "20250823212747",
+      "size": 1006127064,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/HotWheelsUnlimited_2025.1.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/HotWheelsUnlimited_2025.1.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.budgestudios.HotWheelsUnlimited.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.budgestudios.HotWheelsUnlimited.png"
+    },
+    {
       "name": "Masketeers",
       "type": 2,
       "bundleID": "com.appxplore.masketeers",
@@ -1924,6 +1940,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
     },
     {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704082624",
+      "size": 176231919,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
       "name": "ReceiptLens",
       "type": 1,
       "bundleID": "com.glority.receipt",
@@ -2018,38 +2050,6 @@
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.hero.tower.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.hero.tower.png"
-    },
-    {
-      "name": "Dune",
-      "type": 2,
-      "bundleID": "io.voodoo.dune",
-      "bundleIdentifier": "io.voodoo.dune",
-      "version": "5.5.79",
-      "versionDate": "2025-07-01",
-      "fullDate": "20250701175942",
-      "size": 85507035,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Dune_5.5.79_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Dune_5.5.79_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.voodoo.dune.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.voodoo.dune.png"
-    },
-    {
-      "name": "CrossyRoad",
-      "type": 2,
-      "bundleID": "com.hipsterwhale.crossy",
-      "bundleIdentifier": "com.hipsterwhale.crossy",
-      "version": "7.5.0",
-      "versionDate": "2025-07-01",
-      "fullDate": "20250701175936",
-      "size": 148393831,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/CrossyRoad_7.5.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/CrossyRoad_7.5.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png"
     }
   ],
   "userInfo": {}

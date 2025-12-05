@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Voloco",
+      "type": 1,
+      "bundleID": "com.resonantcavity.Voloco",
+      "bundleIdentifier": "com.resonantcavity.Voloco",
+      "version": "9.6.1",
+      "versionDate": "2025-06-10",
+      "fullDate": "20250610170634",
+      "size": 102133851,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/Voloco_9.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/Voloco_9.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.resonantcavity.Voloco.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.resonantcavity.Voloco.png"
+    },
+    {
+      "name": "IAmSober",
+      "type": 1,
+      "bundleID": "com.thehungrywasp.iamsober",
+      "bundleIdentifier": "com.thehungrywasp.iamsober",
+      "version": "8.3.3",
+      "versionDate": "2025-06-09",
+      "fullDate": "20250609205740",
+      "size": 33636931,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/IAmSober_8.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/IAmSober_8.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thehungrywasp.iamsober.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thehungrywasp.iamsober.png"
+    },
+    {
       "name": "Crouton",
       "type": 1,
       "bundleID": "com.meal.plan.ios",
@@ -2018,38 +2050,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/studio.gameberry.idledarkknight.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/studio.gameberry.idledarkknight.png"
-    },
-    {
-      "name": "LoopBattle",
-      "type": 2,
-      "bundleID": "com.imba.loopbattle",
-      "bundleIdentifier": "com.imba.loopbattle",
-      "version": "0.3",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510154049",
-      "size": 98391469,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png"
-    },
-    {
-      "name": "SonivaMusic",
-      "type": 1,
-      "bundleID": "ai.mindveil.musicai",
-      "bundleIdentifier": "ai.mindveil.musicai",
-      "version": "1.5.1",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510153046",
-      "size": 27698473,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SonivaMusic_1.5.1_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SonivaMusic_1.5.1_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Satella",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png"
     }
   ],
   "userInfo": {}
