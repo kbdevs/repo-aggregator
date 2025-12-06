@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "AniClient",
+      "type": 1,
+      "bundleID": "com.picspacehd.anilistclient",
+      "bundleIdentifier": "com.picspacehd.anilistclient",
+      "version": "1.9.1",
+      "versionDate": "2025-10-23",
+      "fullDate": "20251023160212",
+      "size": 16974611,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/AniClient_1.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/AniClient_1.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png"
+    },
+    {
+      "name": "EasyAnatomy3DPublic",
+      "type": 1,
+      "bundleID": "AB.iOsteology",
+      "bundleIdentifier": "AB.iOsteology",
+      "version": "5.24.2",
+      "versionDate": "2025-10-23",
+      "fullDate": "20251023001418",
+      "size": 1206734753,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/EasyAnatomy3DPublic_5.24.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/EasyAnatomy3DPublic_5.24.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png"
+    },
+    {
       "name": "Osmosis",
       "type": 1,
       "bundleID": "com.osmose-it.osmosis",
@@ -386,22 +418,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/camera.lux.halide.mkii.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/camera.lux.halide.mkii.png"
-    },
-    {
-      "name": "DiamondFinder",
-      "type": 1,
-      "bundleID": "com.mcdiamondfinder.app",
-      "bundleIdentifier": "com.mcdiamondfinder.app",
-      "version": "3.0.17",
-      "versionDate": "2025-10-14",
-      "fullDate": "20251014134323",
-      "size": 41965391,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-10-2025/DiamondFinder_3.0.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-10-2025/DiamondFinder_3.0.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
     },
     {
       "name": "Clipboard",
@@ -1282,22 +1298,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png"
-    },
-    {
-      "name": "TheWeather",
-      "type": 1,
-      "bundleID": "com.impalastudios.theweatherfree",
-      "bundleIdentifier": "com.impalastudios.theweatherfree",
-      "version": "2.0.12",
-      "versionDate": "2025-09-14",
-      "fullDate": "20250914163831",
-      "size": 80290864,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2025/TheWeather_2.0.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2025/TheWeather_2.0.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png"
     },
     {
       "name": "BXNG",
