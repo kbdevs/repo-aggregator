@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Passbook",
+      "type": 1,
+      "bundleID": "com.am.pkstudio",
+      "bundleIdentifier": "com.am.pkstudio",
+      "version": "3.11",
+      "versionDate": "2025-10-23",
+      "fullDate": "20251023161803",
+      "size": 92045779,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Passbook_3.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Passbook_3.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png"
+    },
+    {
       "name": "AniClient",
       "type": 1,
       "bundleID": "com.picspacehd.anilistclient",
@@ -210,22 +226,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png"
-    },
-    {
-      "name": "Retrx",
-      "type": 1,
-      "bundleID": "com.bikinstudio.screenx",
-      "bundleIdentifier": "com.bikinstudio.screenx",
-      "version": "0.0.10",
-      "versionDate": "2025-10-19",
-      "fullDate": "20251019233009",
-      "size": 49423307,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-10-2025/Retrx_0.0.10_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-10-2025/Retrx_0.0.10_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bikinstudio.screenx.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bikinstudio.screenx.png"
     },
     {
       "name": "CarParking",
