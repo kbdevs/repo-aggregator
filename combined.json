@@ -870,6 +870,86 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "MyFitnessPal",
+      "type": 1,
+      "bundleID": "com.myfitnesspal.mfp",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "version": "25.47.1",
+      "versionDate": "2025-12-08",
+      "fullDate": "20251208061844",
+      "size": 134921448,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/MyFitnessPal_25.47.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/MyFitnessPal_25.47.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
+    },
+    {
+      "name": "Busuu",
+      "type": 1,
+      "bundleID": "com.busuu.english.app",
+      "bundleIdentifier": "com.busuu.english.app",
+      "version": "29.27.0",
+      "versionDate": "2025-12-08",
+      "fullDate": "20251208001820",
+      "size": 159720739,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Busuu_29.27.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Busuu_29.27.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
+    },
+    {
+      "name": "ImagineArt",
+      "type": 1,
+      "bundleID": "com.vyro.Imagine",
+      "bundleIdentifier": "com.vyro.Imagine",
+      "version": "3.2.0",
+      "versionDate": "2025-12-07",
+      "fullDate": "20251207222309",
+      "size": 94463081,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/ImagineArt_3.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/ImagineArt_3.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vyro.Imagine.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vyro.Imagine.png"
+    },
+    {
+      "name": "NoFusion",
+      "type": 1,
+      "bundleID": "com.grey.swiftcamera",
+      "bundleIdentifier": "com.grey.swiftcamera",
+      "version": "2.5.47",
+      "versionDate": "2025-12-07",
+      "fullDate": "20251207210300",
+      "size": 95689417,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/NoFusion_2.5.47_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/NoFusion_2.5.47_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png"
+    },
+    {
+      "name": "SimplyPiano",
+      "type": 1,
+      "bundleID": "com.joytunes.asla",
+      "bundleIdentifier": "com.joytunes.asla",
+      "version": "9.10.48",
+      "versionDate": "2025-12-07",
+      "fullDate": "20251207174746",
+      "size": 137552981,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/SimplyPiano_9.10.48_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/SimplyPiano_9.10.48_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+    },
+    {
       "name": "Vids",
       "type": 1,
       "bundleID": "viral.vision.vids",
@@ -2086,22 +2166,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png"
     },
     {
-      "name": "MyFitnessPal",
-      "type": 1,
-      "bundleID": "com.myfitnesspal.mfp",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "version": "25.47.0",
-      "versionDate": "2025-12-04",
-      "fullDate": "20251204041411",
-      "size": 134917380,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/MyFitnessPal_25.47.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/MyFitnessPal_25.47.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
-    },
-    {
       "name": "Polish",
       "type": 1,
       "bundleID": "com.photoeditor.polish",
@@ -3222,22 +3286,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png"
     },
     {
-      "name": "SimplyPiano",
-      "type": 1,
-      "bundleID": "com.joytunes.asla",
-      "bundleIdentifier": "com.joytunes.asla",
-      "version": "9.10.46",
-      "versionDate": "2025-12-01",
-      "fullDate": "20251201030416",
-      "size": 138289885,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-12-2025/SimplyPiano_9.10.46_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-12-2025/SimplyPiano_9.10.46_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
-    },
-    {
       "name": "WebSSH",
       "type": 1,
       "bundleID": "com.itimeteo.webssh",
@@ -3700,22 +3748,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png"
-    },
-    {
-      "name": "NoFusion",
-      "type": 1,
-      "bundleID": "com.grey.swiftcamera",
-      "bundleIdentifier": "com.grey.swiftcamera",
-      "version": "2.5.46",
-      "versionDate": "2025-11-27",
-      "fullDate": "20251127193826",
-      "size": 99421392,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2025/NoFusion_2.5.46_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2025/NoFusion_2.5.46_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png"
     },
     {
       "name": "Stndrd",
@@ -4422,22 +4454,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png"
     },
     {
-      "name": "Busuu",
-      "type": 1,
-      "bundleID": "com.busuu.english.app",
-      "bundleIdentifier": "com.busuu.english.app",
-      "version": "29.26.1",
-      "versionDate": "2025-11-24",
-      "fullDate": "20251124002609",
-      "size": 159187005,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2025/Busuu_29.26.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2025/Busuu_29.26.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
-    },
-    {
       "name": "MetadataEditor",
       "type": 1,
       "bundleID": "com.andrespizabuckmann.MetadataEditor",
@@ -5012,22 +5028,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png"
-    },
-    {
-      "name": "ImagineArt",
-      "type": 1,
-      "bundleID": "com.vyro.Imagine",
-      "bundleIdentifier": "com.vyro.Imagine",
-      "version": "3.1.3",
-      "versionDate": "2025-11-19",
-      "fullDate": "20251119121306",
-      "size": 91676472,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2025/ImagineArt_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2025/ImagineArt_3.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vyro.Imagine.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vyro.Imagine.png"
     },
     {
       "name": "Narwhal",
@@ -33349,7 +33349,7 @@
     },
     {
       "name": "OldOS",
-      "bundleIdentifier": "com.zurac.OldOSSL2",
+      "bundleIdentifier": "com.zrc.BudgetingBuddy",
       "developerName": "zzanehip",
       "subtitle": "OldOS is a testament to the days of iOS 4.",
       "localizedDescription": "OldOS is a testament to the days of yesteryear, showcasing what iOS once was ten years ago. The ethos of the app is to merge the technologies of today with a pixel-perfect recreation of the user experience of the past. The vast majority of apps in OldOS are fully functional \u2014 meaning they seamlessly integrate with the data on your phone to deliver a live, emulator-esque experience. What does this mean? Well, you can play your music in iPod, get directions in Maps, surf the web in Safari, view the current weather in Weather, and much more. By the same token, no shortcuts were taken in fully fleshing out the operating system. You can change your background, adjust settings, search apps, et cetera. There are a few apps still not ready for primetime but don't worry, they're coming soon.\n\nWith OldOS, you no longer need to worry about securing a legacy iPhone to experience nostalgia \u2014 it's available on your daily driver.\n\nPart of the goal with OldOS is to enable anyone to understand how iOS works and demonstrate just how powerful SwiftUI truly is. For that reason, the entire app is open-sourced \u2014 enabling developers to learn about, modify, and add to the app. I thought building this over my last six or so months in high school and sharing it with the world would be a fun and productive endeavor.\n\nSpecial Features:\n* \ud83e\uddd1\u200d\ud83d\udcbb Built almost entirely using SwiftUI.\n* \ud83c\udfa8 Designed to be as close to pixel-perfect as possible.\n* \ud83d\udcf1 Fully functional, perhaps even usable as a second OS.\n* \u2764\ufe0f A testament to the work of Apple employees of both the past and the present.\n* \ud83d\uddfa\ufe0f Fully open source for all to learn, modify, and build on.",
@@ -33363,6 +33363,16 @@
         "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_5.jpg"
       ],
       "versions": [
+        {
+          "absoluteVersion": "2.0.7",
+          "version": "1.0",
+          "buildVersion": "12",
+          "date": "2025-12-07T21:25:30Z",
+          "localizedDescription": "# IPA V2.0 Build 7\n\n2.0 (7):\r\n- New Weather backend and added performance improvements\r\n- Updated home button \r\n- Everything else in 2.0 (1) - 2.0 (6)\n\nNOTE: BundleIdentifier changed in this version and automatic updates have been disabled until manual install occurs.",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
+          "size": 83206660,
+          "sha256": "ea9aab092b5e3d0ff0070fb072267db035da2aed6e2d5b177a608fb36943d2d5"
+        },
         {
           "absoluteVersion": "2.0.1",
           "version": "2.0",

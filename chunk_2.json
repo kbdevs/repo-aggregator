@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "TuneInRadio",
+      "type": 1,
+      "bundleID": "com.alexanderben.RadioIn",
+      "bundleIdentifier": "com.alexanderben.RadioIn",
+      "version": "40.6.0",
+      "versionDate": "2025-12-02",
+      "fullDate": "20251202051106",
+      "size": 71731008,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/TuneInRadio_40.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/TuneInRadio_40.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png"
+    },
+    {
+      "name": "Reels",
+      "type": 1,
+      "bundleID": "com.TetianaKolomiichuk.Reel-Templates",
+      "bundleIdentifier": "com.TetianaKolomiichuk.Reel-Templates",
+      "version": "3.5.2",
+      "versionDate": "2025-12-02",
+      "fullDate": "20251202050600",
+      "size": 124831525,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/Reels_3.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/Reels_3.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png"
+    },
+    {
+      "name": "Soundmap",
+      "type": 2,
+      "bundleID": "app.mmap.mobile",
+      "bundleIdentifier": "app.mmap.mobile",
+      "version": "2.6.4",
+      "versionDate": "2025-12-02",
+      "fullDate": "20251202045049",
+      "size": 54561325,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/Soundmap_2.6.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/Soundmap_2.6.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png"
+    },
+    {
+      "name": "rPlayer",
+      "type": 1,
+      "bundleID": "com.wangyuehuan.vrtef",
+      "bundleIdentifier": "com.wangyuehuan.vrtef",
+      "version": "5.3.0",
+      "versionDate": "2025-12-02",
+      "fullDate": "20251202040539",
+      "size": 24240364,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/rPlayer_5.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/rPlayer_5.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png"
+    },
+    {
       "name": "ReversoContext",
       "type": 1,
       "bundleID": "com.softissimo.ReversoContext",
@@ -434,22 +498,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png"
-    },
-    {
-      "name": "SimplyPiano",
-      "type": 1,
-      "bundleID": "com.joytunes.asla",
-      "bundleIdentifier": "com.joytunes.asla",
-      "version": "9.10.46",
-      "versionDate": "2025-12-01",
-      "fullDate": "20251201030416",
-      "size": 138289885,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-12-2025/SimplyPiano_9.10.46_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-12-2025/SimplyPiano_9.10.46_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
     },
     {
       "name": "WebSSH",
@@ -914,22 +962,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png"
-    },
-    {
-      "name": "NoFusion",
-      "type": 1,
-      "bundleID": "com.grey.swiftcamera",
-      "bundleIdentifier": "com.grey.swiftcamera",
-      "version": "2.5.46",
-      "versionDate": "2025-11-27",
-      "fullDate": "20251127193826",
-      "size": 99421392,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2025/NoFusion_2.5.46_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2025/NoFusion_2.5.46_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png"
     },
     {
       "name": "Stndrd",
@@ -1636,22 +1668,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png"
     },
     {
-      "name": "Busuu",
-      "type": 1,
-      "bundleID": "com.busuu.english.app",
-      "bundleIdentifier": "com.busuu.english.app",
-      "version": "29.26.1",
-      "versionDate": "2025-11-24",
-      "fullDate": "20251124002609",
-      "size": 159187005,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2025/Busuu_29.26.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2025/Busuu_29.26.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
-    },
-    {
       "name": "MetadataEditor",
       "type": 1,
       "bundleID": "com.andrespizabuckmann.MetadataEditor",
@@ -2034,22 +2050,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png"
-    },
-    {
-      "name": "Nerva",
-      "type": 1,
-      "bundleID": "com.mindsethealth.ibs",
-      "bundleIdentifier": "com.mindsethealth.ibs",
-      "version": "46.4",
-      "versionDate": "2025-11-20",
-      "fullDate": "20251120172405",
-      "size": 74152752,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/Nerva_46.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/Nerva_46.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mindsethealth.ibs.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mindsethealth.ibs.png"
     }
   ],
   "userInfo": {}
