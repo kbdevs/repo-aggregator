@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "FiveCents",
+      "type": 1,
+      "bundleID": "com.degisner.fivecents",
+      "bundleIdentifier": "com.degisner.fivecents",
+      "version": "8.4",
+      "versionDate": "2025-08-24",
+      "fullDate": "20250824130508",
+      "size": 4861370,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/FiveCents_8.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/FiveCents_8.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.degisner.fivecents.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.degisner.fivecents.png"
+    },
+    {
       "name": "HotWheelsUnlimited",
       "type": 2,
       "bundleID": "com.budgestudios.HotWheelsUnlimited",
@@ -2034,22 +2050,6 @@
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.hero.tower.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.hero.tower.png"
-    },
-    {
-      "name": "Dune",
-      "type": 2,
-      "bundleID": "io.voodoo.dune",
-      "bundleIdentifier": "io.voodoo.dune",
-      "version": "5.5.79",
-      "versionDate": "2025-07-01",
-      "fullDate": "20250701175942",
-      "size": 85507035,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Dune_5.5.79_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Dune_5.5.79_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.voodoo.dune.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.voodoo.dune.png"
     }
   ],
   "userInfo": {}

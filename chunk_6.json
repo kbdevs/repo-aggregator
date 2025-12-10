@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Dune",
+      "type": 2,
+      "bundleID": "io.voodoo.dune",
+      "bundleIdentifier": "io.voodoo.dune",
+      "version": "5.5.79",
+      "versionDate": "2025-07-01",
+      "fullDate": "20250701175942",
+      "size": 85507035,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Dune_5.5.79_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Dune_5.5.79_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.voodoo.dune.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.voodoo.dune.png"
+    },
+    {
       "name": "CrossyRoad",
       "type": 2,
       "bundleID": "com.hipsterwhale.crossy",
@@ -642,22 +658,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing2.png"
-    },
-    {
-      "name": "Minecraft",
-      "type": 2,
-      "bundleID": "com.mojang.minecraftpe",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "version": "1.21.92",
-      "versionDate": "2025-06-21",
-      "fullDate": "20250621172104",
-      "size": 609536140,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Minecraft_1.21.92_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/Minecraft_1.21.92_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png"
     },
     {
       "name": "NBALIVE",

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Apollo",
+      "type": 1,
+      "bundleID": "com.christianselig.Apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "version": "1.15.11",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024150347",
+      "size": 114893074,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Apollo_1.15.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Apollo_1.15.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.christianselig.Apollo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.christianselig.Apollo.png"
+    },
+    {
       "name": "PerfectAIPublic",
       "type": 1,
       "bundleID": "comai.redrawart.iosapp",
@@ -2034,22 +2050,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adambinsz.Steps.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adambinsz.Steps.png"
-    },
-    {
-      "name": "FiveCents",
-      "type": 1,
-      "bundleID": "com.degisner.fivecents",
-      "bundleIdentifier": "com.degisner.fivecents",
-      "version": "8.4",
-      "versionDate": "2025-08-24",
-      "fullDate": "20250824130508",
-      "size": 4861370,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/FiveCents_8.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/FiveCents_8.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.degisner.fivecents.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.degisner.fivecents.png"
     }
   ],
   "userInfo": {}
