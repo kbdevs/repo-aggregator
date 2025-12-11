@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "MetadataEditor",
+      "type": 1,
+      "bundleID": "com.andrespizabuckmann.MetadataEditor",
+      "bundleIdentifier": "com.andrespizabuckmann.MetadataEditor",
+      "version": "3.1.2",
+      "versionDate": "2025-11-23",
+      "fullDate": "20251123221553",
+      "size": 48790934,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2025/MetadataEditor_3.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2025/MetadataEditor_3.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png"
+    },
+    {
+      "name": "Calory",
+      "type": 1,
+      "bundleID": "com.funnmedia.calory",
+      "bundleIdentifier": "com.funnmedia.calory",
+      "version": "4.5.3",
+      "versionDate": "2025-11-23",
+      "fullDate": "20251123172018",
+      "size": 298182855,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2025/Calory_4.5.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2025/Calory_4.5.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png"
+    },
+    {
+      "name": "iSTB",
+      "type": 1,
+      "bundleID": "com.na.istb",
+      "bundleIdentifier": "com.na.istb",
+      "version": "1.29.0",
+      "versionDate": "2025-11-23",
+      "fullDate": "20251123171015",
+      "size": 40330828,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2025/iSTB_1.29.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2025/iSTB_1.29.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png"
+    },
+    {
+      "name": "Beelinguapp",
+      "type": 1,
+      "bundleID": "com.beelinguapp.beelinguapp",
+      "bundleIdentifier": "com.beelinguapp.beelinguapp",
+      "version": "3.8.47",
+      "versionDate": "2025-11-23",
+      "fullDate": "20251123170504",
+      "size": 63695717,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2025/Beelinguapp_3.8.47_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2025/Beelinguapp_3.8.47_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beelinguapp.beelinguapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beelinguapp.beelinguapp.png"
+    },
+    {
       "name": "Motionleap",
       "type": 1,
       "bundleID": "com.lightricks.Enlight-Phoenix",
@@ -66,22 +130,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png"
-    },
-    {
-      "name": "Bend",
-      "type": 1,
-      "bundleID": "com.bowery-digital.bend",
-      "bundleIdentifier": "com.bowery-digital.bend",
-      "version": "7.0.5",
-      "versionDate": "2025-11-22",
-      "fullDate": "20251122170117",
-      "size": 97899126,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/Bend_7.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/Bend_7.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.bend.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.bend.png"
     },
     {
       "name": "Dehancer",
@@ -340,22 +388,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png"
     },
     {
-      "name": "Wikiloc",
-      "type": 1,
-      "bundleID": "com.wikiloc.wikiloc",
-      "bundleIdentifier": "com.wikiloc.wikiloc",
-      "version": "3.25.10",
-      "versionDate": "2025-11-20",
-      "fullDate": "20251120124750",
-      "size": 112983570,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/Wikiloc_3.25.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/Wikiloc_3.25.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png"
-    },
-    {
       "name": "AdobeExpress",
       "type": 1,
       "bundleID": "com.adobe.post",
@@ -594,22 +626,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixiteapps.spool.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixiteapps.spool.png"
-    },
-    {
-      "name": "Lightroom",
-      "type": 1,
-      "bundleID": "com.adobe.lrmobilephone",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "version": "11.0.1",
-      "versionDate": "2025-11-18",
-      "fullDate": "20251118004706",
-      "size": 196607458,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Lightroom_11.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Lightroom_11.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
     },
     {
       "name": "Headway",
@@ -2034,22 +2050,6 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png"
-    },
-    {
-      "name": "PowerThesaurus",
-      "type": 1,
-      "bundleID": "org.powerthesaurus.powerthesaurus",
-      "bundleIdentifier": "org.powerthesaurus.powerthesaurus",
-      "version": "2.8.0",
-      "versionDate": "2025-10-24",
-      "fullDate": "20251024152854",
-      "size": 23134941,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/PowerThesaurus_2.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/PowerThesaurus_2.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png"
     }
   ],
   "userInfo": {}
