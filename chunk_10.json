@@ -4,6 +4,69 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "What can this app do:\r\n\r\nDownload in the background\r\nSequential download (use VLC to watch films while loading)\r\nAdd torrent files from Share menu (Safari and other apps)\r\nAdd magnet links directly from Safari\r\nStore files in Files app (iOS 11+)\r\nFile sharing directly from app\r\nDownload torrent by link\r\nDownload torrent by magnet\r\nSend notification on torrent downloaded\r\nWebDav Server\r\nSelect files to download or not\r\nChange UI to dark theme\r\nRSS Feed",
+      "localizedDescription": "What can this app do:\r\n\r\nDownload in the background\r\nSequential download (use VLC to watch films while loading)\r\nAdd torrent files from Share menu (Safari and other apps)\r\nAdd magnet links directly from Safari\r\nStore files in Files app (iOS 11+)\r\nFile sharing directly from app\r\nDownload torrent by link\r\nDownload torrent by magnet\r\nSend notification on torrent downloaded\r\nWebDav Server\r\nSelect files to download or not\r\nChange UI to dark theme\r\nRSS Feed\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: ru.nonamedude.iTorrent\n\n Downloads: 1346\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1704794744.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.13-2",
+          "date": "2024-11-23 11:56:28",
+          "localizedDescription": "Current of iTorrent - 2.0.13-2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1042",
+          "size": 7025459
+        },
+        {
+          "version": "1.8.3",
+          "date": "2024-01-09 10:05:45",
+          "localizedDescription": "Old Version of iTorrent - 1.8.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/352",
+          "size": 21244149
+        },
+        {
+          "version": "2.0.10-1",
+          "date": "2024-09-22 13:59:38",
+          "localizedDescription": "Old Version of iTorrent - 2.0.10-1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/609",
+          "size": 6585057
+        },
+        {
+          "version": "2.0.11-3",
+          "date": "2024-10-17 16:26:22",
+          "localizedDescription": "Old Version of iTorrent - 2.0.11-3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/806",
+          "size": 7004487
+        },
+        {
+          "version": "2.0.13-1",
+          "date": "2024-11-23 11:54:44",
+          "localizedDescription": "Old Version of iTorrent - 2.0.13-1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1041",
+          "size": 7025459
+        },
+        {
+          "version": "2.0.13-2",
+          "date": "2024-11-23 11:56:28",
+          "localizedDescription": "Old Version of iTorrent - 2.0.13-2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1042",
+          "size": 7025459
+        }
+      ],
+      "version": "2.0.13-2",
+      "versionDate": "2024-11-23 11:56:28",
+      "versionDescription": "What can this app do:\r\n\r\nDownload in the background\r\nSequential download (use VLC to watch films while loading)\r\nAdd torrent files from Share menu (Safari and other apps)\r\nAdd magnet links directly from Safari\r\nStore files in Files app (iOS 11+)\r\nFile sharing directly from app\r\nDownload torrent by link\r\nDownload torrent by magnet\r\nSend notification on torrent downloaded\r\nWebDav Server\r\nSelect files to download or not\r\nChange UI to dark theme\r\nRSS Feed",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1042",
+      "formatedsize": "6.7 MB",
+      "size": 7025459
+    },
+    {
       "name": "Little Kitten School + Friends",
       "bundleIdentifier": "com.foxandsheep.littlekittenschool",
       "developerName": "Squeakosaurus ug & co. kg",
@@ -5220,46 +5283,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/365",
       "formatedsize": "101.71 MB",
       "size": 106650664
-    },
-    {
-      "name": "Loora AI++",
-      "bundleIdentifier": "ai.loora.Loora-iOS",
-      "developerName": "Nabzclan",
-      "subtitle": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.",
-      "localizedDescription": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: ai.loora.Loora-iOS\n\n Downloads: 426\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1704793153.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17047931518018298020.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931523562760818.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931524349904390.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931525099183337.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931525874809403.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931530494417104.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.53.3",
-          "date": "2024-01-09 09:39:13",
-          "localizedDescription": "Current of Loora AI++ - 1.53.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/348",
-          "size": 39940259
-        },
-        {
-          "version": "1.53.3",
-          "date": "2024-01-09 09:39:13",
-          "localizedDescription": "Old Version of Loora AI++ - 1.53.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/348",
-          "size": 39940259
-        }
-      ],
-      "version": "1.53.3",
-      "versionDate": "2024-01-09 09:39:13",
-      "versionDescription": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/348",
-      "formatedsize": "38.09 MB",
-      "size": 39940259
     }
   ],
   "userInfo": {}

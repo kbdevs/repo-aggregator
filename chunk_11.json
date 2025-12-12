@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Loora AI++",
+      "bundleIdentifier": "ai.loora.Loora-iOS",
+      "developerName": "Nabzclan",
+      "subtitle": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.",
+      "localizedDescription": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: ai.loora.Loora-iOS\n\n Downloads: 426\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1704793153.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17047931518018298020.webp",
+        "https://apps.nabzclan.vip/screenshots/17047931523562760818.webp",
+        "https://apps.nabzclan.vip/screenshots/17047931524349904390.webp",
+        "https://apps.nabzclan.vip/screenshots/17047931525099183337.webp",
+        "https://apps.nabzclan.vip/screenshots/17047931525874809403.webp",
+        "https://apps.nabzclan.vip/screenshots/17047931530494417104.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.53.3",
+          "date": "2024-01-09 09:39:13",
+          "localizedDescription": "Current of Loora AI++ - 1.53.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/348",
+          "size": 39940259
+        },
+        {
+          "version": "1.53.3",
+          "date": "2024-01-09 09:39:13",
+          "localizedDescription": "Old Version of Loora AI++ - 1.53.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/348",
+          "size": 39940259
+        }
+      ],
+      "version": "1.53.3",
+      "versionDate": "2024-01-09 09:39:13",
+      "versionDescription": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/348",
+      "formatedsize": "38.09 MB",
+      "size": 39940259
+    },
+    {
       "name": "Flixtools - (No ads)",
       "bundleIdentifier": "com.qiyumon.show",
       "developerName": "Nazbclan",
@@ -946,46 +986,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/204",
       "formatedsize": "2.05 GB",
       "size": 2201170739
-    },
-    {
-      "name": "File Converter (Premium)",
-      "bundleIdentifier": "com.icecoldapps.fileconverter",
-      "developerName": "nabzclan",
-      "subtitle": "Injected with Premium",
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.icecoldapps.fileconverter\n\n Downloads: 532\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692923976.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16929239693436806949.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239700721704081.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239724117792781.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239737379547810.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239738743684899.webp",
-        "https://apps.nabzclan.vip/screenshots/16929239759077673350.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "16.2.4",
-          "date": "2023-08-25 00:39:36",
-          "localizedDescription": "Current of File Converter (Premium) - 16.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/198",
-          "size": 28804382
-        },
-        {
-          "version": "16.2.4",
-          "date": "2023-08-25 00:39:36",
-          "localizedDescription": "Old Version of File Converter (Premium) - 16.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/198",
-          "size": 28804382
-        }
-      ],
-      "version": "16.2.4",
-      "versionDate": "2023-08-25 00:39:36",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/198",
-      "formatedsize": "27.47 MB",
-      "size": 28804382
     },
     {
       "name": "Pixelmator",

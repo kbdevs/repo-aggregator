@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "SpaceSquadSurvival",
+      "type": 2,
+      "bundleID": "com.rebeltwins.spacesquadsurvival",
+      "bundleIdentifier": "com.rebeltwins.spacesquadsurvival",
+      "version": "1.0.03",
+      "versionDate": "2025-06-10",
+      "fullDate": "20250610175225",
+      "size": 160077845,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/SpaceSquadSurvival_1.0.03_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/SpaceSquadSurvival_1.0.03_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rebeltwins.spacesquadsurvival.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rebeltwins.spacesquadsurvival.png"
+    },
+    {
+      "name": "Voloco",
+      "type": 1,
+      "bundleID": "com.resonantcavity.Voloco",
+      "bundleIdentifier": "com.resonantcavity.Voloco",
+      "version": "9.6.1",
+      "versionDate": "2025-06-10",
+      "fullDate": "20250610170634",
+      "size": 102133851,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/Voloco_9.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/Voloco_9.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.resonantcavity.Voloco.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.resonantcavity.Voloco.png"
+    },
+    {
       "name": "IAmSober",
       "type": 1,
       "bundleID": "com.thehungrywasp.iamsober",
@@ -2018,38 +2050,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.township-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.township-ios.png"
-    },
-    {
-      "name": "DarkClan",
-      "type": 2,
-      "bundleID": "studio.gameberry.idledarkknight",
-      "bundleIdentifier": "studio.gameberry.idledarkknight",
-      "version": "1.0.66",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510154553",
-      "size": 137568836,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/DarkClan_1.0.66_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/DarkClan_1.0.66_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/studio.gameberry.idledarkknight.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/studio.gameberry.idledarkknight.png"
-    },
-    {
-      "name": "LoopBattle",
-      "type": 2,
-      "bundleID": "com.imba.loopbattle",
-      "bundleIdentifier": "com.imba.loopbattle",
-      "version": "0.3",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510154049",
-      "size": 98391469,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png"
     }
   ],
   "userInfo": {}
