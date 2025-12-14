@@ -4,128 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
-      "name": "ES File explorer (Hack)",
-      "bundleIdentifier": "com.doglobal.ESFileExplorer",
-      "developerName": "Nabzclan",
-      "subtitle": "Features:\r\n- ProFutures Unlocked",
-      "localizedDescription": "Features:\r\n- ProFutures Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.doglobal.ESFileExplorer\n\n Downloads: 1126\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1705364221.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17053642149884407881.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642155547361822.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642158019762245.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642180302806352.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642185366327858.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642190086900382.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.8.4",
-          "date": "2025-03-19 18:51:23",
-          "localizedDescription": "Current of ES File explorer (Hack) - 2.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
-          "size": 133924126
-        },
-        {
-          "version": "2.8.0",
-          "date": "2024-12-20 18:04:31",
-          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1117",
-          "size": 142501478
-        },
-        {
-          "version": "2.8.3",
-          "date": "2025-02-24 18:23:12",
-          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1232",
-          "size": 139984896
-        },
-        {
-          "version": "2.8.4",
-          "date": "2025-03-19 18:51:23",
-          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
-          "size": 133924126
-        }
-      ],
-      "version": "2.8.4",
-      "versionDate": "2025-03-19 18:51:23",
-      "versionDescription": "Features:\r\n- ProFutures Unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
-      "formatedsize": "127.72 MB",
-      "size": 133924126
-    },
-    {
-      "name": "Reddit - Reddit Deluxe",
-      "bundleIdentifier": "com.reddit.Reddit",
-      "developerName": "Jack cracks",
-      "subtitle": "Features:\r\n- RedditFilter\r\n- RedditSideloadFix\r\n- Redditcache\r\n- RedditCacheCleaner\r\n- RedditUndoScrollUp\r\n- ColorComments",
-      "localizedDescription": "Features:\r\n- RedditFilter\r\n- RedditSideloadFix\r\n- Redditcache\r\n- RedditCacheCleaner\r\n- RedditUndoScrollUp\r\n- ColorComments\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.reddit.Reddit\n\n Downloads: 827\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1727220625.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17272206250507180201.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206253364328969.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206254411595476.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206255322405324.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206256171424124.webp",
-        "https://apps.nabzclan.vip/screenshots/17272206257081973564.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2025.11.0",
-          "date": "2025-03-19 18:25:15",
-          "localizedDescription": "Current of Reddit - Reddit Deluxe - 2025.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
-          "size": 153511526
-        },
-        {
-          "version": "2024.50.0",
-          "date": "2024-12-25 16:57:02",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2024.50.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1139",
-          "size": 181193932
-        },
-        {
-          "version": "2024.50.1",
-          "date": "2025-01-10 18:25:47",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2024.50.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1176",
-          "size": 141547274
-        },
-        {
-          "version": "2025.05.0",
-          "date": "2025-02-05 19:06:50",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2025.05.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1202",
-          "size": 138443489
-        },
-        {
-          "version": "2025.11.0",
-          "date": "2025-03-19 18:25:15",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2025.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1297",
-          "size": 153511526
-        },
-        {
-          "version": "2025.11.0",
-          "date": "2025-03-19 18:25:15",
-          "localizedDescription": "Old Version of Reddit - Reddit Deluxe - 2025.11.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
-          "size": 153511526
-        }
-      ],
-      "version": "2025.11.0",
-      "versionDate": "2025-03-19 18:25:15",
-      "versionDescription": "Features:\r\n- RedditFilter\r\n- RedditSideloadFix\r\n- Redditcache\r\n- RedditCacheCleaner\r\n- RedditUndoScrollUp\r\n- ColorComments",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1298",
-      "formatedsize": "146.4 MB",
-      "size": 153511526
-    },
-    {
       "name": "Shadowrocket - VPN",
       "bundleIdentifier": "com.liguangming.Shadowrocket",
       "developerName": "Rule based proxy utility",
@@ -5386,6 +5264,155 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1051",
       "formatedsize": "181.5 MB",
       "size": 190316544
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "What can this app do:\r\n\r\nDownload in the background\r\nSequential download (use VLC to watch films while loading)\r\nAdd torrent files from Share menu (Safari and other apps)\r\nAdd magnet links directly from Safari\r\nStore files in Files app (iOS 11+)\r\nFile sharing directly from app\r\nDownload torrent by link\r\nDownload torrent by magnet\r\nSend notification on torrent downloaded\r\nWebDav Server\r\nSelect files to download or not\r\nChange UI to dark theme\r\nRSS Feed",
+      "localizedDescription": "What can this app do:\r\n\r\nDownload in the background\r\nSequential download (use VLC to watch films while loading)\r\nAdd torrent files from Share menu (Safari and other apps)\r\nAdd magnet links directly from Safari\r\nStore files in Files app (iOS 11+)\r\nFile sharing directly from app\r\nDownload torrent by link\r\nDownload torrent by magnet\r\nSend notification on torrent downloaded\r\nWebDav Server\r\nSelect files to download or not\r\nChange UI to dark theme\r\nRSS Feed\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: ru.nonamedude.iTorrent\n\n Downloads: 1346\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1704794744.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.13-2",
+          "date": "2024-11-23 11:56:28",
+          "localizedDescription": "Current of iTorrent - 2.0.13-2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1042",
+          "size": 7025459
+        },
+        {
+          "version": "1.8.3",
+          "date": "2024-01-09 10:05:45",
+          "localizedDescription": "Old Version of iTorrent - 1.8.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/352",
+          "size": 21244149
+        },
+        {
+          "version": "2.0.10-1",
+          "date": "2024-09-22 13:59:38",
+          "localizedDescription": "Old Version of iTorrent - 2.0.10-1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/609",
+          "size": 6585057
+        },
+        {
+          "version": "2.0.11-3",
+          "date": "2024-10-17 16:26:22",
+          "localizedDescription": "Old Version of iTorrent - 2.0.11-3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/806",
+          "size": 7004487
+        },
+        {
+          "version": "2.0.13-1",
+          "date": "2024-11-23 11:54:44",
+          "localizedDescription": "Old Version of iTorrent - 2.0.13-1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1041",
+          "size": 7025459
+        },
+        {
+          "version": "2.0.13-2",
+          "date": "2024-11-23 11:56:28",
+          "localizedDescription": "Old Version of iTorrent - 2.0.13-2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1042",
+          "size": 7025459
+        }
+      ],
+      "version": "2.0.13-2",
+      "versionDate": "2024-11-23 11:56:28",
+      "versionDescription": "What can this app do:\r\n\r\nDownload in the background\r\nSequential download (use VLC to watch films while loading)\r\nAdd torrent files from Share menu (Safari and other apps)\r\nAdd magnet links directly from Safari\r\nStore files in Files app (iOS 11+)\r\nFile sharing directly from app\r\nDownload torrent by link\r\nDownload torrent by magnet\r\nSend notification on torrent downloaded\r\nWebDav Server\r\nSelect files to download or not\r\nChange UI to dark theme\r\nRSS Feed",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1042",
+      "formatedsize": "6.7 MB",
+      "size": 7025459
+    },
+    {
+      "name": "Little Kitten School + Friends",
+      "bundleIdentifier": "com.foxandsheep.littlekittenschool",
+      "developerName": "Squeakosaurus ug & co. kg",
+      "subtitle": "Yay, Little Kitten is back and so excited about going to primary school! Our app \u201eLittle Kitten & Friends\u201c helps preparing children aged between 4 and 7 for their school start. Training perception, coordination and cognitive abilities - with Little Kitten this is a lot of fun!",
+      "localizedDescription": "Yay, Little Kitten is back and so excited about going to primary school! Our app \u201eLittle Kitten & Friends\u201c helps preparing children aged between 4 and 7 for their school start. Training perception, coordination and cognitive abilities - with Little Kitten this is a lot of fun!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.foxandsheep.littlekittenschool\n\n Downloads: 193\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731970619.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17319706179993028364.webp",
+        "https://apps.nabzclan.vip/screenshots/17319706181144239290.webp",
+        "https://apps.nabzclan.vip/screenshots/17319706182642491830.webp",
+        "https://apps.nabzclan.vip/screenshots/17319706183397975557.webp",
+        "https://apps.nabzclan.vip/screenshots/17319706193741850792.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2024-11-18 17:56:59",
+          "localizedDescription": "Current of Little Kitten School + Friends - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1038",
+          "size": 703699353
+        },
+        {
+          "version": "3.0",
+          "date": "2024-11-18 17:56:59",
+          "localizedDescription": "Old Version of Little Kitten School + Friends - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1038",
+          "size": 703699353
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2024-11-18 17:56:59",
+      "versionDescription": "Yay, Little Kitten is back and so excited about going to primary school! Our app \u201eLittle Kitten & Friends\u201c helps preparing children aged between 4 and 7 for their school start. Training perception, coordination and cognitive abilities - with Little Kitten this is a lot of fun!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1038",
+      "formatedsize": "671.1 MB",
+      "size": 703699353
+    },
+    {
+      "name": "Zombie Frontier 3 - Crosshair",
+      "bundleIdentifier": "com.feelingtouch.zfsd",
+      "developerName": "Nabzclan",
+      "subtitle": "adds the nabzclan crosshair to the app with no bans!\r\n\r\nCrosshair deb file: https://nabzclan.vip/resources/nabz-crosshair.104/",
+      "localizedDescription": "adds the nabzclan crosshair to the app with no bans!\r\n\r\nCrosshair deb file: https://nabzclan.vip/resources/nabz-crosshair.104/\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.feelingtouch.zfsd\n\n Downloads: 473\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1687778030.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16877780194331764750.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780213698599787.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780238336224968.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780250355353303.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780268543543712.webp",
+        "https://apps.nabzclan.vip/screenshots/16877780285349297692.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1.10",
+          "date": "2024-11-18 15:35:57",
+          "localizedDescription": "Current of Zombie Frontier 3 - Crosshair - 2.1.10",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1035",
+          "size": 91173683
+        },
+        {
+          "version": "2.1.0",
+          "date": "2023-07-04 02:54:16",
+          "localizedDescription": "Old Version of Zombie Frontier 3 - Crosshair - 2.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/68",
+          "size": 84578140
+        },
+        {
+          "version": "2.1.10",
+          "date": "2024-11-18 15:35:57",
+          "localizedDescription": "Old Version of Zombie Frontier 3 - Crosshair - 2.1.10",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1035",
+          "size": 91173683
+        }
+      ],
+      "version": "2.1.10",
+      "versionDate": "2024-11-18 15:35:57",
+      "versionDescription": "adds the nabzclan crosshair to the app with no bans!\r\n\r\nCrosshair deb file: https://nabzclan.vip/resources/nabz-crosshair.104/",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1035",
+      "formatedsize": "86.95 MB",
+      "size": 91173683
     }
   ],
   "userInfo": {}

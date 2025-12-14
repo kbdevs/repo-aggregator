@@ -4,161 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "Loora AI++",
-      "bundleIdentifier": "ai.loora.Loora-iOS",
-      "developerName": "Nabzclan",
-      "subtitle": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.",
-      "localizedDescription": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: ai.loora.Loora-iOS\n\n Downloads: 426\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1704793153.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17047931518018298020.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931523562760818.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931524349904390.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931525099183337.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931525874809403.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931530494417104.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.53.3",
-          "date": "2024-01-09 09:39:13",
-          "localizedDescription": "Current of Loora AI++ - 1.53.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/348",
-          "size": 39940259
-        },
-        {
-          "version": "1.53.3",
-          "date": "2024-01-09 09:39:13",
-          "localizedDescription": "Old Version of Loora AI++ - 1.53.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/348",
-          "size": 39940259
-        }
-      ],
-      "version": "1.53.3",
-      "versionDate": "2024-01-09 09:39:13",
-      "versionDescription": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/348",
-      "formatedsize": "38.09 MB",
-      "size": 39940259
-    },
-    {
-      "name": "Flixtools - (No ads)",
-      "bundleIdentifier": "com.qiyumon.show",
-      "developerName": "Nazbclan",
-      "subtitle": "Watch free  Movie Box & TVShow with No ads!",
-      "localizedDescription": "Watch free  Movie Box & TVShow with No ads!\n\n --- \n\n More app Information:\n\n Category: VIP\n\n BundleID: com.qiyumon.show\n\n Downloads: 1424\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1701141163.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.0",
-          "date": "2023-11-28 03:12:43",
-          "localizedDescription": "Current of Flixtools - (No ads) - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/337",
-          "size": 21086863
-        },
-        {
-          "version": "3.0",
-          "date": "2023-11-28 03:12:43",
-          "localizedDescription": "Old Version of Flixtools - (No ads) - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/337",
-          "size": 21086863
-        }
-      ],
-      "version": "3.0",
-      "versionDate": "2023-11-28 03:12:43",
-      "versionDescription": "Watch free  Movie Box & TVShow with No ads!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/337",
-      "formatedsize": "20.11 MB",
-      "size": 21086863
-    },
-    {
-      "name": "Ultimate Custom Night",
-      "bundleIdentifier": "com.clickteam.ultimatecustomnight",
-      "developerName": "The ultimate FNaF mashup",
-      "subtitle": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.clickteam.ultimatecustomnight\n\n Downloads: 246\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700713261.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17007132595573242695.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132601321666621.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132604308262544.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132610284986795.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132613349100987.webp",
-        "https://apps.nabzclan.vip/screenshots/17007132616346167645.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.5",
-          "date": "2023-11-23 04:21:02",
-          "localizedDescription": "Current of Ultimate Custom Night - 1.0.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/324",
-          "size": 208708567
-        },
-        {
-          "version": "1.0.5",
-          "date": "2023-11-23 04:21:02",
-          "localizedDescription": "Old Version of Ultimate Custom Night - 1.0.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/324",
-          "size": 208708567
-        }
-      ],
-      "version": "1.0.5",
-      "versionDate": "2023-11-23 04:21:02",
-      "versionDescription": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/324",
-      "formatedsize": "199.04 MB",
-      "size": 208708567
-    },
-    {
-      "name": "Five Nights at Freddy's",
-      "bundleIdentifier": "com.scottgames.fivenights",
-      "developerName": "You have the night watch",
-      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scottgames.fivenights\n\n Downloads: 744\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700712724.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17007127192975787800.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127199266762380.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127200388103846.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127207544820062.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127240824586915.webp",
-        "https://apps.nabzclan.vip/screenshots/17007127244313832330.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.3",
-          "date": "2023-11-23 04:12:04",
-          "localizedDescription": "Current of Five Nights at Freddy's - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-          "size": 106210263
-        },
-        {
-          "version": "2.0.3",
-          "date": "2023-11-23 04:12:04",
-          "localizedDescription": "Old Version of Five Nights at Freddy's - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-          "size": 106210263
-        }
-      ],
-      "version": "2.0.3",
-      "versionDate": "2023-11-23 04:12:04",
-      "versionDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/323",
-      "formatedsize": "101.29 MB",
-      "size": 106210263
-    },
-    {
       "name": "SoundHound - Music Discovery",
       "bundleIdentifier": "com.melodis.midomi",
       "developerName": "Find & play songs with lyrics",
@@ -2446,6 +2291,61 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
+    },
+    {
+      "name": "MusixmatchPremium",
+      "bundleIdentifier": "com.musixmatch.lyrics",
+      "version": "7.10.8",
+      "versionDate": "2024-10-11",
+      "size": 74673060,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
+    },
+    {
+      "name": "MusicAIVIP",
+      "bundleIdentifier": "com.feraset.tune",
+      "version": "4.1.5",
+      "versionDate": "2024-10-11",
+      "size": 49729423,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusicAIVIP/MusicAIVIP-4.1.5.ipa",
+      "developerName": "Zzz Zzz",
+      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
+    },
+    {
+      "name": "Musi",
+      "bundleIdentifier": "com.feelthemusi.musi",
+      "version": "6.2.35",
+      "versionDate": "2024-10-11",
+      "size": 19556756,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
+    },
+    {
+      "name": "MuffinStore",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "version": "1.1",
+      "versionDate": "2024-10-11",
+      "size": 29281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
+    },
+    {
+      "name": "MoovitPlus",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "version": "5.146.1",
+      "versionDate": "2024-10-11",
+      "size": 85759040,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
     }
   ],
   "userInfo": {}
