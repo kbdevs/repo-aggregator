@@ -4,250 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "Geometry Dash - (Unlocked)",
-      "bundleIdentifier": "com.robtop.geometryjump",
-      "developerName": "Nabzclan",
-      "subtitle": "everything is unlocked",
-      "localizedDescription": "everything is unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.robtop.geometryjump\n\n Downloads: 3374\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1705288361.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17052883511103714760.webp",
-        "https://apps.nabzclan.vip/screenshots/17052883523523427304.webp",
-        "https://apps.nabzclan.vip/screenshots/17052883543566090851.webp",
-        "https://apps.nabzclan.vip/screenshots/17052883577704487968.webp",
-        "https://apps.nabzclan.vip/screenshots/17052883592043000695.webp",
-        "https://apps.nabzclan.vip/screenshots/17052883605661771937.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.11",
-          "date": "2024-03-05 09:55:30",
-          "localizedDescription": "Current of Geometry Dash - (Unlocked) - 2.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/403",
-          "size": 84850769
-        },
-        {
-          "version": "2.2",
-          "date": "2024-01-15 03:12:48",
-          "localizedDescription": "Old Version of Geometry Dash - (Unlocked) - 2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/363",
-          "size": 151173201
-        },
-        {
-          "version": "2.11",
-          "date": "2024-03-05 09:55:30",
-          "localizedDescription": "Old Version of Geometry Dash - (Unlocked) - 2.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/403",
-          "size": 84850769
-        }
-      ],
-      "version": "2.11",
-      "versionDate": "2024-03-05 09:55:30",
-      "versionDescription": "everything is unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/403",
-      "formatedsize": "80.92 MB",
-      "size": 84850769
-    },
-    {
-      "name": "Goat Simulator GoatZ",
-      "bundleIdentifier": "com.coffeestainstudios.goatz",
-      "developerName": "Coffee Stain Publishing",
-      "subtitle": "This is GoatZ, this is your story.",
-      "localizedDescription": "This is GoatZ, this is your story.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.coffeestainstudios.goatz\n\n Downloads: 243\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1705363518.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17053635119945365039.webp",
-        "https://apps.nabzclan.vip/screenshots/17053635141646122087.webp",
-        "https://apps.nabzclan.vip/screenshots/17053635144412077460.webp",
-        "https://apps.nabzclan.vip/screenshots/17053635173116708408.webp",
-        "https://apps.nabzclan.vip/screenshots/17053635177318211173.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.6",
-          "date": "2024-01-16 00:05:19",
-          "localizedDescription": "Current of Goat Simulator GoatZ - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/369",
-          "size": 472068915
-        },
-        {
-          "version": "2.0.6",
-          "date": "2024-01-16 00:05:19",
-          "localizedDescription": "Old Version of Goat Simulator GoatZ - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/369",
-          "size": 472068915
-        }
-      ],
-      "version": "2.0.6",
-      "versionDate": "2024-01-16 00:05:19",
-      "versionDescription": "This is GoatZ, this is your story.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/369",
-      "formatedsize": "450.20 MB",
-      "size": 472068915
-    },
-    {
-      "name": "Goat Simulator Waste of Space",
-      "bundleIdentifier": "com.coffeestainstudios.wasteofspace",
-      "developerName": "Coffee Stain Publishing",
-      "subtitle": "You've already been through the zombie apocalypze in Goat Z and made friends with NPCs in the computed world of Goat MMO Simulator. What on earth is there left for you to do? The answer is NOTHING! That's why we leave earth behind and travel to space!",
-      "localizedDescription": "You've already been through the zombie apocalypze in Goat Z and made friends with NPCs in the computed world of Goat MMO Simulator. What on earth is there left for you to do? The answer is NOTHING! That's why we leave earth behind and travel to space!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.coffeestainstudios.wasteofspace\n\n Downloads: 259\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1705363105.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17053630983187503398.webp",
-        "https://apps.nabzclan.vip/screenshots/17053630988052570814.webp",
-        "https://apps.nabzclan.vip/screenshots/17053630993273986062.webp",
-        "https://apps.nabzclan.vip/screenshots/17053630995784851991.webp",
-        "https://apps.nabzclan.vip/screenshots/17053631025176008696.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.6",
-          "date": "2024-01-15 23:58:25",
-          "localizedDescription": "Current of Goat Simulator Waste of Space - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/368",
-          "size": 615923056
-        },
-        {
-          "version": "2.0.6",
-          "date": "2024-01-15 23:58:25",
-          "localizedDescription": "Old Version of Goat Simulator Waste of Space - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/368",
-          "size": 615923056
-        }
-      ],
-      "version": "2.0.6",
-      "versionDate": "2024-01-15 23:58:25",
-      "versionDescription": "You've already been through the zombie apocalypze in Goat Z and made friends with NPCs in the computed world of Goat MMO Simulator. What on earth is there left for you to do? The answer is NOTHING! That's why we leave earth behind and travel to space!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/368",
-      "formatedsize": "587.39 MB",
-      "size": 615923056
-    },
-    {
-      "name": "Goat Simulator PAYDAY",
-      "bundleIdentifier": "com.coffeestainstudios.payday",
-      "developerName": "Coffee Stain Publishing",
-      "subtitle": "Goat Simulator: Payday is the most criminally realistic goat simulation yet! Starring 4 new main thugs - A flying flamingo, a wheelchairing dolphin, a spitting camel and a goat that\u2019s just really handsome.",
-      "localizedDescription": "Goat Simulator: Payday is the most criminally realistic goat simulation yet! Starring 4 new main thugs - A flying flamingo, a wheelchairing dolphin, a spitting camel and a goat that\u2019s just really handsome.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.coffeestainstudios.payday\n\n Downloads: 354\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1705362735.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17053627237297652270.webp",
-        "https://apps.nabzclan.vip/screenshots/17053627281791344147.webp",
-        "https://apps.nabzclan.vip/screenshots/17053627287123856760.webp",
-        "https://apps.nabzclan.vip/screenshots/17053627323701324585.webp",
-        "https://apps.nabzclan.vip/screenshots/17053627350352534715.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.6",
-          "date": "2024-01-15 23:52:15",
-          "localizedDescription": "Current of Goat Simulator PAYDAY - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/367",
-          "size": 461708984
-        },
-        {
-          "version": "2.0.6",
-          "date": "2024-01-15 23:52:15",
-          "localizedDescription": "Old Version of Goat Simulator PAYDAY - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/367",
-          "size": 461708984
-        }
-      ],
-      "version": "2.0.6",
-      "versionDate": "2024-01-15 23:52:15",
-      "versionDescription": "Goat Simulator: Payday is the most criminally realistic goat simulation yet! Starring 4 new main thugs - A flying flamingo, a wheelchairing dolphin, a spitting camel and a goat that\u2019s just really handsome.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/367",
-      "formatedsize": "440.32 MB",
-      "size": 461708984
-    },
-    {
-      "name": "My Tom (Unlimited Money)",
-      "bundleIdentifier": "com.outfit7.mytalkingtom.arcade",
-      "developerName": "Nabzclan",
-      "subtitle": "Injected with Unlimited Money & Cash\r\n\r\ntalking tom: Apple Arcade version",
-      "localizedDescription": "Injected with Unlimited Money & Cash\r\n\r\ntalking tom: Apple Arcade version\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.outfit7.mytalkingtom.arcade\n\n Downloads: 870\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1705361772.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17053617709018263362.webp",
-        "https://apps.nabzclan.vip/screenshots/17053617713549423125.webp",
-        "https://apps.nabzclan.vip/screenshots/17053617720257215339.webp",
-        "https://apps.nabzclan.vip/screenshots/17053617721629997340.webp",
-        "https://apps.nabzclan.vip/screenshots/17053617724803986726.webp",
-        "https://apps.nabzclan.vip/screenshots/17053617727179431818.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "7.1.2",
-          "date": "2024-01-15 23:36:13",
-          "localizedDescription": "Current of My Tom (Unlimited Money) - 7.1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/365",
-          "size": 106650664
-        },
-        {
-          "version": "7.1.2",
-          "date": "2024-01-15 23:36:13",
-          "localizedDescription": "Old Version of My Tom (Unlimited Money) - 7.1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/365",
-          "size": 106650664
-        }
-      ],
-      "version": "7.1.2",
-      "versionDate": "2024-01-15 23:36:13",
-      "versionDescription": "Injected with Unlimited Money & Cash\r\n\r\ntalking tom: Apple Arcade version",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/365",
-      "formatedsize": "101.71 MB",
-      "size": 106650664
-    },
-    {
-      "name": "Loora AI++",
-      "bundleIdentifier": "ai.loora.Loora-iOS",
-      "developerName": "Nabzclan",
-      "subtitle": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.",
-      "localizedDescription": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: ai.loora.Loora-iOS\n\n Downloads: 426\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1704793153.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17047931518018298020.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931523562760818.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931524349904390.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931525099183337.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931525874809403.webp",
-        "https://apps.nabzclan.vip/screenshots/17047931530494417104.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.53.3",
-          "date": "2024-01-09 09:39:13",
-          "localizedDescription": "Current of Loora AI++ - 1.53.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/348",
-          "size": 39940259
-        },
-        {
-          "version": "1.53.3",
-          "date": "2024-01-09 09:39:13",
-          "localizedDescription": "Old Version of Loora AI++ - 1.53.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/348",
-          "size": 39940259
-        }
-      ],
-      "version": "1.53.3",
-      "versionDate": "2024-01-09 09:39:13",
-      "versionDescription": "Loora AI++ iPA unlock paid features of Speak English with Loora AI app.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/348",
-      "formatedsize": "38.09 MB",
-      "size": 39940259
-    },
-    {
       "name": "Flixtools - (No ads)",
       "bundleIdentifier": "com.qiyumon.show",
       "developerName": "Nazbclan",
@@ -2617,6 +2373,83 @@
       "developerName": "SuperMarcus",
       "localizedDescription": "Anime streamer, supports multiple sources and comes with a user-friendly GUI\nLast updated: 07-17-2023\nStatus: \u2754",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.marcuszhou.NineAnimator.png"
+    },
+    {
+      "name": "NightSkyPlus",
+      "bundleIdentifier": "com.icandiapps.nightsky",
+      "version": "12.2",
+      "versionDate": "2024-10-11",
+      "size": 659348721,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NightSkyPlus/NightSkyPlus-12.2.ipa",
+      "developerName": "iOSGods!",
+      "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.icandiapps.nightsky.png"
+    },
+    {
+      "name": "NGLPro",
+      "bundleIdentifier": "fun.ask",
+      "version": "6.1.117",
+      "versionDate": "2024-10-11",
+      "size": 50645390,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
+      "developerName": "AbodSyripa",
+      "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png"
+    },
+    {
+      "name": "MyDiaryPremium",
+      "bundleIdentifier": "com.simpleinnovation.diary",
+      "version": "1.9.3",
+      "versionDate": "2024-10-11",
+      "size": 40528267,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
+    },
+    {
+      "name": "MusixmatchPremium",
+      "bundleIdentifier": "com.musixmatch.lyrics",
+      "version": "7.10.8",
+      "versionDate": "2024-10-11",
+      "size": 74673060,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
+    },
+    {
+      "name": "MusicAIVIP",
+      "bundleIdentifier": "com.feraset.tune",
+      "version": "4.1.5",
+      "versionDate": "2024-10-11",
+      "size": 49729423,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusicAIVIP/MusicAIVIP-4.1.5.ipa",
+      "developerName": "Zzz Zzz",
+      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
+    },
+    {
+      "name": "Musi",
+      "bundleIdentifier": "com.feelthemusi.musi",
+      "version": "6.2.35",
+      "versionDate": "2024-10-11",
+      "size": 19556756,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
+    },
+    {
+      "name": "MuffinStore",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "version": "1.1",
+      "versionDate": "2024-10-11",
+      "size": 29281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
     }
   ],
   "userInfo": {}

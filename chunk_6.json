@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "GrimSoul",
+      "type": 2,
+      "bundleID": "fantasy.survival.game.rpg",
+      "bundleIdentifier": "fantasy.survival.game.rpg",
+      "version": "7.4.0",
+      "versionDate": "2025-07-05",
+      "fullDate": "20250705140703",
+      "size": 285373208,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/GrimSoul_7.4.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/GrimSoul_7.4.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fantasy.survival.game.rpg.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fantasy.survival.game.rpg.png"
+    },
+    {
+      "name": "SpongeBobAdventures",
+      "type": 2,
+      "bundleID": "com.tiltingpoint.sbadventures",
+      "bundleIdentifier": "com.tiltingpoint.sbadventures",
+      "version": "2.23.1",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704230044",
+      "size": 695436544,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/SpongeBobAdventures_2.23.1_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/SpongeBobAdventures_2.23.1_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiltingpoint.sbadventures.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiltingpoint.sbadventures.png"
+    },
+    {
+      "name": "Choices",
+      "type": 2,
+      "bundleID": "com.pixelberrystudios.choices",
+      "bundleIdentifier": "com.pixelberrystudios.choices",
+      "version": "4.3.0",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704224538",
+      "size": 121799479,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Choices_4.3.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Choices_4.3.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixelberrystudios.choices.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixelberrystudios.choices.png"
+    },
+    {
       "name": "OtherWorldThreeKingdoms",
       "type": 2,
       "bundleID": "com.superplanet.samworld",
@@ -788,22 +836,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.keinois.PrettyProgressApp.png"
     },
     {
-      "name": "FocusKeeper",
-      "type": 1,
-      "bundleID": "com.limepresso.pomodorofree",
-      "bundleIdentifier": "com.limepresso.pomodorofree",
-      "version": "3.4.4",
-      "versionDate": "2025-06-23",
-      "fullDate": "20250623170724",
-      "size": 171665713,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/FocusKeeper_3.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/FocusKeeper_3.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png"
-    },
-    {
       "name": "ShoppingList",
       "type": 1,
       "bundleID": "jp.tyabaken.kaimono",
@@ -866,22 +898,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fluffyfairygames.idleminertycoon.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fluffyfairygames.idleminertycoon.png"
-    },
-    {
-      "name": "MySwimPro",
-      "type": 1,
-      "bundleID": "com.myswimpro.apps.MySwimPro",
-      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "8.29.5",
-      "versionDate": "2025-06-23",
-      "fullDate": "20250623154117",
-      "size": 60100490,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/MySwimPro_8.29.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/MySwimPro_8.29.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png"
     },
     {
       "name": "Surge",
@@ -1588,22 +1604,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.TeleprompterX.png"
     },
     {
-      "name": "Jetpack",
-      "type": 2,
-      "bundleID": "com.halfbrick.jetpack",
-      "bundleIdentifier": "com.halfbrick.jetpack",
-      "version": "1.99.7",
-      "versionDate": "2025-06-16",
-      "fullDate": "20250616163216",
-      "size": 230038755,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Jetpack_1.99.7_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Jetpack_1.99.7_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png"
-    },
-    {
       "name": "Tiimo",
       "type": 1,
       "bundleID": "com.tiimo.app",
@@ -2082,6 +2082,22 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dynamicapps.Vocab-Builder.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dynamicapps.Vocab-Builder.png"
+    },
+    {
+      "name": "ColorWidgets",
+      "type": 1,
+      "bundleID": "com.MMApps.WidgetsApp",
+      "bundleIdentifier": "com.MMApps.WidgetsApp",
+      "version": "7.0.0",
+      "versionDate": "2025-06-12",
+      "fullDate": "20250612150857",
+      "size": 65146994,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/ColorWidgets_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/ColorWidgets_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.MMApps.WidgetsApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.MMApps.WidgetsApp.png"
     }
   ],
   "userInfo": {}
