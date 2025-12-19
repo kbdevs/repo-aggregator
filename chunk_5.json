@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "FitnessOnline",
+      "type": 1,
+      "bundleID": "com.aiti.FitnessOnline",
+      "bundleIdentifier": "com.aiti.FitnessOnline",
+      "version": "1.10.0",
+      "versionDate": "2025-10-01",
+      "fullDate": "20251001201630",
+      "size": 98288256,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/FitnessOnline_1.10.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/FitnessOnline_1.10.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png"
+    },
+    {
+      "name": "TravelTown",
+      "type": 2,
+      "bundleID": "io.randomco.travel",
+      "bundleIdentifier": "io.randomco.travel",
+      "version": "2.12.1241",
+      "versionDate": "2025-10-01",
+      "fullDate": "20251001175038",
+      "size": 131650228,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/TravelTown_2.12.1241_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/TravelTown_2.12.1241_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png"
+    },
+    {
       "name": "smpro",
       "type": 1,
       "bundleID": "com.plusblog.smpro",
@@ -546,22 +578,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png"
-    },
-    {
-      "name": "Radarbot",
-      "type": 1,
-      "bundleID": "com.iteration-mobile.radarbot-free-ww",
-      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
-      "version": "9.30",
-      "versionDate": "2025-09-06",
-      "fullDate": "20250906210514",
-      "size": 305420906,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2025/Radarbot_9.30_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2025/Radarbot_9.30_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Gold",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
       "name": "AIDA64",
@@ -2098,22 +2114,6 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.supermagic.ios.cooptd.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.supermagic.ios.cooptd.png"
-    },
-    {
-      "name": "AndyVolcano",
-      "type": 2,
-      "bundleID": "com.playstrom.tile.match",
-      "bundleIdentifier": "com.playstrom.tile.match",
-      "version": "1.5.9",
-      "versionDate": "2025-07-07",
-      "fullDate": "20250707193559",
-      "size": 169008585,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/AndyVolcano_1.5.9_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/AndyVolcano_1.5.9_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.tile.match.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.tile.match.png"
     }
   ],
   "userInfo": {}

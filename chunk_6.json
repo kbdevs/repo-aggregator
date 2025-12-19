@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "AndyVolcano",
+      "type": 2,
+      "bundleID": "com.playstrom.tile.match",
+      "bundleIdentifier": "com.playstrom.tile.match",
+      "version": "1.5.9",
+      "versionDate": "2025-07-07",
+      "fullDate": "20250707193559",
+      "size": 169008585,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/AndyVolcano_1.5.9_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/AndyVolcano_1.5.9_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.tile.match.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playstrom.tile.match.png"
+    },
+    {
       "name": "WaterReminder",
       "type": 1,
       "bundleID": "com.vgfit.waterreminder",
@@ -2098,22 +2114,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0333.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0333.png"
-    },
-    {
-      "name": "Fortnite",
-      "type": 1,
-      "bundleID": "com.epicgames.FortniteGame",
-      "bundleIdentifier": "com.epicgames.FortniteGame",
-      "version": "36.00.1",
-      "versionDate": "2025-06-14",
-      "fullDate": "20250614183214",
-      "size": 278368125,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/Fortnite_36.00.1_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/Fortnite_36.00.1_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.epicgames.FortniteGame.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.epicgames.FortniteGame.png"
     }
   ],
   "userInfo": {}
