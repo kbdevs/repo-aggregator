@@ -4,6 +4,86 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "StickCricketClash",
+      "type": 2,
+      "bundleID": "com.sticksports.stickcricketclash",
+      "bundleIdentifier": "com.sticksports.stickcricketclash",
+      "version": "1.9.5",
+      "versionDate": "2025-05-21",
+      "fullDate": "20250521171524",
+      "size": 108773844,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/StickCricketClash_1.9.5_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/StickCricketClash_1.9.5_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sticksports.stickcricketclash.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sticksports.stickcricketclash.png"
+    },
+    {
+      "name": "Arch",
+      "type": 1,
+      "bundleID": "co.appnation.interiordesigner",
+      "bundleIdentifier": "co.appnation.interiordesigner",
+      "version": "2.9.2",
+      "versionDate": "2025-05-21",
+      "fullDate": "20250521162008",
+      "size": 71635640,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Arch_2.9.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Arch_2.9.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.interiordesigner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.interiordesigner.png"
+    },
+    {
+      "name": "Evoday",
+      "type": 1,
+      "bundleID": "com.kevinquisquater.Habits",
+      "bundleIdentifier": "com.kevinquisquater.Habits",
+      "version": "2025.11",
+      "versionDate": "2025-05-21",
+      "fullDate": "20250521150444",
+      "size": 26803065,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Evoday_2025.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Evoday_2025.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png"
+    },
+    {
+      "name": "Matchington",
+      "type": 2,
+      "bundleID": "com.matchington.mansion",
+      "bundleIdentifier": "com.matchington.mansion",
+      "version": "1.180.0",
+      "versionDate": "2025-05-20",
+      "fullDate": "20250520194720",
+      "size": 412302222,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Matchington_1.180.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Matchington_1.180.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.matchington.mansion.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.matchington.mansion.png"
+    },
+    {
+      "name": "OfficeCat",
+      "type": 2,
+      "bundleID": "com.tree.idle.cat.office",
+      "bundleIdentifier": "com.tree.idle.cat.office",
+      "version": "1.0.52",
+      "versionDate": "2025-05-20",
+      "fullDate": "20250520194208",
+      "size": 279952327,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/OfficeCat_1.0.52_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/OfficeCat_1.0.52_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tree.idle.cat.office.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tree.idle.cat.office.png"
+    },
+    {
       "name": "Unstuck",
       "type": 1,
       "bundleID": "com.unstuckstudy",
@@ -498,22 +578,6 @@
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LiveScore.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/LiveScore.png"
-    },
-    {
-      "name": "ZenColor",
-      "type": 2,
-      "bundleID": "happy.paint.color.coloring.number",
-      "bundleIdentifier": "happy.paint.color.coloring.number",
-      "version": "1.63.0",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510145505",
-      "size": 96698396,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/ZenColor_1.63.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/ZenColor_1.63.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png"
     },
     {
       "name": "1998Cam",
@@ -1234,22 +1298,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.biel.opus.vpn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.biel.opus.vpn.png"
-    },
-    {
-      "name": "FlexIptv",
-      "type": 1,
-      "bundleID": "com.funlabsoft.iptv",
-      "bundleIdentifier": "com.funlabsoft.iptv",
-      "version": "2.12",
-      "versionDate": "2025-01-25",
-      "fullDate": "20250125015840",
-      "size": 20163743,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/FlexIptv_2.12_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/FlexIptv_2.12_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png"
     },
     {
       "name": "ShadowFight2",
@@ -2846,125 +2894,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
       "formatedsize": "21.57 MB",
       "size": 22617784
-    },
-    {
-      "name": "The Bonfire: Forsaken Lands",
-      "bundleIdentifier": "com.xigmagames.thebonfire",
-      "developerName": "Xigma Games",
-      "subtitle": "Build, discover, craft and survive.\r\n\r\nBuild your settlement in a snowy encampment and manage workers and resource to survive monster attacks during nights. Slowly you will gain access to advanced buildings and crafting options, discover and trade with new civilizations and discover the secrets of the ancients.\r\n\r\nFEATURES\r\n\r\n> Build your own settlement and manage the in-depth simulation\r\n> Survive dangerous monsters and harsh weather\r\n> Beautiful snowy landscape with minimalist aesthetics\r\n> Discover something new with every passing day\r\n> Game Center leaderboards and achievements",
-      "localizedDescription": "Build, discover, craft and survive.\r\n\r\nBuild your settlement in a snowy encampment and manage workers and resource to survive monster attacks during nights. Slowly you will gain access to advanced buildings and crafting options, discover and trade with new civilizations and discover the secrets of the ancients.\r\n\r\nFEATURES\r\n\r\n> Build your own settlement and manage the in-depth simulation\r\n> Survive dangerous monsters and harsh weather\r\n> Beautiful snowy landscape with minimalist aesthetics\r\n> Discover something new with every passing day\r\n> Game Center leaderboards and achievements\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmagames.thebonfire\n\n Downloads: 120\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287308.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432873064001177940.webp",
-        "https://apps.nabzclan.vip/screenshots/17432873073479502408.webp",
-        "https://apps.nabzclan.vip/screenshots/17432873079347951833.webp",
-        "https://apps.nabzclan.vip/screenshots/17432873086168649327.webp",
-        "https://apps.nabzclan.vip/screenshots/17432873086545858861.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.6",
-          "date": "2025-03-29 18:28:28",
-          "localizedDescription": "Current of The Bonfire: Forsaken Lands - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1327",
-          "size": 96468992
-        },
-        {
-          "version": "2.0.6",
-          "date": "2025-03-29 18:28:28",
-          "localizedDescription": "Old Version of The Bonfire: Forsaken Lands - 2.0.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1327",
-          "size": 96468992
-        }
-      ],
-      "version": "2.0.6",
-      "versionDate": "2025-03-29 18:28:28",
-      "versionDescription": "Build, discover, craft and survive.\r\n\r\nBuild your settlement in a snowy encampment and manage workers and resource to survive monster attacks during nights. Slowly you will gain access to advanced buildings and crafting options, discover and trade with new civilizations and discover the secrets of the ancients.\r\n\r\nFEATURES\r\n\r\n> Build your own settlement and manage the in-depth simulation\r\n> Survive dangerous monsters and harsh weather\r\n> Beautiful snowy landscape with minimalist aesthetics\r\n> Discover something new with every passing day\r\n> Game Center leaderboards and achievements",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1327",
-      "formatedsize": "92 MB",
-      "size": 96468992
-    },
-    {
-      "name": "The Bonfire 2 Uncharted Shores",
-      "bundleIdentifier": "com.xigmaGames.thebonfire2",
-      "developerName": "Xigma Games",
-      "subtitle": "BUILD SURVIVE EXPLORE\r\n\r\nBuild, craft, gather resources during the day, and survive monsters and raiders at night in this survival strategy game.\r\n\r\nSequel to the award-winning game The Bonfire: Forsaken Lands  The Bonfire: Uncharted Shores expands on every aspect of the original and brings greater depth.\r\n\r\nDesign your city manage resources chains and workers with unique personalities explore procedurally generated world map in ships trade with free cities and discover mysterious dungeons.\r\n\r\nBuild a powerful city and gain magical artifacts to defeat an ancient evil.",
-      "localizedDescription": "BUILD SURVIVE EXPLORE\r\n\r\nBuild, craft, gather resources during the day, and survive monsters and raiders at night in this survival strategy game.\r\n\r\nSequel to the award-winning game The Bonfire: Forsaken Lands  The Bonfire: Uncharted Shores expands on every aspect of the original and brings greater depth.\r\n\r\nDesign your city manage resources chains and workers with unique personalities explore procedurally generated world map in ships trade with free cities and discover mysterious dungeons.\r\n\r\nBuild a powerful city and gain magical artifacts to defeat an ancient evil.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmaGames.thebonfire2\n\n Downloads: 132\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287172.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432871707773326316.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871708296095364.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871708602086514.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871717347560328.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871721107353928.webp",
-        "https://apps.nabzclan.vip/screenshots/17432871721592501289.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.3",
-          "date": "2025-03-29 18:26:12",
-          "localizedDescription": "Current of The Bonfire 2 Uncharted Shores - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1326",
-          "size": 236086886
-        },
-        {
-          "version": "2.0.3",
-          "date": "2025-03-29 18:26:12",
-          "localizedDescription": "Old Version of The Bonfire 2 Uncharted Shores - 2.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1326",
-          "size": 236086886
-        }
-      ],
-      "version": "2.0.3",
-      "versionDate": "2025-03-29 18:26:12",
-      "versionDescription": "BUILD SURVIVE EXPLORE\r\n\r\nBuild, craft, gather resources during the day, and survive monsters and raiders at night in this survival strategy game.\r\n\r\nSequel to the award-winning game The Bonfire: Forsaken Lands  The Bonfire: Uncharted Shores expands on every aspect of the original and brings greater depth.\r\n\r\nDesign your city manage resources chains and workers with unique personalities explore procedurally generated world map in ships trade with free cities and discover mysterious dungeons.\r\n\r\nBuild a powerful city and gain magical artifacts to defeat an ancient evil.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1326",
-      "formatedsize": "225.15 MB",
-      "size": 236086886
-    },
-    {
-      "name": "Town Mess - Building Adventure (Hack)",
-      "bundleIdentifier": "com.mess.town",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.mess.town\n\n Downloads: 123\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731374088.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17313740860288726651.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740862058926996.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740881562463191.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740882555205180.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740884244777609.webp",
-        "https://apps.nabzclan.vip/screenshots/17313740885431523874.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.10",
-          "date": "2025-03-29 18:22:22",
-          "localizedDescription": "Current of Town Mess - Building Adventure (Hack) - 1.7.10",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1325",
-          "size": 147440271
-        },
-        {
-          "version": "1.7.10",
-          "date": "2025-03-29 18:22:22",
-          "localizedDescription": "Old Version of Town Mess - Building Adventure (Hack) - 1.7.10",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1325",
-          "size": 147440271
-        }
-      ],
-      "version": "1.7.10",
-      "versionDate": "2025-03-29 18:22:22",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1325",
-      "formatedsize": "140.61 MB",
-      "size": 147440271
     }
   ],
   "userInfo": {}

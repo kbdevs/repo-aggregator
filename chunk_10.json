@@ -4,6 +4,149 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Vector Classic",
+      "bundleIdentifier": "com.nekki.vector.iphone",
+      "developerName": "Nekki Limited",
+      "subtitle": "The best parkour-inspired action game is now available! Vector lets you break free and run! Don't get caught!\r\n\r\nVector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. The game opens with a view into a totalitarian world where freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and you soon break free. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.",
+      "localizedDescription": "The best parkour-inspired action game is now available! Vector lets you break free and run! Don't get caught!\r\n\r\nVector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. The game opens with a view into a totalitarian world where freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and you soon break free. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.nekki.vector.iphone\n\n Downloads: 883\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1733162231.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17331622308216262218.webp",
+        "https://apps.nabzclan.vip/screenshots/17331622309402172066.webp",
+        "https://apps.nabzclan.vip/screenshots/17331622310626991481.webp",
+        "https://apps.nabzclan.vip/screenshots/17331622311712409216.webp",
+        "https://apps.nabzclan.vip/screenshots/17331622312431713952.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4.5",
+          "date": "2024-12-02 12:57:11",
+          "localizedDescription": "Current of Vector Classic - 1.4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
+          "size": 126930124
+        },
+        {
+          "version": "1.4.5",
+          "date": "2024-12-02 12:57:11",
+          "localizedDescription": "Old Version of Vector Classic - 1.4.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
+          "size": 126930124
+        }
+      ],
+      "version": "1.4.5",
+      "versionDate": "2024-12-02 12:57:11",
+      "versionDescription": "The best parkour-inspired action game is now available! Vector lets you break free and run! Don't get caught!\r\n\r\nVector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. The game opens with a view into a totalitarian world where freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and you soon break free. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1067",
+      "formatedsize": "121.05 MB",
+      "size": 126930124
+    },
+    {
+      "name": "Nugget (mobile)",
+      "bundleIdentifier": "com.leemin.nugget",
+      "developerName": "leminlimez",
+      "subtitle": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 A mobiledevicepairing file and wireguard are required in order to use this. Read the sections (https://github.com/leminlimez/Nugget-Mobile#getting-your-mobiledevicepairing-file) below to see how to get those.\r\n\r\nLearn more:\r\nhttps://github.com/leminlimez/Nugget-Mobile",
+      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 A mobiledevicepairing file and wireguard are required in order to use this. Read the sections (https://github.com/leminlimez/Nugget-Mobile#getting-your-mobiledevicepairing-file) below to see how to get those.\r\n\r\nLearn more:\r\nhttps://github.com/leminlimez/Nugget-Mobile\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.leemin.nugget\n\n Downloads: 2460\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1727041807.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17270623821274935.webp",
+        "https://apps.nabzclan.vip/screenshots/17270623908989333.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.1",
+          "date": "2024-12-01 16:42:58",
+          "localizedDescription": "Current of Nugget (mobile) - 2.0.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
+          "size": 7675576
+        },
+        {
+          "version": "1.0",
+          "date": "2024-09-23 01:50:07",
+          "localizedDescription": "Old Version of Nugget (mobile) - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/625",
+          "size": 7738490
+        },
+        {
+          "version": "1.0.1",
+          "date": "2024-09-23 12:27:51",
+          "localizedDescription": "Old Version of Nugget (mobile) - 1.0.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/643",
+          "size": 7738490
+        },
+        {
+          "version": "2.0",
+          "date": "2024-10-18 15:21:08",
+          "localizedDescription": "Old Version of Nugget (mobile) - 2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/809",
+          "size": 7675576
+        },
+        {
+          "version": "2.0.1",
+          "date": "2024-12-01 16:42:58",
+          "localizedDescription": "Old Version of Nugget (mobile) - 2.0.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
+          "size": 7675576
+        }
+      ],
+      "version": "2.0.1",
+      "versionDate": "2024-12-01 16:42:58",
+      "versionDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 A mobiledevicepairing file and wireguard are required in order to use this. Read the sections (https://github.com/leminlimez/Nugget-Mobile#getting-your-mobiledevicepairing-file) below to see how to get those.\r\n\r\nLearn more:\r\nhttps://github.com/leminlimez/Nugget-Mobile",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1065",
+      "formatedsize": "7.32 MB",
+      "size": 7675576
+    },
+    {
+      "name": "MONOPOLY GO!",
+      "bundleIdentifier": "com.scopely.monopolygo",
+      "developerName": "Scopely, Inc.",
+      "subtitle": "Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It\u2019s the new way to play - board flipping cleanup not required!\r\nNEW OPPORTUNITIES EVERY DAY",
+      "localizedDescription": "Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It\u2019s the new way to play - board flipping cleanup not required!\r\nNEW OPPORTUNITIES EVERY DAY\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.scopely.monopolygo\n\n Downloads: 852\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731481841.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17314818405723884449.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818406995243805.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818407966155176.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818408819184079.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818409939303557.webp",
+        "https://apps.nabzclan.vip/screenshots/17314818411851406819.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.35.1",
+          "date": "2024-11-28 13:55:30",
+          "localizedDescription": "Current of MONOPOLY GO! - 1.35.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
+          "size": 157999431
+        },
+        {
+          "version": "1.34.1",
+          "date": "2024-11-13 02:42:31",
+          "localizedDescription": "Old Version of MONOPOLY GO! - 1.34.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/999",
+          "size": 154906132
+        },
+        {
+          "version": "1.35.1",
+          "date": "2024-11-28 13:55:30",
+          "localizedDescription": "Old Version of MONOPOLY GO! - 1.35.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
+          "size": 157999431
+        }
+      ],
+      "version": "1.35.1",
+      "versionDate": "2024-11-28 13:55:30",
+      "versionDescription": "Hit GO! Roll the dice! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO! It\u2019s the new way to play - board flipping cleanup not required!\r\nNEW OPPORTUNITIES EVERY DAY",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1063",
+      "formatedsize": "150.68 MB",
+      "size": 157999431
+    },
+    {
       "name": "Flashback: Tricky Fun Riddles (Hacked)",
       "bundleIdentifier": "com.matchingham.flashback.riddles.tricky",
       "developerName": "Babylonipa",
@@ -5358,125 +5501,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/464",
       "formatedsize": "29.58 MB",
       "size": 31016878
-    },
-    {
-      "name": "Dezokr (No Ads) - VIP",
-      "bundleIdentifier": "com.huiynfim.play",
-      "developerName": "Nabzclan",
-      "subtitle": "movie app to watch any type of movies & series with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/",
-      "localizedDescription": "movie app to watch any type of movies & series with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/\n\n --- \n\n More app Information:\n\n Category: Media, VIP\n\n BundleID: com.huiynfim.play\n\n Downloads: 2541\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1713141351.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17131413476576547441.webp",
-        "https://apps.nabzclan.vip/screenshots/17131413487015804184.webp",
-        "https://apps.nabzclan.vip/screenshots/17131413492883309013.webp",
-        "https://apps.nabzclan.vip/screenshots/17131413500906415139.webp",
-        "https://apps.nabzclan.vip/screenshots/17131413505675914469.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.0",
-          "date": "2024-04-15 04:35:51",
-          "localizedDescription": "Current of Dezokr (No Ads) - VIP - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/448",
-          "size": 30670848
-        },
-        {
-          "version": "3.0",
-          "date": "2024-04-15 04:35:51",
-          "localizedDescription": "Old Version of Dezokr (No Ads) - VIP - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/448",
-          "size": 30670848
-        }
-      ],
-      "version": "3.0",
-      "versionDate": "2024-04-15 04:35:51",
-      "versionDescription": "movie app to watch any type of movies & series with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/448",
-      "formatedsize": "29.25 MB",
-      "size": 30670848
-    },
-    {
-      "name": "DEAD TRIGGER - hack 2",
-      "bundleIdentifier": "com.madfingergames.deadtrigger",
-      "developerName": "Nabzclan",
-      "subtitle": "Hacks:\r\n NeverDie",
-      "localizedDescription": "Hacks:\r\n NeverDie\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.madfingergames.deadtrigger\n\n Downloads: 202\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1713137227.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17131372173181510324.webp",
-        "https://apps.nabzclan.vip/screenshots/17131372181241541511.webp",
-        "https://apps.nabzclan.vip/screenshots/17131372198319245140.webp",
-        "https://apps.nabzclan.vip/screenshots/17131372232056439460.webp",
-        "https://apps.nabzclan.vip/screenshots/17131372235706210634.webp",
-        "https://apps.nabzclan.vip/screenshots/17131372239669302980.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.4",
-          "date": "2024-04-15 03:27:07",
-          "localizedDescription": "Current of DEAD TRIGGER - hack 2 - 2.1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/442",
-          "size": 186048839
-        },
-        {
-          "version": "2.1.4",
-          "date": "2024-04-15 03:27:07",
-          "localizedDescription": "Old Version of DEAD TRIGGER - hack 2 - 2.1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/442",
-          "size": 186048839
-        }
-      ],
-      "version": "2.1.4",
-      "versionDate": "2024-04-15 03:27:07",
-      "versionDescription": "Hacks:\r\n NeverDie",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/442",
-      "formatedsize": "177.43 MB",
-      "size": 186048839
-    },
-    {
-      "name": "Meitu - Cracked",
-      "bundleIdentifier": "com.meitu.mtxx",
-      "developerName": "Filters & Selfie Retouch",
-      "subtitle": "Vip Cracked",
-      "localizedDescription": "Vip Cracked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.meitu.mtxx\n\n Downloads: 1104\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1713134290.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17131342893625998473.webp",
-        "https://apps.nabzclan.vip/screenshots/17131342896332142989.webp",
-        "https://apps.nabzclan.vip/screenshots/17131342897143952025.webp",
-        "https://apps.nabzclan.vip/screenshots/17131342897987985856.webp",
-        "https://apps.nabzclan.vip/screenshots/17131342899887074714.webp",
-        "https://apps.nabzclan.vip/screenshots/17131342901413447182.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "10.8.0",
-          "date": "2024-04-15 02:38:10",
-          "localizedDescription": "Current of Meitu - Cracked - 10.8.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/438",
-          "size": 243091374
-        },
-        {
-          "version": "10.8.0",
-          "date": "2024-04-15 02:38:10",
-          "localizedDescription": "Old Version of Meitu - Cracked - 10.8.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/438",
-          "size": 243091374
-        }
-      ],
-      "version": "10.8.0",
-      "versionDate": "2024-04-15 02:38:10",
-      "versionDescription": "Vip Cracked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/438",
-      "formatedsize": "231.83 MB",
-      "size": 243091374
     }
   ],
   "userInfo": {}
