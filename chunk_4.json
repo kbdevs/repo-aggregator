@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Pyxis",
+      "type": 1,
+      "bundleID": "com.armengrewal.Pyxis",
+      "bundleIdentifier": "com.armengrewal.Pyxis",
+      "version": "3.1",
+      "versionDate": "2025-11-25",
+      "fullDate": "20251125231622",
+      "size": 49278519,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Pyxis_3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Pyxis_3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png"
+    },
+    {
+      "name": "Sleepwave",
+      "type": 1,
+      "bundleID": "sleepwave.app",
+      "bundleIdentifier": "sleepwave.app",
+      "version": "3.2.22",
+      "versionDate": "2025-11-25",
+      "fullDate": "20251125231616",
+      "size": 163990839,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Sleepwave_3.2.22_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Sleepwave_3.2.22_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sleepwave.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sleepwave.app.png"
+    },
+    {
       "name": "Telepromptercom",
       "type": 1,
       "bundleID": "matekovacs.Teleprompter",
@@ -1764,22 +1796,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png"
     },
     {
-      "name": "AniClient",
-      "type": 1,
-      "bundleID": "com.picspacehd.anilistclient",
-      "bundleIdentifier": "com.picspacehd.anilistclient",
-      "version": "1.9.1",
-      "versionDate": "2025-10-23",
-      "fullDate": "20251023160212",
-      "size": 16974611,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/AniClient_1.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/AniClient_1.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png"
-    },
-    {
       "name": "EasyAnatomy3DPublic",
       "type": 1,
       "bundleID": "AB.iOsteology",
@@ -2114,22 +2130,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png"
-    },
-    {
-      "name": "Overcast",
-      "type": 1,
-      "bundleID": "fm.overcast.overcast",
-      "bundleIdentifier": "fm.overcast.overcast",
-      "version": "2025.10",
-      "versionDate": "2025-10-12",
-      "fullDate": "20251012010718",
-      "size": 12706620,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/Overcast_2025.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/Overcast_2025.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fm.overcast.overcast.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fm.overcast.overcast.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Cheatsheet",
+      "type": 1,
+      "bundleID": "com.overdesigned.Cheatsheet",
+      "bundleIdentifier": "com.overdesigned.Cheatsheet",
+      "version": "5.2.2",
+      "versionDate": "2025-05-22",
+      "fullDate": "20250522154957",
+      "size": 48250151,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Cheatsheet_5.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Cheatsheet_5.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.overdesigned.Cheatsheet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.overdesigned.Cheatsheet.png"
+    },
+    {
       "name": "StickCricketClash",
       "type": 2,
       "bundleID": "com.sticksports.stickcricketclash",
@@ -2855,45 +2871,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
       "formatedsize": "6.07 MB",
       "size": 6364856
-    },
-    {
-      "name": "Rubek",
-      "bundleIdentifier": "com.xigmagames.rubek",
-      "developerName": "Xigma Games",
-      "subtitle": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
-      "localizedDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmagames.rubek\n\n Downloads: 189\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287439.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432874348899757326.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874354893837858.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874365427395105.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874374583011517.webp",
-        "https://apps.nabzclan.vip/screenshots/17432874385049524047.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2025-03-29 18:30:39",
-          "localizedDescription": "Current of Rubek - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-          "size": 22617784
-        },
-        {
-          "version": "1.2",
-          "date": "2025-03-29 18:30:39",
-          "localizedDescription": "Old Version of Rubek - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-          "size": 22617784
-        }
-      ],
-      "version": "1.2",
-      "versionDate": "2025-03-29 18:30:39",
-      "versionDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
-      "formatedsize": "21.57 MB",
-      "size": 22617784
     }
   ],
   "userInfo": {}

@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Rubek",
+      "bundleIdentifier": "com.xigmagames.rubek",
+      "developerName": "Xigma Games",
+      "subtitle": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
+      "localizedDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.xigmagames.rubek\n\n Downloads: 189\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743287439.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17432874348899757326.webp",
+        "https://apps.nabzclan.vip/screenshots/17432874354893837858.webp",
+        "https://apps.nabzclan.vip/screenshots/17432874365427395105.webp",
+        "https://apps.nabzclan.vip/screenshots/17432874374583011517.webp",
+        "https://apps.nabzclan.vip/screenshots/17432874385049524047.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2025-03-29 18:30:39",
+          "localizedDescription": "Current of Rubek - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
+          "size": 22617784
+        },
+        {
+          "version": "1.2",
+          "date": "2025-03-29 18:30:39",
+          "localizedDescription": "Old Version of Rubek - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
+          "size": 22617784
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2025-03-29 18:30:39",
+      "versionDescription": "\"Thought-provoking levels, pleasing graphics, and relaxing music, prepare to roll your Rubek cube\" - AppAdvice\r\n\r\n\"If Monument Valley, Klocki, and Bluk had a baby I think it would look a little like Rubek\" - Pocket Gamer\r\n\r\n\"great-looking, tough puzzle game\" - MacStories\r\n\r\n\r\nRubek is a minimalist color based puzzle game. Roll a cube to pick up and match correct colors on the floor, as you make your way to reach the end point while figuring out a way to solve the puzzles. Play through 70+ handcrafted levels of mind bending difficulty and collect stars to compete on the global leaderboards.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1328",
+      "formatedsize": "21.57 MB",
+      "size": 22617784
+    },
+    {
       "name": "The Bonfire: Forsaken Lands",
       "bundleIdentifier": "com.xigmagames.thebonfire",
       "developerName": "Xigma Games",
@@ -5535,46 +5574,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1070",
       "formatedsize": "382.74 MB",
       "size": 401331978
-    },
-    {
-      "name": "Loop The Game",
-      "bundleIdentifier": "com.HugTheChilli.TestLoopFinal03",
-      "developerName": "TEAM CHILI S.C.",
-      "subtitle": "Loop is a vibrant Contemplative Puzzle Game; where you and your companion travel through a mysterious, ethereal temple. \r\nDuring this Journey, you will traverse many riddles and face the ultimate enigma: can the endless loop be broken?",
-      "localizedDescription": "Loop is a vibrant Contemplative Puzzle Game; where you and your companion travel through a mysterious, ethereal temple. \r\nDuring this Journey, you will traverse many riddles and face the ultimate enigma: can the endless loop be broken?\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.HugTheChilli.TestLoopFinal03\n\n Downloads: 138\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1733162744.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17331627436615378055.webp",
-        "https://apps.nabzclan.vip/screenshots/17331627438285056057.webp",
-        "https://apps.nabzclan.vip/screenshots/17331627440126414872.webp",
-        "https://apps.nabzclan.vip/screenshots/17331627441933161518.webp",
-        "https://apps.nabzclan.vip/screenshots/17331627443102786937.webp",
-        "https://apps.nabzclan.vip/screenshots/17331627444767998018.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.18",
-          "date": "2024-12-02 13:05:44",
-          "localizedDescription": "Current of Loop The Game - 2.0.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1068",
-          "size": 48905584
-        },
-        {
-          "version": "2.0.18",
-          "date": "2024-12-02 13:05:44",
-          "localizedDescription": "Old Version of Loop The Game - 2.0.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1068",
-          "size": 48905584
-        }
-      ],
-      "version": "2.0.18",
-      "versionDate": "2024-12-02 13:05:44",
-      "versionDescription": "Loop is a vibrant Contemplative Puzzle Game; where you and your companion travel through a mysterious, ethereal temple. \r\nDuring this Journey, you will traverse many riddles and face the ultimate enigma: can the endless loop be broken?",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1068",
-      "formatedsize": "46.64 MB",
-      "size": 48905584
     }
   ],
   "userInfo": {}

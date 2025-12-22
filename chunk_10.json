@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Loop The Game",
+      "bundleIdentifier": "com.HugTheChilli.TestLoopFinal03",
+      "developerName": "TEAM CHILI S.C.",
+      "subtitle": "Loop is a vibrant Contemplative Puzzle Game; where you and your companion travel through a mysterious, ethereal temple. \r\nDuring this Journey, you will traverse many riddles and face the ultimate enigma: can the endless loop be broken?",
+      "localizedDescription": "Loop is a vibrant Contemplative Puzzle Game; where you and your companion travel through a mysterious, ethereal temple. \r\nDuring this Journey, you will traverse many riddles and face the ultimate enigma: can the endless loop be broken?\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.HugTheChilli.TestLoopFinal03\n\n Downloads: 138\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1733162744.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17331627436615378055.webp",
+        "https://apps.nabzclan.vip/screenshots/17331627438285056057.webp",
+        "https://apps.nabzclan.vip/screenshots/17331627440126414872.webp",
+        "https://apps.nabzclan.vip/screenshots/17331627441933161518.webp",
+        "https://apps.nabzclan.vip/screenshots/17331627443102786937.webp",
+        "https://apps.nabzclan.vip/screenshots/17331627444767998018.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.18",
+          "date": "2024-12-02 13:05:44",
+          "localizedDescription": "Current of Loop The Game - 2.0.18",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1068",
+          "size": 48905584
+        },
+        {
+          "version": "2.0.18",
+          "date": "2024-12-02 13:05:44",
+          "localizedDescription": "Old Version of Loop The Game - 2.0.18",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1068",
+          "size": 48905584
+        }
+      ],
+      "version": "2.0.18",
+      "versionDate": "2024-12-02 13:05:44",
+      "versionDescription": "Loop is a vibrant Contemplative Puzzle Game; where you and your companion travel through a mysterious, ethereal temple. \r\nDuring this Journey, you will traverse many riddles and face the ultimate enigma: can the endless loop be broken?",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1068",
+      "formatedsize": "46.64 MB",
+      "size": 48905584
+    },
+    {
       "name": "Vector Classic",
       "bundleIdentifier": "com.nekki.vector.iphone",
       "developerName": "Nekki Limited",
@@ -5464,43 +5504,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/468",
       "formatedsize": "11.4 MB",
       "size": 11953766
-    },
-    {
-      "name": "Citrus AI - premium",
-      "bundleIdentifier": "com.wemagineai.citrus",
-      "developerName": "nabzclan",
-      "subtitle": "unlocked premium",
-      "localizedDescription": "unlocked premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.wemagineai.citrus\n\n Downloads: 759\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1715229061.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17152290565594538836.webp",
-        "https://apps.nabzclan.vip/screenshots/17152290585779980556.webp",
-        "https://apps.nabzclan.vip/screenshots/17152290604239847328.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.03.04",
-          "date": "2024-05-09 08:31:02",
-          "localizedDescription": "Current of Citrus AI - premium - 1.03.04",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/464",
-          "size": 31016878
-        },
-        {
-          "version": "1.03.04",
-          "date": "2024-05-09 08:31:02",
-          "localizedDescription": "Old Version of Citrus AI - premium - 1.03.04",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/464",
-          "size": 31016878
-        }
-      ],
-      "version": "1.03.04",
-      "versionDate": "2024-05-09 08:31:02",
-      "versionDescription": "unlocked premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/464",
-      "formatedsize": "29.58 MB",
-      "size": 31016878
     }
   ],
   "userInfo": {}
