@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Beholder",
+      "bundleIdentifier": "com.creativemobile.beholder",
+      "developerName": "CM Games OU",
+      "subtitle": "Welcome to a grim dystopian future.\r\n\r\nA totalitarian State controls every aspect of private and public life. Laws are oppressive. Surveillance is total. Privacy is dead. You are the State-installed manager of an apartment building. Your daily routine involves making the building a sweet spot for tenants, who will come and go.",
+      "localizedDescription": "Welcome to a grim dystopian future.\r\n\r\nA totalitarian State controls every aspect of private and public life. Laws are oppressive. Surveillance is total. Privacy is dead. You are the State-installed manager of an apartment building. Your daily routine involves making the building a sweet spot for tenants, who will come and go.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.creativemobile.beholder\n\n Downloads: 507\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1733164248.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17331642475272871171.webp",
+        "https://apps.nabzclan.vip/screenshots/17331642477262936335.webp",
+        "https://apps.nabzclan.vip/screenshots/17331642478256016799.webp",
+        "https://apps.nabzclan.vip/screenshots/17331642478935158511.webp",
+        "https://apps.nabzclan.vip/screenshots/17331642479431365161.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.6",
+          "date": "2024-12-02 13:30:48",
+          "localizedDescription": "Current of Beholder - 2.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1070",
+          "size": 401331978
+        },
+        {
+          "version": "2.6",
+          "date": "2024-12-02 13:30:48",
+          "localizedDescription": "Old Version of Beholder - 2.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1070",
+          "size": 401331978
+        }
+      ],
+      "version": "2.6",
+      "versionDate": "2024-12-02 13:30:48",
+      "versionDescription": "Welcome to a grim dystopian future.\r\n\r\nA totalitarian State controls every aspect of private and public life. Laws are oppressive. Surveillance is total. Privacy is dead. You are the State-installed manager of an apartment building. Your daily routine involves making the building a sweet spot for tenants, who will come and go.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1070",
+      "formatedsize": "382.74 MB",
+      "size": 401331978
+    },
+    {
       "name": "Loop The Game",
       "bundleIdentifier": "com.HugTheChilli.TestLoopFinal03",
       "developerName": "TEAM CHILI S.C.",
@@ -5469,41 +5508,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/473",
       "formatedsize": "118.20 MB",
       "size": 123941683
-    },
-    {
-      "name": "GBA4IOS",
-      "bundleIdentifier": "com.macbuildserver.GBA4iOS",
-      "developerName": "Delta team",
-      "subtitle": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
-      "localizedDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: com.macbuildserver.GBA4iOS\n\n Downloads: 531\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1715977480.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.1",
-          "date": "2024-05-18 19:45:34",
-          "localizedDescription": "Current of GBA4IOS - 2.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
-          "size": 11953766
-        },
-        {
-          "version": "2.1.1",
-          "date": "2024-05-18 19:45:34",
-          "localizedDescription": "Old Version of GBA4IOS - 2.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
-          "size": 11953766
-        }
-      ],
-      "version": "2.1.1",
-      "versionDate": "2024-05-18 19:45:34",
-      "versionDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/468",
-      "formatedsize": "11.4 MB",
-      "size": 11953766
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "ZombieMiner",
+      "type": 2,
+      "bundleID": "com.zombie.idleminertycoon",
+      "bundleIdentifier": "com.zombie.idleminertycoon",
+      "version": "2.221",
+      "versionDate": "2025-05-22",
+      "fullDate": "20250522160503",
+      "size": 221743585,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/ZombieMiner_2.221_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/ZombieMiner_2.221_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zombie.idleminertycoon.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zombie.idleminertycoon.png"
+    },
+    {
       "name": "Cheatsheet",
       "type": 1,
       "bundleID": "com.overdesigned.Cheatsheet",
@@ -964,6 +980,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
     },
     {
+      "name": "RashaqaWorkout",
+      "type": 1,
+      "bundleID": "com.madarsoft.fitness",
+      "bundleIdentifier": "com.madarsoft.fitness",
+      "version": "15.4",
+      "versionDate": "2025-04-30",
+      "fullDate": "20250430110144",
+      "size": 364761987,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
+    },
+    {
       "name": "EndZoneDefendandSurvive",
       "type": 2,
       "bundleID": "com.jiujiu.zombiedefense",
@@ -1661,10 +1693,10 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "2.4.0",
-          "date": "2025-09-26T08:20:00Z",
+          "version": "2.5.0",
+          "date": "2025-12-22T08:20:00Z",
           "size": 12598584,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.4.0/Feather.ipa"
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.5.0/Feather.ipa"
         }
       ],
       "appPermissions": {},
@@ -1674,10 +1706,10 @@
         "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Sign.png?raw=true",
         "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Store.png?raw=true"
       ],
-      "version": "2.4.0",
-      "versionDate": "2025-10-26T08:20:00Z",
+      "version": "2.5.0",
+      "versionDate": "2025-12-22T08:20:00Z",
       "size": 12598584,
-      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.4.0/Feather.ipa"
+      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.5.0/Feather.ipa"
     },
     {
       "beta": false,
@@ -2793,84 +2825,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1332",
       "formatedsize": "3.51 GB",
       "size": 3768833802
-    },
-    {
-      "name": "Gunslugs",
-      "bundleIdentifier": "com.orangepixel.gunslugs",
-      "developerName": "Pascal Bestebroer",
-      "subtitle": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss",
-      "localizedDescription": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.orangepixel.gunslugs\n\n Downloads: 136\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743288258.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432882558527982682.webp",
-        "https://apps.nabzclan.vip/screenshots/17432882558955947440.webp",
-        "https://apps.nabzclan.vip/screenshots/17432882559347355583.webp",
-        "https://apps.nabzclan.vip/screenshots/17432882559697655325.webp",
-        "https://apps.nabzclan.vip/screenshots/17432882569928911830.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.3.3",
-          "date": "2025-03-29 18:44:18",
-          "localizedDescription": "Current of Gunslugs - 3.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
-          "size": 26654801
-        },
-        {
-          "version": "3.3.3",
-          "date": "2025-03-29 18:44:18",
-          "localizedDescription": "Old Version of Gunslugs - 3.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
-          "size": 26654801
-        }
-      ],
-      "version": "3.3.3",
-      "versionDate": "2025-03-29 18:44:18",
-      "versionDescription": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
-      "formatedsize": "25.42 MB",
-      "size": 26654801
-    },
-    {
-      "name": "WiFi Tools & Analyzer",
-      "bundleIdentifier": "com.bz.WiFi-Tools",
-      "developerName": "Tamara Dudarenko",
-      "subtitle": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
-      "localizedDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.bz.WiFi-Tools\n\n Downloads: 3065\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743287679.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17432876795205994196.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876795954567420.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876796448292220.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876796891145167.webp",
-        "https://apps.nabzclan.vip/screenshots/17432876797376695474.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.18",
-          "date": "2025-03-29 18:34:39",
-          "localizedDescription": "Current of WiFi Tools & Analyzer - 1.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-          "size": 6364856
-        },
-        {
-          "version": "1.18",
-          "date": "2025-03-29 18:34:39",
-          "localizedDescription": "Old Version of WiFi Tools & Analyzer - 1.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-          "size": 6364856
-        }
-      ],
-      "version": "1.18",
-      "versionDate": "2025-03-29 18:34:39",
-      "versionDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
-      "formatedsize": "6.07 MB",
-      "size": 6364856
     }
   ],
   "userInfo": {}

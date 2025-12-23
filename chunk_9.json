@@ -4,6 +4,84 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Gunslugs",
+      "bundleIdentifier": "com.orangepixel.gunslugs",
+      "developerName": "Pascal Bestebroer",
+      "subtitle": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss",
+      "localizedDescription": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.orangepixel.gunslugs\n\n Downloads: 136\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743288258.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17432882558527982682.webp",
+        "https://apps.nabzclan.vip/screenshots/17432882558955947440.webp",
+        "https://apps.nabzclan.vip/screenshots/17432882559347355583.webp",
+        "https://apps.nabzclan.vip/screenshots/17432882559697655325.webp",
+        "https://apps.nabzclan.vip/screenshots/17432882569928911830.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.3.3",
+          "date": "2025-03-29 18:44:18",
+          "localizedDescription": "Current of Gunslugs - 3.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
+          "size": 26654801
+        },
+        {
+          "version": "3.3.3",
+          "date": "2025-03-29 18:44:18",
+          "localizedDescription": "Old Version of Gunslugs - 3.3.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
+          "size": 26654801
+        }
+      ],
+      "version": "3.3.3",
+      "versionDate": "2025-03-29 18:44:18",
+      "versionDescription": "A chaotic arcade action platformer. Randomized levels and perma-death will keep you on your toes as you try to unlock your Gunslugs buddies and defeat the Black Duck Army. Take it one world at a time, and see if you can defeat the evil Hell boss",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1330",
+      "formatedsize": "25.42 MB",
+      "size": 26654801
+    },
+    {
+      "name": "WiFi Tools & Analyzer",
+      "bundleIdentifier": "com.bz.WiFi-Tools",
+      "developerName": "Tamara Dudarenko",
+      "subtitle": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
+      "localizedDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.bz.WiFi-Tools\n\n Downloads: 3065\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743287679.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17432876795205994196.webp",
+        "https://apps.nabzclan.vip/screenshots/17432876795954567420.webp",
+        "https://apps.nabzclan.vip/screenshots/17432876796448292220.webp",
+        "https://apps.nabzclan.vip/screenshots/17432876796891145167.webp",
+        "https://apps.nabzclan.vip/screenshots/17432876797376695474.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.18",
+          "date": "2025-03-29 18:34:39",
+          "localizedDescription": "Current of WiFi Tools & Analyzer - 1.18",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
+          "size": 6364856
+        },
+        {
+          "version": "1.18",
+          "date": "2025-03-29 18:34:39",
+          "localizedDescription": "Old Version of WiFi Tools & Analyzer - 1.18",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
+          "size": 6364856
+        }
+      ],
+      "version": "1.18",
+      "versionDate": "2025-03-29 18:34:39",
+      "versionDescription": "WiFi Tools is a set of network utilities that helps users all over the world to understand: Who is connected to their wifi, scan home and corporate networks, check whether their network has been hacked or not, is it safe? Using the full power of wifi technology, you can check if there are hidden cameras and if your ISP provides the speed you pay for, detect your dns server. App find, ping and identifies all devices connected to your network, analyzes download speed as well as connection delays, displaying detailed network information in real time on the screen of your mobile device. Also you can use app with proxy connection or work with vpn enabled.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1329",
+      "formatedsize": "6.07 MB",
+      "size": 6364856
+    },
+    {
       "name": "Rubek",
       "bundleIdentifier": "com.xigmagames.rubek",
       "developerName": "Xigma Games",
@@ -4036,46 +4114,6 @@
       "size": 122609991
     },
     {
-      "name": "FL Studio Mobile (Hack)",
-      "bundleIdentifier": "com.imageline.FLStudioMobileHD",
-      "developerName": "Nabzclan",
-      "subtitle": "Extra Features:\r\n- In app purchase \r\n\r\n----\r\n\r\nCreate and save complete multi-track music projects on your iPad, iPhone or Mac. Record, sequence, edit, mix and render complete songs.",
-      "localizedDescription": "Extra Features:\r\n- In app purchase \r\n\r\n----\r\n\r\nCreate and save complete multi-track music projects on your iPad, iPhone or Mac. Record, sequence, edit, mix and render complete songs.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps, Tweaked Apps, Free in app purchases\n\n BundleID: com.imageline.FLStudioMobileHD\n\n Downloads: 1161\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730904033.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309040263475049023.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040273996038972.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040285398699451.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040296192473327.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040301232613143.webp",
-        "https://apps.nabzclan.vip/screenshots/17309040315849275521.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.7.2",
-          "date": "2025-02-02 12:25:12",
-          "localizedDescription": "Current of FL Studio Mobile (Hack) - 4.7.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1184",
-          "size": 246729932
-        },
-        {
-          "version": "4.7.2",
-          "date": "2025-02-02 12:25:12",
-          "localizedDescription": "Old Version of FL Studio Mobile (Hack) - 4.7.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1184",
-          "size": 246729932
-        }
-      ],
-      "version": "4.7.2",
-      "versionDate": "2025-02-02 12:25:12",
-      "versionDescription": "Extra Features:\r\n- In app purchase \r\n\r\n----\r\n\r\nCreate and save complete multi-track music projects on your iPad, iPhone or Mac. Record, sequence, edit, mix and render complete songs.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1184",
-      "formatedsize": "235.3 MB",
-      "size": 246729932
-    },
-    {
       "name": "Two Dots: Connect the dots (Hacked)",
       "bundleIdentifier": "com.weplaydots.twodots",
       "developerName": "BabylonIPA",
@@ -5535,45 +5573,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1078",
       "formatedsize": "384.09 MB",
       "size": 402747555
-    },
-    {
-      "name": "Beholder",
-      "bundleIdentifier": "com.creativemobile.beholder",
-      "developerName": "CM Games OU",
-      "subtitle": "Welcome to a grim dystopian future.\r\n\r\nA totalitarian State controls every aspect of private and public life. Laws are oppressive. Surveillance is total. Privacy is dead. You are the State-installed manager of an apartment building. Your daily routine involves making the building a sweet spot for tenants, who will come and go.",
-      "localizedDescription": "Welcome to a grim dystopian future.\r\n\r\nA totalitarian State controls every aspect of private and public life. Laws are oppressive. Surveillance is total. Privacy is dead. You are the State-installed manager of an apartment building. Your daily routine involves making the building a sweet spot for tenants, who will come and go.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.creativemobile.beholder\n\n Downloads: 507\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1733164248.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17331642475272871171.webp",
-        "https://apps.nabzclan.vip/screenshots/17331642477262936335.webp",
-        "https://apps.nabzclan.vip/screenshots/17331642478256016799.webp",
-        "https://apps.nabzclan.vip/screenshots/17331642478935158511.webp",
-        "https://apps.nabzclan.vip/screenshots/17331642479431365161.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.6",
-          "date": "2024-12-02 13:30:48",
-          "localizedDescription": "Current of Beholder - 2.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1070",
-          "size": 401331978
-        },
-        {
-          "version": "2.6",
-          "date": "2024-12-02 13:30:48",
-          "localizedDescription": "Old Version of Beholder - 2.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1070",
-          "size": 401331978
-        }
-      ],
-      "version": "2.6",
-      "versionDate": "2024-12-02 13:30:48",
-      "versionDescription": "Welcome to a grim dystopian future.\r\n\r\nA totalitarian State controls every aspect of private and public life. Laws are oppressive. Surveillance is total. Privacy is dead. You are the State-installed manager of an apartment building. Your daily routine involves making the building a sweet spot for tenants, who will come and go.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1070",
-      "formatedsize": "382.74 MB",
-      "size": 401331978
     }
   ],
   "userInfo": {}

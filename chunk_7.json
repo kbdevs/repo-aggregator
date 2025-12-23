@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Habits",
+      "type": 1,
+      "bundleID": "com.dreamer.Habits",
+      "bundleIdentifier": "com.dreamer.Habits",
+      "version": "6.4.3",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616165317",
+      "size": 17869557,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Habits_6.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Habits_6.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png"
+    },
+    {
+      "name": "VidCap",
+      "type": 1,
+      "bundleID": "io.fadel.VidCap",
+      "bundleIdentifier": "io.fadel.VidCap",
+      "version": "1.0.215",
+      "versionDate": "2025-06-16",
+      "fullDate": "20250616163735",
+      "size": 32487665,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/VidCap_1.0.215_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/VidCap_1.0.215_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.VidCap.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.VidCap.png"
+    },
+    {
       "name": "Bunpo",
       "type": 1,
       "bundleID": "com.N2BunpouApp.yuki",
@@ -1684,22 +1716,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fuseboxgames.loveisland2.png"
     },
     {
-      "name": "BloonsTD6",
-      "type": 2,
-      "bundleID": "com.ninjakiwi.bloonstd6",
-      "bundleIdentifier": "com.ninjakiwi.bloonstd6",
-      "version": "48.2",
-      "versionDate": "2025-05-28",
-      "fullDate": "20250528145519",
-      "size": 81880095,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/BloonsTD6_48.2_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/BloonsTD6_48.2_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ninjakiwi.bloonstd6.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ninjakiwi.bloonstd6.png"
-    },
-    {
       "name": "APEXRacer",
       "type": 2,
       "bundleID": "com.pixeldev.APEXRacers",
@@ -2114,22 +2130,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.konami.yugiohmobile.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.konami.yugiohmobile.png"
-    },
-    {
-      "name": "ZombieMiner",
-      "type": 2,
-      "bundleID": "com.zombie.idleminertycoon",
-      "bundleIdentifier": "com.zombie.idleminertycoon",
-      "version": "2.221",
-      "versionDate": "2025-05-22",
-      "fullDate": "20250522160503",
-      "size": 221743585,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/ZombieMiner_2.221_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/ZombieMiner_2.221_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zombie.idleminertycoon.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zombie.idleminertycoon.png"
     }
   ],
   "userInfo": {}
