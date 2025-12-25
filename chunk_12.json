@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.12.1",
+      "versionDate": "2024-10-11",
+      "size": 619940,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.12.1.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "ObjectRemoval",
+      "bundleIdentifier": "com.skysoft.removalfree",
+      "version": "3.8.7",
+      "versionDate": "2024-10-11",
+      "size": 64666410,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-3.8.7.ipa",
+      "developerName": "FayezUpdates",
+      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
+    },
+    {
       "name": "OVFEditorPremium",
       "bundleIdentifier": "com.mutaeb.OVF-Editor",
       "version": "5.0.1",
@@ -1453,6 +1475,16 @@
       ],
       "versions": [
         {
+          "absoluteVersion": "1.7.0",
+          "version": "1.7",
+          "buildVersion": "2025-12-23-e352995",
+          "date": "2025-12-23T15:25:21Z",
+          "localizedDescription": "# VCMI 1.7.0\n\nNote: saved games from 1.6 release can be loaded in 1.7\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.8 -> 1.7.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#168---170)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.8..1.7.0\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.7.0/VCMI-iOS.ipa",
+          "size": 26811586,
+          "sha256": "1ddce7ba1a0295c18f9360be11959e5b9fc3f82035d6f16add1eb09838eef8df"
+        },
+        {
           "absoluteVersion": "1.6.8",
           "version": "1.6.8",
           "buildVersion": "2025-04-24-a92e29e",
@@ -2441,6 +2473,20 @@
         "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
       ],
       "versions": [
+        {
+          "version": "31237",
+          "date": "2025-12-24T23:14:37+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=31237",
+          "size": 135284931,
+          "sha256": "a59af7f408ca9992ca838a9eb6f639b3eb9766ff38efe323173a912b2d7348c5"
+        },
+        {
+          "version": "31230",
+          "date": "2025-12-24T21:44:41+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=31230",
+          "size": 135300124,
+          "sha256": "66088d8de0e7f9fb5009dd932d737efffad716784595ea27b74431bcfbd4a3f7"
+        },
         {
           "version": "30989",
           "date": "2025-12-02T02:03:33+00:00",

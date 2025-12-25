@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Apollo",
+      "type": 1,
+      "bundleID": "com.christianselig.Apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "version": "1.15.11",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024150347",
+      "size": 114893074,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Apollo_1.15.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Apollo_1.15.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.christianselig.Apollo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.christianselig.Apollo.png"
+    },
+    {
+      "name": "PerfectAIPublic",
+      "type": 1,
+      "bundleID": "comai.redrawart.iosapp",
+      "bundleIdentifier": "comai.redrawart.iosapp",
+      "version": "1.1.8",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024110751",
+      "size": 157224705,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/PerfectAIPublic_1.1.8_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/PerfectAIPublic_1.1.8_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png"
+    },
+    {
       "name": "Phoenix",
       "type": 1,
       "bundleID": "com.phoenix.motivationapp",
@@ -2114,38 +2146,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.filmicpro.doubletake.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.filmicpro.doubletake.png"
-    },
-    {
-      "name": "Mainspring",
-      "type": 1,
-      "bundleID": "com.naamapps.mainspring",
-      "bundleIdentifier": "com.naamapps.mainspring",
-      "version": "1.12.0",
-      "versionDate": "2025-08-14",
-      "fullDate": "20250814025529",
-      "size": 36739988,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Mainspring_1.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Mainspring_1.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.naamapps.mainspring.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.naamapps.mainspring.png"
-    },
-    {
-      "name": "OpenCam",
-      "type": 1,
-      "bundleID": "riccqi.Camel",
-      "bundleIdentifier": "riccqi.Camel",
-      "version": "1.1.1",
-      "versionDate": "2025-08-14",
-      "fullDate": "20250814025520",
-      "size": 22533893,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/OpenCam_1.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/OpenCam_1.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/riccqi.Camel.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/riccqi.Camel.png"
     }
   ],
   "userInfo": {}
