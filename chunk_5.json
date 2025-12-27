@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "VideoShow",
+      "type": 1,
+      "bundleID": "com.enjoy.VideoShow",
+      "bundleIdentifier": "com.enjoy.VideoShow",
+      "version": "5.10.130",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024192005",
+      "size": 253328694,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/VideoShow_5.10.130_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/VideoShow_5.10.130_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png"
+    },
+    {
       "name": "Apollo",
       "type": 1,
       "bundleID": "com.christianselig.Apollo",
@@ -2130,22 +2146,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.karteto.application.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.karteto.application.png"
-    },
-    {
-      "name": "DoubleTake",
-      "type": 1,
-      "bundleID": "com.filmicpro.doubletake",
-      "bundleIdentifier": "com.filmicpro.doubletake",
-      "version": "3.1.2",
-      "versionDate": "2025-08-14",
-      "fullDate": "20250814030039",
-      "size": 36897978,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/DoubleTake_3.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/DoubleTake_3.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.filmicpro.doubletake.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.filmicpro.doubletake.png"
     }
   ],
   "userInfo": {}

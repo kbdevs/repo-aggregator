@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "DoubleTake",
+      "type": 1,
+      "bundleID": "com.filmicpro.doubletake",
+      "bundleIdentifier": "com.filmicpro.doubletake",
+      "version": "3.1.2",
+      "versionDate": "2025-08-14",
+      "fullDate": "20250814030039",
+      "size": 36897978,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/DoubleTake_3.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/DoubleTake_3.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.filmicpro.doubletake.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.filmicpro.doubletake.png"
+    },
+    {
       "name": "Mainspring",
       "type": 1,
       "bundleID": "com.naamapps.mainspring",
@@ -226,22 +242,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png"
-    },
-    {
-      "name": "Myfxbook",
-      "type": 1,
-      "bundleID": "com.forex.Myfxbook",
-      "bundleIdentifier": "com.forex.Myfxbook",
-      "version": "2.37",
-      "versionDate": "2025-07-29",
-      "fullDate": "20250729172536",
-      "size": 12397325,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Myfxbook_2.37_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Myfxbook_2.37_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.forex.Myfxbook.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.forex.Myfxbook.png"
     },
     {
       "name": "PunchClock",

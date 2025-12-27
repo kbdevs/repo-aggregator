@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "EeveeSpotify",
+      "type": 1,
+      "bundleID": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.9.8",
+      "versionDate": "2025-12-05",
+      "fullDate": "20251205131716",
+      "size": 67488729,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/EeveeSpotify_8.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/EeveeSpotify_8.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "NotePlan",
+      "type": 1,
+      "bundleID": "co.noteplan.NotePlan3",
+      "bundleIdentifier": "co.noteplan.NotePlan3",
+      "version": "3.19.3",
+      "versionDate": "2025-12-05",
+      "fullDate": "20251205061615",
+      "size": 89626226,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/NotePlan_3.19.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/NotePlan_3.19.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png"
+    },
+    {
+      "name": "DrKegel",
+      "type": 1,
+      "bundleID": "games.calico.mantracker",
+      "bundleIdentifier": "games.calico.mantracker",
+      "version": "1.0.9",
+      "versionDate": "2025-12-05",
+      "fullDate": "20251205033510",
+      "size": 140403906,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/DrKegel_1.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/DrKegel_1.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png"
+    },
+    {
       "name": "Life",
       "type": 1,
       "bundleID": "co.lovetap.Female-by-Design",
@@ -18,22 +66,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png"
-    },
-    {
-      "name": "Sketchar",
-      "type": 1,
-      "bundleID": "tech.sketchar.ios",
-      "bundleIdentifier": "tech.sketchar.ios",
-      "version": "10.2.1",
-      "versionDate": "2025-12-04",
-      "fullDate": "20251204232227",
-      "size": 195787885,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/Sketchar_10.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/Sketchar_10.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png"
     },
     {
       "name": "Edith",
@@ -66,22 +98,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png"
-    },
-    {
-      "name": "CoinID",
-      "type": 1,
-      "bundleID": "com.aiby.wtcoin",
-      "bundleIdentifier": "com.aiby.wtcoin",
-      "version": "1.20",
-      "versionDate": "2025-12-04",
-      "fullDate": "20251204134521",
-      "size": 35394553,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/CoinID_1.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/CoinID_1.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png"
     },
     {
       "name": "Mockview",
@@ -2130,22 +2146,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png"
-    },
-    {
-      "name": "VideoShow",
-      "type": 1,
-      "bundleID": "com.enjoy.VideoShow",
-      "bundleIdentifier": "com.enjoy.VideoShow",
-      "version": "5.10.130",
-      "versionDate": "2025-10-24",
-      "fullDate": "20251024192005",
-      "size": 253328694,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/VideoShow_5.10.130_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/VideoShow_5.10.130_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png"
     }
   ],
   "userInfo": {}
