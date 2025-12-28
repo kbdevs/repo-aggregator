@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "PlanesLiveFree",
+      "type": 1,
+      "bundleID": "com.apalonapps.planesfree",
+      "bundleIdentifier": "com.apalonapps.planesfree",
+      "version": "3.10.54",
+      "versionDate": "2025-12-05",
+      "fullDate": "20251205170750",
+      "size": 129562333,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/PlanesLiveFree_3.10.54_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/PlanesLiveFree_3.10.54_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png"
+    },
+    {
+      "name": "TheWeather",
+      "type": 1,
+      "bundleID": "com.impalastudios.theweatherfree",
+      "bundleIdentifier": "com.impalastudios.theweatherfree",
+      "version": "2.0.13",
+      "versionDate": "2025-12-05",
+      "fullDate": "20251205141227",
+      "size": 145353939,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/TheWeather_2.0.13_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/TheWeather_2.0.13_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png"
+    },
+    {
       "name": "EeveeSpotify",
       "type": 1,
       "bundleID": "com.spotify.client",
@@ -738,22 +770,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png"
-    },
-    {
-      "name": "MagicEraser",
-      "type": 1,
-      "bundleID": "com.hhp.magicEraser",
-      "bundleIdentifier": "com.hhp.magicEraser",
-      "version": "3.10.0",
-      "versionDate": "2025-11-25",
-      "fullDate": "20251125195954",
-      "size": 244810927,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/MagicEraser_3.10.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/MagicEraser_3.10.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png"
     },
     {
       "name": "JSCodePad",
@@ -2130,22 +2146,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png"
-    },
-    {
-      "name": "KetoDiet",
-      "type": 1,
-      "bundleID": "com.lappir.keto",
-      "bundleIdentifier": "com.lappir.keto",
-      "version": "8.3",
-      "versionDate": "2025-10-27",
-      "fullDate": "20251027145724",
-      "size": 30913352,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/KetoDiet_8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/KetoDiet_8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png"
     }
   ],
   "userInfo": {}

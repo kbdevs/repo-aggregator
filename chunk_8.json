@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Eatventure",
+      "type": 2,
+      "bundleID": "com.hwqgrhhjfd.idlefastfood",
+      "bundleIdentifier": "com.hwqgrhhjfd.idlefastfood",
+      "version": "1.37.0",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527141203",
+      "size": 124583537,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Eatventure_1.37.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Eatventure_1.37.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hwqgrhhjfd.idlefastfood.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hwqgrhhjfd.idlefastfood.png"
+    },
+    {
       "name": "AlisTemporis",
       "type": 2,
       "bundleID": "com.TownSoft.cannibalplanet3",
@@ -2605,46 +2621,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
       "formatedsize": "129.3 MB",
       "size": 135580876
-    },
-    {
-      "name": "Brave Merge - Battle & Defense (Hacked)",
-      "bundleIdentifier": "com.brave.merge",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.brave.merge\n\n Downloads: 243\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731098511.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310984989007288265.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985006859029764.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985026068335271.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985045738054193.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985070989418090.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985095468917365.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.6.4",
-          "date": "2025-04-02 18:41:30",
-          "localizedDescription": "Current of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
-          "size": 108632473
-        },
-        {
-          "version": "1.6.4",
-          "date": "2025-04-02 18:41:30",
-          "localizedDescription": "Old Version of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
-          "size": 108632473
-        }
-      ],
-      "version": "1.6.4",
-      "versionDate": "2025-04-02 18:41:30",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
-      "formatedsize": "103.6 MB",
-      "size": 108632473
     }
   ],
   "userInfo": {}

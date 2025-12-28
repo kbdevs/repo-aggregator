@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "KetoDiet",
+      "type": 1,
+      "bundleID": "com.lappir.keto",
+      "bundleIdentifier": "com.lappir.keto",
+      "version": "8.3",
+      "versionDate": "2025-10-27",
+      "fullDate": "20251027145724",
+      "size": 30913352,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/KetoDiet_8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/KetoDiet_8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png"
+    },
+    {
       "name": "VideoShow",
       "type": 1,
       "bundleID": "com.enjoy.VideoShow",
@@ -2130,22 +2146,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pyanime.anime.search.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pyanime.anime.search.png"
-    },
-    {
-      "name": "Karteto",
-      "type": 1,
-      "bundleID": "com.karteto.application",
-      "bundleIdentifier": "com.karteto.application",
-      "version": "0.7.0",
-      "versionDate": "2025-08-15",
-      "fullDate": "20250815013633",
-      "size": 39784027,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-08-2025/Karteto_0.7.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-08-2025/Karteto_0.7.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.karteto.application.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.karteto.application.png"
     }
   ],
   "userInfo": {}

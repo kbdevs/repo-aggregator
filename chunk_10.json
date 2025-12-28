@@ -4,6 +4,52 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Smash Hit+",
+      "bundleIdentifier": "com.mediocre.smashhit.arcade",
+      "developerName": "Mediocre AB",
+      "subtitle": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
+      "localizedDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.mediocre.smashhit.arcade\n\n Downloads: 336\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731274720.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312747189693632966.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747190557513313.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747195276740320.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747196503586239.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747206721445176.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2024-12-20 16:24:03",
+          "localizedDescription": "Current of Smash Hit+ - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
+          "size": 75182899
+        },
+        {
+          "version": "1.0.2",
+          "date": "2024-11-10 16:38:41",
+          "localizedDescription": "Old Version of Smash Hit+ - 1.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/963",
+          "size": 75707187
+        },
+        {
+          "version": "1.0.3",
+          "date": "2024-12-20 16:24:03",
+          "localizedDescription": "Old Version of Smash Hit+ - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
+          "size": 75182899
+        }
+      ],
+      "version": "1.0.3",
+      "versionDate": "2024-12-20 16:24:03",
+      "versionDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
+      "formatedsize": "71.7 MB",
+      "size": 75182899
+    },
+    {
       "name": "EverMerge - Hack",
       "bundleIdentifier": "com.bigfishgames.mergetalesios",
       "developerName": "babylonIPA",
@@ -5556,49 +5602,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/528",
       "formatedsize": "137.52 MB",
       "size": 144200171
-    },
-    {
-      "name": "ZiniTevi",
-      "bundleIdentifier": "app.ios. ZiniTevi",
-      "developerName": "ZiniTevi team",
-      "subtitle": "App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
-      "localizedDescription": "App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: app.ios. ZiniTevi\n\n Downloads: 509\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1694951559.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16951084439486950.webp",
-        "https://apps.nabzclan.vip/screenshots/16951084436898217.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.0.05012300",
-          "date": "2024-09-11 15:42:18",
-          "localizedDescription": "Current of ZiniTevi - 1.5.0.05012300",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/526",
-          "size": 8074035
-        },
-        {
-          "version": "1.5.0.200523",
-          "date": "2023-09-17 11:52:39",
-          "localizedDescription": "Old Version of ZiniTevi - 1.5.0.200523",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/223",
-          "size": 7172259
-        },
-        {
-          "version": "1.5.0.05012300",
-          "date": "2024-09-11 15:42:18",
-          "localizedDescription": "Old Version of ZiniTevi - 1.5.0.05012300",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/526",
-          "size": 8074035
-        }
-      ],
-      "version": "1.5.0.05012300",
-      "versionDate": "2024-09-11 15:42:18",
-      "versionDescription": "App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/526",
-      "formatedsize": "7.7 MB",
-      "size": 8074035
     }
   ],
   "userInfo": {}
