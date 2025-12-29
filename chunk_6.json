@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "hianime",
+      "type": 1,
+      "bundleID": "com.pyanime.anime.search",
+      "bundleIdentifier": "com.pyanime.anime.search",
+      "version": "1.0.18",
+      "versionDate": "2025-08-17",
+      "fullDate": "20250817181449",
+      "size": 19060461,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2025/hianime_1.0.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2025/hianime_1.0.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pyanime.anime.search.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pyanime.anime.search.png"
+    },
+    {
       "name": "Karteto",
       "type": 1,
       "bundleID": "com.karteto.application",
@@ -1364,6 +1380,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
     },
     {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704082624",
+      "size": 176231919,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
       "name": "ReceiptLens",
       "type": 1,
       "bundleID": "com.glority.receipt",
@@ -2114,38 +2146,6 @@
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.xiaomo.bag.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.xiaomo.bag.png"
-    },
-    {
-      "name": "SnapCalc",
-      "type": 1,
-      "bundleID": "com.apalonapps.cameracalculator",
-      "bundleIdentifier": "com.apalonapps.cameracalculator",
-      "version": "1.47.13",
-      "versionDate": "2025-06-18",
-      "fullDate": "20250618211655",
-      "size": 50583098,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/SnapCalc_1.47.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/SnapCalc_1.47.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.cameracalculator.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.cameracalculator.png"
-    },
-    {
-      "name": "PdfEdit",
-      "type": 1,
-      "bundleID": "com.apalonapps.pdfeditor",
-      "bundleIdentifier": "com.apalonapps.pdfeditor",
-      "version": "2.14.20",
-      "versionDate": "2025-06-18",
-      "fullDate": "20250618211140",
-      "size": 378886881,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/PdfEdit_2.14.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/PdfEdit_2.14.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "MargonemAdventures",
+      "type": 2,
+      "bundleID": "pl.Garmory.MargonemAdventures",
+      "bundleIdentifier": "pl.Garmory.MargonemAdventures",
+      "version": "1.16.0",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527142211",
+      "size": 184263106,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png"
+    },
+    {
+      "name": "NFLRB25",
+      "type": 2,
+      "bundleID": "com.newstarresearch.retrobowlpro",
+      "bundleIdentifier": "com.newstarresearch.retrobowlpro",
+      "version": "1.0.72",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527142208",
+      "size": 49732701,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png"
+    },
+    {
       "name": "Eatventure",
       "type": 2,
       "bundleID": "com.hwqgrhhjfd.idlefastfood",
@@ -868,22 +900,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png"
     },
     {
-      "name": "BrainOut",
-      "type": 2,
-      "bundleID": "com.mind.quiz.brain.out",
-      "bundleIdentifier": "com.mind.quiz.brain.out",
-      "version": "1.6.0",
-      "versionDate": "2025-05-09",
-      "fullDate": "20250509135750",
-      "size": 80795209,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/BrainOut_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/BrainOut_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brain.out.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brain.out.png"
-    },
-    {
       "name": "AdGuardHome",
       "type": 1,
       "bundleID": "adguardhome.remote.app",
@@ -1138,22 +1154,6 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
-    },
-    {
-      "name": "AndalusiDesign",
-      "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
     },
     {
       "name": "RashaqaWorkout",
