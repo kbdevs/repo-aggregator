@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "AIArtaPublic",
+      "type": 1,
+      "bundleID": "com.aiby.aiart",
+      "bundleIdentifier": "com.aiby.aiart",
+      "version": "4.16",
+      "versionDate": "2025-10-29",
+      "fullDate": "20251029002545",
+      "size": 78761420,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png"
+    },
+    {
       "name": "OpusIPTVPublic",
       "type": 1,
       "bundleID": "com.handy.optus",
@@ -1378,22 +1394,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png"
-    },
-    {
-      "name": "moneycontrol",
-      "type": 1,
-      "bundleID": "com.moneycontrol.mc",
-      "bundleIdentifier": "com.moneycontrol.mc",
-      "version": "11.0.4",
-      "versionDate": "2025-09-05",
-      "fullDate": "20250905042049",
-      "size": 96878649,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/moneycontrol_11.0.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/moneycontrol_11.0.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png"
     },
     {
       "name": "Linkjar",

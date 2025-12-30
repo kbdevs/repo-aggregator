@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Weather",
+      "type": 1,
+      "bundleID": "com.apalonapps.wlf",
+      "bundleIdentifier": "com.apalonapps.wlf",
+      "version": "4.18.14",
+      "versionDate": "2025-12-08",
+      "fullDate": "20251208142456",
+      "size": 101118129,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Weather_4.18.14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Weather_4.18.14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png"
+    },
+    {
+      "name": "Stay",
+      "type": 1,
+      "bundleID": "com.dajiu.stay.pro",
+      "bundleIdentifier": "com.dajiu.stay.pro",
+      "version": "2.9.16",
+      "versionDate": "2025-12-08",
+      "fullDate": "20251208085403",
+      "size": 38300786,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Stay_2.9.16_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Stay_2.9.16_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png"
+    },
+    {
+      "name": "Busuu",
+      "type": 1,
+      "bundleID": "com.busuu.english.app",
+      "bundleIdentifier": "com.busuu.english.app",
+      "version": "29.27.0",
+      "versionDate": "2025-12-08",
+      "fullDate": "20251208001820",
+      "size": 159720739,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Busuu_29.27.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Busuu_29.27.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
+    },
+    {
+      "name": "ImagineArt",
+      "type": 1,
+      "bundleID": "com.vyro.Imagine",
+      "bundleIdentifier": "com.vyro.Imagine",
+      "version": "3.2.0",
+      "versionDate": "2025-12-07",
+      "fullDate": "20251207222309",
+      "size": 94463081,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/ImagineArt_3.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/ImagineArt_3.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vyro.Imagine.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vyro.Imagine.png"
+    },
+    {
       "name": "SimplyPiano",
       "type": 1,
       "bundleID": "com.joytunes.asla",
@@ -418,22 +482,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.bananai.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.bananai.png"
-    },
-    {
-      "name": "Soulver",
-      "type": 1,
-      "bundleID": "app.soulver.appstore.mac",
-      "bundleIdentifier": "app.soulver.appstore.mac",
-      "version": "3.15.1",
-      "versionDate": "2025-12-01",
-      "fullDate": "20251201031423",
-      "size": 14128997,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-12-2025/Soulver_3.15.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-12-2025/Soulver_3.15.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png"
     },
     {
       "name": "WebSSH",
@@ -900,22 +948,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png"
     },
     {
-      "name": "Zing",
-      "type": 1,
-      "bundleID": "com.coach.zing",
-      "bundleIdentifier": "com.coach.zing",
-      "version": "1.117.0",
-      "versionDate": "2025-11-22",
-      "fullDate": "20251122171649",
-      "size": 275918696,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/Zing_1.117.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/Zing_1.117.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png"
-    },
-    {
       "name": "NCv1802",
       "type": 1,
       "bundleID": "nt.nc.ios",
@@ -1138,22 +1170,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixiteapps.spool.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixiteapps.spool.png"
-    },
-    {
-      "name": "Noir",
-      "type": 1,
-      "bundleID": "nl.jeffreykuiken.NoirApp",
-      "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
-      "version": "2025.2.6",
-      "versionDate": "2025-11-17",
-      "fullDate": "20251117212016",
-      "size": 9560164,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2025/Noir_2025.2.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2025/Noir_2025.2.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nl.jeffreykuiken.NoirApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nl.jeffreykuiken.NoirApp.png"
     },
     {
       "name": "GALATEA",
@@ -2130,22 +2146,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.umango.xml.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.umango.xml.png"
-    },
-    {
-      "name": "AIArtaPublic",
-      "type": 1,
-      "bundleID": "com.aiby.aiart",
-      "bundleIdentifier": "com.aiby.aiart",
-      "version": "4.16",
-      "versionDate": "2025-10-29",
-      "fullDate": "20251029002545",
-      "size": 78761420,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png"
     }
   ],
   "userInfo": {}
