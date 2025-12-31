@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Survivorio",
+      "type": 2,
+      "bundleID": "com.dxx.firenow",
+      "bundleIdentifier": "com.dxx.firenow",
+      "version": "3.9.4",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527142721",
+      "size": 593481960,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Survivorio_3.9.4_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Survivorio_3.9.4_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dxx.firenow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dxx.firenow.png"
+    },
+    {
+      "name": "MargonemAdventures",
+      "type": 2,
+      "bundleID": "pl.Garmory.MargonemAdventures",
+      "bundleIdentifier": "pl.Garmory.MargonemAdventures",
+      "version": "1.16.0",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527142211",
+      "size": 184263106,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png"
+    },
+    {
       "name": "NFLRB25",
       "type": 2,
       "bundleID": "com.newstarresearch.retrobowlpro",
@@ -306,22 +338,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.interiordesigner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.interiordesigner.png"
-    },
-    {
-      "name": "Evoday",
-      "type": 1,
-      "bundleID": "com.kevinquisquater.Habits",
-      "bundleIdentifier": "com.kevinquisquater.Habits",
-      "version": "2025.11",
-      "versionDate": "2025-05-21",
-      "fullDate": "20250521150444",
-      "size": 26803065,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Evoday_2025.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Evoday_2025.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png"
     },
     {
       "name": "Matchington",
@@ -770,22 +786,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png"
-    },
-    {
-      "name": "SonivaMusic",
-      "type": 1,
-      "bundleID": "ai.mindveil.musicai",
-      "bundleIdentifier": "ai.mindveil.musicai",
-      "version": "1.5.1",
-      "versionDate": "2025-05-10",
-      "fullDate": "20250510153046",
-      "size": 27698473,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SonivaMusic_1.5.1_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SonivaMusic_1.5.1_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Satella",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png"
     },
     {
       "name": "ProKnockout",
