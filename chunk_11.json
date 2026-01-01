@@ -4,342 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "ZiniTevi",
-      "bundleIdentifier": "app.ios. ZiniTevi",
-      "developerName": "ZiniTevi team",
-      "subtitle": "App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
-      "localizedDescription": "App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: app.ios. ZiniTevi\n\n Downloads: 509\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1694951559.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16951084439486950.webp",
-        "https://apps.nabzclan.vip/screenshots/16951084436898217.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.0.05012300",
-          "date": "2024-09-11 15:42:18",
-          "localizedDescription": "Current of ZiniTevi - 1.5.0.05012300",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/526",
-          "size": 8074035
-        },
-        {
-          "version": "1.5.0.200523",
-          "date": "2023-09-17 11:52:39",
-          "localizedDescription": "Old Version of ZiniTevi - 1.5.0.200523",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/223",
-          "size": 7172259
-        },
-        {
-          "version": "1.5.0.05012300",
-          "date": "2024-09-11 15:42:18",
-          "localizedDescription": "Old Version of ZiniTevi - 1.5.0.05012300",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/526",
-          "size": 8074035
-        }
-      ],
-      "version": "1.5.0.05012300",
-      "versionDate": "2024-09-11 15:42:18",
-      "versionDescription": "App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/526",
-      "formatedsize": "7.7 MB",
-      "size": 8074035
-    },
-    {
-      "name": "City Island 6 Building Life - (Free in app purchases)",
-      "bundleIdentifier": "com.sparklingsociety.cityisland6",
-      "developerName": "BabyloniPA",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.sparklingsociety.cityisland6\n\n Downloads: 250\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726052747.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17260527350375001129.webp",
-        "https://apps.nabzclan.vip/screenshots/17260527383832138300.webp",
-        "https://apps.nabzclan.vip/screenshots/17260527399734036768.webp",
-        "https://apps.nabzclan.vip/screenshots/17260527413252073466.webp",
-        "https://apps.nabzclan.vip/screenshots/17260527433887483189.webp",
-        "https://apps.nabzclan.vip/screenshots/17260527453639454227.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.0.3",
-          "date": "2024-09-11 15:05:47",
-          "localizedDescription": "Current of City Island 6 Building Life - (Free in app purchases) - 3.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/524",
-          "size": 180722073
-        },
-        {
-          "version": "3.0.3",
-          "date": "2024-09-11 15:05:47",
-          "localizedDescription": "Old Version of City Island 6 Building Life - (Free in app purchases) - 3.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/524",
-          "size": 180722073
-        }
-      ],
-      "version": "3.0.3",
-      "versionDate": "2024-09-11 15:05:47",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/524",
-      "formatedsize": "172.35 MB",
-      "size": 180722073
-    },
-    {
-      "name": "Merge Survival - Hack",
-      "bundleIdentifier": "com.stickyhands.mergesurvival",
-      "developerName": "BabylonIPA",
-      "subtitle": "Hack Features:\r\n- Every item in the shop cost 0",
-      "localizedDescription": "Hack Features:\r\n- Every item in the shop cost 0\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.stickyhands.mergesurvival\n\n Downloads: 65\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725955559.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17259555509483810862.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555523984907900.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555537156272451.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555549362683287.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555562164826279.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555582428131900.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.31.0",
-          "date": "2024-09-10 12:05:59",
-          "localizedDescription": "Current of Merge Survival - Hack - 1.31.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/516",
-          "size": 300972769
-        },
-        {
-          "version": "1.31.0",
-          "date": "2024-09-10 12:05:59",
-          "localizedDescription": "Old Version of Merge Survival - Hack - 1.31.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/516",
-          "size": 300972769
-        }
-      ],
-      "version": "1.31.0",
-      "versionDate": "2024-09-10 12:05:59",
-      "versionDescription": "Hack Features:\r\n- Every item in the shop cost 0",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/516",
-      "formatedsize": "287.03 MB",
-      "size": 300972769
-    },
-    {
-      "name": "The Seven Deadly Sins - hack",
-      "bundleIdentifier": "com.netmarble.nanagb",
-      "developerName": "BabylonIPA",
-      "subtitle": "Hack Features:-\r\n- One Hit Kill",
-      "localizedDescription": "Hack Features:-\r\n- One Hit Kill\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.netmarble.nanagb\n\n Downloads: 160\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725955105.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17259551040056401529.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551043921845703.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551045667243329.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551048811605208.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551050757483465.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.59.0",
-          "date": "2024-09-10 11:58:25",
-          "localizedDescription": "Current of The Seven Deadly Sins - hack - 2.59.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
-          "size": 128020643
-        },
-        {
-          "version": "2.59.0",
-          "date": "2024-09-10 11:58:25",
-          "localizedDescription": "Old Version of The Seven Deadly Sins - hack - 2.59.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
-          "size": 128020643
-        }
-      ],
-      "version": "2.59.0",
-      "versionDate": "2024-09-10 11:58:25",
-      "versionDescription": "Hack Features:-\r\n- One Hit Kill",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/515",
-      "formatedsize": "122.09 MB",
-      "size": 128020643
-    },
-    {
-      "name": "Kodi",
-      "bundleIdentifier": "org.xbmc.kodi-ios",
-      "developerName": "Kodi Team",
-      "subtitle": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
-      "localizedDescription": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: org.xbmc.kodi-ios\n\n Downloads: 1230\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1713132810.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "21.0",
-          "date": "2024-09-10 11:39:15",
-          "localizedDescription": "Current of Kodi - 21.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/512",
-          "size": 151529717
-        },
-        {
-          "version": "20.5",
-          "date": "2024-04-15 02:13:31",
-          "localizedDescription": "Old Version of Kodi - 20.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/435",
-          "size": 147513671
-        },
-        {
-          "version": "21.0",
-          "date": "2024-09-10 11:39:15",
-          "localizedDescription": "Old Version of Kodi - 21.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/512",
-          "size": 151529717
-        }
-      ],
-      "version": "21.0",
-      "versionDate": "2024-09-10 11:39:15",
-      "versionDescription": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/512",
-      "formatedsize": "144.51 MB",
-      "size": 151529717
-    },
-    {
-      "name": "Fortnite - EZFN - S4",
-      "bundleIdentifier": "com.chairentertainment.Fortnite",
-      "developerName": "EZFN Team",
-      "subtitle": "Fortnite - EZFN - season 4 ipa",
-      "localizedDescription": "Fortnite - EZFN - season 4 ipa\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.chairentertainment.Fortnite\n\n Downloads: 1077\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1725886162.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17258861736574490.webp",
-        "https://apps.nabzclan.vip/screenshots/17258861738020693.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.2.0",
-          "date": "2024-09-09 16:49:23",
-          "localizedDescription": "Current of Fortnite - EZFN - S4 - 4.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/508",
-          "size": 87776296
-        },
-        {
-          "version": "4.2.0",
-          "date": "2024-09-09 16:49:23",
-          "localizedDescription": "Old Version of Fortnite - EZFN - S4 - 4.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/508",
-          "size": 87776296
-        }
-      ],
-      "version": "4.2.0",
-      "versionDate": "2024-09-09 16:49:23",
-      "versionDescription": "Fortnite - EZFN - season 4 ipa",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/508",
-      "formatedsize": "83.71 MB",
-      "size": 87776296
-    },
-    {
-      "name": "DRAGON BALL LEGENDS (Hack)",
-      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0334",
-      "developerName": "Nabzclan",
-      "subtitle": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall",
-      "localizedDescription": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: jp.co.bandainamcoent.BNEI0334\n\n Downloads: 3084\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700540572.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17005405709495001688.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405714274360423.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405716166662261.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405718195526659.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405720176396869.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405722042971795.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.4.0",
-          "date": "2024-05-27 23:57:18",
-          "localizedDescription": "Current of DRAGON BALL LEGENDS (Hack) - 5.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/473",
-          "size": 123941683
-        },
-        {
-          "version": "4.32.0",
-          "date": "2023-11-21 04:22:52",
-          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 4.32.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/314",
-          "size": 100621352
-        },
-        {
-          "version": "5.0.0",
-          "date": "2024-03-04 14:03:18",
-          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/391",
-          "size": 119369891
-        },
-        {
-          "version": "5.1.0",
-          "date": "2024-04-11 11:23:53",
-          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/417",
-          "size": 114808586
-        },
-        {
-          "version": "5.4.0",
-          "date": "2024-05-27 23:57:18",
-          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/473",
-          "size": 123941683
-        }
-      ],
-      "version": "5.4.0",
-      "versionDate": "2024-05-27 23:57:18",
-      "versionDescription": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/473",
-      "formatedsize": "118.20 MB",
-      "size": 123941683
-    },
-    {
-      "name": "GBA4IOS",
-      "bundleIdentifier": "com.macbuildserver.GBA4iOS",
-      "developerName": "Delta team",
-      "subtitle": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
-      "localizedDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: com.macbuildserver.GBA4iOS\n\n Downloads: 531\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1715977480.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.1",
-          "date": "2024-05-18 19:45:34",
-          "localizedDescription": "Current of GBA4IOS - 2.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
-          "size": 11953766
-        },
-        {
-          "version": "2.1.1",
-          "date": "2024-05-18 19:45:34",
-          "localizedDescription": "Old Version of GBA4IOS - 2.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
-          "size": 11953766
-        }
-      ],
-      "version": "2.1.1",
-      "versionDate": "2024-05-18 19:45:34",
-      "versionDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/468",
-      "formatedsize": "11.4 MB",
-      "size": 11953766
-    },
-    {
       "name": "Citrus AI - premium",
       "bundleIdentifier": "com.wemagineai.citrus",
       "developerName": "nabzclan",
@@ -2985,6 +2649,105 @@
       "developerName": "lotusprey",
       "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 07-01-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.otraku.app.png"
+    },
+    {
+      "name": "OsmAndMapsPlus",
+      "bundleIdentifier": "net.osmand.maps",
+      "version": "4.7.6",
+      "versionDate": "2024-10-11",
+      "size": 101594696,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OsmAndMapsPlus/OsmAndMapsPlus-4.7.6.ipa",
+      "developerName": "Qamislo - Apps",
+      "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.osmand.maps.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.12.1",
+      "versionDate": "2024-10-11",
+      "size": 619940,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.12.1.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "ObjectRemoval",
+      "bundleIdentifier": "com.skysoft.removalfree",
+      "version": "3.8.7",
+      "versionDate": "2024-10-11",
+      "size": 64666410,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-3.8.7.ipa",
+      "developerName": "FayezUpdates",
+      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
+    },
+    {
+      "name": "OVFEditorPremium",
+      "bundleIdentifier": "com.mutaeb.OVF-Editor",
+      "version": "5.0.1",
+      "versionDate": "2024-10-11",
+      "size": 41848347,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OVFEditorPremium/OVFEditorPremium-5.0.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png"
+    },
+    {
+      "name": "OTADisabler",
+      "bundleIdentifier": "com.ichitaso.otadisablerts",
+      "version": "1.0",
+      "versionDate": "2024-10-11",
+      "size": 382202,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OTADisabler/OTADisabler-1.0.ipa",
+      "developerName": "ichitaso",
+      "localizedDescription": "Request. OTADisabler for TrollStore, refer to this for more informations.\nLast updated: 02-01-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ichitaso.otadisablerts.png"
+    },
+    {
+      "name": "NineAnimator",
+      "bundleIdentifier": "com.marcuszhou.NineAnimator",
+      "version": "1.3.0-3",
+      "versionDate": "2024-10-11",
+      "size": 8144665,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NineAnimator/NineAnimator-1.3.0-3.ipa",
+      "developerName": "SuperMarcus",
+      "localizedDescription": "Anime streamer, supports multiple sources and comes with a user-friendly GUI\nLast updated: 07-17-2023\nStatus: \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.marcuszhou.NineAnimator.png"
+    },
+    {
+      "name": "NightSkyPlus",
+      "bundleIdentifier": "com.icandiapps.nightsky",
+      "version": "12.2",
+      "versionDate": "2024-10-11",
+      "size": 659348721,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NightSkyPlus/NightSkyPlus-12.2.ipa",
+      "developerName": "iOSGods!",
+      "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.icandiapps.nightsky.png"
+    },
+    {
+      "name": "NGLPro",
+      "bundleIdentifier": "fun.ask",
+      "version": "6.1.117",
+      "versionDate": "2024-10-11",
+      "size": 50645390,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
+      "developerName": "AbodSyripa",
+      "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png"
+    },
+    {
+      "name": "MyDiaryPremium",
+      "bundleIdentifier": "com.simpleinnovation.diary",
+      "version": "1.9.3",
+      "versionDate": "2024-10-11",
+      "size": 40528267,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
     }
   ],
   "userInfo": {}

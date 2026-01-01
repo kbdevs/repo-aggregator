@@ -4,86 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "Survivorio",
-      "type": 2,
-      "bundleID": "com.dxx.firenow",
-      "bundleIdentifier": "com.dxx.firenow",
-      "version": "3.9.4",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527142721",
-      "size": 593481960,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Survivorio_3.9.4_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Survivorio_3.9.4_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dxx.firenow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dxx.firenow.png"
-    },
-    {
-      "name": "MargonemAdventures",
-      "type": 2,
-      "bundleID": "pl.Garmory.MargonemAdventures",
-      "bundleIdentifier": "pl.Garmory.MargonemAdventures",
-      "version": "1.16.0",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527142211",
-      "size": 184263106,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png"
-    },
-    {
-      "name": "NFLRB25",
-      "type": 2,
-      "bundleID": "com.newstarresearch.retrobowlpro",
-      "bundleIdentifier": "com.newstarresearch.retrobowlpro",
-      "version": "1.0.72",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527142208",
-      "size": 49732701,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png"
-    },
-    {
-      "name": "Eatventure",
-      "type": 2,
-      "bundleID": "com.hwqgrhhjfd.idlefastfood",
-      "bundleIdentifier": "com.hwqgrhhjfd.idlefastfood",
-      "version": "1.37.0",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527141203",
-      "size": 124583537,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Eatventure_1.37.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Eatventure_1.37.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hwqgrhhjfd.idlefastfood.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hwqgrhhjfd.idlefastfood.png"
-    },
-    {
-      "name": "AlisTemporis",
-      "type": 2,
-      "bundleID": "com.TownSoft.cannibalplanet3",
-      "bundleIdentifier": "com.TownSoft.cannibalplanet3",
-      "version": "9.0",
-      "versionDate": "2025-05-26",
-      "fullDate": "20250526193838",
-      "size": 133039770,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/AlisTemporis_9.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/AlisTemporis_9.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TownSoft.cannibalplanet3.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TownSoft.cannibalplanet3.png"
-    },
-    {
       "name": "Fishdom",
       "type": 2,
       "bundleID": "com.playrix.fishdom-freeplay",
@@ -2621,6 +2541,238 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
       "formatedsize": "129.3 MB",
       "size": 135580876
+    },
+    {
+      "name": "Brave Merge - Battle & Defense (Hacked)",
+      "bundleIdentifier": "com.brave.merge",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.brave.merge\n\n Downloads: 243\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731098511.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310984989007288265.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985006859029764.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985026068335271.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985045738054193.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985070989418090.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985095468917365.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.6.4",
+          "date": "2025-04-02 18:41:30",
+          "localizedDescription": "Current of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
+          "size": 108632473
+        },
+        {
+          "version": "1.6.4",
+          "date": "2025-04-02 18:41:30",
+          "localizedDescription": "Old Version of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
+          "size": 108632473
+        }
+      ],
+      "version": "1.6.4",
+      "versionDate": "2025-04-02 18:41:30",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
+      "formatedsize": "103.6 MB",
+      "size": 108632473
+    },
+    {
+      "name": "Vehicle Masters (Hacked)",
+      "bundleIdentifier": "com.pd.vehiclemasters",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.pd.vehiclemasters\n\n Downloads: 337\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731098117.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310981075477603869.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981092462563690.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981095171863531.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981113718553924.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981132886299945.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981156442828018.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.38",
+          "date": "2025-04-02 17:41:41",
+          "localizedDescription": "Current of Vehicle Masters (Hacked) - 1.0.38",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
+          "size": 214119219
+        },
+        {
+          "version": "1.0.38",
+          "date": "2025-04-02 17:41:41",
+          "localizedDescription": "Old Version of Vehicle Masters (Hacked) - 1.0.38",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
+          "size": 214119219
+        }
+      ],
+      "version": "1.0.38",
+      "versionDate": "2025-04-02 17:41:41",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
+      "formatedsize": "204.2 MB",
+      "size": 214119219
+    },
+    {
+      "name": "Dolly Zoom CAM (Hack)",
+      "bundleIdentifier": "me.nanolife.dollyzoom",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: me.nanolife.dollyzoom\n\n Downloads: 442\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1730900247.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17309002399007029184.webp",
+        "https://apps.nabzclan.vip/screenshots/17309002419843567017.webp",
+        "https://apps.nabzclan.vip/screenshots/17309002450355930462.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2025-04-02 17:34:54",
+          "localizedDescription": "Current of Dolly Zoom CAM (Hack) - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
+          "size": 16546529
+        },
+        {
+          "version": "1.2",
+          "date": "2025-04-02 17:34:54",
+          "localizedDescription": "Old Version of Dolly Zoom CAM (Hack) - 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
+          "size": 16546529
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2025-04-02 17:34:54",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
+      "formatedsize": "15.78 MB",
+      "size": 16546529
+    },
+    {
+      "name": "Undercover: Word Party Game (Hack)",
+      "bundleIdentifier": "com.jojoyanyanproduction.CatchTheUndercover",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.jojoyanyanproduction.CatchTheUndercover\n\n Downloads: 107\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1730905442.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17309054343384064317.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054345244108745.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054362759684868.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054374546430803.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054393287086250.webp",
+        "https://apps.nabzclan.vip/screenshots/17309054405918520734.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.9.1",
+          "date": "2025-04-02 17:32:22",
+          "localizedDescription": "Current of Undercover: Word Party Game (Hack) - 5.9.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
+          "size": 65850572
+        },
+        {
+          "version": "5.9.1",
+          "date": "2025-04-02 17:32:22",
+          "localizedDescription": "Old Version of Undercover: Word Party Game (Hack) - 5.9.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
+          "size": 65850572
+        }
+      ],
+      "version": "5.9.1",
+      "versionDate": "2025-04-02 17:32:22",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
+      "formatedsize": "62.8 MB",
+      "size": 65850572
+    },
+    {
+      "name": "Brain Wash - Puzzle Mind Game (Hack)",
+      "bundleIdentifier": "com.hwg.sos",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.hwg.sos\n\n Downloads: 131\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1730900003.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17308999969913271133.webp",
+        "https://apps.nabzclan.vip/screenshots/17308999975975706538.webp",
+        "https://apps.nabzclan.vip/screenshots/17308999978084139744.webp",
+        "https://apps.nabzclan.vip/screenshots/17308999990711845450.webp",
+        "https://apps.nabzclan.vip/screenshots/17309000012302478340.webp",
+        "https://apps.nabzclan.vip/screenshots/17309000015238119223.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.33.16",
+          "date": "2025-04-02 17:23:40",
+          "localizedDescription": "Current of Brain Wash - Puzzle Mind Game (Hack) - 1.33.16",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
+          "size": 220305817
+        },
+        {
+          "version": "1.33.16",
+          "date": "2025-04-02 17:23:40",
+          "localizedDescription": "Old Version of Brain Wash - Puzzle Mind Game (Hack) - 1.33.16",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
+          "size": 220305817
+        }
+      ],
+      "version": "1.33.16",
+      "versionDate": "2025-04-02 17:23:40",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
+      "formatedsize": "210.1 MB",
+      "size": 220305817
+    },
+    {
+      "name": "nds4ios",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "developerName": "nds4ios team",
+      "subtitle": "The iNDS team brings you another emulator since you all loved iNDS",
+      "localizedDescription": "The iNDS team brings you another emulator since you all loved iNDS\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: net.nerd.iNDS\n\n Downloads: 1116\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1697759738.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-03-31 18:16:52",
+          "localizedDescription": "Current of nds4ios - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
+          "size": 3103784
+        },
+        {
+          "version": "1.0",
+          "date": "2025-03-31 18:16:52",
+          "localizedDescription": "Old Version of nds4ios - 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
+          "size": 3103784
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2025-03-31 18:16:52",
+      "versionDescription": "The iNDS team brings you another emulator since you all loved iNDS",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/267",
+      "formatedsize": "2.96 MB",
+      "size": 3103784
     }
   ],
   "userInfo": {}
