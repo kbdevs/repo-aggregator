@@ -4,6 +4,180 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Kodi",
+      "bundleIdentifier": "org.xbmc.kodi-ios",
+      "developerName": "Kodi Team",
+      "subtitle": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
+      "localizedDescription": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: org.xbmc.kodi-ios\n\n Downloads: 1230\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1713132810.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "21.0",
+          "date": "2024-09-10 11:39:15",
+          "localizedDescription": "Current of Kodi - 21.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/512",
+          "size": 151529717
+        },
+        {
+          "version": "20.5",
+          "date": "2024-04-15 02:13:31",
+          "localizedDescription": "Old Version of Kodi - 20.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/435",
+          "size": 147513671
+        },
+        {
+          "version": "21.0",
+          "date": "2024-09-10 11:39:15",
+          "localizedDescription": "Old Version of Kodi - 21.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/512",
+          "size": 151529717
+        }
+      ],
+      "version": "21.0",
+      "versionDate": "2024-09-10 11:39:15",
+      "versionDescription": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/512",
+      "formatedsize": "144.51 MB",
+      "size": 151529717
+    },
+    {
+      "name": "Fortnite - EZFN - S4",
+      "bundleIdentifier": "com.chairentertainment.Fortnite",
+      "developerName": "EZFN Team",
+      "subtitle": "Fortnite - EZFN - season 4 ipa",
+      "localizedDescription": "Fortnite - EZFN - season 4 ipa\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.chairentertainment.Fortnite\n\n Downloads: 1077\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1725886162.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17258861736574490.webp",
+        "https://apps.nabzclan.vip/screenshots/17258861738020693.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.2.0",
+          "date": "2024-09-09 16:49:23",
+          "localizedDescription": "Current of Fortnite - EZFN - S4 - 4.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/508",
+          "size": 87776296
+        },
+        {
+          "version": "4.2.0",
+          "date": "2024-09-09 16:49:23",
+          "localizedDescription": "Old Version of Fortnite - EZFN - S4 - 4.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/508",
+          "size": 87776296
+        }
+      ],
+      "version": "4.2.0",
+      "versionDate": "2024-09-09 16:49:23",
+      "versionDescription": "Fortnite - EZFN - season 4 ipa",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/508",
+      "formatedsize": "83.71 MB",
+      "size": 87776296
+    },
+    {
+      "name": "DRAGON BALL LEGENDS (Hack)",
+      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0334",
+      "developerName": "Nabzclan",
+      "subtitle": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall",
+      "localizedDescription": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: jp.co.bandainamcoent.BNEI0334\n\n Downloads: 3084\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700540572.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17005405709495001688.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405714274360423.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405716166662261.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405718195526659.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405720176396869.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405722042971795.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.4.0",
+          "date": "2024-05-27 23:57:18",
+          "localizedDescription": "Current of DRAGON BALL LEGENDS (Hack) - 5.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/473",
+          "size": 123941683
+        },
+        {
+          "version": "4.32.0",
+          "date": "2023-11-21 04:22:52",
+          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 4.32.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/314",
+          "size": 100621352
+        },
+        {
+          "version": "5.0.0",
+          "date": "2024-03-04 14:03:18",
+          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.0.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/391",
+          "size": 119369891
+        },
+        {
+          "version": "5.1.0",
+          "date": "2024-04-11 11:23:53",
+          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/417",
+          "size": 114808586
+        },
+        {
+          "version": "5.4.0",
+          "date": "2024-05-27 23:57:18",
+          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/473",
+          "size": 123941683
+        }
+      ],
+      "version": "5.4.0",
+      "versionDate": "2024-05-27 23:57:18",
+      "versionDescription": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/473",
+      "formatedsize": "118.20 MB",
+      "size": 123941683
+    },
+    {
+      "name": "GBA4IOS",
+      "bundleIdentifier": "com.macbuildserver.GBA4iOS",
+      "developerName": "Delta team",
+      "subtitle": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
+      "localizedDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: com.macbuildserver.GBA4iOS\n\n Downloads: 531\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1715977480.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1.1",
+          "date": "2024-05-18 19:45:34",
+          "localizedDescription": "Current of GBA4IOS - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
+          "size": 11953766
+        },
+        {
+          "version": "2.1.1",
+          "date": "2024-05-18 19:45:34",
+          "localizedDescription": "Old Version of GBA4IOS - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
+          "size": 11953766
+        }
+      ],
+      "version": "2.1.1",
+      "versionDate": "2024-05-18 19:45:34",
+      "versionDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/468",
+      "formatedsize": "11.4 MB",
+      "size": 11953766
+    },
+    {
       "name": "Citrus AI - premium",
       "bundleIdentifier": "com.wemagineai.citrus",
       "developerName": "nabzclan",
@@ -2704,50 +2878,6 @@
       "developerName": "ichitaso",
       "localizedDescription": "Request. OTADisabler for TrollStore, refer to this for more informations.\nLast updated: 02-01-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ichitaso.otadisablerts.png"
-    },
-    {
-      "name": "NineAnimator",
-      "bundleIdentifier": "com.marcuszhou.NineAnimator",
-      "version": "1.3.0-3",
-      "versionDate": "2024-10-11",
-      "size": 8144665,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NineAnimator/NineAnimator-1.3.0-3.ipa",
-      "developerName": "SuperMarcus",
-      "localizedDescription": "Anime streamer, supports multiple sources and comes with a user-friendly GUI\nLast updated: 07-17-2023\nStatus: \u2754",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.marcuszhou.NineAnimator.png"
-    },
-    {
-      "name": "NightSkyPlus",
-      "bundleIdentifier": "com.icandiapps.nightsky",
-      "version": "12.2",
-      "versionDate": "2024-10-11",
-      "size": 659348721,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NightSkyPlus/NightSkyPlus-12.2.ipa",
-      "developerName": "iOSGods!",
-      "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.icandiapps.nightsky.png"
-    },
-    {
-      "name": "NGLPro",
-      "bundleIdentifier": "fun.ask",
-      "version": "6.1.117",
-      "versionDate": "2024-10-11",
-      "size": 50645390,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
-      "developerName": "AbodSyripa",
-      "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png"
-    },
-    {
-      "name": "MyDiaryPremium",
-      "bundleIdentifier": "com.simpleinnovation.diary",
-      "version": "1.9.3",
-      "versionDate": "2024-10-11",
-      "size": 40528267,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
     }
   ],
   "userInfo": {}
