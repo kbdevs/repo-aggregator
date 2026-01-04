@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "WallGenie",
+      "type": 1,
+      "bundleID": "com.raktech.wallgenie",
+      "bundleIdentifier": "com.raktech.wallgenie",
+      "version": "2025.10",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031231724",
+      "size": 32780139,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/WallGenie_2025.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/WallGenie_2025.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raktech.wallgenie.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raktech.wallgenie.png"
+    },
+    {
       "name": "B42",
       "type": 1,
       "bundleID": "com.soccerFitYou.App",
@@ -1346,22 +1362,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png"
-    },
-    {
-      "name": "Enki",
-      "type": 1,
-      "bundleID": "PHCXZHD53T.com.enki.insights",
-      "bundleIdentifier": "PHCXZHD53T.com.enki.insights",
-      "version": "2.37.8",
-      "versionDate": "2025-09-23",
-      "fullDate": "20250923090927",
-      "size": 14592955,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2025/Enki_2.37.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2025/Enki_2.37.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png"
     },
     {
       "name": "Blossom",

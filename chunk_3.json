@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "GlowUp",
+      "type": 1,
+      "bundleID": "com.snowcorp.glowup",
+      "bundleIdentifier": "com.snowcorp.glowup",
+      "version": "3.5.4",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219010725",
+      "size": 166553309,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/GlowUp_3.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/GlowUp_3.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png"
+    },
+    {
+      "name": "ProCCD",
+      "type": 1,
+      "bundleID": "com.yengshine.proccd",
+      "bundleIdentifier": "com.yengshine.proccd",
+      "version": "5.2.1",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219001708",
+      "size": 276889771,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/ProCCD_5.2.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/ProCCD_5.2.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png"
+    },
+    {
+      "name": "30DayFitness",
+      "type": 1,
+      "bundleID": "com.vigorapps.30DayFitness",
+      "bundleIdentifier": "com.vigorapps.30DayFitness",
+      "version": "6.29.23",
+      "versionDate": "2025-12-18",
+      "fullDate": "20251218225659",
+      "size": 48790462,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2025/30DayFitness_6.29.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2025/30DayFitness_6.29.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png"
+    },
+    {
       "name": "Hevy",
       "type": 1,
       "bundleID": "com.hevyapp.hevy",
@@ -1188,22 +1236,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png"
     },
     {
-      "name": "TikTok",
-      "type": 1,
-      "bundleID": "com.zhiliaoapp.musically",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "43.0.0",
-      "versionDate": "2025-12-16",
-      "fullDate": "20251216074441",
-      "size": 406942044,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/TikTok_43.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/TikTok_43.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png"
-    },
-    {
       "name": "fGet",
       "type": 1,
       "bundleID": "com.penguinbit.fastdownload",
@@ -1924,22 +1956,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.TwoPlayerGamesChallengeIOS.png"
     },
     {
-      "name": "NoFusion",
-      "type": 1,
-      "bundleID": "com.grey.swiftcamera",
-      "bundleIdentifier": "com.grey.swiftcamera",
-      "version": "2.5.48",
-      "versionDate": "2025-12-13",
-      "fullDate": "20251213102014",
-      "size": 95695041,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/NoFusion_2.5.48_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/NoFusion_2.5.48_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png"
-    },
-    {
       "name": "FaceLab",
       "type": 1,
       "bundleID": "com.lyrebirdstudio.facelab",
@@ -2146,22 +2162,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
-    },
-    {
-      "name": "Productive",
-      "type": 1,
-      "bundleID": "com.beHappy.Productive",
-      "bundleIdentifier": "com.beHappy.Productive",
-      "version": "3.26.38",
-      "versionDate": "2025-12-10",
-      "fullDate": "20251210165055",
-      "size": 188957463,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Productive_3.26.38_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Productive_3.26.38_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png"
     }
   ],
   "userInfo": {}
