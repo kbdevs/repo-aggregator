@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Lightroom",
+      "type": 1,
+      "bundleID": "com.adobe.lrmobilephone",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "version": "11.1.0",
+      "versionDate": "2025-12-10",
+      "fullDate": "20251210180133",
+      "size": 200116130,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Lightroom_11.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Lightroom_11.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
+    },
+    {
       "name": "Productive",
       "type": 1,
       "bundleID": "com.beHappy.Productive",
@@ -674,22 +690,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png"
-    },
-    {
-      "name": "Shapy",
-      "type": 1,
-      "bundleID": "com.blake.femalefitness",
-      "bundleIdentifier": "com.blake.femalefitness",
-      "version": "10.4.8",
-      "versionDate": "2025-12-02",
-      "fullDate": "20251202130707",
-      "size": 41786901,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/Shapy_10.4.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-12-2025/Shapy_10.4.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png"
     },
     {
       "name": "HappyScale",

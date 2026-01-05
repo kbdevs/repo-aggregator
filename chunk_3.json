@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Flo",
+      "type": 1,
+      "bundleID": "org.iggymedia.periodtracker",
+      "bundleIdentifier": "org.iggymedia.periodtracker",
+      "version": "9.94.0",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219025905",
+      "size": 126341989,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Flo_9.94.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Flo_9.94.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png"
+    },
+    {
+      "name": "Luminar",
+      "type": 1,
+      "bundleID": "com.skylum.luminaripad",
+      "bundleIdentifier": "com.skylum.luminaripad",
+      "version": "3.1",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219012323",
+      "size": 448506584,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Luminar_3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Luminar_3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.skylum.luminaripad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.skylum.luminaripad.png"
+    },
+    {
+      "name": "Elevate",
+      "type": 2,
+      "bundleID": "com.elevateapp.elevate",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "version": "5.221.0",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219011808",
+      "size": 394122730,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Elevate_5.221.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Elevate_5.221.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png"
+    },
+    {
       "name": "GlowUp",
       "type": 1,
       "bundleID": "com.snowcorp.glowup",
@@ -1604,22 +1652,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png"
     },
     {
-      "name": "Mindllama",
-      "type": 1,
-      "bundleID": "com.vitalii.mind",
-      "bundleIdentifier": "com.vitalii.mind",
-      "version": "2.5.1",
-      "versionDate": "2025-12-14",
-      "fullDate": "20251214231355",
-      "size": 179828016,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/Mindllama_2.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/Mindllama_2.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png"
-    },
-    {
       "name": "DtdSounds",
       "type": 1,
       "bundleID": "com.dtd.aroundu",
@@ -2116,22 +2148,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png"
     },
     {
-      "name": "Slopes",
-      "type": 1,
-      "bundleID": "com.consumedbycode.slopes",
-      "bundleIdentifier": "com.consumedbycode.slopes",
-      "version": "2025.18",
-      "versionDate": "2025-12-11",
-      "fullDate": "20251211095920",
-      "size": 90806850,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2025/Slopes_2025.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2025/Slopes_2025.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png"
-    },
-    {
       "name": "AdobeExpress",
       "type": 1,
       "bundleID": "com.adobe.post",
@@ -2146,22 +2162,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png"
-    },
-    {
-      "name": "Lightroom",
-      "type": 1,
-      "bundleID": "com.adobe.lrmobilephone",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "version": "11.1.0",
-      "versionDate": "2025-12-10",
-      "fullDate": "20251210180133",
-      "size": 200116130,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Lightroom_11.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Lightroom_11.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
     }
   ],
   "userInfo": {}
