@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "AthanPro",
+      "type": 1,
+      "bundleID": "Quanticapps.Athan",
+      "bundleIdentifier": "Quanticapps.Athan",
+      "version": "8.4.10",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527144245",
+      "size": 56669078,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/AthanPro_8.4.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/AthanPro_8.4.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Quanticapps.Athan.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Quanticapps.Athan.png"
+    },
+    {
       "name": "Survivorio",
       "type": 2,
       "bundleID": "com.dxx.firenow",
@@ -2645,46 +2661,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
       "formatedsize": "103.6 MB",
       "size": 108632473
-    },
-    {
-      "name": "Vehicle Masters (Hacked)",
-      "bundleIdentifier": "com.pd.vehiclemasters",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.pd.vehiclemasters\n\n Downloads: 337\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731098117.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310981075477603869.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981092462563690.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981095171863531.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981113718553924.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981132886299945.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981156442828018.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.38",
-          "date": "2025-04-02 17:41:41",
-          "localizedDescription": "Current of Vehicle Masters (Hacked) - 1.0.38",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
-          "size": 214119219
-        },
-        {
-          "version": "1.0.38",
-          "date": "2025-04-02 17:41:41",
-          "localizedDescription": "Old Version of Vehicle Masters (Hacked) - 1.0.38",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
-          "size": 214119219
-        }
-      ],
-      "version": "1.0.38",
-      "versionDate": "2025-04-02 17:41:41",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
-      "formatedsize": "204.2 MB",
-      "size": 214119219
     }
   ],
   "userInfo": {}

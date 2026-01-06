@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Vehicle Masters (Hacked)",
+      "bundleIdentifier": "com.pd.vehiclemasters",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.pd.vehiclemasters\n\n Downloads: 337\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731098117.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310981075477603869.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981092462563690.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981095171863531.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981113718553924.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981132886299945.webp",
+        "https://apps.nabzclan.vip/screenshots/17310981156442828018.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.38",
+          "date": "2025-04-02 17:41:41",
+          "localizedDescription": "Current of Vehicle Masters (Hacked) - 1.0.38",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
+          "size": 214119219
+        },
+        {
+          "version": "1.0.38",
+          "date": "2025-04-02 17:41:41",
+          "localizedDescription": "Old Version of Vehicle Masters (Hacked) - 1.0.38",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
+          "size": 214119219
+        }
+      ],
+      "version": "1.0.38",
+      "versionDate": "2025-04-02 17:41:41",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
+      "formatedsize": "204.2 MB",
+      "size": 214119219
+    },
+    {
       "name": "Dolly Zoom CAM (Hack)",
       "bundleIdentifier": "me.nanolife.dollyzoom",
       "developerName": "Nabzclan",
@@ -5557,60 +5597,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1106",
       "formatedsize": "156.15 MB",
       "size": 163735142
-    },
-    {
-      "name": "Wasteland Life: Survival Idle (Hack)",
-      "bundleIdentifier": "com.wasteland.heart",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.wasteland.heart\n\n Downloads: 438\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731519048.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17315190476528882021.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190478562557617.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190480463276138.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190481648458949.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190482614486169.webp",
-        "https://apps.nabzclan.vip/screenshots/17315190483658665938.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.0.2",
-          "date": "2024-12-14 18:28:00",
-          "localizedDescription": "Current of Wasteland Life: Survival Idle (Hack) - 2.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
-          "size": 206254899
-        },
-        {
-          "version": "1.5.2",
-          "date": "2024-11-13 12:30:48",
-          "localizedDescription": "Old Version of Wasteland Life: Survival Idle (Hack) - 1.5.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1004",
-          "size": 170393600
-        },
-        {
-          "version": "2.0.1",
-          "date": "2024-12-02 15:44:29",
-          "localizedDescription": "Old Version of Wasteland Life: Survival Idle (Hack) - 2.0.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1088",
-          "size": 206359756
-        },
-        {
-          "version": "2.0.2",
-          "date": "2024-12-14 18:28:00",
-          "localizedDescription": "Old Version of Wasteland Life: Survival Idle (Hack) - 2.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
-          "size": 206254899
-        }
-      ],
-      "version": "2.0.2",
-      "versionDate": "2024-12-14 18:28:00",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
-      "formatedsize": "196.7 MB",
-      "size": 206254899
     }
   ],
   "userInfo": {}

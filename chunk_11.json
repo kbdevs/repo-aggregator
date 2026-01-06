@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "The Seven Deadly Sins - hack",
+      "bundleIdentifier": "com.netmarble.nanagb",
+      "developerName": "BabylonIPA",
+      "subtitle": "Hack Features:-\r\n- One Hit Kill",
+      "localizedDescription": "Hack Features:-\r\n- One Hit Kill\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.netmarble.nanagb\n\n Downloads: 160\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725955105.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17259551040056401529.webp",
+        "https://apps.nabzclan.vip/screenshots/17259551043921845703.webp",
+        "https://apps.nabzclan.vip/screenshots/17259551045667243329.webp",
+        "https://apps.nabzclan.vip/screenshots/17259551048811605208.webp",
+        "https://apps.nabzclan.vip/screenshots/17259551050757483465.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.59.0",
+          "date": "2024-09-10 11:58:25",
+          "localizedDescription": "Current of The Seven Deadly Sins - hack - 2.59.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
+          "size": 128020643
+        },
+        {
+          "version": "2.59.0",
+          "date": "2024-09-10 11:58:25",
+          "localizedDescription": "Old Version of The Seven Deadly Sins - hack - 2.59.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
+          "size": 128020643
+        }
+      ],
+      "version": "2.59.0",
+      "versionDate": "2024-09-10 11:58:25",
+      "versionDescription": "Hack Features:-\r\n- One Hit Kill",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/515",
+      "formatedsize": "122.09 MB",
+      "size": 128020643
+    },
+    {
       "name": "Kodi",
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
@@ -2867,17 +2906,6 @@
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png"
-    },
-    {
-      "name": "OTADisabler",
-      "bundleIdentifier": "com.ichitaso.otadisablerts",
-      "version": "1.0",
-      "versionDate": "2024-10-11",
-      "size": 382202,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OTADisabler/OTADisabler-1.0.ipa",
-      "developerName": "ichitaso",
-      "localizedDescription": "Request. OTADisabler for TrollStore, refer to this for more informations.\nLast updated: 02-01-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ichitaso.otadisablerts.png"
     }
   ],
   "userInfo": {}

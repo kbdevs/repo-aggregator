@@ -1476,6 +1476,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
     },
     {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-07-04",
+      "fullDate": "20250704082624",
+      "size": 176231919,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
       "name": "ReceiptLens",
       "type": 1,
       "bundleID": "com.glority.receipt",
@@ -2146,22 +2162,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigbrains.parallel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigbrains.parallel.png"
-    },
-    {
-      "name": "Tetris",
-      "type": 2,
-      "bundleID": "com.n3twork.tetris",
-      "bundleIdentifier": "com.n3twork.tetris",
-      "version": "7.3.0",
-      "versionDate": "2025-06-20",
-      "fullDate": "20250620161322",
-      "size": 151335041,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Tetris_7.3.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Tetris_7.3.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png"
     }
   ],
   "userInfo": {}

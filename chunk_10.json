@@ -4,6 +4,60 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Wasteland Life: Survival Idle (Hack)",
+      "bundleIdentifier": "com.wasteland.heart",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.wasteland.heart\n\n Downloads: 438\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731519048.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17315190476528882021.webp",
+        "https://apps.nabzclan.vip/screenshots/17315190478562557617.webp",
+        "https://apps.nabzclan.vip/screenshots/17315190480463276138.webp",
+        "https://apps.nabzclan.vip/screenshots/17315190481648458949.webp",
+        "https://apps.nabzclan.vip/screenshots/17315190482614486169.webp",
+        "https://apps.nabzclan.vip/screenshots/17315190483658665938.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2024-12-14 18:28:00",
+          "localizedDescription": "Current of Wasteland Life: Survival Idle (Hack) - 2.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
+          "size": 206254899
+        },
+        {
+          "version": "1.5.2",
+          "date": "2024-11-13 12:30:48",
+          "localizedDescription": "Old Version of Wasteland Life: Survival Idle (Hack) - 1.5.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1004",
+          "size": 170393600
+        },
+        {
+          "version": "2.0.1",
+          "date": "2024-12-02 15:44:29",
+          "localizedDescription": "Old Version of Wasteland Life: Survival Idle (Hack) - 2.0.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1088",
+          "size": 206359756
+        },
+        {
+          "version": "2.0.2",
+          "date": "2024-12-14 18:28:00",
+          "localizedDescription": "Old Version of Wasteland Life: Survival Idle (Hack) - 2.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
+          "size": 206254899
+        }
+      ],
+      "version": "2.0.2",
+      "versionDate": "2024-12-14 18:28:00",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1102",
+      "formatedsize": "196.7 MB",
+      "size": 206254899
+    },
+    {
       "name": "Caves of Lore",
       "bundleIdentifier": "com.redplume.cavesoflore",
       "developerName": "TILTGames",
@@ -5564,45 +5618,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/516",
       "formatedsize": "287.03 MB",
       "size": 300972769
-    },
-    {
-      "name": "The Seven Deadly Sins - hack",
-      "bundleIdentifier": "com.netmarble.nanagb",
-      "developerName": "BabylonIPA",
-      "subtitle": "Hack Features:-\r\n- One Hit Kill",
-      "localizedDescription": "Hack Features:-\r\n- One Hit Kill\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.netmarble.nanagb\n\n Downloads: 160\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725955105.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17259551040056401529.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551043921845703.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551045667243329.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551048811605208.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551050757483465.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.59.0",
-          "date": "2024-09-10 11:58:25",
-          "localizedDescription": "Current of The Seven Deadly Sins - hack - 2.59.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
-          "size": 128020643
-        },
-        {
-          "version": "2.59.0",
-          "date": "2024-09-10 11:58:25",
-          "localizedDescription": "Old Version of The Seven Deadly Sins - hack - 2.59.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
-          "size": 128020643
-        }
-      ],
-      "version": "2.59.0",
-      "versionDate": "2024-09-10 11:58:25",
-      "versionDescription": "Hack Features:-\r\n- One Hit Kill",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/515",
-      "formatedsize": "122.09 MB",
-      "size": 128020643
     }
   ],
   "userInfo": {}

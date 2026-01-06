@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Tetris",
+      "type": 2,
+      "bundleID": "com.n3twork.tetris",
+      "bundleIdentifier": "com.n3twork.tetris",
+      "version": "7.3.0",
+      "versionDate": "2025-06-20",
+      "fullDate": "20250620161322",
+      "size": 151335041,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Tetris_7.3.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Tetris_7.3.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png"
+    },
+    {
       "name": "Livity",
       "type": 1,
       "bundleID": "com.app-livity",
@@ -2146,22 +2162,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.drecom.wizardry.daphne.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.drecom.wizardry.daphne.png"
-    },
-    {
-      "name": "AthanPro",
-      "type": 1,
-      "bundleID": "Quanticapps.Athan",
-      "bundleIdentifier": "Quanticapps.Athan",
-      "version": "8.4.10",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527144245",
-      "size": 56669078,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/AthanPro_8.4.10_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/AthanPro_8.4.10_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Quanticapps.Athan.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Quanticapps.Athan.png"
     }
   ],
   "userInfo": {}
