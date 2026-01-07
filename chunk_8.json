@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "RFS",
+      "type": 2,
+      "bundleID": "it.rortos.realflightsimulator",
+      "bundleIdentifier": "it.rortos.realflightsimulator",
+      "version": "2.6.3",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527144825",
+      "size": 518455590,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/RFS_2.6.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/RFS_2.6.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/it.rortos.realflightsimulator.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/it.rortos.realflightsimulator.png"
+    },
+    {
+      "name": "WizDaphne",
+      "type": 2,
+      "bundleID": "jp.co.drecom.wizardry.daphne",
+      "bundleIdentifier": "jp.co.drecom.wizardry.daphne",
+      "version": "1.9.10",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527144757",
+      "size": 1002930734,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/WizDaphne_1.9.10_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/WizDaphne_1.9.10_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.drecom.wizardry.daphne.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.drecom.wizardry.daphne.png"
+    },
+    {
       "name": "AthanPro",
       "type": 1,
       "bundleID": "Quanticapps.Athan",
@@ -2581,86 +2613,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/527",
       "formatedsize": "7.55 MB",
       "size": 7916748
-    },
-    {
-      "name": "States Builder: Trade Empire (Hack)",
-      "bundleIdentifier": "games.resourcer.hex",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: games.resourcer.hex\n\n Downloads: 372\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731095598.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310955940692046826.webp",
-        "https://apps.nabzclan.vip/screenshots/17310955942357402605.webp",
-        "https://apps.nabzclan.vip/screenshots/17310955943637075955.webp",
-        "https://apps.nabzclan.vip/screenshots/17310955946532054063.webp",
-        "https://apps.nabzclan.vip/screenshots/17310955949179062358.webp",
-        "https://apps.nabzclan.vip/screenshots/17310955967059886566.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.2",
-          "date": "2025-04-02 18:45:00",
-          "localizedDescription": "Current of States Builder: Trade Empire (Hack) - 1.8.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
-          "size": 135580876
-        },
-        {
-          "version": "1.8.2",
-          "date": "2025-04-02 18:45:00",
-          "localizedDescription": "Old Version of States Builder: Trade Empire (Hack) - 1.8.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
-          "size": 135580876
-        }
-      ],
-      "version": "1.8.2",
-      "versionDate": "2025-04-02 18:45:00",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
-      "formatedsize": "129.3 MB",
-      "size": 135580876
-    },
-    {
-      "name": "Brave Merge - Battle & Defense (Hacked)",
-      "bundleIdentifier": "com.brave.merge",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.brave.merge\n\n Downloads: 243\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731098511.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310984989007288265.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985006859029764.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985026068335271.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985045738054193.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985070989418090.webp",
-        "https://apps.nabzclan.vip/screenshots/17310985095468917365.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.6.4",
-          "date": "2025-04-02 18:41:30",
-          "localizedDescription": "Current of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
-          "size": 108632473
-        },
-        {
-          "version": "1.6.4",
-          "date": "2025-04-02 18:41:30",
-          "localizedDescription": "Old Version of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
-          "size": 108632473
-        }
-      ],
-      "version": "1.6.4",
-      "versionDate": "2025-04-02 18:41:30",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
-      "formatedsize": "103.6 MB",
-      "size": 108632473
     }
   ],
   "userInfo": {}

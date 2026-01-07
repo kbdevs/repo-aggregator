@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "CODMunity",
+      "type": 1,
+      "bundleID": "com.convertify.codmobileloadout2",
+      "bundleIdentifier": "com.convertify.codmobileloadout2",
+      "version": "12.259",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031231728",
+      "size": 25537161,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/CODMunity_12.259_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/CODMunity_12.259_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.convertify.codmobileloadout2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.convertify.codmobileloadout2.png"
+    },
+    {
+      "name": "SongInfos",
+      "type": 1,
+      "bundleID": "de.firatcan.Song-Infos",
+      "bundleIdentifier": "de.firatcan.Song-Infos",
+      "version": "1.35.1",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031231726",
+      "size": 21849104,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/SongInfos_1.35.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/SongInfos_1.35.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.firatcan.Song-Infos.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.firatcan.Song-Infos.png"
+    },
+    {
       "name": "WallGenie",
       "type": 1,
       "bundleID": "com.raktech.wallgenie",
@@ -2130,38 +2162,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png"
-    },
-    {
-      "name": "MoneyCoach",
-      "type": 1,
-      "bundleID": "com.duuro.moneyCoach",
-      "bundleIdentifier": "com.duuro.moneyCoach",
-      "version": "10.5.2",
-      "versionDate": "2025-08-23",
-      "fullDate": "20250823192618",
-      "size": 116484940,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/MoneyCoach_10.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/MoneyCoach_10.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png"
-    },
-    {
-      "name": "Stippl",
-      "type": 1,
-      "bundleID": "com.stippl.stippl",
-      "bundleIdentifier": "com.stippl.stippl",
-      "version": "2.0.81",
-      "versionDate": "2025-08-23",
-      "fullDate": "20250823191614",
-      "size": 77996214,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Stippl_2.0.81_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Stippl_2.0.81_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stippl.stippl.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stippl.stippl.png"
     }
   ],
   "userInfo": {}
