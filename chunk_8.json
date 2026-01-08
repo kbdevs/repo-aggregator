@@ -1188,22 +1188,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
     },
     {
-      "name": "RashaqaWorkout",
-      "type": 1,
-      "bundleID": "com.madarsoft.fitness",
-      "bundleIdentifier": "com.madarsoft.fitness",
-      "version": "15.4",
-      "versionDate": "2025-04-30",
-      "fullDate": "20250430110144",
-      "size": 364761987,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
-    },
-    {
       "name": "EndZoneDefendandSurvive",
       "type": 2,
       "bundleID": "com.jiujiu.zombiedefense",
@@ -2613,6 +2597,46 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/527",
       "formatedsize": "7.55 MB",
       "size": 7916748
+    },
+    {
+      "name": "States Builder: Trade Empire (Hack)",
+      "bundleIdentifier": "games.resourcer.hex",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: games.resourcer.hex\n\n Downloads: 372\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731095598.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310955940692046826.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955942357402605.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955943637075955.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955946532054063.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955949179062358.webp",
+        "https://apps.nabzclan.vip/screenshots/17310955967059886566.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.2",
+          "date": "2025-04-02 18:45:00",
+          "localizedDescription": "Current of States Builder: Trade Empire (Hack) - 1.8.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
+          "size": 135580876
+        },
+        {
+          "version": "1.8.2",
+          "date": "2025-04-02 18:45:00",
+          "localizedDescription": "Old Version of States Builder: Trade Empire (Hack) - 1.8.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
+          "size": 135580876
+        }
+      ],
+      "version": "1.8.2",
+      "versionDate": "2025-04-02 18:45:00",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1352",
+      "formatedsize": "129.3 MB",
+      "size": 135580876
     }
   ],
   "userInfo": {}

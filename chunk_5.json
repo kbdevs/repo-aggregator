@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Illustrator",
+      "type": 1,
+      "bundleID": "com.adobe.ailogo",
+      "bundleIdentifier": "com.adobe.ailogo",
+      "version": "3.0.10",
+      "versionDate": "2025-11-01",
+      "fullDate": "20251101012815",
+      "size": 478461635,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Illustrator_3.0.10_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Illustrator_3.0.10_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.ailogo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.ailogo.png"
+    },
+    {
       "name": "CODMunity",
       "type": 1,
       "bundleID": "com.convertify.codmobileloadout2",
@@ -1586,22 +1602,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png"
-    },
-    {
-      "name": "GrowIt",
-      "type": 1,
-      "bundleID": "com.grow.my.food",
-      "bundleIdentifier": "com.grow.my.food",
-      "version": "1.34",
-      "versionDate": "2025-09-05",
-      "fullDate": "20250905073144",
-      "size": 54249361,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/GrowIt_1.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/GrowIt_1.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png"
     },
     {
       "name": "Linkjar",
