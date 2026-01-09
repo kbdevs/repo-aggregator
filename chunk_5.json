@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Rolls",
+      "type": 1,
+      "bundleID": "rolls.tech.mindflick",
+      "bundleIdentifier": "rolls.tech.mindflick",
+      "version": "2.0.1",
+      "versionDate": "2025-11-01",
+      "fullDate": "20251101061432",
+      "size": 88107360,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Rolls_2.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Rolls_2.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rolls.tech.mindflick.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rolls.tech.mindflick.png"
+    },
+    {
+      "name": "CARROT",
+      "type": 1,
+      "bundleID": "com.grailr.CARROTweather",
+      "bundleIdentifier": "com.grailr.CARROTweather",
+      "version": "6.3.3",
+      "versionDate": "2025-11-01",
+      "fullDate": "20251101013342",
+      "size": 323834816,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/CARROT_6.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/CARROT_6.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png"
+    },
+    {
       "name": "Illustrator",
       "type": 1,
       "bundleID": "com.adobe.ailogo",
@@ -674,22 +706,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png"
-    },
-    {
-      "name": "BrainTest",
-      "type": 2,
-      "bundleID": "com.unicostudio.braintest",
-      "bundleIdentifier": "com.unicostudio.braintest",
-      "version": "2.761.5",
-      "versionDate": "2025-10-15",
-      "fullDate": "20251015031110",
-      "size": 139755350,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-10-2025/BrainTest_2.761.5_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-10-2025/BrainTest_2.761.5_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png"
     },
     {
       "name": "MkIIIPublic",
@@ -2146,22 +2162,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png"
-    },
-    {
-      "name": "Liftoff",
-      "type": 1,
-      "bundleID": "com.gymbros.app",
-      "bundleIdentifier": "com.gymbros.app",
-      "version": "2.5.3",
-      "versionDate": "2025-08-23",
-      "fullDate": "20250823193131",
-      "size": 97410402,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Liftoff_2.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Liftoff_2.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png"
     }
   ],
   "userInfo": {}

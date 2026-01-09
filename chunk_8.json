@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "ATHENABloodTwins",
+      "type": 2,
+      "bundleID": "com.eu.eud3",
+      "bundleIdentifier": "com.eu.eud3",
+      "version": "1.0.4",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527151420",
+      "size": 1072721574,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/ATHENABloodTwins_1.0.4_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/ATHENABloodTwins_1.0.4_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eu.eud3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eu.eud3.png"
+    },
+    {
       "name": "RFS",
       "type": 2,
       "bundleID": "it.rortos.realflightsimulator",
@@ -1172,20 +1188,20 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
-      "name": "AndalusiDesign",
+      "name": "RashaqaWorkout",
       "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-05-01",
-      "fullDate": "20250501044601",
-      "size": 152643066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "bundleID": "com.madarsoft.fitness",
+      "bundleIdentifier": "com.madarsoft.fitness",
+      "version": "15.4",
+      "versionDate": "2025-04-30",
+      "fullDate": "20250430110144",
+      "size": 364761987,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/RashaqaWorkout_15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
     },
     {
       "name": "EndZoneDefendandSurvive",
@@ -1378,22 +1394,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codebysms.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codebysms.png"
-    },
-    {
-      "name": "AlohaVpn",
-      "type": 1,
-      "bundleID": "com.alohabrowser.vpn",
-      "bundleIdentifier": "com.alohabrowser.vpn",
-      "version": "2.5.0",
-      "versionDate": "2025-02-08",
-      "fullDate": "20250208012018",
-      "size": 162321152,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AlohaVpn_2.5.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AlohaVpn_2.5.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png"
     },
     {
       "name": "PhotoEraser",
