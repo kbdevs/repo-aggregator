@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Wallcraft",
+      "type": 1,
+      "bundleID": "com.wallpaperscraft.wallpapers",
+      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+      "version": "3.31",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215122138",
+      "size": 118619631,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Wallcraft_3.31_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Wallcraft_3.31_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
+    },
+    {
       "name": "Tachimanga",
       "type": 1,
       "bundleID": "com.mangacrush.ios",
@@ -2146,22 +2162,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/irfandegirmenci.Moodshot.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/irfandegirmenci.Moodshot.png"
-    },
-    {
-      "name": "MyDexTCG",
-      "type": 1,
-      "bundleID": "com.albertomoral.PokedexTradingCards",
-      "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
-      "version": "1.7.3",
-      "versionDate": "2025-11-02",
-      "fullDate": "20251102035655",
-      "size": 20469121,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png"
     }
   ],
   "userInfo": {}

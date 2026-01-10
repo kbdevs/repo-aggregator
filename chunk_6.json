@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Roblox",
+      "type": 1,
+      "bundleID": "com.gloop.deltamobile",
+      "bundleIdentifier": "com.gloop.deltamobile",
+      "version": "2.686.866",
+      "versionDate": "2025-08-23",
+      "fullDate": "20250823205148",
+      "size": 119944660,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Roblox_2.686.866_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Roblox_2.686.866_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png"
+    },
+    {
       "name": "Liftoff",
       "type": 1,
       "bundleID": "com.gymbros.app",
@@ -1842,22 +1858,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png"
-    },
-    {
-      "name": "NutriCoach",
-      "type": 1,
-      "bundleID": "nutrition.coach",
-      "bundleIdentifier": "nutrition.coach",
-      "version": "1.7.0",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624195239",
-      "size": 45989466,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/NutriCoach_1.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/NutriCoach_1.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png"
     },
     {
       "name": "SurvivalArena",

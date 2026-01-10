@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "MyDexTCG",
+      "type": 1,
+      "bundleID": "com.albertomoral.PokedexTradingCards",
+      "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
+      "version": "1.7.3",
+      "versionDate": "2025-11-02",
+      "fullDate": "20251102035655",
+      "size": 20469121,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png"
+    },
+    {
       "name": "Rolls",
       "type": 1,
       "bundleID": "rolls.tech.mindflick",
@@ -2146,22 +2162,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.EnsarEray.bbtf.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.EnsarEray.bbtf.png"
-    },
-    {
-      "name": "Roblox",
-      "type": 1,
-      "bundleID": "com.gloop.deltamobile",
-      "bundleIdentifier": "com.gloop.deltamobile",
-      "version": "2.686.866",
-      "versionDate": "2025-08-23",
-      "fullDate": "20250823205148",
-      "size": 119944660,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Roblox_2.686.866_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Roblox_2.686.866_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png"
     }
   ],
   "userInfo": {}
