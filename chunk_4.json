@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Unfold",
+      "type": 1,
+      "bundleID": "com.moonlab.unfoldstories",
+      "bundleIdentifier": "com.moonlab.unfoldstories",
+      "version": "8.152.0",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215164914",
+      "size": 175786585,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Unfold_8.152.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Unfold_8.152.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png"
+    },
+    {
+      "name": "PDFExpert",
+      "type": 1,
+      "bundleID": "com.readdle.PDFExpert5",
+      "bundleIdentifier": "com.readdle.PDFExpert5",
+      "version": "7.25.1",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215153834",
+      "size": 159200065,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/PDFExpert_7.25.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/PDFExpert_7.25.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png"
+    },
+    {
       "name": "iLovePDF",
       "type": 1,
       "bundleID": "com.ilovepdf.www",
@@ -50,22 +82,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
-    },
-    {
-      "name": "Tachimanga",
-      "type": 1,
-      "bundleID": "com.mangacrush.ios",
-      "bundleIdentifier": "com.mangacrush.ios",
-      "version": "4.11",
-      "versionDate": "2025-12-15",
-      "fullDate": "20251215065556",
-      "size": 122243379,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Tachimanga_4.11_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Tachimanga_4.11_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png"
     },
     {
       "name": "ReversoContext",
@@ -2146,22 +2162,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png"
-    },
-    {
-      "name": "UnifiedDictionary",
-      "type": 1,
-      "bundleID": "com.bravolol.bravoLang.chineseDictionary",
-      "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
-      "version": "35.2",
-      "versionDate": "2025-11-03",
-      "fullDate": "20251103121046",
-      "size": 21679180,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/UnifiedDictionary_35.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/UnifiedDictionary_35.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "ObjectRemoval",
+      "bundleIdentifier": "com.skysoft.removalfree",
+      "version": "3.8.7",
+      "versionDate": "2024-10-11",
+      "size": 64666410,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-3.8.7.ipa",
+      "developerName": "FayezUpdates",
+      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
+    },
+    {
       "name": "OVFEditorPremium",
       "bundleIdentifier": "com.mutaeb.OVF-Editor",
       "version": "5.0.1",
@@ -222,17 +233,6 @@
       "developerName": "emuPlace",
       "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
-    },
-    {
-      "name": "LightleapPro",
-      "bundleIdentifier": "com.lightricks.Enlight-Photos",
-      "version": "1.9.20",
-      "versionDate": "2024-10-09",
-      "size": 247018582,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightleapPro/LightleapPro-1.9.20.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Enlight-Photos.png"
     },
     {
       "name": "KleinanzeigenPlus",
