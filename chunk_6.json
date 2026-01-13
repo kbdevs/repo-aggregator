@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "RogueSlime",
+      "type": 2,
+      "bundleID": "com.QuestSeekerGames.Rogueslime",
+      "bundleIdentifier": "com.QuestSeekerGames.Rogueslime",
+      "version": "0.6.2",
+      "versionDate": "2025-08-23",
+      "fullDate": "20250823205200",
+      "size": 167515383,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/RogueSlime_0.6.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/RogueSlime_0.6.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.QuestSeekerGames.Rogueslime.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.QuestSeekerGames.Rogueslime.png"
+    },
+    {
       "name": "BoardBattleTeamFight",
       "type": 2,
       "bundleID": "com.EnsarEray.bbtf",
@@ -1556,22 +1572,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
     },
     {
-      "name": "CamScanner",
-      "type": 1,
-      "bundleID": "com.intsig.CamScannerLite",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "6.91.1",
-      "versionDate": "2025-07-04",
-      "fullDate": "20250704082624",
-      "size": 176231919,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
-    },
-    {
       "name": "ReceiptLens",
       "type": 1,
       "bundleID": "com.glority.receipt",
@@ -1860,22 +1860,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snoregym.app.png"
     },
     {
-      "name": "FitnessCoach",
-      "type": 1,
-      "bundleID": "fitnessworkout.app",
-      "bundleIdentifier": "fitnessworkout.app",
-      "version": "2.12.25",
-      "versionDate": "2025-06-24",
-      "fullDate": "20250624195757",
-      "size": 160031424,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/FitnessCoach_2.12.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/FitnessCoach_2.12.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png"
-    },
-    {
       "name": "SurvivalArena",
       "type": 2,
       "bundleID": "tower.defense.survival.arena",
@@ -2162,6 +2146,22 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.timesquared.hourstimetracker.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.timesquared.hourstimetracker.ios.png"
+    },
+    {
+      "name": "SunriseFast",
+      "type": 1,
+      "bundleID": "io.arborapps.Fasting",
+      "bundleIdentifier": "io.arborapps.Fasting",
+      "version": "2025.8",
+      "versionDate": "2025-06-21",
+      "fullDate": "20250621163023",
+      "size": 22437003,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/SunriseFast_2025.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/SunriseFast_2025.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.arborapps.Fasting.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.arborapps.Fasting.png"
     }
   ],
   "userInfo": {}

@@ -4,22 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "CombatMaster",
-      "type": 2,
-      "bundleID": "com.AlfaBravo.CombatMaster",
-      "bundleIdentifier": "com.AlfaBravo.CombatMaster",
-      "version": "0.25.27",
-      "versionDate": "2025-05-27",
-      "fullDate": "20250527152955",
-      "size": 1407197686,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png"
-    },
-    {
       "name": "ATHENABloodTwins",
       "type": 2,
       "bundleID": "com.eu.eud3",
@@ -1204,6 +1188,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choco.appgroupcheck.png"
     },
     {
+      "name": "AndalusiDesign",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "fullDate": "20250501044601",
+      "size": 152643066,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
       "name": "RashaqaWorkout",
       "type": 1,
       "bundleID": "com.madarsoft.fitness",
@@ -1760,8 +1760,8 @@
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/ExtensionFix_1.0_%40thisismanpreets_apptesters.org.dylib",
       "developerName": "",
       "localizedDescription": "ExtensionFix",
-      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
-      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+      "icon": "https://apptesters.org/apptesters-512x512.png",
+      "iconURL": "https://apptesters.org/apptesters-512x512.png"
     },
     {
       "name": "WhatsAppFreeze",
@@ -1776,8 +1776,8 @@
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/WhatsAppFreeze_1.0_%40thisismanpreets_apptesters.org.dylib",
       "developerName": "",
       "localizedDescription": "WhatsAppFreeze",
-      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
-      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+      "icon": "https://apptesters.org/apptesters-512x512.png",
+      "iconURL": "https://apptesters.org/apptesters-512x512.png"
     },
     {
       "name": "Adblock",
@@ -1792,8 +1792,8 @@
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/Adblock_1.0_%40thisismanpreets_apptesters.org.dylib",
       "developerName": "",
       "localizedDescription": "Adblock",
-      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
-      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+      "icon": "https://apptesters.org/apptesters-512x512.png",
+      "iconURL": "https://apptesters.org/apptesters-512x512.png"
     },
     {
       "name": "SatellaJailed",
@@ -1808,8 +1808,8 @@
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/SatellaJailed_1.0_%40thisismanpreets_apptesters.org.dylib",
       "developerName": "",
       "localizedDescription": "SatellaJailed",
-      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
-      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+      "icon": "https://apptesters.org/apptesters-512x512.png",
+      "iconURL": "https://apptesters.org/apptesters-512x512.png"
     },
     {
       "name": "AllFLEXing",
@@ -1824,8 +1824,8 @@
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/AllFLEXing_1.0_CompiledEverythingTogether_%40thisismanpreets_apptesters.org.dylib",
       "developerName": "",
       "localizedDescription": "AllFLEXing",
-      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
-      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+      "icon": "https://apptesters.org/apptesters-512x512.png",
+      "iconURL": "https://apptesters.org/apptesters-512x512.png"
     },
     {
       "name": "SideloadKeychainFix",
@@ -1840,8 +1840,8 @@
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/SideloadKeychainFix_1.0_%40chocolatefluffy_apptesters.org.dylib",
       "developerName": "",
       "localizedDescription": "SideloadKeychainFix",
-      "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
-      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+      "icon": "https://apptesters.org/apptesters-512x512.png",
+      "iconURL": "https://apptesters.org/apptesters-512x512.png"
     },
     {
       "name": "Ling",
