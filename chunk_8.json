@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "CombatMaster",
+      "type": 2,
+      "bundleID": "com.AlfaBravo.CombatMaster",
+      "bundleIdentifier": "com.AlfaBravo.CombatMaster",
+      "version": "0.25.27",
+      "versionDate": "2025-05-27",
+      "fullDate": "20250527152955",
+      "size": 1407197686,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png"
+    },
+    {
       "name": "ATHENABloodTwins",
       "type": 2,
       "bundleID": "com.eu.eud3",
@@ -2577,42 +2593,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
       "formatedsize": "2.27 GB",
       "size": 2437393940
-    },
-    {
-      "name": "ZiniTevi (No ads)",
-      "bundleIdentifier": "jb.zini.tevi",
-      "developerName": "Nabzclan",
-      "subtitle": "ZiniTevi - Ads disabled App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
-      "localizedDescription": "ZiniTevi - Ads disabled App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!\n\n --- \n\n More app Information:\n\n Category: Media, Tweaked Apps\n\n BundleID: jb.zini.tevi\n\n Downloads: 3041\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1695108257.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16951084144621792.webp",
-        "https://apps.nabzclan.vip/screenshots/16951084147900204.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.0.05012300",
-          "date": "2025-04-02 18:51:59",
-          "localizedDescription": "Current of ZiniTevi (No ads) - 1.5.0.05012300",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/527",
-          "size": 7916748
-        },
-        {
-          "version": "1.5.0.05012300",
-          "date": "2025-04-02 18:51:59",
-          "localizedDescription": "Old Version of ZiniTevi (No ads) - 1.5.0.05012300",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/527",
-          "size": 7916748
-        }
-      ],
-      "version": "1.5.0.05012300",
-      "versionDate": "2025-04-02 18:51:59",
-      "versionDescription": "ZiniTevi - Ads disabled App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/527",
-      "formatedsize": "7.55 MB",
-      "size": 7916748
     }
   ],
   "userInfo": {}

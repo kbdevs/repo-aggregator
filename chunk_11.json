@@ -4,6 +4,49 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "ZiniTevi",
+      "bundleIdentifier": "app.ios. ZiniTevi",
+      "developerName": "ZiniTevi team",
+      "subtitle": "App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
+      "localizedDescription": "App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: app.ios. ZiniTevi\n\n Downloads: 509\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1694951559.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16951084439486950.webp",
+        "https://apps.nabzclan.vip/screenshots/16951084436898217.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5.0.05012300",
+          "date": "2024-09-11 15:42:18",
+          "localizedDescription": "Current of ZiniTevi - 1.5.0.05012300",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/526",
+          "size": 8074035
+        },
+        {
+          "version": "1.5.0.200523",
+          "date": "2023-09-17 11:52:39",
+          "localizedDescription": "Old Version of ZiniTevi - 1.5.0.200523",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/223",
+          "size": 7172259
+        },
+        {
+          "version": "1.5.0.05012300",
+          "date": "2024-09-11 15:42:18",
+          "localizedDescription": "Old Version of ZiniTevi - 1.5.0.05012300",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/526",
+          "size": 8074035
+        }
+      ],
+      "version": "1.5.0.05012300",
+      "versionDate": "2024-09-11 15:42:18",
+      "versionDescription": "App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/526",
+      "formatedsize": "7.7 MB",
+      "size": 8074035
+    },
+    {
       "name": "City Island 6 Building Life - (Free in app purchases)",
       "bundleIdentifier": "com.sparklingsociety.cityisland6",
       "developerName": "BabyloniPA",
@@ -2953,17 +2996,6 @@
       "developerName": "Qamislo - Apps",
       "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.osmand.maps.png"
-    },
-    {
-      "name": "Opener",
-      "bundleIdentifier": "com.tijo.opener.Opener",
-      "version": "1.12.1",
-      "versionDate": "2024-10-11",
-      "size": 619940,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.12.1.ipa",
-      "developerName": "CyPwn IPA library",
-      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
     }
   ],
   "userInfo": {}
