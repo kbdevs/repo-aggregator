@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Acrobat",
+      "type": 1,
+      "bundleID": "com.adobe.Adobe-Reader",
+      "bundleIdentifier": "com.adobe.Adobe-Reader",
+      "version": "25.10.50",
+      "versionDate": "2025-11-06",
+      "fullDate": "20251106064450",
+      "size": 208104925,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Acrobat_25.10.50_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Acrobat_25.10.50_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png"
+    },
+    {
+      "name": "AudioEditor",
+      "type": 1,
+      "bundleID": "com.hemin.mp3editor",
+      "bundleIdentifier": "com.hemin.mp3editor",
+      "version": "5.71",
+      "versionDate": "2025-11-06",
+      "fullDate": "20251106062618",
+      "size": 107545856,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/AudioEditor_5.71_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/AudioEditor_5.71_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png"
+    },
+    {
       "name": "Gizmo",
       "type": 2,
       "bundleID": "io.gonative.ios.xqdyad",
@@ -484,22 +516,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vanilla.picoboom.png"
     },
     {
-      "name": "AlarmClockforMe",
-      "type": 1,
-      "bundleID": "com.apalonapps.alarmclockfree",
-      "bundleIdentifier": "com.apalonapps.alarmclockfree",
-      "version": "3.19.20",
-      "versionDate": "2025-10-27",
-      "fullDate": "20251027164820",
-      "size": 74516532,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/AlarmClockforMe_3.19.20_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/AlarmClockforMe_3.19.20_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png"
-    },
-    {
       "name": "Apollo",
       "type": 1,
       "bundleID": "com.christianselig.Apollo",
@@ -738,22 +754,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yana.yanapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yana.yanapp.png"
-    },
-    {
-      "name": "Walli",
-      "type": 1,
-      "bundleID": "com.stanga.projectKu",
-      "bundleIdentifier": "com.stanga.projectKu",
-      "version": "1.94.0",
-      "versionDate": "2025-10-17",
-      "fullDate": "20251017130159",
-      "size": 131130195,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/Walli_1.94.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/Walli_1.94.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png"
     },
     {
       "name": "PhotoCollagePublic",
