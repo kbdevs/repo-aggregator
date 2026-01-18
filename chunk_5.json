@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "PDFExpert",
+      "type": 1,
+      "bundleID": "com.readdle.PDFExpert5",
+      "bundleIdentifier": "com.readdle.PDFExpert5",
+      "version": "7.25.1",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215153834",
+      "size": 159200065,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/PDFExpert_7.25.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/PDFExpert_7.25.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png"
+    },
+    {
+      "name": "iLovePDF",
+      "type": 1,
+      "bundleID": "com.ilovepdf.www",
+      "bundleIdentifier": "com.ilovepdf.www",
+      "version": "3.13.0",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215144251",
+      "size": 172308433,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/iLovePDF_3.13.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/iLovePDF_3.13.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png"
+    },
+    {
       "name": "NRv133006",
       "type": 1,
       "bundleID": "nt.nr.ios",
@@ -1714,38 +1746,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png"
-    },
-    {
-      "name": "Gizmo",
-      "type": 2,
-      "bundleID": "io.gonative.ios.xqdyad",
-      "bundleIdentifier": "io.gonative.ios.xqdyad",
-      "version": "2.0.47",
-      "versionDate": "2025-11-06",
-      "fullDate": "20251106062102",
-      "size": 34218064,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Gizmo_2.0.47_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Gizmo_2.0.47_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.gonative.ios.xqdyad.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.gonative.ios.xqdyad.png"
-    },
-    {
-      "name": "LidarCamera",
-      "type": 1,
-      "bundleID": "net.darkce.nvd",
-      "bundleIdentifier": "net.darkce.nvd",
-      "version": "3.12.0",
-      "versionDate": "2025-11-06",
-      "fullDate": "20251106061557",
-      "size": 10690122,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/LidarCamera_3.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/LidarCamera_3.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png"
     }
   ],
   "userInfo": {}

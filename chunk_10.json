@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "SnapChat Falcon",
+      "bundleIdentifier": "com.toyopagroup.picaboo",
+      "developerName": "iCrackIPA",
+      "subtitle": "Tweaks include:\r\n\r\n- English support\r\n\r\n- No ads\r\n\r\n- Downloading stories, videos, snap\r\n\r\n- Hide story view\r\n\r\n- Hide reading messages\r\n\r\n- Hide screenshot\r\n\r\n- Hide typing\r\n\r\n- Auto save chat\r\n\r\n- Snapchat plus features (not all)\r\n\r\n- Location spoofer (USE AT OWN RISK)",
+      "localizedDescription": "Tweaks include:\r\n\r\n- English support\r\n\r\n- No ads\r\n\r\n- Downloading stories, videos, snap\r\n\r\n- Hide story view\r\n\r\n- Hide reading messages\r\n\r\n- Hide screenshot\r\n\r\n- Hide typing\r\n\r\n- Auto save chat\r\n\r\n- Snapchat plus features (not all)\r\n\r\n- Location spoofer (USE AT OWN RISK)\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.toyopagroup.picaboo\n\n Downloads: 7109\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1691162601.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16911626007122052830.webp",
+        "https://apps.nabzclan.vip/screenshots/16911626010347791162.webp",
+        "https://apps.nabzclan.vip/screenshots/16911626011321129840.webp",
+        "https://apps.nabzclan.vip/screenshots/16911626012515316855.webp",
+        "https://apps.nabzclan.vip/screenshots/16911626016438858868.webp",
+        "https://apps.nabzclan.vip/screenshots/16911626017248894088.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "13.10.0",
+          "date": "2024-10-06 13:22:30",
+          "localizedDescription": "Current of SnapChat Falcon - 13.10.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/736",
+          "size": 132435148
+        },
+        {
+          "version": "12.45.0",
+          "date": "2023-08-04 15:23:22",
+          "localizedDescription": "Old Version of SnapChat Falcon - 12.45.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/139",
+          "size": 96773079
+        },
+        {
+          "version": "13.10.0",
+          "date": "2024-10-06 13:22:30",
+          "localizedDescription": "Old Version of SnapChat Falcon - 13.10.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/736",
+          "size": 132435148
+        }
+      ],
+      "version": "13.10.0",
+      "versionDate": "2024-10-06 13:22:30",
+      "versionDescription": "Tweaks include:\r\n\r\n- English support\r\n\r\n- No ads\r\n\r\n- Downloading stories, videos, snap\r\n\r\n- Hide story view\r\n\r\n- Hide reading messages\r\n\r\n- Hide screenshot\r\n\r\n- Hide typing\r\n\r\n- Auto save chat\r\n\r\n- Snapchat plus features (not all)\r\n\r\n- Location spoofer (USE AT OWN RISK)",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/736",
+      "formatedsize": "126.3 MB",
+      "size": 132435148
+    },
+    {
       "name": "Draw a Stickman: EPIC 2 (Hack)",
       "bundleIdentifier": "com.hitcents.drawastickmanepic2free",
       "developerName": "Nabzclan",
@@ -4148,17 +4195,6 @@
       "developerName": "c22dev",
       "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
-    },
-    {
-      "name": "TrollSpeed",
-      "bundleIdentifier": "ch.xxtou.hudapp",
-      "version": "1.12.1.",
-      "versionDate": "2024-11-14",
-      "size": 162585,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
-      "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     }
   ],
   "userInfo": {}

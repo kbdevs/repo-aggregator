@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "TrollSpeed",
+      "bundleIdentifier": "ch.xxtou.hudapp",
+      "version": "1.12.1.",
+      "versionDate": "2024-11-14",
+      "size": 162585,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
+      "developerName": "Lessica",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
+    },
+    {
       "name": "onesecpro",
       "bundleIdentifier": "wtf.riedel.one-sec",
       "version": "3.10",
@@ -145,17 +156,6 @@
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dynamicisland.app.png"
-    },
-    {
-      "name": "WABusinessWatusiCracked",
-      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "version": "24.17.78-1.2.40",
-      "versionDate": "2024-10-15",
-      "size": 128182957,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WABusinessWatusiCracked/WABusinessWatusiCracked-24.17.78-1.2.40.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsAppSMB.png"
     },
     {
       "name": "Violet",

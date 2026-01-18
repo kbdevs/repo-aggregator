@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Gizmo",
+      "type": 2,
+      "bundleID": "io.gonative.ios.xqdyad",
+      "bundleIdentifier": "io.gonative.ios.xqdyad",
+      "version": "2.0.47",
+      "versionDate": "2025-11-06",
+      "fullDate": "20251106062102",
+      "size": 34218064,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Gizmo_2.0.47_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Gizmo_2.0.47_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.gonative.ios.xqdyad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.gonative.ios.xqdyad.png"
+    },
+    {
+      "name": "LidarCamera",
+      "type": 1,
+      "bundleID": "net.darkce.nvd",
+      "bundleIdentifier": "net.darkce.nvd",
+      "version": "3.12.0",
+      "versionDate": "2025-11-06",
+      "fullDate": "20251106061557",
+      "size": 10690122,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/LidarCamera_3.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/LidarCamera_3.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png"
+    },
+    {
       "name": "Sudoku",
       "type": 2,
       "bundleID": "com.ocho.SudokuaDay",
@@ -1714,38 +1746,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamaichatbot.dreameai.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamaichatbot.dreameai.png"
-    },
-    {
-      "name": "AIChatbot",
-      "type": 1,
-      "bundleID": "com.aichatbot.assistant",
-      "bundleIdentifier": "com.aichatbot.assistant",
-      "version": "2.31",
-      "versionDate": "2025-08-29",
-      "fullDate": "20250829235342",
-      "size": 105792663,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2025/AIChatbot_2.31_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2025/AIChatbot_2.31_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png"
-    },
-    {
-      "name": "Quizlet",
-      "type": 1,
-      "bundleID": "com.quizlet.quizlet",
-      "bundleIdentifier": "com.quizlet.quizlet",
-      "version": "10.2",
-      "versionDate": "2025-08-28",
-      "fullDate": "20250828120428",
-      "size": 62979035,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
     }
   ],
   "userInfo": {}
