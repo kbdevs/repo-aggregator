@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Acrobat",
+      "type": 1,
+      "bundleID": "com.adobe.Adobe-Reader",
+      "bundleIdentifier": "com.adobe.Adobe-Reader",
+      "version": "25.10.50",
+      "versionDate": "2025-11-06",
+      "fullDate": "20251106064450",
+      "size": 208104925,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Acrobat_25.10.50_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Acrobat_25.10.50_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png"
+    },
+    {
+      "name": "AudioEditor",
+      "type": 1,
+      "bundleID": "com.hemin.mp3editor",
+      "bundleIdentifier": "com.hemin.mp3editor",
+      "version": "5.71",
+      "versionDate": "2025-11-06",
+      "fullDate": "20251106062618",
+      "size": 107545856,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/AudioEditor_5.71_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/AudioEditor_5.71_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png"
+    },
+    {
       "name": "Gizmo",
       "type": 2,
       "bundleID": "io.gonative.ios.xqdyad",
@@ -1714,38 +1746,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.artgenerator.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.artgenerator.png"
-    },
-    {
-      "name": "HelloAI",
-      "type": 1,
-      "bundleID": "com.IpadWhatsapp.InternetRocks",
-      "bundleIdentifier": "com.IpadWhatsapp.InternetRocks",
-      "version": "2025.8.3",
-      "versionDate": "2025-09-01",
-      "fullDate": "20250901070803",
-      "size": 81007965,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/HelloAI_2025.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/HelloAI_2025.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png"
-    },
-    {
-      "name": "DeepGronkAI",
-      "type": 1,
-      "bundleID": "com.dreamaichatbot.dreameai",
-      "bundleIdentifier": "com.dreamaichatbot.dreameai",
-      "version": "3.0",
-      "versionDate": "2025-08-31",
-      "fullDate": "20250831013413",
-      "size": 32753785,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2025/DeepGronkAI_3.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2025/DeepGronkAI_3.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamaichatbot.dreameai.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamaichatbot.dreameai.png"
     }
   ],
   "userInfo": {}

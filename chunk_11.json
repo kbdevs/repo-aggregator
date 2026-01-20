@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "TrollBox",
+      "bundleIdentifier": "live.cclerc.trollbox",
+      "version": "0.2.",
+      "versionDate": "2024-11-14",
+      "size": 26633972,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollBox-0.2.tipa",
+      "developerName": "c22dev",
+      "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
+    },
+    {
       "name": "TrollSpeed",
       "bundleIdentifier": "ch.xxtou.hudapp",
       "version": "1.12.1.",
@@ -1190,17 +1201,6 @@
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/me.imgbase.imgplay.png"
-    },
-    {
-      "name": "ImageSearch",
-      "bundleIdentifier": "com.ipopapp.imagesearchfree",
-      "version": "6.6",
-      "versionDate": "2024-10-01",
-      "size": 10303693,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ImageSearch/ImageSearch-6.6.ipa",
-      "developerName": "DPixel",
-      "localizedDescription": "Reverse Image Search App, cracked for pro features. Click Pro at the top right, then the purchase button.\nLast updated: 08-12-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ipopapp.imagesearchfree.png"
     }
   ],
   "userInfo": {}

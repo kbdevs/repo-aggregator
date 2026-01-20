@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "HelloAI",
+      "type": 1,
+      "bundleID": "com.IpadWhatsapp.InternetRocks",
+      "bundleIdentifier": "com.IpadWhatsapp.InternetRocks",
+      "version": "2025.8.3",
+      "versionDate": "2025-09-01",
+      "fullDate": "20250901070803",
+      "size": 81007965,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/HelloAI_2025.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/HelloAI_2025.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png"
+    },
+    {
+      "name": "DeepGronkAI",
+      "type": 1,
+      "bundleID": "com.dreamaichatbot.dreameai",
+      "bundleIdentifier": "com.dreamaichatbot.dreameai",
+      "version": "3.0",
+      "versionDate": "2025-08-31",
+      "fullDate": "20250831013413",
+      "size": 32753785,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2025/DeepGronkAI_3.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2025/DeepGronkAI_3.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamaichatbot.dreameai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamaichatbot.dreameai.png"
+    },
+    {
       "name": "AIChatbot",
       "type": 1,
       "bundleID": "com.aichatbot.assistant",
@@ -3070,114 +3102,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1301",
       "formatedsize": "64.24 MB",
       "size": 67360522
-    },
-    {
-      "name": "ES File explorer (Hack)",
-      "bundleIdentifier": "com.doglobal.ESFileExplorer",
-      "developerName": "Nabzclan",
-      "subtitle": "Features:\r\n- ProFutures Unlocked",
-      "localizedDescription": "Features:\r\n- ProFutures Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.doglobal.ESFileExplorer\n\n Downloads: 1126\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1705364221.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17053642149884407881.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642155547361822.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642158019762245.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642180302806352.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642185366327858.webp",
-        "https://apps.nabzclan.vip/screenshots/17053642190086900382.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.8.4",
-          "date": "2025-03-19 18:51:23",
-          "localizedDescription": "Current of ES File explorer (Hack) - 2.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
-          "size": 133924126
-        },
-        {
-          "version": "2.8.0",
-          "date": "2024-12-20 18:04:31",
-          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1117",
-          "size": 142501478
-        },
-        {
-          "version": "2.8.3",
-          "date": "2025-02-24 18:23:12",
-          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1232",
-          "size": 139984896
-        },
-        {
-          "version": "2.8.4",
-          "date": "2025-03-19 18:51:23",
-          "localizedDescription": "Old Version of ES File explorer (Hack) - 2.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
-          "size": 133924126
-        }
-      ],
-      "version": "2.8.4",
-      "versionDate": "2025-03-19 18:51:23",
-      "versionDescription": "Features:\r\n- ProFutures Unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1300",
-      "formatedsize": "127.72 MB",
-      "size": 133924126
-    },
-    {
-      "name": "Twitch+ (No Ads)",
-      "bundleIdentifier": "tv.twitch",
-      "developerName": "Nabzclan",
-      "subtitle": "Features: \r\n- Twitch with no ads",
-      "localizedDescription": "Features: \r\n- Twitch with no ads\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: tv.twitch\n\n Downloads: 918\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1689999371.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16899993699574658336.webp",
-        "https://apps.nabzclan.vip/screenshots/16899993701568419620.webp",
-        "https://apps.nabzclan.vip/screenshots/16899993702562149812.webp",
-        "https://apps.nabzclan.vip/screenshots/16899993706592963848.webp",
-        "https://apps.nabzclan.vip/screenshots/16899993709456421110.webp",
-        "https://apps.nabzclan.vip/screenshots/16899993710781574945.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "23.6",
-          "date": "2025-03-19 18:36:37",
-          "localizedDescription": "Current of Twitch+ (No Ads) - 23.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1299",
-          "size": 140614041
-        },
-        {
-          "version": "22.9",
-          "date": "2025-02-02 12:39:17",
-          "localizedDescription": "Old Version of Twitch+ (No Ads) - 22.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1186",
-          "size": 107646812
-        },
-        {
-          "version": "23.5.2",
-          "date": "2025-03-17 06:04:18",
-          "localizedDescription": "Old Version of Twitch+ (No Ads) - 23.5.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1279",
-          "size": 137258598
-        },
-        {
-          "version": "23.6",
-          "date": "2025-03-19 18:36:37",
-          "localizedDescription": "Old Version of Twitch+ (No Ads) - 23.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1299",
-          "size": 140614041
-        }
-      ],
-      "version": "23.6",
-      "versionDate": "2025-03-19 18:36:37",
-      "versionDescription": "Features: \r\n- Twitch with no ads",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1299",
-      "formatedsize": "134.1 MB",
-      "size": 140614041
     }
   ],
   "userInfo": {}

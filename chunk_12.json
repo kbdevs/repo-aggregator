@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "ImageSearch",
+      "bundleIdentifier": "com.ipopapp.imagesearchfree",
+      "version": "6.6",
+      "versionDate": "2024-10-01",
+      "size": 10303693,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ImageSearch/ImageSearch-6.6.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Reverse Image Search App, cracked for pro features. Click Pro at the top right, then the purchase button.\nLast updated: 08-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ipopapp.imagesearchfree.png"
+    },
+    {
       "name": "Ignited",
       "bundleIdentifier": "com.litritt.ignited",
       "version": "1.10",

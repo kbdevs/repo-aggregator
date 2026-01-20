@@ -4,6 +4,91 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "The Greedy Cave",
+      "bundleIdentifier": "com.avalon.cave",
+      "developerName": "AvalonGames",
+      "subtitle": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.",
+      "localizedDescription": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.avalon.cave\n\n Downloads: 159\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1734733071.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17347330704346365472.webp",
+        "https://apps.nabzclan.vip/screenshots/17347330706868557964.webp",
+        "https://apps.nabzclan.vip/screenshots/17347330708556617655.webp",
+        "https://apps.nabzclan.vip/screenshots/17347330710551907359.webp",
+        "https://apps.nabzclan.vip/screenshots/17347330712298929774.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.1.13",
+          "date": "2024-12-20 17:17:51",
+          "localizedDescription": "Current of The Greedy Cave - 4.1.13",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
+          "size": 261011537
+        },
+        {
+          "version": "4.1.13",
+          "date": "2024-12-20 17:17:51",
+          "localizedDescription": "Old Version of The Greedy Cave - 4.1.13",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
+          "size": 261011537
+        }
+      ],
+      "version": "4.1.13",
+      "versionDate": "2024-12-20 17:17:51",
+      "versionDescription": "In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1112",
+      "formatedsize": "248.92 MB",
+      "size": 261011537
+    },
+    {
+      "name": "Smash Hit+",
+      "bundleIdentifier": "com.mediocre.smashhit.arcade",
+      "developerName": "Mediocre AB",
+      "subtitle": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
+      "localizedDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.mediocre.smashhit.arcade\n\n Downloads: 336\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731274720.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312747189693632966.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747190557513313.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747195276740320.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747196503586239.webp",
+        "https://apps.nabzclan.vip/screenshots/17312747206721445176.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2024-12-20 16:24:03",
+          "localizedDescription": "Current of Smash Hit+ - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
+          "size": 75182899
+        },
+        {
+          "version": "1.0.2",
+          "date": "2024-11-10 16:38:41",
+          "localizedDescription": "Old Version of Smash Hit+ - 1.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/963",
+          "size": 75707187
+        },
+        {
+          "version": "1.0.3",
+          "date": "2024-12-20 16:24:03",
+          "localizedDescription": "Old Version of Smash Hit+ - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
+          "size": 75182899
+        }
+      ],
+      "version": "1.0.3",
+      "versionDate": "2024-12-20 16:24:03",
+      "versionDescription": "Editor\u2019s Choice game Smash Hit is now on Apple Arcade!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1111",
+      "formatedsize": "71.7 MB",
+      "size": 75182899
+    },
+    {
       "name": "Survivor!.io - Hack (2 )",
       "bundleIdentifier": "com.dxx.firenow",
       "developerName": "BabyloniPA",
@@ -4548,93 +4633,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/752",
       "formatedsize": "109.8 MB",
       "size": 115133644
-    },
-    {
-      "name": "Coffee Shop Simulator 3D Cafe (Hacked)",
-      "bundleIdentifier": "com.dmg.coffeeshop.simulator",
-      "developerName": "babyloniPA",
-      "subtitle": "Hack Features :\r\n- Free Store ( Turn on from the menu )\r\n\r\nSteps: \r\nActive free store inside the babylon menu",
-      "localizedDescription": "Hack Features :\r\n- Free Store ( Turn on from the menu )\r\n\r\nSteps: \r\nActive free store inside the babylon menu\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.dmg.coffeeshop.simulator\n\n Downloads: 211\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1728477516.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17284775042497789139.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775056077754786.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775071945784866.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775095491803553.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775115501986425.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775141201443140.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.3",
-          "date": "2024-10-09 16:38:36",
-          "localizedDescription": "Current of Coffee Shop Simulator 3D Cafe (Hacked) - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/751",
-          "size": 100589895
-        },
-        {
-          "version": "1.0.3",
-          "date": "2024-10-09 16:38:36",
-          "localizedDescription": "Old Version of Coffee Shop Simulator 3D Cafe (Hacked) - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/751",
-          "size": 100589895
-        }
-      ],
-      "version": "1.0.3",
-      "versionDate": "2024-10-09 16:38:36",
-      "versionDescription": "Hack Features :\r\n- Free Store ( Turn on from the menu )\r\n\r\nSteps: \r\nActive free store inside the babylon menu",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/751",
-      "formatedsize": "95.93 MB",
-      "size": 100589895
-    },
-    {
-      "name": "Canary Mail (Hack)",
-      "bundleIdentifier": "Mailroom.Canary-iOS",
-      "developerName": "revand",
-      "subtitle": "Features:\r\n- pro unlocked",
-      "localizedDescription": "Features:\r\n- pro unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: Mailroom.Canary-iOS\n\n Downloads: 423\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1727742513.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17277425113392581351.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425116763484368.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425122207771349.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425124449576922.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425126646190976.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425129809543551.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.64.0",
-          "date": "2024-10-09 16:11:47",
-          "localizedDescription": "Current of Canary Mail (Hack) - 4.64.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/750",
-          "size": 69625446
-        },
-        {
-          "version": "4.63.0",
-          "date": "2024-10-01 04:28:33",
-          "localizedDescription": "Old Version of Canary Mail (Hack) - 4.63.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/703",
-          "size": 64697139
-        },
-        {
-          "version": "4.64.0",
-          "date": "2024-10-09 16:11:47",
-          "localizedDescription": "Old Version of Canary Mail (Hack) - 4.64.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/750",
-          "size": 69625446
-        }
-      ],
-      "version": "4.64.0",
-      "versionDate": "2024-10-09 16:11:47",
-      "versionDescription": "Features:\r\n- pro unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/750",
-      "formatedsize": "66.4 MB",
-      "size": 69625446
     }
   ],
   "userInfo": {}
