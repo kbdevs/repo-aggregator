@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "GREC",
+      "type": 1,
+      "bundleID": "com.igliverec.app",
+      "bundleIdentifier": "com.igliverec.app",
+      "version": "4.6.3",
+      "versionDate": "2025-11-15",
+      "fullDate": "20251115064652",
+      "size": 24979735,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2025/GREC_4.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2025/GREC_4.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.igliverec.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.igliverec.app.png"
+    },
+    {
+      "name": "superagent",
+      "type": 1,
+      "bundleID": "com.agent.super.extension.safari",
+      "bundleIdentifier": "com.agent.super.extension.safari",
+      "version": "3.43.0",
+      "versionDate": "2025-11-14",
+      "fullDate": "20251114073140",
+      "size": 41108694,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-11-2025/superagent_3.43.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-11-2025/superagent_3.43.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png"
+    },
+    {
+      "name": "NBv64226",
+      "type": 1,
+      "bundleID": "nt.nb.ios",
+      "bundleIdentifier": "nt.nb.ios",
+      "version": "64.226",
+      "versionDate": "2025-11-14",
+      "fullDate": "20251114062503",
+      "size": 924599927,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-11-2025/NBv64226_64.226_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-11-2025/NBv64226_64.226_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png"
+    },
+    {
       "name": "VoiceOver",
       "type": 1,
       "bundleID": "com.iphoneislam.wavenet",
@@ -980,22 +1028,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.smallpdf.app.ios.png"
     },
     {
-      "name": "FarmVille2",
-      "type": 2,
-      "bundleID": "com.zynga.FarmVille2CountryEscape",
-      "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
-      "version": "28.5",
-      "versionDate": "2025-10-10",
-      "fullDate": "20251010210332",
-      "size": 363533813,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/FarmVille2_28.5_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/FarmVille2_28.5_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png"
-    },
-    {
       "name": "BrainTest3",
       "type": 2,
       "bundleID": "com.unicostudio.braintest3",
@@ -1604,22 +1636,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.panicbyte.byephotos.png"
     },
     {
-      "name": "Blossom",
-      "type": 1,
-      "bundleID": "com.apalonapps.plants",
-      "bundleIdentifier": "com.apalonapps.plants",
-      "version": "2.62.27",
-      "versionDate": "2025-09-22",
-      "fullDate": "20250922225614",
-      "size": 130977047,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/Blossom_2.62.27_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/Blossom_2.62.27_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png"
-    },
-    {
       "name": "BXNG",
       "type": 1,
       "bundleID": "com.app.BXNGApp",
@@ -1730,22 +1746,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finalwire.aida64.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finalwire.aida64.png"
-    },
-    {
-      "name": "MyCalendar",
-      "type": 1,
-      "bundleID": "com.podfactor.pod",
-      "bundleIdentifier": "com.podfactor.pod",
-      "version": "2.105.1",
-      "versionDate": "2025-09-05",
-      "fullDate": "20250905190506",
-      "size": 21371301,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/MyCalendar_2.105.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/MyCalendar_2.105.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png"
     }
   ],
   "userInfo": {}
