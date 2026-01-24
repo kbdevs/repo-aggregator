@@ -4,185 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "Castle Crumble",
-      "bundleIdentifier": "com.orbitalknight.castlearcade",
-      "developerName": "Orbital Knight sp. z o.o.",
-      "subtitle": "Embark on an adventure and conquer a variety of kingdoms! In Castle Crumble your goal is clear - castles must fall. Become a hero in far fantasylands. With powerful explosives and mystical spells, crash forts from Ancient, Medieval, Aztec and other times. Aim to win!\r\n\r\nCastle Crumble is where physics allows you to have fun with a blast!\r\n-Cannonball amazing castles\r\n-Execute your conqueror tactics\r\n-Explore fabulous kingdoms with unique visuals\r\n-Use a variety of mechanics on your quest",
-      "localizedDescription": "Embark on an adventure and conquer a variety of kingdoms! In Castle Crumble your goal is clear - castles must fall. Become a hero in far fantasylands. With powerful explosives and mystical spells, crash forts from Ancient, Medieval, Aztec and other times. Aim to win!\r\n\r\nCastle Crumble is where physics allows you to have fun with a blast!\r\n-Cannonball amazing castles\r\n-Execute your conqueror tactics\r\n-Explore fabulous kingdoms with unique visuals\r\n-Use a variety of mechanics on your quest\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.orbitalknight.castlearcade\n\n Downloads: 230\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731277083.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312770821939724544.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770825166615604.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770826444281831.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770827519364732.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770828393688781.webp",
-        "https://apps.nabzclan.vip/screenshots/17312770830035630771.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.17.0",
-          "date": "2025-03-21 14:02:31",
-          "localizedDescription": "Current of Castle Crumble - 1.17.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
-          "size": 884054425
-        },
-        {
-          "version": "1.14.1",
-          "date": "2024-11-10 17:18:03",
-          "localizedDescription": "Old Version of Castle Crumble - 1.14.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/970",
-          "size": 777833676
-        },
-        {
-          "version": "1.17.0",
-          "date": "2025-03-21 14:02:31",
-          "localizedDescription": "Old Version of Castle Crumble - 1.17.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
-          "size": 884054425
-        }
-      ],
-      "version": "1.17.0",
-      "versionDate": "2025-03-21 14:02:31",
-      "versionDescription": "Embark on an adventure and conquer a variety of kingdoms! In Castle Crumble your goal is clear - castles must fall. Become a hero in far fantasylands. With powerful explosives and mystical spells, crash forts from Ancient, Medieval, Aztec and other times. Aim to win!\r\n\r\nCastle Crumble is where physics allows you to have fun with a blast!\r\n-Cannonball amazing castles\r\n-Execute your conqueror tactics\r\n-Explore fabulous kingdoms with unique visuals\r\n-Use a variety of mechanics on your quest",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1310",
-      "formatedsize": "843.1 MB",
-      "size": 884054425
-    },
-    {
-      "name": "Discord - Bunny",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "Bunny-mod Team",
-      "subtitle": "A tweak to inject Bunny, a mod for Discord's mobile apps.",
-      "localizedDescription": "A tweak to inject Bunny, a mod for Discord's mobile apps.\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.hammerandchisel.discord\n\n Downloads: 879\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731830780.png",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17318307800589592217.webp",
-        "https://apps.nabzclan.vip/screenshots/17318307801411186870.webp",
-        "https://apps.nabzclan.vip/screenshots/17318307802051845582.webp",
-        "https://apps.nabzclan.vip/screenshots/17318307802661948961.webp",
-        "https://apps.nabzclan.vip/screenshots/17318307803248907833.webp",
-        "https://apps.nabzclan.vip/screenshots/17318307803912142004.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "271.0",
-          "date": "2025-03-21 13:56:07",
-          "localizedDescription": "Current of Discord - Bunny - 271.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1309",
-          "size": 92159344
-        },
-        {
-          "version": "261.0",
-          "date": "2024-12-25 15:30:01",
-          "localizedDescription": "Old Version of Discord - Bunny - 261.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1124",
-          "size": 97202995
-        },
-        {
-          "version": "271.0",
-          "date": "2025-03-21 13:56:07",
-          "localizedDescription": "Old Version of Discord - Bunny - 271.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1309",
-          "size": 92159344
-        }
-      ],
-      "version": "271.0",
-      "versionDate": "2025-03-21 13:56:07",
-      "versionDescription": "A tweak to inject Bunny, a mod for Discord's mobile apps.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1309",
-      "formatedsize": "87.89 MB",
-      "size": 92159344
-    },
-    {
-      "name": "Carrion (Hack)",
-      "bundleIdentifier": "com.devolverdigital.carrion",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.devolverdigital.carrion\n\n Downloads: 388\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730900680.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309006795821976991.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006802314354630.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006802778403284.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006804558848508.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006806204317341.webp",
-        "https://apps.nabzclan.vip/screenshots/17309006807789704360.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5",
-          "date": "2025-03-19 19:05:43",
-          "localizedDescription": "Current of Carrion (Hack) - 1.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
-          "size": 131806003
-        },
-        {
-          "version": "1.4",
-          "date": "2024-12-02 15:01:36",
-          "localizedDescription": "Old Version of Carrion (Hack) - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1079",
-          "size": 125734748
-        },
-        {
-          "version": "1.5",
-          "date": "2025-03-19 19:05:43",
-          "localizedDescription": "Old Version of Carrion (Hack) - 1.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
-          "size": 131806003
-        }
-      ],
-      "version": "1.5",
-      "versionDate": "2025-03-19 19:05:43",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
-      "formatedsize": "125.7 MB",
-      "size": 131806003
-    },
-    {
-      "name": "Fall Guys",
-      "bundleIdentifier": "uk.co.mediatonic.fallguys",
-      "developerName": "Mediatonic, Ltd.",
-      "subtitle": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
-      "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: uk.co.mediatonic.fallguys\n\n Downloads: 924\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726715135.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17267151431987005.webp",
-        "https://apps.nabzclan.vip/screenshots/17267151445689314.webp",
-        "https://apps.nabzclan.vip/screenshots/17267151447589709.webp",
-        "https://apps.nabzclan.vip/screenshots/17267151449779983.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "11.6.1",
-          "date": "2025-03-19 19:02:56",
-          "localizedDescription": "Current of Fall Guys - 11.6.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
-          "size": 2126008811
-        },
-        {
-          "version": "11.6.1",
-          "date": "2025-03-19 19:02:56",
-          "localizedDescription": "Old Version of Fall Guys - 11.6.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
-          "size": 2126008811
-        }
-      ],
-      "version": "11.6.1",
-      "versionDate": "2025-03-19 19:02:56",
-      "versionDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
-      "formatedsize": "1.98 GB",
-      "size": 2126008811
-    },
-    {
       "name": "GoodMama (Hacked)",
       "bundleIdentifier": "com.mummy.happyMama.ios",
       "developerName": "Nabzclan",
@@ -4534,6 +4355,259 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1132",
       "formatedsize": "25.56 MB",
       "size": 26801602
+    },
+    {
+      "name": "Streamer iOS",
+      "bundleIdentifier": "com.streamer.ios",
+      "developerName": "StreamerApp Team",
+      "subtitle": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.",
+      "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.streamer.ios\n\n Downloads: 2081\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1691866226.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16998256329753326.webp",
+        "https://apps.nabzclan.vip/screenshots/16998256336001279.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.41",
+          "date": "2024-12-25 15:56:48",
+          "localizedDescription": "Current of Streamer iOS - 1.2.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
+          "size": 34728837
+        },
+        {
+          "version": "1.2.23",
+          "date": "2023-08-12 18:50:26",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.23",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/156",
+          "size": 19576913
+        },
+        {
+          "version": "1.2.24",
+          "date": "2023-08-22 16:03:29",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.24",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/173",
+          "size": 19639828
+        },
+        {
+          "version": "1.2.25",
+          "date": "2023-10-21 03:42:54",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.25",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/269",
+          "size": 19870515
+        },
+        {
+          "version": "1.2.28",
+          "date": "2023-11-12 21:18:45",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.28",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/280",
+          "size": 21925724
+        },
+        {
+          "version": "1.2.29",
+          "date": "2023-11-21 04:25:17",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.29",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/315",
+          "size": 23802675
+        },
+        {
+          "version": "1.2.41",
+          "date": "2024-12-20 18:13:53",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1120",
+          "size": 37601935
+        },
+        {
+          "version": "1.2.41",
+          "date": "2024-12-25 15:56:48",
+          "localizedDescription": "Old Version of Streamer iOS - 1.2.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
+          "size": 34728837
+        }
+      ],
+      "version": "1.2.41",
+      "versionDate": "2024-12-25 15:56:48",
+      "versionDescription": "App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies\r\nthe iOS app has some ads to support the development and the tvOS app is ad-free.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1129",
+      "formatedsize": "33.12 MB",
+      "size": 34728837
+    },
+    {
+      "name": "Retro City Rampage DX",
+      "bundleIdentifier": "Vblank.Retro-City-Rampage-DX--iOS-",
+      "developerName": "Vblank Entertainment Inc.",
+      "subtitle": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol",
+      "localizedDescription": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: Vblank.Retro-City-Rampage-DX--iOS-\n\n Downloads: 104\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1735159633.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17351596337323764071.webp",
+        "https://apps.nabzclan.vip/screenshots/17351596337894704747.webp",
+        "https://apps.nabzclan.vip/screenshots/17351596338222142284.webp",
+        "https://apps.nabzclan.vip/screenshots/17351596338646032888.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1.1",
+          "date": "2024-12-25 15:47:14",
+          "localizedDescription": "Current of Retro City Rampage DX - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
+          "size": 10726932
+        },
+        {
+          "version": "2.1.1",
+          "date": "2024-12-25 15:47:14",
+          "localizedDescription": "Old Version of Retro City Rampage DX - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
+          "size": 10726932
+        }
+      ],
+      "version": "2.1.1",
+      "versionDate": "2024-12-25 15:47:14",
+      "versionDescription": "Retro City Rampage reimagines the open world crime genre in the \u201880s! Rampage the city, steal cars, or play over 60 story mode missions!\r\n\r\nIt features both a Story Mode filled with open world missions, and Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.\r\n\r\n\r\n\u2022 Universal App \r\n\u2022 Supports MFi Controllers \r\n\u2022 English, Fran\u00e7ais, Italiano, Deutsch, Espa\u00f1ol",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1127",
+      "formatedsize": "10.23 MB",
+      "size": 10726932
+    },
+    {
+      "name": "Seekers Notes: Hidden Objects (Hack)",
+      "bundleIdentifier": "com.mytona.seekersnotes.mysteriesofdarkwood",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.mytona.seekersnotes.mysteriesofdarkwood\n\n Downloads: 44\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1738795338.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17342184220036965924.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184221077895275.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184224783705445.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184225858362822.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184226843870330.webp",
+        "https://apps.nabzclan.vip/screenshots/17342184230878576716.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.57.0",
+          "date": "2024-12-25 14:57:39",
+          "localizedDescription": "Current of Seekers Notes: Hidden Objects (Hack) - 2.57.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1122",
+          "size": 623273574
+        },
+        {
+          "version": "2.57.0",
+          "date": "2024-12-25 14:57:39",
+          "localizedDescription": "Old Version of Seekers Notes: Hidden Objects (Hack) - 2.57.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1122",
+          "size": 623273574
+        }
+      ],
+      "version": "2.57.0",
+      "versionDate": "2024-12-25 14:57:39",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1122",
+      "formatedsize": "594.4 MB",
+      "size": 623273574
+    },
+    {
+      "name": "APTV (Cracked)",
+      "bundleIdentifier": "com.kimen.aptvpro",
+      "developerName": "\u5a77 \u5218",
+      "subtitle": "Features:\r\nCracked Pro",
+      "localizedDescription": "Features:\r\nCracked Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.kimen.aptvpro\n\n Downloads: 1182\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1727447246.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17274472427046761670.webp",
+        "https://apps.nabzclan.vip/screenshots/17274472444582420951.webp",
+        "https://apps.nabzclan.vip/screenshots/17274472447669730756.webp",
+        "https://apps.nabzclan.vip/screenshots/17274472467247848805.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "9.3.15",
+          "date": "2024-12-20 18:17:41",
+          "localizedDescription": "Current of APTV (Cracked) - 9.3.15",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1121",
+          "size": 59926118
+        },
+        {
+          "version": "1.3.2",
+          "date": "2024-09-27 18:27:26",
+          "localizedDescription": "Old Version of APTV (Cracked) - 1.3.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/690",
+          "size": 37444648
+        },
+        {
+          "version": "9.3.15",
+          "date": "2024-12-20 18:17:41",
+          "localizedDescription": "Old Version of APTV (Cracked) - 9.3.15",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1121",
+          "size": 59926118
+        }
+      ],
+      "version": "9.3.15",
+      "versionDate": "2024-12-20 18:17:41",
+      "versionDescription": "Features:\r\nCracked Pro",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1121",
+      "formatedsize": "57.15 MB",
+      "size": 59926118
+    },
+    {
+      "name": "Grand Theft Auto: San Andreas",
+      "bundleIdentifier": "com.rockstargames.gta3sa",
+      "developerName": "Rockstar Games",
+      "subtitle": "***PLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.***",
+      "localizedDescription": "***PLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.***\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.rockstargames.gta3sa\n\n Downloads: 5981\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1730894326.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17308943255053195099.webp",
+        "https://apps.nabzclan.vip/screenshots/17308943256961223953.webp",
+        "https://apps.nabzclan.vip/screenshots/17308943258901384909.webp",
+        "https://apps.nabzclan.vip/screenshots/17308943260453112884.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.2.20",
+          "date": "2024-12-20 17:44:40",
+          "localizedDescription": "Current of Grand Theft Auto: San Andreas - 2.2.20",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
+          "size": 2104533975
+        },
+        {
+          "version": "2.2.18",
+          "date": "2024-11-06 11:58:46",
+          "localizedDescription": "Old Version of Grand Theft Auto: San Andreas - 2.2.18",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/897",
+          "size": 2115271393
+        },
+        {
+          "version": "2.2.19",
+          "date": "2024-11-28 03:00:37",
+          "localizedDescription": "Old Version of Grand Theft Auto: San Andreas - 2.2.19",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1047",
+          "size": 2115271393
+        },
+        {
+          "version": "2.2.20",
+          "date": "2024-12-20 17:44:40",
+          "localizedDescription": "Old Version of Grand Theft Auto: San Andreas - 2.2.20",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
+          "size": 2104533975
+        }
+      ],
+      "version": "2.2.20",
+      "versionDate": "2024-12-20 17:44:40",
+      "versionDescription": "***PLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.***",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
+      "formatedsize": "1.96 GB",
+      "size": 2104533975
     }
   ],
   "userInfo": {}
