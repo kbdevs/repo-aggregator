@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Messenger",
+      "type": 1,
+      "bundleID": "com.facebook.Messenger",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "version": "544.0.0",
+      "versionDate": "2026-01-14",
+      "fullDate": "20260114003853",
+      "size": 66725978,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-01-2026/Messenger_544.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-01-2026/Messenger_544.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png"
+    },
+    {
+      "name": "Photoshop",
+      "type": 1,
+      "bundleID": "com.adobe.photoshop.ios",
+      "bundleIdentifier": "com.adobe.photoshop.ios",
+      "version": "7.3",
+      "versionDate": "2026-01-13",
+      "fullDate": "20260113220758",
+      "size": 275501761,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/Photoshop_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/Photoshop_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png"
+    },
+    {
       "name": "Rest",
       "type": 1,
       "bundleID": "com.evolve.helm",
@@ -1730,38 +1762,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MemoryCircle.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MemoryCircle.png"
-    },
-    {
-      "name": "Evoday",
-      "type": 1,
-      "bundleID": "com.kevinquisquater.Habits",
-      "bundleIdentifier": "com.kevinquisquater.Habits",
-      "version": "2025.19",
-      "versionDate": "2025-12-30",
-      "fullDate": "20251230193741",
-      "size": 25352630,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Evoday_2025.19_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Evoday_2025.19_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png"
-    },
-    {
-      "name": "Bazaart",
-      "type": 1,
-      "bundleID": "co.bazaart.app",
-      "bundleIdentifier": "co.bazaart.app",
-      "version": "26.0.8",
-      "versionDate": "2025-12-30",
-      "fullDate": "20251230171722",
-      "size": 98380584,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Bazaart_26.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Bazaart_26.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
     }
   ],
   "userInfo": {}

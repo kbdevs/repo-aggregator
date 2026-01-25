@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Evoday",
+      "type": 1,
+      "bundleID": "com.kevinquisquater.Habits",
+      "bundleIdentifier": "com.kevinquisquater.Habits",
+      "version": "2025.19",
+      "versionDate": "2025-12-30",
+      "fullDate": "20251230193741",
+      "size": 25352630,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Evoday_2025.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Evoday_2025.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png"
+    },
+    {
+      "name": "Bazaart",
+      "type": 1,
+      "bundleID": "co.bazaart.app",
+      "bundleIdentifier": "co.bazaart.app",
+      "version": "26.0.8",
+      "versionDate": "2025-12-30",
+      "fullDate": "20251230171722",
+      "size": 98380584,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Bazaart_26.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Bazaart_26.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
+    },
+    {
       "name": "Noir",
       "type": 1,
       "bundleID": "nl.jeffreykuiken.NoirApp",
@@ -162,22 +194,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ee.keel24.Lingvist.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ee.keel24.Lingvist.png"
-    },
-    {
-      "name": "MagicEraser",
-      "type": 1,
-      "bundleID": "com.hhp.magicEraser",
-      "bundleIdentifier": "com.hhp.magicEraser",
-      "version": "3.11.0",
-      "versionDate": "2025-12-27",
-      "fullDate": "20251227185828",
-      "size": 244648196,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-12-2025/MagicEraser_3.11.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-12-2025/MagicEraser_3.11.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png"
     },
     {
       "name": "koala",
@@ -1746,22 +1762,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png"
-    },
-    {
-      "name": "Voicepal",
-      "type": 1,
-      "bundleID": "com.choiceapps.recipesfdw",
-      "bundleIdentifier": "com.choiceapps.recipesfdw",
-      "version": "2.2.1",
-      "versionDate": "2025-12-17",
-      "fullDate": "20251217174550",
-      "size": 47002918,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Voicepal_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Voicepal_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png"
     }
   ],
   "userInfo": {}
