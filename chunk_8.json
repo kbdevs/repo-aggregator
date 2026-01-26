@@ -4,6 +4,44 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Fall Guys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "developerName": "Mediatonic, Ltd.",
+      "subtitle": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
+      "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: uk.co.mediatonic.fallguys\n\n Downloads: 924\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1726715135.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17267151431987005.webp",
+        "https://apps.nabzclan.vip/screenshots/17267151445689314.webp",
+        "https://apps.nabzclan.vip/screenshots/17267151447589709.webp",
+        "https://apps.nabzclan.vip/screenshots/17267151449779983.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "11.6.1",
+          "date": "2025-03-19 19:02:56",
+          "localizedDescription": "Current of Fall Guys - 11.6.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
+          "size": 2126008811
+        },
+        {
+          "version": "11.6.1",
+          "date": "2025-03-19 19:02:56",
+          "localizedDescription": "Old Version of Fall Guys - 11.6.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
+          "size": 2126008811
+        }
+      ],
+      "version": "11.6.1",
+      "versionDate": "2025-03-19 19:02:56",
+      "versionDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
+      "formatedsize": "1.98 GB",
+      "size": 2126008811
+    },
+    {
       "name": "GoodMama (Hacked)",
       "bundleIdentifier": "com.mummy.happyMama.ios",
       "developerName": "Nabzclan",
@@ -4556,58 +4594,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1121",
       "formatedsize": "57.15 MB",
       "size": 59926118
-    },
-    {
-      "name": "Grand Theft Auto: San Andreas",
-      "bundleIdentifier": "com.rockstargames.gta3sa",
-      "developerName": "Rockstar Games",
-      "subtitle": "***PLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.***",
-      "localizedDescription": "***PLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.***\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.rockstargames.gta3sa\n\n Downloads: 5981\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730894326.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17308943255053195099.webp",
-        "https://apps.nabzclan.vip/screenshots/17308943256961223953.webp",
-        "https://apps.nabzclan.vip/screenshots/17308943258901384909.webp",
-        "https://apps.nabzclan.vip/screenshots/17308943260453112884.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.2.20",
-          "date": "2024-12-20 17:44:40",
-          "localizedDescription": "Current of Grand Theft Auto: San Andreas - 2.2.20",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
-          "size": 2104533975
-        },
-        {
-          "version": "2.2.18",
-          "date": "2024-11-06 11:58:46",
-          "localizedDescription": "Old Version of Grand Theft Auto: San Andreas - 2.2.18",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/897",
-          "size": 2115271393
-        },
-        {
-          "version": "2.2.19",
-          "date": "2024-11-28 03:00:37",
-          "localizedDescription": "Old Version of Grand Theft Auto: San Andreas - 2.2.19",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1047",
-          "size": 2115271393
-        },
-        {
-          "version": "2.2.20",
-          "date": "2024-12-20 17:44:40",
-          "localizedDescription": "Old Version of Grand Theft Auto: San Andreas - 2.2.20",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
-          "size": 2104533975
-        }
-      ],
-      "version": "2.2.20",
-      "versionDate": "2024-12-20 17:44:40",
-      "versionDescription": "***PLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.***",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
-      "formatedsize": "1.96 GB",
-      "size": 2104533975
     }
   ],
   "userInfo": {}

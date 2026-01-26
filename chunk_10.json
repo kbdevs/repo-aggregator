@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Canary Mail (Hack)",
+      "bundleIdentifier": "Mailroom.Canary-iOS",
+      "developerName": "revand",
+      "subtitle": "Features:\r\n- pro unlocked",
+      "localizedDescription": "Features:\r\n- pro unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: Mailroom.Canary-iOS\n\n Downloads: 423\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1727742513.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17277425113392581351.webp",
+        "https://apps.nabzclan.vip/screenshots/17277425116763484368.webp",
+        "https://apps.nabzclan.vip/screenshots/17277425122207771349.webp",
+        "https://apps.nabzclan.vip/screenshots/17277425124449576922.webp",
+        "https://apps.nabzclan.vip/screenshots/17277425126646190976.webp",
+        "https://apps.nabzclan.vip/screenshots/17277425129809543551.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.64.0",
+          "date": "2024-10-09 16:11:47",
+          "localizedDescription": "Current of Canary Mail (Hack) - 4.64.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/750",
+          "size": 69625446
+        },
+        {
+          "version": "4.63.0",
+          "date": "2024-10-01 04:28:33",
+          "localizedDescription": "Old Version of Canary Mail (Hack) - 4.63.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/703",
+          "size": 64697139
+        },
+        {
+          "version": "4.64.0",
+          "date": "2024-10-09 16:11:47",
+          "localizedDescription": "Old Version of Canary Mail (Hack) - 4.64.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/750",
+          "size": 69625446
+        }
+      ],
+      "version": "4.64.0",
+      "versionDate": "2024-10-09 16:11:47",
+      "versionDescription": "Features:\r\n- pro unlocked",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/750",
+      "formatedsize": "66.4 MB",
+      "size": 69625446
+    },
+    {
       "name": "SnapChat Falcon",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "iCrackIPA",
@@ -4150,17 +4197,6 @@
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
-    },
-    {
-      "name": "onesecpro",
-      "bundleIdentifier": "wtf.riedel.one-sec",
-      "version": "3.10",
-      "versionDate": "2024-10-17",
-      "size": 113179055,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/onesecpro/onesecpro-3.10.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
-      "localizedDescription": "App that helps you taking a deep breath before accessing selected websites or apps (like Twitter, YouTube, Instagram), disrupting immediate social media habits and introducing a deliberate pause to reduce usage over time. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wtf.riedel.one-sec.png"
     }
   ],
   "userInfo": {}

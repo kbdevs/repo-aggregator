@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "womenlose",
+      "type": 1,
+      "bundleID": "com.leapfitness.womenlose",
+      "bundleIdentifier": "com.leapfitness.womenlose",
+      "version": "1.7.3",
+      "versionDate": "2025-09-05",
+      "fullDate": "20250905130743",
+      "size": 261909864,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/womenlose_1.7.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/womenlose_1.7.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.womenlose.png"
+    },
+    {
       "name": "Linkjar",
       "type": 1,
       "bundleID": "ventures.bench.linkjar-ios",
@@ -3056,44 +3072,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1303",
       "formatedsize": "125.7 MB",
       "size": 131806003
-    },
-    {
-      "name": "Fall Guys",
-      "bundleIdentifier": "uk.co.mediatonic.fallguys",
-      "developerName": "Mediatonic, Ltd.",
-      "subtitle": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
-      "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: uk.co.mediatonic.fallguys\n\n Downloads: 924\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726715135.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17267151431987005.webp",
-        "https://apps.nabzclan.vip/screenshots/17267151445689314.webp",
-        "https://apps.nabzclan.vip/screenshots/17267151447589709.webp",
-        "https://apps.nabzclan.vip/screenshots/17267151449779983.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "11.6.1",
-          "date": "2025-03-19 19:02:56",
-          "localizedDescription": "Current of Fall Guys - 11.6.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
-          "size": 2126008811
-        },
-        {
-          "version": "11.6.1",
-          "date": "2025-03-19 19:02:56",
-          "localizedDescription": "Old Version of Fall Guys - 11.6.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
-          "size": 2126008811
-        }
-      ],
-      "version": "11.6.1",
-      "versionDate": "2025-03-19 19:02:56",
-      "versionDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1302",
-      "formatedsize": "1.98 GB",
-      "size": 2126008811
     }
   ],
   "userInfo": {}

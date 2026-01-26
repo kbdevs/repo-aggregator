@@ -4,6 +4,58 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Grand Theft Auto: San Andreas",
+      "bundleIdentifier": "com.rockstargames.gta3sa",
+      "developerName": "Rockstar Games",
+      "subtitle": "***PLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.***",
+      "localizedDescription": "***PLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.***\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.rockstargames.gta3sa\n\n Downloads: 5981\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1730894326.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17308943255053195099.webp",
+        "https://apps.nabzclan.vip/screenshots/17308943256961223953.webp",
+        "https://apps.nabzclan.vip/screenshots/17308943258901384909.webp",
+        "https://apps.nabzclan.vip/screenshots/17308943260453112884.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.2.20",
+          "date": "2024-12-20 17:44:40",
+          "localizedDescription": "Current of Grand Theft Auto: San Andreas - 2.2.20",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
+          "size": 2104533975
+        },
+        {
+          "version": "2.2.18",
+          "date": "2024-11-06 11:58:46",
+          "localizedDescription": "Old Version of Grand Theft Auto: San Andreas - 2.2.18",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/897",
+          "size": 2115271393
+        },
+        {
+          "version": "2.2.19",
+          "date": "2024-11-28 03:00:37",
+          "localizedDescription": "Old Version of Grand Theft Auto: San Andreas - 2.2.19",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1047",
+          "size": 2115271393
+        },
+        {
+          "version": "2.2.20",
+          "date": "2024-12-20 17:44:40",
+          "localizedDescription": "Old Version of Grand Theft Auto: San Andreas - 2.2.20",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
+          "size": 2104533975
+        }
+      ],
+      "version": "2.2.20",
+      "versionDate": "2024-12-20 17:44:40",
+      "versionDescription": "***PLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.***",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1115",
+      "formatedsize": "1.96 GB",
+      "size": 2104533975
+    },
+    {
       "name": "The Greedy Cave",
       "bundleIdentifier": "com.avalon.cave",
       "developerName": "AvalonGames",
@@ -4626,53 +4678,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/751",
       "formatedsize": "95.93 MB",
       "size": 100589895
-    },
-    {
-      "name": "Canary Mail (Hack)",
-      "bundleIdentifier": "Mailroom.Canary-iOS",
-      "developerName": "revand",
-      "subtitle": "Features:\r\n- pro unlocked",
-      "localizedDescription": "Features:\r\n- pro unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: Mailroom.Canary-iOS\n\n Downloads: 423\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1727742513.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17277425113392581351.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425116763484368.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425122207771349.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425124449576922.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425126646190976.webp",
-        "https://apps.nabzclan.vip/screenshots/17277425129809543551.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.64.0",
-          "date": "2024-10-09 16:11:47",
-          "localizedDescription": "Current of Canary Mail (Hack) - 4.64.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/750",
-          "size": 69625446
-        },
-        {
-          "version": "4.63.0",
-          "date": "2024-10-01 04:28:33",
-          "localizedDescription": "Old Version of Canary Mail (Hack) - 4.63.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/703",
-          "size": 64697139
-        },
-        {
-          "version": "4.64.0",
-          "date": "2024-10-09 16:11:47",
-          "localizedDescription": "Old Version of Canary Mail (Hack) - 4.64.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/750",
-          "size": 69625446
-        }
-      ],
-      "version": "4.64.0",
-      "versionDate": "2024-10-09 16:11:47",
-      "versionDescription": "Features:\r\n- pro unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/750",
-      "formatedsize": "66.4 MB",
-      "size": 69625446
     }
   ],
   "userInfo": {}

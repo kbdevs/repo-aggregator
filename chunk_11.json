@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "onesecpro",
+      "bundleIdentifier": "wtf.riedel.one-sec",
+      "version": "3.10",
+      "versionDate": "2024-10-17",
+      "size": 113179055,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/onesecpro/onesecpro-3.10.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
+      "localizedDescription": "App that helps you taking a deep breath before accessing selected websites or apps (like Twitter, YouTube, Instagram), disrupting immediate social media habits and introducing a deliberate pause to reduce usage over time. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wtf.riedel.one-sec.png"
+    },
+    {
       "name": "nPlayerPlus",
       "bundleIdentifier": "com.newin.nplayer",
       "version": "3.12.17",
@@ -1201,17 +1212,6 @@
       "developerName": "Paisseon",
       "localizedDescription": "Injected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.courtois.PerfectIPTVn.png"
-    },
-    {
-      "name": "HomeWorkoutPremium",
-      "bundleIdentifier": "com.abishkking.maleworkout.watchkitapp",
-      "version": "1.23.1",
-      "versionDate": "2024-10-01",
-      "size": 352576899,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HomeWorkoutPremium/HomeWorkoutPremium-1.23.1.ipa",
-      "developerName": "binnichtaktiv's iPA Library / Paisseon",
-      "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.abishkking.maleworkout.watchkitapp.png"
     }
   ],
   "userInfo": {}
