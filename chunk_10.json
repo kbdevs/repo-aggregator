@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Coffee Shop Simulator 3D Cafe (Hacked)",
+      "bundleIdentifier": "com.dmg.coffeeshop.simulator",
+      "developerName": "babyloniPA",
+      "subtitle": "Hack Features :\r\n- Free Store ( Turn on from the menu )\r\n\r\nSteps: \r\nActive free store inside the babylon menu",
+      "localizedDescription": "Hack Features :\r\n- Free Store ( Turn on from the menu )\r\n\r\nSteps: \r\nActive free store inside the babylon menu\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.dmg.coffeeshop.simulator\n\n Downloads: 211\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1728477516.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17284775042497789139.webp",
+        "https://apps.nabzclan.vip/screenshots/17284775056077754786.webp",
+        "https://apps.nabzclan.vip/screenshots/17284775071945784866.webp",
+        "https://apps.nabzclan.vip/screenshots/17284775095491803553.webp",
+        "https://apps.nabzclan.vip/screenshots/17284775115501986425.webp",
+        "https://apps.nabzclan.vip/screenshots/17284775141201443140.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2024-10-09 16:38:36",
+          "localizedDescription": "Current of Coffee Shop Simulator 3D Cafe (Hacked) - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/751",
+          "size": 100589895
+        },
+        {
+          "version": "1.0.3",
+          "date": "2024-10-09 16:38:36",
+          "localizedDescription": "Old Version of Coffee Shop Simulator 3D Cafe (Hacked) - 1.0.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/751",
+          "size": 100589895
+        }
+      ],
+      "version": "1.0.3",
+      "versionDate": "2024-10-09 16:38:36",
+      "versionDescription": "Hack Features :\r\n- Free Store ( Turn on from the menu )\r\n\r\nSteps: \r\nActive free store inside the babylon menu",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/751",
+      "formatedsize": "95.93 MB",
+      "size": 100589895
+    },
+    {
       "name": "Canary Mail (Hack)",
       "bundleIdentifier": "Mailroom.Canary-iOS",
       "developerName": "revand",
@@ -4186,17 +4226,6 @@
       "developerName": "c22dev",
       "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
-    },
-    {
-      "name": "TrollSpeed",
-      "bundleIdentifier": "ch.xxtou.hudapp",
-      "version": "1.12.1.",
-      "versionDate": "2024-11-14",
-      "size": 162585,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
-      "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "PackRepeat",
+      "type": 1,
+      "bundleID": "com.pixby.PackRepeat",
+      "bundleIdentifier": "com.pixby.PackRepeat",
+      "version": "2.1.1",
+      "versionDate": "2025-11-16",
+      "fullDate": "20251116053911",
+      "size": 11971115,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2025/PackRepeat_2.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2025/PackRepeat_2.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixby.PackRepeat.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixby.PackRepeat.png"
+    },
+    {
       "name": "GameMapsIRL",
       "type": 1,
       "bundleID": "com.retryapps.game.maps.irl",
@@ -1746,22 +1762,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png"
-    },
-    {
-      "name": "Melodia",
-      "type": 1,
-      "bundleID": "co.appnation.aimusic",
-      "bundleIdentifier": "co.appnation.aimusic",
-      "version": "3.1.1",
-      "versionDate": "2025-09-05",
-      "fullDate": "20250905153427",
-      "size": 75727079,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/Melodia_3.1.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/Melodia_3.1.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.aimusic.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.aimusic.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "TrollSpeed",
+      "bundleIdentifier": "ch.xxtou.hudapp",
+      "version": "1.12.1.",
+      "versionDate": "2024-11-14",
+      "size": 162585,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
+      "developerName": "Lessica",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
+    },
+    {
       "name": "onesecpro",
       "bundleIdentifier": "wtf.riedel.one-sec",
       "version": "3.10",
@@ -728,17 +739,6 @@
       "developerName": "iApps",
       "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png"
-    },
-    {
-      "name": "Paste",
-      "bundleIdentifier": "com.wiheads.paste",
-      "version": "4.0.1",
-      "versionDate": "2024-10-11",
-      "size": 56774818,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Paste/Paste-4.0.1.ipa",
-      "developerName": "MacKed",
-      "localizedDescription": "App that serves as a clipboard manager and presents a potential alternative to Copylog. Although the cracked version is a bit outdated, it still works pretty well. Note: Begin by installing it from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version.\nLast updated: 07-18-2024\nStatus: \u26a0\ufe0f \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wiheads.paste.png"
     },
     {
       "name": "Paperback",

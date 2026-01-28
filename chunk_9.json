@@ -4,6 +4,51 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "APTV (Cracked)",
+      "bundleIdentifier": "com.kimen.aptvpro",
+      "developerName": "\u5a77 \u5218",
+      "subtitle": "Features:\r\nCracked Pro",
+      "localizedDescription": "Features:\r\nCracked Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.kimen.aptvpro\n\n Downloads: 1182\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1727447246.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17274472427046761670.webp",
+        "https://apps.nabzclan.vip/screenshots/17274472444582420951.webp",
+        "https://apps.nabzclan.vip/screenshots/17274472447669730756.webp",
+        "https://apps.nabzclan.vip/screenshots/17274472467247848805.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "9.3.15",
+          "date": "2024-12-20 18:17:41",
+          "localizedDescription": "Current of APTV (Cracked) - 9.3.15",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1121",
+          "size": 59926118
+        },
+        {
+          "version": "1.3.2",
+          "date": "2024-09-27 18:27:26",
+          "localizedDescription": "Old Version of APTV (Cracked) - 1.3.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/690",
+          "size": 37444648
+        },
+        {
+          "version": "9.3.15",
+          "date": "2024-12-20 18:17:41",
+          "localizedDescription": "Old Version of APTV (Cracked) - 9.3.15",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1121",
+          "size": 59926118
+        }
+      ],
+      "version": "9.3.15",
+      "versionDate": "2024-12-20 18:17:41",
+      "versionDescription": "Features:\r\nCracked Pro",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1121",
+      "formatedsize": "57.15 MB",
+      "size": 59926118
+    },
+    {
       "name": "Grand Theft Auto: San Andreas",
       "bundleIdentifier": "com.rockstargames.gta3sa",
       "developerName": "Rockstar Games",
@@ -4638,46 +4683,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/752",
       "formatedsize": "109.8 MB",
       "size": 115133644
-    },
-    {
-      "name": "Coffee Shop Simulator 3D Cafe (Hacked)",
-      "bundleIdentifier": "com.dmg.coffeeshop.simulator",
-      "developerName": "babyloniPA",
-      "subtitle": "Hack Features :\r\n- Free Store ( Turn on from the menu )\r\n\r\nSteps: \r\nActive free store inside the babylon menu",
-      "localizedDescription": "Hack Features :\r\n- Free Store ( Turn on from the menu )\r\n\r\nSteps: \r\nActive free store inside the babylon menu\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.dmg.coffeeshop.simulator\n\n Downloads: 211\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1728477516.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17284775042497789139.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775056077754786.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775071945784866.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775095491803553.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775115501986425.webp",
-        "https://apps.nabzclan.vip/screenshots/17284775141201443140.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.3",
-          "date": "2024-10-09 16:38:36",
-          "localizedDescription": "Current of Coffee Shop Simulator 3D Cafe (Hacked) - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/751",
-          "size": 100589895
-        },
-        {
-          "version": "1.0.3",
-          "date": "2024-10-09 16:38:36",
-          "localizedDescription": "Old Version of Coffee Shop Simulator 3D Cafe (Hacked) - 1.0.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/751",
-          "size": 100589895
-        }
-      ],
-      "version": "1.0.3",
-      "versionDate": "2024-10-09 16:38:36",
-      "versionDescription": "Hack Features :\r\n- Free Store ( Turn on from the menu )\r\n\r\nSteps: \r\nActive free store inside the babylon menu",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/751",
-      "formatedsize": "95.93 MB",
-      "size": 100589895
     }
   ],
   "userInfo": {}
