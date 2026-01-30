@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "TRApp",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "version": "2.7-422.",
+      "versionDate": "2024-11-14",
+      "size": 4877044,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TRApp-2.7-422.tipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+    },
+    {
+      "name": "TrollBox",
+      "bundleIdentifier": "live.cclerc.trollbox",
+      "version": "0.2.",
+      "versionDate": "2024-11-14",
+      "size": 26633972,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollBox-0.2.tipa",
+      "developerName": "c22dev",
+      "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
+    },
+    {
       "name": "TrollSpeed",
       "bundleIdentifier": "ch.xxtou.hudapp",
       "version": "1.12.1.",
@@ -1190,28 +1212,6 @@
       "developerName": "DPixel",
       "localizedDescription": "Reverse Image Search App, cracked for pro features. Click Pro at the top right, then the purchase button.\nLast updated: 08-12-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ipopapp.imagesearchfree.png"
-    },
-    {
-      "name": "Ignited",
-      "bundleIdentifier": "com.litritt.ignited",
-      "version": "1.10",
-      "versionDate": "2024-10-01",
-      "size": 35402158,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Ignited/Ignited-1.10.ipa",
-      "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 03-29-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
-    },
-    {
-      "name": "IPTVPro",
-      "bundleIdentifier": "com.courtois.PerfectIPTVn",
-      "version": "2.7",
-      "versionDate": "2024-10-01",
-      "size": 19553102,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/IPTVPro/IPTVPro-2.7.ipa",
-      "developerName": "Paisseon",
-      "localizedDescription": "Injected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.courtois.PerfectIPTVn.png"
     }
   ],
   "userInfo": {}
