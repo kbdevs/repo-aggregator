@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "LearnArt",
+      "type": 1,
+      "bundleID": "com.art.artbook",
+      "bundleIdentifier": "com.art.artbook",
+      "version": "1.2.49",
+      "versionDate": "2025-11-16",
+      "fullDate": "20251116054423",
+      "size": 28763297,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2025/LearnArt_1.2.49_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2025/LearnArt_1.2.49_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.art.artbook.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.art.artbook.png"
+    },
+    {
       "name": "Zest",
       "type": 1,
       "bundleID": "co.zestapp.mobile",
@@ -914,22 +930,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png"
-    },
-    {
-      "name": "Picsew",
-      "type": 1,
-      "bundleID": "com.sugarmo.ScrollClip",
-      "bundleIdentifier": "com.sugarmo.ScrollClip",
-      "version": "3.15",
-      "versionDate": "2025-10-20",
-      "fullDate": "20251020203936",
-      "size": 38323189,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-10-2025/Picsew_3.15_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-10-2025/Picsew_3.15_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png"
     },
     {
       "name": "Yana",
