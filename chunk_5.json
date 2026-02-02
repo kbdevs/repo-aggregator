@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "CHANI",
+      "type": 1,
+      "bundleID": "com.chaninicholas.chaniapp",
+      "bundleIdentifier": "com.chaninicholas.chaniapp",
+      "version": "2.7.0",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219045749",
+      "size": 37695669,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/CHANI_2.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/CHANI_2.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png"
+    },
+    {
       "name": "30DayFitness",
       "type": 1,
       "bundleID": "com.vigorapps.30DayFitness",
@@ -1298,22 +1314,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magicv.AirBrush.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magicv.AirBrush.png"
-    },
-    {
-      "name": "Benky",
-      "type": 1,
-      "bundleID": "app.benkyo.Benkyo",
-      "bundleIdentifier": "app.benkyo.Benkyo",
-      "version": "2.5.1",
-      "versionDate": "2025-11-28",
-      "fullDate": "20251128060037",
-      "size": 109855952,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2025/Benky_2.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2025/Benky_2.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png"
     },
     {
       "name": "AITattoo",

@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "FB",
+      "type": 1,
+      "bundleID": "com.vgfit.fitnessvip",
+      "bundleIdentifier": "com.vgfit.fitnessvip",
+      "version": "1.11.0",
+      "versionDate": "2026-01-04",
+      "fullDate": "20260104164719",
+      "size": 22935482,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/FB_1.11.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/FB_1.11.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png"
+    },
+    {
+      "name": "Shapy",
+      "type": 1,
+      "bundleID": "com.blake.femalefitness",
+      "bundleIdentifier": "com.blake.femalefitness",
+      "version": "10.5.0",
+      "versionDate": "2026-01-04",
+      "fullDate": "20260104152208",
+      "size": 41071423,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/Shapy_10.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/Shapy_10.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png"
+    },
+    {
       "name": "SleepMonitor",
       "type": 1,
       "bundleID": "com.sleepmonitor.aio",
@@ -1268,22 +1300,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png"
     },
     {
-      "name": "MetadataEditor",
-      "type": 1,
-      "bundleID": "com.andrespizabuckmann.MetadataEditor",
-      "bundleIdentifier": "com.andrespizabuckmann.MetadataEditor",
-      "version": "3.2.0",
-      "versionDate": "2025-12-23",
-      "fullDate": "20251223063125",
-      "size": 50756811,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/MetadataEditor_3.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/MetadataEditor_3.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png"
-    },
-    {
       "name": "PowerThesaurus",
       "type": 1,
       "bundleID": "org.powerthesaurus.powerthesaurus",
@@ -1746,22 +1762,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png"
-    },
-    {
-      "name": "CHANI",
-      "type": 1,
-      "bundleID": "com.chaninicholas.chaniapp",
-      "bundleIdentifier": "com.chaninicholas.chaniapp",
-      "version": "2.7.0",
-      "versionDate": "2025-12-19",
-      "fullDate": "20251219045749",
-      "size": 37695669,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/CHANI_2.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/CHANI_2.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png"
     }
   ],
   "userInfo": {}
