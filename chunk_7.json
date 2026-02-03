@@ -4,6 +4,134 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "TideGuide",
+      "type": 1,
+      "bundleID": "com.condor.digital.Tide-Over",
+      "bundleIdentifier": "com.condor.digital.Tide-Over",
+      "version": "7.0.3",
+      "versionDate": "2025-09-24",
+      "fullDate": "20250924041339",
+      "size": 145243390,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/TideGuide_7.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/TideGuide_7.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png"
+    },
+    {
+      "name": "Obscura",
+      "type": 1,
+      "bundleID": "com.benricemccarthy.obscura-3",
+      "bundleIdentifier": "com.benricemccarthy.obscura-3",
+      "version": "2025.9",
+      "versionDate": "2025-09-24",
+      "fullDate": "20250924041336",
+      "size": 78616062,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Obscura_2025.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Obscura_2025.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benricemccarthy.obscura-3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benricemccarthy.obscura-3.png"
+    },
+    {
+      "name": "ByePhotos",
+      "type": 1,
+      "bundleID": "com.panicbyte.byephotos",
+      "bundleIdentifier": "com.panicbyte.byephotos",
+      "version": "1.15.1",
+      "versionDate": "2025-09-24",
+      "fullDate": "20250924041333",
+      "size": 31508495,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/ByePhotos_1.15.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/ByePhotos_1.15.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.panicbyte.byephotos.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.panicbyte.byephotos.png"
+    },
+    {
+      "name": "BXNG",
+      "type": 1,
+      "bundleID": "com.app.BXNGApp",
+      "bundleIdentifier": "com.app.BXNGApp",
+      "version": "1.50",
+      "versionDate": "2025-09-14",
+      "fullDate": "20250914163319",
+      "size": 17455404,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2025/BXNG_1.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2025/BXNG_1.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.BXNGApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.BXNGApp.png"
+    },
+    {
+      "name": "FishingPoints",
+      "type": 1,
+      "bundleID": "com.gregacucnik.FishingPoints",
+      "bundleIdentifier": "com.gregacucnik.FishingPoints",
+      "version": "3.0.2",
+      "versionDate": "2025-09-13",
+      "fullDate": "20250913181542",
+      "size": 106000858,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2025/FishingPoints_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2025/FishingPoints_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gregacucnik.FishingPoints.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gregacucnik.FishingPoints.png"
+    },
+    {
+      "name": "SocialStats",
+      "type": 1,
+      "bundleID": "com.innovativedigitaltechnologies.FollowersWidget",
+      "bundleIdentifier": "com.innovativedigitaltechnologies.FollowersWidget",
+      "version": "4.0.0",
+      "versionDate": "2025-09-12",
+      "fullDate": "20250912062041",
+      "size": 23306867,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2025/SocialStats_4.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2025/SocialStats_4.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innovativedigitaltechnologies.FollowersWidget.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innovativedigitaltechnologies.FollowersWidget.png"
+    },
+    {
+      "name": "Compress",
+      "type": 1,
+      "bundleID": "com.newmarketinglab.ImageCompressor",
+      "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
+      "version": "3.3",
+      "versionDate": "2025-09-11",
+      "fullDate": "20250911201552",
+      "size": 4518272,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2025/Compress_3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2025/Compress_3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png"
+    },
+    {
+      "name": "Pixomatic",
+      "type": 1,
+      "bundleID": "us.pixomaticpro.PixomaticPro",
+      "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
+      "version": "2.55.35",
+      "versionDate": "2025-09-10",
+      "fullDate": "20250910173243",
+      "size": 175613606,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2025/Pixomatic_2.55.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2025/Pixomatic_2.55.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png"
+    },
+    {
       "name": "AIDA64",
       "type": 1,
       "bundleID": "com.finalwire.aida64",
@@ -2654,331 +2782,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/870",
       "formatedsize": "116.8 MB",
       "size": 122473676
-    },
-    {
-      "name": "Pizza Ready (Hack)",
-      "bundleIdentifier": "io.supercent.pizzaidle",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: io.supercent.pizzaidle\n\n Downloads: 424\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1726695918.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17266959171648836742.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959174874048556.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959177005485692.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959179007696069.webp",
-        "https://apps.nabzclan.vip/screenshots/17266959180565019833.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "24.0.0",
-          "date": "2025-03-29 17:52:09",
-          "localizedDescription": "Current of Pizza Ready (Hack) - 24.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-          "size": 182452224
-        },
-        {
-          "version": "24.0.0",
-          "date": "2025-03-29 17:52:09",
-          "localizedDescription": "Old Version of Pizza Ready (Hack) - 24.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-          "size": 182452224
-        }
-      ],
-      "version": "24.0.0",
-      "versionDate": "2025-03-29 17:52:09",
-      "versionDescription": "Hack Features:-\r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1320",
-      "formatedsize": "174.0 MB",
-      "size": 182452224
-    },
-    {
-      "name": "Silly Walks (Hack)",
-      "bundleIdentifier": "com.parttimemonkey.sillywalks",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.parttimemonkey.sillywalks\n\n Downloads: 54\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1734217867.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342178654654191234.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178656067312358.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178664341639979.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178665444955388.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178669698867982.webp",
-        "https://apps.nabzclan.vip/screenshots/17342178674028020042.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.2",
-          "date": "2025-03-29 17:49:05",
-          "localizedDescription": "Current of Silly Walks (Hack) - 1.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-          "size": 67066920
-        },
-        {
-          "version": "1.2.2",
-          "date": "2025-03-29 17:49:05",
-          "localizedDescription": "Old Version of Silly Walks (Hack) - 1.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-          "size": 67066920
-        }
-      ],
-      "version": "1.2.2",
-      "versionDate": "2025-03-29 17:49:05",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1319",
-      "formatedsize": "63.96 MB",
-      "size": 67066920
-    },
-    {
-      "name": "PrettyUp- AI Body Editor Video (Hack)",
-      "bundleIdentifier": "com.floatcamellia.prettyup",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: com.floatcamellia.prettyup\n\n Downloads: 492\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730904925.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309049221976915720.webp",
-        "https://apps.nabzclan.vip/screenshots/17309049223562108653.webp",
-        "https://apps.nabzclan.vip/screenshots/17309049225429179572.webp",
-        "https://apps.nabzclan.vip/screenshots/17309049229696364259.webp",
-        "https://apps.nabzclan.vip/screenshots/17309049231178176577.webp",
-        "https://apps.nabzclan.vip/screenshots/17309049246966296798.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "8.3.01",
-          "date": "2025-03-29 17:46:08",
-          "localizedDescription": "Current of PrettyUp- AI Body Editor Video (Hack) - 8.3.01",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1318",
-          "size": 294335283
-        },
-        {
-          "version": "8.3.01",
-          "date": "2025-03-29 17:46:08",
-          "localizedDescription": "Old Version of PrettyUp- AI Body Editor Video (Hack) - 8.3.01",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1318",
-          "size": 294335283
-        }
-      ],
-      "version": "8.3.01",
-      "versionDate": "2025-03-29 17:46:08",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1318",
-      "formatedsize": "280.7 MB",
-      "size": 294335283
-    },
-    {
-      "name": "Call of Duty: Mobile (Hacked) (VNG)",
-      "bundleIdentifier": "vn.vng.codmvn",
-      "developerName": "Bando",
-      "subtitle": "Youtube Video: https://youtu.be/RG1rQrrMS_c\r\n\r\nHack Features:\r\n- wallhacks\r\n- speed\r\n- fast scope \r\n-hitbox\r\n- player speed when sliding\r\n- no flashbang \r\n- no muzzle flash hit box small dot\r\n- infinite shooting infinite clip \r\n- no reload\r\n- anti flash\r\n- increased aim assist\r\n- UAV multiplayer \r\n- always knife\r\n- free climb\r\n- no recoil\r\n- spread bullets\r\n- small dot crosshair\r\n- fast swimming\r\n- fast parachute\r\nand more",
-      "localizedDescription": "Youtube Video: https://youtu.be/RG1rQrrMS_c\r\n\r\nHack Features:\r\n- wallhacks\r\n- speed\r\n- fast scope \r\n-hitbox\r\n- player speed when sliding\r\n- no flashbang \r\n- no muzzle flash hit box small dot\r\n- infinite shooting infinite clip \r\n- no reload\r\n- anti flash\r\n- increased aim assist\r\n- UAV multiplayer \r\n- always knife\r\n- free climb\r\n- no recoil\r\n- spread bullets\r\n- small dot crosshair\r\n- fast swimming\r\n- fast parachute\r\nand more\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: vn.vng.codmvn\n\n Downloads: 4485\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1742507745.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17425077445068165924.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077448485575734.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077449695708545.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077450123465014.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077450479923858.webp",
-        "https://apps.nabzclan.vip/screenshots/17425077451536622191.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.50",
-          "date": "2025-03-24 21:58:10",
-          "localizedDescription": "Current of Call of Duty: Mobile (Hacked) (VNG) - 1.8.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1317",
-          "size": 2619930050
-        },
-        {
-          "version": "1.8.49",
-          "date": "2025-03-20 17:55:45",
-          "localizedDescription": "Old Version of Call of Duty: Mobile (Hacked) (VNG) - 1.8.49",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1304",
-          "size": 2244120412
-        },
-        {
-          "version": "1.8.50",
-          "date": "2025-03-24 21:58:10",
-          "localizedDescription": "Old Version of Call of Duty: Mobile (Hacked) (VNG) - 1.8.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1317",
-          "size": 2619930050
-        }
-      ],
-      "version": "1.8.50",
-      "versionDate": "2025-03-24 21:58:10",
-      "versionDescription": "Youtube Video: https://youtu.be/RG1rQrrMS_c\r\n\r\nHack Features:\r\n- wallhacks\r\n- speed\r\n- fast scope \r\n-hitbox\r\n- player speed when sliding\r\n- no flashbang \r\n- no muzzle flash hit box small dot\r\n- infinite shooting infinite clip \r\n- no reload\r\n- anti flash\r\n- increased aim assist\r\n- UAV multiplayer \r\n- always knife\r\n- free climb\r\n- no recoil\r\n- spread bullets\r\n- small dot crosshair\r\n- fast swimming\r\n- fast parachute\r\nand more",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1317",
-      "formatedsize": "2.44 GB",
-      "size": 2619930050
-    },
-    {
-      "name": "ProKnockOut-Cut Paste Photos (Hacked)",
-      "bundleIdentifier": "com.loveyouchenapps.knockout",
-      "developerName": "heiheipay",
-      "subtitle": "Features:\r\n- Cracked premium",
-      "localizedDescription": "Features:\r\n- Cracked premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.loveyouchenapps.knockout\n\n Downloads: 179\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742864834.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17428648327366478746.webp",
-        "https://apps.nabzclan.vip/screenshots/17428648329256468561.webp",
-        "https://apps.nabzclan.vip/screenshots/17428648331025752833.webp",
-        "https://apps.nabzclan.vip/screenshots/17428648332536567181.webp",
-        "https://apps.nabzclan.vip/screenshots/17428648334464856366.webp",
-        "https://apps.nabzclan.vip/screenshots/17428648335797762303.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "7.72",
-          "date": "2025-03-24 21:07:14",
-          "localizedDescription": "Current of ProKnockOut-Cut Paste Photos (Hacked) - 7.72",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1315",
-          "size": 151519232
-        },
-        {
-          "version": "7.72",
-          "date": "2025-03-24 21:07:14",
-          "localizedDescription": "Old Version of ProKnockOut-Cut Paste Photos (Hacked) - 7.72",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1315",
-          "size": 151519232
-        }
-      ],
-      "version": "7.72",
-      "versionDate": "2025-03-24 21:07:14",
-      "versionDescription": "Features:\r\n- Cracked premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1315",
-      "formatedsize": "144.5 MB",
-      "size": 151519232
-    },
-    {
-      "name": "112 Operator",
-      "bundleIdentifier": "com.jutsugames.operator112m",
-      "developerName": "Games Operators",
-      "subtitle": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!",
-      "localizedDescription": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.jutsugames.operator112m\n\n Downloads: 231\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742864438.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17428644379304383569.webp",
-        "https://apps.nabzclan.vip/screenshots/17428644380873605385.webp",
-        "https://apps.nabzclan.vip/screenshots/17428644382219669001.webp",
-        "https://apps.nabzclan.vip/screenshots/17428644383572790376.webp",
-        "https://apps.nabzclan.vip/screenshots/17428644385272344747.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.1",
-          "date": "2025-03-24 21:00:38",
-          "localizedDescription": "Current of 112 Operator - 1.5.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1314",
-          "size": 652633702
-        },
-        {
-          "version": "1.5.1",
-          "date": "2025-03-24 21:00:38",
-          "localizedDescription": "Old Version of 112 Operator - 1.5.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1314",
-          "size": 652633702
-        }
-      ],
-      "version": "1.5.1",
-      "versionDate": "2025-03-24 21:00:38",
-      "versionDescription": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1314",
-      "formatedsize": "622.4 MB",
-      "size": 652633702
-    },
-    {
-      "name": "Happy Printer (Hacked)",
-      "bundleIdentifier": "com.happyprinter.game",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.happyprinter.game\n\n Downloads: 85\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1742864177.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17428641745223488711.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641746039923022.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641747385629083.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641747994821266.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641757518093569.webp",
-        "https://apps.nabzclan.vip/screenshots/17428641758209454014.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.6.7",
-          "date": "2025-03-24 20:56:17",
-          "localizedDescription": "Current of Happy Printer (Hacked) - 4.6.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1313",
-          "size": 122893107
-        },
-        {
-          "version": "4.6.7",
-          "date": "2025-03-24 20:56:17",
-          "localizedDescription": "Old Version of Happy Printer (Hacked) - 4.6.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1313",
-          "size": 122893107
-        }
-      ],
-      "version": "4.6.7",
-      "versionDate": "2025-03-24 20:56:17",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1313",
-      "formatedsize": "117.2 MB",
-      "size": 122893107
-    },
-    {
-      "name": "Aerofly FS Global",
-      "bundleIdentifier": "com.aerofly.aerofly-fs-g1-ios",
-      "developerName": "IPACS",
-      "subtitle": "Aerofly FS Global is a highly realistic Flight Simulator in PC-quality for your mobile device for beginner and professional flight sim pilots. Explore the world of flying with extremely detailed and accurately simulated airliners, fully interactive 3D cockpits and realistic aircraft systems. Fly with complex airliners, helicopters, business jets, fighter jets and warbirds, general aviation aircraft, aerobatic stuntplanes and gliders across the photorealistic landscape.\r\n\r\nIMPORTANT NOTE: The level of graphics details depends on your device performance and memory.",
-      "localizedDescription": "Aerofly FS Global is a highly realistic Flight Simulator in PC-quality for your mobile device for beginner and professional flight sim pilots. Explore the world of flying with extremely detailed and accurately simulated airliners, fully interactive 3D cockpits and realistic aircraft systems. Fly with complex airliners, helicopters, business jets, fighter jets and warbirds, general aviation aircraft, aerobatic stuntplanes and gliders across the photorealistic landscape.\r\n\r\nIMPORTANT NOTE: The level of graphics details depends on your device performance and memory.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.aerofly.aerofly-fs-g1-ios\n\n Downloads: 706\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1742580682.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17425806811606553328.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806813059709531.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806815373441004.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806817662403976.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806819295065104.webp",
-        "https://apps.nabzclan.vip/screenshots/17425806820683932677.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.15",
-          "date": "2025-03-21 14:11:22",
-          "localizedDescription": "Current of Aerofly FS Global - 1.4.15",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1311",
-          "size": 2523293286
-        },
-        {
-          "version": "1.4.15",
-          "date": "2025-03-21 14:11:22",
-          "localizedDescription": "Old Version of Aerofly FS Global - 1.4.15",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1311",
-          "size": 2523293286
-        }
-      ],
-      "version": "1.4.15",
-      "versionDate": "2025-03-21 14:11:22",
-      "versionDescription": "Aerofly FS Global is a highly realistic Flight Simulator in PC-quality for your mobile device for beginner and professional flight sim pilots. Explore the world of flying with extremely detailed and accurately simulated airliners, fully interactive 3D cockpits and realistic aircraft systems. Fly with complex airliners, helicopters, business jets, fighter jets and warbirds, general aviation aircraft, aerobatic stuntplanes and gliders across the photorealistic landscape.\r\n\r\nIMPORTANT NOTE: The level of graphics details depends on your device performance and memory.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1311",
-      "formatedsize": "2.35 GB",
-      "size": 2523293286
     }
   ],
   "userInfo": {}
