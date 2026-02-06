@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "SpeakTranslate",
+      "type": 1,
+      "bundleID": "com.appicfun.translatorfree",
+      "bundleIdentifier": "com.appicfun.translatorfree",
+      "version": "6.0.53",
+      "versionDate": "2025-11-20",
+      "fullDate": "20251120135811",
+      "size": 41312397,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png"
+    },
+    {
       "name": "Hiii",
       "type": 1,
       "bundleID": "com.abighead.Widgets",
@@ -1746,22 +1762,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png"
-    },
-    {
-      "name": "Ornament",
-      "type": 1,
-      "bundleID": "com.ornament.ornament.health",
-      "bundleIdentifier": "com.ornament.ornament.health",
-      "version": "4.0.4",
-      "versionDate": "2025-09-24",
-      "fullDate": "20250924041345",
-      "size": 51496087,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Ornament_4.0.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Ornament_4.0.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ornament.ornament.health.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ornament.ornament.health.png"
     }
   ],
   "userInfo": {}

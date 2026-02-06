@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "HunterAssassin",
+      "type": 2,
+      "bundleID": "com.rubygames.assassin",
+      "bundleIdentifier": "com.rubygames.assassin",
+      "version": "2.033",
+      "versionDate": "2025-12-20",
+      "fullDate": "20251220164321",
+      "size": 139054599,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/HunterAssassin_2.033_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/HunterAssassin_2.033_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rubygames.assassin.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rubygames.assassin.png"
+    },
+    {
+      "name": "DBLEGENDS",
+      "type": 1,
+      "bundleID": "jp.co.bandainamcoent.BNEI0333",
+      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0333",
+      "version": "6.16.0",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219181505",
+      "size": 159912780,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/DBLEGENDS_6.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/DBLEGENDS_6.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0333.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0333.png"
+    },
+    {
+      "name": "ReelMaker",
+      "type": 1,
+      "bundleID": "co.videobakery.ReelsEditor",
+      "bundleIdentifier": "co.videobakery.ReelsEditor",
+      "version": "1.4.14",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219174458",
+      "size": 55801293,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/ReelMaker_1.4.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/ReelMaker_1.4.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.videobakery.ReelsEditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.videobakery.ReelsEditor.png"
+    },
+    {
       "name": "GPTalk",
       "type": 1,
       "bundleID": "labs.mehmet.gptalk",
@@ -1140,22 +1188,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icecoldapps.fileconverter.png"
     },
     {
-      "name": "CLIME",
-      "type": 1,
-      "bundleID": "com.apalonapps.radarfree",
-      "bundleIdentifier": "com.apalonapps.radarfree",
-      "version": "5.13.64",
-      "versionDate": "2025-12-11",
-      "fullDate": "20251211214125",
-      "size": 178857588,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2025/CLIME_5.13.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2025/CLIME_5.13.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
-    },
-    {
       "name": "Productive",
       "type": 1,
       "bundleID": "com.beHappy.Productive",
@@ -1394,22 +1426,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png"
-    },
-    {
-      "name": "Dropshare",
-      "type": 1,
-      "bundleID": "net.mkswap.Dropshare-iOS",
-      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
-      "version": "3.58",
-      "versionDate": "2025-11-30",
-      "fullDate": "20251130235352",
-      "size": 69885030,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/Dropshare_3.58_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/Dropshare_3.58_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png"
     },
     {
       "name": "SnapCut",
@@ -1746,22 +1762,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
-    },
-    {
-      "name": "SpeakTranslate",
-      "type": 1,
-      "bundleID": "com.appicfun.translatorfree",
-      "bundleIdentifier": "com.appicfun.translatorfree",
-      "version": "6.0.53",
-      "versionDate": "2025-11-20",
-      "fullDate": "20251120135811",
-      "size": 41312397,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png"
     }
   ],
   "userInfo": {}
