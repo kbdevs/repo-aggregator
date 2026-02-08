@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "djay",
+      "type": 1,
+      "bundleID": "com.algoriddim.djay-iphone-free",
+      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+      "version": "5.6.1",
+      "versionDate": "2025-12-20",
+      "fullDate": "20251220165843",
+      "size": 503739640,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/djay_5.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/djay_5.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png"
+    },
+    {
+      "name": "BAM",
+      "type": 2,
+      "bundleID": "com.optiflow.imposter",
+      "bundleIdentifier": "com.optiflow.imposter",
+      "version": "2.15",
+      "versionDate": "2025-12-20",
+      "fullDate": "20251220164838",
+      "size": 78790205,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/BAM_2.15_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/BAM_2.15_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.optiflow.imposter.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.optiflow.imposter.png"
+    },
+    {
       "name": "HunterAssassin",
       "type": 2,
       "bundleID": "com.rubygames.assassin",
@@ -1730,38 +1762,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fineyo.Fineyo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fineyo.Fineyo.png"
-    },
-    {
-      "name": "NCv1802",
-      "type": 1,
-      "bundleID": "nt.nc.ios",
-      "bundleIdentifier": "nt.nc.ios",
-      "version": "18.0.2",
-      "versionDate": "2025-11-22",
-      "fullDate": "20251122002447",
-      "size": 372860091,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
-    },
-    {
-      "name": "Euforia",
-      "type": 1,
-      "bundleID": "digital.euforia",
-      "bundleIdentifier": "digital.euforia",
-      "version": "1.2.16",
-      "versionDate": "2025-11-21",
-      "fullDate": "20251121000536",
-      "size": 61018603,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Euforia_1.2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Euforia_1.2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
     }
   ],
   "userInfo": {}

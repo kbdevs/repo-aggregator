@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "NCv1802",
+      "type": 1,
+      "bundleID": "nt.nc.ios",
+      "bundleIdentifier": "nt.nc.ios",
+      "version": "18.0.2",
+      "versionDate": "2025-11-22",
+      "fullDate": "20251122002447",
+      "size": 372860091,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
+    },
+    {
+      "name": "Euforia",
+      "type": 1,
+      "bundleID": "digital.euforia",
+      "bundleIdentifier": "digital.euforia",
+      "version": "1.2.16",
+      "versionDate": "2025-11-21",
+      "fullDate": "20251121000536",
+      "size": 61018603,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Euforia_1.2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Euforia_1.2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
+    },
+    {
       "name": "SpeakTranslate",
       "type": 1,
       "bundleID": "com.appicfun.translatorfree",
@@ -258,22 +290,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.retryapps.game.maps.irl.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.retryapps.game.maps.irl.png"
-    },
-    {
-      "name": "GREC",
-      "type": 1,
-      "bundleID": "com.igliverec.app",
-      "bundleIdentifier": "com.igliverec.app",
-      "version": "4.6.3",
-      "versionDate": "2025-11-15",
-      "fullDate": "20251115064652",
-      "size": 24979735,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2025/GREC_4.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2025/GREC_4.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.igliverec.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.igliverec.app.png"
     },
     {
       "name": "NBv64226",
@@ -1746,22 +1762,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.hirmer.SimplePi.free.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.hirmer.SimplePi.free.png"
-    },
-    {
-      "name": "FilmicPro",
-      "type": 1,
-      "bundleID": "com.cinegenix.filmic.pro",
-      "bundleIdentifier": "com.cinegenix.filmic.pro",
-      "version": "7.5.29",
-      "versionDate": "2025-09-24",
-      "fullDate": "20250924232637",
-      "size": 143154751,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/FilmicPro_7.5.29_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/FilmicPro_7.5.29_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png"
     }
   ],
   "userInfo": {}
