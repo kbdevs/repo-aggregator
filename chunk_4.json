@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "BrainTest4",
+      "type": 2,
+      "bundleID": "com.unicostudio.braintest4",
+      "bundleIdentifier": "com.unicostudio.braintest4",
+      "version": "1.28.0",
+      "versionDate": "2026-01-10",
+      "fullDate": "20260110170029",
+      "size": 167238620,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-01-2026/BrainTest4_1.28.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-01-2026/BrainTest4_1.28.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png"
+    },
+    {
+      "name": "CollaNote",
+      "type": 1,
+      "bundleID": "net.quochuywdm.collanote496",
+      "bundleIdentifier": "net.quochuywdm.collanote496",
+      "version": "4.0.5",
+      "versionDate": "2026-01-09",
+      "fullDate": "20260109091930",
+      "size": 130202881,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-01-2026/CollaNote_4.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-01-2026/CollaNote_4.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png"
+    },
+    {
+      "name": "MapleReadCX",
+      "type": 1,
+      "bundleID": "com.maplepop.bmcx",
+      "bundleIdentifier": "com.maplepop.bmcx",
+      "version": "6.2.2",
+      "versionDate": "2026-01-09",
+      "fullDate": "20260109053840",
+      "size": 20092828,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-01-2026/MapleReadCX_6.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-01-2026/MapleReadCX_6.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png"
+    },
+    {
       "name": "BrainTest",
       "type": 2,
       "bundleID": "com.unicostudio.braintest",
@@ -130,22 +178,6 @@
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icandiapps.nightsky.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icandiapps.nightsky.png"
-    },
-    {
-      "name": "SimplySing",
-      "type": 1,
-      "bundleID": "com.joytunes.Sing",
-      "bundleIdentifier": "com.joytunes.Sing",
-      "version": "2.6.5",
-      "versionDate": "2026-01-06",
-      "fullDate": "20260106184000",
-      "size": 92859473,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/SimplySing_2.6.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/SimplySing_2.6.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png"
     },
     {
       "name": "EPIK",
@@ -852,22 +884,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nl.jeffreykuiken.NoirApp.png"
     },
     {
-      "name": "LINECamera",
-      "type": 1,
-      "bundleID": "jp.naver.linecamera",
-      "bundleIdentifier": "jp.naver.linecamera",
-      "version": "18.0.1",
-      "versionDate": "2025-12-29",
-      "fullDate": "20251229211955",
-      "size": 148092182,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-12-2025/LINECamera_18.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-12-2025/LINECamera_18.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png"
-    },
-    {
       "name": "moneycontrol",
       "type": 1,
       "bundleID": "com.moneycontrol.mc",
@@ -1186,22 +1202,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.basenji.mood.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.basenji.mood.png"
-    },
-    {
-      "name": "VDIT",
-      "type": 1,
-      "bundleID": "me.imgbase.videoday",
-      "bundleIdentifier": "me.imgbase.videoday",
-      "version": "3.6.2",
-      "versionDate": "2025-12-23",
-      "fullDate": "20251223175106",
-      "size": 224665990,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/VDIT_3.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/VDIT_3.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png"
     },
     {
       "name": "Artistai",
@@ -1762,6 +1762,22 @@
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png"
+    },
+    {
+      "name": "djay",
+      "type": 1,
+      "bundleID": "com.algoriddim.djay-iphone-free",
+      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+      "version": "5.6.1",
+      "versionDate": "2025-12-20",
+      "fullDate": "20251220165843",
+      "size": 503739640,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/djay_5.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/djay_5.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png"
     }
   ],
   "userInfo": {}

@@ -4,22 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
-      "name": "djay",
-      "type": 1,
-      "bundleID": "com.algoriddim.djay-iphone-free",
-      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
-      "version": "5.6.1",
-      "versionDate": "2025-12-20",
-      "fullDate": "20251220165843",
-      "size": 503739640,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/djay_5.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/djay_5.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png"
-    },
-    {
       "name": "BAM",
       "type": 2,
       "bundleID": "com.optiflow.imposter",
@@ -1268,22 +1252,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png"
     },
     {
-      "name": "FindAir",
-      "type": 1,
-      "bundleID": "co.airapps.finderbot",
-      "bundleIdentifier": "co.airapps.finderbot",
-      "version": "2025.11.10",
-      "versionDate": "2025-12-09",
-      "fullDate": "20251209213255",
-      "size": 79437337,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/FindAir_2025.11.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/FindAir_2025.11.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png"
-    },
-    {
       "name": "Minecraft",
       "type": 2,
       "bundleID": "com.mojang.minecraftpe",
@@ -1762,6 +1730,54 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fineyo.Fineyo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fineyo.Fineyo.png"
+    },
+    {
+      "name": "NCv1802",
+      "type": 1,
+      "bundleID": "nt.nc.ios",
+      "bundleIdentifier": "nt.nc.ios",
+      "version": "18.0.2",
+      "versionDate": "2025-11-22",
+      "fullDate": "20251122002447",
+      "size": 372860091,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
+    },
+    {
+      "name": "Euforia",
+      "type": 1,
+      "bundleID": "digital.euforia",
+      "bundleIdentifier": "digital.euforia",
+      "version": "1.2.16",
+      "versionDate": "2025-11-21",
+      "fullDate": "20251121000536",
+      "size": 61018603,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Euforia_1.2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Euforia_1.2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
+    },
+    {
+      "name": "SpeakTranslate",
+      "type": 1,
+      "bundleID": "com.appicfun.translatorfree",
+      "bundleIdentifier": "com.appicfun.translatorfree",
+      "version": "6.0.53",
+      "versionDate": "2025-11-20",
+      "fullDate": "20251120135811",
+      "size": 41312397,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png"
     }
   ],
   "userInfo": {}
