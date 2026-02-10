@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "BusEscapeTrafficJam",
+      "type": 2,
+      "bundleID": "com.abi.busjam.sortpuzzle",
+      "bundleIdentifier": "com.abi.busjam.sortpuzzle",
+      "version": "1.9.53",
+      "versionDate": "2025-12-20",
+      "fullDate": "20251220170919",
+      "size": 144365699,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/BusEscapeTrafficJam_1.9.53_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/BusEscapeTrafficJam_1.9.53_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abi.busjam.sortpuzzle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abi.busjam.sortpuzzle.png"
+    },
+    {
+      "name": "ZenColor",
+      "type": 2,
+      "bundleID": "happy.paint.color.coloring.number",
+      "bundleIdentifier": "happy.paint.color.coloring.number",
+      "version": "1.84.3",
+      "versionDate": "2025-12-20",
+      "fullDate": "20251220170404",
+      "size": 135032470,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/ZenColor_1.84.3_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/ZenColor_1.84.3_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png"
+    },
+    {
       "name": "BAM",
       "type": 2,
       "bundleID": "com.optiflow.imposter",
@@ -1220,22 +1252,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png"
     },
     {
-      "name": "Wikiloc",
-      "type": 1,
-      "bundleID": "com.wikiloc.wikiloc",
-      "bundleIdentifier": "com.wikiloc.wikiloc",
-      "version": "3.26.0",
-      "versionDate": "2025-12-10",
-      "fullDate": "20251210144021",
-      "size": 112655839,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Wikiloc_3.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Wikiloc_3.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png"
-    },
-    {
       "name": "Dictionary",
       "type": 1,
       "bundleID": "com.mobisystems.OxfordDictionaryOfEnglishFree",
@@ -1282,22 +1298,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.culturedcode.ThingsiPad.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.culturedcode.ThingsiPad.png"
-    },
-    {
-      "name": "Pigment",
-      "type": 1,
-      "bundleID": "com.pixite.pigment",
-      "bundleIdentifier": "com.pixite.pigment",
-      "version": "3.8",
-      "versionDate": "2025-12-08",
-      "fullDate": "20251208194613",
-      "size": 139840983,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Pigment_3.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Pigment_3.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png"
     },
     {
       "name": "Stay",
