@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "SpeakTranslate",
+      "type": 1,
+      "bundleID": "com.appicfun.translatorfree",
+      "bundleIdentifier": "com.appicfun.translatorfree",
+      "version": "6.0.53",
+      "versionDate": "2025-11-20",
+      "fullDate": "20251120135811",
+      "size": 41312397,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png"
+    },
+    {
       "name": "Hiii",
       "type": 1,
       "bundleID": "com.abighead.Widgets",
@@ -1602,22 +1618,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leica-camera.camera.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leica-camera.camera.png"
-    },
-    {
-      "name": "MediaConvert",
-      "type": 1,
-      "bundleID": "com.verycoolapp.mediaconvert",
-      "bundleIdentifier": "com.verycoolapp.mediaconvert",
-      "version": "4.12",
-      "versionDate": "2025-09-28",
-      "fullDate": "20250928082205",
-      "size": 62021276,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/MediaConvert_4.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/MediaConvert_4.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png"
     },
     {
       "name": "Float",

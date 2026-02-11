@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Speak4Me",
+      "type": 1,
+      "bundleID": "com.yadux.Speak4Me",
+      "bundleIdentifier": "com.yadux.Speak4Me",
+      "version": "6.2.3",
+      "versionDate": "2025-12-20",
+      "fullDate": "20251220170925",
+      "size": 85664461,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/Speak4Me_6.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/Speak4Me_6.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png"
+    },
+    {
       "name": "BusEscapeTrafficJam",
       "type": 2,
       "bundleID": "com.abi.busjam.sortpuzzle",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
-    },
-    {
-      "name": "SpeakTranslate",
-      "type": 1,
-      "bundleID": "com.appicfun.translatorfree",
-      "bundleIdentifier": "com.appicfun.translatorfree",
-      "version": "6.0.53",
-      "versionDate": "2025-11-20",
-      "fullDate": "20251120135811",
-      "size": 41312397,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2025/SpeakTranslate_6.0.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png"
     }
   ],
   "userInfo": {}

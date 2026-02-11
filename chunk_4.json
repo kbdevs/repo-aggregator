@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "AdGuard",
+      "type": 1,
+      "bundleID": "com.adguard.AdguardExtension",
+      "bundleIdentifier": "com.adguard.AdguardExtension",
+      "version": "4.5.15",
+      "versionDate": "2026-01-13",
+      "fullDate": "20260113171230",
+      "size": 40137419,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/AdGuard_4.5.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/AdGuard_4.5.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png"
+    },
+    {
+      "name": "YouTubeOLED",
+      "type": 1,
+      "bundleID": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "21.02.3",
+      "versionDate": "2026-01-13",
+      "fullDate": "20260113071103",
+      "size": 127746378,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/YouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/YouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png"
+    },
+    {
       "name": "Paired",
       "type": 1,
       "bundleID": "io.betterhalf.app",
@@ -82,22 +114,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
-    },
-    {
-      "name": "Stndrd",
-      "type": 1,
-      "bundleID": "uni.cbum",
-      "bundleIdentifier": "uni.cbum",
-      "version": "4.1.26",
-      "versionDate": "2026-01-12",
-      "fullDate": "20260112040436",
-      "size": 104115382,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-01-2026/Stndrd_4.1.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-01-2026/Stndrd_4.1.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png"
     },
     {
       "name": "BrainTest4",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png"
-    },
-    {
-      "name": "Speak4Me",
-      "type": 1,
-      "bundleID": "com.yadux.Speak4Me",
-      "bundleIdentifier": "com.yadux.Speak4Me",
-      "version": "6.2.3",
-      "versionDate": "2025-12-20",
-      "fullDate": "20251220170925",
-      "size": 85664461,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/Speak4Me_6.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/Speak4Me_6.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png"
     }
   ],
   "userInfo": {}
