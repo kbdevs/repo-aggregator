@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "FlexIPTV",
+      "type": 1,
+      "bundleID": "com.funlabsoft.iptv",
+      "bundleIdentifier": "com.funlabsoft.iptv",
+      "version": "2.13",
+      "versionDate": "2025-12-21",
+      "fullDate": "20251221035553",
+      "size": 19997692,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-12-2025/FlexIPTV_2.13_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-12-2025/FlexIPTV_2.13_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png"
+    },
+    {
       "name": "Speak4Me",
       "type": 1,
       "bundleID": "com.yadux.Speak4Me",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
-    },
-    {
-      "name": "Euforia",
-      "type": 1,
-      "bundleID": "digital.euforia",
-      "bundleIdentifier": "digital.euforia",
-      "version": "1.2.16",
-      "versionDate": "2025-11-21",
-      "fullDate": "20251121000536",
-      "size": 61018603,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Euforia_1.2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Euforia_1.2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
     }
   ],
   "userInfo": {}

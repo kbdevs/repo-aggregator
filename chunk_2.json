@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "swipewipe",
+      "type": 1,
+      "bundleID": "com.aoklab.fewerphotos",
+      "bundleIdentifier": "com.aoklab.fewerphotos",
+      "version": "3.2.44",
+      "versionDate": "2026-02-05",
+      "fullDate": "20260205203819",
+      "size": 121748825,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/swipewipe_3.2.44_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/swipewipe_3.2.44_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png"
+    },
+    {
+      "name": "CLIME",
+      "type": 1,
+      "bundleID": "com.apalonapps.radarfree",
+      "bundleIdentifier": "com.apalonapps.radarfree",
+      "version": "5.13.65",
+      "versionDate": "2026-02-05",
+      "fullDate": "20260205192304",
+      "size": 177346481,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/CLIME_5.13.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/CLIME_5.13.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
+    },
+    {
+      "name": "TunerPro",
+      "type": 1,
+      "bundleID": "com.mwm.guitartuner",
+      "bundleIdentifier": "com.mwm.guitartuner",
+      "version": "4.00.01",
+      "versionDate": "2026-02-05",
+      "fullDate": "20260205190742",
+      "size": 274841189,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/TunerPro_4.00.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/TunerPro_4.00.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png"
+    },
+    {
       "name": "Flightradar24",
       "type": 1,
       "bundleID": "se.resenatverket.FlightRadar24-Free",
@@ -532,22 +580,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png"
     },
     {
-      "name": "MyFitnessPal",
-      "type": 1,
-      "bundleID": "com.myfitnesspal.mfp",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "version": "26.5.0",
-      "versionDate": "2026-02-04",
-      "fullDate": "20260204030643",
-      "size": 141908254,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2026/MyFitnessPal_26.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2026/MyFitnessPal_26.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
-    },
-    {
       "name": "Phocus",
       "type": 1,
       "bundleID": "com.ahmetserdarkaradeniz.Phocus",
@@ -994,22 +1026,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imageline.FLStudioMobileHD.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imageline.FLStudioMobileHD.png"
-    },
-    {
-      "name": "Tarteel",
-      "type": 1,
-      "bundleID": "com.iqraapp.Iqra",
-      "bundleIdentifier": "com.iqraapp.Iqra",
-      "version": "5.73.2",
-      "versionDate": "2026-02-03",
-      "fullDate": "20260203005346",
-      "size": 123811595,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/Tarteel_5.73.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/Tarteel_5.73.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png"
     },
     {
       "name": "Endel",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fitbod.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fitbod.png"
-    },
-    {
-      "name": "Runestone",
-      "type": 1,
-      "bundleID": "dk.simonbs.RunestoneEditor",
-      "bundleIdentifier": "dk.simonbs.RunestoneEditor",
-      "version": "1.6.1",
-      "versionDate": "2026-01-29",
-      "fullDate": "20260129223116",
-      "size": 26979625,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Runestone_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Runestone_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dk.simonbs.RunestoneEditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dk.simonbs.RunestoneEditor.png"
     }
   ],
   "userInfo": {}

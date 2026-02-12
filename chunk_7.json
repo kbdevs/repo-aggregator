@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Obscura",
+      "type": 1,
+      "bundleID": "com.benricemccarthy.obscura-3",
+      "bundleIdentifier": "com.benricemccarthy.obscura-3",
+      "version": "2025.9",
+      "versionDate": "2025-09-24",
+      "fullDate": "20250924041336",
+      "size": 78616062,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Obscura_2025.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Obscura_2025.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benricemccarthy.obscura-3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benricemccarthy.obscura-3.png"
+    },
+    {
       "name": "ByePhotos",
       "type": 1,
       "bundleID": "com.panicbyte.byephotos",
@@ -722,22 +738,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.relentlessco.zesty.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.relentlessco.zesty.png"
-    },
-    {
-      "name": "Stellarium",
-      "type": 1,
-      "bundleID": "com.noctuasoftware.stellarium-mobile-plus",
-      "bundleIdentifier": "com.noctuasoftware.stellarium-mobile-plus",
-      "version": "1.15.0",
-      "versionDate": "2025-08-23",
-      "fullDate": "20250823143036",
-      "size": 316879132,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Stellarium_1.15.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Stellarium_1.15.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png"
     },
     {
       "name": "MikaFootball",

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Runestone",
+      "type": 1,
+      "bundleID": "dk.simonbs.RunestoneEditor",
+      "bundleIdentifier": "dk.simonbs.RunestoneEditor",
+      "version": "1.6.1",
+      "versionDate": "2026-01-29",
+      "fullDate": "20260129223116",
+      "size": 26979625,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Runestone_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Runestone_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dk.simonbs.RunestoneEditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dk.simonbs.RunestoneEditor.png"
+    },
+    {
       "name": "Aloha",
       "type": 1,
       "bundleID": "com.alohabrowser.alohabrowser",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.ebisusoft.shiftworkcallite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.ebisusoft.shiftworkcallite.png"
-    },
-    {
-      "name": "Anime",
-      "type": 1,
-      "bundleID": "com.wallpapershub.anime",
-      "bundleIdentifier": "com.wallpapershub.anime",
-      "version": "4.1",
-      "versionDate": "2026-01-14",
-      "fullDate": "20260114005427",
-      "size": 93077405,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-01-2026/Anime_4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-01-2026/Anime_4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png"
     }
   ],
   "userInfo": {}
