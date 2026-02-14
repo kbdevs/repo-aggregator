@@ -4,6 +4,96 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "App cake",
+      "bundleIdentifier": "com.appcake.app",
+      "developerName": "App cake team",
+      "subtitle": "Note: apps will only be downloadable with the IPA file is using share and jailbreak mode must be on for this to work",
+      "localizedDescription": "Note: apps will only be downloadable with the IPA file is using share and jailbreak mode must be on for this to work\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.appcake.app\n\n Downloads: 5317\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1687263400.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "7.2.2",
+          "date": "2023-06-20 12:16:40",
+          "localizedDescription": "Current of App cake - 7.2.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/32",
+          "size": 16169041
+        },
+        {
+          "version": "7.2.2",
+          "date": "2023-06-20 12:16:40",
+          "localizedDescription": "Old Version of App cake - 7.2.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/32",
+          "size": 16169041
+        }
+      ],
+      "version": "7.2.2",
+      "versionDate": "2023-06-20 12:16:40",
+      "versionDescription": "Note: apps will only be downloadable with the IPA file is using share and jailbreak mode must be on for this to work",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/32",
+      "formatedsize": "15.42 MB",
+      "size": 16169041
+    },
+    {
+      "name": "TrollFools",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "version": "2.8-16",
+      "versionDate": "2025-01-08",
+      "size": 3305897,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/TrollFools-2.8-16.ipa",
+      "developerName": "Lessica / trollfools",
+      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "version": "HV-4.6.4",
+      "versionDate": "2025-01-08",
+      "size": 126284039,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/UTM-HV-4.6.4.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.utmapp.UTM.png"
+    },
+    {
+      "name": "CarTube",
+      "bundleIdentifier": "com.avangelista.CarTube",
+      "version": "1.3",
+      "versionDate": "2024-11-17",
+      "size": 574441,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube-1.3.ipa",
+      "developerName": "Avangelista",
+      "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png"
+    },
+    {
+      "name": "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "version": "1.1.3",
+      "versionDate": "2024-12-16",
+      "size": 6100320,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Geranium-1.1.3.ipa",
+      "developerName": "c22dev",
+      "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png"
+    },
+    {
+      "name": "Helium",
+      "bundleIdentifier": "com.leemin.helium",
+      "version": "3.2.5",
+      "versionDate": "2024-12-16",
+      "size": 4168281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Helium-3.2.5.ipa",
+      "developerName": "leminlimez",
+      "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.helium.png"
+    },
+    {
       "name": "TRApp",
       "bundleIdentifier": "wiki.qaq.trapp",
       "version": "2.7-422.",
@@ -123,17 +213,6 @@
       "developerName": "iApps",
       "localizedDescription": "Injected with VIP. White Noise Pro includes a variety of sounds in categories ranging from: sleep, meditation, ASMR, lullaby, classical and relaxing music.\nLast updated: 07-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.laoyue.whitenoise.png"
-    },
-    {
-      "name": "WeatherSuper",
-      "bundleIdentifier": "com.andyworks.weather",
-      "version": "3.23",
-      "versionDate": "2024-10-16",
-      "size": 120244159,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WeatherSuper/WeatherSuper-3.23.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
-      "localizedDescription": "Another (unique design) local forecast and live weather app. A user requested it so here it is.\nLast updated: 07-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.andyworks.weather.png"
     },
     {
       "name": "WeatherRadarPro",
@@ -1168,61 +1247,6 @@
       "developerName": "TestFlight",
       "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.\nLast updated: 05-02-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemonroe.Downie.png"
-    },
-    {
-      "name": "Antoine",
-      "bundleIdentifier": "com.serena.Antoine",
-      "version": "1.3.tipa.ipa.",
-      "versionDate": "2024-10-03",
-      "size": 1623275,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Antoine/Antoine-1.3.tipa.ipa.tipa",
-      "developerName": "SerenaKit",
-      "localizedDescription": "This app is TrollStore-only. An OSLog UI for iOS & iPadOS devices, Antoine allows you to view System Logs in real time, with the ability to filter logs by process, message, type, etc, as well additional stream options\nLast updated: 09-19-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.serena.Antoine.png"
-    },
-    {
-      "name": "AnimeNow",
-      "bundleIdentifier": "com.errorerrorerror.animenow",
-      "version": "1.0.0b1",
-      "versionDate": "2024-10-03",
-      "size": 6691352,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnimeNow/AnimeNow-1.0.0b1.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
-    },
-    {
-      "name": "ImgPlayPro",
-      "bundleIdentifier": "me.imgbase.imgplay",
-      "version": "6.3.17",
-      "versionDate": "2024-10-02",
-      "size": 128605516,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ImgPlayPro/ImgPlayPro-6.3.17.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/me.imgbase.imgplay.png"
-    },
-    {
-      "name": "ImageSearch",
-      "bundleIdentifier": "com.ipopapp.imagesearchfree",
-      "version": "6.6",
-      "versionDate": "2024-10-01",
-      "size": 10303693,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ImageSearch/ImageSearch-6.6.ipa",
-      "developerName": "DPixel",
-      "localizedDescription": "Reverse Image Search App, cracked for pro features. Click Pro at the top right, then the purchase button.\nLast updated: 08-12-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ipopapp.imagesearchfree.png"
-    },
-    {
-      "name": "Ignited",
-      "bundleIdentifier": "com.litritt.ignited",
-      "version": "1.10",
-      "versionDate": "2024-10-01",
-      "size": 35402158,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Ignited/Ignited-1.10.ipa",
-      "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 03-29-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     }
   ],
   "userInfo": {}
