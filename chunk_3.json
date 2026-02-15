@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "PapasSushiriaToGo",
+      "type": 2,
+      "bundleID": "com.flipline.papassushiriatogo",
+      "bundleIdentifier": "com.flipline.papassushiriatogo",
+      "version": "1.0.0",
+      "versionDate": "2026-02-02",
+      "fullDate": "20260202195629",
+      "size": 28548733,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasSushiriaToGo_1.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasSushiriaToGo_1.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papassushiriatogo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papassushiriatogo.png"
+    },
+    {
       "name": "PapasCluckeriaToGo",
       "type": 2,
       "bundleID": "com.flipline.papascluckeriatogo",
@@ -1250,22 +1266,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png"
-    },
-    {
-      "name": "VivaCut",
-      "type": 1,
-      "bundleID": "com.vivacut.videoeditor",
-      "bundleIdentifier": "com.vivacut.videoeditor",
-      "version": "4.5.3",
-      "versionDate": "2026-01-21",
-      "fullDate": "20260121094440",
-      "size": 223080551,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-01-2026/VivaCut_4.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-01-2026/VivaCut_4.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png"
     },
     {
       "name": "Across",
