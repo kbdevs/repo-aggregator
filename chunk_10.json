@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Trash Tycoon Idle Empire (Hack)",
+      "bundleIdentifier": "com.funcell.trashinc",
+      "developerName": "Babylonipa",
+      "subtitle": "Hack Features:\r\n- Money will increase instead of decrease",
+      "localizedDescription": "Hack Features:\r\n- Money will increase instead of decrease\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.funcell.trashinc\n\n Downloads: 321\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1729495533.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17294955275335577169.webp",
+        "https://apps.nabzclan.vip/screenshots/17294955278692030111.webp",
+        "https://apps.nabzclan.vip/screenshots/17294955302471830775.webp",
+        "https://apps.nabzclan.vip/screenshots/17294955313794650043.webp",
+        "https://apps.nabzclan.vip/screenshots/17294955335638295616.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.8.1",
+          "date": "2024-10-21 11:25:33",
+          "localizedDescription": "Current of Trash Tycoon Idle Empire (Hack) - 2.8.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/817",
+          "size": 156971827
+        },
+        {
+          "version": "2.8.1",
+          "date": "2024-10-21 11:25:33",
+          "localizedDescription": "Old Version of Trash Tycoon Idle Empire (Hack) - 2.8.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/817",
+          "size": 156971827
+        }
+      ],
+      "version": "2.8.1",
+      "versionDate": "2024-10-21 11:25:33",
+      "versionDescription": "Hack Features:\r\n- Money will increase instead of decrease",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/817",
+      "formatedsize": "149.7 MB",
+      "size": 156971827
+    },
+    {
       "name": "CATS : (Hack)",
       "bundleIdentifier": "com.zeptolab.cats",
       "developerName": "Babylonipa",
@@ -4492,41 +4531,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/49",
       "formatedsize": "753.29 KB",
       "size": 771368
-    },
-    {
-      "name": "The Weather Channel (No Ads)",
-      "bundleIdentifier": "com.weather.TWC",
-      "developerName": "unknown",
-      "subtitle": "This app has an adblocker injected not premium",
-      "localizedDescription": "This app has an adblocker injected not premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.weather.TWC\n\n Downloads: 231\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1687266688.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "12.36.1",
-          "date": "2023-06-20 13:11:28",
-          "localizedDescription": "Current of The Weather Channel (No Ads) - 12.36.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/46",
-          "size": 136430223
-        },
-        {
-          "version": "12.36.1",
-          "date": "2023-06-20 13:11:28",
-          "localizedDescription": "Old Version of The Weather Channel (No Ads) - 12.36.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/46",
-          "size": 136430223
-        }
-      ],
-      "version": "12.36.1",
-      "versionDate": "2023-06-20 13:11:28",
-      "versionDescription": "This app has an adblocker injected not premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/46",
-      "formatedsize": "130.11 MB",
-      "size": 136430223
     }
   ],
   "userInfo": {}

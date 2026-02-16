@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Isoland : Pumpkin town",
+      "bundleIdentifier": "com.redfishgame.isolandEN",
+      "developerName": "COTTONGAME Network Technology Co., Ltd.",
+      "subtitle": "Appearing deceptively peaceful to the casual passerby, a mysterious island exists in the far reaches of the Atlantic Ocean. The inhabitants know not how they got there or why they stay; all they\u2019re sure of is that the place in which they are trapped is called Isoland.",
+      "localizedDescription": "Appearing deceptively peaceful to the casual passerby, a mysterious island exists in the far reaches of the Atlantic Ocean. The inhabitants know not how they got there or why they stay; all they\u2019re sure of is that the place in which they are trapped is called Isoland.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.redfishgame.isolandEN\n\n Downloads: 150\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1735165584.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17351655834922222082.webp",
+        "https://apps.nabzclan.vip/screenshots/17351655835955577234.webp",
+        "https://apps.nabzclan.vip/screenshots/17351655837259940886.webp",
+        "https://apps.nabzclan.vip/screenshots/17351655838855050247.webp",
+        "https://apps.nabzclan.vip/screenshots/17351655839898959455.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.3.0",
+          "date": "2024-12-25 17:26:24",
+          "localizedDescription": "Current of Isoland : Pumpkin town - 2.3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1147",
+          "size": 251448524
+        },
+        {
+          "version": "2.3.0",
+          "date": "2024-12-25 17:26:24",
+          "localizedDescription": "Old Version of Isoland : Pumpkin town - 2.3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1147",
+          "size": 251448524
+        }
+      ],
+      "version": "2.3.0",
+      "versionDate": "2024-12-25 17:26:24",
+      "versionDescription": "Appearing deceptively peaceful to the casual passerby, a mysterious island exists in the far reaches of the Atlantic Ocean. The inhabitants know not how they got there or why they stay; all they\u2019re sure of is that the place in which they are trapped is called Isoland.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1147",
+      "formatedsize": "239.8 MB",
+      "size": 251448524
+    },
+    {
       "name": "Plague Inc.",
       "bundleIdentifier": "com.ndemiccreations.plagueinc",
       "developerName": "Ndemic Creations",
@@ -4692,45 +4731,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/820",
       "formatedsize": "558.2 MB",
       "size": 585315123
-    },
-    {
-      "name": "Trash Tycoon Idle Empire (Hack)",
-      "bundleIdentifier": "com.funcell.trashinc",
-      "developerName": "Babylonipa",
-      "subtitle": "Hack Features:\r\n- Money will increase instead of decrease",
-      "localizedDescription": "Hack Features:\r\n- Money will increase instead of decrease\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.funcell.trashinc\n\n Downloads: 321\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1729495533.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17294955275335577169.webp",
-        "https://apps.nabzclan.vip/screenshots/17294955278692030111.webp",
-        "https://apps.nabzclan.vip/screenshots/17294955302471830775.webp",
-        "https://apps.nabzclan.vip/screenshots/17294955313794650043.webp",
-        "https://apps.nabzclan.vip/screenshots/17294955335638295616.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.8.1",
-          "date": "2024-10-21 11:25:33",
-          "localizedDescription": "Current of Trash Tycoon Idle Empire (Hack) - 2.8.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/817",
-          "size": 156971827
-        },
-        {
-          "version": "2.8.1",
-          "date": "2024-10-21 11:25:33",
-          "localizedDescription": "Old Version of Trash Tycoon Idle Empire (Hack) - 2.8.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/817",
-          "size": 156971827
-        }
-      ],
-      "version": "2.8.1",
-      "versionDate": "2024-10-21 11:25:33",
-      "versionDescription": "Hack Features:\r\n- Money will increase instead of decrease",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/817",
-      "formatedsize": "149.7 MB",
-      "size": 156971827
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "PapasFreezeriaToGo",
+      "type": 2,
+      "bundleID": "com.flipline.papasfreezeriatogo",
+      "bundleIdentifier": "com.flipline.papasfreezeriatogo",
+      "version": "1.2.0",
+      "versionDate": "2026-02-02",
+      "fullDate": "20260202200134",
+      "size": 53707831,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasFreezeriaToGo_1.2.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasFreezeriaToGo_1.2.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papasfreezeriatogo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papasfreezeriatogo.png"
+    },
+    {
       "name": "PapasSushiriaToGo",
       "type": 2,
       "bundleID": "com.flipline.papassushiriatogo",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.saltycrackers.daygram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.saltycrackers.daygram.png"
-    },
-    {
-      "name": "AdobeScan",
-      "type": 1,
-      "bundleID": "com.adobe.scan.ios",
-      "bundleIdentifier": "com.adobe.scan.ios",
-      "version": "26.01.22",
-      "versionDate": "2026-01-16",
-      "fullDate": "20260116054244",
-      "size": 177481257,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2026/AdobeScan_26.01.22_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2026/AdobeScan_26.01.22_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png"
     }
   ],
   "userInfo": {}

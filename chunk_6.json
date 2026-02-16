@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Sleepwave",
+      "type": 1,
+      "bundleID": "sleepwave.app",
+      "bundleIdentifier": "sleepwave.app",
+      "version": "3.2.22",
+      "versionDate": "2025-11-25",
+      "fullDate": "20251125231616",
+      "size": 163990839,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Sleepwave_3.2.22_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Sleepwave_3.2.22_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sleepwave.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sleepwave.app.png"
+    },
+    {
       "name": "Telepromptercom",
       "type": 1,
       "bundleID": "matekovacs.Teleprompter",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.strv.labs.float.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.strv.labs.float.png"
-    },
-    {
-      "name": "PhotoSync",
-      "type": 1,
-      "bundleID": "com.touchbyte.PhotoSync",
-      "bundleIdentifier": "com.touchbyte.PhotoSync",
-      "version": "4.9.7",
-      "versionDate": "2025-09-26",
-      "fullDate": "20250926045217",
-      "size": 61854545,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/PhotoSync_4.9.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/PhotoSync_4.9.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png"
     }
   ],
   "userInfo": {}

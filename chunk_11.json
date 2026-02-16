@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "The Weather Channel (No Ads)",
+      "bundleIdentifier": "com.weather.TWC",
+      "developerName": "unknown",
+      "subtitle": "This app has an adblocker injected not premium",
+      "localizedDescription": "This app has an adblocker injected not premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.weather.TWC\n\n Downloads: 231\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1687266688.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "12.36.1",
+          "date": "2023-06-20 13:11:28",
+          "localizedDescription": "Current of The Weather Channel (No Ads) - 12.36.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/46",
+          "size": 136430223
+        },
+        {
+          "version": "12.36.1",
+          "date": "2023-06-20 13:11:28",
+          "localizedDescription": "Old Version of The Weather Channel (No Ads) - 12.36.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/46",
+          "size": 136430223
+        }
+      ],
+      "version": "12.36.1",
+      "versionDate": "2023-06-20 13:11:28",
+      "versionDescription": "This app has an adblocker injected not premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/46",
+      "formatedsize": "130.11 MB",
+      "size": 136430223
+    },
+    {
       "name": "App cake",
       "bundleIdentifier": "com.appcake.app",
       "developerName": "App cake team",
@@ -1236,17 +1271,6 @@
       "developerName": "Paisseon",
       "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png"
-    },
-    {
-      "name": "Downie",
-      "bundleIdentifier": "com.charliemonroe.Downie",
-      "version": "1.0-92",
-      "versionDate": "2024-10-03",
-      "size": 20571776,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Downie/Downie-1.0-92.ipa",
-      "developerName": "TestFlight",
-      "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.\nLast updated: 05-02-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemonroe.Downie.png"
     }
   ],
   "userInfo": {}

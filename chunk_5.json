@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Feather",
+      "type": 1,
+      "bundleID": "thewonderofyou.Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "version": "2.5.0",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223130753",
+      "size": 24967367,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Feather_2.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Feather_2.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/thewonderofyou.Feather.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/thewonderofyou.Feather.png"
+    },
+    {
       "name": "IPTVExpert",
       "type": 1,
       "bundleID": "com.iptv.player",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png"
-    },
-    {
-      "name": "Sleepwave",
-      "type": 1,
-      "bundleID": "sleepwave.app",
-      "bundleIdentifier": "sleepwave.app",
-      "version": "3.2.22",
-      "versionDate": "2025-11-25",
-      "fullDate": "20251125231616",
-      "size": 163990839,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Sleepwave_3.2.22_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Sleepwave_3.2.22_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sleepwave.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sleepwave.app.png"
     }
   ],
   "userInfo": {}
