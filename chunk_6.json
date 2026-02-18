@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Pyxis",
+      "type": 1,
+      "bundleID": "com.armengrewal.Pyxis",
+      "bundleIdentifier": "com.armengrewal.Pyxis",
+      "version": "3.1",
+      "versionDate": "2025-11-25",
+      "fullDate": "20251125231622",
+      "size": 49278519,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Pyxis_3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Pyxis_3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png"
+    },
+    {
       "name": "Sleepwave",
       "type": 1,
       "bundleID": "sleepwave.app",
@@ -466,22 +482,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png"
-    },
-    {
-      "name": "FELFishEyeLens",
-      "type": 1,
-      "bundleID": "com.phantom.fantengmu",
-      "bundleIdentifier": "com.phantom.fantengmu",
-      "version": "2.0.26",
-      "versionDate": "2025-11-08",
-      "fullDate": "20251108215231",
-      "size": 76120574,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2025/FELFishEyeLens_2.0.26_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2025/FELFishEyeLens_2.0.26_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png"
     },
     {
       "name": "Chatbot",

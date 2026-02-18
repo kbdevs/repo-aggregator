@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "SoundCloud",
+      "type": 1,
+      "bundleID": "com.soundcloud.TouchApp",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "version": "8.46.0",
+      "versionDate": "2026-02-03",
+      "fullDate": "20260203003258",
+      "size": 106694198,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/SoundCloud_8.46.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/SoundCloud_8.46.0_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png"
+    },
+    {
+      "name": "Unfold",
+      "type": 1,
+      "bundleID": "com.moonlab.unfoldstories",
+      "bundleIdentifier": "com.moonlab.unfoldstories",
+      "version": "8.154.0",
+      "versionDate": "2026-02-02",
+      "fullDate": "20260202212207",
+      "size": 174506321,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/Unfold_8.154.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/Unfold_8.154.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png"
+    },
+    {
       "name": "Scanner",
       "type": 1,
       "bundleID": "com.apalonapps.pdffree",
@@ -1380,22 +1412,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
     },
     {
-      "name": "BeatMakerPro",
-      "type": 1,
-      "bundleID": "com.mwm.sampler-app",
-      "bundleIdentifier": "com.mwm.sampler-app",
-      "version": "4.14.01",
-      "versionDate": "2026-01-20",
-      "fullDate": "20260120203445",
-      "size": 120683774,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/BeatMakerPro_4.14.01_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/BeatMakerPro_4.14.01_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png"
-    },
-    {
       "name": "Osmosis",
       "type": 1,
       "bundleID": "com.osmose-it.osmosis",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Photos.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Photos.png"
-    },
-    {
-      "name": "ProFit",
-      "type": 1,
-      "bundleID": "com.maxty.gofitness",
-      "bundleIdentifier": "com.maxty.gofitness",
-      "version": "7.14.2",
-      "versionDate": "2026-01-18",
-      "fullDate": "20260118170149",
-      "size": 53828351,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-01-2026/ProFit_7.14.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-01-2026/ProFit_7.14.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png"
     }
   ],
   "userInfo": {}

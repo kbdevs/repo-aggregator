@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Rootd",
+      "type": 1,
+      "bundleID": "org.reactjs.native.example.rootd",
+      "bundleIdentifier": "org.reactjs.native.example.rootd",
+      "version": "3.1.28",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223160850",
+      "size": 53164391,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Rootd_3.1.28_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Rootd_3.1.28_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.example.rootd.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.example.rootd.png"
+    },
+    {
       "name": "BeFreed",
       "type": 1,
       "bundleID": "ai.befreed.freed-frontend-rn",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ironotes.Ironotes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ironotes.Ironotes.png"
-    },
-    {
-      "name": "Pyxis",
-      "type": 1,
-      "bundleID": "com.armengrewal.Pyxis",
-      "bundleIdentifier": "com.armengrewal.Pyxis",
-      "version": "3.1",
-      "versionDate": "2025-11-25",
-      "fullDate": "20251125231622",
-      "size": 49278519,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Pyxis_3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Pyxis_3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png"
     }
   ],
   "userInfo": {}
