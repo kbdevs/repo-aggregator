@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "RetroFix",
+      "type": 1,
+      "bundleID": "com.aismartapps.retrofix",
+      "bundleIdentifier": "com.aismartapps.retrofix",
+      "version": "1.0.34",
+      "versionDate": "2025-11-25",
+      "fullDate": "20251125231629",
+      "size": 59545764,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/RetroFix_1.0.34_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/RetroFix_1.0.34_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aismartapps.retrofix.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aismartapps.retrofix.png"
+    },
+    {
+      "name": "DJDrumPad",
+      "type": 1,
+      "bundleID": "mansuri.aidrumpadbeatsdjmixer.com",
+      "bundleIdentifier": "mansuri.aidrumpadbeatsdjmixer.com",
+      "version": "1.0",
+      "versionDate": "2025-11-25",
+      "fullDate": "20251125231627",
+      "size": 46320428,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/DJDrumPad_1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/DJDrumPad_1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mansuri.aidrumpadbeatsdjmixer.com.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mansuri.aidrumpadbeatsdjmixer.com.png"
+    },
+    {
+      "name": "Ironotes",
+      "type": 1,
+      "bundleID": "com.ironotes.Ironotes",
+      "bundleIdentifier": "com.ironotes.Ironotes",
+      "version": "1.181",
+      "versionDate": "2025-11-25",
+      "fullDate": "20251125231624",
+      "size": 64602957,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Ironotes_1.181_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Ironotes_1.181_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ironotes.Ironotes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ironotes.Ironotes.png"
+    },
+    {
       "name": "Pyxis",
       "type": 1,
       "bundleID": "com.armengrewal.Pyxis",
@@ -836,22 +884,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sato.tokyo.pixel-me.png"
     },
     {
-      "name": "LumaFusion",
-      "type": 1,
-      "bundleID": "com.luma-touch.LumaFusion",
-      "bundleIdentifier": "com.luma-touch.LumaFusion",
-      "version": "5.3.4",
-      "versionDate": "2025-10-30",
-      "fullDate": "20251030064252",
-      "size": 166132272,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/LumaFusion_5.3.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/LumaFusion_5.3.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png"
-    },
-    {
       "name": "JunoPublic",
       "type": 1,
       "bundleID": "com.rationalmatter.junoapp",
@@ -1074,22 +1106,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png"
-    },
-    {
-      "name": "PictureThis",
-      "type": 1,
-      "bundleID": "cn.danatech.xingseus",
-      "bundleIdentifier": "cn.danatech.xingseus",
-      "version": "5.34.0",
-      "versionDate": "2025-10-22",
-      "fullDate": "20251022132700",
-      "size": 135631878,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/PictureThis_5.34.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/PictureThis_5.34.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png"
     },
     {
       "name": "KitchenStories",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leica-camera.camera.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leica-camera.camera.png"
-    },
-    {
-      "name": "Float",
-      "type": 1,
-      "bundleID": "com.strv.labs.float",
-      "bundleIdentifier": "com.strv.labs.float",
-      "version": "3.6.6",
-      "versionDate": "2025-09-26",
-      "fullDate": "20250926045721",
-      "size": 54296954,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/Float_3.6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/Float_3.6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.strv.labs.float.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.strv.labs.float.png"
     }
   ],
   "userInfo": {}
