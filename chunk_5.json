@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Lunatask",
+      "type": 1,
+      "bundleID": "com.mikekreeki.tasks",
+      "bundleIdentifier": "com.mikekreeki.tasks",
+      "version": "2.1.18",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223163924",
+      "size": 14829930,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lunatask_2.1.18_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lunatask_2.1.18_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mikekreeki.tasks.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mikekreeki.tasks.png"
+    },
+    {
       "name": "QuoteUp",
       "type": 1,
       "bundleID": "vladchechura.MotivationEN",
@@ -1506,22 +1522,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png"
-    },
-    {
-      "name": "Things",
-      "type": 1,
-      "bundleID": "com.culturedcode.ThingsiPad",
-      "bundleIdentifier": "com.culturedcode.ThingsiPad",
-      "version": "3.22.5",
-      "versionDate": "2025-12-09",
-      "fullDate": "20251209043926",
-      "size": 23234875,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Things_3.22.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Things_3.22.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.culturedcode.ThingsiPad.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.culturedcode.ThingsiPad.png"
     },
     {
       "name": "Stay",

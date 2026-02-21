@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "BlockBlast",
+      "type": 2,
+      "bundleID": "com.blockpuzzle.us.ios",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "version": "6.7.9",
+      "versionDate": "2026-02-03",
+      "fullDate": "20260203175328",
+      "size": 129957047,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/BlockBlast_6.7.9_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/BlockBlast_6.7.9_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png"
+    },
+    {
+      "name": "FujiXWeekly",
+      "type": 1,
+      "bundleID": "com.fujixweekly.fujixweeklyrecipes",
+      "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
+      "version": "1.13.2",
+      "versionDate": "2026-02-03",
+      "fullDate": "20260203151733",
+      "size": 12843100,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/FujiXWeekly_1.13.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/FujiXWeekly_1.13.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png"
+    },
+    {
+      "name": "DiamondFinder",
+      "type": 1,
+      "bundleID": "com.mcdiamondfinder.app",
+      "bundleIdentifier": "com.mcdiamondfinder.app",
+      "version": "6.0.0",
+      "versionDate": "2026-02-03",
+      "fullDate": "20260203135716",
+      "size": 51205040,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/DiamondFinder_6.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/DiamondFinder_6.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
+    },
+    {
+      "name": "RunGo",
+      "type": 1,
+      "bundleID": "com.leapingcoyote.rungo",
+      "bundleIdentifier": "com.leapingcoyote.rungo",
+      "version": "7.2.4",
+      "versionDate": "2026-02-03",
+      "fullDate": "20260203132210",
+      "size": 38631071,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/RunGo_7.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/RunGo_7.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png"
+    },
+    {
       "name": "Paste",
       "type": 1,
       "bundleID": "com.wiheads.paste",
@@ -1108,22 +1172,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png"
     },
     {
-      "name": "AdobeFresco",
-      "type": 1,
-      "bundleID": "com.adobe.fresco.ios",
-      "bundleIdentifier": "com.adobe.fresco.ios",
-      "version": "7.1.2",
-      "versionDate": "2026-01-25",
-      "fullDate": "20260125003035",
-      "size": 736824644,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2026/AdobeFresco_7.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2026/AdobeFresco_7.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png"
-    },
-    {
       "name": "VideoStar",
       "type": 1,
       "bundleID": "com.frontierdesign.videostar",
@@ -1380,22 +1428,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ch.b-eng.tor.png"
     },
     {
-      "name": "FLTR",
-      "type": 1,
-      "bundleID": "com.feelty",
-      "bundleIdentifier": "com.feelty",
-      "version": "4.20.0",
-      "versionDate": "2026-01-21",
-      "fullDate": "20260121165629",
-      "size": 120080566,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-01-2026/FLTR_4.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-01-2026/FLTR_4.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png"
-    },
-    {
       "name": "Fing",
       "type": 1,
       "bundleID": "overlook.fing",
@@ -1458,22 +1490,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.daymore.Across.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.daymore.Across.png"
-    },
-    {
-      "name": "Lightroom",
-      "type": 1,
-      "bundleID": "com.adobe.lrmobilephone",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "version": "11.1.1",
-      "versionDate": "2026-01-20",
-      "fullDate": "20260120224059",
-      "size": 197999067,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Lightroom_11.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Lightroom_11.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
     },
     {
       "name": "Osmosis",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png"
-    },
-    {
-      "name": "Vixer",
-      "type": 1,
-      "bundleID": "com.vixerapp.Vixer",
-      "bundleIdentifier": "com.vixerapp.Vixer",
-      "version": "7.1",
-      "versionDate": "2026-01-19",
-      "fullDate": "20260119123144",
-      "size": 113550393,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-01-2026/Vixer_7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-01-2026/Vixer_7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vixerapp.Vixer.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vixerapp.Vixer.png"
     }
   ],
   "userInfo": {}
