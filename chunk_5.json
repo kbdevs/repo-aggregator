@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Lungy",
+      "type": 1,
+      "bundleID": "com.pia.lungy",
+      "bundleIdentifier": "com.pia.lungy",
+      "version": "2.9.26",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223163928",
+      "size": 214317666,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lungy_2.9.26_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lungy_2.9.26_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pia.lungy.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pia.lungy.png"
+    },
+    {
+      "name": "Alpenglow",
+      "type": 1,
+      "bundleID": "com.andydev.alpenglow",
+      "bundleIdentifier": "com.andydev.alpenglow",
+      "version": "11.1.3",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223163925",
+      "size": 63197872,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Alpenglow_11.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Alpenglow_11.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andydev.alpenglow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andydev.alpenglow.png"
+    },
+    {
       "name": "Lunatask",
       "type": 1,
       "bundleID": "com.mikekreeki.tasks",
@@ -1716,22 +1748,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ai.tattoo.generator.app.png"
     },
     {
-      "name": "Flow",
-      "type": 1,
-      "bundleID": "design.yugen.Flow",
-      "bundleIdentifier": "design.yugen.Flow",
-      "version": "4.6.1",
-      "versionDate": "2025-11-28",
-      "fullDate": "20251128050421",
-      "size": 18508209,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2025/Flow_4.6.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2025/Flow_4.6.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/design.yugen.Flow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/design.yugen.Flow.png"
-    },
-    {
       "name": "FitNotes",
       "type": 1,
       "bundleID": "xyz.gingertech.fitnotes",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png"
-    },
-    {
-      "name": "Labbet",
-      "type": 1,
-      "bundleID": "app.labbet.labbet",
-      "bundleIdentifier": "app.labbet.labbet",
-      "version": "2.50",
-      "versionDate": "2025-11-25",
-      "fullDate": "20251125231632",
-      "size": 105170356,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Labbet_2.50_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Labbet_2.50_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
     }
   ],
   "userInfo": {}

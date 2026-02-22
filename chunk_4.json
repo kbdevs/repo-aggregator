@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "FitnessAI",
+      "type": 1,
+      "bundleID": "com.jakemor.firness-ai",
+      "bundleIdentifier": "com.jakemor.firness-ai",
+      "version": "15.3",
+      "versionDate": "2026-01-19",
+      "fullDate": "20260119151259",
+      "size": 139571035,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-01-2026/FitnessAI_15.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-01-2026/FitnessAI_15.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png"
+    },
+    {
+      "name": "Clarity",
+      "type": 1,
+      "bundleID": "com.moodtools.thoughtdiary",
+      "bundleIdentifier": "com.moodtools.thoughtdiary",
+      "version": "5.5.14",
+      "versionDate": "2026-01-19",
+      "fullDate": "20260119134659",
+      "size": 151554153,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-01-2026/Clarity_5.5.14_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-01-2026/Clarity_5.5.14_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png"
+    },
+    {
       "name": "Vixer",
       "type": 1,
       "bundleID": "com.vixerapp.Vixer",
@@ -1746,38 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/DesignTech-SIA.Spendit.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/DesignTech-SIA.Spendit.png"
-    },
-    {
-      "name": "Lungy",
-      "type": 1,
-      "bundleID": "com.pia.lungy",
-      "bundleIdentifier": "com.pia.lungy",
-      "version": "2.9.26",
-      "versionDate": "2025-12-23",
-      "fullDate": "20251223163928",
-      "size": 214317666,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lungy_2.9.26_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lungy_2.9.26_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pia.lungy.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pia.lungy.png"
-    },
-    {
-      "name": "Alpenglow",
-      "type": 1,
-      "bundleID": "com.andydev.alpenglow",
-      "bundleIdentifier": "com.andydev.alpenglow",
-      "version": "11.1.3",
-      "versionDate": "2025-12-23",
-      "fullDate": "20251223163925",
-      "size": 63197872,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Alpenglow_11.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Alpenglow_11.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andydev.alpenglow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andydev.alpenglow.png"
     }
   ],
   "userInfo": {}

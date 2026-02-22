@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Labbet",
+      "type": 1,
+      "bundleID": "app.labbet.labbet",
+      "bundleIdentifier": "app.labbet.labbet",
+      "version": "2.50",
+      "versionDate": "2025-11-25",
+      "fullDate": "20251125231632",
+      "size": 105170356,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Labbet_2.50_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Labbet_2.50_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
+    },
+    {
       "name": "RetroFix",
       "type": 1,
       "bundleID": "com.aismartapps.retrofix",
@@ -610,22 +626,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png"
-    },
-    {
-      "name": "Sudoku",
-      "type": 2,
-      "bundleID": "com.ocho.SudokuaDay",
-      "bundleIdentifier": "com.ocho.SudokuaDay",
-      "version": "2.1.8",
-      "versionDate": "2025-11-05",
-      "fullDate": "20251105162345",
-      "size": 54962344,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/Sudoku_2.1.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2025/Sudoku_2.1.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ocho.SudokuaDay.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ocho.SudokuaDay.png"
     },
     {
       "name": "DeviceMonitor",
