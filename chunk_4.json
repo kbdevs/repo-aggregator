@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "FitnessCoach",
+      "type": 1,
+      "bundleID": "fitnessworkout.app",
+      "bundleIdentifier": "fitnessworkout.app",
+      "version": "2.13.1",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120144739",
+      "size": 162545823,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/FitnessCoach_2.13.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/FitnessCoach_2.13.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png"
+    },
+    {
+      "name": "Piano",
+      "type": 1,
+      "bundleID": "com.mwm.piano-app",
+      "bundleIdentifier": "com.mwm.piano-app",
+      "version": "3.55.00",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120143230",
+      "size": 147911145,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Piano_3.55.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Piano_3.55.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png"
+    },
+    {
+      "name": "Cubasis3",
+      "type": 1,
+      "bundleID": "com.steinberg.cubasis3",
+      "bundleIdentifier": "com.steinberg.cubasis3",
+      "version": "3.8.2",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120040039",
+      "size": 864212735,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Cubasis3_3.8.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Cubasis3_3.8.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steinberg.cubasis3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steinberg.cubasis3.png"
+    },
+    {
       "name": "FitnessAI",
       "type": 1,
       "bundleID": "com.jakemor.firness-ai",
@@ -274,22 +322,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png"
-    },
-    {
-      "name": "Radarbot",
-      "type": 1,
-      "bundleID": "com.iteration-mobile.radarbot-free-ww",
-      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
-      "version": "9.34",
-      "versionDate": "2026-01-15",
-      "fullDate": "20260115025545",
-      "size": 301384902,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-01-2026/Radarbot_9.34_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-01-2026/Radarbot_9.34_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Gold",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
       "name": "BodyFast",
@@ -1172,22 +1204,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png"
     },
     {
-      "name": "ReelsApp",
-      "type": 1,
-      "bundleID": "com.nextgen.reelsapp",
-      "bundleIdentifier": "com.nextgen.reelsapp",
-      "version": "7.4",
-      "versionDate": "2025-12-30",
-      "fullDate": "20251230203856",
-      "size": 88110569,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/ReelsApp_7.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/ReelsApp_7.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nextgen.reelsapp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nextgen.reelsapp.png"
-    },
-    {
       "name": "FoundIt",
       "type": 2,
       "bundleID": "games.urmobi.found.it",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png"
-    },
-    {
-      "name": "Accountit",
-      "type": 1,
-      "bundleID": "DesignTech-SIA.Spendit",
-      "bundleIdentifier": "DesignTech-SIA.Spendit",
-      "version": "2.6.8",
-      "versionDate": "2025-12-23",
-      "fullDate": "20251223163941",
-      "size": 56976378,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Accountit_2.6.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Accountit_2.6.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/DesignTech-SIA.Spendit.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/DesignTech-SIA.Spendit.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "InkhunterPremium",
+      "bundleIdentifier": "InkHunter.inkHunter",
+      "version": "3.0.6",
+      "versionDate": "2024-10-03",
+      "size": 18114231,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InkhunterPremium/InkhunterPremium-3.0.6.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png"
+    },
+    {
       "name": "Downie",
       "bundleIdentifier": "com.charliemonroe.Downie",
       "version": "1.0-92",

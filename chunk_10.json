@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Among Us - Hack",
+      "bundleIdentifier": "com.innersloth.amongus",
+      "developerName": "BabyloniPA",
+      "subtitle": "Hack Features:-\r\n- Everything is Owned",
+      "localizedDescription": "Hack Features:-\r\n- Everything is Owned\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.innersloth.amongus\n\n Downloads: 1496\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725959727.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17259597263412045677.webp",
+        "https://apps.nabzclan.vip/screenshots/17259597267059785399.webp",
+        "https://apps.nabzclan.vip/screenshots/17259597268838451230.webp",
+        "https://apps.nabzclan.vip/screenshots/17259597270514981087.webp",
+        "https://apps.nabzclan.vip/screenshots/17259597272517361069.webp",
+        "https://apps.nabzclan.vip/screenshots/17259597274294555019.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2024.10.29",
+          "date": "2024-10-23 13:01:48",
+          "localizedDescription": "Current of Among Us - Hack - 2024.10.29",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/820",
+          "size": 585315123
+        },
+        {
+          "version": "2024.8.13",
+          "date": "2024-09-10 13:15:27",
+          "localizedDescription": "Old Version of Among Us - Hack - 2024.8.13",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/520",
+          "size": 540960358
+        },
+        {
+          "version": "2024.10.29",
+          "date": "2024-10-23 13:01:48",
+          "localizedDescription": "Old Version of Among Us - Hack - 2024.10.29",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/820",
+          "size": 585315123
+        }
+      ],
+      "version": "2024.10.29",
+      "versionDate": "2024-10-23 13:01:48",
+      "versionDescription": "Hack Features:-\r\n- Everything is Owned",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/820",
+      "formatedsize": "558.2 MB",
+      "size": 585315123
+    },
+    {
       "name": "Trash Tycoon Idle Empire (Hack)",
       "bundleIdentifier": "com.funcell.trashinc",
       "developerName": "Babylonipa",
@@ -4496,41 +4543,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/93",
       "formatedsize": "45.6",
       "size": 45
-    },
-    {
-      "name": "Sodium Music player",
-      "bundleIdentifier": "com.cocotweaks.sodium",
-      "developerName": "CocoTweaks LLC",
-      "subtitle": "We're introducing sodium music player play any song you would like with no ads here are some features\r\n\r\n-Can make our own account to stay synced with the website version of sodium music player learn more account sodium web version.\r\n-stay updated with your fav music Artis\r\n\r\n-added app icon\r\n\r\n-loads faster\r\n\r\n-and more features",
-      "localizedDescription": "We're introducing sodium music player play any song you would like with no ads here are some features\r\n\r\n-Can make our own account to stay synced with the website version of sodium music player learn more account sodium web version.\r\n-stay updated with your fav music Artis\r\n\r\n-added app icon\r\n\r\n-loads faster\r\n\r\n-and more features\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.cocotweaks.sodium\n\n Downloads: 272\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1687271801.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1",
-          "date": "2023-06-20 14:36:41",
-          "localizedDescription": "Current of Sodium Music player - 1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/49",
-          "size": 771368
-        },
-        {
-          "version": "1.1",
-          "date": "2023-06-20 14:36:41",
-          "localizedDescription": "Old Version of Sodium Music player - 1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/49",
-          "size": 771368
-        }
-      ],
-      "version": "1.1",
-      "versionDate": "2023-06-20 14:36:41",
-      "versionDescription": "We're introducing sodium music player play any song you would like with no ads here are some features\r\n\r\n-Can make our own account to stay synced with the website version of sodium music player learn more account sodium web version.\r\n-stay updated with your fav music Artis\r\n\r\n-added app icon\r\n\r\n-loads faster\r\n\r\n-and more features",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/49",
-      "formatedsize": "753.29 KB",
-      "size": 771368
     }
   ],
   "userInfo": {}

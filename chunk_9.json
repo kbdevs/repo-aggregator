@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "MiniGames - Watch Games Arcade",
+      "bundleIdentifier": "com.alhogames.Twisted",
+      "developerName": "AlhoGames",
+      "subtitle": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\r\nIt's like your own personal games arcade on the go.",
+      "localizedDescription": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\r\nIt's like your own personal games arcade on the go.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.alhogames.Twisted\n\n Downloads: 693\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1735165796.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17351657960145108316.webp",
+        "https://apps.nabzclan.vip/screenshots/17351657961352193566.webp",
+        "https://apps.nabzclan.vip/screenshots/17351657962143959676.webp",
+        "https://apps.nabzclan.vip/screenshots/17351657963248891583.webp",
+        "https://apps.nabzclan.vip/screenshots/17351657964499176751.webp",
+        "https://apps.nabzclan.vip/screenshots/17351657965423718623.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.22.11",
+          "date": "2024-12-25 17:29:56",
+          "localizedDescription": "Current of MiniGames - Watch Games Arcade - 1.22.11",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1148",
+          "size": 36050042
+        },
+        {
+          "version": "1.22.11",
+          "date": "2024-12-25 17:29:56",
+          "localizedDescription": "Old Version of MiniGames - Watch Games Arcade - 1.22.11",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1148",
+          "size": 36050042
+        }
+      ],
+      "version": "1.22.11",
+      "versionDate": "2024-12-25 17:29:56",
+      "versionDescription": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\r\nIt's like your own personal games arcade on the go.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1148",
+      "formatedsize": "34.38 MB",
+      "size": 36050042
+    },
+    {
       "name": "Isoland : Pumpkin town",
       "bundleIdentifier": "com.redfishgame.isolandEN",
       "developerName": "COTTONGAME Network Technology Co., Ltd.",
@@ -4684,53 +4724,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/822",
       "formatedsize": "65.3 MB",
       "size": 68472012
-    },
-    {
-      "name": "Among Us - Hack",
-      "bundleIdentifier": "com.innersloth.amongus",
-      "developerName": "BabyloniPA",
-      "subtitle": "Hack Features:-\r\n- Everything is Owned",
-      "localizedDescription": "Hack Features:-\r\n- Everything is Owned\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.innersloth.amongus\n\n Downloads: 1496\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725959727.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17259597263412045677.webp",
-        "https://apps.nabzclan.vip/screenshots/17259597267059785399.webp",
-        "https://apps.nabzclan.vip/screenshots/17259597268838451230.webp",
-        "https://apps.nabzclan.vip/screenshots/17259597270514981087.webp",
-        "https://apps.nabzclan.vip/screenshots/17259597272517361069.webp",
-        "https://apps.nabzclan.vip/screenshots/17259597274294555019.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2024.10.29",
-          "date": "2024-10-23 13:01:48",
-          "localizedDescription": "Current of Among Us - Hack - 2024.10.29",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/820",
-          "size": 585315123
-        },
-        {
-          "version": "2024.8.13",
-          "date": "2024-09-10 13:15:27",
-          "localizedDescription": "Old Version of Among Us - Hack - 2024.8.13",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/520",
-          "size": 540960358
-        },
-        {
-          "version": "2024.10.29",
-          "date": "2024-10-23 13:01:48",
-          "localizedDescription": "Old Version of Among Us - Hack - 2024.10.29",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/820",
-          "size": 585315123
-        }
-      ],
-      "version": "2024.10.29",
-      "versionDate": "2024-10-23 13:01:48",
-      "versionDescription": "Hack Features:-\r\n- Everything is Owned",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/820",
-      "formatedsize": "558.2 MB",
-      "size": 585315123
     }
   ],
   "userInfo": {}

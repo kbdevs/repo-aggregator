@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Matching Story (Hack)",
+      "bundleIdentifier": "matching.story",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: matching.story\n\n Downloads: 56\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731627719.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17316277194215499003.webp",
+        "https://apps.nabzclan.vip/screenshots/17316277195561244065.webp",
+        "https://apps.nabzclan.vip/screenshots/17316277196454739629.webp",
+        "https://apps.nabzclan.vip/screenshots/17316277196831379782.webp",
+        "https://apps.nabzclan.vip/screenshots/17316277197702619203.webp",
+        "https://apps.nabzclan.vip/screenshots/17316277198288668809.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.35.03",
+          "date": "2025-03-29 18:10:49",
+          "localizedDescription": "Current of Matching Story (Hack) - 1.35.03",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1323",
+          "size": 277243494
+        },
+        {
+          "version": "1.35.03",
+          "date": "2025-03-29 18:10:49",
+          "localizedDescription": "Old Version of Matching Story (Hack) - 1.35.03",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1323",
+          "size": 277243494
+        }
+      ],
+      "version": "1.35.03",
+      "versionDate": "2025-03-29 18:10:49",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1323",
+      "formatedsize": "264.4 MB",
+      "size": 277243494
+    },
+    {
       "name": "Clean Road (Hack)",
       "bundleIdentifier": "com.clean.road",
       "developerName": "Nabzclan",
@@ -4550,46 +4590,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1149",
       "formatedsize": "636.8 MB",
       "size": 667733196
-    },
-    {
-      "name": "MiniGames - Watch Games Arcade",
-      "bundleIdentifier": "com.alhogames.Twisted",
-      "developerName": "AlhoGames",
-      "subtitle": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\r\nIt's like your own personal games arcade on the go.",
-      "localizedDescription": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\r\nIt's like your own personal games arcade on the go.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.alhogames.Twisted\n\n Downloads: 693\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735165796.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351657960145108316.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657961352193566.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657962143959676.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657963248891583.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657964499176751.webp",
-        "https://apps.nabzclan.vip/screenshots/17351657965423718623.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.22.11",
-          "date": "2024-12-25 17:29:56",
-          "localizedDescription": "Current of MiniGames - Watch Games Arcade - 1.22.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1148",
-          "size": 36050042
-        },
-        {
-          "version": "1.22.11",
-          "date": "2024-12-25 17:29:56",
-          "localizedDescription": "Old Version of MiniGames - Watch Games Arcade - 1.22.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1148",
-          "size": 36050042
-        }
-      ],
-      "version": "1.22.11",
-      "versionDate": "2024-12-25 17:29:56",
-      "versionDescription": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\r\nIt's like your own personal games arcade on the go.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1148",
-      "formatedsize": "34.38 MB",
-      "size": 36050042
     }
   ],
   "userInfo": {}

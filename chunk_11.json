@@ -4,6 +4,41 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Sodium Music player",
+      "bundleIdentifier": "com.cocotweaks.sodium",
+      "developerName": "CocoTweaks LLC",
+      "subtitle": "We're introducing sodium music player play any song you would like with no ads here are some features\r\n\r\n-Can make our own account to stay synced with the website version of sodium music player learn more account sodium web version.\r\n-stay updated with your fav music Artis\r\n\r\n-added app icon\r\n\r\n-loads faster\r\n\r\n-and more features",
+      "localizedDescription": "We're introducing sodium music player play any song you would like with no ads here are some features\r\n\r\n-Can make our own account to stay synced with the website version of sodium music player learn more account sodium web version.\r\n-stay updated with your fav music Artis\r\n\r\n-added app icon\r\n\r\n-loads faster\r\n\r\n-and more features\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.cocotweaks.sodium\n\n Downloads: 272\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1687271801.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2023-06-20 14:36:41",
+          "localizedDescription": "Current of Sodium Music player - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/49",
+          "size": 771368
+        },
+        {
+          "version": "1.1",
+          "date": "2023-06-20 14:36:41",
+          "localizedDescription": "Old Version of Sodium Music player - 1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/49",
+          "size": 771368
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2023-06-20 14:36:41",
+      "versionDescription": "We're introducing sodium music player play any song you would like with no ads here are some features\r\n\r\n-Can make our own account to stay synced with the website version of sodium music player learn more account sodium web version.\r\n-stay updated with your fav music Artis\r\n\r\n-added app icon\r\n\r\n-loads faster\r\n\r\n-and more features",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/49",
+      "formatedsize": "753.29 KB",
+      "size": 771368
+    },
+    {
       "name": "The Weather Channel (No Ads)",
       "bundleIdentifier": "com.weather.TWC",
       "developerName": "unknown",
@@ -1260,17 +1295,6 @@
       "developerName": "IAppsBestLibrary",
       "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 08-12-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ylee.studio.instories.png"
-    },
-    {
-      "name": "InkhunterPremium",
-      "bundleIdentifier": "InkHunter.inkHunter",
-      "version": "3.0.6",
-      "versionDate": "2024-10-03",
-      "size": 18114231,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InkhunterPremium/InkhunterPremium-3.0.6.ipa",
-      "developerName": "Paisseon",
-      "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png"
     }
   ],
   "userInfo": {}
