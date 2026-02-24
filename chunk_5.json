@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Brainout2",
+      "type": 2,
+      "bundleID": "com.mind.quiz.brainout2",
+      "bundleIdentifier": "com.mind.quiz.brainout2",
+      "version": "1.0.8",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223164451",
+      "size": 156547894,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Brainout2_1.0.8_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Brainout2_1.0.8_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brainout2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brainout2.png"
+    },
+    {
+      "name": "Lyfta",
+      "type": 1,
+      "bundleID": "com.lyftaios",
+      "bundleIdentifier": "com.lyftaios",
+      "version": "1.129",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223163944",
+      "size": 120869227,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lyfta_1.129_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lyfta_1.129_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png"
+    },
+    {
       "name": "Accountit",
       "type": 1,
       "bundleID": "DesignTech-SIA.Spendit",
@@ -1092,22 +1124,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/RVS-Riverside.fm.png"
     },
     {
-      "name": "Mondly",
-      "type": 1,
-      "bundleID": "com.atistudios.MondlyLanguages",
-      "bundleIdentifier": "com.atistudios.MondlyLanguages",
-      "version": "10.65.0",
-      "versionDate": "2025-12-16",
-      "fullDate": "20251216114512",
-      "size": 196775351,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Mondly_10.65.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Mondly_10.65.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png"
-    },
-    {
       "name": "fGet",
       "type": 1,
       "bundleID": "com.penguinbit.fastdownload",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ai.tattoo.generator.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ai.tattoo.generator.app.png"
-    },
-    {
-      "name": "FitNotes",
-      "type": 1,
-      "bundleID": "xyz.gingertech.fitnotes",
-      "bundleIdentifier": "xyz.gingertech.fitnotes",
-      "version": "14",
-      "versionDate": "2025-11-27",
-      "fullDate": "20251127210841",
-      "size": 10731773,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2025/FitNotes_14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2025/FitNotes_14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png"
     }
   ],
   "userInfo": {}
