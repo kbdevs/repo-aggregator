@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "KineMaster",
+      "type": 1,
+      "bundleID": "com.kinemaster.kios",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "version": "8.0.19",
+      "versionDate": "2026-02-05",
+      "fullDate": "20260205152057",
+      "size": 116491193,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/KineMaster_8.0.19_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/KineMaster_8.0.19_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
+    },
+    {
       "name": "AIMarvels",
       "type": 1,
       "bundleID": "com.hitpaw.photoenhancer",
@@ -466,22 +482,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photomyne.photomyneapplite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photomyne.photomyneapplite.png"
-    },
-    {
-      "name": "SoundCloud",
-      "type": 1,
-      "bundleID": "com.soundcloud.TouchApp",
-      "bundleIdentifier": "com.soundcloud.TouchApp",
-      "version": "8.46.0",
-      "versionDate": "2026-02-03",
-      "fullDate": "20260203003258",
-      "size": 106694198,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/SoundCloud_8.46.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/SoundCloud_8.46.0_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png"
     },
     {
       "name": "Unfold",

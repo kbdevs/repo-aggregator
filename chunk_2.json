@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "AlfredCamera",
+      "type": 1,
+      "bundleID": "com.kalavision.alfred",
+      "bundleIdentifier": "com.kalavision.alfred",
+      "version": "2026.3.2",
+      "versionDate": "2026-02-15",
+      "fullDate": "20260215034919",
+      "size": 126677902,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-02-2026/AlfredCamera_2026.3.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-02-2026/AlfredCamera_2026.3.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png"
+    },
+    {
       "name": "Animock",
       "type": 1,
       "bundleID": "com.hassantaleb.mockup",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png"
-    },
-    {
-      "name": "KineMaster",
-      "type": 1,
-      "bundleID": "com.kinemaster.kios",
-      "bundleIdentifier": "com.kinemaster.kios",
-      "version": "8.0.19",
-      "versionDate": "2026-02-05",
-      "fullDate": "20260205152057",
-      "size": 116491193,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/KineMaster_8.0.19_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/KineMaster_8.0.19_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
     }
   ],
   "userInfo": {}

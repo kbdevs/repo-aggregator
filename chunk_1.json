@@ -870,6 +870,38 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "SoundCloud",
+      "type": 1,
+      "bundleID": "com.soundcloud.TouchApp",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "version": "8.49.1",
+      "versionDate": "2026-02-25",
+      "fullDate": "20260225015550",
+      "size": 107900987,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-02-2026/SoundCloud_8.49.1_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-02-2026/SoundCloud_8.49.1_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png"
+    },
+    {
+      "name": "Instagram",
+      "type": 1,
+      "bundleID": "com.burbn.instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "418.0.0",
+      "versionDate": "2026-02-24",
+      "fullDate": "20260224113931",
+      "size": 244293320,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-02-2026/Instagram_418.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-02-2026/Instagram_418.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png"
+    },
+    {
       "name": "AutoCAD",
       "type": 1,
       "bundleID": "com.autodesk.autocadws",
@@ -1734,22 +1766,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
     },
     {
-      "name": "Instagram",
-      "type": 1,
-      "bundleID": "com.burbn.instagram",
-      "bundleIdentifier": "com.burbn.instagram",
-      "version": "417.1.0",
-      "versionDate": "2026-02-18",
-      "fullDate": "20260218223508",
-      "size": 245826866,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-02-2026/Instagram_417.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-02-2026/Instagram_417.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png"
-    },
-    {
       "name": "FELFishEyeLens",
       "type": 1,
       "bundleID": "com.phantom.fantengmu",
@@ -2500,22 +2516,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
-    },
-    {
-      "name": "AlfredCamera",
-      "type": 1,
-      "bundleID": "com.kalavision.alfred",
-      "bundleIdentifier": "com.kalavision.alfred",
-      "version": "2026.3.2",
-      "versionDate": "2026-02-15",
-      "fullDate": "20260215034919",
-      "size": 126677902,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-02-2026/AlfredCamera_2026.3.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-02-2026/AlfredCamera_2026.3.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png"
     }
   ],
   "userInfo": {}
