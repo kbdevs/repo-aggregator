@@ -870,6 +870,54 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "Infuse",
+      "type": 1,
+      "bundleID": "com.firecore.infuse",
+      "bundleIdentifier": "com.firecore.infuse",
+      "version": "8.3.9",
+      "versionDate": "2026-02-27",
+      "fullDate": "20260227145056",
+      "size": 73508626,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-02-2026/Infuse_8.3.9_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-02-2026/Infuse_8.3.9_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png"
+    },
+    {
+      "name": "BHTikTokPlus",
+      "type": 1,
+      "bundleID": "com.zhiliaoapp.musically",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "43.9.0",
+      "versionDate": "2026-02-27",
+      "fullDate": "20260227132535",
+      "size": 396130174,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-02-2026/BHTikTokPlus_43.9.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-02-2026/BHTikTokPlus_43.9.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
+      "name": "ZombieCatchers",
+      "type": 2,
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+      "version": "1.61.2",
+      "versionDate": "2026-02-27",
+      "fullDate": "20260227132028",
+      "size": 112146264,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-02-2026/ZombieCatchers_1.61.2_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-02-2026/ZombieCatchers_1.61.2_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png"
+    },
+    {
       "name": "SoundCloud",
       "type": 1,
       "bundleID": "com.soundcloud.TouchApp",
@@ -2438,22 +2486,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png"
     },
     {
-      "name": "Infuse",
-      "type": 1,
-      "bundleID": "com.firecore.infuse",
-      "bundleIdentifier": "com.firecore.infuse",
-      "version": "8.3.8",
-      "versionDate": "2026-02-16",
-      "fullDate": "20260216115723",
-      "size": 77446250,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-02-2026/Infuse_8.3.8_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-02-2026/Infuse_8.3.8_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png"
-    },
-    {
       "name": "Sofa",
       "type": 1,
       "bundleID": "com.astrio.Sofa",
@@ -3412,22 +3444,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png"
-    },
-    {
-      "name": "TikTok",
-      "type": 1,
-      "bundleID": "com.zhiliaoapp.musically",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "43.8.0",
-      "versionDate": "2026-02-11",
-      "fullDate": "20260211004457",
-      "size": 411002865,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-02-2026/TikTok_43.8.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-02-2026/TikTok_43.8.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
       "name": "SCRL",
@@ -5076,22 +5092,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png"
-    },
-    {
-      "name": "ZombieCatchers",
-      "type": 2,
-      "bundleID": "fi.twomenandadog.zombiecatchers",
-      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
-      "version": "1.60.10",
-      "versionDate": "2026-02-01",
-      "fullDate": "20260201054341",
-      "size": 112061931,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/ZombieCatchers_1.60.10_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/ZombieCatchers_1.60.10_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png"
     },
     {
       "name": "MacroFactor",
