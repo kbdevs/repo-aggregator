@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Glitch",
+      "type": 1,
+      "bundleID": "com.glitche.ios.glitcheapp",
+      "bundleIdentifier": "com.glitche.ios.glitcheapp",
+      "version": "2.75",
+      "versionDate": "2025-09-28",
+      "fullDate": "20250928160323",
+      "size": 136700669,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Glitch_2.75_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Glitch_2.75_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glitche.ios.glitcheapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glitche.ios.glitcheapp.png"
+    },
+    {
       "name": "LeicaLUX",
       "type": 1,
       "bundleID": "com.leica-camera.camera",
@@ -1855,46 +1871,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
       "formatedsize": "189.4 MB",
       "size": 198600294
-    },
-    {
-      "name": "Car Scanner ELM OBD2 (Hack)",
-      "bundleIdentifier": "ovz.Car-Scanner",
-      "developerName": "nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: ovz.Car-Scanner\n\n Downloads: 31\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1726697346.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17266973451493354150.webp",
-        "https://apps.nabzclan.vip/screenshots/17266973455279088299.webp",
-        "https://apps.nabzclan.vip/screenshots/17266973457384151305.webp",
-        "https://apps.nabzclan.vip/screenshots/17266973460607023303.webp",
-        "https://apps.nabzclan.vip/screenshots/17266973462472993780.webp",
-        "https://apps.nabzclan.vip/screenshots/17266973464223396038.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.118.0",
-          "date": "2025-05-10 00:22:46",
-          "localizedDescription": "Current of Car Scanner ELM OBD2 (Hack) - 1.118.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1358",
-          "size": 67643637
-        },
-        {
-          "version": "1.118.0",
-          "date": "2025-05-10 00:22:46",
-          "localizedDescription": "Old Version of Car Scanner ELM OBD2 (Hack) - 1.118.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1358",
-          "size": 67643637
-        }
-      ],
-      "version": "1.118.0",
-      "versionDate": "2025-05-10 00:22:46",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1358",
-      "formatedsize": "64.51 MB",
-      "size": 67643637
     },
     {
       "name": "P12Cracker",

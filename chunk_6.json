@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Airbrush",
+      "type": 1,
+      "bundleID": "com.magicv.AirBrush",
+      "bundleIdentifier": "com.magicv.AirBrush",
+      "version": "7.21.0",
+      "versionDate": "2025-11-30",
+      "fullDate": "20251130025609",
+      "size": 397571888,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/Airbrush_7.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/Airbrush_7.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magicv.AirBrush.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magicv.AirBrush.png"
+    },
+    {
+      "name": "AITattoo",
+      "type": 1,
+      "bundleID": "com.ai.tattoo.generator.app",
+      "bundleIdentifier": "com.ai.tattoo.generator.app",
+      "version": "1.6.0",
+      "versionDate": "2025-11-28",
+      "fullDate": "20251128051939",
+      "size": 219966486,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2025/AITattoo_1.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2025/AITattoo_1.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ai.tattoo.generator.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ai.tattoo.generator.app.png"
+    },
+    {
       "name": "FitNotes",
       "type": 1,
       "bundleID": "xyz.gingertech.fitnotes",
@@ -546,22 +578,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iphoneislam.wavenet.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iphoneislam.wavenet.png"
-    },
-    {
-      "name": "Speedometer",
-      "type": 1,
-      "bundleID": "com.jps.gpspeedhud",
-      "bundleIdentifier": "com.jps.gpspeedhud",
-      "version": "7.1.4",
-      "versionDate": "2025-11-14",
-      "fullDate": "20251114061943",
-      "size": 29155388,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-11-2025/Speedometer_7.1.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-11-2025/Speedometer_7.1.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jps.gpspeedhud.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jps.gpspeedhud.png"
     },
     {
       "name": "PlantApp",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png"
-    },
-    {
-      "name": "Glitch",
-      "type": 1,
-      "bundleID": "com.glitche.ios.glitcheapp",
-      "bundleIdentifier": "com.glitche.ios.glitcheapp",
-      "version": "2.75",
-      "versionDate": "2025-09-28",
-      "fullDate": "20250928160323",
-      "size": 136700669,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Glitch_2.75_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Glitch_2.75_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glitche.ios.glitcheapp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glitche.ios.glitcheapp.png"
     }
   ],
   "userInfo": {}
