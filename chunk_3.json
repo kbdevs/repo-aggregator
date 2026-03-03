@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "SpyCamera",
+      "type": 1,
+      "bundleID": "com.spycamera.app",
+      "bundleIdentifier": "com.spycamera.app",
+      "version": "2.3",
+      "versionDate": "2026-02-06",
+      "fullDate": "20260206052149",
+      "size": 42418702,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/SpyCamera_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/SpyCamera_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spycamera.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spycamera.app.png"
+    },
+    {
+      "name": "Scoreboard",
+      "type": 1,
+      "bundleID": "com.edwinchan.Scoreboard",
+      "bundleIdentifier": "com.edwinchan.Scoreboard",
+      "version": "1.8.4",
+      "versionDate": "2026-02-06",
+      "fullDate": "20260206051132",
+      "size": 15530674,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/Scoreboard_1.8.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/Scoreboard_1.8.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png"
+    },
+    {
+      "name": "MergeCooking",
+      "type": 2,
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
+      "version": "1.29.0",
+      "versionDate": "2026-02-06",
+      "fullDate": "20260206050554",
+      "size": 308866393,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/MergeCooking_1.29.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/MergeCooking_1.29.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png"
+    },
+    {
+      "name": "TickTick",
+      "type": 1,
+      "bundleID": "com.TickTick.task",
+      "bundleIdentifier": "com.TickTick.task",
+      "version": "8.0.20",
+      "versionDate": "2026-02-06",
+      "fullDate": "20260206045546",
+      "size": 99588303,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/TickTick_8.0.20_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/TickTick_8.0.20_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TickTick.task.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TickTick.task.png"
+    },
+    {
       "name": "SkyGuide",
       "type": 1,
       "bundleID": "com.fifthstarlabs.skyguide",
@@ -532,22 +596,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png"
     },
     {
-      "name": "Headway",
-      "type": 1,
-      "bundleID": "com.headway.books",
-      "bundleIdentifier": "com.headway.books",
-      "version": "367.3",
-      "versionDate": "2026-02-03",
-      "fullDate": "20260203005330",
-      "size": 278645243,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/Headway_367.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/Headway_367.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
-    },
-    {
       "name": "Photomyne",
       "type": 1,
       "bundleID": "com.photomyne.photomyneapplite",
@@ -562,22 +610,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photomyne.photomyneapplite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photomyne.photomyneapplite.png"
-    },
-    {
-      "name": "Unfold",
-      "type": 1,
-      "bundleID": "com.moonlab.unfoldstories",
-      "bundleIdentifier": "com.moonlab.unfoldstories",
-      "version": "8.154.0",
-      "versionDate": "2026-02-02",
-      "fullDate": "20260202212207",
-      "size": 174506321,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/Unfold_8.154.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/Unfold_8.154.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png"
     },
     {
       "name": "Scanner",
@@ -1268,22 +1300,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png"
     },
     {
-      "name": "Precious",
-      "type": 1,
-      "bundleID": "com.laubrothersllc.BabyArt",
-      "bundleIdentifier": "com.laubrothersllc.BabyArt",
-      "version": "3.50.0",
-      "versionDate": "2026-01-27",
-      "fullDate": "20260127134252",
-      "size": 318332647,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-01-2026/Precious_3.50.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-01-2026/Precious_3.50.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.laubrothersllc.BabyArt.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.laubrothersllc.BabyArt.png"
-    },
-    {
       "name": "ism",
       "type": 1,
       "bundleID": "com.ahaf.mshion",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.withopal.opal.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.withopal.opal.png"
-    },
-    {
-      "name": "Radiance",
-      "type": 1,
-      "bundleID": "SimpleTools.Wallpaper-Workshop",
-      "bundleIdentifier": "SimpleTools.Wallpaper-Workshop",
-      "version": "2.2.7",
-      "versionDate": "2026-01-20",
-      "fullDate": "20260120170912",
-      "size": 27521382,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Radiance_2.2.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Radiance_2.2.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/SimpleTools.Wallpaper-Workshop.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/SimpleTools.Wallpaper-Workshop.png"
     }
   ],
   "userInfo": {}
