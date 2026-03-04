@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Bazaart",
+      "type": 1,
+      "bundleID": "co.bazaart.app",
+      "bundleIdentifier": "co.bazaart.app",
+      "version": "26.1.2",
+      "versionDate": "2026-02-16",
+      "fullDate": "20260216231141",
+      "size": 97523034,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-02-2026/Bazaart_26.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-02-2026/Bazaart_26.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
+    },
+    {
+      "name": "Facetune",
+      "type": 1,
+      "bundleID": "com.lightricks.Facetune2",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "version": "3.119",
+      "versionDate": "2026-02-16",
+      "fullDate": "20260216230125",
+      "size": 339798509,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-02-2026/Facetune_3.119_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-02-2026/Facetune_3.119_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png"
+    },
+    {
+      "name": "CLIME",
+      "type": 1,
+      "bundleID": "com.apalonapps.radarfree",
+      "bundleIdentifier": "com.apalonapps.radarfree",
+      "version": "5.13.66",
+      "versionDate": "2026-02-16",
+      "fullDate": "20260216225612",
+      "size": 177003014,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-02-2026/CLIME_5.13.66_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-02-2026/CLIME_5.13.66_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
+    },
+    {
       "name": "Edith",
       "type": 1,
       "bundleID": "com.thenovik.Presets",
@@ -628,22 +676,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
     },
     {
-      "name": "VSCO",
-      "type": 1,
-      "bundleID": "co.visualsupply.cam",
-      "bundleIdentifier": "co.visualsupply.cam",
-      "version": "456.0.3",
-      "versionDate": "2026-02-13",
-      "fullDate": "20260213114636",
-      "size": 197403600,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/VSCO_456.0.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/VSCO_456.0.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
-    },
-    {
       "name": "Action",
       "type": 1,
       "bundleID": "com.future.kapi",
@@ -690,22 +722,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png"
-    },
-    {
-      "name": "Wikiloc",
-      "type": 1,
-      "bundleID": "com.wikiloc.wikiloc",
-      "bundleIdentifier": "com.wikiloc.wikiloc",
-      "version": "3.26.2",
-      "versionDate": "2026-02-13",
-      "fullDate": "20260213114056",
-      "size": 113237259,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/Wikiloc_3.26.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/Wikiloc_3.26.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png"
     },
     {
       "name": "Cure",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png"
-    },
-    {
-      "name": "InCollage",
-      "type": 1,
-      "bundleID": "PhotoEditor.PhotoCollage.inCollage",
-      "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
-      "version": "2.2.20",
-      "versionDate": "2026-02-06",
-      "fullDate": "20260206070818",
-      "size": 161531890,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/InCollage_2.2.20_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/InCollage_2.2.20_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png"
     }
   ],
   "userInfo": {}
