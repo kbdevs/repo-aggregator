@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "LiveTranscribe",
+      "type": 1,
+      "bundleID": "com.robnorback.LiveTranscribe",
+      "bundleIdentifier": "com.robnorback.LiveTranscribe",
+      "version": "2.45",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223170540",
+      "size": 78325871,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/LiveTranscribe_2.45_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/LiveTranscribe_2.45_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.robnorback.LiveTranscribe.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.robnorback.LiveTranscribe.png"
+    },
+    {
+      "name": "Brite",
+      "type": 1,
+      "bundleID": "io.konveier.timo",
+      "bundleIdentifier": "io.konveier.timo",
+      "version": "24.4.9",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223165531",
+      "size": 25567397,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Brite_24.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Brite_24.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png"
+    },
+    {
       "name": "Bookshelf",
       "type": 1,
       "bundleID": "alexgerrese.summarize",
@@ -690,22 +722,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png"
-    },
-    {
-      "name": "Minutes",
-      "type": 1,
-      "bundleID": "ventures.slam.minutes",
-      "bundleIdentifier": "ventures.slam.minutes",
-      "version": "1.9.13",
-      "versionDate": "2025-12-18",
-      "fullDate": "20251218124402",
-      "size": 14833638,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2025/Minutes_1.9.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2025/Minutes_1.9.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png"
     },
     {
       "name": "Temply",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png"
-    },
-    {
-      "name": "Avatarify",
-      "type": 1,
-      "bundleID": "com.v43years.avatarify2",
-      "bundleIdentifier": "com.v43years.avatarify2",
-      "version": "2.31",
-      "versionDate": "2025-11-30",
-      "fullDate": "20251130131732",
-      "size": 166052144,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/Avatarify_2.31_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/Avatarify_2.31_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.v43years.avatarify2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.v43years.avatarify2.png"
     }
   ],
   "userInfo": {}
