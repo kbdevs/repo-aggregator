@@ -870,6 +870,70 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "UpNote",
+      "type": 1,
+      "bundleID": "com.getupnote.ios",
+      "bundleIdentifier": "com.getupnote.ios",
+      "version": "9.17.6",
+      "versionDate": "2026-03-08",
+      "fullDate": "20260308053128",
+      "size": 52614877,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-03-2026/UpNote_9.17.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-03-2026/UpNote_9.17.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png"
+    },
+    {
+      "name": "Crsel",
+      "type": 1,
+      "bundleID": "com.frameoneapps.Crsel",
+      "bundleIdentifier": "com.frameoneapps.Crsel",
+      "version": "1.3.601",
+      "versionDate": "2026-03-07",
+      "fullDate": "20260307223047",
+      "size": 150229589,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/Crsel_1.3.601_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/Crsel_1.3.601_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png"
+    },
+    {
+      "name": "Workouts",
+      "type": 1,
+      "bundleID": "com.sbs.train",
+      "bundleIdentifier": "com.sbs.train",
+      "version": "1.1.5",
+      "versionDate": "2026-03-07",
+      "fullDate": "20260307195027",
+      "size": 181003775,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/Workouts_1.1.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/Workouts_1.1.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png"
+    },
+    {
+      "name": "Mindllama",
+      "type": 1,
+      "bundleID": "com.vitalii.mind",
+      "bundleIdentifier": "com.vitalii.mind",
+      "version": "2.5.6",
+      "versionDate": "2026-03-07",
+      "fullDate": "20260307191511",
+      "size": 182111972,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/Mindllama_2.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/Mindllama_2.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png"
+    },
+    {
       "name": "Mercury",
       "type": 1,
       "bundleID": "com.tripleglazedstudios.Weather",
@@ -2774,22 +2838,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png"
     },
     {
-      "name": "UpNote",
-      "type": 1,
-      "bundleID": "com.getupnote.ios",
-      "bundleIdentifier": "com.getupnote.ios",
-      "version": "9.17.2",
-      "versionDate": "2026-02-17",
-      "fullDate": "20260217164947",
-      "size": 52305075,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-02-2026/UpNote_9.17.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-02-2026/UpNote_9.17.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png"
-    },
-    {
       "name": "ColorPop",
       "type": 1,
       "bundleID": "com.mwm.procolor",
@@ -3830,22 +3878,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png"
     },
     {
-      "name": "Mindllama",
-      "type": 1,
-      "bundleID": "com.vitalii.mind",
-      "bundleIdentifier": "com.vitalii.mind",
-      "version": "2.5.5",
-      "versionDate": "2026-02-13",
-      "fullDate": "20260213103113",
-      "size": 182122593,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/Mindllama_2.5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/Mindllama_2.5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png"
-    },
-    {
       "name": "Slopes",
       "type": 1,
       "bundleID": "com.consumedbycode.slopes",
@@ -4422,22 +4454,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png"
     },
     {
-      "name": "Workouts",
-      "type": 1,
-      "bundleID": "com.sbs.train",
-      "bundleIdentifier": "com.sbs.train",
-      "version": "1.1.3",
-      "versionDate": "2026-02-06",
-      "fullDate": "20260206230558",
-      "size": 148546295,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/Workouts_1.1.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/Workouts_1.1.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png"
-    },
-    {
       "name": "NeoServer",
       "type": 1,
       "bundleID": "com.neo.NeoMan",
@@ -4628,22 +4644,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png"
-    },
-    {
-      "name": "Crsel",
-      "type": 1,
-      "bundleID": "com.frameoneapps.Crsel",
-      "bundleIdentifier": "com.frameoneapps.Crsel",
-      "version": "1.3.4",
-      "versionDate": "2026-02-05",
-      "fullDate": "20260205154606",
-      "size": 150614001,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/Crsel_1.3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/Crsel_1.3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png"
     },
     {
       "name": "KineMaster",
@@ -30103,11 +30103,21 @@
       },
       "versions": [
         {
-          "version": "1.0",
-          "date": "2023-05-06T17:00:00-05:00",
-          "localizedDescription": "Amethyst's 1.0 beta, built on PojavLauncher 3.0.",
-          "downloadURL": "https://ci.angelauramc.dev/job/Amethyst-iOS/lastSuccessfulBuild/artifact/artifacts/org.angelauramc.amethyst-1.0-ios.ipa",
-          "size": 108175347,
+          "version": "1.0-287e821",
+          "date": "2026-03-07T03:23:43.773901+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"287e821\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/287e821/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150357328,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0-e49c3fa",
+          "date": "2026-03-07T02:54:16.444233+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"e49c3fa\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/e49c3fa/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150357349,
+          "beta": true,
           "minOSVersion": "14.0"
         }
       ],
