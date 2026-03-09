@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Sumato",
+      "type": 1,
+      "bundleID": "com.talhayavcin.summarize",
+      "bundleIdentifier": "com.talhayavcin.summarize",
+      "version": "1.6.1",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223170543",
+      "size": 27762791,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Sumato_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Sumato_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.talhayavcin.summarize.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.talhayavcin.summarize.png"
+    },
+    {
       "name": "LiveTranscribe",
       "type": 1,
       "bundleID": "com.robnorback.LiveTranscribe",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png"
-    },
-    {
-      "name": "SnapCut",
-      "type": 1,
-      "bundleID": "com.mwm.moments",
-      "bundleIdentifier": "com.mwm.moments",
-      "version": "1.0.46",
-      "versionDate": "2025-11-30",
-      "fullDate": "20251130181755",
-      "size": 242689066,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/SnapCut_1.0.46_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/SnapCut_1.0.46_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png"
     }
   ],
   "userInfo": {}
