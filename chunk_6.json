@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "BEAT",
+      "type": 1,
+      "bundleID": "reels-maker-one",
+      "bundleIdentifier": "reels-maker-one",
+      "version": "1.22.1",
+      "versionDate": "2025-12-14",
+      "fullDate": "20251214212713",
+      "size": 134462263,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/BEAT_1.22.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/BEAT_1.22.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/reels-maker-one.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/reels-maker-one.png"
+    },
+    {
       "name": "TONfilters",
       "type": 1,
       "bundleID": "onelight.video-editor",
@@ -1570,22 +1586,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vpnbottle.melon.unblock.fast.vpn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vpnbottle.melon.unblock.fast.vpn.png"
-    },
-    {
-      "name": "DoCast",
-      "type": 1,
-      "bundleID": "us.electronic.docast",
-      "bundleIdentifier": "us.electronic.docast",
-      "version": "5.5",
-      "versionDate": "2025-10-21",
-      "fullDate": "20251021160734",
-      "size": 22842366,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2025/DoCast_5.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2025/DoCast_5.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png"
     },
     {
       "name": "MoneyManagerExpenseBudget",
