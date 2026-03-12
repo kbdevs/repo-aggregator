@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "ism",
+      "type": 1,
+      "bundleID": "com.ahaf.mshion",
+      "bundleIdentifier": "com.ahaf.mshion",
+      "version": "7.35.0",
+      "versionDate": "2026-01-27",
+      "fullDate": "20260127133226",
+      "size": 306331441,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-01-2026/ism_7.35.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-01-2026/ism_7.35.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png"
+    },
+    {
+      "name": "WebVideoCast",
+      "type": 1,
+      "bundleID": "com.instantbits.cast.webvideo",
+      "bundleIdentifier": "com.instantbits.cast.webvideo",
+      "version": "2.51",
+      "versionDate": "2026-01-27",
+      "fullDate": "20260127132209",
+      "size": 46666223,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-01-2026/WebVideoCast_2.51_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-01-2026/WebVideoCast_2.51_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png"
+    },
+    {
       "name": "MyFitCoach",
       "type": 1,
       "bundleID": "de.my-fit-coach.myfitcoach-ios",
@@ -210,22 +242,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png"
-    },
-    {
-      "name": "PSExpress",
-      "type": 1,
-      "bundleID": "com.adobe.PSMobile",
-      "bundleIdentifier": "com.adobe.PSMobile",
-      "version": "26.3.0",
-      "versionDate": "2026-01-23",
-      "fullDate": "20260123162458",
-      "size": 159786362,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/PSExpress_26.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/PSExpress_26.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png"
     },
     {
       "name": "Evermusic",
@@ -1698,22 +1714,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MemoryCircle.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MemoryCircle.png"
-    },
-    {
-      "name": "Evoday",
-      "type": 1,
-      "bundleID": "com.kevinquisquater.Habits",
-      "bundleIdentifier": "com.kevinquisquater.Habits",
-      "version": "2025.19",
-      "versionDate": "2025-12-30",
-      "fullDate": "20251230193741",
-      "size": 25352630,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Evoday_2025.19_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Evoday_2025.19_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png"
     }
   ],
   "userInfo": {}
