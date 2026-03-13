@@ -4,6 +4,64 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Roblox - Delta Executor",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "developerName": "delta team",
+      "subtitle": "delta is a Roblox Executor",
+      "localizedDescription": "delta is a Roblox Executor\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Roblox - Working Hacks\n\n BundleID: com.roblox.robloxmobile\n\n Downloads: 175\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725784229.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17257842288272151845.webp",
+        "https://apps.nabzclan.vip/screenshots/17257842289395792603.webp",
+        "https://apps.nabzclan.vip/screenshots/17257842290021847843.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.668.658",
+          "date": "2025-05-10 02:20:13",
+          "localizedDescription": "Current of Roblox - Delta Executor - 2.668.658",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1369",
+          "size": 174587904
+        },
+        {
+          "version": "2.657.604",
+          "date": "2025-02-05 17:47:13",
+          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.657.604",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1196",
+          "size": 158125260
+        },
+        {
+          "version": "2.662.536",
+          "date": "2025-03-17 06:23:37",
+          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.662.536",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1282",
+          "size": 169345024
+        },
+        {
+          "version": "2.664.707",
+          "date": "2025-03-20 23:58:05",
+          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.664.707",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1306",
+          "size": 145227776
+        },
+        {
+          "version": "2.668.658",
+          "date": "2025-05-10 02:20:13",
+          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.668.658",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1369",
+          "size": 174587904
+        }
+      ],
+      "version": "2.668.658",
+      "versionDate": "2025-05-10 02:20:13",
+      "versionDescription": "delta is a Roblox Executor",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1369",
+      "formatedsize": "166.5 MB",
+      "size": 174587904
+    },
+    {
       "name": "GoDaddy Studio for Business (Hack)",
       "bundleIdentifier": "com.gopotluck.over",
       "developerName": "GoDaddy Mobile LLC",
@@ -4410,59 +4468,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
       "formatedsize": "919.00 MB",
       "size": 963641344
-    },
-    {
-      "name": "Brotato - Premium",
-      "bundleIdentifier": "com.brotato.shooting.survivors.games.paid.ios",
-      "developerName": "Erabit Studios",
-      "subtitle": "A top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
-      "localizedDescription": "A top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.brotato.shooting.survivors.games.paid.ios\n\n Downloads: 252\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1735164627.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17351646270004300225.webp",
-        "https://apps.nabzclan.vip/screenshots/17351646270488899169.webp",
-        "https://apps.nabzclan.vip/screenshots/17351646270972334545.webp",
-        "https://apps.nabzclan.vip/screenshots/17351646271398785299.webp",
-        "https://apps.nabzclan.vip/screenshots/17351646276489893073.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3.102",
-          "date": "2025-02-24 17:47:03",
-          "localizedDescription": "Current of Brotato - Premium - 1.3.102",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1227",
-          "size": 128240844
-        },
-        {
-          "version": "1.3.75",
-          "date": "2024-12-25 17:10:27",
-          "localizedDescription": "Old Version of Brotato - Premium - 1.3.75",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1143",
-          "size": 128135987
-        },
-        {
-          "version": "1.3.81",
-          "date": "2025-01-01 18:06:36",
-          "localizedDescription": "Old Version of Brotato - Premium - 1.3.81",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1151",
-          "size": 122295418
-        },
-        {
-          "version": "1.3.102",
-          "date": "2025-02-24 17:47:03",
-          "localizedDescription": "Old Version of Brotato - Premium - 1.3.102",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1227",
-          "size": 128240844
-        }
-      ],
-      "version": "1.3.102",
-      "versionDate": "2025-02-24 17:47:03",
-      "versionDescription": "A top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1227",
-      "formatedsize": "122.3 MB",
-      "size": 128240844
     }
   ],
   "userInfo": {}

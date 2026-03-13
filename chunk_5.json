@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "PodcastApp",
+      "type": 1,
+      "bundleID": "com.evolve.podcast",
+      "bundleIdentifier": "com.evolve.podcast",
+      "version": "6.133.0",
+      "versionDate": "2025-12-30",
+      "fullDate": "20251230193744",
+      "size": 46039498,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/PodcastApp_6.133.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/PodcastApp_6.133.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.podcast.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.podcast.png"
+    },
+    {
+      "name": "VocaCircle",
+      "type": 1,
+      "bundleID": "com.genau.MemoryCircle",
+      "bundleIdentifier": "com.genau.MemoryCircle",
+      "version": "3.1.9",
+      "versionDate": "2025-12-30",
+      "fullDate": "20251230193742",
+      "size": 13632832,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/VocaCircle_3.1.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/VocaCircle_3.1.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MemoryCircle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MemoryCircle.png"
+    },
+    {
       "name": "Evoday",
       "type": 1,
       "bundleID": "com.kevinquisquater.Habits",
@@ -1682,38 +1714,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png"
-    },
-    {
-      "name": "ArtstudioPro",
-      "type": 1,
-      "bundleID": "com.luckyclan.artstudio2.ios",
-      "bundleIdentifier": "com.luckyclan.artstudio2.ios",
-      "version": "5.2.9",
-      "versionDate": "2025-12-14",
-      "fullDate": "20251214230255",
-      "size": 269850133,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/ArtstudioPro_5.2.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/ArtstudioPro_5.2.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luckyclan.artstudio2.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luckyclan.artstudio2.ios.png"
-    },
-    {
-      "name": "SquareDude",
-      "type": 1,
-      "bundleID": "tech.miidii.SquareDude",
-      "bundleIdentifier": "tech.miidii.SquareDude",
-      "version": "1.5.1",
-      "versionDate": "2025-12-14",
-      "fullDate": "20251214223749",
-      "size": 19534622,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/SquareDude_1.5.1_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/SquareDude_1.5.1_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.SquareDude.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.SquareDude.png"
     }
   ],
   "userInfo": {}

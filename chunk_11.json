@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Meitu - Cracked",
+      "bundleIdentifier": "com.meitu.mtxx",
+      "developerName": "Filters & Selfie Retouch",
+      "subtitle": "Vip Cracked",
+      "localizedDescription": "Vip Cracked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.meitu.mtxx\n\n Downloads: 1104\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1713134290.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17131342893625998473.webp",
+        "https://apps.nabzclan.vip/screenshots/17131342896332142989.webp",
+        "https://apps.nabzclan.vip/screenshots/17131342897143952025.webp",
+        "https://apps.nabzclan.vip/screenshots/17131342897987985856.webp",
+        "https://apps.nabzclan.vip/screenshots/17131342899887074714.webp",
+        "https://apps.nabzclan.vip/screenshots/17131342901413447182.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "10.8.0",
+          "date": "2024-04-15 02:38:10",
+          "localizedDescription": "Current of Meitu - Cracked - 10.8.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/438",
+          "size": 243091374
+        },
+        {
+          "version": "10.8.0",
+          "date": "2024-04-15 02:38:10",
+          "localizedDescription": "Old Version of Meitu - Cracked - 10.8.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/438",
+          "size": 243091374
+        }
+      ],
+      "version": "10.8.0",
+      "versionDate": "2024-04-15 02:38:10",
+      "versionDescription": "Vip Cracked",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/438",
+      "formatedsize": "231.83 MB",
+      "size": 243091374
+    },
+    {
       "name": "Geometry Dash - (Unlocked)",
       "bundleIdentifier": "com.robtop.geometryjump",
       "developerName": "Nabzclan",
@@ -2398,17 +2438,6 @@
       "developerName": "zxcvbn\u2019s tweaked IPAs",
       "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png"
-    },
-    {
-      "name": "PostedPlus",
-      "bundleIdentifier": "live.posted.Posted",
-      "version": "1.3.5",
-      "versionDate": "2024-10-12",
-      "size": 36937013,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PostedPlus/PostedPlus-1.3.5.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to follow your package(s) in real time with your tracking number. Note: Use trollfools to fix widgets.\nLast updated: 08-09-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.posted.Posted.png"
     }
   ],
   "userInfo": {}
