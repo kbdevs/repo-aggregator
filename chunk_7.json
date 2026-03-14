@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "MkIIIPublic",
+      "type": 1,
+      "bundleID": "camera.lux.halide.mkii",
+      "bundleIdentifier": "camera.lux.halide.mkii",
+      "version": "2.5.0",
+      "versionDate": "2025-10-14",
+      "fullDate": "20251014195920",
+      "size": 23128852,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-10-2025/MkIIIPublic_2.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-10-2025/MkIIIPublic_2.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/camera.lux.halide.mkii.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/camera.lux.halide.mkii.png"
+    },
+    {
+      "name": "Clipboard",
+      "type": 1,
+      "bundleID": "com.zeus.EasyCopy",
+      "bundleIdentifier": "com.zeus.EasyCopy",
+      "version": "3.4.0",
+      "versionDate": "2025-10-13",
+      "fullDate": "20251013210412",
+      "size": 32279357,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-10-2025/Clipboard_3.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-10-2025/Clipboard_3.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zeus.EasyCopy.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zeus.EasyCopy.png"
+    },
+    {
       "name": "Wallpapers",
       "type": 1,
       "bundleID": "com.apalonapps.wallpaperspys",
@@ -642,22 +674,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innovativedigitaltechnologies.FollowersWidget.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innovativedigitaltechnologies.FollowersWidget.png"
-    },
-    {
-      "name": "Compress",
-      "type": 1,
-      "bundleID": "com.newmarketinglab.ImageCompressor",
-      "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
-      "version": "3.3",
-      "versionDate": "2025-09-11",
-      "fullDate": "20250911201552",
-      "size": 4518272,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2025/Compress_3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2025/Compress_3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png"
     },
     {
       "name": "Pixomatic",
@@ -1823,47 +1839,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
       "formatedsize": "115.63 MB",
       "size": 121246842
-    },
-    {
-      "name": "Zsign",
-      "bundleIdentifier": "com.zsign.app",
-      "developerName": "Tien Sato",
-      "subtitle": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages",
-      "localizedDescription": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.zsign.app\n\n Downloads: 145\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1746945271.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17469453663276315.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453662231800.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453666982445.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453665298327.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453668831662.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453677325516.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453671265453.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.8",
-          "date": "2025-05-11 02:34:31",
-          "localizedDescription": "Current of Zsign - 1.5.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
-          "size": 16305356
-        },
-        {
-          "version": "1.5.8",
-          "date": "2025-05-11 02:34:31",
-          "localizedDescription": "Old Version of Zsign - 1.5.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
-          "size": 16305356
-        }
-      ],
-      "version": "1.5.8",
-      "versionDate": "2025-05-11 02:34:31",
-      "versionDescription": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
-      "formatedsize": "15.55 MB",
-      "size": 16305356
     }
   ],
   "userInfo": {}

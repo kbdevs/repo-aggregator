@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "QuakeFeedPremium",
+      "bundleIdentifier": "com.artisanglobal.quakefeed",
+      "version": "6.3.5",
+      "versionDate": "2024-10-12",
+      "size": 61336181,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuakeFeedPremium/QuakeFeedPremium-6.3.5.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png"
+    },
+    {
       "name": "PostedPlus",
       "bundleIdentifier": "live.posted.Posted",
       "version": "1.3.5",
@@ -233,17 +244,6 @@
       "developerName": "FayezUpdates",
       "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "OVFEditorPremium",
-      "bundleIdentifier": "com.mutaeb.OVF-Editor",
-      "version": "5.0.1",
-      "versionDate": "2024-10-11",
-      "size": 41848347,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OVFEditorPremium/OVFEditorPremium-5.0.1.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png"
     },
     {
       "name": "OTADisabler",

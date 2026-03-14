@@ -4,6 +4,47 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Zsign",
+      "bundleIdentifier": "com.zsign.app",
+      "developerName": "Tien Sato",
+      "subtitle": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages",
+      "localizedDescription": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.zsign.app\n\n Downloads: 145\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1746945271.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17469453663276315.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453662231800.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453666982445.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453665298327.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453668831662.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453677325516.webp",
+        "https://apps.nabzclan.vip/screenshots/17469453671265453.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5.8",
+          "date": "2025-05-11 02:34:31",
+          "localizedDescription": "Current of Zsign - 1.5.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
+          "size": 16305356
+        },
+        {
+          "version": "1.5.8",
+          "date": "2025-05-11 02:34:31",
+          "localizedDescription": "Old Version of Zsign - 1.5.8",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
+          "size": 16305356
+        }
+      ],
+      "version": "1.5.8",
+      "versionDate": "2025-05-11 02:34:31",
+      "versionDescription": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
+      "formatedsize": "15.55 MB",
+      "size": 16305356
+    },
+    {
       "name": "Roblox - Delta Executor",
       "bundleIdentifier": "com.roblox.robloxmobile",
       "developerName": "delta team",
@@ -4428,46 +4469,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1230",
       "formatedsize": "133 MB",
       "size": 139460608
-    },
-    {
-      "name": "Wreckfest",
-      "bundleIdentifier": "com.hg.wreckfest",
-      "developerName": "HandyGames",
-      "subtitle": "Burn rubber and shred metal in the ultimate driving playground!\r\n\r\nWreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there.",
-      "localizedDescription": "Burn rubber and shred metal in the ultimate driving playground!\r\n\r\nWreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.hg.wreckfest\n\n Downloads: 491\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740438247.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404382462584998272.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382463317866559.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382464675816373.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382465297916907.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382466389613988.webp",
-        "https://apps.nabzclan.vip/screenshots/17404382473327346038.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.88",
-          "date": "2025-02-24 18:04:07",
-          "localizedDescription": "Current of Wreckfest - 1.0.88",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
-          "size": 963641344
-        },
-        {
-          "version": "1.0.88",
-          "date": "2025-02-24 18:04:07",
-          "localizedDescription": "Old Version of Wreckfest - 1.0.88",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
-          "size": 963641344
-        }
-      ],
-      "version": "1.0.88",
-      "versionDate": "2025-02-24 18:04:07",
-      "versionDescription": "Burn rubber and shred metal in the ultimate driving playground!\r\n\r\nWreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
-      "formatedsize": "919.00 MB",
-      "size": 963641344
     }
   ],
   "userInfo": {}

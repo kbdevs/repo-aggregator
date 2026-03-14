@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "DEAD TRIGGER - hack 2",
+      "bundleIdentifier": "com.madfingergames.deadtrigger",
+      "developerName": "Nabzclan",
+      "subtitle": "Hacks:\r\n NeverDie",
+      "localizedDescription": "Hacks:\r\n NeverDie\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.madfingergames.deadtrigger\n\n Downloads: 202\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1713137227.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17131372173181510324.webp",
+        "https://apps.nabzclan.vip/screenshots/17131372181241541511.webp",
+        "https://apps.nabzclan.vip/screenshots/17131372198319245140.webp",
+        "https://apps.nabzclan.vip/screenshots/17131372232056439460.webp",
+        "https://apps.nabzclan.vip/screenshots/17131372235706210634.webp",
+        "https://apps.nabzclan.vip/screenshots/17131372239669302980.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1.4",
+          "date": "2024-04-15 03:27:07",
+          "localizedDescription": "Current of DEAD TRIGGER - hack 2 - 2.1.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/442",
+          "size": 186048839
+        },
+        {
+          "version": "2.1.4",
+          "date": "2024-04-15 03:27:07",
+          "localizedDescription": "Old Version of DEAD TRIGGER - hack 2 - 2.1.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/442",
+          "size": 186048839
+        }
+      ],
+      "version": "2.1.4",
+      "versionDate": "2024-04-15 03:27:07",
+      "versionDescription": "Hacks:\r\n NeverDie",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/442",
+      "formatedsize": "177.43 MB",
+      "size": 186048839
+    },
+    {
       "name": "Meitu - Cracked",
       "bundleIdentifier": "com.meitu.mtxx",
       "developerName": "Filters & Selfie Retouch",
@@ -2427,17 +2467,6 @@
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png"
-    },
-    {
-      "name": "QuakeFeedPremium",
-      "bundleIdentifier": "com.artisanglobal.quakefeed",
-      "version": "6.3.5",
-      "versionDate": "2024-10-12",
-      "size": 61336181,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuakeFeedPremium/QuakeFeedPremium-6.3.5.ipa",
-      "developerName": "zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png"
     }
   ],
   "userInfo": {}

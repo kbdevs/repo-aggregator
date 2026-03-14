@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Wreckfest",
+      "bundleIdentifier": "com.hg.wreckfest",
+      "developerName": "HandyGames",
+      "subtitle": "Burn rubber and shred metal in the ultimate driving playground!\r\n\r\nWreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there.",
+      "localizedDescription": "Burn rubber and shred metal in the ultimate driving playground!\r\n\r\nWreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.hg.wreckfest\n\n Downloads: 491\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1740438247.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17404382462584998272.webp",
+        "https://apps.nabzclan.vip/screenshots/17404382463317866559.webp",
+        "https://apps.nabzclan.vip/screenshots/17404382464675816373.webp",
+        "https://apps.nabzclan.vip/screenshots/17404382465297916907.webp",
+        "https://apps.nabzclan.vip/screenshots/17404382466389613988.webp",
+        "https://apps.nabzclan.vip/screenshots/17404382473327346038.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.88",
+          "date": "2025-02-24 18:04:07",
+          "localizedDescription": "Current of Wreckfest - 1.0.88",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
+          "size": 963641344
+        },
+        {
+          "version": "1.0.88",
+          "date": "2025-02-24 18:04:07",
+          "localizedDescription": "Old Version of Wreckfest - 1.0.88",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
+          "size": 963641344
+        }
+      ],
+      "version": "1.0.88",
+      "versionDate": "2025-02-24 18:04:07",
+      "versionDescription": "Burn rubber and shred metal in the ultimate driving playground!\r\n\r\nWreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1229",
+      "formatedsize": "919.00 MB",
+      "size": 963641344
+    },
+    {
       "name": "Brotato - Premium",
       "bundleIdentifier": "com.brotato.shooting.survivors.games.paid.ios",
       "developerName": "Erabit Studios",
@@ -4523,44 +4563,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/967",
       "formatedsize": "184.9 MB",
       "size": 193881702
-    },
-    {
-      "name": "Mini Metro+",
-      "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
-      "developerName": "Dinosaur Polo Club",
-      "subtitle": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
-      "localizedDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.dinopoloclub.minimetro.arcade\n\n Downloads: 390\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731275569.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312755685446323889.webp",
-        "https://apps.nabzclan.vip/screenshots/17312755686791708827.webp",
-        "https://apps.nabzclan.vip/screenshots/17312755688024919416.webp",
-        "https://apps.nabzclan.vip/screenshots/17312755689361511155.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.7.3",
-          "date": "2024-11-10 16:52:49",
-          "localizedDescription": "Current of Mini Metro+ - 1.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
-          "size": 119852236
-        },
-        {
-          "version": "1.7.3",
-          "date": "2024-11-10 16:52:49",
-          "localizedDescription": "Old Version of Mini Metro+ - 1.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/966",
-          "size": 119852236
-        }
-      ],
-      "version": "1.7.3",
-      "versionDate": "2024-11-10 16:52:49",
-      "versionDescription": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/966",
-      "formatedsize": "114.3 MB",
-      "size": 119852236
     }
   ],
   "userInfo": {}
