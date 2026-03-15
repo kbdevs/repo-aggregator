@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Flo",
+      "type": 1,
+      "bundleID": "org.iggymedia.periodtracker",
+      "bundleIdentifier": "org.iggymedia.periodtracker",
+      "version": "9.97.0",
+      "versionDate": "2026-01-30",
+      "fullDate": "20260130042331",
+      "size": 127275741,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-01-2026/Flo_9.97.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-01-2026/Flo_9.97.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png"
+    },
+    {
       "name": "UnifiedDictionary",
       "type": 1,
       "bundleID": "com.bravolol.bravoLang.chineseDictionary",
@@ -274,22 +290,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png"
-    },
-    {
-      "name": "Boostcamp",
-      "type": 1,
-      "bundleID": "com.bpmhealth.boostfitness",
-      "bundleIdentifier": "com.bpmhealth.boostfitness",
-      "version": "251",
-      "versionDate": "2026-01-26",
-      "fullDate": "20260126093956",
-      "size": 79086048,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-01-2026/Boostcamp_251_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-01-2026/Boostcamp_251_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bpmhealth.boostfitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bpmhealth.boostfitness.png"
     },
     {
       "name": "LookUp",
