@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "BrainTest2",
+      "type": 2,
+      "bundleID": "com.unicostudio.braintest2",
+      "bundleIdentifier": "com.unicostudio.braintest2",
+      "version": "1.20.43",
+      "versionDate": "2025-10-16",
+      "fullDate": "20251016231931",
+      "size": 126685476,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2025/BrainTest2_1.20.43_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2025/BrainTest2_1.20.43_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png"
+    },
+    {
       "name": "MkIIIPublic",
       "type": 1,
       "bundleID": "camera.lux.halide.mkii",
@@ -1506,22 +1522,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png"
-    },
-    {
-      "name": "MonokaiToolkitPro",
-      "type": 1,
-      "bundleID": "com.monokaitoolkit.pro",
-      "bundleIdentifier": "com.monokaitoolkit.pro",
-      "version": "1.2.6",
-      "versionDate": "2025-08-12",
-      "fullDate": "20250812012743",
-      "size": 42825257,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MonokaiToolkitPro_1.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MonokaiToolkitPro_1.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png"
     },
     {
       "name": "AdGuardPro",

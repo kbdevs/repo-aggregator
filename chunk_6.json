@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "iLovePDF",
+      "type": 1,
+      "bundleID": "com.ilovepdf.www",
+      "bundleIdentifier": "com.ilovepdf.www",
+      "version": "3.13.0",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215144251",
+      "size": 172308433,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/iLovePDF_3.13.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/iLovePDF_3.13.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png"
+    },
+    {
       "name": "NRv133006",
       "type": 1,
       "bundleID": "nt.nr.ios",
@@ -1698,22 +1714,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png"
-    },
-    {
-      "name": "BrainTest2",
-      "type": 2,
-      "bundleID": "com.unicostudio.braintest2",
-      "bundleIdentifier": "com.unicostudio.braintest2",
-      "version": "1.20.43",
-      "versionDate": "2025-10-16",
-      "fullDate": "20251016231931",
-      "size": 126685476,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2025/BrainTest2_1.20.43_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2025/BrainTest2_1.20.43_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png"
     }
   ],
   "userInfo": {}
