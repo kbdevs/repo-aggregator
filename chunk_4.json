@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "PapasPancakeriaToGo",
+      "type": 2,
+      "bundleID": "com.flipline.papaspancakeriatogo",
+      "bundleIdentifier": "com.flipline.papaspancakeriatogo",
+      "version": "1.2.0",
+      "versionDate": "2026-02-02",
+      "fullDate": "20260202195624",
+      "size": 30038894,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPancakeriaToGo_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPancakeriaToGo_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png"
+    },
+    {
+      "name": "NoteAI",
+      "type": 1,
+      "bundleID": "com.hubx.noteai",
+      "bundleIdentifier": "com.hubx.noteai",
+      "version": "1.2.0",
+      "versionDate": "2026-02-02",
+      "fullDate": "20260202194119",
+      "size": 43377955,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/NoteAI_1.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/NoteAI_1.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.noteai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.noteai.png"
+    },
+    {
+      "name": "MetadataEditor",
+      "type": 1,
+      "bundleID": "com.andrespizabuckmann.MetadataEditor",
+      "bundleIdentifier": "com.andrespizabuckmann.MetadataEditor",
+      "version": "3.3.0",
+      "versionDate": "2026-02-01",
+      "fullDate": "20260201212226",
+      "size": 50872947,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/MetadataEditor_3.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/MetadataEditor_3.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png"
+    },
+    {
+      "name": "SnappierIPTV",
+      "type": 1,
+      "bundleID": "uk.co.snappy-code.snappierIPTV",
+      "bundleIdentifier": "uk.co.snappy-code.snappierIPTV",
+      "version": "5.3.3",
+      "versionDate": "2026-02-01",
+      "fullDate": "20260201061533",
+      "size": 78695911,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/SnappierIPTV_5.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/SnappierIPTV_5.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png"
+    },
+    {
       "name": "Streaks",
       "type": 1,
       "bundleID": "com.streaksapp.streak",
@@ -242,22 +306,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png"
-    },
-    {
-      "name": "Weather",
-      "type": 1,
-      "bundleID": "com.apalonapps.wlf",
-      "bundleIdentifier": "com.apalonapps.wlf",
-      "version": "4.0.0",
-      "versionDate": "2026-01-28",
-      "fullDate": "20260128190021",
-      "size": 112144850,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-01-2026/Weather_4.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-01-2026/Weather_4.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png"
     },
     {
       "name": "Enki",
@@ -868,22 +916,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png"
     },
     {
-      "name": "Piano",
-      "type": 1,
-      "bundleID": "com.mwm.piano-app",
-      "bundleIdentifier": "com.mwm.piano-app",
-      "version": "3.55.00",
-      "versionDate": "2026-01-20",
-      "fullDate": "20260120143230",
-      "size": 147911145,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Piano_3.55.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Piano_3.55.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png"
-    },
-    {
       "name": "Cubasis3",
       "type": 1,
       "bundleID": "com.steinberg.cubasis3",
@@ -1284,22 +1316,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png"
     },
     {
-      "name": "JSCodePad",
-      "type": 1,
-      "bundleID": "com.markodevcic.js-code-pad",
-      "bundleIdentifier": "com.markodevcic.js-code-pad",
-      "version": "1.8.18",
-      "versionDate": "2026-01-06",
-      "fullDate": "20260106051808",
-      "size": 60125123,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/JSCodePad_1.8.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/JSCodePad_1.8.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png"
-    },
-    {
       "name": "ToonMe",
       "type": 1,
       "bundleID": "com.informelab.toonme",
@@ -1698,22 +1714,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png"
-    },
-    {
-      "name": "FoundIt",
-      "type": 2,
-      "bundleID": "games.urmobi.found.it",
-      "bundleIdentifier": "games.urmobi.found.it",
-      "version": "1.61.80",
-      "versionDate": "2025-12-30",
-      "fullDate": "20251230194820",
-      "size": 324624330,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/FoundIt_1.61.80_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/FoundIt_1.61.80_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png"
     }
   ],
   "userInfo": {}

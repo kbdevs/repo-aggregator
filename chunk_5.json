@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "FoundIt",
+      "type": 2,
+      "bundleID": "games.urmobi.found.it",
+      "bundleIdentifier": "games.urmobi.found.it",
+      "version": "1.61.80",
+      "versionDate": "2025-12-30",
+      "fullDate": "20251230194820",
+      "size": 324624330,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/FoundIt_1.61.80_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/FoundIt_1.61.80_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png"
+    },
+    {
       "name": "SolarWatch",
       "type": 1,
       "bundleID": "com.fifteenjugglers.solarwatch",
@@ -1698,22 +1714,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.os.osmaps.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.os.osmaps.png"
-    },
-    {
-      "name": "MySwimPro",
-      "type": 1,
-      "bundleID": "com.myswimpro.apps.MySwimPro",
-      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "8.34.4",
-      "versionDate": "2025-12-15",
-      "fullDate": "20251215171429",
-      "size": 47382620,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/MySwimPro_8.34.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/MySwimPro_8.34.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png"
     }
   ],
   "userInfo": {}
