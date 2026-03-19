@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Fishbrain",
+      "type": 1,
+      "bundleID": "com.fishbrain.app",
+      "bundleIdentifier": "com.fishbrain.app",
+      "version": "9.44.0",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215171944",
+      "size": 119269043,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Fishbrain_9.44.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Fishbrain_9.44.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png"
+    },
+    {
+      "name": "OSMaps",
+      "type": 1,
+      "bundleID": "uk.os.osmaps",
+      "bundleIdentifier": "uk.os.osmaps",
+      "version": "5.5.4",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215171932",
+      "size": 142512451,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/OSMaps_5.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/OSMaps_5.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.os.osmaps.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.os.osmaps.png"
+    },
+    {
       "name": "MySwimPro",
       "type": 1,
       "bundleID": "com.myswimpro.apps.MySwimPro",
@@ -1076,22 +1108,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png"
     },
     {
-      "name": "AudioEditor",
-      "type": 1,
-      "bundleID": "com.hemin.mp3editor",
-      "bundleIdentifier": "com.hemin.mp3editor",
-      "version": "5.71",
-      "versionDate": "2025-11-06",
-      "fullDate": "20251106062618",
-      "size": 107545856,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/AudioEditor_5.71_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/AudioEditor_5.71_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png"
-    },
-    {
       "name": "Gizmo",
       "type": 2,
       "bundleID": "io.gonative.ios.xqdyad",
@@ -1698,22 +1714,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.reezo.RezooPipCam.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.reezo.RezooPipCam.png"
-    },
-    {
-      "name": "SlideShowMakerPublic",
-      "type": 1,
-      "bundleID": "com.debotoshdey.slideshow",
-      "bundleIdentifier": "com.debotoshdey.slideshow",
-      "version": "3.0",
-      "versionDate": "2025-10-17",
-      "fullDate": "20251017120640",
-      "size": 145832376,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/SlideShowMakerPublic_3.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/SlideShowMakerPublic_3.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Dezokr (No Ads) - VIP",
+      "bundleIdentifier": "com.huiynfim.play",
+      "developerName": "Nabzclan",
+      "subtitle": "movie app to watch any type of movies & series with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/",
+      "localizedDescription": "movie app to watch any type of movies & series with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/\n\n --- \n\n More app Information:\n\n Category: Media, VIP\n\n BundleID: com.huiynfim.play\n\n Downloads: 2541\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1713141351.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17131413476576547441.webp",
+        "https://apps.nabzclan.vip/screenshots/17131413487015804184.webp",
+        "https://apps.nabzclan.vip/screenshots/17131413492883309013.webp",
+        "https://apps.nabzclan.vip/screenshots/17131413500906415139.webp",
+        "https://apps.nabzclan.vip/screenshots/17131413505675914469.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2024-04-15 04:35:51",
+          "localizedDescription": "Current of Dezokr (No Ads) - VIP - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/448",
+          "size": 30670848
+        },
+        {
+          "version": "3.0",
+          "date": "2024-04-15 04:35:51",
+          "localizedDescription": "Old Version of Dezokr (No Ads) - VIP - 3.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/448",
+          "size": 30670848
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2024-04-15 04:35:51",
+      "versionDescription": "movie app to watch any type of movies & series with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/448",
+      "formatedsize": "29.25 MB",
+      "size": 30670848
+    },
+    {
       "name": "DEAD TRIGGER - hack 2",
       "bundleIdentifier": "com.madfingergames.deadtrigger",
       "developerName": "Nabzclan",
@@ -2456,17 +2495,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
-    },
-    {
-      "name": "QuantumultX",
-      "bundleIdentifier": "com.crossutility.quantumult-x",
-      "version": "1.4.2",
-      "versionDate": "2024-10-12",
-      "size": 16180965,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuantumultX/QuantumultX-1.4.2.ipa",
-      "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png"
     }
   ],
   "userInfo": {}

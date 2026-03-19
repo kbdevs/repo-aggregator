@@ -4,6 +4,43 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Paper.io 2 (Hacked)",
+      "bundleIdentifier": "io.voodoo.paper2",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: io.voodoo.paper2\n\n Downloads: 75\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1746947172.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17469471722873788968.webp",
+        "https://apps.nabzclan.vip/screenshots/17469471723521751309.webp",
+        "https://apps.nabzclan.vip/screenshots/17469471724162093230.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.14.0",
+          "date": "2025-05-11 03:06:12",
+          "localizedDescription": "Current of Paper.io 2 (Hacked) - 4.14.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
+          "size": 121246842
+        },
+        {
+          "version": "4.14.0",
+          "date": "2025-05-11 03:06:12",
+          "localizedDescription": "Old Version of Paper.io 2 (Hacked) - 4.14.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
+          "size": 121246842
+        }
+      ],
+      "version": "4.14.0",
+      "versionDate": "2025-05-11 03:06:12",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
+      "formatedsize": "115.63 MB",
+      "size": 121246842
+    },
+    {
       "name": "Zsign",
       "bundleIdentifier": "com.zsign.app",
       "developerName": "Tien Sato",
@@ -4429,46 +4466,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1231",
       "formatedsize": "177.9 MB",
       "size": 186541670
-    },
-    {
-      "name": "Pacific Fire",
-      "bundleIdentifier": "com.Wirraway.PacificFire",
-      "developerName": "Geoffrey Ayre",
-      "subtitle": "Pacific Fire is a turn-based strategic wargame set in the Pacific Theater of World War II. Take command of US, Japanese, British, Australian, New Zealand, Chinese and Dutch forces in the Pacific and Southeast Asia from 1941-1945.",
-      "localizedDescription": "Pacific Fire is a turn-based strategic wargame set in the Pacific Theater of World War II. Take command of US, Japanese, British, Australian, New Zealand, Chinese and Dutch forces in the Pacific and Southeast Asia from 1941-1945.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.Wirraway.PacificFire\n\n Downloads: 47\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740438816.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404388135019567354.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388136186510443.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388137364885253.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388148753332208.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388150596258219.webp",
-        "https://apps.nabzclan.vip/screenshots/17404388160823252054.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.800",
-          "date": "2025-02-24 18:13:36",
-          "localizedDescription": "Current of Pacific Fire - 1.800",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1230",
-          "size": 139460608
-        },
-        {
-          "version": "1.800",
-          "date": "2025-02-24 18:13:36",
-          "localizedDescription": "Old Version of Pacific Fire - 1.800",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1230",
-          "size": 139460608
-        }
-      ],
-      "version": "1.800",
-      "versionDate": "2025-02-24 18:13:36",
-      "versionDescription": "Pacific Fire is a turn-based strategic wargame set in the Pacific Theater of World War II. Take command of US, Japanese, British, Australian, New Zealand, Chinese and Dutch forces in the Pacific and Southeast Asia from 1941-1945.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1230",
-      "formatedsize": "133 MB",
-      "size": 139460608
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "SlideShowMakerPublic",
+      "type": 1,
+      "bundleID": "com.debotoshdey.slideshow",
+      "bundleIdentifier": "com.debotoshdey.slideshow",
+      "version": "3.0",
+      "versionDate": "2025-10-17",
+      "fullDate": "20251017120640",
+      "size": 145832376,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/SlideShowMakerPublic_3.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/SlideShowMakerPublic_3.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png"
+    },
+    {
       "name": "BrainTest2",
       "type": 2,
       "bundleID": "com.unicostudio.braintest2",
@@ -1802,43 +1818,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
       "formatedsize": "127.2 MB",
       "size": 133378867
-    },
-    {
-      "name": "Paper.io 2 (Hacked)",
-      "bundleIdentifier": "io.voodoo.paper2",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: io.voodoo.paper2\n\n Downloads: 75\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1746947172.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17469471722873788968.webp",
-        "https://apps.nabzclan.vip/screenshots/17469471723521751309.webp",
-        "https://apps.nabzclan.vip/screenshots/17469471724162093230.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.14.0",
-          "date": "2025-05-11 03:06:12",
-          "localizedDescription": "Current of Paper.io 2 (Hacked) - 4.14.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
-          "size": 121246842
-        },
-        {
-          "version": "4.14.0",
-          "date": "2025-05-11 03:06:12",
-          "localizedDescription": "Old Version of Paper.io 2 (Hacked) - 4.14.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
-          "size": 121246842
-        }
-      ],
-      "version": "4.14.0",
-      "versionDate": "2025-05-11 03:06:12",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
-      "formatedsize": "115.63 MB",
-      "size": 121246842
     }
   ],
   "userInfo": {}
