@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "VocalImage",
+      "type": 1,
+      "bundleID": "app.vocalimage.bessia",
+      "bundleIdentifier": "app.vocalimage.bessia",
+      "version": "8.35.6",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215175452",
+      "size": 155323874,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/VocalImage_8.35.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/VocalImage_8.35.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.vocalimage.bessia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.vocalimage.bessia.png"
+    },
+    {
       "name": "Fishbrain",
       "type": 1,
       "bundleID": "com.fishbrain.app",
@@ -322,22 +338,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icecoldapps.fileconverter.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icecoldapps.fileconverter.png"
-    },
-    {
-      "name": "Productive",
-      "type": 1,
-      "bundleID": "com.beHappy.Productive",
-      "bundleIdentifier": "com.beHappy.Productive",
-      "version": "3.26.38",
-      "versionDate": "2025-12-10",
-      "fullDate": "20251210165055",
-      "size": 188957463,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Productive_3.26.38_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Productive_3.26.38_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png"
     },
     {
       "name": "Minecraft",
