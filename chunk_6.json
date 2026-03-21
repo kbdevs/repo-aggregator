@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Dancebit",
+      "type": 1,
+      "bundleID": "dance.fitness.app",
+      "bundleIdentifier": "dance.fitness.app",
+      "version": "2.78",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215180005",
+      "size": 191675604,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Dancebit_2.78_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Dancebit_2.78_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dance.fitness.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dance.fitness.app.png"
+    },
+    {
       "name": "VocalImage",
       "type": 1,
       "bundleID": "app.vocalimage.bessia",
@@ -418,22 +434,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paha.LoFiCam.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paha.LoFiCam.png"
-    },
-    {
-      "name": "BoxBox",
-      "type": 1,
-      "bundleID": "club.boxbox.widgets-ios",
-      "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.3.3",
-      "versionDate": "2025-12-06",
-      "fullDate": "20251206040315",
-      "size": 90233199,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/BoxBox_5.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/BoxBox_5.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png"
     },
     {
       "name": "PlanesLiveFree",
