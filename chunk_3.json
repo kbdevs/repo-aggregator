@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Tiimo",
+      "type": 1,
+      "bundleID": "com.tiimo.app",
+      "bundleIdentifier": "com.tiimo.app",
+      "version": "3.45.1",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310130028",
+      "size": 93054753,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/Tiimo_3.45.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/Tiimo_3.45.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png"
+    },
+    {
+      "name": "VivaCut",
+      "type": 1,
+      "bundleID": "com.vivacut.videoeditor",
+      "bundleIdentifier": "com.vivacut.videoeditor",
+      "version": "4.5.6",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310073948",
+      "size": 223285999,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/VivaCut_4.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/VivaCut_4.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png"
+    },
+    {
       "name": "Mercury",
       "type": 1,
       "bundleID": "com.tripleglazedstudios.Weather",
@@ -722,22 +754,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png"
-    },
-    {
-      "name": "Flow",
-      "type": 1,
-      "bundleID": "design.yugen.Flow",
-      "bundleIdentifier": "design.yugen.Flow",
-      "version": "4.7.0",
-      "versionDate": "2026-02-21",
-      "fullDate": "20260221075414",
-      "size": 19175379,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-02-2026/Flow_4.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-02-2026/Flow_4.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/design.yugen.Flow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/design.yugen.Flow.png"
     },
     {
       "name": "Sudoku",
@@ -1698,22 +1714,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png"
-    },
-    {
-      "name": "FreeYourMusic",
-      "type": 1,
-      "bundleID": "io.stampapp.Stamp",
-      "bundleIdentifier": "io.stampapp.Stamp",
-      "version": "9.22.1",
-      "versionDate": "2026-02-04",
-      "fullDate": "20260204040219",
-      "size": 26496530,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2026/FreeYourMusic_9.22.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2026/FreeYourMusic_9.22.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png"
     }
   ],
   "userInfo": {}
