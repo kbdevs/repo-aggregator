@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "SixPackAbsAbsWorkout",
+      "type": 1,
+      "bundleID": "com.abishkking.sixpack",
+      "bundleIdentifier": "com.abishkking.sixpack",
+      "version": "1.47.0",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310132044",
+      "size": 188148029,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/SixPackAbsAbsWorkout_1.47.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/SixPackAbsAbsWorkout_1.47.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+    },
+    {
+      "name": "AlfredCamera",
+      "type": 1,
+      "bundleID": "com.kalavision.alfred",
+      "bundleIdentifier": "com.kalavision.alfred",
+      "version": "2026.5.0",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310131036",
+      "size": 129630518,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/AlfredCamera_2026.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/AlfredCamera_2026.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png"
+    },
+    {
       "name": "Tiimo",
       "type": 1,
       "bundleID": "com.tiimo.app",
@@ -436,22 +468,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png"
     },
     {
-      "name": "SimplySing",
-      "type": 1,
-      "bundleID": "com.joytunes.Sing",
-      "bundleIdentifier": "com.joytunes.Sing",
-      "version": "3.0.1",
-      "versionDate": "2026-03-06",
-      "fullDate": "20260306163534",
-      "size": 96158903,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-03-2026/SimplySing_3.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-03-2026/SimplySing_3.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png"
-    },
-    {
       "name": "Reface",
       "type": 1,
       "bundleID": "com.neocortext.doublicatapp",
@@ -674,22 +690,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png"
-    },
-    {
-      "name": "PicsArt",
-      "type": 1,
-      "bundleID": "com.picsart.studio",
-      "bundleIdentifier": "com.picsart.studio",
-      "version": "29.4.2",
-      "versionDate": "2026-02-23",
-      "fullDate": "20260223220016",
-      "size": 99714977,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-02-2026/PicsArt_29.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-02-2026/PicsArt_29.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
     },
     {
       "name": "Osmosis",
