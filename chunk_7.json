@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Yana",
+      "type": 1,
+      "bundleID": "com.yana.yanapp",
+      "bundleIdentifier": "com.yana.yanapp",
+      "version": "5.2.0",
+      "versionDate": "2025-10-17",
+      "fullDate": "20251017130713",
+      "size": 34411751,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/Yana_5.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/Yana_5.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yana.yanapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yana.yanapp.png"
+    },
+    {
+      "name": "PhotoCollagePublic",
+      "type": 1,
+      "bundleID": "com.reezo.RezooPipCam",
+      "bundleIdentifier": "com.reezo.RezooPipCam",
+      "version": "2.2",
+      "versionDate": "2025-10-17",
+      "fullDate": "20251017120646",
+      "size": 107702762,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/PhotoCollagePublic_2.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/PhotoCollagePublic_2.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.reezo.RezooPipCam.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.reezo.RezooPipCam.png"
+    },
+    {
       "name": "SlideShowMakerPublic",
       "type": 1,
       "bundleID": "com.debotoshdey.slideshow",
@@ -276,22 +308,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/howell.Kanji-.png"
     },
     {
-      "name": "TypeAI",
-      "type": 1,
-      "bundleID": "com.codeway.AIKeyboard",
-      "bundleIdentifier": "com.codeway.AIKeyboard",
-      "version": "3.3.8",
-      "versionDate": "2025-10-06",
-      "fullDate": "20251006150845",
-      "size": 37848776,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2025/TypeAI_3.3.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2025/TypeAI_3.3.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.AIKeyboard.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.AIKeyboard.png"
-    },
-    {
       "name": "Doppler",
       "type": 1,
       "bundleID": "co.brushedtype.doppler-ios",
@@ -434,22 +450,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfapp.storyFontEn.png"
-    },
-    {
-      "name": "ARMCPUZ",
-      "type": 1,
-      "bundleID": "com.benchu.ARMCPUZ",
-      "bundleIdentifier": "com.benchu.ARMCPUZ",
-      "version": "1.8.2",
-      "versionDate": "2025-09-28",
-      "fullDate": "20250928173952",
-      "size": 8585073,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png"
     },
     {
       "name": "StretchingExercises",
