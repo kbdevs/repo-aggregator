@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "BillTracker",
+      "type": 1,
+      "bundleID": "com.unofficialcalculators.payplan",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "version": "4.1.25",
+      "versionDate": "2026-01-01",
+      "fullDate": "20260101215442",
+      "size": 117352263,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/BillTracker_4.1.25_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/BillTracker_4.1.25_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png"
+    },
+    {
+      "name": "KnightLancer",
+      "type": 2,
+      "bundleID": "com.ToweringTower.KnightLancer",
+      "bundleIdentifier": "com.ToweringTower.KnightLancer",
+      "version": "1.57",
+      "versionDate": "2026-01-01",
+      "fullDate": "20260101215437",
+      "size": 104327550,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/KnightLancer_1.57_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/KnightLancer_1.57_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png"
+    },
+    {
+      "name": "SubwaySurf",
+      "type": 2,
+      "bundleID": "com.kiloo.subwaysurfers",
+      "bundleIdentifier": "com.kiloo.subwaysurfers",
+      "version": "3.56.0",
+      "versionDate": "2026-01-01",
+      "fullDate": "20260101215430",
+      "size": 210329663,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/SubwaySurf_3.56.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/SubwaySurf_3.56.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png"
+    },
+    {
       "name": "Summarify",
       "type": 1,
       "bundleID": "nz.digitaltools.Tube-GPT",
@@ -418,22 +466,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoedit.cleanwatermark.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoedit.cleanwatermark.png"
-    },
-    {
-      "name": "Stepz",
-      "type": 1,
-      "bundleID": "com.visualhype.pedometer",
-      "bundleIdentifier": "com.visualhype.pedometer",
-      "version": "4.10.34",
-      "versionDate": "2025-12-24",
-      "fullDate": "20251224205153",
-      "size": 26322715,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/Stepz_4.10.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/Stepz_4.10.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.visualhype.pedometer.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.visualhype.pedometer.png"
     },
     {
       "name": "HiiKER",
@@ -962,22 +994,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png"
-    },
-    {
-      "name": "HillClimb",
-      "type": 2,
-      "bundleID": "com.fingersoft.hillclimbracing",
-      "bundleIdentifier": "com.fingersoft.hillclimbracing",
-      "version": "1.67.7",
-      "versionDate": "2025-12-21",
-      "fullDate": "20251221042109",
-      "size": 119618648,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-12-2025/HillClimb_1.67.7_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-12-2025/HillClimb_1.67.7_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png"
     },
     {
       "name": "FlexIPTV",
@@ -1698,22 +1714,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grandgames.magicsort.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grandgames.magicsort.png"
-    },
-    {
-      "name": "Riverside",
-      "type": 1,
-      "bundleID": "RVS-Riverside.fm",
-      "bundleIdentifier": "RVS-Riverside.fm",
-      "version": "4.5.5",
-      "versionDate": "2025-12-16",
-      "fullDate": "20251216165242",
-      "size": 104548419,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Riverside_4.5.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Riverside_4.5.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/RVS-Riverside.fm.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/RVS-Riverside.fm.png"
     }
   ],
   "userInfo": {}
