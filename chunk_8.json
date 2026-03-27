@@ -4,6 +4,238 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "audiomack",
+      "type": 1,
+      "bundleID": "com.audiomack.iphone",
+      "bundleIdentifier": "com.audiomack.iphone",
+      "version": "7.15.0",
+      "versionDate": "2025-08-05",
+      "fullDate": "20250805211507",
+      "size": 243958959,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/audiomack_7.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/audiomack_7.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png"
+    },
+    {
+      "name": "OurPact",
+      "type": 1,
+      "bundleID": "com.parentsware.ourpact",
+      "bundleIdentifier": "com.parentsware.ourpact",
+      "version": "9.16.0",
+      "versionDate": "2025-08-05",
+      "fullDate": "20250805110247",
+      "size": 16545653,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/OurPact_9.16.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/OurPact_9.16.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parentsware.ourpact.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parentsware.ourpact.png"
+    },
+    {
+      "name": "ForeFlight",
+      "type": 1,
+      "bundleID": "com.foreflight.ForeFlightMobile",
+      "bundleIdentifier": "com.foreflight.ForeFlightMobile",
+      "version": "17.7.4",
+      "versionDate": "2025-08-05",
+      "fullDate": "20250805010656",
+      "size": 183468712,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/ForeFlight_17.7.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/ForeFlight_17.7.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png"
+    },
+    {
+      "beta": false,
+      "name": "Flycast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "developerName": "Flyinghead",
+      "subtitle": "Dreamcast, Naomi and Atomiswave emulator.",
+      "version": "v2.5",
+      "versionDate": "2025-05-07T11:36:00+02:00",
+      "versionDescription": "DCNet support, new on-screen gamepad",
+      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.5/Flycast-2.5.ipa",
+      "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
+      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+      "tintColor": "9b54fd",
+      "size": 8161611,
+      "screenshotURLs": [
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+      ]
+    },
+    {
+      "name": "ProCam - Pro Camera (Hacked)",
+      "bundleIdentifier": "gemini.ProCam-2",
+      "developerName": "Nabzclan",
+      "subtitle": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval",
+      "localizedDescription": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps, Tweaked Apps\n\n BundleID: gemini.ProCam-2\n\n Downloads: 224\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1746852888.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17468528883588397823.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528884798693545.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528885482515777.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528886213015223.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528886893894107.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528887524426419.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "14.6.9",
+          "date": "2025-05-11 03:49:18",
+          "localizedDescription": "Current of ProCam - Pro Camera (Hacked) - 14.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
+          "size": 70307020
+        },
+        {
+          "version": "14.6.9",
+          "date": "2025-05-11 03:49:18",
+          "localizedDescription": "Old Version of ProCam - Pro Camera (Hacked) - 14.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
+          "size": 70307020
+        }
+      ],
+      "version": "14.6.9",
+      "versionDate": "2025-05-11 03:49:18",
+      "versionDescription": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
+      "formatedsize": "67.05 MB",
+      "size": 70307020
+    },
+    {
+      "name": "NBA 2K25 Arcade Edition",
+      "bundleIdentifier": "com.2ksports.nba2k25arcade",
+      "developerName": "2K",
+      "subtitle": "New in NBA 2K25 Arcade Edition:\r\n \u2022 Outdoor streetball courts and indoor courts, complete quests to earn rewards for your MyPLAYER like, shoes, outfits, tattoos, and more!\r\n \u2022 Ability to recruit NBA Legends to join your streetball squad and challenge players from across the globe in PvP Ranked Matches via Connection Games! Climb the Game Center Leaderboard and show the world who's boss!\r\n \u2022 An all-new badge system to mold your MyPLAYER into an NBA legend. Explore The Neighborhood and complete quests to earn badge points to enhance offensive and defensive stats!",
+      "localizedDescription": "New in NBA 2K25 Arcade Edition:\r\n \u2022 Outdoor streetball courts and indoor courts, complete quests to earn rewards for your MyPLAYER like, shoes, outfits, tattoos, and more!\r\n \u2022 Ability to recruit NBA Legends to join your streetball squad and challenge players from across the globe in PvP Ranked Matches via Connection Games! Climb the Game Center Leaderboard and show the world who's boss!\r\n \u2022 An all-new badge system to mold your MyPLAYER into an NBA legend. Explore The Neighborhood and complete quests to earn badge points to enhance offensive and defensive stats!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.2ksports.nba2k25arcade\n\n Downloads: 59\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1746949268.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17469492680806259173.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492681493125619.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492681884883491.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492682272432243.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492682561909037.webp",
+        "https://apps.nabzclan.vip/screenshots/17469492682909037415.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.70",
+          "date": "2025-05-11 03:41:56",
+          "localizedDescription": "Current of NBA 2K25 Arcade Edition - 1.70",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1376",
+          "size": 1556925644
+        },
+        {
+          "version": "1.70",
+          "date": "2025-05-11 03:41:56",
+          "localizedDescription": "Old Version of NBA 2K25 Arcade Edition - 1.70",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1376",
+          "size": 1556925644
+        }
+      ],
+      "version": "1.70",
+      "versionDate": "2025-05-11 03:41:56",
+      "versionDescription": "New in NBA 2K25 Arcade Edition:\r\n \u2022 Outdoor streetball courts and indoor courts, complete quests to earn rewards for your MyPLAYER like, shoes, outfits, tattoos, and more!\r\n \u2022 Ability to recruit NBA Legends to join your streetball squad and challenge players from across the globe in PvP Ranked Matches via Connection Games! Climb the Game Center Leaderboard and show the world who's boss!\r\n \u2022 An all-new badge system to mold your MyPLAYER into an NBA legend. Explore The Neighborhood and complete quests to earn badge points to enhance offensive and defensive stats!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1376",
+      "formatedsize": "1.45 GB",
+      "size": 1556925644
+    },
+    {
+      "name": "NARUTO: Ultimate Ninja STORM",
+      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0431",
+      "developerName": "Bandai Namco Entertainment Inc.",
+      "subtitle": "[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!",
+      "localizedDescription": "[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: jp.co.bandainamcoent.BNEI0431\n\n Downloads: 103\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1746949035.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17469490355068758475.webp",
+        "https://apps.nabzclan.vip/screenshots/17469490355787330624.webp",
+        "https://apps.nabzclan.vip/screenshots/17469490356186888070.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.15",
+          "date": "2025-05-11 03:37:15",
+          "localizedDescription": "Current of NARUTO: Ultimate Ninja STORM - 1.0.15",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1375",
+          "size": 3468186091
+        },
+        {
+          "version": "1.0.15",
+          "date": "2025-05-11 03:37:15",
+          "localizedDescription": "Old Version of NARUTO: Ultimate Ninja STORM - 1.0.15",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1375",
+          "size": 3468186091
+        }
+      ],
+      "version": "1.0.15",
+      "versionDate": "2025-05-11 03:37:15",
+      "versionDescription": "[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1375",
+      "formatedsize": "3.23 GB",
+      "size": 3468186091
+    },
+    {
+      "name": "True Skate",
+      "bundleIdentifier": "com.trueaxis.skate",
+      "developerName": "True Axis",
+      "subtitle": "#1 game in 80 countries. Loved by millions of skateboarders all over the world.\r\n\r\n\"True Skate is clearly something special\" - 4.5/5 - Touch Arcade review.\r\n\r\nTrue Skate\u2122 is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.",
+      "localizedDescription": "#1 game in 80 countries. Loved by millions of skateboarders all over the world.\r\n\r\n\"True Skate is clearly something special\" - 4.5/5 - Touch Arcade review.\r\n\r\nTrue Skate\u2122 is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.trueaxis.skate\n\n Downloads: 29\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1734281200.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17342811998216739024.webp",
+        "https://apps.nabzclan.vip/screenshots/17342811999612223979.webp",
+        "https://apps.nabzclan.vip/screenshots/17342812000544335566.webp",
+        "https://apps.nabzclan.vip/screenshots/17342812001553154038.webp",
+        "https://apps.nabzclan.vip/screenshots/17342812002627512936.webp",
+        "https://apps.nabzclan.vip/screenshots/17342812003612856398.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5.92",
+          "date": "2025-05-11 03:20:35",
+          "localizedDescription": "Current of True Skate - 1.5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
+          "size": 133378867
+        },
+        {
+          "version": "1.5.91",
+          "date": "2025-02-05 17:22:31",
+          "localizedDescription": "Old Version of True Skate - 1.5.91",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1104",
+          "size": 123794882
+        },
+        {
+          "version": "1.5.92",
+          "date": "2025-05-11 03:20:35",
+          "localizedDescription": "Old Version of True Skate - 1.5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
+          "size": 133378867
+        }
+      ],
+      "version": "1.5.92",
+      "versionDate": "2025-05-11 03:20:35",
+      "versionDescription": "#1 game in 80 countries. Loved by millions of skateboarders all over the world.\r\n\r\n\"True Skate is clearly something special\" - 4.5/5 - Touch Arcade review.\r\n\r\nTrue Skate\u2122 is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
+      "formatedsize": "127.2 MB",
+      "size": 133378867
+    },
+    {
       "name": "Paper.io 2 (Hacked)",
       "bundleIdentifier": "io.voodoo.paper2",
       "developerName": "Nabzclan",
@@ -4132,340 +4364,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1238",
       "formatedsize": "47.69 MB",
       "size": 50006589
-    },
-    {
-      "name": "Odyssey",
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "developerName": "coolstar",
-      "subtitle": "Supported Devices: All A9-A13 devices on iOS 13.0-13.7 - Odyssey Swift-based semi-untethered jailbreak",
-      "localizedDescription": "Supported Devices: All A9-A13 devices on iOS 13.0-13.7 - Odyssey Swift-based semi-untethered jailbreak\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: org.coolstar.odyssey\n\n Downloads: 231\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726374072.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17263740922494012.webp",
-        "https://apps.nabzclan.vip/screenshots/17263740926549793.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.3",
-          "date": "2025-02-25 16:28:38",
-          "localizedDescription": "Current of Odyssey - 1.4.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/546",
-          "size": 27200061
-        },
-        {
-          "version": "1.4.3",
-          "date": "2025-02-25 16:28:38",
-          "localizedDescription": "Old Version of Odyssey - 1.4.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/546",
-          "size": 27200061
-        }
-      ],
-      "version": "1.4.3",
-      "versionDate": "2025-02-25 16:28:38",
-      "versionDescription": "Supported Devices: All A9-A13 devices on iOS 13.0-13.7 - Odyssey Swift-based semi-untethered jailbreak",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/546",
-      "formatedsize": "25.94 MB",
-      "size": 27200061
-    },
-    {
-      "name": "unc0ver",
-      "bundleIdentifier": "com.uncover.jailbreak",
-      "developerName": "unc0ver team",
-      "subtitle": "The most advanced jailbreak tool.\r\niOS 11.0 - 14.8",
-      "localizedDescription": "The most advanced jailbreak tool.\r\niOS 11.0 - 14.8\n\n --- \n\n More app Information:\n\n Category: Jailbreak Apps\n\n BundleID: com.uncover.jailbreak\n\n Downloads: 1598\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1687388509.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "8.0.2",
-          "date": "2025-02-25 16:26:41",
-          "localizedDescription": "Current of unc0ver - 8.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/58",
-          "size": 54494494
-        },
-        {
-          "version": "8.0.2",
-          "date": "2025-02-25 16:26:41",
-          "localizedDescription": "Old Version of unc0ver - 8.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/58",
-          "size": 54494494
-        }
-      ],
-      "version": "8.0.2",
-      "versionDate": "2025-02-25 16:26:41",
-      "versionDescription": "The most advanced jailbreak tool.\r\niOS 11.0 - 14.8",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/58",
-      "formatedsize": "51.97 MB",
-      "size": 54494494
-    },
-    {
-      "name": "Brothers in Arms 3: Sons of War",
-      "bundleIdentifier": "com.gameloft.bia3",
-      "developerName": "Gameloft",
-      "subtitle": "Brothers in Arms 3: Sons of War is the third part of popular action line of Brothers in Arms to fully reflect the events of the Second World! Very well detailed locations, to the smallest detail, and the available Arsenal of weapons really existed in a time like this and options! Play the campaign locally, pass the mission and explore the game world. You will find 8 sections of the storyline. As the characters are 12 brothers, each with their own skills and upgrades. Enjoy the gameplay and experiment with the weapons and features!",
-      "localizedDescription": "Brothers in Arms 3: Sons of War is the third part of popular action line of Brothers in Arms to fully reflect the events of the Second World! Very well detailed locations, to the smallest detail, and the available Arsenal of weapons really existed in a time like this and options! Play the campaign locally, pass the mission and explore the game world. You will find 8 sections of the storyline. As the characters are 12 brothers, each with their own skills and upgrades. Enjoy the gameplay and experiment with the weapons and features!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.gameloft.bia3\n\n Downloads: 378\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1740518353.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17405183713613076.webp",
-        "https://apps.nabzclan.vip/screenshots/17405183719583441.webp",
-        "https://apps.nabzclan.vip/screenshots/17405183728326693.webp",
-        "https://apps.nabzclan.vip/screenshots/17405183723825421.webp",
-        "https://apps.nabzclan.vip/screenshots/17405183727352460.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.0",
-          "date": "2025-02-25 16:19:13",
-          "localizedDescription": "Current of Brothers in Arms 3: Sons of War - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1237",
-          "size": 876294963
-        },
-        {
-          "version": "1.4.0",
-          "date": "2025-02-25 16:19:13",
-          "localizedDescription": "Old Version of Brothers in Arms 3: Sons of War - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1237",
-          "size": 876294963
-        }
-      ],
-      "version": "1.4.0",
-      "versionDate": "2025-02-25 16:19:13",
-      "versionDescription": "Brothers in Arms 3: Sons of War is the third part of popular action line of Brothers in Arms to fully reflect the events of the Second World! Very well detailed locations, to the smallest detail, and the available Arsenal of weapons really existed in a time like this and options! Play the campaign locally, pass the mission and explore the game world. You will find 8 sections of the storyline. As the characters are 12 brothers, each with their own skills and upgrades. Enjoy the gameplay and experiment with the weapons and features!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1237",
-      "formatedsize": "835.7 MB",
-      "size": 876294963
-    },
-    {
-      "name": "Call of Duty: Heroes",
-      "bundleIdentifier": "com.activision.callofduty.heroes",
-      "developerName": "Activision Publishing, Inc.",
-      "subtitle": "Call of Duty: Heroes - famous and popular for many players, this version still pretty. Build up a base, train your soldiers and send them into battle. However, some features make the game very attractive. For example, when you get to the enemy base, will be able to shoot a machine gun on the defenders (the first-person shooter). Or for example, to help their soldiers with air and fly a helicopter and driving a machine gun! In addition, legendary heroes, soldiers of elite units, an extensive Arsenal of weapons and your own fleet with the ability to upgrade - what could be more attractive....",
-      "localizedDescription": "Call of Duty: Heroes - famous and popular for many players, this version still pretty. Build up a base, train your soldiers and send them into battle. However, some features make the game very attractive. For example, when you get to the enemy base, will be able to shoot a machine gun on the defenders (the first-person shooter). Or for example, to help their soldiers with air and fly a helicopter and driving a machine gun! In addition, legendary heroes, soldiers of elite units, an extensive Arsenal of weapons and your own fleet with the ability to upgrade - what could be more attractive....\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.activision.callofduty.heroes\n\n Downloads: 429\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1740517920.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17405179325716288.webp",
-        "https://apps.nabzclan.vip/screenshots/17405179327622997.webp",
-        "https://apps.nabzclan.vip/screenshots/17405179324127755.webp",
-        "https://apps.nabzclan.vip/screenshots/17405179325553872.webp",
-        "https://apps.nabzclan.vip/screenshots/17405179326011109.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.7.0",
-          "date": "2025-02-25 16:12:00",
-          "localizedDescription": "Current of Call of Duty: Heroes - 4.7.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1236",
-          "size": 82208358
-        },
-        {
-          "version": "4.7.0",
-          "date": "2025-02-25 16:12:00",
-          "localizedDescription": "Old Version of Call of Duty: Heroes - 4.7.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1236",
-          "size": 82208358
-        }
-      ],
-      "version": "4.7.0",
-      "versionDate": "2025-02-25 16:12:00",
-      "versionDescription": "Call of Duty: Heroes - famous and popular for many players, this version still pretty. Build up a base, train your soldiers and send them into battle. However, some features make the game very attractive. For example, when you get to the enemy base, will be able to shoot a machine gun on the defenders (the first-person shooter). Or for example, to help their soldiers with air and fly a helicopter and driving a machine gun! In addition, legendary heroes, soldiers of elite units, an extensive Arsenal of weapons and your own fleet with the ability to upgrade - what could be more attractive....",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1236",
-      "formatedsize": "78.4 MB",
-      "size": 82208358
-    },
-    {
-      "name": "Safe Checker App",
-      "bundleIdentifier": "nabzclan.safe-checker",
-      "developerName": "Nabz Clan",
-      "subtitle": "Features:\r\n- Checks for data breaches based on emails\r\n\r\n- Checks password used how many times \r\n\r\n- Checks url safety checks for malicious links and scam links",
-      "localizedDescription": "Features:\r\n- Checks for data breaches based on emails\r\n\r\n- Checks password used how many times \r\n\r\n- Checks url safety checks for malicious links and scam links\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: nabzclan.safe-checker\n\n Downloads: 278\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1725794736.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4",
-          "date": "2025-02-25 15:52:53",
-          "localizedDescription": "Current of Safe Checker App - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1235",
-          "size": 376145
-        },
-        {
-          "version": "1.3",
-          "date": "2024-09-08 15:25:36",
-          "localizedDescription": "Old Version of Safe Checker App - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/503",
-          "size": 375808
-        },
-        {
-          "version": "1.4",
-          "date": "2025-02-25 15:52:53",
-          "localizedDescription": "Old Version of Safe Checker App - 1.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1235",
-          "size": 376145
-        }
-      ],
-      "version": "1.4",
-      "versionDate": "2025-02-25 15:52:53",
-      "versionDescription": "Features:\r\n- Checks for data breaches based on emails\r\n\r\n- Checks password used how many times \r\n\r\n- Checks url safety checks for malicious links and scam links",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1235",
-      "formatedsize": "367.33 KB",
-      "size": 376145
-    },
-    {
-      "name": "Gbox - No Tracking",
-      "bundleIdentifier": "com.nabzclan.gboxnotracking",
-      "developerName": "Nabzclan",
-      "subtitle": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n---\r\n\r\nthis Gbox version blocks them from tracking you and selling your information if that's their goal\r\n\r\nProject url: https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/",
-      "localizedDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n---\r\n\r\nthis Gbox version blocks them from tracking you and selling your information if that's their goal\r\n\r\nProject url: https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.nabzclan.gboxnotracking\n\n Downloads: 1726\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726132075.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269019803568188.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019807888061.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019803435071.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019805994272.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:29:13",
-          "localizedDescription": "Current of Gbox - No Tracking - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1234",
-          "size": 7444889
-        },
-        {
-          "version": "5.6.9",
-          "date": "2024-12-25 16:04:49",
-          "localizedDescription": "Old Version of Gbox - No Tracking - 5.6.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1130",
-          "size": 7581204
-        },
-        {
-          "version": "5.7",
-          "date": "2025-02-02 13:06:52",
-          "localizedDescription": "Old Version of Gbox - No Tracking - 5.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1191",
-          "size": 7591690
-        },
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:29:13",
-          "localizedDescription": "Old Version of Gbox - No Tracking - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1234",
-          "size": 7444889
-        }
-      ],
-      "version": "5.7.3",
-      "versionDate": "2025-02-24 18:29:13",
-      "versionDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n---\r\n\r\nthis Gbox version blocks them from tracking you and selling your information if that's their goal\r\n\r\nProject url: https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1234",
-      "formatedsize": "7.1 MB",
-      "size": 7444889
-    },
-    {
-      "name": "Gbox",
-      "bundleIdentifier": "com.ncs.gbox",
-      "developerName": "Gbox team",
-      "subtitle": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n----\r\n\r\nApp tracks you and sends to Chinese servers\r\n\r\nuse this version instead: https://apps.nabzclan.vip/apps/gbox-no-tracking",
-      "localizedDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n----\r\n\r\nApp tracks you and sends to Chinese servers\r\n\r\nuse this version instead: https://apps.nabzclan.vip/apps/gbox-no-tracking\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.ncs.gbox\n\n Downloads: 1088\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1689529995.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17058258004731369.webp",
-        "https://apps.nabzclan.vip/screenshots/17058258073685411.webp",
-        "https://apps.nabzclan.vip/screenshots/17058258154050521.webp",
-        "https://apps.nabzclan.vip/screenshots/17058258279222404.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:28:36",
-          "localizedDescription": "Current of Gbox - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1233",
-          "size": 6773800
-        },
-        {
-          "version": "5.6.9",
-          "date": "2024-12-25 16:05:18",
-          "localizedDescription": "Old Version of Gbox - 5.6.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1131",
-          "size": 6763315
-        },
-        {
-          "version": "5.7",
-          "date": "2025-02-02 13:08:23",
-          "localizedDescription": "Old Version of Gbox - 5.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1192",
-          "size": 6763315
-        },
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:28:36",
-          "localizedDescription": "Old Version of Gbox - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1233",
-          "size": 6773800
-        }
-      ],
-      "version": "5.7.3",
-      "versionDate": "2025-02-24 18:28:36",
-      "versionDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n----\r\n\r\nApp tracks you and sends to Chinese servers\r\n\r\nuse this version instead: https://apps.nabzclan.vip/apps/gbox-no-tracking",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1233",
-      "formatedsize": "6.46 MB",
-      "size": 6773800
-    },
-    {
-      "name": "Passpartout: Starving Artist",
-      "bundleIdentifier": "com.FlamebaitGames.Passpartout",
-      "developerName": "Flamebait AB",
-      "subtitle": "Even you can become a great artist! Wrestle subjectivity as you attempt to sell your art to rude customers in order to progress in this confusing art scene. The only thing threatening you is your expensive wine and baguette addiction! Will your art end up in the Louvre or on your parents' fridge?\r\n\r\n\r\nPasspartout puts you into the shoes of a French artist trying to navigate the beautifully confusing art scene. Paint and sell your own art to survive your expensive baguette addiction.",
-      "localizedDescription": "Even you can become a great artist! Wrestle subjectivity as you attempt to sell your art to rude customers in order to progress in this confusing art scene. The only thing threatening you is your expensive wine and baguette addiction! Will your art end up in the Louvre or on your parents' fridge?\r\n\r\n\r\nPasspartout puts you into the shoes of a French artist trying to navigate the beautifully confusing art scene. Paint and sell your own art to survive your expensive baguette addiction.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.FlamebaitGames.Passpartout\n\n Downloads: 115\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1740439033.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17404390326563782583.webp",
-        "https://apps.nabzclan.vip/screenshots/17404390327344112126.webp",
-        "https://apps.nabzclan.vip/screenshots/17404390328398817763.webp",
-        "https://apps.nabzclan.vip/screenshots/17404390329434125539.webp",
-        "https://apps.nabzclan.vip/screenshots/17404390330599973953.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.31",
-          "date": "2025-02-24 18:17:13",
-          "localizedDescription": "Current of Passpartout: Starving Artist - 1.31",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1231",
-          "size": 186541670
-        },
-        {
-          "version": "1.31",
-          "date": "2025-02-24 18:17:13",
-          "localizedDescription": "Old Version of Passpartout: Starving Artist - 1.31",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1231",
-          "size": 186541670
-        }
-      ],
-      "version": "1.31",
-      "versionDate": "2025-02-24 18:17:13",
-      "versionDescription": "Even you can become a great artist! Wrestle subjectivity as you attempt to sell your art to rude customers in order to progress in this confusing art scene. The only thing threatening you is your expensive wine and baguette addiction! Will your art end up in the Louvre or on your parents' fridge?\r\n\r\n\r\nPasspartout puts you into the shoes of a French artist trying to navigate the beautifully confusing art scene. Paint and sell your own art to survive your expensive baguette addiction.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1231",
-      "formatedsize": "177.9 MB",
-      "size": 186541670
     }
   ],
   "userInfo": {}
