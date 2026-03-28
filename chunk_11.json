@@ -4,336 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "Merge Survival - Hack",
-      "bundleIdentifier": "com.stickyhands.mergesurvival",
-      "developerName": "BabylonIPA",
-      "subtitle": "Hack Features:\r\n- Every item in the shop cost 0",
-      "localizedDescription": "Hack Features:\r\n- Every item in the shop cost 0\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.stickyhands.mergesurvival\n\n Downloads: 65\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725955559.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17259555509483810862.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555523984907900.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555537156272451.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555549362683287.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555562164826279.webp",
-        "https://apps.nabzclan.vip/screenshots/17259555582428131900.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.31.0",
-          "date": "2024-09-10 12:05:59",
-          "localizedDescription": "Current of Merge Survival - Hack - 1.31.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/516",
-          "size": 300972769
-        },
-        {
-          "version": "1.31.0",
-          "date": "2024-09-10 12:05:59",
-          "localizedDescription": "Old Version of Merge Survival - Hack - 1.31.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/516",
-          "size": 300972769
-        }
-      ],
-      "version": "1.31.0",
-      "versionDate": "2024-09-10 12:05:59",
-      "versionDescription": "Hack Features:\r\n- Every item in the shop cost 0",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/516",
-      "formatedsize": "287.03 MB",
-      "size": 300972769
-    },
-    {
-      "name": "The Seven Deadly Sins - hack",
-      "bundleIdentifier": "com.netmarble.nanagb",
-      "developerName": "BabylonIPA",
-      "subtitle": "Hack Features:-\r\n- One Hit Kill",
-      "localizedDescription": "Hack Features:-\r\n- One Hit Kill\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.netmarble.nanagb\n\n Downloads: 160\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725955105.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17259551040056401529.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551043921845703.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551045667243329.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551048811605208.webp",
-        "https://apps.nabzclan.vip/screenshots/17259551050757483465.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.59.0",
-          "date": "2024-09-10 11:58:25",
-          "localizedDescription": "Current of The Seven Deadly Sins - hack - 2.59.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
-          "size": 128020643
-        },
-        {
-          "version": "2.59.0",
-          "date": "2024-09-10 11:58:25",
-          "localizedDescription": "Old Version of The Seven Deadly Sins - hack - 2.59.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
-          "size": 128020643
-        }
-      ],
-      "version": "2.59.0",
-      "versionDate": "2024-09-10 11:58:25",
-      "versionDescription": "Hack Features:-\r\n- One Hit Kill",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/515",
-      "formatedsize": "122.09 MB",
-      "size": 128020643
-    },
-    {
-      "name": "Kodi",
-      "bundleIdentifier": "org.xbmc.kodi-ios",
-      "developerName": "Kodi Team",
-      "subtitle": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
-      "localizedDescription": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: org.xbmc.kodi-ios\n\n Downloads: 1230\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1713132810.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "21.0",
-          "date": "2024-09-10 11:39:15",
-          "localizedDescription": "Current of Kodi - 21.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/512",
-          "size": 151529717
-        },
-        {
-          "version": "20.5",
-          "date": "2024-04-15 02:13:31",
-          "localizedDescription": "Old Version of Kodi - 20.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/435",
-          "size": 147513671
-        },
-        {
-          "version": "21.0",
-          "date": "2024-09-10 11:39:15",
-          "localizedDescription": "Old Version of Kodi - 21.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/512",
-          "size": 151529717
-        }
-      ],
-      "version": "21.0",
-      "versionDate": "2024-09-10 11:39:15",
-      "versionDescription": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/512",
-      "formatedsize": "144.51 MB",
-      "size": 151529717
-    },
-    {
-      "name": "Fortnite - EZFN - S4",
-      "bundleIdentifier": "com.chairentertainment.Fortnite",
-      "developerName": "EZFN Team",
-      "subtitle": "Fortnite - EZFN - season 4 ipa",
-      "localizedDescription": "Fortnite - EZFN - season 4 ipa\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.chairentertainment.Fortnite\n\n Downloads: 1077\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1725886162.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17258861736574490.webp",
-        "https://apps.nabzclan.vip/screenshots/17258861738020693.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.2.0",
-          "date": "2024-09-09 16:49:23",
-          "localizedDescription": "Current of Fortnite - EZFN - S4 - 4.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/508",
-          "size": 87776296
-        },
-        {
-          "version": "4.2.0",
-          "date": "2024-09-09 16:49:23",
-          "localizedDescription": "Old Version of Fortnite - EZFN - S4 - 4.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/508",
-          "size": 87776296
-        }
-      ],
-      "version": "4.2.0",
-      "versionDate": "2024-09-09 16:49:23",
-      "versionDescription": "Fortnite - EZFN - season 4 ipa",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/508",
-      "formatedsize": "83.71 MB",
-      "size": 87776296
-    },
-    {
-      "name": "DRAGON BALL LEGENDS (Hack)",
-      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0334",
-      "developerName": "Nabzclan",
-      "subtitle": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall",
-      "localizedDescription": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: jp.co.bandainamcoent.BNEI0334\n\n Downloads: 3084\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700540572.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17005405709495001688.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405714274360423.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405716166662261.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405718195526659.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405720176396869.webp",
-        "https://apps.nabzclan.vip/screenshots/17005405722042971795.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.4.0",
-          "date": "2024-05-27 23:57:18",
-          "localizedDescription": "Current of DRAGON BALL LEGENDS (Hack) - 5.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/473",
-          "size": 123941683
-        },
-        {
-          "version": "4.32.0",
-          "date": "2023-11-21 04:22:52",
-          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 4.32.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/314",
-          "size": 100621352
-        },
-        {
-          "version": "5.0.0",
-          "date": "2024-03-04 14:03:18",
-          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.0.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/391",
-          "size": 119369891
-        },
-        {
-          "version": "5.1.0",
-          "date": "2024-04-11 11:23:53",
-          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/417",
-          "size": 114808586
-        },
-        {
-          "version": "5.4.0",
-          "date": "2024-05-27 23:57:18",
-          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/473",
-          "size": 123941683
-        }
-      ],
-      "version": "5.4.0",
-      "versionDate": "2024-05-27 23:57:18",
-      "versionDescription": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/473",
-      "formatedsize": "118.20 MB",
-      "size": 123941683
-    },
-    {
-      "name": "GBA4IOS",
-      "bundleIdentifier": "com.macbuildserver.GBA4iOS",
-      "developerName": "Delta team",
-      "subtitle": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
-      "localizedDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: com.macbuildserver.GBA4iOS\n\n Downloads: 531\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1715977480.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.1.1",
-          "date": "2024-05-18 19:45:34",
-          "localizedDescription": "Current of GBA4IOS - 2.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
-          "size": 11953766
-        },
-        {
-          "version": "2.1.1",
-          "date": "2024-05-18 19:45:34",
-          "localizedDescription": "Old Version of GBA4IOS - 2.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
-          "size": 11953766
-        }
-      ],
-      "version": "2.1.1",
-      "versionDate": "2024-05-18 19:45:34",
-      "versionDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/468",
-      "formatedsize": "11.4 MB",
-      "size": 11953766
-    },
-    {
-      "name": "Citrus AI - premium",
-      "bundleIdentifier": "com.wemagineai.citrus",
-      "developerName": "nabzclan",
-      "subtitle": "unlocked premium",
-      "localizedDescription": "unlocked premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.wemagineai.citrus\n\n Downloads: 759\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1715229061.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17152290565594538836.webp",
-        "https://apps.nabzclan.vip/screenshots/17152290585779980556.webp",
-        "https://apps.nabzclan.vip/screenshots/17152290604239847328.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.03.04",
-          "date": "2024-05-09 08:31:02",
-          "localizedDescription": "Current of Citrus AI - premium - 1.03.04",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/464",
-          "size": 31016878
-        },
-        {
-          "version": "1.03.04",
-          "date": "2024-05-09 08:31:02",
-          "localizedDescription": "Old Version of Citrus AI - premium - 1.03.04",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/464",
-          "size": 31016878
-        }
-      ],
-      "version": "1.03.04",
-      "versionDate": "2024-05-09 08:31:02",
-      "versionDescription": "unlocked premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/464",
-      "formatedsize": "29.58 MB",
-      "size": 31016878
-    },
-    {
-      "name": "DEAD TRIGGER 2 - Hacked",
-      "bundleIdentifier": "com.madfingergames.deadtrigger2",
-      "developerName": "kamo hacks",
-      "subtitle": "Hacks: NeverDie",
-      "localizedDescription": "Hacks: NeverDie\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.madfingergames.deadtrigger2\n\n Downloads: 741\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1715179676.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17151796620441518425.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796625814957902.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796654035228073.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796677014644891.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796699686552767.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796726578417548.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.10.5",
-          "date": "2024-05-08 18:47:56",
-          "localizedDescription": "Current of DEAD TRIGGER 2 - Hacked - 1.10.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/457",
-          "size": 585839411
-        },
-        {
-          "version": "1.10.5",
-          "date": "2024-05-08 18:47:56",
-          "localizedDescription": "Old Version of DEAD TRIGGER 2 - Hacked - 1.10.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/457",
-          "size": 585839411
-        }
-      ],
-      "version": "1.10.5",
-      "versionDate": "2024-05-08 18:47:56",
-      "versionDescription": "Hacks: NeverDie",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/457",
-      "formatedsize": "558.70 MB",
-      "size": 585839411
-    },
-    {
       "name": "Dezokr (No Ads) - VIP",
       "bundleIdentifier": "com.huiynfim.play",
       "developerName": "Nabzclan",
@@ -2737,6 +2407,105 @@
       "developerName": "Qamislo - Apps",
       "localizedDescription": "Another HDO Play under a different name, UI is way better than the one above.\nLast updated: 12-03-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tovuen.play.png"
+    },
+    {
+      "name": "SenditDiamond",
+      "bundleIdentifier": "com.fullsenders.sendit",
+      "version": "21.6.2",
+      "versionDate": "2024-10-13",
+      "size": 54214503,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SenditDiamond/SenditDiamond-21.6.2.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fullsenders.sendit.png"
+    },
+    {
+      "name": "SecondHand",
+      "bundleIdentifier": "com.leemin.SecondHand",
+      "version": "1.1",
+      "versionDate": "2024-10-13",
+      "size": 2911445,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SecondHand/SecondHand-1.1.ipa",
+      "developerName": "leminlimez",
+      "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1\nLast updated: 11-28-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.SecondHand.png"
+    },
+    {
+      "name": "Salatuk",
+      "bundleIdentifier": "com.masaratapp.salatuk",
+      "version": "2.1.0",
+      "versionDate": "2024-10-13",
+      "size": 54823320,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Salatuk/Salatuk-2.1.0.ipa",
+      "developerName": "Sultan Mods",
+      "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.masaratapp.salatuk.png"
+    },
+    {
+      "name": "SafeLockPremium",
+      "bundleIdentifier": "com.appslab.safelock",
+      "version": "2.14",
+      "versionDate": "2024-10-13",
+      "size": 16341590,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SafeLockPremium/SafeLockPremium-2.14.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "localizedDescription": "This app offers advanced security features including PIN-code, Touch ID, Face ID, DotLock, and both numeric and alphabetic passwords, ensuring that your confidential photo album is securely locked and protected from unauthorized viewers.\nLast updated: 04-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.appslab.safelock.png"
+    },
+    {
+      "name": "RingtoneMaker",
+      "bundleIdentifier": "com.csj.ling",
+      "version": "1.9.17",
+      "versionDate": "2024-10-13",
+      "size": 15388388,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RingtoneMaker/RingtoneMaker-1.9.17.ipa",
+      "developerName": "ArianaMinajj",
+      "localizedDescription": "Injected with Satella for no ads. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.csj.ling.png"
+    },
+    {
+      "name": "ResolutionSetterTS",
+      "bundleIdentifier": "com.michael.resolutionsetter",
+      "version": "1.3.0",
+      "versionDate": "2024-10-13",
+      "size": 30408,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ResolutionSetterTS/ResolutionSetterTS-1.3.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michael.resolutionsetter.png"
+    },
+    {
+      "name": "ReederClassic",
+      "bundleIdentifier": "com.reederapp.5.iOS",
+      "version": "5.4.4",
+      "versionDate": "2024-10-13",
+      "size": 5668093,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReederClassic/ReederClassic-5.4.4.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.reederapp.5.iOS.png"
+    },
+    {
+      "name": "RadioAppPremium",
+      "bundleIdentifier": "com.firstclass.radiofree",
+      "version": "2.0.19",
+      "versionDate": "2024-10-12",
+      "size": 35329967,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadioAppPremium/RadioAppPremium-2.0.19.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
+    },
+    {
+      "name": "QuantumultX",
+      "bundleIdentifier": "com.crossutility.quantumult-x",
+      "version": "1.4.2",
+      "versionDate": "2024-10-12",
+      "size": 16180965,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuantumultX/QuantumultX-1.4.2.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png"
     }
   ],
   "userInfo": {}

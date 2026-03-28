@@ -4,282 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
-      "name": "Through the Ages",
-      "bundleIdentifier": "com.czechgames.tta",
-      "developerName": "CGE Digital s.r.o.",
-      "subtitle": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.",
-      "localizedDescription": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.czechgames.tta\n\n Downloads: 70\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731284692.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312846924737983408.webp",
-        "https://apps.nabzclan.vip/screenshots/17312846925377073916.webp",
-        "https://apps.nabzclan.vip/screenshots/17312846925794169515.webp",
-        "https://apps.nabzclan.vip/screenshots/17312846926175471623.webp",
-        "https://apps.nabzclan.vip/screenshots/17312846926522417781.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.19.1018",
-          "date": "2024-11-10 19:24:52",
-          "localizedDescription": "Current of Through the Ages - 2.19.1018",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/978",
-          "size": 193042841
-        },
-        {
-          "version": "2.19.1018",
-          "date": "2024-11-10 19:24:52",
-          "localizedDescription": "Old Version of Through the Ages - 2.19.1018",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/978",
-          "size": 193042841
-        }
-      ],
-      "version": "2.19.1018",
-      "versionDate": "2024-11-10 19:24:52",
-      "versionDescription": "Through the Ages is based on a highly acclaimed civilization board game by well-known designer Vlaada Chv\u00e1til. The original game is recognized as a modern classic board game.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/978",
-      "formatedsize": "184.1 MB",
-      "size": 193042841
-    },
-    {
-      "name": "The Battle of Polytopia+",
-      "bundleIdentifier": "com.felixrum.supertribes.plus",
-      "developerName": "Midjiwan AB",
-      "subtitle": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0",
-      "localizedDescription": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.felixrum.supertribes.plus\n\n Downloads: 140\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731282963.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312829629908895960.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829630865949746.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829631281842999.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829631776766473.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829632172997407.webp",
-        "https://apps.nabzclan.vip/screenshots/17312829632616377687.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.9.1",
-          "date": "2024-11-10 18:56:03",
-          "localizedDescription": "Current of The Battle of Polytopia+ - 2.9.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/977",
-          "size": 176066396
-        },
-        {
-          "version": "2.9.1",
-          "date": "2024-11-10 18:56:03",
-          "localizedDescription": "Old Version of The Battle of Polytopia+ - 2.9.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/977",
-          "size": 176066396
-        }
-      ],
-      "version": "2.9.1",
-      "versionDate": "2024-11-10 18:56:03",
-      "versionDescription": "The Battle of Polytopia is an award winning and unique turn based strategy game about controlling the map, fighting enemy tribes, discovering new lands and mastering new technologies. \u00a0",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/977",
-      "formatedsize": "167.91 MB",
-      "size": 176066396
-    },
-    {
-      "name": "Project V90",
-      "bundleIdentifier": "com.vg90studio.projectv90",
-      "developerName": "VG90 STUDIO",
-      "subtitle": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
-      "localizedDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.vg90studio.projectv90\n\n Downloads: 52\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731280389.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312803879765080465.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803881625276003.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803885733130427.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803886987988610.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803888446045703.webp",
-        "https://apps.nabzclan.vip/screenshots/17312803892305704199.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.0",
-          "date": "2024-11-10 18:13:09",
-          "localizedDescription": "Current of Project V90 - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
-          "size": 168401305
-        },
-        {
-          "version": "3.0",
-          "date": "2024-11-10 18:13:09",
-          "localizedDescription": "Old Version of Project V90 - 3.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/975",
-          "size": 168401305
-        }
-      ],
-      "version": "3.0",
-      "versionDate": "2024-11-10 18:13:09",
-      "versionDescription": "Discover the world of Project V90 - a simple retro 2D action platform game that combines the excitement of sword fighting, space shooting, spider rides, and more. Encounter new challenges, lots of action, and fun.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/975",
-      "formatedsize": "160.6 MB",
-      "size": 168401305
-    },
-    {
-      "name": "The Forgotten Room",
-      "bundleIdentifier": "com.glitchgames.theforgottenroom",
-      "developerName": "Glitch Games",
-      "subtitle": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
-      "localizedDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.glitchgames.theforgottenroom\n\n Downloads: 229\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731280017.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312800160479509149.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800161912364314.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800164035276171.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800165027847909.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800169127406388.webp",
-        "https://apps.nabzclan.vip/screenshots/17312800177149621548.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.4",
-          "date": "2024-11-10 18:06:58",
-          "localizedDescription": "Current of The Forgotten Room - 1.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
-          "size": 417752678
-        },
-        {
-          "version": "1.2.4",
-          "date": "2024-11-10 18:06:58",
-          "localizedDescription": "Old Version of The Forgotten Room - 1.2.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/974",
-          "size": 417752678
-        }
-      ],
-      "version": "1.2.4",
-      "versionDate": "2024-11-10 18:06:58",
-      "versionDescription": "\"Accompanied by a beautiful score, the entire game is situated around its use of visuals and audio to build up a wonderful atmosphere - something a lot of other games in the genre forget.\" - PocketGamer\r\n\r\nPlay as paranormal investigator John \u201cBuster of Ghosts\u201d Murr as he explores yet another mysteriously creepy house.\r\n\r\nThis time he\u2019s on the case of Evelyn Bright, a 10 year old girl that went missing whilst playing hide and seek with her father.\r\n\r\nWill John solve the mystery of the missing girl and discover what really happened in the forgotten room? Tune in right now to find out!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/974",
-      "formatedsize": "398.4 MB",
-      "size": 417752678
-    },
-    {
-      "name": "Duke Nukem: Manhattan Project (Paid)",
-      "bundleIdentifier": "com.spawnstudios.DukeNukemMP",
-      "developerName": "Spawn Studios, Lda",
-      "subtitle": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
-      "localizedDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.spawnstudios.DukeNukemMP\n\n Downloads: 269\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731279801.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312798009968043435.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798011326161101.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798012836170189.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798016696443743.webp",
-        "https://apps.nabzclan.vip/screenshots/17312798017914190750.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.14",
-          "date": "2024-11-10 18:03:22",
-          "localizedDescription": "Current of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-          "size": 199890042
-        },
-        {
-          "version": "1.0.14",
-          "date": "2024-11-10 18:03:22",
-          "localizedDescription": "Old Version of Duke Nukem: Manhattan Project (Paid) - 1.0.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-          "size": 199890042
-        }
-      ],
-      "version": "1.0.14",
-      "versionDate": "2024-11-10 18:03:22",
-      "versionDescription": "Duke Nukem takes his Mighty Boot to the Big Apple. Using G.L.O.P.P. (Gluon Liquid Omega-Phased Plasma), the maniacal Mech Morphix has transformed the creatures of New York City into an army of bloodthirsty mutants. In Duke Nukem: Manhattan Project, Duke must deploy W.I.N. (Weapons, Insults and Name-Calling) to rid the city of goo-based bad guys, and return peace and tranquility to The City That Never Sleeps.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/973",
-      "formatedsize": "190.63 MB",
-      "size": 199890042
-    },
-    {
-      "name": "Anti-Hack",
-      "bundleIdentifier": "com.HauntCoutureGames.Anti-Hack",
-      "developerName": "Eric McConnell",
-      "subtitle": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
-      "localizedDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.HauntCoutureGames.Anti-Hack\n\n Downloads: 172\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731279533.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312795317516214446.webp",
-        "https://apps.nabzclan.vip/screenshots/17312795325099344269.webp",
-        "https://apps.nabzclan.vip/screenshots/17312795330217055168.webp",
-        "https://apps.nabzclan.vip/screenshots/17312795331418831224.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3",
-          "date": "2024-11-10 17:58:54",
-          "localizedDescription": "Current of Anti-Hack - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
-          "size": 305869619
-        },
-        {
-          "version": "1.3",
-          "date": "2024-11-10 17:58:54",
-          "localizedDescription": "Old Version of Anti-Hack - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/972",
-          "size": 305869619
-        }
-      ],
-      "version": "1.3",
-      "versionDate": "2024-11-10 17:58:54",
-      "versionDescription": "Travel through the underbelly of a compromised computer system by solving binary logic puzzles, restoring your way from the port to the heart of the system",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/972",
-      "formatedsize": "291.7 MB",
-      "size": 305869619
-    },
-    {
-      "name": "Hyper Evolution",
-      "bundleIdentifier": "com.evolution.hyper",
-      "developerName": "SayGames LTD",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.evolution.hyper\n\n Downloads: 199\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731277447.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17312774466952976014.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774468719826948.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774469769576566.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774472792534786.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774473957693012.webp",
-        "https://apps.nabzclan.vip/screenshots/17312774475744587285.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.17",
-          "date": "2024-11-10 17:24:07",
-          "localizedDescription": "Current of Hyper Evolution - 1.2.17",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
-          "size": 163368140
-        },
-        {
-          "version": "1.2.17",
-          "date": "2024-11-10 17:24:07",
-          "localizedDescription": "Old Version of Hyper Evolution - 1.2.17",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
-          "size": 163368140
-        }
-      ],
-      "version": "1.2.17",
-      "versionDate": "2024-11-10 17:24:07",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/971",
-      "formatedsize": "155.8 MB",
-      "size": 163368140
-    },
-    {
       "name": "Hidden Stuff (Hack)",
       "bundleIdentifier": "com.my.little.things",
       "developerName": "SayGames LTD",
@@ -4423,6 +4147,336 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/524",
       "formatedsize": "172.35 MB",
       "size": 180722073
+    },
+    {
+      "name": "Merge Survival - Hack",
+      "bundleIdentifier": "com.stickyhands.mergesurvival",
+      "developerName": "BabylonIPA",
+      "subtitle": "Hack Features:\r\n- Every item in the shop cost 0",
+      "localizedDescription": "Hack Features:\r\n- Every item in the shop cost 0\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.stickyhands.mergesurvival\n\n Downloads: 65\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725955559.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17259555509483810862.webp",
+        "https://apps.nabzclan.vip/screenshots/17259555523984907900.webp",
+        "https://apps.nabzclan.vip/screenshots/17259555537156272451.webp",
+        "https://apps.nabzclan.vip/screenshots/17259555549362683287.webp",
+        "https://apps.nabzclan.vip/screenshots/17259555562164826279.webp",
+        "https://apps.nabzclan.vip/screenshots/17259555582428131900.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.31.0",
+          "date": "2024-09-10 12:05:59",
+          "localizedDescription": "Current of Merge Survival - Hack - 1.31.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/516",
+          "size": 300972769
+        },
+        {
+          "version": "1.31.0",
+          "date": "2024-09-10 12:05:59",
+          "localizedDescription": "Old Version of Merge Survival - Hack - 1.31.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/516",
+          "size": 300972769
+        }
+      ],
+      "version": "1.31.0",
+      "versionDate": "2024-09-10 12:05:59",
+      "versionDescription": "Hack Features:\r\n- Every item in the shop cost 0",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/516",
+      "formatedsize": "287.03 MB",
+      "size": 300972769
+    },
+    {
+      "name": "The Seven Deadly Sins - hack",
+      "bundleIdentifier": "com.netmarble.nanagb",
+      "developerName": "BabylonIPA",
+      "subtitle": "Hack Features:-\r\n- One Hit Kill",
+      "localizedDescription": "Hack Features:-\r\n- One Hit Kill\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.netmarble.nanagb\n\n Downloads: 160\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725955105.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17259551040056401529.webp",
+        "https://apps.nabzclan.vip/screenshots/17259551043921845703.webp",
+        "https://apps.nabzclan.vip/screenshots/17259551045667243329.webp",
+        "https://apps.nabzclan.vip/screenshots/17259551048811605208.webp",
+        "https://apps.nabzclan.vip/screenshots/17259551050757483465.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.59.0",
+          "date": "2024-09-10 11:58:25",
+          "localizedDescription": "Current of The Seven Deadly Sins - hack - 2.59.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
+          "size": 128020643
+        },
+        {
+          "version": "2.59.0",
+          "date": "2024-09-10 11:58:25",
+          "localizedDescription": "Old Version of The Seven Deadly Sins - hack - 2.59.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/515",
+          "size": 128020643
+        }
+      ],
+      "version": "2.59.0",
+      "versionDate": "2024-09-10 11:58:25",
+      "versionDescription": "Hack Features:-\r\n- One Hit Kill",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/515",
+      "formatedsize": "122.09 MB",
+      "size": 128020643
+    },
+    {
+      "name": "Kodi",
+      "bundleIdentifier": "org.xbmc.kodi-ios",
+      "developerName": "Kodi Team",
+      "subtitle": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
+      "localizedDescription": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: org.xbmc.kodi-ios\n\n Downloads: 1230\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1713132810.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "21.0",
+          "date": "2024-09-10 11:39:15",
+          "localizedDescription": "Current of Kodi - 21.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/512",
+          "size": 151529717
+        },
+        {
+          "version": "20.5",
+          "date": "2024-04-15 02:13:31",
+          "localizedDescription": "Old Version of Kodi - 20.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/435",
+          "size": 147513671
+        },
+        {
+          "version": "21.0",
+          "date": "2024-09-10 11:39:15",
+          "localizedDescription": "Old Version of Kodi - 21.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/512",
+          "size": 151529717
+        }
+      ],
+      "version": "21.0",
+      "versionDate": "2024-09-10 11:39:15",
+      "versionDescription": "Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/512",
+      "formatedsize": "144.51 MB",
+      "size": 151529717
+    },
+    {
+      "name": "Fortnite - EZFN - S4",
+      "bundleIdentifier": "com.chairentertainment.Fortnite",
+      "developerName": "EZFN Team",
+      "subtitle": "Fortnite - EZFN - season 4 ipa",
+      "localizedDescription": "Fortnite - EZFN - season 4 ipa\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.chairentertainment.Fortnite\n\n Downloads: 1077\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1725886162.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17258861736574490.webp",
+        "https://apps.nabzclan.vip/screenshots/17258861738020693.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.2.0",
+          "date": "2024-09-09 16:49:23",
+          "localizedDescription": "Current of Fortnite - EZFN - S4 - 4.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/508",
+          "size": 87776296
+        },
+        {
+          "version": "4.2.0",
+          "date": "2024-09-09 16:49:23",
+          "localizedDescription": "Old Version of Fortnite - EZFN - S4 - 4.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/508",
+          "size": 87776296
+        }
+      ],
+      "version": "4.2.0",
+      "versionDate": "2024-09-09 16:49:23",
+      "versionDescription": "Fortnite - EZFN - season 4 ipa",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/508",
+      "formatedsize": "83.71 MB",
+      "size": 87776296
+    },
+    {
+      "name": "DRAGON BALL LEGENDS (Hack)",
+      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0334",
+      "developerName": "Nabzclan",
+      "subtitle": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall",
+      "localizedDescription": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: jp.co.bandainamcoent.BNEI0334\n\n Downloads: 3084\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1700540572.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17005405709495001688.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405714274360423.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405716166662261.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405718195526659.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405720176396869.webp",
+        "https://apps.nabzclan.vip/screenshots/17005405722042971795.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.4.0",
+          "date": "2024-05-27 23:57:18",
+          "localizedDescription": "Current of DRAGON BALL LEGENDS (Hack) - 5.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/473",
+          "size": 123941683
+        },
+        {
+          "version": "4.32.0",
+          "date": "2023-11-21 04:22:52",
+          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 4.32.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/314",
+          "size": 100621352
+        },
+        {
+          "version": "5.0.0",
+          "date": "2024-03-04 14:03:18",
+          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.0.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/391",
+          "size": 119369891
+        },
+        {
+          "version": "5.1.0",
+          "date": "2024-04-11 11:23:53",
+          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/417",
+          "size": 114808586
+        },
+        {
+          "version": "5.4.0",
+          "date": "2024-05-27 23:57:18",
+          "localizedDescription": "Old Version of DRAGON BALL LEGENDS (Hack) - 5.4.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/473",
+          "size": 123941683
+        }
+      ],
+      "version": "5.4.0",
+      "versionDate": "2024-05-27 23:57:18",
+      "versionDescription": "?Hack Features?\r\n\r\n\u2705 No Ki Cost\r\n\r\n\u2705 Unlimited Ki\r\n\r\n\u2705 No Character Swap CoolDown\r\n\r\n\u2705 No Vanish CoolDown\r\n\r\n\u2705 Auto Complete All Challenges - Currency/Chrono Crystals Hack!\r\n\r\n\u2705 Always Critical\r\n\r\n\u2705 All Cards Give DragonBall",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/473",
+      "formatedsize": "118.20 MB",
+      "size": 123941683
+    },
+    {
+      "name": "GBA4IOS",
+      "bundleIdentifier": "com.macbuildserver.GBA4iOS",
+      "developerName": "Delta team",
+      "subtitle": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
+      "localizedDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: com.macbuildserver.GBA4iOS\n\n Downloads: 531\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1715977480.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.1.1",
+          "date": "2024-05-18 19:45:34",
+          "localizedDescription": "Current of GBA4IOS - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
+          "size": 11953766
+        },
+        {
+          "version": "2.1.1",
+          "date": "2024-05-18 19:45:34",
+          "localizedDescription": "Old Version of GBA4IOS - 2.1.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/468",
+          "size": 11953766
+        }
+      ],
+      "version": "2.1.1",
+      "versionDate": "2024-05-18 19:45:34",
+      "versionDescription": "Emulates:\r\n\r\nGameboy\r\nGameboy Color\r\nGameboy Advance",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/468",
+      "formatedsize": "11.4 MB",
+      "size": 11953766
+    },
+    {
+      "name": "Citrus AI - premium",
+      "bundleIdentifier": "com.wemagineai.citrus",
+      "developerName": "nabzclan",
+      "subtitle": "unlocked premium",
+      "localizedDescription": "unlocked premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.wemagineai.citrus\n\n Downloads: 759\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1715229061.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17152290565594538836.webp",
+        "https://apps.nabzclan.vip/screenshots/17152290585779980556.webp",
+        "https://apps.nabzclan.vip/screenshots/17152290604239847328.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.03.04",
+          "date": "2024-05-09 08:31:02",
+          "localizedDescription": "Current of Citrus AI - premium - 1.03.04",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/464",
+          "size": 31016878
+        },
+        {
+          "version": "1.03.04",
+          "date": "2024-05-09 08:31:02",
+          "localizedDescription": "Old Version of Citrus AI - premium - 1.03.04",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/464",
+          "size": 31016878
+        }
+      ],
+      "version": "1.03.04",
+      "versionDate": "2024-05-09 08:31:02",
+      "versionDescription": "unlocked premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/464",
+      "formatedsize": "29.58 MB",
+      "size": 31016878
+    },
+    {
+      "name": "DEAD TRIGGER 2 - Hacked",
+      "bundleIdentifier": "com.madfingergames.deadtrigger2",
+      "developerName": "kamo hacks",
+      "subtitle": "Hacks: NeverDie",
+      "localizedDescription": "Hacks: NeverDie\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.madfingergames.deadtrigger2\n\n Downloads: 741\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1715179676.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17151796620441518425.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796625814957902.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796654035228073.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796677014644891.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796699686552767.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796726578417548.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.10.5",
+          "date": "2024-05-08 18:47:56",
+          "localizedDescription": "Current of DEAD TRIGGER 2 - Hacked - 1.10.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/457",
+          "size": 585839411
+        },
+        {
+          "version": "1.10.5",
+          "date": "2024-05-08 18:47:56",
+          "localizedDescription": "Old Version of DEAD TRIGGER 2 - Hacked - 1.10.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/457",
+          "size": 585839411
+        }
+      ],
+      "version": "1.10.5",
+      "versionDate": "2024-05-08 18:47:56",
+      "versionDescription": "Hacks: NeverDie",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/457",
+      "formatedsize": "558.70 MB",
+      "size": 585839411
     }
   ],
   "userInfo": {}

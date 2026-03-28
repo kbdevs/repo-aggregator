@@ -100,22 +100,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png"
     },
     {
-      "name": "SleepMonitor",
-      "type": 1,
-      "bundleID": "com.sleepmonitor.aio",
-      "bundleIdentifier": "com.sleepmonitor.aio",
-      "version": "2.6.13",
-      "versionDate": "2026-01-04",
-      "fullDate": "20260104134151",
-      "size": 317477840,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/SleepMonitor_2.6.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/SleepMonitor_2.6.13_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png"
-    },
-    {
       "name": "Reframe",
       "type": 1,
       "bundleID": "com.glucobit.cravingBuster.CravingBuster",
@@ -1714,6 +1698,38 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png"
+    },
+    {
+      "name": "Voicepal",
+      "type": 1,
+      "bundleID": "com.choiceapps.recipesfdw",
+      "bundleIdentifier": "com.choiceapps.recipesfdw",
+      "version": "2.2.1",
+      "versionDate": "2025-12-17",
+      "fullDate": "20251217174550",
+      "size": 47002918,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Voicepal_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Voicepal_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png"
+    },
+    {
+      "name": "StickWarSaga",
+      "type": 2,
+      "bundleID": "com.maxgames.stickwar3",
+      "bundleIdentifier": "com.maxgames.stickwar3",
+      "version": "2025.5.2288",
+      "versionDate": "2025-12-17",
+      "fullDate": "20251217162528",
+      "size": 325987467,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/StickWarSaga_2025.5.2288_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/StickWarSaga_2025.5.2288_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxgames.stickwar3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxgames.stickwar3.png"
     }
   ],
   "userInfo": {}
