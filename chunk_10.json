@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Hyper Evolution",
+      "bundleIdentifier": "com.evolution.hyper",
+      "developerName": "SayGames LTD",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.evolution.hyper\n\n Downloads: 199\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731277447.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17312774466952976014.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774468719826948.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774469769576566.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774472792534786.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774473957693012.webp",
+        "https://apps.nabzclan.vip/screenshots/17312774475744587285.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.17",
+          "date": "2024-11-10 17:24:07",
+          "localizedDescription": "Current of Hyper Evolution - 1.2.17",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
+          "size": 163368140
+        },
+        {
+          "version": "1.2.17",
+          "date": "2024-11-10 17:24:07",
+          "localizedDescription": "Old Version of Hyper Evolution - 1.2.17",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/971",
+          "size": 163368140
+        }
+      ],
+      "version": "1.2.17",
+      "versionDate": "2024-11-10 17:24:07",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/971",
+      "formatedsize": "155.8 MB",
+      "size": 163368140
+    },
+    {
       "name": "Hidden Stuff (Hack)",
       "bundleIdentifier": "com.my.little.things",
       "developerName": "SayGames LTD",
@@ -4437,46 +4477,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/464",
       "formatedsize": "29.58 MB",
       "size": 31016878
-    },
-    {
-      "name": "DEAD TRIGGER 2 - Hacked",
-      "bundleIdentifier": "com.madfingergames.deadtrigger2",
-      "developerName": "kamo hacks",
-      "subtitle": "Hacks: NeverDie",
-      "localizedDescription": "Hacks: NeverDie\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.madfingergames.deadtrigger2\n\n Downloads: 741\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1715179676.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17151796620441518425.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796625814957902.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796654035228073.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796677014644891.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796699686552767.webp",
-        "https://apps.nabzclan.vip/screenshots/17151796726578417548.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.10.5",
-          "date": "2024-05-08 18:47:56",
-          "localizedDescription": "Current of DEAD TRIGGER 2 - Hacked - 1.10.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/457",
-          "size": 585839411
-        },
-        {
-          "version": "1.10.5",
-          "date": "2024-05-08 18:47:56",
-          "localizedDescription": "Old Version of DEAD TRIGGER 2 - Hacked - 1.10.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/457",
-          "size": 585839411
-        }
-      ],
-      "version": "1.10.5",
-      "versionDate": "2024-05-08 18:47:56",
-      "versionDescription": "Hacks: NeverDie",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/457",
-      "formatedsize": "558.70 MB",
-      "size": 585839411
     }
   ],
   "userInfo": {}

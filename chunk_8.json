@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "ProCam - Pro Camera (Hacked)",
+      "bundleIdentifier": "gemini.ProCam-2",
+      "developerName": "Nabzclan",
+      "subtitle": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval",
+      "localizedDescription": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps, Tweaked Apps\n\n BundleID: gemini.ProCam-2\n\n Downloads: 224\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1746852888.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17468528883588397823.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528884798693545.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528885482515777.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528886213015223.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528886893894107.webp",
+        "https://apps.nabzclan.vip/screenshots/17468528887524426419.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "14.6.9",
+          "date": "2025-05-11 03:49:18",
+          "localizedDescription": "Current of ProCam - Pro Camera (Hacked) - 14.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
+          "size": 70307020
+        },
+        {
+          "version": "14.6.9",
+          "date": "2025-05-11 03:49:18",
+          "localizedDescription": "Old Version of ProCam - Pro Camera (Hacked) - 14.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
+          "size": 70307020
+        }
+      ],
+      "version": "14.6.9",
+      "versionDate": "2025-05-11 03:49:18",
+      "versionDescription": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
+      "formatedsize": "67.05 MB",
+      "size": 70307020
+    },
+    {
       "name": "NBA 2K25 Arcade Edition",
       "bundleIdentifier": "com.2ksports.nba2k25arcade",
       "developerName": "2K",
@@ -4447,58 +4487,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1235",
       "formatedsize": "367.33 KB",
       "size": 376145
-    },
-    {
-      "name": "Gbox - No Tracking",
-      "bundleIdentifier": "com.nabzclan.gboxnotracking",
-      "developerName": "Nabzclan",
-      "subtitle": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n---\r\n\r\nthis Gbox version blocks them from tracking you and selling your information if that's their goal\r\n\r\nProject url: https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/",
-      "localizedDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n---\r\n\r\nthis Gbox version blocks them from tracking you and selling your information if that's their goal\r\n\r\nProject url: https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.nabzclan.gboxnotracking\n\n Downloads: 1726\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726132075.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269019803568188.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019807888061.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019803435071.webp",
-        "https://apps.nabzclan.vip/screenshots/17269019805994272.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:29:13",
-          "localizedDescription": "Current of Gbox - No Tracking - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1234",
-          "size": 7444889
-        },
-        {
-          "version": "5.6.9",
-          "date": "2024-12-25 16:04:49",
-          "localizedDescription": "Old Version of Gbox - No Tracking - 5.6.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1130",
-          "size": 7581204
-        },
-        {
-          "version": "5.7",
-          "date": "2025-02-02 13:06:52",
-          "localizedDescription": "Old Version of Gbox - No Tracking - 5.7",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1191",
-          "size": 7591690
-        },
-        {
-          "version": "5.7.3",
-          "date": "2025-02-24 18:29:13",
-          "localizedDescription": "Old Version of Gbox - No Tracking - 5.7.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1234",
-          "size": 7444889
-        }
-      ],
-      "version": "5.7.3",
-      "versionDate": "2025-02-24 18:29:13",
-      "versionDescription": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party app store\r\n\r\n---\r\n\r\nthis Gbox version blocks them from tracking you and selling your information if that's their goal\r\n\r\nProject url: https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1234",
-      "formatedsize": "7.1 MB",
-      "size": 7444889
     }
   ],
   "userInfo": {}

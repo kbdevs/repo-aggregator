@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "StickWarSaga",
+      "type": 2,
+      "bundleID": "com.maxgames.stickwar3",
+      "bundleIdentifier": "com.maxgames.stickwar3",
+      "version": "2025.5.2288",
+      "versionDate": "2025-12-17",
+      "fullDate": "20251217162528",
+      "size": 325987467,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/StickWarSaga_2025.5.2288_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/StickWarSaga_2025.5.2288_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxgames.stickwar3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxgames.stickwar3.png"
+    },
+    {
       "name": "CrossyRoad",
       "type": 2,
       "bundleID": "com.hipsterwhale.crossy",
@@ -1714,22 +1730,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png"
-    },
-    {
-      "name": "KitchenStories",
-      "type": 1,
-      "bundleID": "com.AJNSNewMedia.KitchenStories",
-      "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
-      "version": "26.0.5",
-      "versionDate": "2025-10-22",
-      "fullDate": "20251022010024",
-      "size": 61929406,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png"
     }
   ],
   "userInfo": {}

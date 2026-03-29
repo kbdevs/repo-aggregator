@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "DEAD TRIGGER 2 - Hacked",
+      "bundleIdentifier": "com.madfingergames.deadtrigger2",
+      "developerName": "kamo hacks",
+      "subtitle": "Hacks: NeverDie",
+      "localizedDescription": "Hacks: NeverDie\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.madfingergames.deadtrigger2\n\n Downloads: 741\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1715179676.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17151796620441518425.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796625814957902.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796654035228073.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796677014644891.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796699686552767.webp",
+        "https://apps.nabzclan.vip/screenshots/17151796726578417548.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.10.5",
+          "date": "2024-05-08 18:47:56",
+          "localizedDescription": "Current of DEAD TRIGGER 2 - Hacked - 1.10.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/457",
+          "size": 585839411
+        },
+        {
+          "version": "1.10.5",
+          "date": "2024-05-08 18:47:56",
+          "localizedDescription": "Old Version of DEAD TRIGGER 2 - Hacked - 1.10.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/457",
+          "size": 585839411
+        }
+      ],
+      "version": "1.10.5",
+      "versionDate": "2024-05-08 18:47:56",
+      "versionDescription": "Hacks: NeverDie",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/457",
+      "formatedsize": "558.70 MB",
+      "size": 585839411
+    },
+    {
       "name": "Dezokr (No Ads) - VIP",
       "bundleIdentifier": "com.huiynfim.play",
       "developerName": "Nabzclan",
@@ -2495,17 +2535,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
-    },
-    {
-      "name": "QuantumultX",
-      "bundleIdentifier": "com.crossutility.quantumult-x",
-      "version": "1.4.2",
-      "versionDate": "2024-10-12",
-      "size": 16180965,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuantumultX/QuantumultX-1.4.2.ipa",
-      "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png"
     }
   ],
   "userInfo": {}
