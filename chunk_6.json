@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Shinobi",
+      "type": 1,
+      "bundleID": "com.shinobiapp.shinobi",
+      "bundleIdentifier": "com.shinobiapp.shinobi",
+      "version": "1.2.6",
+      "versionDate": "2025-12-17",
+      "fullDate": "20251217174557",
+      "size": 66652511,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Shinobi_1.2.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Shinobi_1.2.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png"
+    },
+    {
+      "name": "Voicepal",
+      "type": 1,
+      "bundleID": "com.choiceapps.recipesfdw",
+      "bundleIdentifier": "com.choiceapps.recipesfdw",
+      "version": "2.2.1",
+      "versionDate": "2025-12-17",
+      "fullDate": "20251217174550",
+      "size": 47002918,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Voicepal_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Voicepal_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png"
+    },
+    {
       "name": "StickWarSaga",
       "type": 2,
       "bundleID": "com.maxgames.stickwar3",
@@ -1188,22 +1220,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.retryapps.game.maps.irl.png"
     },
     {
-      "name": "NBv64226",
-      "type": 1,
-      "bundleID": "nt.nb.ios",
-      "bundleIdentifier": "nt.nb.ios",
-      "version": "64.226",
-      "versionDate": "2025-11-14",
-      "fullDate": "20251114062503",
-      "size": 924599927,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-11-2025/NBv64226_64.226_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-11-2025/NBv64226_64.226_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png"
-    },
-    {
       "name": "VoiceOver",
       "type": 1,
       "bundleID": "com.iphoneislam.wavenet",
@@ -1714,22 +1730,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png"
-    },
-    {
-      "name": "EasyAnatomy3DPublic",
-      "type": 1,
-      "bundleID": "AB.iOsteology",
-      "bundleIdentifier": "AB.iOsteology",
-      "version": "5.24.2",
-      "versionDate": "2025-10-23",
-      "fullDate": "20251023001418",
-      "size": 1206734753,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/EasyAnatomy3DPublic_5.24.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/EasyAnatomy3DPublic_5.24.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png"
     }
   ],
   "userInfo": {}
