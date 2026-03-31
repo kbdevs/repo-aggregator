@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Passbook",
+      "type": 1,
+      "bundleID": "com.am.pkstudio",
+      "bundleIdentifier": "com.am.pkstudio",
+      "version": "3.11",
+      "versionDate": "2025-10-23",
+      "fullDate": "20251023161803",
+      "size": 92045779,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Passbook_3.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Passbook_3.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png"
+    },
+    {
       "name": "EasyAnatomy3DPublic",
       "type": 1,
       "bundleID": "AB.iOsteology",
@@ -162,22 +178,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.debotoshdey.slideshow.png"
-    },
-    {
-      "name": "BrainTest2",
-      "type": 2,
-      "bundleID": "com.unicostudio.braintest2",
-      "bundleIdentifier": "com.unicostudio.braintest2",
-      "version": "1.20.43",
-      "versionDate": "2025-10-16",
-      "fullDate": "20251016231931",
-      "size": 126685476,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2025/BrainTest2_1.20.43_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2025/BrainTest2_1.20.43_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png"
     },
     {
       "name": "MkIIIPublic",

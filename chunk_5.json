@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Thenx",
+      "type": 1,
+      "bundleID": "com.calisthenics.thenx",
+      "bundleIdentifier": "com.calisthenics.thenx",
+      "version": "6.5.5",
+      "versionDate": "2026-01-12",
+      "fullDate": "20260112142156",
+      "size": 136250691,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-01-2026/Thenx_6.5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-01-2026/Thenx_6.5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
+    },
+    {
+      "name": "BrainTest",
+      "type": 2,
+      "bundleID": "com.unicostudio.braintest",
+      "bundleIdentifier": "com.unicostudio.braintest",
+      "version": "2.763.0",
+      "versionDate": "2026-01-08",
+      "fullDate": "20260108215620",
+      "size": 147490960,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-01-2026/BrainTest_2.763.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-01-2026/BrainTest_2.763.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png"
+    },
+    {
       "name": "TheWeather",
       "type": 1,
       "bundleID": "com.impalastudios.theweatherfree",
@@ -1540,22 +1572,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png"
     },
     {
-      "name": "30DayFitness",
-      "type": 1,
-      "bundleID": "com.vigorapps.30DayFitness",
-      "bundleIdentifier": "com.vigorapps.30DayFitness",
-      "version": "6.29.23",
-      "versionDate": "2025-12-18",
-      "fullDate": "20251218225659",
-      "size": 48790462,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2025/30DayFitness_6.29.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2025/30DayFitness_6.29.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png"
-    },
-    {
       "name": "Temply",
       "type": 1,
       "bundleID": "com.templyvideo.Temply",
@@ -1714,22 +1730,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.smartreceipts.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.smartreceipts.ios.png"
-    },
-    {
-      "name": "ARSim",
-      "type": 1,
-      "bundleID": "llc.planeenglish.PlaneEnglish",
-      "bundleIdentifier": "llc.planeenglish.PlaneEnglish",
-      "version": "1.5.13",
-      "versionDate": "2025-12-17",
-      "fullDate": "20251217175102",
-      "size": 287598826,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/ARSim_1.5.13_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/ARSim_1.5.13_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png"
     }
   ],
   "userInfo": {}

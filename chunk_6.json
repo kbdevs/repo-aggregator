@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "ARSim",
+      "type": 1,
+      "bundleID": "llc.planeenglish.PlaneEnglish",
+      "bundleIdentifier": "llc.planeenglish.PlaneEnglish",
+      "version": "1.5.13",
+      "versionDate": "2025-12-17",
+      "fullDate": "20251217175102",
+      "size": 287598826,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/ARSim_1.5.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/ARSim_1.5.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png"
+    },
+    {
       "name": "Shinobi",
       "type": 1,
       "bundleID": "com.shinobiapp.shinobi",
@@ -1714,22 +1730,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phoenix.motivationapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phoenix.motivationapp.png"
-    },
-    {
-      "name": "Passbook",
-      "type": 1,
-      "bundleID": "com.am.pkstudio",
-      "bundleIdentifier": "com.am.pkstudio",
-      "version": "3.11",
-      "versionDate": "2025-10-23",
-      "fullDate": "20251023161803",
-      "size": 92045779,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Passbook_3.11_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Passbook_3.11_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png"
     }
   ],
   "userInfo": {}
