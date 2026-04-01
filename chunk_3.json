@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Calisteniapp",
+      "type": 1,
+      "bundleID": "com.inakitajes.Calisthenial",
+      "bundleIdentifier": "com.inakitajes.Calisthenial",
+      "version": "26.3.0",
+      "versionDate": "2026-03-20",
+      "fullDate": "20260320012923",
+      "size": 38557814,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/Calisteniapp_26.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/Calisteniapp_26.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png"
+    },
+    {
+      "name": "Reels",
+      "type": 1,
+      "bundleID": "com.TetianaKolomiichuk.Reel-Templates",
+      "bundleIdentifier": "com.TetianaKolomiichuk.Reel-Templates",
+      "version": "3.8",
+      "versionDate": "2026-03-20",
+      "fullDate": "20260320012359",
+      "size": 147482469,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/Reels_3.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/Reels_3.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png"
+    },
+    {
+      "name": "BandLab",
+      "type": 1,
+      "bundleID": "com.bandlab.bandlab.iphone",
+      "bundleIdentifier": "com.bandlab.bandlab.iphone",
+      "version": "11.19.2",
+      "versionDate": "2026-03-20",
+      "fullDate": "20260320011816",
+      "size": 113941810,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/BandLab_11.19.2_Boost_Membership_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/BandLab_11.19.2_Boost_Membership_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Boost Membership",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bandlab.bandlab.iphone.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bandlab.bandlab.iphone.png"
+    },
+    {
+      "name": "ProCamera",
+      "type": 1,
+      "bundleID": "com.cocologics.ProCamera",
+      "bundleIdentifier": "com.cocologics.ProCamera",
+      "version": "26.2",
+      "versionDate": "2026-03-20",
+      "fullDate": "20260320011806",
+      "size": 137204384,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/ProCamera_26.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/ProCamera_26.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png"
+    },
+    {
       "name": "MuslimPro",
       "type": 1,
       "bundleID": "com.bitsmedia.muslimpro",
@@ -530,22 +594,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png"
-    },
-    {
-      "name": "Aloha",
-      "type": 1,
-      "bundleID": "com.alohabrowser.alohabrowser",
-      "bundleIdentifier": "com.alohabrowser.alohabrowser",
-      "version": "8.2.1",
-      "versionDate": "2026-03-17",
-      "fullDate": "20260317084730",
-      "size": 141944823,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-03-2026/Aloha_8.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-03-2026/Aloha_8.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
       "name": "Zing",
@@ -1236,22 +1284,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png"
     },
     {
-      "name": "VDIT",
-      "type": 1,
-      "bundleID": "me.imgbase.videoday",
-      "bundleIdentifier": "me.imgbase.videoday",
-      "version": "3.7.2",
-      "versionDate": "2026-03-10",
-      "fullDate": "20260310001357",
-      "size": 229184588,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/VDIT_3.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/VDIT_3.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png"
-    },
-    {
       "name": "FotMob",
       "type": 1,
       "bundleID": "com.mobilefootie.fotmobpro",
@@ -1394,22 +1426,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png"
-    },
-    {
-      "name": "Wallcraft",
-      "type": 1,
-      "bundleID": "com.wallpaperscraft.wallpapers",
-      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
-      "version": "3.33",
-      "versionDate": "2026-03-07",
-      "fullDate": "20260307042730",
-      "size": 110304176,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/Wallcraft_3.33_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/Wallcraft_3.33_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
     },
     {
       "name": "Videoleap",
@@ -1714,22 +1730,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.keiwando.toonsquid.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.keiwando.toonsquid.png"
-    },
-    {
-      "name": "LumaFusion",
-      "type": 1,
-      "bundleID": "com.luma-touch.LumaFusion",
-      "bundleIdentifier": "com.luma-touch.LumaFusion",
-      "version": "5.4.3",
-      "versionDate": "2026-02-18",
-      "fullDate": "20260218185842",
-      "size": 169466521,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-02-2026/LumaFusion_5.4.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-02-2026/LumaFusion_5.4.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png"
     }
   ],
   "userInfo": {}
