@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Dehancer",
+      "type": 1,
+      "bundleID": "com.dehancer.film.ios-app",
+      "bundleIdentifier": "com.dehancer.film.ios-app",
+      "version": "5.5",
+      "versionDate": "2026-02-19",
+      "fullDate": "20260219011053",
+      "size": 186302298,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-02-2026/Dehancer_5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-02-2026/Dehancer_5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png"
+    },
+    {
+      "name": "PictureThis",
+      "type": 1,
+      "bundleID": "cn.danatech.xingseus",
+      "bundleIdentifier": "cn.danatech.xingseus",
+      "version": "5.46.0",
+      "versionDate": "2026-02-18",
+      "fullDate": "20260218201908",
+      "size": 138214504,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-02-2026/PictureThis_5.46.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-02-2026/PictureThis_5.46.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png"
+    },
+    {
       "name": "ToonSquid",
       "type": 1,
       "bundleID": "com.keiwando.toonsquid",
@@ -964,22 +996,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.streaksapp.streak.png"
     },
     {
-      "name": "MacroFactor",
-      "type": 1,
-      "bundleID": "com.sbs.diet",
-      "bundleIdentifier": "com.sbs.diet",
-      "version": "5.7.5",
-      "versionDate": "2026-02-01",
-      "fullDate": "20260201030320",
-      "size": 89616112,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/MacroFactor_5.7.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/MacroFactor_5.7.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png"
-    },
-    {
       "name": "Picsew",
       "type": 1,
       "bundleID": "com.sugarmo.ScrollClip",
@@ -1330,22 +1346,6 @@
       "localizedDescription": "Injected with IGG",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png"
-    },
-    {
-      "name": "OrNETBrowser",
-      "type": 1,
-      "bundleID": "ch.b-eng.tor",
-      "bundleIdentifier": "ch.b-eng.tor",
-      "version": "3.9.15",
-      "versionDate": "2026-01-22",
-      "fullDate": "20260122035942",
-      "size": 124132126,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/OrNETBrowser_3.9.15_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/OrNETBrowser_3.9.15_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ch.b-eng.tor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ch.b-eng.tor.png"
     },
     {
       "name": "Across",
