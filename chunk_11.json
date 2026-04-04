@@ -4,6 +4,43 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Citrus AI - premium",
+      "bundleIdentifier": "com.wemagineai.citrus",
+      "developerName": "nabzclan",
+      "subtitle": "unlocked premium",
+      "localizedDescription": "unlocked premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.wemagineai.citrus\n\n Downloads: 759\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1715229061.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17152290565594538836.webp",
+        "https://apps.nabzclan.vip/screenshots/17152290585779980556.webp",
+        "https://apps.nabzclan.vip/screenshots/17152290604239847328.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.03.04",
+          "date": "2024-05-09 08:31:02",
+          "localizedDescription": "Current of Citrus AI - premium - 1.03.04",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/464",
+          "size": 31016878
+        },
+        {
+          "version": "1.03.04",
+          "date": "2024-05-09 08:31:02",
+          "localizedDescription": "Old Version of Citrus AI - premium - 1.03.04",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/464",
+          "size": 31016878
+        }
+      ],
+      "version": "1.03.04",
+      "versionDate": "2024-05-09 08:31:02",
+      "versionDescription": "unlocked premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/464",
+      "formatedsize": "29.58 MB",
+      "size": 31016878
+    },
+    {
       "name": "DEAD TRIGGER 2 - Hacked",
       "bundleIdentifier": "com.madfingergames.deadtrigger2",
       "developerName": "kamo hacks",
@@ -2524,17 +2561,6 @@
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.reederapp.5.iOS.png"
-    },
-    {
-      "name": "RadioAppPremium",
-      "bundleIdentifier": "com.firstclass.radiofree",
-      "version": "2.0.19",
-      "versionDate": "2024-10-12",
-      "size": 35329967,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadioAppPremium/RadioAppPremium-2.0.19.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
     }
   ],
   "userInfo": {}
