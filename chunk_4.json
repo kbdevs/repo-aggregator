@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "CollaNote",
+      "type": 1,
+      "bundleID": "net.quochuywdm.collanote496",
+      "bundleIdentifier": "net.quochuywdm.collanote496",
+      "version": "4.0.6",
+      "versionDate": "2026-02-24",
+      "fullDate": "20260224045655",
+      "size": 123736186,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-02-2026/CollaNote_4.0.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-02-2026/CollaNote_4.0.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png"
+    },
+    {
+      "name": "moneycontrol",
+      "type": 1,
+      "bundleID": "com.moneycontrol.mc",
+      "bundleIdentifier": "com.moneycontrol.mc",
+      "version": "11.1.0",
+      "versionDate": "2026-02-23",
+      "fullDate": "20260223221105",
+      "size": 92065381,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-02-2026/moneycontrol_11.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-02-2026/moneycontrol_11.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png"
+    },
+    {
+      "name": "Mondly",
+      "type": 1,
+      "bundleID": "com.atistudios.MondlyLanguages",
+      "bundleIdentifier": "com.atistudios.MondlyLanguages",
+      "version": "10.66.0",
+      "versionDate": "2026-02-23",
+      "fullDate": "20260223220534",
+      "size": 197499115,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-02-2026/Mondly_10.66.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-02-2026/Mondly_10.66.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png"
+    },
+    {
       "name": "Stellarium",
       "type": 1,
       "bundleID": "com.noctuasoftware.stellarium-mobile-plus",
@@ -260,22 +308,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png"
     },
     {
-      "name": "PeakVisor",
-      "type": 1,
-      "bundleID": "ru.routes.peakvisor",
-      "bundleIdentifier": "ru.routes.peakvisor",
-      "version": "5.81",
-      "versionDate": "2026-02-15",
-      "fullDate": "20260215233551",
-      "size": 127734002,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-02-2026/PeakVisor_5.81_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-02-2026/PeakVisor_5.81_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
-    },
-    {
       "name": "Animock",
       "type": 1,
       "bundleID": "com.hassantaleb.mockup",
@@ -418,22 +450,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png"
-    },
-    {
-      "name": "CoinID",
-      "type": 1,
-      "bundleID": "com.aiby.wtcoin",
-      "bundleIdentifier": "com.aiby.wtcoin",
-      "version": "1.22",
-      "versionDate": "2026-02-13",
-      "fullDate": "20260213102033",
-      "size": 49083551,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/CoinID_1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/CoinID_1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png"
     },
     {
       "name": "MediaConvert",
@@ -690,22 +706,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png"
-    },
-    {
-      "name": "SpyCamera",
-      "type": 1,
-      "bundleID": "com.spycamera.app",
-      "bundleIdentifier": "com.spycamera.app",
-      "version": "2.3",
-      "versionDate": "2026-02-06",
-      "fullDate": "20260206052149",
-      "size": 42418702,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/SpyCamera_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/SpyCamera_2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spycamera.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spycamera.app.png"
     },
     {
       "name": "SkyGuide",
