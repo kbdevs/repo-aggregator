@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "ShiftWorkCal",
+      "type": 1,
+      "bundleID": "jp.ebisusoft.shiftworkcallite",
+      "bundleIdentifier": "jp.ebisusoft.shiftworkcallite",
+      "version": "2025.3.0",
+      "versionDate": "2026-01-14",
+      "fullDate": "20260114054520",
+      "size": 19198799,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-01-2026/ShiftWorkCal_2025.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-01-2026/ShiftWorkCal_2025.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.ebisusoft.shiftworkcallite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.ebisusoft.shiftworkcallite.png"
+    },
+    {
       "name": "YouTubeOLED",
       "type": 1,
       "bundleID": "com.google.ios.youtube",
@@ -226,22 +242,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.clearmindshypnotherapy.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.clearmindshypnotherapy.app.png"
-    },
-    {
-      "name": "KetoDiet",
-      "type": 1,
-      "bundleID": "com.lappir.keto",
-      "bundleIdentifier": "com.lappir.keto",
-      "version": "8.3.1",
-      "versionDate": "2026-01-02",
-      "fullDate": "20260102084605",
-      "size": 38367676,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/KetoDiet_8.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/KetoDiet_8.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png"
     },
     {
       "name": "Carnivore",
