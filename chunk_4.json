@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "superagent",
+      "type": 1,
+      "bundleID": "com.agent.super.extension.safari",
+      "bundleIdentifier": "com.agent.super.extension.safari",
+      "version": "3.48.0",
+      "versionDate": "2026-03-07",
+      "fullDate": "20260307043831",
+      "size": 40042287,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/superagent_3.48.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/superagent_3.48.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png"
+    },
+    {
+      "name": "BeautyPlus",
+      "type": 1,
+      "bundleID": "com.commsource.BeautyPlus",
+      "bundleIdentifier": "com.commsource.BeautyPlus",
+      "version": "7.32.0",
+      "versionDate": "2026-03-07",
+      "fullDate": "20260307042746",
+      "size": 364131018,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/BeautyPlus_7.32.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2026/BeautyPlus_7.32.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png"
+    },
+    {
       "name": "BrainTest4",
       "type": 2,
       "bundleID": "com.unicostudio.braintest4",
@@ -306,22 +338,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png"
-    },
-    {
-      "name": "Mojo",
-      "type": 1,
-      "bundleID": "archery.storify",
-      "bundleIdentifier": "archery.storify",
-      "version": "1.260.0",
-      "versionDate": "2026-02-17",
-      "fullDate": "20260217221632",
-      "size": 192196892,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-02-2026/Mojo_1.260.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-02-2026/Mojo_1.260.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png"
     },
     {
       "name": "Edith",
@@ -818,22 +834,6 @@
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png"
-    },
-    {
-      "name": "TunerPro",
-      "type": 1,
-      "bundleID": "com.mwm.guitartuner",
-      "bundleIdentifier": "com.mwm.guitartuner",
-      "version": "4.00.01",
-      "versionDate": "2026-02-05",
-      "fullDate": "20260205190742",
-      "size": 274841189,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/TunerPro_4.00.01_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/TunerPro_4.00.01_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png"
     },
     {
       "name": "DaVinci",
