@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "OfflineMusic",
+      "type": 1,
+      "bundleID": "com.offlinemusic",
+      "bundleIdentifier": "com.offlinemusic",
+      "version": "3.8.3",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310225942",
+      "size": 95465686,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/OfflineMusic_3.8.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/OfflineMusic_3.8.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png"
+    },
+    {
+      "name": "DoCast",
+      "type": 1,
+      "bundleID": "us.electronic.docast",
+      "bundleIdentifier": "us.electronic.docast",
+      "version": "5.6",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310174809",
+      "size": 19371927,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/DoCast_5.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/DoCast_5.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png"
+    },
+    {
+      "name": "SixPackAbsAbsWorkout",
+      "type": 1,
+      "bundleID": "com.abishkking.sixpack",
+      "bundleIdentifier": "com.abishkking.sixpack",
+      "version": "1.47.0",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310132044",
+      "size": 188148029,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/SixPackAbsAbsWorkout_1.47.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/SixPackAbsAbsWorkout_1.47.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+    },
+    {
       "name": "VivaCut",
       "type": 1,
       "bundleID": "com.vivacut.videoeditor",
@@ -18,22 +66,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png"
-    },
-    {
-      "name": "NeoServer",
-      "type": 1,
-      "bundleID": "com.neo.NeoMan",
-      "bundleIdentifier": "com.neo.NeoMan",
-      "version": "8.1.1",
-      "versionDate": "2026-03-10",
-      "fullDate": "20260310005915",
-      "size": 21968447,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/NeoServer_8.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/NeoServer_8.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png"
     },
     {
       "name": "WeatherRadar",
@@ -82,22 +114,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png"
-    },
-    {
-      "name": "FitNotes",
-      "type": 1,
-      "bundleID": "xyz.gingertech.fitnotes",
-      "bundleIdentifier": "xyz.gingertech.fitnotes",
-      "version": "15",
-      "versionDate": "2026-03-08",
-      "fullDate": "20260308075141",
-      "size": 10975528,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-03-2026/FitNotes_15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-03-2026/FitNotes_15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png"
     },
     {
       "name": "superagent",
@@ -1618,22 +1634,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png"
-    },
-    {
-      "name": "NutriCoach",
-      "type": 1,
-      "bundleID": "nutrition.coach",
-      "bundleIdentifier": "nutrition.coach",
-      "version": "1.8.1",
-      "versionDate": "2026-01-20",
-      "fullDate": "20260120144754",
-      "size": 52168344,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/NutriCoach_1.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/NutriCoach_1.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png"
     },
     {
       "name": "FitnessCoach",
