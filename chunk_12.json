@@ -4,479 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
-      "name": "RadioAppPremium",
-      "bundleIdentifier": "com.firstclass.radiofree",
-      "version": "2.0.19",
-      "versionDate": "2024-10-12",
-      "size": 35329967,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadioAppPremium/RadioAppPremium-2.0.19.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
-    },
-    {
-      "name": "QuantumultX",
-      "bundleIdentifier": "com.crossutility.quantumult-x",
-      "version": "1.4.2",
-      "versionDate": "2024-10-12",
-      "size": 16180965,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuantumultX/QuantumultX-1.4.2.ipa",
-      "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png"
-    },
-    {
-      "name": "QuakeFeedPremium",
-      "bundleIdentifier": "com.artisanglobal.quakefeed",
-      "version": "6.3.5",
-      "versionDate": "2024-10-12",
-      "size": 61336181,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuakeFeedPremium/QuakeFeedPremium-6.3.5.ipa",
-      "developerName": "zxcvbn\u2019s tweaked IPAs",
-      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png"
-    },
-    {
-      "name": "PostedPlus",
-      "bundleIdentifier": "live.posted.Posted",
-      "version": "1.3.5",
-      "versionDate": "2024-10-12",
-      "size": 36937013,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PostedPlus/PostedPlus-1.3.5.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to follow your package(s) in real time with your tracking number. Note: Use trollfools to fix widgets.\nLast updated: 08-09-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.posted.Posted.png"
-    },
-    {
-      "name": "PostboxPocket",
-      "bundleIdentifier": "com.simplycode.PostBox-Pocket",
-      "version": "0.8.1-7",
-      "versionDate": "2024-10-12",
-      "size": 17136146,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PostboxPocket/PostboxPocket-0.8.1-7.ipa",
-      "developerName": "N/A",
-      "localizedDescription": "App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager\nLast updated: 11-15-2022\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simplycode.PostBox-Pocket.png"
-    },
-    {
-      "name": "PlayTally",
-      "bundleIdentifier": "com.michaelclay.BackTracks",
-      "version": "1.4.9",
-      "versionDate": "2024-10-12",
-      "size": 13254491,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PlayTally/PlayTally-1.4.9.ipa",
-      "developerName": "N/A",
-      "localizedDescription": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am considering its removal.\nLast updated: 12-08-2022\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michaelclay.BackTracks.png"
-    },
-    {
-      "name": "PlayDiary",
-      "bundleIdentifier": "com.pt.playdiary",
-      "version": "1.1.0",
-      "versionDate": "2024-10-12",
-      "size": 9147929,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PlayDiary/PlayDiary-1.1.0.ipa",
-      "developerName": "AppDB",
-      "localizedDescription": "HDO Play's catalog under a slightly different UI. See app description for HDO Play\nLast updated: 11-10-2022\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pt.playdiary.png"
-    },
-    {
-      "name": "PixelWeather",
-      "bundleIdentifier": "com.woo-interactive.PixelWeather",
-      "version": "7.0.2",
-      "versionDate": "2024-10-12",
-      "size": 51998703,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PixelWeather/PixelWeather-7.0.2.ipa",
-      "developerName": "N/A",
-      "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.woo-interactive.PixelWeather.png"
-    },
-    {
-      "name": "PixelPalsPremium",
-      "bundleIdentifier": "com.christian.PixelPals",
-      "version": "2.0.13",
-      "versionDate": "2024-10-12",
-      "size": 15367632,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PixelPalsPremium/PixelPalsPremium-2.0.13.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
-      "localizedDescription": "App that offers a unique way to personalize your Home and Lock Screen with customizable, adorable pets. Note: To unlock premium press purchase then close the app, you might need to repeat the process twice. You can also reinstall the app via the AppStore as it might keep the tweak working.\nLast updated: 04-25-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.christian.PixelPals.png"
-    },
-    {
-      "name": "PicStitchPro",
-      "bundleIdentifier": "com.bigblueclip.picstitch",
-      "version": "8.3.2",
-      "versionDate": "2024-10-12",
-      "size": 225086655,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicStitchPro/PicStitchPro-8.3.2.ipa",
-      "developerName": "Turki",
-      "localizedDescription": "App that effortlessly blends photos using more than 400 collage layouts, 25 filter packs, and over 30 border packs. With a straightforward design yet powerful collage editing tools including photo/video editing capabilities. Note: Tweak is unstable and widgets work only partially.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bigblueclip.picstitch.png"
-    },
-    {
-      "name": "PicCollageVIP",
-      "bundleIdentifier": "com.cardinalblue.PicCollage",
-      "version": "8.34.2",
-      "versionDate": "2024-10-12",
-      "size": 123215788,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.34.2.ipa",
-      "developerName": "Paisseon / ArianaMinajj",
-      "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.cardinalblue.PicCollage.png"
-    },
-    {
-      "name": "PicAnswerPremium",
-      "bundleIdentifier": "com.techconsolidated.photosolve",
-      "version": "1.31.1",
-      "versionDate": "2024-10-12",
-      "size": 46209998,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicAnswerPremium/PicAnswerPremium-1.31.1.ipa",
-      "developerName": "DPixel",
-      "localizedDescription": "App that offers instant solutions and personalized AI chat support across a wide range of subjects, all through a simple snap of your homework. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.techconsolidated.photosolve.png"
-    },
-    {
-      "name": "PhotoGridPro",
-      "bundleIdentifier": "com.YunFang.PhotoGrid",
-      "version": "8.8.43",
-      "versionDate": "2024-10-11",
-      "size": 174422692,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoGridPro/PhotoGridPro-8.8.43.ipa",
-      "developerName": "iApps",
-      "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png"
-    },
-    {
-      "name": "Paperback",
-      "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
-      "version": "0.8.7",
-      "versionDate": "2024-10-11",
-      "size": 10982924,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Paperback/Paperback-0.8.7.ipa",
-      "developerName": "N/A",
-      "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png"
-    },
-    {
-      "name": "PaperPro",
-      "bundleIdentifier": "com.fiftythree.paper",
-      "version": "5.4.4",
-      "versionDate": "2024-10-11",
-      "size": 38719359,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.4.ipa",
-      "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fiftythree.paper.png"
-    },
-    {
-      "name": "Panels3",
-      "bundleIdentifier": "es.produkt.app.panels",
-      "version": "3.4.4",
-      "versionDate": "2024-10-11",
-      "size": 48034315,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Panels3/Panels3-3.4.4.ipa",
-      "developerName": "iApps",
-      "localizedDescription": "Enhance your comic reading with Panels: a clean, customizable, and feature-rich interface for your favorite titles. A user requested it so here it is.\nLast updated: 06-21-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/es.produkt.app.panels.png"
-    },
-    {
-      "name": "PandaHelper",
-      "bundleIdentifier": "com.pandahelper.deb",
-      "version": "2.3.4",
-      "versionDate": "2024-10-11",
-      "size": 89788257,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PandaHelper/PandaHelper-2.3.4.ipa",
-      "developerName": "N/A",
-      "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 11-30-2022\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pandahelper.deb.png"
-    },
-    {
-      "name": "PDFitAllPlus",
-      "bundleIdentifier": "com.digiset.pdfit",
-      "version": "5.1.1",
-      "versionDate": "2024-10-11",
-      "size": 12116619,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PDFitAllPlus/PDFitAllPlus-5.1.1.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 06-19-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.digiset.pdfit.png"
-    },
-    {
-      "name": "OutsidePro",
-      "bundleIdentifier": "so.outside.app",
-      "version": "0.74.0",
-      "versionDate": "2024-10-11",
-      "size": 66395387,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OutsidePro/OutsidePro-0.74.0.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/so.outside.app.png"
-    },
-    {
-      "name": "Otraku",
-      "bundleIdentifier": "com.otraku.app",
-      "version": "1.2.7plus2-ios16plus",
-      "versionDate": "2024-10-13",
-      "size": 9939478,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.2.7plus2-ios16plus.ipa",
-      "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 07-01-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.otraku.app.png"
-    },
-    {
-      "name": "OsmAndMapsPlus",
-      "bundleIdentifier": "net.osmand.maps",
-      "version": "4.7.6",
-      "versionDate": "2024-10-11",
-      "size": 101594696,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OsmAndMapsPlus/OsmAndMapsPlus-4.7.6.ipa",
-      "developerName": "Qamislo - Apps",
-      "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.osmand.maps.png"
-    },
-    {
-      "name": "Opener",
-      "bundleIdentifier": "com.tijo.opener.Opener",
-      "version": "1.12.1",
-      "versionDate": "2024-10-11",
-      "size": 619940,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.12.1.ipa",
-      "developerName": "CyPwn IPA library",
-      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
-    },
-    {
-      "name": "OniriPremium",
-      "bundleIdentifier": "com.sublime.capture",
-      "version": "4.5.5",
-      "versionDate": "2024-10-11",
-      "size": 80376918,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OniriPremium/OniriPremium-4.5.5.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sublime.capture.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "3.8.7",
-      "versionDate": "2024-10-11",
-      "size": 64666410,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-3.8.7.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "OTADisabler",
-      "bundleIdentifier": "com.ichitaso.otadisablerts",
-      "version": "1.0",
-      "versionDate": "2024-10-11",
-      "size": 382202,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OTADisabler/OTADisabler-1.0.ipa",
-      "developerName": "ichitaso",
-      "localizedDescription": "Request. OTADisabler for TrollStore, refer to this for more informations.\nLast updated: 02-01-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ichitaso.otadisablerts.png"
-    },
-    {
-      "name": "NineAnimator",
-      "bundleIdentifier": "com.marcuszhou.NineAnimator",
-      "version": "1.3.0-3",
-      "versionDate": "2024-10-11",
-      "size": 8144665,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NineAnimator/NineAnimator-1.3.0-3.ipa",
-      "developerName": "SuperMarcus",
-      "localizedDescription": "Anime streamer, supports multiple sources and comes with a user-friendly GUI\nLast updated: 07-17-2023\nStatus: \u2754",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.marcuszhou.NineAnimator.png"
-    },
-    {
-      "name": "NGLPro",
-      "bundleIdentifier": "fun.ask",
-      "version": "6.1.117",
-      "versionDate": "2024-10-11",
-      "size": 50645390,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
-      "developerName": "AbodSyripa",
-      "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png"
-    },
-    {
-      "name": "MyDiaryPremium",
-      "bundleIdentifier": "com.simpleinnovation.diary",
-      "version": "1.9.3",
-      "versionDate": "2024-10-11",
-      "size": 40528267,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
-    },
-    {
-      "name": "MusixmatchPremium",
-      "bundleIdentifier": "com.musixmatch.lyrics",
-      "version": "7.10.8",
-      "versionDate": "2024-10-11",
-      "size": 74673060,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
-    },
-    {
-      "name": "MusicAIVIP",
-      "bundleIdentifier": "com.feraset.tune",
-      "version": "4.1.5",
-      "versionDate": "2024-10-11",
-      "size": 49729423,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusicAIVIP/MusicAIVIP-4.1.5.ipa",
-      "developerName": "Zzz Zzz",
-      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
-    },
-    {
-      "name": "Musi",
-      "bundleIdentifier": "com.feelthemusi.musi",
-      "version": "6.2.35",
-      "versionDate": "2024-10-11",
-      "size": 19556756,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
-    },
-    {
-      "name": "MuffinStore",
-      "bundleIdentifier": "dev.mineek.muffinstore",
-      "version": "1.1",
-      "versionDate": "2024-10-11",
-      "size": 29281,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
-    },
-    {
-      "name": "MoovitPlus",
-      "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "version": "5.146.1",
-      "versionDate": "2024-10-11",
-      "size": 85759040,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
-      "developerName": "IAppsBestLibrary",
-      "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png"
-    },
-    {
-      "name": "MoisesPremium",
-      "bundleIdentifier": "ai.moises",
-      "version": "2.40.0",
-      "versionDate": "2024-10-11",
-      "size": 60999285,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
-    },
-    {
-      "name": "Misaka",
-      "bundleIdentifier": "com.straight-tamago.misakaRS",
-      "version": "3.3.5",
-      "versionDate": "2024-10-10",
-      "size": 28563166,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
-      "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
-    },
-    {
-      "name": "MemrisePremium",
-      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
-      "version": "2023.11.17",
-      "versionDate": "2024-10-10",
-      "size": 90694453,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
-      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
-    },
-    {
-      "name": "MatterPremium",
-      "bundleIdentifier": "com.Matter.MatterApp",
-      "version": "3.1.4",
-      "versionDate": "2024-10-09",
-      "size": 83875186,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
-    },
-    {
-      "name": "Mangayomi",
-      "bundleIdentifier": "com.kodjodevf.mangayomi",
-      "version": "0.1.0",
-      "versionDate": "2024-10-09",
-      "size": 93145110,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
-      "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
-    },
-    {
-      "name": "LyricifyMobile",
-      "bundleIdentifier": "com.wxriw.LyricifyMobile",
-      "version": "1.4.3",
-      "versionDate": "2024-10-09",
-      "size": 23887689,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
-      "developerName": "Lyricify-App",
-      "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png"
-    },
-    {
-      "name": "LoopsiePro",
-      "bundleIdentifier": "com.gamelounge.loopsie.ios",
-      "version": "8.10.2",
-      "versionDate": "2024-10-09",
-      "size": 185592561,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
-    },
-    {
-      "name": "LokLok",
-      "bundleIdentifier": "com.xoumb.mp3.video.player",
-      "version": "5.0",
-      "versionDate": "2024-10-09",
-      "size": 22035388,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LokLok/LokLok-5.0.ipa",
-      "developerName": "N/A",
-      "localizedDescription": "HDO Box clone. see original app description for more info\nLast updated: 07-17-2023\nStatus: \u26a0\ufe0f \u2754",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xoumb.mp3.video.player.png"
-    },
-    {
-      "name": "LocSim",
-      "bundleIdentifier": "com.mika.LocationSimulation",
-      "version": "1.3.7",
-      "versionDate": "2024-10-09",
-      "size": 1917334,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocSim/LocSim-1.3.7.ipa",
-      "developerName": "CyPwn IPA Library",
-      "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
-    },
-    {
-      "name": "Limon",
-      "bundleIdentifier": "com.antique.Limon",
-      "version": "1.0.8.4",
-      "versionDate": "2024-10-09",
-      "size": 17299572,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Limon/Limon-1.0.8.4.ipa",
-      "developerName": "emuPlace",
-      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
-    },
-    {
       "name": "KleinanzeigenPlus",
       "bundleIdentifier": "com.ebaykleinanzeigen.ebc",
       "version": "100.16.0",
@@ -563,6 +90,633 @@
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
+    },
+    {
+      "name": "ImgPlayPro",
+      "bundleIdentifier": "me.imgbase.imgplay",
+      "version": "6.3.17",
+      "versionDate": "2024-10-02",
+      "size": 128605516,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ImgPlayPro/ImgPlayPro-6.3.17.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/me.imgbase.imgplay.png"
+    },
+    {
+      "name": "ImageSearch",
+      "bundleIdentifier": "com.ipopapp.imagesearchfree",
+      "version": "6.6",
+      "versionDate": "2024-10-01",
+      "size": 10303693,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ImageSearch/ImageSearch-6.6.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Reverse Image Search App, cracked for pro features. Click Pro at the top right, then the purchase button.\nLast updated: 08-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ipopapp.imagesearchfree.png"
+    },
+    {
+      "name": "Ignited",
+      "bundleIdentifier": "com.litritt.ignited",
+      "version": "1.10",
+      "versionDate": "2024-10-01",
+      "size": 35402158,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Ignited/Ignited-1.10.ipa",
+      "developerName": "LitRitt",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 03-29-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
+    },
+    {
+      "name": "IPTVPro",
+      "bundleIdentifier": "com.courtois.PerfectIPTVn",
+      "version": "2.7",
+      "versionDate": "2024-10-01",
+      "size": 19553102,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/IPTVPro/IPTVPro-2.7.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "Injected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.courtois.PerfectIPTVn.png"
+    },
+    {
+      "name": "HomeWorkoutPremium",
+      "bundleIdentifier": "com.abishkking.maleworkout.watchkitapp",
+      "version": "1.23.1",
+      "versionDate": "2024-10-01",
+      "size": 352576899,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HomeWorkoutPremium/HomeWorkoutPremium-1.23.1.ipa",
+      "developerName": "binnichtaktiv's iPA Library / Paisseon",
+      "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.abishkking.maleworkout.watchkitapp.png"
+    },
+    {
+      "name": "HdoPlay",
+      "bundleIdentifier": "com.hdoplay.apt",
+      "version": "1.0",
+      "versionDate": "2024-10-01",
+      "size": 23561400,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HdoPlay/HdoPlay.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles\nLast updated: 09-03-2022\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hdoplay.apt.png"
+    },
+    {
+      "name": "HPHogwartsMystery",
+      "bundleIdentifier": "com.tinyco.potter",
+      "version": "4.9.1",
+      "versionDate": "2024-10-01",
+      "size": 134103479,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HPHogwartsMystery/HPHogwartsMystery-4.9.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
+    },
+    {
+      "name": "HDFlixNoAds",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "version": "3.0",
+      "versionDate": "2024-10-01",
+      "size": 32320054,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlixNoAds/HDFlixNoAds-3.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets / ArianaMinajj",
+      "localizedDescription": "HD Flix without ads. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png"
+    },
+    {
+      "name": "GoogleNews",
+      "bundleIdentifier": "com.google.GoogleDigitalEditions",
+      "version": "5.87",
+      "versionDate": "2024-10-01",
+      "size": 46477554,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoogleNews/GoogleNews-5.87.ipa",
+      "developerName": "AppDB",
+      "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc..\nLast updated: 07-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.google.GoogleDigitalEditions.png"
+    },
+    {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "version": "6.2.15",
+      "versionDate": "2024-10-01",
+      "size": 315141070,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.2.15.ipa",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
+    },
+    {
+      "name": "GoodReaderPro",
+      "bundleIdentifier": "com.goodiware.grpro",
+      "version": "5.18.1196",
+      "versionDate": "2024-10-01",
+      "size": 26880692,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.18.1196.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodiware.grpro.png"
+    },
+    {
+      "name": "GameSeagullTS",
+      "bundleIdentifier": "com.gamerdelights.gamepigeon",
+      "version": "2.1",
+      "versionDate": "2024-10-01",
+      "size": 90278934,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GameSeagullTS/GameSeagullTS-2.1.ipa",
+      "developerName": "donato-fiore",
+      "localizedDescription": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull should work from there!\nLast updated: 02-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamerdelights.gamepigeon.png"
+    },
+    {
+      "name": "GIFMakerPremium",
+      "bundleIdentifier": "com.debotoshdey.gifmaker",
+      "version": "3.10",
+      "versionDate": "2024-10-01",
+      "size": 247501101,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GIFMakerPremium/GIFMakerPremium-3.10.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.debotoshdey.gifmaker.png"
+    },
+    {
+      "name": "FotorPro",
+      "bundleIdentifier": "com.everimaging.photoeffectstudio",
+      "version": "10.6.6",
+      "versionDate": "2024-10-01",
+      "size": 363010182,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FotorPro/FotorPro-10.6.6.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "all-in-one AI photo editing app. A user requested it so here it is.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.everimaging.photoeffectstudio.png"
+    },
+    {
+      "name": "Folium",
+      "bundleIdentifier": "com.antique.Folium",
+      "version": "1.0.5",
+      "versionDate": "2024-10-01",
+      "size": 18068021,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Folium/Folium-1.0.5.ipa",
+      "developerName": "Jarrod Norwell (Antique)",
+      "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Folium.png"
+    },
+    {
+      "name": "FlightyPro",
+      "bundleIdentifier": "com.flightyapp.flighty",
+      "version": "3.4.2",
+      "versionDate": "2024-10-01",
+      "size": 136173483,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightyPro/FlightyPro-3.4.2.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all included. It's an excellent flight tracker that even provides you with the weather for your flight 10 days in advance. A user requested it so here it is.\nLast updated: 03-18-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.flightyapp.flighty.png"
+    },
+    {
+      "name": "Flightradar24Gold",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free.watchkitapp",
+      "version": "9.19.0",
+      "versionDate": "2024-10-01",
+      "size": 151430872,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Flightradar24Gold/Flightradar24Gold-9.19.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library / AppDB",
+      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 07-12-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
+    },
+    {
+      "name": "FineReaderPDFPro",
+      "bundleIdentifier": "com.abbyy.finescanner-pro",
+      "version": "15.6.4",
+      "versionDate": "2024-09-30",
+      "size": 66167334,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FineReaderPDFPro/FineReaderPDFPro-15.6.4.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "FineReader PDF, with pro features unlocked.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.abbyy.finescanner-pro.png"
+    },
+    {
+      "name": "Filza",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "version": "4.0.0-NoUrlScheme",
+      "versionDate": "2024-09-30",
+      "size": 13912275,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Filza/Filza-4.0.0-NoUrlScheme.ipa",
+      "developerName": "TigiSoftware / CyPwn IPA Library / iOS_TrollStore",
+      "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TS, this might be useful.\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png"
+    },
+    {
+      "name": "FastingPremium",
+      "bundleIdentifier": "com.leapfitness.fasting",
+      "version": "1.6.7",
+      "versionDate": "2024-09-29",
+      "size": 251598304,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FastingPremium/FastingPremium-1.6.7.ipa",
+      "developerName": "Paisseon / iApps",
+      "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 08-12-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leapfitness.fasting.png"
+    },
+    {
+      "name": "FInalCutCameraTS",
+      "bundleIdentifier": "com.apple.FinalCutApp.companion",
+      "version": "1.0",
+      "versionDate": "2024-09-29",
+      "size": 33964101,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FInalCutCameraTS/FInalCutCameraTS-1.0.ipa",
+      "developerName": "trollstoretv",
+      "localizedDescription": "The Final Cut Camera app allows you to record professional videos on your mobile devices with complete control. Note: Exclusively for iOS 17.0 TrollStore Users.\nLast updated: 07-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.apple.FinalCutApp.companion.png"
+    },
+    {
+      "name": "EnhanceFoxPro",
+      "bundleIdentifier": "com.risingcabbage.enhancefox",
+      "version": "7.0.0",
+      "versionDate": "2024-09-29",
+      "size": 244706177,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.0.0.ipa",
+      "developerName": "Qamislo - Apps",
+      "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png"
+    },
+    {
+      "name": "ElectricalCalculationsPro",
+      "bundleIdentifier": "it.Ettore.Electrical-Calculations-FREE",
+      "version": "6.3.0",
+      "versionDate": "2024-09-29",
+      "size": 18220329,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ElectricalCalculationsPro/ElectricalCalculationsPro-6.3.0.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 08-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/it.Ettore.Electrical-Calculations-FREE.png"
+    },
+    {
+      "name": "EhPanda",
+      "bundleIdentifier": "zeng.EhPanda",
+      "version": "2.7.4",
+      "versionDate": "2024-09-29",
+      "size": 6685295,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EhPanda/EhPanda-2.7.4.ipa",
+      "developerName": "EhPanda-Team",
+      "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 07-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/zeng.EhPanda.png"
+    },
+    {
+      "name": "EarthquakePro",
+      "bundleIdentifier": "org.tranquilli.Earthquake",
+      "version": "4.6.8",
+      "versionDate": "2024-09-29",
+      "size": 11683418,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EarthquakePro/EarthquakePro-4.6.8.ipa",
+      "developerName": "DPixel / Paisseon",
+      "localizedDescription": "Access the latest global data from multiple sources and stay informed through widgets. Note: To bypass the \"Integrity checks failed\" message, press \"OK\", quickly return to the Home Screen without closing the app then re-open it. Push notification alerts will not work.\nLast updated: 06-11-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.tranquilli.Earthquake.png"
+    },
+    {
+      "name": "DramasFlic",
+      "bundleIdentifier": "com.bonov.sensial",
+      "version": "4.0",
+      "versionDate": "2024-09-29",
+      "size": 17727292,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DramasFlic/DramasFlic-4.0.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Yet another HDO Play app. All in-app ads removed\nLast updated: 01-31-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bonov.sensial.png"
+    },
+    {
+      "name": "DramaFlix",
+      "bundleIdentifier": "com.dramaflix.co",
+      "version": "1.1.0",
+      "versionDate": "2024-09-29",
+      "size": 9164315,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DramaFlix/DramaFlix-1.1.0.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Movie app, same as HDO Play but also slightly updated\nLast updated: 01-03-2023\nStatus: \u26a0\ufe0f \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dramaflix.co.png"
+    },
+    {
+      "name": "DebToIPA",
+      "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
+      "version": "1.0",
+      "versionDate": "2024-09-29",
+      "size": 3537264,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DebToIPA/DebToIPA.ipa",
+      "developerName": "sourcelocation / AppDB",
+      "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.\nLast updated: 08-12-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png"
+    },
+    {
+      "name": "DarkNoisePro",
+      "bundleIdentifier": "com.charliemchapman.dark-noise",
+      "version": "3.2.6",
+      "versionDate": "2024-09-29",
+      "size": 38006205,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DarkNoisePro/DarkNoisePro-3.2.6.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to play ambient noise to help you sleep, focus, or relax.\nLast updated: 04-15-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemchapman.dark-noise.png"
+    },
+    {
+      "name": "Crunchyroll",
+      "bundleIdentifier": "com.crunchyroll.iphone",
+      "version": "4.40.0",
+      "versionDate": "2024-09-28",
+      "size": 72594141,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Crunchyroll/Crunchyroll-4.40.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png"
+    },
+    {
+      "name": "CopylogTS",
+      "bundleIdentifier": "me.tomt000.ts.copylog",
+      "version": "1.0",
+      "versionDate": "2024-09-28",
+      "size": 9642000,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CopylogTS/CopylogTS.ipa",
+      "developerName": "copylogts / tomt000",
+      "localizedDescription": "CopyLog serves as an efficient clipboard history manager for iOS, offering simplicity in usage and compatibility with both iPhone and iPad, aiding in the monitoring of your device's clipboard activity. It is suitable for iOS 16-17 but has limited support for iPads.\nLast updated: 01-07-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/me.tomt000.ts.copylog.png"
+    },
+    {
+      "name": "CopylogCracker",
+      "bundleIdentifier": "com.retr0dev.cracker",
+      "version": "1.0",
+      "versionDate": "2024-09-28",
+      "size": 57499,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CopylogCracker/CopylogCracker.ipa",
+      "developerName": "retr0devops",
+      "localizedDescription": "A standalone, straightforward one-click cracking tool for CopyLog. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.retr0dev.cracker.png"
+    },
+    {
+      "name": "ConceptsPro",
+      "bundleIdentifier": "com.tophatch.Concepts",
+      "version": "6.14.2",
+      "versionDate": "2024-09-28",
+      "size": 103333803,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ConceptsPro/ConceptsPro-6.14.2.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "This app is a versatile vector-based sketchbook that allows you to transform your ideas from concept to reality. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tophatch.Concepts.png"
+    },
+    {
+      "name": "CodeApp",
+      "bundleIdentifier": "thebaselab.VS-Code",
+      "version": "1.9.0",
+      "versionDate": "2024-09-28",
+      "size": 233174767,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CodeApp/CodeApp-1.9.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/thebaselab.VS-Code.png"
+    },
+    {
+      "name": "ChargeLimiter",
+      "bundleIdentifier": "chaoge.ChargeLimiter",
+      "version": "1.3",
+      "versionDate": "2024-09-28",
+      "size": 1339325,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ChargeLimiter/ChargeLimiter-1.3.ipa",
+      "developerName": "lich4",
+      "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 07-06-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png"
+    },
+    {
+      "name": "CattleGrid",
+      "bundleIdentifier": "org.ericbetts.CattleGrid",
+      "version": "1.1.1",
+      "versionDate": "2024-09-28",
+      "size": 282680,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CattleGrid/CattleGrid-1.1.1.ipa",
+      "developerName": "ichitaso",
+      "localizedDescription": "Allows you to create your own amiibo utilizing ntag215 on an jailbroken or TrollStore device. Note: After you've installed the app, you need to manually locate the tag bin files and place them in the /var/mobile/Documents/CattleGrid/ directory.\nLast updated: 12-26-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.ericbetts.CattleGrid.png"
+    },
+    {
+      "name": "CarPlex",
+      "bundleIdentifier": "com.osk3apps.CarPlex",
+      "version": "1.0.1",
+      "versionDate": "2024-09-28",
+      "size": 1435572,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarPlex/CarPlex-1.0.1.ipa",
+      "developerName": "osk3apps.com",
+      "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png"
+    },
+    {
+      "name": "CarMovie",
+      "bundleIdentifier": "jp.dcsyhi.CarMovie",
+      "version": "1.2",
+      "versionDate": "2024-09-28",
+      "size": 2232733,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarMovie/CarMovie-1.2.ipa",
+      "developerName": "Dcsyhi1998",
+      "localizedDescription": "Enables users to play their preferred videos through CarPlay. A demo illustrating video customization is accessible, with forthcoming features encompassing folder-based video management. Supports iOS14/15/16 and 17. Note: Not all versions of iOS16/17 are supported).\nLast updated: 12-28-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jp.dcsyhi.CarMovie.png"
+    },
+    {
+      "name": "CanYouJB",
+      "bundleIdentifier": "com.CanYouJB.SamoXcZ",
+      "version": "3.0",
+      "versionDate": "2024-09-28",
+      "size": 394796,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CanYouJB/CanYouJB-3.0.ipa",
+      "developerName": "SamoXcZ",
+      "localizedDescription": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is.\nLast updated: 03-26-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.CanYouJB.SamoXcZ.png"
+    },
+    {
+      "name": "CamScannerPremium",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.59.0",
+      "versionDate": "2024-09-28",
+      "size": 125089710,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CamScannerPremium/CamScannerPremium-6.59.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Injected with Premium. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
+      "name": "CallAssist",
+      "bundleIdentifier": "com.apple.mobilephone-call",
+      "version": "14.15",
+      "versionDate": "2024-09-28",
+      "size": 3424925,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CallAssist/CallAssist-14.15.ipa",
+      "developerName": "xybp888",
+      "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the version that match your iOS otherwise it will crash.\nLast updated: 12-26-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.apple.mobilephone-call.png"
+    },
+    {
+      "name": "BlackHole",
+      "bundleIdentifier": "com.shadow.blackhole1160.ios",
+      "version": "1.15.10",
+      "versionDate": "2024-09-27",
+      "size": 17380366,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BlackHole/BlackHole-1.15.10.ipa",
+      "developerName": "Sangwan5688",
+      "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png"
+    },
+    {
+      "name": "BearPro",
+      "bundleIdentifier": "net.shinyfrog.bear-iOS",
+      "version": "2.0.15",
+      "versionDate": "2024-09-28",
+      "size": 31176993,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BearPro/BearPro-2.0.15.ipa",
+      "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
+    },
+    {
+      "name": "Batteried",
+      "bundleIdentifier": "com.34306.waifuts",
+      "version": "1.0",
+      "versionDate": "2024-09-28",
+      "size": 1811902,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Batteried/Batteried-1.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.34306.waifuts.png"
+    },
+    {
+      "name": "AudioRecorderTS",
+      "bundleIdentifier": "net.limneos.AudioRecorder",
+      "version": "6.0.3",
+      "versionDate": "2024-09-27",
+      "size": 4814295,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AudioRecorderTS/AudioRecorderTS-6.0.3.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "Cracked by CBZ. Provides extensive customization options similar to its jailbroken version, including toggling the recorder, biometric authentication, sync settings, server management, backups, cloud linking, notification customization, and sound settings, all while requiring legal compliance and consent for recording in many areas.\nLast updated: 02-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.limneos.AudioRecorder.png"
+    },
+    {
+      "name": "AthanProPremium",
+      "bundleIdentifier": "Quanticapps.Athan.watchkitapp",
+      "version": "8.4.2",
+      "versionDate": "2024-09-27",
+      "size": 108894969,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AthanProPremium/AthanProPremium-8.4.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Offers the most precise prayer times along with a range of other features including the Quran, Tasbeeh, Islamic Calendar, a compass for Qiblah direction, and Ramadan 2024. Note: Tweak is unstable, restart your device if pro features are still locked (refer to #616)\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/Quanticapps.Athan.watchkitapp.png"
+    },
+    {
+      "name": "AsTools",
+      "bundleIdentifier": "rn.notes.best",
+      "version": "2.1.7",
+      "versionDate": "2024-09-27",
+      "size": 14918039,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AsTools/AsTools-2.1.7.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "I can only verify that this works with TrollStore. Also, the entire app is in Chinese. Chinese app store, lets you download and install apps such as Douyin (Chinese TikTok), as if they were from the App Store. No certificates, no Apple ID, none of that. It just installs, and it works\nLast updated: 12-11-2022\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/rn.notes.best.png"
+    },
+    {
+      "name": "AppsManager",
+      "bundleIdentifier": "com.tigisoftware.ADManager",
+      "version": "1.8.1",
+      "versionDate": "2024-09-27",
+      "size": 2052307,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppsManager/AppsManager-1.8.1.ipa",
+      "developerName": "TigiSoftware / CyPwn IPA Library",
+      "localizedDescription": "Not cracked. Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak.\nLast updated: 12-01-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png"
+    },
+    {
+      "name": "AppLockPro",
+      "bundleIdentifier": "com.lilucat.applock.us",
+      "version": "3.0.2",
+      "versionDate": "2024-09-27",
+      "size": 14063529,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppLockPro/AppLockPro-3.0.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 08-02-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
+    },
+    {
+      "name": "AppDump2",
+      "bundleIdentifier": "cn.bswbw.AppsDump",
+      "version": "2.0.6",
+      "versionDate": "2024-09-27",
+      "size": 614335,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppDump2/AppDump2-2.0.6.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "Decrypt IPA files. Note: that to initiate the decryption process, it is imperative to open the desired app at least once. Additionally, Filza might be needed to locate the decrypted file.\nLast updated: 01-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/cn.bswbw.AppsDump.png"
+    },
+    {
+      "name": "AnkiProPremium",
+      "bundleIdentifier": "com.vedasapps.flashcards",
+      "version": "2.1.0",
+      "versionDate": "2024-09-27",
+      "size": 62618755,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnkiProPremium/AnkiProPremium-2.1.0.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "Flashcard app that uses an enhanced spaced repetition algorithm to help you study efficiently and also supports exam preparation and vocabulary learning. Customize your flashcards or choose from over 50,000 pre-made decks. A user requested it so here it is.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.vedasapps.flashcards.png"
+    },
+    {
+      "name": "AnkiMobile",
+      "bundleIdentifier": "net.ichi2.anki",
+      "version": "24.08",
+      "versionDate": "2024-09-27",
+      "size": 16413736,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnkiMobile/AnkiMobile-24.08.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.ichi2.anki.png"
+    },
+    {
+      "name": "Aidoku",
+      "bundleIdentifier": "xyz.skitty.Aidoku",
+      "version": "0.6.6",
+      "versionDate": "2024-09-27",
+      "size": 3235795,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Aidoku/Aidoku-0.6.6.ipa",
+      "developerName": "Aidoku",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
+    },
+    {
+      "name": "AddonsPro",
+      "bundleIdentifier": "com.qingbin.Addons",
+      "version": "3.6",
+      "versionDate": "2024-09-27",
+      "size": 29020552,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.6.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.qingbin.Addons.png"
+    },
+    {
+      "name": "AIChatbotGeniePro",
+      "bundleIdentifier": "co.appnation.geniechat.watchapp",
+      "version": "5.4.0",
+      "versionDate": "2024-09-27",
+      "size": 54206994,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatbotGeniePro/AIChatbotGeniePro-5.4.0.ipa",
+      "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
+    },
+    {
+      "name": "AIChatGP",
+      "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
+      "version": "2.254",
+      "versionDate": "2024-09-27",
+      "size": 34451765,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatGP/AIChatGP-2.254.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Introducing yet another \"ChatGPT-4\" assistant, which holds promise for intriguing features. However, it is likely that its performance might fall short of Chat Genie (App above). Further testing is warranted to determine its efficacy accurately.\nLast updated: 03-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.chatgtp.gpt-3.Chat-GPT.png"
+    },
+    {
+      "name": "DummyApp",
+      "bundleIdentifier": "com.pax.DummyApp",
+      "version": "1.0",
+      "versionDate": "2024-09-19",
+      "size": 22500,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/09-19-2024/DummyApp-1.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pax.DummyApp.png"
     },
     {
       "name": "DolphiniOS",
@@ -2816,511 +2970,6 @@
       "appID": "eu.pokemmo.client"
     },
     {
-      "name": "Ignited",
-      "bundleIdentifier": "com.litritt.ignited",
-      "developerName": "Lit Development",
-      "subtitle": "Retro games meet modern design.",
-      "localizedDescription": "Ignited is an overhaul of Delta, an all-in-one emulator for iOS.\n\nFEATURES\n\nSupported Game Systems\n\u2022 Nintendo Entertainment System\n\u2022 Super Nintendo Entertainment System\n\u2022 Sega Genesis\n\u2022 Nintendo 64\n\u2022 Game Boy (Color)\n\u2022 Game Boy Advance\n\u2022 Nintendo DS\n\nController Support\n\u2022 Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n\u2022 Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n\u2022 Completely customize button mappings on a per-system, per-controller basis.\n\u2022 Map buttons to special \"Quick Save\", \"Quick Load,\" and \"Fast Forward\" actions.\n\nSave States\n\u2022 Save and load save states for any game from the pause menu.\n\u2022 Lock save states to prevent them from being accidentally overwritten.\n\u2022 Automatically makes backup save states to ensure you never lose your progress.\n\u2022 Support for \"Quick Saves,\" save states that can be quickly saved/loaded with a single button press (requires external controller or supported skin).\n\u2022 Save State Rewind - Rolling save states that can be rewound to for up to 2 minutes. Configurable interval. (Currently disabled)\n\nCheats\n\u2022 Supports various types of cheat codes for each supported system:\n\u2022 NES: Game Genie\n\u2022 SNES: Game Genie, Pro Action Replay\n\u2022 N64: GameShark\n\u2022 GBC: Game Genie, GameShark\n\u2022 GBA: Action Replay, Code Breaker, GameShark\n\u2022 DS: Action Replay\n\nDelta Sync\n\u2022 Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n\u2022 View version histories of everything you sync and optionally restore them to earlier versions.\n\u2022 Supports both Google Drive and Dropbox.\n\nCustom Controller Skins\n\u2022 Beautiful built-in controller skins for all systems.\n\u2022 Import controller skins made by others, or even make your own to share with the world!\n\nHold Button\n\u2022 Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n\u2022 Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\nFast Forward\n\u2022 Speed through slower parts of games by running the game much faster than normal.\n\u2022 Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\n3D/Haptic Touch\n\u2022 Use 3D or Haptic Touch to \"peek\" at games, save states, and cheat codes.\n\u2022 App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nGame Artwork\n\u2022 Automatically displays appropriate box art for imported games.\n\u2022 Change a game's artwork to anything you want, or select from the built-in game artwork database.\n\nMisc.\n\u2022 Gyroscope support (WarioWare: Twisted! only)\n\u2022 Microphone support (DS only)\n\u2022 Support for delta:// URL scheme to jump directly into a specific game.\n\n**Ignited and Lit Development are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
-      "iconURL": "https://i.imgur.com/LO2Ckm2.png",
-      "tintColor": "FF6A00",
-      "screenshotURLs": [
-        "https://i.imgur.com/5CHWVQj.png",
-        "https://i.imgur.com/m6aoJbS.png",
-        "https://i.imgur.com/jCCF6u1.png",
-        "https://i.imgur.com/jxqUA1p.png"
-      ],
-      "versions": [
-        {
-          "version": "1.8.6",
-          "date": "2024-01-29T10:00:00-04:00",
-          "localizedDescription": "New\n\u2022 New icons by LitRitt\n  \u2022 Super Ignited Bros (Smash Bros)\n  \u2022 Red Plumber (Mario)\n  \u2022 Green Plumber (Luigi)\n  \u2022 Stomp Bait (Goomba)\n  \u2022 Sparky (Pikachu)\n  \u2022 Puffball (Kirby)\n  \u2022 Sword That Seals (Master Sword)\n  \u2022 Sword That Seals Alt (Master Sword)\n  \u2022 Sword That Ignites (Master Sword)\n  \u2022 Sword That Ignites Alt (Master Sword)\n\u2022 New icons by Kongolabongo\n  \u2022 Barrel of Kong (DK)\n  \u2022 Barrel of Flame (DK)\n\u2022 New icons by Scoot the Rizzler\n  \u2022 Master Sword\n  \u2022 Hylian Shield\n  \u2022 Many Marios\n\u2022 Adds beta label for features/options\n\u2022 Adds 1.5x fast forward speed option for pause menu presets\n\nChanged\n\u2022 Raises minimum iOS version to 16\n\u2022 Updates some icons and shrinks file sizes\n\u2022 Icons are now sorted into categories\n\nFixed\n\u2022 Fixes some incorrect feature reset defaults\n\u2022 Fixes some grammar and spelling in settings\n\u2022 Fixes showing icon images after updating deployment target version",
-          "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.6/Ignited.ipa",
-          "size": 74540387,
-          "sha256": "1e540d93c8f1b79e3976ef21879273168d9cd6ab7fbbce668d4a4aebf8247a84",
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.8.5",
-          "date": "2024-01-19T10:00:00-04:00",
-          "localizedDescription": "Changed\n\u2022 Shrinks icon file sizes\n\u2022 Makes the background blur show when a controller is connected\n\u2022 Changes \"View patreon\" button to \"View membership\" when signed into Patreon\n\u2022 Updates Premium members page to load dynamically from PatreonAPI\n\nFixed\n\u2022 Fixes emulation not pausing when app is in the background\n\u2022 Fixes emulation not pausing when the screen is locked\n\u2022 Fixes issue causing Harmony to skip seeding database\n\u2022 Fixes game artwork losing shadows when toggling VRAM and OpenGLES options",
-          "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.5/Ignited.ipa",
-          "size": 65555254,
-          "sha256": "b1e346450f2d287bcf39866006a01bcf7999572e82974753486c06ad6c2ae4da",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.8.4",
-          "date": "2024-01-13T10:00:00-04:00",
-          "localizedDescription": "New\n\u2022 Battery Safety Feature\n  \u2022 Allows users to set low and critical battery level\n  \u2022 At low battery (5-10%) a popup is shown and auto save states start being created periodically\n  \u2022 At critical battery (2-5%) the currently playing game will save and close, and games cannot be launched until the device is charged\n\u2022 N64 Overscan Feature\n  \u2022 Allows users to remove the black bars surrounding N64 games\n  \u2022 Overscan settings can be edited using the new pause menu button while playing N64 games\n  \u2022 Overscan settings are backed up with Ignited Sync\n\u2022 Adds \"Learn More...\" links to guide users to relevant documentation\n  \u2022 Added to library when no games are present\n  \u2022 Added to MelonDS core BIOS section footers\n  \u2022 Added to controller skins section footer\n\nChanged\n\u2022 Updated Fir\u00e9 Ball icon\n\u2022 Changes Live Artwork feature to be disabled by default\n\nFixed\n\u2022 Fixes visual bugs on MelonDS core settings screen\n\u2022 Fixes crashes when presenting alerts\n\u2022 Fixes library play menu not updating when deleting a game",
-          "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.4/Ignited.ipa",
-          "size": 73931114,
-          "sha256": "1663f60144e9de34c18c1f6fe475821177df4d4093ad22d3e16b02d992c40441",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.8.3",
-          "date": "2024-01-10T11:00:00-04:00",
-          "localizedDescription": "New\n\u2022 Added a check for N64 games to disallow mismatched OpenGLES versions\n\u2022 Added a view in settings to see all games with OpenGLES 3 enabled and remove them\n\u2022 Added a view in settings to see all games with Invalid VRAM Access enabled and remove them",
-          "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.3/Ignited.ipa",
-          "size": 73931114,
-          "sha256": "5a5be897df61e2a3ba01a23cc1d9f1e1b9be12b695c5a1002abc0dc04b13f8db",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.8.2",
-          "date": "2024-01-10T10:00:00-04:00",
-          "localizedDescription": "New\n\u2022 SNES Invalid VRAM Access\n  \u2022 Allows text and other sprites to render properly in some emulator-only games\n  \u2022 Applied per game using the game's context menu\n\nChanged\n\u2022 N64 Graphics replaced with OpenGLES 3 toggle\n  \u2022 Applied per game using the game's context menu\n\u2022 Toast notification style updated and the code flow for toasts has been unified/simplified",
-          "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.2/Ignited.ipa",
-          "size": 73931114,
-          "sha256": "bd24a80aa3815d6b38326156be915dfa29b9aed585a89743402c62b118a2efcd",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.8.1",
-          "date": "2024-01-08T10:00:00-04:00",
-          "localizedDescription": "New\n\u2022 Microphone can now be toggled on and off, and only allows microphone usage when using the melonDS core\n\u2022 Create an auto save state any time the app becomes inactive, even when immediately quitting the app from a game\n\u2022 Adds new icons by LitRitt and Kongolabongo\n\nChanged\n\u2022 Makes the Pro label fancy\n\u2022 Makes the alternate icon feature free, some icons will remain Pro only\n\u2022 Removes the Documentation link until it's more complete\n\u2022 Makes most system titles use full names instead of short names\n\u2022 Unhides the status bar feature in settings\n\nFixed\n\u2022 Fixes patrons list after update to Patreon benefits\n\u2022 Fixes toggling the status bar showing the wrong toast notification\n\u2022 Fixes setting game preview parameters when feature is disabled",
-          "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.1/Ignited.ipa",
-          "size": 73931114,
-          "sha256": "a432e89507149e28a7a8f527a6379a566261afcb5951461297ad715632b46a39",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.8",
-          "date": "2024-01-06T10:00:00-04:00",
-          "localizedDescription": "New\n\u2022 Ignited Pro\n  \u2022 Select features and options will now only be available to patrons\n\u2022 Patreon Integration\n  \u2022 You can now link your Patreon account within the app to access Ignited Pro\n\nFixed\n\u2022 Fixes skin debugging being shown when the feature is off\n\u2022 Fixes game search results overlapping other games\n\u2022 Makes the transition from Quick Settings to Main Menu create an auto save state\n\u2022 Fixes animated artwork still animating when the feature is off",
-          "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8/Ignited.ipa",
-          "size": 62180523,
-          "sha256": "af3fda70bbb6b7e397d231c8637e1f14976b3b3a2bbca752be10fa518c7e63ae",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.7.2",
-          "date": "2023-12-23T10:00:00-04:00",
-          "localizedDescription": "New\n\u2022 Adds options for opening the Pause Menu by shaking your device\n\nChanged\n\u2022 Makes the New Game, Pause, and Star icons on artwork able to be disabled\n\u2022 Makes the Pause Menu items able to be rearranged in settings\n\u2022 Makes context menu previews use auto-save states if enabled\n\nFixed\n\u2022 Makes custom artwork background color support transparency\n\u2022 Adjusts DS artwork forced aspect ratio",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.7.2/Ignited.ipa",
-          "size": 62108866,
-          "sha256": "62bbae22ec808128334565e392ed46d8af7e6313064b5538bb59e13c9fd563c0",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.7",
-          "date": "2023-12-02T10:00:00-04:00",
-          "localizedDescription": "Core Separation\n\u2022 Cores with support for multiple systems have been made into their own cores to allow for different controller skins and feature sets.\n\u2022 Gambatte core has been separated into Game Boy (GB) and Game Boy Color (GBC).\n\u2022 GPGX core has been separated into Genesis / Mega Drive (GEN), Master System (MS), and Game Gear (GG).\n\nUser Interface\n\u2022 The app now fully supports a unique UI for both light mode and dark mode.\n\u2022 You can either match your device dark mode setting or choose from either mode at any time.\n\u2022 All custom assets have been replaced with SF Symbols for style consistency.\n\nGames Library\n\u2022 New menu in the top right to access convenient settings and options without navigating the settings page.\n\u2022 The import button will now become a menu to resume / play / import games once a game has been imported.\n  \u2022 Resume or quit your currently playing game.\n  \u2022 View your recently played games and choose one to play.\n  \u2022 Choose a random game to play from your library or current collection of games.\n\u2022 The bottom toolbar has been removed to free up space for your games.\n\u2022 You can now change collections by tapping the collection title in the navigation bar.\n\u2022 Unplayed games are now marked with a theme colored dot in the title, similar to updated iOS apps.\n\nGame Artwork\n\u2022 New theme system with 3 built in themes and a fully customizable custom theme.\n\u2022 New custom made default box art for all 10 systems.\n\u2022 There's now an option to force all artwork within a given collection to use the same aspect ratio, determined by the default box art.\n\u2022 A screenshot of your latest save state will now be used as a game's artwork, if available. Can be turned off via the Live Artwork option.\n\u2022 Currently playing game will be highlighted with a theme colored pause icon.\n\nFavorite Games\n\u2022 Favorite games now have a star icon displayed on the artwork.\n\u2022 The style of favorite games can be completely customized independent of the main artwork theme.\n\nSyncing\n\u2022 Added automatic conflict resolution for all syncable files.\n\u2022 Whether or not a game is favorited is now synced.\n\u2022 Auto-syncing (syncing every time you return to the library) can now be disabled. The app will always perform a background sync when the app launches, and this cannot be disabled.\n\u2022 You can now manually trigger a sync from the library menu.\n\nSave States\n\u2022 Auto-Save states can now be disabled. Disabling Auto-Save states will also disable Auto-Load.\n\u2022 Enabling Auto-Load states will also enable Auto-Save states.\n\nSettings\n\u2022 Sections have been rearranged. Most used sections will now be at the t\n\u2022 Some features have been explicitly made permanent with no option to disable them.\n\u2022 If a feature can be toggled off, doing so will now completely disable that feature ( e.g. Background Blur).\n\u2022 Many feature options have been reworked to be easier to understand and use.\n\u2022 Patrons and contributors now load from a remote source.\n\u2022 Added official project links.\n\nPause Menu\n\u2022 Added new long-press actions to some pause menu items.\n  \u2022 Long press Save/Load State to quick save/load.\n  \u2022 Long press Screenshot to have a 3 second countdown before the screenshot is taken.\n  \u2022 Long press Hold Buttons to reset your currently held inputs and select new inputs to hold. Tapping Hold Buttons now toggles your saved inputs on or off if you've selected inputs to hold. *Inputs are currently reset when the app quits. Plan to make these persist in a future update.\n  \u2022 Long press Fast Forward to change the speed. Tap to toggle.\n\nQuick Settings\n\u2022 Added an option to open the Quick Settings menu via shaking your device.\n\u2022 Added an option to replace the Quick Settings menu on controller skins with a custom input: Quick Save/Load, Screenshot, Fast Forward, or Restart.\n\nDevice Shaking\n\u2022 Shake your device to return to your currently playing game from anywhere else in the app.\n\u2022 If no other \"Shake to...\" features are enabled, you can shake your device to pause your game.\n\nBugfixes\n\u2022 Fixes supported controller skins being non-selectable until rotating your device to the orientation of the skin\n\u2022 Many other small fixes and changes",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.7/Ignited.ipa",
-          "size": 62108866,
-          "sha256": "7acff11e1a16582def3e9ec814b89cf22c67c7b5fdec85707dd78a026c344f93",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.6.1",
-          "date": "2023-10-31T10:00:00-04:00",
-          "localizedDescription": "NEW FEATURES\n\u2022 Adds an option to replace the Quick Settings button on skins with another input\n\u2022 Adds an option to open Quick Settings by shaking the device\n\u2022 Adds a new menu to change or reset Override Traits, and to access the pause menu\n  \u2022 Accessible via shaking the device\n\u2022 Adds a Power User feature to copy the Google Drive refresh token\n  \u2022 Allows other applications and services to access your Google Drive Ignited Sync backup files",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.6.1/Ignited.ipa",
-          "size": 55219452,
-          "sha256": "a541d94b59ce3bd43efa4af3e6a41dfe6cb604e1d3b6a0f12913f16435961d99",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.6",
-          "date": "2023-10-30T10:00:00-04:00",
-          "localizedDescription": "NEW FEATURES\n\u2022 Adds an informative popup after successfully importing controller skins and games\n\u2022 Adds a setting to show unsupported controller skins\n\u2022 Adds an All Systems page to settings for controller skin management",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.6/Ignited.ipa",
-          "size": 55211482,
-          "sha256": "e92c8ee89464f5e09b34343fc7e16f3ba84411df1c490b2ec770c6cb01966dda",
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.5.6",
-          "date": "2023-10-27T00:00:00-04:00",
-          "localizedDescription": "New Features\n\u2022 Adds support for dynamic background blur tinting based on device light/dark mode setting\n  \u2022 The background blur will be darkened in dark mode and lightened in light mode\n  \u2022 Intensity of the tint can also be adjusted\n\u2022Updates\n\u2022 Makes DSi support toggle-able\n  \u2022 Users won't be able to add DSi BIOS files until toggling DSi support on first\n  \u2022 The DSi NAND file will be removed when DSi support is toggled off to remove the DSi Home Screen\n\u2022 Moves Core Settings below Features in the settings page",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.6/Ignited.ipa",
-          "size": 45506066,
-          "sha256": "00966c10a3e4eb32ede77261e48e36d06bb5167f5ae5b8477d427a8fcc3bff9e"
-        },
-        {
-          "version": "1.5.5",
-          "date": "2023-10-26T00:00:00-04:00",
-          "localizedDescription": "Updates\n\u2022 Changes some toast notifications to be disabled by default\n\nBugfixes\n\u2022 Fixes a bug with AirPlay display losing transparency after rotating the device\n\u2022 Fixes a bug with AirPlay not showing the correct DS screens on the external display\n\u2022 Fixes games losing audio after switching systems",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.5/Ignited.ipa",
-          "size": 45506066,
-          "sha256": "fe707f980ae3be4d4d31c23a0075c06721b2009a0ab2036498735993b8158695"
-        },
-        {
-          "version": "1.5.4",
-          "date": "2023-10-22T00:00:00-04:00",
-          "localizedDescription": "Bugfixes\n\u2022 Fixes wrong game collection being used for random game button\n\u2022 Fixes a crash when selecting hold buttons\n\u2022 Fixes a crash when displaying toasts",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.4/Ignited.ipa",
-          "size": 45506066,
-          "sha256": "9cc10d411e09396e639f819aa1fb1c4a27e9f066a1270b0c34ffc49ae91ec246"
-        },
-        {
-          "version": "1.5.3",
-          "date": "2023-08-20T00:00:00-04:00",
-          "localizedDescription": "New Features\n\u2022 Added Random Game button to load a random game from your collection\n\nUpdates\n\u2022 Improved preset theme color selection screen\n\u2022 Updated DS default skin to new style\n\u2022 Updated SNES default skin to new style",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.3/Ignited.ipa",
-          "size": 45506066,
-          "sha256": "b15373bdeb0e5013b98f642fdf088de3ea62593de74c7dc19f1fcd5a7554a7f5"
-        },
-        {
-          "version": "1.5.2",
-          "date": "2023-07-19T00:00:00-04:00",
-          "localizedDescription": "Updates\n\u2022 Adds new Classic icon by Kongolabongo\n\u2022 Changes deep link scheme from delta:// to ignited://\n\nBugfixes\n\u2022 Fixes a crash when remapping controller inputs\n\u2022 Fixes deep links not loading auto save states in some scenarios\n\u2022 Fixes wrong description for controller deadzone option",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.2/Ignited.ipa",
-          "size": 45506066,
-          "sha256": "a000e7619e5ac9a2448e37ffee9833c0cae25346face692eaa1185da9bad07fb"
-        },
-        {
-          "version": "1.5.1",
-          "date": "2023-07-16T00:00:00-04:00",
-          "localizedDescription": "Updates\n\u2022 Different button overlay styles to choose from\n\u2022 Updated button sounds to play through the audio engine instead of as system sounds\n\u2022 Button sounds can be played at either their own volume, or the same volume of game audio\n\nBugfixes\n\u2022 Fixes launching a game via deep link not respecting the auto load save state setting",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5/Ignited.ipa",
-          "size": 45506066,
-          "sha256": "f5afc89111f2329d965834529b456f38f8d8eaf5e45f5acb8b50ea9c3bea6ef9"
-        },
-        {
-          "version": "1.5",
-          "date": "2023-07-13T00:00:00-04:00",
-          "localizedDescription": "New Features\n\u2022 AirPlay\n  \u2022 Proper support for streaming games to an external screen\n\u2022 Trigger Deadzone\n  \u2022 Adjustable deadzone for trigger inputs on controllers\n\u2022 Skin Background Color\n  \u2022 Change the background color of controller skins from black to any other color\n\nUpdates\n\u2022 Fast Forward inputs can now be manually switched between toggle and hold by users\n\u2022 Improved default button mappings for various Switch controllers\n\u2022 Updated app icon and other assets to match modified design\n\u2022 Various syncing improvements in Harmony\n\nBugfixes\n\u2022 Make Quick Settings dismissible with controller input\n\u2022 Fixes DS save states made with JIT enabled not loading when JIT is not enabled\n\u2022 Fixes crash when loading save states on iOS 17",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5/Ignited.ipa",
-          "size": 45506066,
-          "sha256": "f5afc89111f2329d965834529b456f38f8d8eaf5e45f5acb8b50ea9c3bea6ef9"
-        },
-        {
-          "version": "1.4.8",
-          "date": "2023-06-25T00:00:00-04:00",
-          "localizedDescription": "New Features\n\u2022Rotation Lock\n\u2022  Adds a pause menu button to lock device rotation during gameplay\n\u2022Adds an option to play a 3 second countdown between initiating and capturing a game screenshot\n\nUpdates\n\u2022Default skins with blurred backgrounds have been adjusted to look seamless on all device sizes\n\u2022New icon for hold buttons pause menu button\n\u2022Speed up importing compressed games in ZIP format by skipping checksum verification\n\nBugfixes\n\u2022Fixes game screenshots being saved to Photos as JPEG instead of PNG",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.4.8/Ignited.ipa",
-          "size": 45506066,
-          "sha256": "aa60fdf16779f8c301c1dcf4d506266e72884a376525bed8d1e2e9e8194a82e3"
-        },
-        {
-          "version": "1.4.7",
-          "date": "2023-06-18T00:00:00-04:00",
-          "localizedDescription": "New Features\n\u2022Classic skins have been added to the Skin Downloads section in settings for users who want to use the old Delta skins\n\nUpdates\n\u2022Updated NES default skin with new design\n\u2022Default skins with new design have been updated to utilize the new backgroundBlur key\n\u2022Allows skin preview images to be in either pdf or png format\n\u2022Updated logic for when the background blur pause menu button should show\n\nBugfixes\n\u2022Fixes an issue with the default GBA E2E landscape skin image",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.4.7/Ignited.ipa",
-          "size": 45506066,
-          "sha256": "13d3f8b46456a89a85b7e5bd74b465dc46ab94289fd5286412baf741dae46464"
-        },
-        {
-          "version": "1.4.6",
-          "date": "2023-06-17T00:00:00-04:00",
-          "localizedDescription": "New Features\n\u2022Background blur toggle now available in the pause menu\n\u2022Background blur options now available in the quick settings menu\n\nUpdates\n\u2022Adds support for skin representations with the backgroundBlur key\n\u2022Adds an option to override the backgroundBlur setting of a skin\n\u2022Disables background blur on GPGX core for the time being\n\u2022Reverts and updates pause menu icons\n\nBugfixes\n\u2022Fixes N64 screens going black when toggling background blur",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.4.6/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "d29180170413dc538311a3fbf2702ca0021d52b2bf3bed1307facd3120aba5bd"
-        },
-        {
-          "version": "1.4.5",
-          "date": "2023-06-16T00:00:00-00:00",
-          "localizedDescription": "New Features\n\u2022Blurred game backgrounds for skins\n  \u2022Options to enable/disable, change blur strength, and adjust the brightness\n\u2022Option to change the N64 graphics rendering API between OpenGL ES 2 and OpenGL ES 3\n\nUpdates\n\u2022Adds support for skins with .ignitedskin extension to differentiate between legacy Delta skins and new Ignited skins\n\u2022Adds more mappable inputs for controllers\n\nBugfixes\n\u2022Fixes overlapping buttons when mapping controller inputs\n\u2022Fixes crashes on N64 when opening menu and saving state",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.4.5/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "0535aebd58b6fd21a1bc242afbff2975676063499ad04141351e8b863cc0e0a2"
-        },
-        {
-          "version": "1.4.4",
-          "date": "2023-06-07T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022Adds several new alternate app icons and an interface to change between them\n\u2022Adds an option within every feature to reset all options to their default values, and a power user option to reset all options at once\n\u2022Adds an option to change the intensity of the favorite games highlight glow\n\nUpdates\n\u2022Makes the reset artwork feature work with the DS home screen icons\n\u2022Makes rewind deleting its states on rewinding or quitting the game a toggleable option\n  \u2022Allows the rewind feature to be used as a persistent secondary auto-save method\n\nBugfixes\n\u2022Fixes artwork size setting not applying until swiping to a new page",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.4.4/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "e49294216d4dda1c9a2674d0cc591af5a57ad63954271cefab9eb969c6402ae0"
-        },
-        {
-          "version": "1.4.3",
-          "date": "2023-06-04T00:00:12-00:00",
-          "localizedDescription": "Updates\n\u2022Adds an option for custom touch overlay color\n\u2022Creates a new feature section called Games Collection\n\u2022Moves settings previously found in Game Artwork Customization into separate sections within the Games Collection feature set\n\u2022Makes Favorites features respect whether the feature is actually enabled\n\nBugfixes\n\u2022Fixes lag when changing settings with animated artwork in the background\n\u2022Fixes animated artwork losing transparency when downsampling",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.4.3/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "87cd927aca7eceeafe72f9862b837c9ca0a86893fb9c958990d2d61aa2b05314"
-        },
-        {
-          "version": "1.4.2",
-          "date": "2023-06-03T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022Quick Settings\n  \u2022Quick access to game options and actions: screenshot, save, load, volume, game speed, palettes\n  \u2022Accessible from a controller/skin button as well as the pause menu\n\nUpdates\n\u2022New options for game title size and max lines, available in User Interface Features -> Game Artwork Customization\n\nBugfixes\n\u2022Fixes crash on iPad when resolving sync merge conflicts\n\u2022Fixes accidentally deleting Games directory during sync in rare circumstances",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.4.2/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "9f312809ecc7c048e2c6f050b08735af75e91d979876d8149ff942bfae85cc02"
-        },
-        {
-          "version": "1.4.1",
-          "date": "2023-05-14T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 Adds an option to reset game artwork to the one provided by the games database\n\u2022 Adds a power user option to reset artwork for every game at once\n\nBugfixes\n\u2022 Fixes cancelling some pause menu popups causing the game to freeze\n\u2022 Fixes incorrect checkmarks next to selected palette for sprite 1 and 2\n\u2022 Fixes preview save state being overwritten by auto save state",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.4.1/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "203eff55dc5ef681e109ad5ee42ba51b9cd67340a1ea74e58d80dbe082732888"
-        },
-        {
-          "version": "1.4",
-          "date": "2023-05-13T00:00:12-00:00",
-          "localizedDescription": "Updates\n\u2022 Settings page has been completely revamped and reorganized\n  \u2022 Many existing features received improvements as they were moved\n\nNew Features\n\u2022 Game Boy color palettes\n  \u2022 Several built in palettes and 3 user customizable palettes\n  \u2022 Both the main and sprite palettes can be changed, allowing for unique palettes never before possible\n\u2022 Custom Theme Color\n  \u2022 Choose your own color to use for the app accent color\n\u2022 Favorite Games\n  \u2022 Games can be favorited, with options to highlight and sort them to the top of the games list\n\u2022 Game Sorting\n  \u2022 You can now sort games A-Z, Z-A, most recently played, and least recently played\n\u2022 Animated Game Artwork\n  \u2022 Support for short animated GIFs as your game artwork, with options for animation pause and speed\n\nBugfixes\n\u2022 Burnt a bunch of bugs",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.4/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "338f4434a122fa7492d363f079ba45c669528a52db637685acea52f200ea89c2"
-        },
-        {
-          "version": "1.3.0",
-          "date": "2023-04-28T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 Skin Debug Device - Switch to another device type when debugging a skin, useful for testing skins on devices you don't own\n\nUpdates\n\u2022 Adds toasts notifications for more actions\n\nBugfixes\n\u2022 Now creates an auto save state when saving in-game, fixes old autosaves overwriting game data when loaded\n\u2022 Fixes the Resume button not working with auto-load save states disabled\n\u2022 Fixes the pause menu not fully showing in landscape with 2 rows of buttons",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.3.0/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "2cf7b2c705ea04baf8352679966644f18ce729e035648d83fdf08bae52e330df"
-        },
-        {
-          "version": "1.2.10",
-          "date": "2023-04-23T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 New Screenshot options - Save to Files, Save to Photos, Image Scale\n\nUpdates\n\u2022 Forced light status bar during gameplay\n\u2022 Updated licenses page formatting\n\u2022 Reordered pause menu buttons and adjusted spacing to 4 items per row\n\nBugfixes\n\u2022 Adjusted settings slider labels to fit with bold system text\n\u2022 Removed unimplemented swipable page control",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.10/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "c908d8b0c4fbf7b7f979723fc85222c702623c34c0501061bef675ceab4b40b4"
-        },
-        {
-          "version": "1.2.9",
-          "date": "2023-04-18T00:00:12-00:00",
-          "localizedDescription": "Updates\n\u2022 Added page for Lit Patrons shoutout\n\u2022 Changed rewind to be disabled by default\n\nBugfixes\n\u2022 Fixed a crash when toggling clicky haptics\n\u2022 Removed unsupported file extensions on GPGX",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.9/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "5cec577a5aec4529c76780a42741e89241366e4c062f8e54d9c0345203440b59"
-        },
-        {
-          "version": "1.2.8",
-          "date": "2023-04-16T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 Added toggle to show or hide the status bar while in-game\n\u2022 Added\n\u2022 Resource Links section to settings\n\u2022 Added Rom Patcher JS and DS Save Converter links\n\nUpdates\n\u2022 Added remaining file extensions for all systems supported by the Genesis Plus GX core",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.8/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "122e3dcd212e39b4a7d5c2927ec027efb7b31cbc4e11b7a489bbc296d86ba5d1"
-        },
-        {
-          "version": "1.2.7",
-          "date": "2023-04-15T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 Added options to toggle game artwork borders, shadows, and rounded corners\n\nUpdates\n\u2022 Added confirmation popup to advanced settings\n\u2022 Game screenshots are now scaled up by 5x before being saved",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.7/Ignited.ipa",
-          "size": 50355653,
-          "sha256": "7bc39a5cb959649c715d77787ba395f63dc8a775a4ee8f0d0561b6253f1b8ac8"
-        },
-        {
-          "version": "1.2.6",
-          "date": "2023-04-14T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 Game Screenshots - save a screenshot of the game screen to your photos with a pause menu item or controller skin button",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.5/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.2.5",
-          "date": "2023-04-12T00:00:12-00:00",
-          "localizedDescription": "Bugfixes\n\u2022 Fixed importing game saves with auto-load save state enabled\n\nNew Features\n\u2022 Added advanced setting to clear auto save states from every game",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.5/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.2.4",
-          "date": "2023-04-11T00:00:12-00:00",
-          "localizedDescription": "Bugfixes\n\u2022 Disabled auto-load save on DSi Home Screen\n\u2022 Removed cheats, save, load, and rewind pause menu items from DSi Home Screen\n\u2022 Removed cheats from DS Home Screen",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.4/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.2.3",
-          "date": "2023-04-10T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 Updates screen will now be shown once per update at launch\n\nUpdates\n\u2022 Updates screen now includes dates for all versions",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.3/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.2.2",
-          "date": "2023-04-09T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 Game Volume - Change the game volume relative to your device volume\n\u2022 Toggle for whether game audio should play when other audio is playing in the background\n\nUpdates\n\u2022 Updated OpenVGDB database",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.2/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.2.1",
-          "date": "2023-04-09T00:00:08-00:00",
-          "localizedDescription": "New Features\n\u2022 Audio Button Feedback - option to play a sound when a controller skin input is pressed\n\nUpdates\n\u2022 Raise minimum iOS to 14.0 - Removed all legacy code\n\nBugfixes\n\u2022 Fixed laggy sliders in settings that could crash the app when paused",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.1/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.2.0",
-          "date": "2023-04-08T00:00:08-00:00",
-          "localizedDescription": "New Features\n\u2022 Touch Overlays - Get visual feedback about what buttons are currently pressed\n\u2022 Options for size, opacity, and color of touch overlays\n\u2022 Resume Button added to game collection screen beside the page dots\n\nBugfixes\n\u2022 Fixed controller skins losing transparency on device rotation",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.2.0/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.1.4",
-          "date": "2023-04-06T00:00:08-00:00",
-          "localizedDescription": "New Features\n\u2022 Re-enabled Save State Rewind - Disabled on GBC to prevent crashes with gambette\n\nUpdates\n\u2022 Added new Advanced section to settings - Moved alt skin and debug toggles there\n\u2022 Custom fast forward speed is now default - Toggle removed\n\nBugfixes\n\u2022 Fixed the Show with Controller settings not working on DS",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.1.4/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.1.3",
-          "date": "2023-04-02T00:00:08-00:00",
-          "localizedDescription": "New Features\n\u2022 Added option for clicky haptic feedback - A more rigid haptic impulse will be sent on both button press and release\n\u2022 Added slider for haptic feedback strength",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.1.3/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.1.2",
-          "date": "2023-04-02T00:00:08-00:00",
-          "localizedDescription": "WARNING\n\u2022 This update uses a new bundleID with my domain. It will never change again after this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app. I apologize for any inconvenience this causes.\n\nNew Features\n\u2022 Made auto save states syncable\n\nUpdates\n\u2022 Made the restart game button available to skins and controllers\n\u2022 Made the current game highlighting stand out more\n\nBugfixes\n\u2022 Fixed last unthemed elements buried in settings",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.1.2/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.1.1",
-          "date": "2023-04-02T00:00:02-00:00",
-          "localizedDescription": "New Features\n\u2022 Added a toggle to automatically load the last auto save when launching a game\n\u2022 Added toggle to enabled/disabled in-game toast notifications\n\nUpdates\n\u2022 Removed the Resume Game prompt from the game selection screen\n\u2022 Added a Restart Game pause menu button\n\u2022 Updated toast notification logic to prevent multiple toasts being shown at once",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.1.1/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.1.0",
-          "date": "2023-04-02T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 Added a toggle to automatically load the last auto save when launching a game\n\u2022 Added toggle to enabled/disabled in-game toast notifications\n\nUpdates\n\u2022 Removed the Resume Game prompt from the game selection screen\n\u2022 Added a Restart Game pause menu button",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.1.0/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.0.2",
-          "date": "2023-04-01T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 Added color highlighting to currently running game\n\nUpdates\n\u2022 Artwork spacing is now dynamic like the size\n\nBugfixes\n\u2022 Fixed some artwork bugs caused by resizing",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.0.2/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "1.0.1",
-          "date": "2023-03-30T00:00:12-00:00",
-          "localizedDescription": "New Features\n\u2022 App Theming - Choose from a variety of colors to change the tint and app icon of Ignited. Emulate in your own style!\n\nUI Updates\n\u2022 Album artwork now has rounded corners, contrasting borders, and a drop shadow\n\u2022 Can now change the artwork size between small, medium, and large\n\u2022 Default box-art now features the cartridge of their respective system\n\nChanges\n\u2022 Custom fast-forward is enabled by default\n\u2022 Default speed changed to 4x\n\u2022 Removed 4x from unsafe speeds",
-          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.0.1/Ignited.ipa",
-          "size": 50355653
-        },
-        {
-          "version": "0.7.1",
-          "date": "2023-03-18T00:00:12-00:00",
-          "localizedDescription": "Changes\n\u2022 Alternate Skin pause menu item now only shows is the current skin supports it\n\u2022 Debug Mode pause menu item now only shows if the current skin's debug property is set to true, or debug mode is manually enabled in settings\n\u2022 Reordered save state menu sections. General at the top and Quick/Auto at the bottom\n\u2022 Rebrand to from Delta Ignited to just Ignited",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.7.1/Ignited.ipa",
-          "size": 50758248
-        },
-        {
-          "version": "0.7.0",
-          "date": "2023-03-18T00:00:12-00:00",
-          "localizedDescription": "New Feature\n\u2022 AltSkin - Alternate appearances for skins\n\u2022 Options to show skins with a controller connected\n\u2022 Access to skin debug mode in-app\n\u2022 In-game toast notifications for various actions\n\nChanges\n\u2022 Updated settings section footers\n\u2022 Added Alternate Skin and Debug Mode options to pause menu",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.7.0/delta-ignited.ipa",
-          "size": 50760528
-        },
-        {
-          "version": "0.6.3",
-          "date": "2023-03-11T00:00:12-00:00",
-          "localizedDescription": "New Feature\n\u2022 Access custom fast forward speeds from in-game menu\n\nChanges\n\u2022 Make users accept a warning prompt to access 4x and faster speeds\n\u2022 Add 150% speed setting\n\u2022 Game will auto-save on every fast forward activation\n\u2022 Number of auto-saves increased from 2 to 4",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.6.3/delta-ignited.ipa",
-          "size": 50627697
-        },
-        {
-          "version": "0.6.2",
-          "date": "2023-03-05T00:00:12-00:00",
-          "localizedDescription": "New Feature\n\u2022 OTA Installation for patrons\n\u2022 In-App Update Changelog - View all updates from the settings\n\nChanges\n\u2022 Change formatting of updates screen\n\u2022 Move updates to its own section in settings\n\u2022 Fix controller skin previews not showing for standard size iPhones",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.6.2/delta-ignited.ipa",
-          "size": 50627697
-        },
-        {
-          "version": "0.6.1",
-          "date": "2023-03-03T00:00:12-00:00",
-          "localizedDescription": "New Feature\n\u2022 In-App Update Changelog - View all updates from the settings\n\nChanges\n\u2022 Change formatting of updates screen\n\u2022 Move updates to its own section in settings",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.6.1/delta-ignited.ipa",
-          "size": 50743252
-        },
-        {
-          "version": "0.6.0",
-          "date": "2023-03-03T00:00:10-00:00",
-          "localizedDescription": "New Feature\n\u2022 In-App Update Changelog - View all updates from the settings",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.6.0/delta-ignited.ipa",
-          "size": 50742803
-        },
-        {
-          "version": "0.5.3",
-          "date": "2023-03-03T00:00:00-00:00",
-          "localizedDescription": "New Feature\n\u2022 Controller Skin Previews - Supports showing a preview image in settings instead of a bare skin image\n\nChanges\n\u2022 Update local multiplayer settings logic\n\u2022 Removed Rewind feature due to crashes\n\u2022 Updated GBC controller skin to new style\n\u2022 Updated GBA controller skin to use new previews\n\u2022 Removed branding from GBA skin for a cleaner look",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.3/delta-ignited.ipa",
-          "size": 50724007
-        },
-        {
-          "version": "0.5.2",
-          "date": "2023-02-26T00:00:00-00:00",
-          "localizedDescription": "New Feature\n\u2022 Controller Skin Previews - Supports showing a preview image in settings instead of a bare skin image\n\nChanges\n\u2022 Updated GBC controller skin to new style\n\u2022 Updated GBA controller skin to use new previews\n\u2022 Removed branding from GBA skin for a cleaner look",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.2/delta-ignited.ipa",
-          "size": 52114631
-        },
-        {
-          "version": "0.5.1",
-          "date": "2023-02-25T00:00:20-00:00",
-          "localizedDescription": "New Feature\n\u2022 Controller Skin Previews - Supports showing a preview image in settings instead of a bare skin image\n\nChanges\n\u2022 Updated GBA controller skin to use new previews\n\u2022 Removed branding from GBA skin for a cleaner look",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.1/delta-ignited.ipa",
-          "size": 52114631
-        },
-        {
-          "version": "0.5.0",
-          "date": "2023-02-25T00:00:10-00:00",
-          "localizedDescription": "New Feature\n\u2022 Controller Skin Previews - Supports showing a preview image in settings instead of a bare skin image",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.0/delta-ignited.ipa",
-          "size": 52097008
-        },
-        {
-          "version": "0.4.1",
-          "date": "2023-02-25T00:00:00-00:00",
-          "localizedDescription": "New Feature\n\u2022 Customizable Fast Forward Speed\n\nBug Fixes\n\u2022 Fixed some popups crashing on iPad\n\u2022 Fixed a crash in settings with local multiplayer\n  \u2022 Controller selection remains glitchy but functional",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.4.1/delta-ignited.ipa",
-          "size": 52094410
-        },
-        {
-          "version": "0.4.0",
-          "date": "2023-02-24T00:00:00-00:00",
-          "localizedDescription": "New Feature\n\u2022 Customizable Fast Forward Speed",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.4.0/delta-ignited.ipa",
-          "size": 51978697
-        },
-        {
-          "version": "0.3.0",
-          "date": "2023-02-23T00:00:00-00:00",
-          "localizedDescription": "New Features\n\u2022 Download skins from settings\n\u2022 Rounded and inset settings tables",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.3.0/delta-ignited.ipa",
-          "size": 51973518
-        },
-        {
-          "version": "0.2.1",
-          "date": "2023-02-21T00:00:00-00:00",
-          "localizedDescription": "New Features\n\u2022 Add Genesis and remove all beta checks\n\u2022 Update and expand contributors list",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.2.1/delta-ignited.ipa",
-          "size": 51971781
-        },
-        {
-          "version": "0.2.0",
-          "date": "2023-02-20T00:00:00-00:00",
-          "localizedDescription": "New Features\n\u2022 Local Multiplayer - Connect up to 4 controllers on supported consoles\n\u2022 Save State Rewind - Rolling save states that can be rewinded to at any time\n\u2022 Extended MFi Support - Add support for missing MFi inputs",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.2.0/delta-ignited.ipa",
-          "size": 51971282
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "Ignited uses the local network to communicate with AltServer and enable JIT."
-          },
-          {
-            "name": "Microphone",
-            "usageDescription": "Ignited uses your microphone to emulate the Nintendo DS microphone."
-          },
-          {
-            "name": "PhotoLibrary",
-            "usageDescription": "Press \"OK\" to allow Ignited to use images from your Photo Library as game artwork."
-          }
-        ]
-      },
-      "appID": "com.litritt.ignited"
-    },
-    {
       "name": "PokeMMO PTS",
       "bundleIdentifier": "eu.pokemmo.client.pts",
       "developerName": "PokeMMO",
@@ -3657,33 +3306,6 @@
         ]
       },
       "appID": "com.streamer.ios"
-    },
-    {
-      "name": "Crunchyroll++",
-      "bundleIdentifier": "com.crunchyroll.iphone",
-      "developerName": "unlimapps",
-      "subtitle": "The Ad-Free Anime you've been looking for.",
-      "localizedDescription": "- No ads\n- New episodes one hour after airing in Japan\n- The highest watching quality possible",
-      "iconURL": "https://i.imgur.com/qM7e1Ey.png",
-      "tintColor": "#f47521",
-      "screenshotURLs": [
-        "https://i.imgur.com/ss27Uf3.png",
-        "https://i.imgur.com/AxhO3kI.png",
-        "https://i.imgur.com/KdmaxEZ.png",
-        "https://i.imgur.com/XMO94gp.png",
-        "https://i.imgur.com/qBeM1ri.png"
-      ],
-      "versions": [
-        {
-          "version": "3.5.1",
-          "date": "2019-10-01",
-          "localizedDescription": "Optimized for iOS 13.",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Crunchyroll++.ipa",
-          "size": 11688173,
-          "sha256": "2a6a8910501ef6a0e31d3083acacd1276701d8a95b0083b7a6ca5066be9abdd9"
-        }
-      ],
-      "appID": "com.crunchyroll.iphone"
     },
     {
       "name": "Deezer++",
@@ -4106,78 +3728,6 @@
       ],
       "beta": false,
       "appID": "com.google.ios.youtubecercube"
-    },
-    {
-      "name": "HD Flix (No Ads)",
-      "bundleIdentifier": "com.box.hd.flix.drama.hub",
-      "developerName": "Dezokr",
-      "subtitle": "The All-In-One Movie app for iOS",
-      "localizedDescription": "WHEN YOU FIRST OPEN THE APP IT WILL LOOK LIKE A DIFFERENT APP JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nWith HD Flix for iOS you can able to watch any movie/tv show. The User Interface that you see in the app is truly the best thing about it. Easy navigation and responsive design made it stand at the top of the list.\n\nIt will display all the trending content from Action, Comedy, Sci-Fi and other genres at the home page for the best user experience. Moreover, you will get to read the complete information about any particular movie including IMDB Rating, Year Of Release, Start Cast, etc.",
-      "iconURL": "https://i.imgur.com/3tQFB9N.png",
-      "tintColor": "a01916",
-      "category": "Entertainment",
-      "screenshotURLs": [
-        "https://i.imgur.com/MKWusvU.png"
-      ],
-      "version": "2.0",
-      "versionDate": "2025-03-10",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.No.Ads.v2.0.ipa",
-      "versionDescription": "\u2022 Updated HD Flix to v2.0",
-      "size": 2800000,
-      "versions": [
-        {
-          "version": "2.0",
-          "date": "2025-03-10",
-          "localizedDescription": "\u2022 Updated HD Flix",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.No.Ads.v2.0.ipa",
-          "size": 2800000
-        },
-        {
-          "version": "1.0",
-          "date": "2024-05-11",
-          "localizedDescription": "\u2022 Added HD Flix v5.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.v5.0.ipa",
-          "size": 2940000
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.driverkit.allow-third-party-userclients",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.user-fonts",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.game-center",
-          "com.apple.developer.healthkit.recalibrate-estimates",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.homekit",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-development-container-identifiers",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.pass-type-identifiers",
-          "com.apple.developer.networking.vpn.api",
-          "aps-environment",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.siri",
-          "com.apple.developer.weatherkit",
-          "keychain-access-groups"
-        ],
-        "privacy": {
-          "NSCameraUsageDescription": "App uses the camera for capturing photos or videos.",
-          "NSLocationWhenInUseUsageDescription": "App uses location when on app.",
-          "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
-          "NSPhotoLibraryUsageDescription": "App accesses the user's photo library.",
-          "NSUserTrackingUsageDescription": "App tracks user activity for advertising purposes."
-        }
-      },
-      "beta": false
     },
     {
       "name": "Spotify++ (Old)",
