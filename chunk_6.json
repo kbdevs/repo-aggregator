@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Jetpack",
+      "type": 2,
+      "bundleID": "com.halfbrick.jetpack",
+      "bundleIdentifier": "com.halfbrick.jetpack",
+      "version": "1.103.2",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215180013",
+      "size": 276005940,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Jetpack_1.103.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Jetpack_1.103.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png"
+    },
+    {
       "name": "Dancebit",
       "type": 1,
       "bundleID": "dance.fitness.app",
@@ -658,22 +674,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fineyo.Fineyo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fineyo.Fineyo.png"
-    },
-    {
-      "name": "NCv1802",
-      "type": 1,
-      "bundleID": "nt.nc.ios",
-      "bundleIdentifier": "nt.nc.ios",
-      "version": "18.0.2",
-      "versionDate": "2025-11-22",
-      "fullDate": "20251122002447",
-      "size": 372860091,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
     },
     {
       "name": "Euforia",
