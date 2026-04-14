@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "DoCast",
+      "type": 1,
+      "bundleID": "us.electronic.docast",
+      "bundleIdentifier": "us.electronic.docast",
+      "version": "5.6",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310174809",
+      "size": 19371927,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/DoCast_5.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/DoCast_5.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png"
+    },
+    {
+      "name": "SixPackAbsAbsWorkout",
+      "type": 1,
+      "bundleID": "com.abishkking.sixpack",
+      "bundleIdentifier": "com.abishkking.sixpack",
+      "version": "1.47.0",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310132044",
+      "size": 188148029,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/SixPackAbsAbsWorkout_1.47.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/SixPackAbsAbsWorkout_1.47.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+    },
+    {
+      "name": "VivaCut",
+      "type": 1,
+      "bundleID": "com.vivacut.videoeditor",
+      "bundleIdentifier": "com.vivacut.videoeditor",
+      "version": "4.5.6",
+      "versionDate": "2026-03-10",
+      "fullDate": "20260310073948",
+      "size": 223285999,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/VivaCut_4.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/VivaCut_4.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png"
+    },
+    {
       "name": "WeatherRadar",
       "type": 1,
       "bundleID": "de.wetteronline.WetterApppro",
@@ -420,22 +468,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.polarr.ppe.png"
     },
     {
-      "name": "Lifesum",
-      "type": 1,
-      "bundleID": "com.sillens.iShape",
-      "bundleIdentifier": "com.sillens.iShape",
-      "version": "23.6.0",
-      "versionDate": "2026-02-14",
-      "fullDate": "20260214032127",
-      "size": 109320776,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-02-2026/Lifesum_23.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-02-2026/Lifesum_23.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png"
-    },
-    {
       "name": "andyworkscalculator",
       "type": 1,
       "bundleID": "com.andyworks.calculator",
@@ -482,22 +514,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png"
-    },
-    {
-      "name": "Textastic",
-      "type": 1,
-      "bundleID": "com.textasticapp.textastic-universal",
-      "bundleIdentifier": "com.textasticapp.textastic-universal",
-      "version": "10.9.2",
-      "versionDate": "2026-02-13",
-      "fullDate": "20260213142750",
-      "size": 10994054,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/Textastic_10.9.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-02-2026/Textastic_10.9.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png"
     },
     {
       "name": "Inpreview",
@@ -754,22 +770,6 @@
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png"
-    },
-    {
-      "name": "DaVinci",
-      "type": 1,
-      "bundleID": "com.hubx.imagination",
-      "bundleIdentifier": "com.hubx.imagination",
-      "version": "4.4.1",
-      "versionDate": "2026-02-05",
-      "fullDate": "20260205144533",
-      "size": 105778197,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/DaVinci_4.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-02-2026/DaVinci_4.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png"
     },
     {
       "name": "CodeSnackIDE",
@@ -1716,22 +1716,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png"
     },
     {
-      "name": "NFCTools",
-      "type": 1,
-      "bundleID": "com.wakdev.wdnfc",
-      "bundleIdentifier": "com.wakdev.wdnfc",
-      "version": "2.35",
-      "versionDate": "2026-01-06",
-      "fullDate": "20260106061815",
-      "size": 4009675,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/NFCTools_2.35_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/NFCTools_2.35_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png"
-    },
-    {
       "name": "ToonMe",
       "type": 1,
       "bundleID": "com.informelab.toonme",
@@ -1794,6 +1778,22 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png"
+    },
+    {
+      "name": "Reframe",
+      "type": 1,
+      "bundleID": "com.glucobit.cravingBuster.CravingBuster",
+      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
+      "version": "3.9.11",
+      "versionDate": "2026-01-02",
+      "fullDate": "20260102170212",
+      "size": 323094867,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/Reframe_3.9.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/Reframe_3.9.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png"
     }
   ],
   "userInfo": {}
