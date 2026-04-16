@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Find Hidden Objects\u30fbHidmont II (Hack)",
+      "bundleIdentifier": "com.cleverside.hidden",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.cleverside.hidden\n\n Downloads: 110\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1736552573.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17365525727087885442.webp",
+        "https://apps.nabzclan.vip/screenshots/17365525729639685123.webp",
+        "https://apps.nabzclan.vip/screenshots/17365525732193923979.webp",
+        "https://apps.nabzclan.vip/screenshots/17365525734604900367.webp",
+        "https://apps.nabzclan.vip/screenshots/17365525736507359356.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2025-01-10 18:42:54",
+          "localizedDescription": "Current of Find Hidden Objects\u30fbHidmont II (Hack) - 1.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1180",
+          "size": 94896128
+        },
+        {
+          "version": "1.2.0",
+          "date": "2025-01-10 18:42:54",
+          "localizedDescription": "Old Version of Find Hidden Objects\u30fbHidmont II (Hack) - 1.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1180",
+          "size": 94896128
+        }
+      ],
+      "version": "1.2.0",
+      "versionDate": "2025-01-10 18:42:54",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1180",
+      "formatedsize": "90.5 MB",
+      "size": 94896128
+    },
+    {
       "name": "Lined: Connect the Dot Game (Hack)",
       "bundleIdentifier": "com.lemel.flow",
       "developerName": "Nabzclan",
@@ -4685,46 +4724,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/867",
       "formatedsize": "15.38 MB",
       "size": 16127098
-    },
-    {
-      "name": "Spike Stats - Valorant Tracker (Hack)",
-      "bundleIdentifier": "com.crocusgames.spikestats",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps, Free in app purchases\n\n BundleID: com.crocusgames.spikestats\n\n Downloads: 156\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730426216.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17304262157219568194.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262158015672823.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262158539120405.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262160785926787.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262162114037070.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262167451479395.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.41",
-          "date": "2024-11-01 05:56:56",
-          "localizedDescription": "Current of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-          "size": 16986931
-        },
-        {
-          "version": "1.0.41",
-          "date": "2024-11-01 05:56:56",
-          "localizedDescription": "Old Version of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-          "size": 16986931
-        }
-      ],
-      "version": "1.0.41",
-      "versionDate": "2024-11-01 05:56:56",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-      "formatedsize": "16.2 MB",
-      "size": 16986931
     }
   ],
   "userInfo": {}

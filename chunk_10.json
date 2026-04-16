@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Spike Stats - Valorant Tracker (Hack)",
+      "bundleIdentifier": "com.crocusgames.spikestats",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps, Free in app purchases\n\n BundleID: com.crocusgames.spikestats\n\n Downloads: 156\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1730426216.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17304262157219568194.webp",
+        "https://apps.nabzclan.vip/screenshots/17304262158015672823.webp",
+        "https://apps.nabzclan.vip/screenshots/17304262158539120405.webp",
+        "https://apps.nabzclan.vip/screenshots/17304262160785926787.webp",
+        "https://apps.nabzclan.vip/screenshots/17304262162114037070.webp",
+        "https://apps.nabzclan.vip/screenshots/17304262167451479395.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.41",
+          "date": "2024-11-01 05:56:56",
+          "localizedDescription": "Current of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
+          "size": 16986931
+        },
+        {
+          "version": "1.0.41",
+          "date": "2024-11-01 05:56:56",
+          "localizedDescription": "Old Version of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
+          "size": 16986931
+        }
+      ],
+      "version": "1.0.41",
+      "versionDate": "2024-11-01 05:56:56",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/865",
+      "formatedsize": "16.2 MB",
+      "size": 16986931
+    },
+    {
       "name": "VPN - Opus - Cracked",
       "bundleIdentifier": "com.biel.opus.vpn",
       "developerName": "nabzclan",
@@ -1406,46 +1446,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/681",
       "formatedsize": "17.2 MB",
       "size": 18035507
-    },
-    {
-      "name": "GigaBody: AI Muscle filter (Hack)",
-      "bundleIdentifier": "com.howoo.jang.expofirebase",
-      "developerName": "ty",
-      "subtitle": "Features:\r\npro features unlocked",
-      "localizedDescription": "Features:\r\npro features unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.howoo.jang.expofirebase\n\n Downloads: 332\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1727222097.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17272220951525469119.webp",
-        "https://apps.nabzclan.vip/screenshots/17272220958466451604.webp",
-        "https://apps.nabzclan.vip/screenshots/17272220960599461627.webp",
-        "https://apps.nabzclan.vip/screenshots/17272220963508548880.webp",
-        "https://apps.nabzclan.vip/screenshots/17272220965403467879.webp",
-        "https://apps.nabzclan.vip/screenshots/17272220970933785804.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.61.0",
-          "date": "2024-09-25 03:54:57",
-          "localizedDescription": "Current of GigaBody: AI Muscle filter (Hack) - 0.61.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/680",
-          "size": 48014295
-        },
-        {
-          "version": "0.61.0",
-          "date": "2024-09-25 03:54:57",
-          "localizedDescription": "Old Version of GigaBody: AI Muscle filter (Hack) - 0.61.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/680",
-          "size": 48014295
-        }
-      ],
-      "version": "0.61.0",
-      "versionDate": "2024-09-25 03:54:57",
-      "versionDescription": "Features:\r\npro features unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/680",
-      "formatedsize": "45.79 MB",
-      "size": 48014295
     },
     {
       "name": "Fortnite - EZFN",
