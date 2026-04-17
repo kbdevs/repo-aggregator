@@ -521,6 +521,17 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.CanYouJB.SamoXcZ.png"
     },
     {
+      "name": "CamScannerPremium",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.59.0",
+      "versionDate": "2024-09-28",
+      "size": 125089710,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CamScannerPremium/CamScannerPremium-6.59.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Injected with Premium. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
       "name": "CallAssist",
       "bundleIdentifier": "com.apple.mobilephone-call",
       "version": "14.15",
