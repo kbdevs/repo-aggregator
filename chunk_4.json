@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "FELFishEyeLens",
+      "type": 1,
+      "bundleID": "com.phantom.fantengmu",
+      "bundleIdentifier": "com.phantom.fantengmu",
+      "version": "2.1.3",
+      "versionDate": "2026-03-13",
+      "fullDate": "20260313232527",
+      "size": 75755651,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-03-2026/FELFishEyeLens_2.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-03-2026/FELFishEyeLens_2.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png"
+    },
+    {
+      "name": "WebSSH",
+      "type": 1,
+      "bundleID": "com.itimeteo.webssh",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "31.0",
+      "versionDate": "2026-03-13",
+      "fullDate": "20260313053745",
+      "size": 84308028,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-03-2026/WebSSH_31.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-03-2026/WebSSH_31.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png"
+    },
+    {
       "name": "NotePlan",
       "type": 1,
       "bundleID": "co.noteplan.NotePlan3",
@@ -1364,22 +1396,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.nota.png"
     },
     {
-      "name": "FarmVille2",
-      "type": 2,
-      "bundleID": "com.zynga.FarmVille2CountryEscape",
-      "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
-      "version": "29.2",
-      "versionDate": "2026-01-22",
-      "fullDate": "20260122042004",
-      "size": 358366826,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/FarmVille2_29.2_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/FarmVille2_29.2_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png"
-    },
-    {
       "name": "Across",
       "type": 1,
       "bundleID": "com.daymore.Across",
@@ -1778,22 +1794,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png"
-    },
-    {
-      "name": "FB",
-      "type": 1,
-      "bundleID": "com.vgfit.fitnessvip",
-      "bundleIdentifier": "com.vgfit.fitnessvip",
-      "version": "1.11.0",
-      "versionDate": "2026-01-04",
-      "fullDate": "20260104164719",
-      "size": 22935482,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/FB_1.11.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/FB_1.11.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png"
     }
   ],
   "userInfo": {}

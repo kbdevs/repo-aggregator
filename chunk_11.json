@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Artemis Pro",
+      "bundleIdentifier": "com.chemicalwedding.ArtemisPro",
+      "developerName": "The Pro Director's viewfinder",
+      "subtitle": "Artemis was the first digital viewfinder for smartphones. Over the years it has become an indispensable tool for professional filmmakers used by Oscar winners and film students the world over. Every day it helps people line up shots that become the world\u2019s favorite moments in film and television.  This year Artemis was awarded an Emmy for its contribution to filmmaking, an award for which we are very honored.",
+      "localizedDescription": "Artemis was the first digital viewfinder for smartphones. Over the years it has become an indispensable tool for professional filmmakers used by Oscar winners and film students the world over. Every day it helps people line up shots that become the world\u2019s favorite moments in film and television.  This year Artemis was awarded an Emmy for its contribution to filmmaking, an award for which we are very honored.\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.chemicalwedding.ArtemisPro\n\n Downloads: 455\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692901361.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16929013549648698419.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013574795927256.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013579409334338.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013583808925182.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013615215689215.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013618094060240.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.92",
+          "date": "2023-08-24 18:22:42",
+          "localizedDescription": "Current of Artemis Pro - 5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/191",
+          "size": 115647447
+        },
+        {
+          "version": "5.92",
+          "date": "2023-08-24 18:22:42",
+          "localizedDescription": "Old Version of Artemis Pro - 5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/191",
+          "size": 115647447
+        }
+      ],
+      "version": "5.92",
+      "versionDate": "2023-08-24 18:22:42",
+      "versionDescription": "Artemis was the first digital viewfinder for smartphones. Over the years it has become an indispensable tool for professional filmmakers used by Oscar winners and film students the world over. Every day it helps people line up shots that become the world\u2019s favorite moments in film and television.  This year Artemis was awarded an Emmy for its contribution to filmmaking, an award for which we are very honored.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/191",
+      "formatedsize": "110.29 MB",
+      "size": 115647447
+    },
+    {
       "name": "VPN Rocket - (premium)",
       "bundleIdentifier": "com.vpnmaster.VPNOneTap",
       "developerName": "VPN Service for everyone",
@@ -1454,17 +1494,6 @@
       "developerName": "CyPwn IPA Library",
       "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
-    },
-    {
-      "name": "Limon",
-      "bundleIdentifier": "com.antique.Limon",
-      "version": "1.0.8.4",
-      "versionDate": "2024-10-09",
-      "size": 17299572,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Limon/Limon-1.0.8.4.ipa",
-      "developerName": "emuPlace",
-      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
     }
   ],
   "userInfo": {}

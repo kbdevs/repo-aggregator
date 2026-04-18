@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "FocusKeeper",
+      "type": 1,
+      "bundleID": "com.limepresso.pomodorofree",
+      "bundleIdentifier": "com.limepresso.pomodorofree",
+      "version": "4.1.4",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215180026",
+      "size": 392419915,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/FocusKeeper_4.1.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/FocusKeeper_4.1.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png"
+    },
+    {
       "name": "Jetpack",
       "type": 2,
       "bundleID": "com.halfbrick.jetpack",
@@ -1778,22 +1794,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.aplusai.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.aplusai.png"
-    },
-    {
-      "name": "SigStick",
-      "type": 1,
-      "bundleID": "com.ooeric.SignStick1",
-      "bundleIdentifier": "com.ooeric.SignStick1",
-      "version": "5.32.2",
-      "versionDate": "2025-10-09",
-      "fullDate": "20251009232428",
-      "size": 59252398,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/SigStick_5.32.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/SigStick_5.32.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png"
     }
   ],
   "userInfo": {}
