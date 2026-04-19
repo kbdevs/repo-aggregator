@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Heartify",
+      "type": 1,
+      "bundleID": "com.heartify",
+      "bundleIdentifier": "com.heartify",
+      "version": "2.4.9",
+      "versionDate": "2026-01-05",
+      "fullDate": "20260105155010",
+      "size": 205504941,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-01-2026/Heartify_2.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-01-2026/Heartify_2.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png"
+    },
+    {
       "name": "FB",
       "type": 1,
       "bundleID": "com.vgfit.fitnessvip",
@@ -482,22 +498,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nl.jeffreykuiken.NoirApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nl.jeffreykuiken.NoirApp.png"
-    },
-    {
-      "name": "Soulver",
-      "type": 1,
-      "bundleID": "app.soulver.appstore.mac",
-      "bundleIdentifier": "app.soulver.appstore.mac",
-      "version": "3.15.2",
-      "versionDate": "2025-12-29",
-      "fullDate": "20251229150328",
-      "size": 14330957,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-12-2025/Soulver_3.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-12-2025/Soulver_3.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.soulver.appstore.mac.png"
     },
     {
       "name": "ImgAI",

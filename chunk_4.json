@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "GlowUp",
+      "type": 1,
+      "bundleID": "com.snowcorp.glowup",
+      "bundleIdentifier": "com.snowcorp.glowup",
+      "version": "4.1.0",
+      "versionDate": "2026-03-14",
+      "fullDate": "20260314052806",
+      "size": 181367560,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-03-2026/GlowUp_4.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-03-2026/GlowUp_4.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png"
+    },
+    {
+      "name": "Scoreboard",
+      "type": 1,
+      "bundleID": "com.edwinchan.Scoreboard",
+      "bundleIdentifier": "com.edwinchan.Scoreboard",
+      "version": "1.8.5",
+      "versionDate": "2026-03-14",
+      "fullDate": "20260314040120",
+      "size": 15435097,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-03-2026/Scoreboard_1.8.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-03-2026/Scoreboard_1.8.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png"
+    },
+    {
       "name": "FELFishEyeLens",
       "type": 1,
       "bundleID": "com.phantom.fantengmu",
@@ -1284,22 +1316,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png"
     },
     {
-      "name": "MagicEraser",
-      "type": 1,
-      "bundleID": "com.hhp.magicEraser",
-      "bundleIdentifier": "com.hhp.magicEraser",
-      "version": "3.12.0",
-      "versionDate": "2026-01-25",
-      "fullDate": "20260125060139",
-      "size": 244472117,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2026/MagicEraser_3.12.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2026/MagicEraser_3.12.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png"
-    },
-    {
       "name": "flipclock",
       "type": 1,
       "bundleID": "com.cuilingshi.flipclock",
@@ -1778,22 +1794,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png"
-    },
-    {
-      "name": "Heartify",
-      "type": 1,
-      "bundleID": "com.heartify",
-      "bundleIdentifier": "com.heartify",
-      "version": "2.4.9",
-      "versionDate": "2026-01-05",
-      "fullDate": "20260105155010",
-      "size": 205504941,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-01-2026/Heartify_2.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-01-2026/Heartify_2.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png"
     }
   ],
   "userInfo": {}
