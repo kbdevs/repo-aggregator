@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Lampa",
+      "type": 1,
+      "bundleID": "com.lampa.photo",
+      "bundleIdentifier": "com.lampa.photo",
+      "version": "2.0.2",
+      "versionDate": "2026-03-15",
+      "fullDate": "20260315025101",
+      "size": 86234441,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-03-2026/Lampa_2.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-03-2026/Lampa_2.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png"
+    },
+    {
       "name": "GlowUp",
       "type": 1,
       "bundleID": "com.snowcorp.glowup",
@@ -98,22 +114,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png"
-    },
-    {
-      "name": "OnTheWay",
-      "type": 1,
-      "bundleID": "ideastudio.Weather-on-the-Way",
-      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
-      "version": "2.5.1",
-      "versionDate": "2026-03-12",
-      "fullDate": "20260312142841",
-      "size": 43976496,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/OnTheWay_2.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/OnTheWay_2.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png"
     },
     {
       "name": "GREC",
@@ -1188,22 +1188,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png"
     },
     {
-      "name": "Leto",
-      "type": 1,
-      "bundleID": "biser.stories",
-      "bundleIdentifier": "biser.stories",
-      "version": "8.5.4",
-      "versionDate": "2026-01-29",
-      "fullDate": "20260129224133",
-      "size": 172061638,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Leto_8.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Leto_8.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png"
-    },
-    {
       "name": "Runestone",
       "type": 1,
       "bundleID": "dk.simonbs.RunestoneEditor",
@@ -1794,6 +1778,38 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png"
+    },
+    {
+      "name": "Heartify",
+      "type": 1,
+      "bundleID": "com.heartify",
+      "bundleIdentifier": "com.heartify",
+      "version": "2.4.9",
+      "versionDate": "2026-01-05",
+      "fullDate": "20260105155010",
+      "size": 205504941,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-01-2026/Heartify_2.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-01-2026/Heartify_2.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png"
+    },
+    {
+      "name": "FB",
+      "type": 1,
+      "bundleID": "com.vgfit.fitnessvip",
+      "bundleIdentifier": "com.vgfit.fitnessvip",
+      "version": "1.11.0",
+      "versionDate": "2026-01-04",
+      "fullDate": "20260104164719",
+      "size": 22935482,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/FB_1.11.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/FB_1.11.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png"
     }
   ],
   "userInfo": {}
