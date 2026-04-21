@@ -4,6 +4,322 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Fortnite (Official)",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "subtitle": "Official Fortnite iOS app\r\n---\r\nFeatures:\r\n\u258eRemoved from the AppStore.\r\n\u258eRemoved FPS limitation.",
+      "localizedDescription": "Official Fortnite iOS app\r\n---\r\nFeatures:\r\n\u258eRemoved from the AppStore.\r\n\u258eRemoved FPS limitation.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.epicgames.FortniteGame\n\n Downloads: 3278\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1725790037.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17284633957382226.webp",
+        "https://apps.nabzclan.vip/screenshots/17284633958945606.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "33.30",
+          "date": "2025-02-02 12:22:53",
+          "localizedDescription": "Current of Fortnite (Official) - 33.30",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1183",
+          "size": 241256366
+        },
+        {
+          "version": "33.30",
+          "date": "2025-02-02 12:22:53",
+          "localizedDescription": "Old Version of Fortnite (Official) - 33.30",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1183",
+          "size": 241256366
+        }
+      ],
+      "version": "33.30",
+      "versionDate": "2025-02-02 12:22:53",
+      "versionDescription": "Official Fortnite iOS app\r\n---\r\nFeatures:\r\n\u258eRemoved from the AppStore.\r\n\u258eRemoved FPS limitation.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1183",
+      "formatedsize": "230.08 MB",
+      "size": 241256366
+    },
+    {
+      "name": "Two Dots: Connect the dots (Hacked)",
+      "bundleIdentifier": "com.weplaydots.twodots",
+      "developerName": "BabylonIPA",
+      "subtitle": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives",
+      "localizedDescription": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.weplaydots.twodots\n\n Downloads: 266\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1736553738.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17365537378528485558.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537379607436103.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537380584840845.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537381442767877.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537382538982293.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "8.83.0",
+          "date": "2025-01-10 19:02:18",
+          "localizedDescription": "Current of Two Dots: Connect the dots (Hacked) - 8.83.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
+          "size": 178257920
+        },
+        {
+          "version": "8.83.0",
+          "date": "2025-01-10 19:02:18",
+          "localizedDescription": "Old Version of Two Dots: Connect the dots (Hacked) - 8.83.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
+          "size": 178257920
+        }
+      ],
+      "version": "8.83.0",
+      "versionDate": "2025-01-10 19:02:18",
+      "versionDescription": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
+      "formatedsize": "170 MB",
+      "size": 178257920
+    },
+    {
+      "name": "Mob Control - Hack",
+      "bundleIdentifier": "com.vincentb.MobControl",
+      "developerName": "BabyloniPA",
+      "subtitle": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked",
+      "localizedDescription": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.vincentb.MobControl\n\n Downloads: 2309\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725954738.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17260541021956710.webp",
+        "https://apps.nabzclan.vip/screenshots/17260541022077645.webp",
+        "https://apps.nabzclan.vip/screenshots/17260541032701695.webp",
+        "https://apps.nabzclan.vip/screenshots/17260541035293190.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.21.51",
+          "date": "2025-01-10 18:59:11",
+          "localizedDescription": "Current of Mob Control - Hack - 1.21.51",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
+          "size": 211288064
+        },
+        {
+          "version": "2.80.3",
+          "date": "2024-12-14 13:22:42",
+          "localizedDescription": "Old Version of Mob Control - Hack - 2.80.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1091",
+          "size": 209400627
+        },
+        {
+          "version": "1.21.51",
+          "date": "2025-01-10 18:59:11",
+          "localizedDescription": "Old Version of Mob Control - Hack - 1.21.51",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
+          "size": 211288064
+        }
+      ],
+      "version": "1.21.51",
+      "versionDate": "2025-01-10 18:59:11",
+      "versionDescription": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
+      "formatedsize": "201.5 MB",
+      "size": 211288064
+    },
+    {
+      "name": "Find Hidden Objects\u30fbHidmont II (Hack)",
+      "bundleIdentifier": "com.cleverside.hidden",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.cleverside.hidden\n\n Downloads: 110\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1736552573.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17365525727087885442.webp",
+        "https://apps.nabzclan.vip/screenshots/17365525729639685123.webp",
+        "https://apps.nabzclan.vip/screenshots/17365525732193923979.webp",
+        "https://apps.nabzclan.vip/screenshots/17365525734604900367.webp",
+        "https://apps.nabzclan.vip/screenshots/17365525736507359356.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2025-01-10 18:42:54",
+          "localizedDescription": "Current of Find Hidden Objects\u30fbHidmont II (Hack) - 1.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1180",
+          "size": 94896128
+        },
+        {
+          "version": "1.2.0",
+          "date": "2025-01-10 18:42:54",
+          "localizedDescription": "Old Version of Find Hidden Objects\u30fbHidmont II (Hack) - 1.2.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1180",
+          "size": 94896128
+        }
+      ],
+      "version": "1.2.0",
+      "versionDate": "2025-01-10 18:42:54",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1180",
+      "formatedsize": "90.5 MB",
+      "size": 94896128
+    },
+    {
+      "name": "Lined: Connect the Dot Game (Hack)",
+      "bundleIdentifier": "com.lemel.flow",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.lemel.flow\n\n Downloads: 125\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1736552258.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17365522585105580480.webp",
+        "https://apps.nabzclan.vip/screenshots/17365522586428718918.webp",
+        "https://apps.nabzclan.vip/screenshots/17365522587592603421.webp",
+        "https://apps.nabzclan.vip/screenshots/17365522588708245453.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2025-01-10 18:37:39",
+          "localizedDescription": "Current of Lined: Connect the Dot Game (Hack) - 1.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1178",
+          "size": 57933824
+        },
+        {
+          "version": "1.1.0",
+          "date": "2025-01-10 18:37:39",
+          "localizedDescription": "Old Version of Lined: Connect the Dot Game (Hack) - 1.1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1178",
+          "size": 57933824
+        }
+      ],
+      "version": "1.1.0",
+      "versionDate": "2025-01-10 18:37:39",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1178",
+      "formatedsize": "55.25 MB",
+      "size": 57933824
+    },
+    {
+      "name": "Root Board Game",
+      "bundleIdentifier": "com.direwolfdigital.root",
+      "developerName": "Dire Wolf Digital",
+      "subtitle": "The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance\u2019s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.",
+      "localizedDescription": "The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance\u2019s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Free Paid Apps, Tweaked Apps\n\n BundleID: com.direwolfdigital.root\n\n Downloads: 75\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1736551495.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17365514945194251919.webp",
+        "https://apps.nabzclan.vip/screenshots/17365514946434312860.webp",
+        "https://apps.nabzclan.vip/screenshots/17365514947148721824.webp",
+        "https://apps.nabzclan.vip/screenshots/17365514947898089812.webp",
+        "https://apps.nabzclan.vip/screenshots/17365514948844437598.webp",
+        "https://apps.nabzclan.vip/screenshots/17365514949852749326.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.31.5",
+          "date": "2025-01-10 18:24:55",
+          "localizedDescription": "Current of Root Board Game - 1.31.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1175",
+          "size": 340682342
+        },
+        {
+          "version": "1.31.5",
+          "date": "2025-01-10 18:24:55",
+          "localizedDescription": "Old Version of Root Board Game - 1.31.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1175",
+          "size": 340682342
+        }
+      ],
+      "version": "1.31.5",
+      "versionDate": "2025-01-10 18:24:55",
+      "versionDescription": "The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance\u2019s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1175",
+      "formatedsize": "324.9 MB",
+      "size": 340682342
+    },
+    {
+      "name": "Small World - The Board Game",
+      "bundleIdentifier": "com.daysofwonder.SmallWorld",
+      "developerName": "TWIN SAILS INTERACTIVE",
+      "subtitle": "CONTROL FANTASY RACES, SET OFF TO CONQUER NEW LANDS, OVERTHROW YOUR ENEMIES AND CLAIM THE VICTORY!\r\nIn this digital adaptation of the legendary board game, dive into a world inhabited by whimsical fantasy races.",
+      "localizedDescription": "CONTROL FANTASY RACES, SET OFF TO CONQUER NEW LANDS, OVERTHROW YOUR ENEMIES AND CLAIM THE VICTORY!\r\nIn this digital adaptation of the legendary board game, dive into a world inhabited by whimsical fantasy races.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.daysofwonder.SmallWorld\n\n Downloads: 109\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1735778725.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17357787237822679151.webp",
+        "https://apps.nabzclan.vip/screenshots/17357787239246354765.webp",
+        "https://apps.nabzclan.vip/screenshots/17357787240985693599.webp",
+        "https://apps.nabzclan.vip/screenshots/17357787242721629932.webp",
+        "https://apps.nabzclan.vip/screenshots/17357787248444585922.webp",
+        "https://apps.nabzclan.vip/screenshots/17357787255302715416.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.0.6",
+          "date": "2025-01-01 19:45:25",
+          "localizedDescription": "Current of Small World - The Board Game - 3.0.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1162",
+          "size": 416074956
+        },
+        {
+          "version": "3.0.6",
+          "date": "2025-01-01 19:45:25",
+          "localizedDescription": "Old Version of Small World - The Board Game - 3.0.6",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1162",
+          "size": 416074956
+        }
+      ],
+      "version": "3.0.6",
+      "versionDate": "2025-01-01 19:45:25",
+      "versionDescription": "CONTROL FANTASY RACES, SET OFF TO CONQUER NEW LANDS, OVERTHROW YOUR ENEMIES AND CLAIM THE VICTORY!\r\nIn this digital adaptation of the legendary board game, dive into a world inhabited by whimsical fantasy races.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1162",
+      "formatedsize": "396.8 MB",
+      "size": 416074956
+    },
+    {
+      "name": "Car Simulator Multiplayer 2024 (Hacked)",
+      "bundleIdentifier": "com.cargame2021.simulator",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.cargame2021.simulator\n\n Downloads: 1911\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1731627348.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17316273472773746380.webp",
+        "https://apps.nabzclan.vip/screenshots/17316273475435724562.webp",
+        "https://apps.nabzclan.vip/screenshots/17316273477367139932.webp",
+        "https://apps.nabzclan.vip/screenshots/17316273479353048627.webp",
+        "https://apps.nabzclan.vip/screenshots/17316273480729827676.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.23",
+          "date": "2025-01-01 19:37:45",
+          "localizedDescription": "Current of Car Simulator Multiplayer 2024 (Hacked) - 1.23",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1010",
+          "size": 91645542
+        },
+        {
+          "version": "1.23",
+          "date": "2025-01-01 19:37:45",
+          "localizedDescription": "Old Version of Car Simulator Multiplayer 2024 (Hacked) - 1.23",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1010",
+          "size": 91645542
+        }
+      ],
+      "version": "1.23",
+      "versionDate": "2025-01-01 19:37:45",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1010",
+      "formatedsize": "87.4 MB",
+      "size": 91645542
+    },
+    {
       "name": "Halls of Torment: Premium",
       "bundleIdentifier": "com.halls.of.torment.paid.ios",
       "developerName": "Erabit Studios",
@@ -4419,379 +4735,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/875",
       "formatedsize": "258.45 MB",
       "size": 271004467
-    },
-    {
-      "name": "Duskwood - Detective Story (Hack)",
-      "bundleIdentifier": "com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood\n\n Downloads: 241\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730596939.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17305969322854225948.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969335808625415.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969351109857744.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969373671183483.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969387867241077.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.10.14",
-          "date": "2024-11-03 06:22:19",
-          "localizedDescription": "Current of Duskwood - Detective Story (Hack) - 1.10.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/872",
-          "size": 180250214
-        },
-        {
-          "version": "1.10.14",
-          "date": "2024-11-03 06:22:19",
-          "localizedDescription": "Old Version of Duskwood - Detective Story (Hack) - 1.10.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/872",
-          "size": 180250214
-        }
-      ],
-      "version": "1.10.14",
-      "versionDate": "2024-11-03 06:22:19",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/872",
-      "formatedsize": "171.9 MB",
-      "size": 180250214
-    },
-    {
-      "name": "Microsoft Math",
-      "bundleIdentifier": "com.microsoft.math",
-      "developerName": "Microsoft",
-      "subtitle": "A handy app for learning and solving math problems that helps users of different levels. Microsoft Math allows you to scan problems, solve equations, create graphs, and get step-by-step explanations to gain a deeper understanding of math. A great tool for students who need support when solving math problems.",
-      "localizedDescription": "A handy app for learning and solving math problems that helps users of different levels. Microsoft Math allows you to scan problems, solve equations, create graphs, and get step-by-step explanations to gain a deeper understanding of math. A great tool for students who need support when solving math problems.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.microsoft.math\n\n Downloads: 292\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1730595048.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.10.188",
-          "date": "2024-11-03 04:50:49",
-          "localizedDescription": "Current of Microsoft Math - 1.10.188",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/869",
-          "size": 22334668
-        },
-        {
-          "version": "1.10.188",
-          "date": "2024-11-03 04:50:49",
-          "localizedDescription": "Old Version of Microsoft Math - 1.10.188",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/869",
-          "size": 22334668
-        }
-      ],
-      "version": "1.10.188",
-      "versionDate": "2024-11-03 04:50:49",
-      "versionDescription": "A handy app for learning and solving math problems that helps users of different levels. Microsoft Math allows you to scan problems, solve equations, create graphs, and get step-by-step explanations to gain a deeper understanding of math. A great tool for students who need support when solving math problems.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/869",
-      "formatedsize": "21.3 MB",
-      "size": 22334668
-    },
-    {
-      "name": "Trump Is Back",
-      "bundleIdentifier": "com.fatih.trump",
-      "developerName": "fatih beceren",
-      "subtitle": "Step into the pulse-pounding world of modern politics with 'Trump is Back' an exhilarating strategy game. As you gear up for the 2024 elections, manage Trump's campaign to win over your strongest supporters and race towards the White House",
-      "localizedDescription": "Step into the pulse-pounding world of modern politics with 'Trump is Back' an exhilarating strategy game. As you gear up for the 2024 elections, manage Trump's campaign to win over your strongest supporters and race towards the White House\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.fatih.trump\n\n Downloads: 239\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730593862.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3",
-          "date": "2024-11-03 04:30:56",
-          "localizedDescription": "Current of Trump Is Back - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/867",
-          "size": 16127098
-        },
-        {
-          "version": "1.3",
-          "date": "2024-11-03 04:30:56",
-          "localizedDescription": "Old Version of Trump Is Back - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/867",
-          "size": 16127098
-        }
-      ],
-      "version": "1.3",
-      "versionDate": "2024-11-03 04:30:56",
-      "versionDescription": "Step into the pulse-pounding world of modern politics with 'Trump is Back' an exhilarating strategy game. As you gear up for the 2024 elections, manage Trump's campaign to win over your strongest supporters and race towards the White House",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/867",
-      "formatedsize": "15.38 MB",
-      "size": 16127098
-    },
-    {
-      "name": "Spike Stats - Valorant Tracker (Hack)",
-      "bundleIdentifier": "com.crocusgames.spikestats",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps, Free in app purchases\n\n BundleID: com.crocusgames.spikestats\n\n Downloads: 156\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730426216.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17304262157219568194.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262158015672823.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262158539120405.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262160785926787.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262162114037070.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262167451479395.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.41",
-          "date": "2024-11-01 05:56:56",
-          "localizedDescription": "Current of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-          "size": 16986931
-        },
-        {
-          "version": "1.0.41",
-          "date": "2024-11-01 05:56:56",
-          "localizedDescription": "Old Version of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-          "size": 16986931
-        }
-      ],
-      "version": "1.0.41",
-      "versionDate": "2024-11-01 05:56:56",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-      "formatedsize": "16.2 MB",
-      "size": 16986931
-    },
-    {
-      "name": "VPN - Opus - Cracked",
-      "bundleIdentifier": "com.biel.opus.vpn",
-      "developerName": "nabzclan",
-      "subtitle": "cracked version",
-      "localizedDescription": "cracked version\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.biel.opus.vpn\n\n Downloads: 2311\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725796359.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17257963522178580100.webp",
-        "https://apps.nabzclan.vip/screenshots/17257963539401560147.webp",
-        "https://apps.nabzclan.vip/screenshots/17257963559264770054.webp",
-        "https://apps.nabzclan.vip/screenshots/17257963560854185835.webp",
-        "https://apps.nabzclan.vip/screenshots/17257963579819859582.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.5",
-          "date": "2024-10-30 17:17:53",
-          "localizedDescription": "Current of VPN - Opus - Cracked - 1.8.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/862",
-          "size": 15005122
-        },
-        {
-          "version": "1.8.4",
-          "date": "2024-09-08 15:52:39",
-          "localizedDescription": "Old Version of VPN - Opus - Cracked - 1.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/505",
-          "size": 15120465
-        },
-        {
-          "version": "1.8.5",
-          "date": "2024-10-30 17:17:53",
-          "localizedDescription": "Old Version of VPN - Opus - Cracked - 1.8.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/862",
-          "size": 15005122
-        }
-      ],
-      "version": "1.8.5",
-      "versionDate": "2024-10-30 17:17:53",
-      "versionDescription": "cracked version",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/862",
-      "formatedsize": "14.31 MB",
-      "size": 15005122
-    },
-    {
-      "name": "Stumble Guys - Hack",
-      "bundleIdentifier": "com.kitkagames.fallbuddies",
-      "developerName": "BabyloniPA",
-      "subtitle": "Features:\r\n- Everything is Owned ( Emotes , Abilities , Animations, Footsteps )",
-      "localizedDescription": "Features:\r\n- Everything is Owned ( Emotes , Abilities , Animations, Footsteps )\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, BabyloniPA\n\n BundleID: com.kitkagames.fallbuddies\n\n Downloads: 1576\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725958653.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17259586520107344396.webp",
-        "https://apps.nabzclan.vip/screenshots/17259586524022348098.webp",
-        "https://apps.nabzclan.vip/screenshots/17259586525669915214.webp",
-        "https://apps.nabzclan.vip/screenshots/17259586527392227507.webp",
-        "https://apps.nabzclan.vip/screenshots/17259586528974806089.webp",
-        "https://apps.nabzclan.vip/screenshots/17259586530512276943.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "0.79.2",
-          "date": "2024-10-30 14:56:34",
-          "localizedDescription": "Current of Stumble Guys - Hack - 0.79.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/854",
-          "size": 930401484
-        },
-        {
-          "version": "0.76.2",
-          "date": "2024-09-10 12:57:33",
-          "localizedDescription": "Old Version of Stumble Guys - Hack - 0.76.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/519",
-          "size": 693727395
-        },
-        {
-          "version": "0.78.5",
-          "date": "2024-10-23 14:27:49",
-          "localizedDescription": "Old Version of Stumble Guys - Hack - 0.78.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/826",
-          "size": 921278873
-        },
-        {
-          "version": "0.79.2",
-          "date": "2024-10-30 14:56:34",
-          "localizedDescription": "Old Version of Stumble Guys - Hack - 0.79.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/854",
-          "size": 930401484
-        }
-      ],
-      "version": "0.79.2",
-      "versionDate": "2024-10-30 14:56:34",
-      "versionDescription": "Features:\r\n- Everything is Owned ( Emotes , Abilities , Animations, Footsteps )",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/854",
-      "formatedsize": "887.3 MB",
-      "size": 930401484
-    },
-    {
-      "name": "Angry birds Star Wars",
-      "bundleIdentifier": "com.rovio.angrybirdsstarwars",
-      "developerName": "Rovio Entertainment Ltd",
-      "subtitle": "This is the original angry birds Star Wars this app blew up when it first came out due to a mix of angry bird fans and Star Wars fans. Rio even made a Version 2 because of its. Popularity which you can also get on nabzclan. Eventually the app was sadly removed from the App Store but now it\u2019s back on the nabzclan app Library!",
-      "localizedDescription": "This is the original angry birds Star Wars this app blew up when it first came out due to a mix of angry bird fans and Star Wars fans. Rio even made a Version 2 because of its. Popularity which you can also get on nabzclan. Eventually the app was sadly removed from the App Store but now it\u2019s back on the nabzclan app Library!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.rovio.angrybirdsstarwars\n\n Downloads: 795\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1694981486.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.12",
-          "date": "2024-10-30 11:38:59",
-          "localizedDescription": "Current of Angry birds Star Wars - 1.5.12",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/845",
-          "size": 65399685
-        },
-        {
-          "version": "1.2.0",
-          "date": "2023-09-17 23:59:12",
-          "localizedDescription": "Old Version of Angry birds Star Wars - 1.2.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/225",
-          "size": 38147194
-        },
-        {
-          "version": "1.5.12",
-          "date": "2024-10-30 11:38:59",
-          "localizedDescription": "Old Version of Angry birds Star Wars - 1.5.12",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/845",
-          "size": 65399685
-        }
-      ],
-      "version": "1.5.12",
-      "versionDate": "2024-10-30 11:38:59",
-      "versionDescription": "This is the original angry birds Star Wars this app blew up when it first came out due to a mix of angry bird fans and Star Wars fans. Rio even made a Version 2 because of its. Popularity which you can also get on nabzclan. Eventually the app was sadly removed from the App Store but now it\u2019s back on the nabzclan app Library!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/845",
-      "formatedsize": "62.37 MB",
-      "size": 65399685
-    },
-    {
-      "name": "Picbox - (Hack)",
-      "bundleIdentifier": "co.evenedge.photoshootai",
-      "developerName": "ty",
-      "subtitle": "Features:\r\n- premium cracked",
-      "localizedDescription": "Features:\r\n- premium cracked\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: co.evenedge.photoshootai\n\n Downloads: 411\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1715228709.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17152287034237337406.webp",
-        "https://apps.nabzclan.vip/screenshots/17152287048639649308.webp",
-        "https://apps.nabzclan.vip/screenshots/17152287050396355912.webp",
-        "https://apps.nabzclan.vip/screenshots/17152287053032460520.webp",
-        "https://apps.nabzclan.vip/screenshots/17152287076868312764.webp",
-        "https://apps.nabzclan.vip/screenshots/17152287096946794314.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.2.1",
-          "date": "2024-10-30 11:25:29",
-          "localizedDescription": "Current of Picbox - (Hack) - 4.2.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/843",
-          "size": 40160460
-        },
-        {
-          "version": "4.2.1",
-          "date": "2024-10-30 11:25:29",
-          "localizedDescription": "Old Version of Picbox - (Hack) - 4.2.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/843",
-          "size": 40160460
-        }
-      ],
-      "version": "4.2.1",
-      "versionDate": "2024-10-30 11:25:29",
-      "versionDescription": "Features:\r\n- premium cracked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/843",
-      "formatedsize": "38.3 MB",
-      "size": 40160460
-    },
-    {
-      "name": "Cowabunga",
-      "bundleIdentifier": "com.leemin.Cowabunga",
-      "developerName": "leminlimez",
-      "subtitle": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox\r\n\r\n-- \r\nLearn more: https://github.com/leminlimez/Cowabunga?tab=readme-ov-file#cowabunga",
-      "localizedDescription": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox\r\n\r\n-- \r\nLearn more: https://github.com/leminlimez/Cowabunga?tab=readme-ov-file#cowabunga\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.leemin.Cowabunga\n\n Downloads: 406\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1730084913.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17300849311183995.webp",
-        "https://apps.nabzclan.vip/screenshots/17300849318108900.webp",
-        "https://apps.nabzclan.vip/screenshots/17300849317773702.webp",
-        "https://apps.nabzclan.vip/screenshots/17300849313902999.webp",
-        "https://apps.nabzclan.vip/screenshots/17300849325095260.webp",
-        "https://apps.nabzclan.vip/screenshots/17300849322648890.webp",
-        "https://apps.nabzclan.vip/screenshots/17300849323390659.webp",
-        "https://apps.nabzclan.vip/screenshots/17300849329019202.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "10.3.2",
-          "date": "2024-10-28 07:08:33",
-          "localizedDescription": "Current of Cowabunga - 10.3.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/838",
-          "size": 16252928
-        },
-        {
-          "version": "10.3.2",
-          "date": "2024-10-28 07:08:33",
-          "localizedDescription": "Old Version of Cowabunga - 10.3.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/838",
-          "size": 16252928
-        }
-      ],
-      "version": "10.3.2",
-      "versionDate": "2024-10-28 07:08:33",
-      "versionDescription": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox\r\n\r\n-- \r\nLearn more: https://github.com/leminlimez/Cowabunga?tab=readme-ov-file#cowabunga",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/838",
-      "formatedsize": "15.5 MB",
-      "size": 16252928
     }
   ],
   "userInfo": {}
