@@ -4,81 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
-      "name": "Brain Wash - Puzzle Mind Game (Hack)",
-      "bundleIdentifier": "com.hwg.sos",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.hwg.sos\n\n Downloads: 131\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730900003.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17308999969913271133.webp",
-        "https://apps.nabzclan.vip/screenshots/17308999975975706538.webp",
-        "https://apps.nabzclan.vip/screenshots/17308999978084139744.webp",
-        "https://apps.nabzclan.vip/screenshots/17308999990711845450.webp",
-        "https://apps.nabzclan.vip/screenshots/17309000012302478340.webp",
-        "https://apps.nabzclan.vip/screenshots/17309000015238119223.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.33.16",
-          "date": "2025-04-02 17:23:40",
-          "localizedDescription": "Current of Brain Wash - Puzzle Mind Game (Hack) - 1.33.16",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
-          "size": 220305817
-        },
-        {
-          "version": "1.33.16",
-          "date": "2025-04-02 17:23:40",
-          "localizedDescription": "Old Version of Brain Wash - Puzzle Mind Game (Hack) - 1.33.16",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
-          "size": 220305817
-        }
-      ],
-      "version": "1.33.16",
-      "versionDate": "2025-04-02 17:23:40",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
-      "formatedsize": "210.1 MB",
-      "size": 220305817
-    },
-    {
-      "name": "nds4ios",
-      "bundleIdentifier": "net.nerd.iNDS",
-      "developerName": "nds4ios team",
-      "subtitle": "The iNDS team brings you another emulator since you all loved iNDS",
-      "localizedDescription": "The iNDS team brings you another emulator since you all loved iNDS\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: net.nerd.iNDS\n\n Downloads: 1116\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1697759738.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2025-03-31 18:16:52",
-          "localizedDescription": "Current of nds4ios - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-          "size": 3103784
-        },
-        {
-          "version": "1.0",
-          "date": "2025-03-31 18:16:52",
-          "localizedDescription": "Old Version of nds4ios - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-          "size": 3103784
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2025-03-31 18:16:52",
-      "versionDescription": "The iNDS team brings you another emulator since you all loved iNDS",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-      "formatedsize": "2.96 MB",
-      "size": 3103784
-    },
-    {
       "name": "Evoland 2",
       "bundleIdentifier": "com.playdigious.evoland2",
       "developerName": "An indie tribute to gaming",
@@ -4629,6 +4554,126 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1187",
       "formatedsize": "116.93 MB",
       "size": 122609991
+    },
+    {
+      "name": "Fortnite (Official)",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "subtitle": "Official Fortnite iOS app\r\n---\r\nFeatures:\r\n\u258eRemoved from the AppStore.\r\n\u258eRemoved FPS limitation.",
+      "localizedDescription": "Official Fortnite iOS app\r\n---\r\nFeatures:\r\n\u258eRemoved from the AppStore.\r\n\u258eRemoved FPS limitation.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.epicgames.FortniteGame\n\n Downloads: 3278\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1725790037.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17284633957382226.webp",
+        "https://apps.nabzclan.vip/screenshots/17284633958945606.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "33.30",
+          "date": "2025-02-02 12:22:53",
+          "localizedDescription": "Current of Fortnite (Official) - 33.30",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1183",
+          "size": 241256366
+        },
+        {
+          "version": "33.30",
+          "date": "2025-02-02 12:22:53",
+          "localizedDescription": "Old Version of Fortnite (Official) - 33.30",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1183",
+          "size": 241256366
+        }
+      ],
+      "version": "33.30",
+      "versionDate": "2025-02-02 12:22:53",
+      "versionDescription": "Official Fortnite iOS app\r\n---\r\nFeatures:\r\n\u258eRemoved from the AppStore.\r\n\u258eRemoved FPS limitation.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1183",
+      "formatedsize": "230.08 MB",
+      "size": 241256366
+    },
+    {
+      "name": "Two Dots: Connect the dots (Hacked)",
+      "bundleIdentifier": "com.weplaydots.twodots",
+      "developerName": "BabylonIPA",
+      "subtitle": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives",
+      "localizedDescription": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.weplaydots.twodots\n\n Downloads: 266\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1736553738.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17365537378528485558.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537379607436103.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537380584840845.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537381442767877.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537382538982293.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "8.83.0",
+          "date": "2025-01-10 19:02:18",
+          "localizedDescription": "Current of Two Dots: Connect the dots (Hacked) - 8.83.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
+          "size": 178257920
+        },
+        {
+          "version": "8.83.0",
+          "date": "2025-01-10 19:02:18",
+          "localizedDescription": "Old Version of Two Dots: Connect the dots (Hacked) - 8.83.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
+          "size": 178257920
+        }
+      ],
+      "version": "8.83.0",
+      "versionDate": "2025-01-10 19:02:18",
+      "versionDescription": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
+      "formatedsize": "170 MB",
+      "size": 178257920
+    },
+    {
+      "name": "Mob Control - Hack",
+      "bundleIdentifier": "com.vincentb.MobControl",
+      "developerName": "BabyloniPA",
+      "subtitle": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked",
+      "localizedDescription": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.vincentb.MobControl\n\n Downloads: 2309\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725954738.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17260541021956710.webp",
+        "https://apps.nabzclan.vip/screenshots/17260541022077645.webp",
+        "https://apps.nabzclan.vip/screenshots/17260541032701695.webp",
+        "https://apps.nabzclan.vip/screenshots/17260541035293190.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.21.51",
+          "date": "2025-01-10 18:59:11",
+          "localizedDescription": "Current of Mob Control - Hack - 1.21.51",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
+          "size": 211288064
+        },
+        {
+          "version": "2.80.3",
+          "date": "2024-12-14 13:22:42",
+          "localizedDescription": "Old Version of Mob Control - Hack - 2.80.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1091",
+          "size": 209400627
+        },
+        {
+          "version": "1.21.51",
+          "date": "2025-01-10 18:59:11",
+          "localizedDescription": "Old Version of Mob Control - Hack - 1.21.51",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
+          "size": 211288064
+        }
+      ],
+      "version": "1.21.51",
+      "versionDate": "2025-01-10 18:59:11",
+      "versionDescription": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
+      "formatedsize": "201.5 MB",
+      "size": 211288064
     }
   ],
   "userInfo": {}

@@ -4,155 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
-      "name": "Duskwood - Detective Story (Hack)",
-      "bundleIdentifier": "com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood\n\n Downloads: 241\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730596939.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17305969322854225948.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969335808625415.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969351109857744.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969373671183483.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969387867241077.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.10.14",
-          "date": "2024-11-03 06:22:19",
-          "localizedDescription": "Current of Duskwood - Detective Story (Hack) - 1.10.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/872",
-          "size": 180250214
-        },
-        {
-          "version": "1.10.14",
-          "date": "2024-11-03 06:22:19",
-          "localizedDescription": "Old Version of Duskwood - Detective Story (Hack) - 1.10.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/872",
-          "size": 180250214
-        }
-      ],
-      "version": "1.10.14",
-      "versionDate": "2024-11-03 06:22:19",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/872",
-      "formatedsize": "171.9 MB",
-      "size": 180250214
-    },
-    {
-      "name": "Microsoft Math",
-      "bundleIdentifier": "com.microsoft.math",
-      "developerName": "Microsoft",
-      "subtitle": "A handy app for learning and solving math problems that helps users of different levels. Microsoft Math allows you to scan problems, solve equations, create graphs, and get step-by-step explanations to gain a deeper understanding of math. A great tool for students who need support when solving math problems.",
-      "localizedDescription": "A handy app for learning and solving math problems that helps users of different levels. Microsoft Math allows you to scan problems, solve equations, create graphs, and get step-by-step explanations to gain a deeper understanding of math. A great tool for students who need support when solving math problems.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.microsoft.math\n\n Downloads: 292\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1730595048.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.10.188",
-          "date": "2024-11-03 04:50:49",
-          "localizedDescription": "Current of Microsoft Math - 1.10.188",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/869",
-          "size": 22334668
-        },
-        {
-          "version": "1.10.188",
-          "date": "2024-11-03 04:50:49",
-          "localizedDescription": "Old Version of Microsoft Math - 1.10.188",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/869",
-          "size": 22334668
-        }
-      ],
-      "version": "1.10.188",
-      "versionDate": "2024-11-03 04:50:49",
-      "versionDescription": "A handy app for learning and solving math problems that helps users of different levels. Microsoft Math allows you to scan problems, solve equations, create graphs, and get step-by-step explanations to gain a deeper understanding of math. A great tool for students who need support when solving math problems.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/869",
-      "formatedsize": "21.3 MB",
-      "size": 22334668
-    },
-    {
-      "name": "Trump Is Back",
-      "bundleIdentifier": "com.fatih.trump",
-      "developerName": "fatih beceren",
-      "subtitle": "Step into the pulse-pounding world of modern politics with 'Trump is Back' an exhilarating strategy game. As you gear up for the 2024 elections, manage Trump's campaign to win over your strongest supporters and race towards the White House",
-      "localizedDescription": "Step into the pulse-pounding world of modern politics with 'Trump is Back' an exhilarating strategy game. As you gear up for the 2024 elections, manage Trump's campaign to win over your strongest supporters and race towards the White House\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.fatih.trump\n\n Downloads: 239\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730593862.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3",
-          "date": "2024-11-03 04:30:56",
-          "localizedDescription": "Current of Trump Is Back - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/867",
-          "size": 16127098
-        },
-        {
-          "version": "1.3",
-          "date": "2024-11-03 04:30:56",
-          "localizedDescription": "Old Version of Trump Is Back - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/867",
-          "size": 16127098
-        }
-      ],
-      "version": "1.3",
-      "versionDate": "2024-11-03 04:30:56",
-      "versionDescription": "Step into the pulse-pounding world of modern politics with 'Trump is Back' an exhilarating strategy game. As you gear up for the 2024 elections, manage Trump's campaign to win over your strongest supporters and race towards the White House",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/867",
-      "formatedsize": "15.38 MB",
-      "size": 16127098
-    },
-    {
-      "name": "Spike Stats - Valorant Tracker (Hack)",
-      "bundleIdentifier": "com.crocusgames.spikestats",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps, Free in app purchases\n\n BundleID: com.crocusgames.spikestats\n\n Downloads: 156\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730426216.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17304262157219568194.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262158015672823.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262158539120405.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262160785926787.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262162114037070.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262167451479395.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.41",
-          "date": "2024-11-01 05:56:56",
-          "localizedDescription": "Current of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-          "size": 16986931
-        },
-        {
-          "version": "1.0.41",
-          "date": "2024-11-01 05:56:56",
-          "localizedDescription": "Old Version of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-          "size": 16986931
-        }
-      ],
-      "version": "1.0.41",
-      "versionDate": "2024-11-01 05:56:56",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-      "formatedsize": "16.2 MB",
-      "size": 16986931
-    },
-    {
       "name": "VPN - Opus - Cracked",
       "bundleIdentifier": "com.biel.opus.vpn",
       "developerName": "nabzclan",
@@ -4621,6 +4472,195 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/204",
       "formatedsize": "2.05 GB",
       "size": 2201170739
+    },
+    {
+      "name": "Pixelmator",
+      "bundleIdentifier": "com.pixelmatorteam.pixelmator.touch",
+      "developerName": "Design, paint, retouch",
+      "subtitle": "Pixelmator is a powerful, full-featured, layer-based image editor that lets you add shapes, images, and text to create beautiful image compositions, touch up and enhance images, sketch, and paint on iPad and iPhone alike.",
+      "localizedDescription": "Pixelmator is a powerful, full-featured, layer-based image editor that lets you add shapes, images, and text to create beautiful image compositions, touch up and enhance images, sketch, and paint on iPad and iPhone alike.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.pixelmatorteam.pixelmator.touch\n\n Downloads: 490\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692902915.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16929029112858541728.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029129797988287.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029141107817664.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029144124123838.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029145854832944.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029148358761373.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.9.2",
+          "date": "2023-08-24 18:48:35",
+          "localizedDescription": "Current of Pixelmator - 2.9.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/193",
+          "size": 427043061
+        },
+        {
+          "version": "2.9.2",
+          "date": "2023-08-24 18:48:35",
+          "localizedDescription": "Old Version of Pixelmator - 2.9.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/193",
+          "size": 427043061
+        }
+      ],
+      "version": "2.9.2",
+      "versionDate": "2023-08-24 18:48:35",
+      "versionDescription": "Pixelmator is a powerful, full-featured, layer-based image editor that lets you add shapes, images, and text to create beautiful image compositions, touch up and enhance images, sketch, and paint on iPad and iPhone alike.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/193",
+      "formatedsize": "407.26 MB",
+      "size": 427043061
+    },
+    {
+      "name": "Puffin Cloud Browser",
+      "bundleIdentifier": "com.cloudmosa.puffin",
+      "developerName": "Puffin Cloud Browser",
+      "subtitle": "DISCLAIMER: Puffin Cloud Browser is NOT a web browser.",
+      "localizedDescription": "DISCLAIMER: Puffin Cloud Browser is NOT a web browser.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.cloudmosa.puffin\n\n Downloads: 785\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692901750.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16929017493415858559.webp",
+        "https://apps.nabzclan.vip/screenshots/16929017497546385986.webp",
+        "https://apps.nabzclan.vip/screenshots/16929017501891448338.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.2.5",
+          "date": "2023-08-24 18:29:10",
+          "localizedDescription": "Current of Puffin Cloud Browser - 5.2.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/192",
+          "size": 64036536
+        },
+        {
+          "version": "5.2.5",
+          "date": "2023-08-24 18:29:10",
+          "localizedDescription": "Old Version of Puffin Cloud Browser - 5.2.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/192",
+          "size": 64036536
+        }
+      ],
+      "version": "5.2.5",
+      "versionDate": "2023-08-24 18:29:10",
+      "versionDescription": "DISCLAIMER: Puffin Cloud Browser is NOT a web browser.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/192",
+      "formatedsize": "61.07 MB",
+      "size": 64036536
+    },
+    {
+      "name": "Artemis Pro",
+      "bundleIdentifier": "com.chemicalwedding.ArtemisPro",
+      "developerName": "The Pro Director's viewfinder",
+      "subtitle": "Artemis was the first digital viewfinder for smartphones. Over the years it has become an indispensable tool for professional filmmakers used by Oscar winners and film students the world over. Every day it helps people line up shots that become the world\u2019s favorite moments in film and television.  This year Artemis was awarded an Emmy for its contribution to filmmaking, an award for which we are very honored.",
+      "localizedDescription": "Artemis was the first digital viewfinder for smartphones. Over the years it has become an indispensable tool for professional filmmakers used by Oscar winners and film students the world over. Every day it helps people line up shots that become the world\u2019s favorite moments in film and television.  This year Artemis was awarded an Emmy for its contribution to filmmaking, an award for which we are very honored.\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.chemicalwedding.ArtemisPro\n\n Downloads: 455\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692901361.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16929013549648698419.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013574795927256.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013579409334338.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013583808925182.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013615215689215.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013618094060240.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.92",
+          "date": "2023-08-24 18:22:42",
+          "localizedDescription": "Current of Artemis Pro - 5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/191",
+          "size": 115647447
+        },
+        {
+          "version": "5.92",
+          "date": "2023-08-24 18:22:42",
+          "localizedDescription": "Old Version of Artemis Pro - 5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/191",
+          "size": 115647447
+        }
+      ],
+      "version": "5.92",
+      "versionDate": "2023-08-24 18:22:42",
+      "versionDescription": "Artemis was the first digital viewfinder for smartphones. Over the years it has become an indispensable tool for professional filmmakers used by Oscar winners and film students the world over. Every day it helps people line up shots that become the world\u2019s favorite moments in film and television.  This year Artemis was awarded an Emmy for its contribution to filmmaking, an award for which we are very honored.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/191",
+      "formatedsize": "110.29 MB",
+      "size": 115647447
+    },
+    {
+      "name": "VPN Rocket - (premium)",
+      "bundleIdentifier": "com.vpnmaster.VPNOneTap",
+      "developerName": "VPN Service for everyone",
+      "subtitle": "injected with premium",
+      "localizedDescription": "injected with premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.vpnmaster.VPNOneTap\n\n Downloads: 4406\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692898066.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16928980636077548317.webp",
+        "https://apps.nabzclan.vip/screenshots/16928980645124846448.webp",
+        "https://apps.nabzclan.vip/screenshots/16928980655103025970.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2023-08-24 17:27:46",
+          "localizedDescription": "Current of VPN Rocket - (premium) - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
+          "size": 8199864
+        },
+        {
+          "version": "1.5",
+          "date": "2023-08-24 17:27:46",
+          "localizedDescription": "Old Version of VPN Rocket - (premium) - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
+          "size": 8199864
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2023-08-24 17:27:46",
+      "versionDescription": "injected with premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/186",
+      "formatedsize": "7.82 MB",
+      "size": 8199864
+    },
+    {
+      "name": "Angry birds rio",
+      "bundleIdentifier": "com.rovio.baba",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Angry birds rio is a Limited addition angry birds game based off the movie rio and even though it was not nearly as Successful as angry birds Star Wars fans still loved it!",
+      "localizedDescription": "Angry birds rio is a Limited addition angry birds game based off the movie rio and even though it was not nearly as Successful as angry birds Star Wars fans still loved it!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.rovio.baba\n\n Downloads: 901\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692739625.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.6.9",
+          "date": "2023-08-24 02:48:09",
+          "localizedDescription": "Current of Angry birds rio - 2.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/175",
+          "size": 60261662
+        },
+        {
+          "version": "2.6.9",
+          "date": "2023-08-24 02:48:09",
+          "localizedDescription": "Old Version of Angry birds rio - 2.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/175",
+          "size": 60261662
+        }
+      ],
+      "version": "2.6.9",
+      "versionDate": "2023-08-24 02:48:09",
+      "versionDescription": "Angry birds rio is a Limited addition angry birds game based off the movie rio and even though it was not nearly as Successful as angry birds Star Wars fans still loved it!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/175",
+      "formatedsize": "57.47 MB",
+      "size": 60261662
     }
   ],
   "userInfo": {}
