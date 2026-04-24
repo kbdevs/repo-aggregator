@@ -4,6 +4,86 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "BrainTest3",
+      "type": 2,
+      "bundleID": "com.unicostudio.braintest3",
+      "bundleIdentifier": "com.unicostudio.braintest3",
+      "version": "1.77.0",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010154232",
+      "size": 111995342,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/BrainTest3_1.77.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/BrainTest3_1.77.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest3.png"
+    },
+    {
+      "name": "PhotoEditorPublic",
+      "type": 1,
+      "bundleID": "com.bb.Presets",
+      "bundleIdentifier": "com.bb.Presets",
+      "version": "1.22.0",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010103653",
+      "size": 155010326,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/PhotoEditorPublic_1.22.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/PhotoEditorPublic_1.22.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bb.Presets.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bb.Presets.png"
+    },
+    {
+      "name": "VideoGPTPublic",
+      "type": 1,
+      "bundleID": "com.elven.video",
+      "bundleIdentifier": "com.elven.video",
+      "version": "4.7",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010023037",
+      "size": 242326016,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/VideoGPTPublic_4.7_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/VideoGPTPublic_4.7_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elven.video.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elven.video.png"
+    },
+    {
+      "name": "ReminiPublic",
+      "type": 1,
+      "bundleID": "com.bigwinepot.nwdn.international",
+      "bundleIdentifier": "com.bigwinepot.nwdn.international",
+      "version": "2.10.156",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010015024",
+      "size": 154617594,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/ReminiPublic_2.10.156_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/ReminiPublic_2.10.156_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png"
+    },
+    {
+      "name": "StudyCards",
+      "type": 1,
+      "bundleID": "com.cameronshemilt.StudyCards",
+      "bundleIdentifier": "com.cameronshemilt.StudyCards",
+      "version": "3.1.1",
+      "versionDate": "2025-10-10",
+      "fullDate": "20251010005505",
+      "size": 27802020,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/StudyCards_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/StudyCards_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cameronshemilt.StudyCards.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cameronshemilt.StudyCards.png"
+    },
+    {
       "name": "AAI",
       "type": 1,
       "bundleID": "app.aplusai",
@@ -2288,198 +2368,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
       "formatedsize": "103.6 MB",
       "size": 108632473
-    },
-    {
-      "name": "Vehicle Masters (Hacked)",
-      "bundleIdentifier": "com.pd.vehiclemasters",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.pd.vehiclemasters\n\n Downloads: 337\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731098117.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310981075477603869.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981092462563690.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981095171863531.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981113718553924.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981132886299945.webp",
-        "https://apps.nabzclan.vip/screenshots/17310981156442828018.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.38",
-          "date": "2025-04-02 17:41:41",
-          "localizedDescription": "Current of Vehicle Masters (Hacked) - 1.0.38",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
-          "size": 214119219
-        },
-        {
-          "version": "1.0.38",
-          "date": "2025-04-02 17:41:41",
-          "localizedDescription": "Old Version of Vehicle Masters (Hacked) - 1.0.38",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
-          "size": 214119219
-        }
-      ],
-      "version": "1.0.38",
-      "versionDate": "2025-04-02 17:41:41",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1349",
-      "formatedsize": "204.2 MB",
-      "size": 214119219
-    },
-    {
-      "name": "Dolly Zoom CAM (Hack)",
-      "bundleIdentifier": "me.nanolife.dollyzoom",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: me.nanolife.dollyzoom\n\n Downloads: 442\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730900247.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309002399007029184.webp",
-        "https://apps.nabzclan.vip/screenshots/17309002419843567017.webp",
-        "https://apps.nabzclan.vip/screenshots/17309002450355930462.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2025-04-02 17:34:54",
-          "localizedDescription": "Current of Dolly Zoom CAM (Hack) - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
-          "size": 16546529
-        },
-        {
-          "version": "1.2",
-          "date": "2025-04-02 17:34:54",
-          "localizedDescription": "Old Version of Dolly Zoom CAM (Hack) - 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
-          "size": 16546529
-        }
-      ],
-      "version": "1.2",
-      "versionDate": "2025-04-02 17:34:54",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1348",
-      "formatedsize": "15.78 MB",
-      "size": 16546529
-    },
-    {
-      "name": "Undercover: Word Party Game (Hack)",
-      "bundleIdentifier": "com.jojoyanyanproduction.CatchTheUndercover",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.jojoyanyanproduction.CatchTheUndercover\n\n Downloads: 107\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730905442.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309054343384064317.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054345244108745.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054362759684868.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054374546430803.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054393287086250.webp",
-        "https://apps.nabzclan.vip/screenshots/17309054405918520734.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.9.1",
-          "date": "2025-04-02 17:32:22",
-          "localizedDescription": "Current of Undercover: Word Party Game (Hack) - 5.9.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
-          "size": 65850572
-        },
-        {
-          "version": "5.9.1",
-          "date": "2025-04-02 17:32:22",
-          "localizedDescription": "Old Version of Undercover: Word Party Game (Hack) - 5.9.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
-          "size": 65850572
-        }
-      ],
-      "version": "5.9.1",
-      "versionDate": "2025-04-02 17:32:22",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1347",
-      "formatedsize": "62.8 MB",
-      "size": 65850572
-    },
-    {
-      "name": "Brain Wash - Puzzle Mind Game (Hack)",
-      "bundleIdentifier": "com.hwg.sos",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.hwg.sos\n\n Downloads: 131\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730900003.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17308999969913271133.webp",
-        "https://apps.nabzclan.vip/screenshots/17308999975975706538.webp",
-        "https://apps.nabzclan.vip/screenshots/17308999978084139744.webp",
-        "https://apps.nabzclan.vip/screenshots/17308999990711845450.webp",
-        "https://apps.nabzclan.vip/screenshots/17309000012302478340.webp",
-        "https://apps.nabzclan.vip/screenshots/17309000015238119223.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.33.16",
-          "date": "2025-04-02 17:23:40",
-          "localizedDescription": "Current of Brain Wash - Puzzle Mind Game (Hack) - 1.33.16",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
-          "size": 220305817
-        },
-        {
-          "version": "1.33.16",
-          "date": "2025-04-02 17:23:40",
-          "localizedDescription": "Old Version of Brain Wash - Puzzle Mind Game (Hack) - 1.33.16",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
-          "size": 220305817
-        }
-      ],
-      "version": "1.33.16",
-      "versionDate": "2025-04-02 17:23:40",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1345",
-      "formatedsize": "210.1 MB",
-      "size": 220305817
-    },
-    {
-      "name": "nds4ios",
-      "bundleIdentifier": "net.nerd.iNDS",
-      "developerName": "nds4ios team",
-      "subtitle": "The iNDS team brings you another emulator since you all loved iNDS",
-      "localizedDescription": "The iNDS team brings you another emulator since you all loved iNDS\n\n --- \n\n More app Information:\n\n Category: Emulators\n\n BundleID: net.nerd.iNDS\n\n Downloads: 1116\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1697759738.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2025-03-31 18:16:52",
-          "localizedDescription": "Current of nds4ios - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-          "size": 3103784
-        },
-        {
-          "version": "1.0",
-          "date": "2025-03-31 18:16:52",
-          "localizedDescription": "Old Version of nds4ios - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-          "size": 3103784
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2025-03-31 18:16:52",
-      "versionDescription": "The iNDS team brings you another emulator since you all loved iNDS",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/267",
-      "formatedsize": "2.96 MB",
-      "size": 3103784
     }
   ],
   "userInfo": {}
