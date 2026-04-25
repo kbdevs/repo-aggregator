@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "SimplySing",
+      "type": 1,
+      "bundleID": "com.joytunes.Sing",
+      "bundleIdentifier": "com.joytunes.Sing",
+      "version": "3.0.2",
+      "versionDate": "2026-03-22",
+      "fullDate": "20260322150355",
+      "size": 118864072,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-03-2026/SimplySing_3.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-03-2026/SimplySing_3.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png"
+    },
+    {
       "name": "Beelinguapp",
       "type": 1,
       "bundleID": "com.beelinguapp.beelinguapp",
@@ -1794,22 +1810,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png"
-    },
-    {
-      "name": "Cubasis3",
-      "type": 1,
-      "bundleID": "com.steinberg.cubasis3",
-      "bundleIdentifier": "com.steinberg.cubasis3",
-      "version": "3.8.2",
-      "versionDate": "2026-01-20",
-      "fullDate": "20260120040039",
-      "size": 864212735,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Cubasis3_3.8.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Cubasis3_3.8.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steinberg.cubasis3.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steinberg.cubasis3.png"
     }
   ],
   "userInfo": {}

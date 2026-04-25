@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Brave Merge - Battle & Defense (Hacked)",
+      "bundleIdentifier": "com.brave.merge",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.brave.merge\n\n Downloads: 243\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731098511.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310984989007288265.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985006859029764.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985026068335271.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985045738054193.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985070989418090.webp",
+        "https://apps.nabzclan.vip/screenshots/17310985095468917365.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.6.4",
+          "date": "2025-04-02 18:41:30",
+          "localizedDescription": "Current of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
+          "size": 108632473
+        },
+        {
+          "version": "1.6.4",
+          "date": "2025-04-02 18:41:30",
+          "localizedDescription": "Old Version of Brave Merge - Battle & Defense (Hacked) - 1.6.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
+          "size": 108632473
+        }
+      ],
+      "version": "1.6.4",
+      "versionDate": "2025-04-02 18:41:30",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1351",
+      "formatedsize": "103.6 MB",
+      "size": 108632473
+    },
+    {
       "name": "Vehicle Masters (Hacked)",
       "bundleIdentifier": "com.pd.vehiclemasters",
       "developerName": "Nabzclan",
@@ -4627,46 +4667,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/726",
       "formatedsize": "15.3 MB",
       "size": 16043212
-    },
-    {
-      "name": "Pocket City 2",
-      "bundleIdentifier": "com.codebrewgames.pocketcity2",
-      "developerName": "Codebrew Games Inc.",
-      "subtitle": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!",
-      "localizedDescription": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.codebrewgames.pocketcity2\n\n Downloads: 242\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1738519022.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17385190222952552899.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190223631168836.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190224113107020.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190224512202462.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190224998927889.webp",
-        "https://apps.nabzclan.vip/screenshots/17385190225426334231.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.080",
-          "date": "2025-02-02 12:57:02",
-          "localizedDescription": "Current of Pocket City 2 - 1.080",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
-          "size": 145542348
-        },
-        {
-          "version": "1.080",
-          "date": "2025-02-02 12:57:02",
-          "localizedDescription": "Old Version of Pocket City 2 - 1.080",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
-          "size": 145542348
-        }
-      ],
-      "version": "1.080",
-      "versionDate": "2025-02-02 12:57:02",
-      "versionDescription": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
-      "formatedsize": "138.8 MB",
-      "size": 145542348
     }
   ],
   "userInfo": {}

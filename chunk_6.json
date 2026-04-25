@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "MoneyCircle",
+      "type": 1,
+      "bundleID": "com.genau.MoneyCircle",
+      "bundleIdentifier": "com.genau.MoneyCircle",
+      "version": "2.8.6",
+      "versionDate": "2025-12-17",
+      "fullDate": "20251217160443",
+      "size": 13857800,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/MoneyCircle_2.8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/MoneyCircle_2.8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MoneyCircle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MoneyCircle.png"
+    },
+    {
       "name": "Pocket",
       "type": 1,
       "bundleID": "au.com.savageinteractive.procreate-pocket",
@@ -1794,22 +1810,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fm.overcast.overcast.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fm.overcast.overcast.png"
-    },
-    {
-      "name": "Smallpdf",
-      "type": 1,
-      "bundleID": "com.smallpdf.app.ios",
-      "bundleIdentifier": "com.smallpdf.app.ios",
-      "version": "1.53.60",
-      "versionDate": "2025-10-12",
-      "fullDate": "20251012010212",
-      "size": 108346784,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/Smallpdf_1.53.60_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/Smallpdf_1.53.60_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.smallpdf.app.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.smallpdf.app.ios.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,53 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Ultimate Golf (Hack)",
+      "bundleIdentifier": "com.hypgames.ultimategolf",
+      "developerName": "babyloniPA",
+      "subtitle": "Features:\r\n- Always a Perfect shot",
+      "localizedDescription": "Features:\r\n- Always a Perfect shot\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.hypgames.ultimategolf\n\n Downloads: 214\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1729677696.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17296776959287398557.webp",
+        "https://apps.nabzclan.vip/screenshots/17296776959885603496.webp",
+        "https://apps.nabzclan.vip/screenshots/17296776960439349200.webp",
+        "https://apps.nabzclan.vip/screenshots/17296776960932797633.webp",
+        "https://apps.nabzclan.vip/screenshots/17296776961426545867.webp",
+        "https://apps.nabzclan.vip/screenshots/17296776961853985446.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.17.02",
+          "date": "2024-11-03 07:29:01",
+          "localizedDescription": "Current of Ultimate Golf (Hack) - 4.17.02",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/879",
+          "size": 231735296
+        },
+        {
+          "version": "4.17.00",
+          "date": "2024-10-23 14:01:36",
+          "localizedDescription": "Old Version of Ultimate Golf (Hack) - 4.17.00",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/823",
+          "size": 221207592
+        },
+        {
+          "version": "4.17.02",
+          "date": "2024-11-03 07:29:01",
+          "localizedDescription": "Old Version of Ultimate Golf (Hack) - 4.17.02",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/879",
+          "size": 231735296
+        }
+      ],
+      "version": "4.17.02",
+      "versionDate": "2024-11-03 07:29:01",
+      "versionDescription": "Features:\r\n- Always a Perfect shot",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/879",
+      "formatedsize": "221.0 MB",
+      "size": 231735296
+    },
+    {
       "name": "Zombie Apocalypse\u30fbShooter Game (Hacked)",
       "bundleIdentifier": "com.RastleksGames.TheShootout",
       "developerName": "Nabzclan",
@@ -4621,46 +4668,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/206",
       "formatedsize": "1.21 MB",
       "size": 1268776
-    },
-    {
-      "name": "Modern Combat 5 (crosshair)",
-      "bundleIdentifier": "com.gameloft.ModernCombat5",
-      "developerName": "nabzclan",
-      "subtitle": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
-      "localizedDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.gameloft.ModernCombat5\n\n Downloads: 461\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1693270247.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16932702399685969951.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702415679766528.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702421277735400.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702431211422244.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702441202026711.webp",
-        "https://apps.nabzclan.vip/screenshots/16932702458386585984.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.8.9",
-          "date": "2023-08-29 00:50:48",
-          "localizedDescription": "Current of Modern Combat 5 (crosshair) - 5.8.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/204",
-          "size": 2201170739
-        },
-        {
-          "version": "5.8.9",
-          "date": "2023-08-29 00:50:48",
-          "localizedDescription": "Old Version of Modern Combat 5 (crosshair) - 5.8.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/204",
-          "size": 2201170739
-        }
-      ],
-      "version": "5.8.9",
-      "versionDate": "2023-08-29 00:50:48",
-      "versionDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/204",
-      "formatedsize": "2.05 GB",
-      "size": 2201170739
     }
   ],
   "userInfo": {}

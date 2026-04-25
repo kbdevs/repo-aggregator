@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Pocket City 2",
+      "bundleIdentifier": "com.codebrewgames.pocketcity2",
+      "developerName": "Codebrew Games Inc.",
+      "subtitle": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!",
+      "localizedDescription": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.codebrewgames.pocketcity2\n\n Downloads: 242\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1738519022.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17385190222952552899.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190223631168836.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190224113107020.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190224512202462.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190224998927889.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190225426334231.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.080",
+          "date": "2025-02-02 12:57:02",
+          "localizedDescription": "Current of Pocket City 2 - 1.080",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
+          "size": 145542348
+        },
+        {
+          "version": "1.080",
+          "date": "2025-02-02 12:57:02",
+          "localizedDescription": "Old Version of Pocket City 2 - 1.080",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
+          "size": 145542348
+        }
+      ],
+      "version": "1.080",
+      "versionDate": "2025-02-02 12:57:02",
+      "versionDescription": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
+      "formatedsize": "138.8 MB",
+      "size": 145542348
+    },
+    {
       "name": "Black Border 2",
       "bundleIdentifier": "com.bitzooma.blackborder2",
       "developerName": "MONTE CERVINO LTD",
@@ -4727,53 +4767,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/876",
       "formatedsize": "184.99 MB",
       "size": 193976074
-    },
-    {
-      "name": "Ultimate Golf (Hack)",
-      "bundleIdentifier": "com.hypgames.ultimategolf",
-      "developerName": "babyloniPA",
-      "subtitle": "Features:\r\n- Always a Perfect shot",
-      "localizedDescription": "Features:\r\n- Always a Perfect shot\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.hypgames.ultimategolf\n\n Downloads: 214\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1729677696.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17296776959287398557.webp",
-        "https://apps.nabzclan.vip/screenshots/17296776959885603496.webp",
-        "https://apps.nabzclan.vip/screenshots/17296776960439349200.webp",
-        "https://apps.nabzclan.vip/screenshots/17296776960932797633.webp",
-        "https://apps.nabzclan.vip/screenshots/17296776961426545867.webp",
-        "https://apps.nabzclan.vip/screenshots/17296776961853985446.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.17.02",
-          "date": "2024-11-03 07:29:01",
-          "localizedDescription": "Current of Ultimate Golf (Hack) - 4.17.02",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/879",
-          "size": 231735296
-        },
-        {
-          "version": "4.17.00",
-          "date": "2024-10-23 14:01:36",
-          "localizedDescription": "Old Version of Ultimate Golf (Hack) - 4.17.00",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/823",
-          "size": 221207592
-        },
-        {
-          "version": "4.17.02",
-          "date": "2024-11-03 07:29:01",
-          "localizedDescription": "Old Version of Ultimate Golf (Hack) - 4.17.02",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/879",
-          "size": 231735296
-        }
-      ],
-      "version": "4.17.02",
-      "versionDate": "2024-11-03 07:29:01",
-      "versionDescription": "Features:\r\n- Always a Perfect shot",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/879",
-      "formatedsize": "221.0 MB",
-      "size": 231735296
     }
   ],
   "userInfo": {}
