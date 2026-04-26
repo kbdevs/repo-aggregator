@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "SHRED",
+      "type": 1,
+      "bundleID": "com.shred.shredlabs",
+      "bundleIdentifier": "com.shred.shredlabs",
+      "version": "5.4.3",
+      "versionDate": "2026-04-13",
+      "fullDate": "20260413224957",
+      "size": 150402311,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-04-2026/SHRED_5.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-04-2026/SHRED_5.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png"
+    },
+    {
+      "name": "Swiftgram",
+      "type": 1,
+      "bundleID": "app.swiftgram.ios",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "version": "12.6.2",
+      "versionDate": "2026-04-13",
+      "fullDate": "20260413215351",
+      "size": 82029125,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-04-2026/Swiftgram_12.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-04-2026/Swiftgram_12.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
+    },
+    {
+      "name": "Textastic",
+      "type": 1,
+      "bundleID": "com.textasticapp.textastic-universal",
+      "bundleIdentifier": "com.textasticapp.textastic-universal",
+      "version": "10.9.4",
+      "versionDate": "2026-04-13",
+      "fullDate": "20260413205827",
+      "size": 12631786,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-04-2026/Textastic_10.9.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-04-2026/Textastic_10.9.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png"
+    },
+    {
       "name": "Photoshop",
       "type": 1,
       "bundleID": "com.adobe.photoshop.ios",
@@ -98,22 +146,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png"
-    },
-    {
-      "name": "Bazaart",
-      "type": 1,
-      "bundleID": "co.bazaart.app",
-      "bundleIdentifier": "co.bazaart.app",
-      "version": "26.1.6",
-      "versionDate": "2026-04-11",
-      "fullDate": "20260411231020",
-      "size": 98729934,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-04-2026/Bazaart_26.1.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-04-2026/Bazaart_26.1.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
     },
     {
       "name": "FitnessAI",
@@ -610,22 +642,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
-    },
-    {
-      "name": "FitnessOnline",
-      "type": 1,
-      "bundleID": "com.aiti.FitnessOnline",
-      "bundleIdentifier": "com.aiti.FitnessOnline",
-      "version": "1.14.0",
-      "versionDate": "2026-04-06",
-      "fullDate": "20260406090612",
-      "size": 111567708,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-04-2026/FitnessOnline_1.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-04-2026/FitnessOnline_1.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png"
     },
     {
       "name": "UpNote",
@@ -1794,22 +1810,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png"
-    },
-    {
-      "name": "Narwhal",
-      "type": 1,
-      "bundleID": "com.rickharrison.narwhal",
-      "bundleIdentifier": "com.rickharrison.narwhal",
-      "version": "2026.4",
-      "versionDate": "2026-03-23",
-      "fullDate": "20260323034511",
-      "size": 16799596,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/Narwhal_2026.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/Narwhal_2026.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png"
     }
   ],
   "userInfo": {}

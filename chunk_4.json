@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Narwhal",
+      "type": 1,
+      "bundleID": "com.rickharrison.narwhal",
+      "bundleIdentifier": "com.rickharrison.narwhal",
+      "version": "2026.4",
+      "versionDate": "2026-03-23",
+      "fullDate": "20260323034511",
+      "size": 16799596,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/Narwhal_2026.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/Narwhal_2026.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png"
+    },
+    {
       "name": "SimplySing",
       "type": 1,
       "bundleID": "com.joytunes.Sing",
@@ -1538,22 +1554,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png"
-    },
-    {
-      "name": "Bloomberg",
-      "type": 1,
-      "bundleID": "com.bloomberg.Bloomberg",
-      "bundleIdentifier": "com.bloomberg.Bloomberg",
-      "version": "6.51.1",
-      "versionDate": "2026-01-23",
-      "fullDate": "20260123171512",
-      "size": 25702367,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/Bloomberg_6.51.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/Bloomberg_6.51.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloomberg.Bloomberg.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloomberg.Bloomberg.png"
     },
     {
       "name": "NYTGames",
