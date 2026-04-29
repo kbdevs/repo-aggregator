@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "ReelsApp",
+      "type": 1,
+      "bundleID": "com.nextgen.reelsapp",
+      "bundleIdentifier": "com.nextgen.reelsapp",
+      "version": "7.7",
+      "versionDate": "2026-03-23",
+      "fullDate": "20260323195830",
+      "size": 92325723,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/ReelsApp_7.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/ReelsApp_7.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nextgen.reelsapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nextgen.reelsapp.png"
+    },
+    {
+      "name": "koala",
+      "type": 1,
+      "bundleID": "com.elf-audio.koala",
+      "bundleIdentifier": "com.elf-audio.koala",
+      "version": "1.4156",
+      "versionDate": "2026-03-23",
+      "fullDate": "20260323195824",
+      "size": 42004404,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/koala_1.4156_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/koala_1.4156_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elf-audio.koala.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elf-audio.koala.png"
+    },
+    {
+      "name": "WolframAlpha",
+      "type": 1,
+      "bundleID": "com.wolframalpha.wolframalphaviewer",
+      "bundleIdentifier": "com.wolframalpha.wolframalphaviewer",
+      "version": "2.6.2",
+      "versionDate": "2026-03-23",
+      "fullDate": "20260323194812",
+      "size": 181560932,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/WolframAlpha_2.6.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/WolframAlpha_2.6.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png"
+    },
+    {
       "name": "TypeAI",
       "type": 1,
       "bundleID": "com.codeway.AIKeyboard",
@@ -420,22 +468,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png"
     },
     {
-      "name": "GlowUp",
-      "type": 1,
-      "bundleID": "com.snowcorp.glowup",
-      "bundleIdentifier": "com.snowcorp.glowup",
-      "version": "4.1.0",
-      "versionDate": "2026-03-14",
-      "fullDate": "20260314052806",
-      "size": 181367560,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-03-2026/GlowUp_4.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-03-2026/GlowUp_4.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png"
-    },
-    {
       "name": "Scoreboard",
       "type": 1,
       "bundleID": "com.edwinchan.Scoreboard",
@@ -772,22 +804,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png"
     },
     {
-      "name": "Dehancer",
-      "type": 1,
-      "bundleID": "com.dehancer.film.ios-app",
-      "bundleIdentifier": "com.dehancer.film.ios-app",
-      "version": "5.5",
-      "versionDate": "2026-02-19",
-      "fullDate": "20260219011053",
-      "size": 186302298,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-02-2026/Dehancer_5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-02-2026/Dehancer_5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png"
-    },
-    {
       "name": "PictureThis",
       "type": 1,
       "bundleID": "cn.danatech.xingseus",
@@ -962,22 +978,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png"
-    },
-    {
-      "name": "MediaConvert",
-      "type": 1,
-      "bundleID": "com.verycoolapp.mediaconvert",
-      "bundleIdentifier": "com.verycoolapp.mediaconvert",
-      "version": "4.13",
-      "versionDate": "2026-02-10",
-      "fullDate": "20260210231914",
-      "size": 59860232,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-02-2026/MediaConvert_4.13_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-02-2026/MediaConvert_4.13_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png"
     },
     {
       "name": "iAWriter",
