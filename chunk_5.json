@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "FitnessCoach",
+      "type": 1,
+      "bundleID": "fitnessworkout.app",
+      "bundleIdentifier": "fitnessworkout.app",
+      "version": "2.13.1",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120144739",
+      "size": 162545823,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/FitnessCoach_2.13.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/FitnessCoach_2.13.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png"
+    },
+    {
       "name": "Cubasis3",
       "type": 1,
       "bundleID": "com.steinberg.cubasis3",
@@ -1794,22 +1810,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png"
-    },
-    {
-      "name": "Napper",
-      "type": 1,
-      "bundleID": "com.napper",
-      "bundleIdentifier": "com.napper",
-      "version": "6.28.0",
-      "versionDate": "2025-12-17",
-      "fullDate": "20251217160445",
-      "size": 31221344,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Napper_6.28.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Napper_6.28.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.napper.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.napper.png"
     }
   ],
   "userInfo": {}

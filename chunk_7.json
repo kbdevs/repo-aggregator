@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Overcast",
+      "type": 1,
+      "bundleID": "fm.overcast.overcast",
+      "bundleIdentifier": "fm.overcast.overcast",
+      "version": "2025.10",
+      "versionDate": "2025-10-12",
+      "fullDate": "20251012010718",
+      "size": 12706620,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/Overcast_2025.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/Overcast_2025.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fm.overcast.overcast.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fm.overcast.overcast.png"
+    },
+    {
       "name": "Smallpdf",
       "type": 1,
       "bundleID": "com.smallpdf.app.ios",
@@ -1250,22 +1266,6 @@
       "localizedDescription": "Injected with Satella",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png"
-    },
-    {
-      "name": "Unzip",
-      "type": 1,
-      "bundleID": "com.cuilingshi.fileextract",
-      "bundleIdentifier": "com.cuilingshi.fileextract",
-      "version": "5.13",
-      "versionDate": "2025-08-19",
-      "fullDate": "20250819080215",
-      "size": 49840525,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2025/Unzip_5.13_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2025/Unzip_5.13_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png"
     },
     {
       "name": "VoiceTube",
