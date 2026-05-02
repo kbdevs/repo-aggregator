@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "DiamondFinder",
+      "type": 1,
+      "bundleID": "com.mcdiamondfinder.app",
+      "bundleIdentifier": "com.mcdiamondfinder.app",
+      "version": "9.0.3",
+      "versionDate": "2026-03-26",
+      "fullDate": "20260326013022",
+      "size": 51600421,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/DiamondFinder_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/DiamondFinder_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
+    },
+    {
+      "name": "Motionleap",
+      "type": 1,
+      "bundleID": "com.lightricks.Enlight-Phoenix",
+      "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
+      "version": "1.9.36",
+      "versionDate": "2026-03-25",
+      "fullDate": "20260325165219",
+      "size": 178433991,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-03-2026/Motionleap_1.9.36_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-03-2026/Motionleap_1.9.36_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png"
+    },
+    {
       "name": "Fing",
       "type": 1,
       "bundleID": "overlook.fing",
@@ -1588,22 +1620,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png"
     },
     {
-      "name": "flipclock",
-      "type": 1,
-      "bundleID": "com.cuilingshi.flipclock",
-      "bundleIdentifier": "com.cuilingshi.flipclock",
-      "version": "6.18",
-      "versionDate": "2026-01-25",
-      "fullDate": "20260125060133",
-      "size": 37451790,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2026/flipclock_6.18_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2026/flipclock_6.18_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png"
-    },
-    {
       "name": "NYTGames",
       "type": 2,
       "bundleID": "com.magmic.NYTCrosswords09",
@@ -1794,22 +1810,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymstreak.GymStreakAI.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymstreak.GymStreakAI.png"
-    },
-    {
-      "name": "QuicheBrowser",
-      "type": 1,
-      "bundleID": "org.quiche.Browser",
-      "bundleIdentifier": "org.quiche.Browser",
-      "version": "1.68.3",
-      "versionDate": "2026-01-20",
-      "fullDate": "20260120154831",
-      "size": 86624203,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/QuicheBrowser_1.68.3_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/QuicheBrowser_1.68.3_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png"
     }
   ],
   "userInfo": {}
