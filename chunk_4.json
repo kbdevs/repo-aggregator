@@ -4,22 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
-      "name": "DiamondFinder",
-      "type": 1,
-      "bundleID": "com.mcdiamondfinder.app",
-      "bundleIdentifier": "com.mcdiamondfinder.app",
-      "version": "9.0.3",
-      "versionDate": "2026-03-26",
-      "fullDate": "20260326013022",
-      "size": 51600421,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/DiamondFinder_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/DiamondFinder_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
-    },
-    {
       "name": "Motionleap",
       "type": 1,
       "bundleID": "com.lightricks.Enlight-Phoenix",
@@ -1236,22 +1220,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png"
     },
     {
-      "name": "BrickOut",
-      "type": 2,
-      "bundleID": "com.puzzle1studio.ap.brickoutshoottheball",
-      "bundleIdentifier": "com.puzzle1studio.ap.brickoutshoottheball",
-      "version": "26.0205.00",
-      "versionDate": "2026-02-07",
-      "fullDate": "20260207025710",
-      "size": 90573522,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-02-2026/BrickOut_26.0205.00_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-02-2026/BrickOut_26.0205.00_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png"
-    },
-    {
       "name": "Fonts",
       "type": 1,
       "bundleID": "fontskeyboard.fonts",
@@ -1810,6 +1778,54 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymstreak.GymStreakAI.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymstreak.GymStreakAI.png"
+    },
+    {
+      "name": "QuicheBrowser",
+      "type": 1,
+      "bundleID": "org.quiche.Browser",
+      "bundleIdentifier": "org.quiche.Browser",
+      "version": "1.68.3",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120154831",
+      "size": 86624203,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/QuicheBrowser_1.68.3_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/QuicheBrowser_1.68.3_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png"
+    },
+    {
+      "name": "Gratitude",
+      "type": 1,
+      "bundleID": "com.northstar.gratitude",
+      "bundleIdentifier": "com.northstar.gratitude",
+      "version": "5.3.2",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120154312",
+      "size": 44551800,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Gratitude_5.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Gratitude_5.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.northstar.gratitude.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.northstar.gratitude.png"
+    },
+    {
+      "name": "ForzaFootball",
+      "type": 1,
+      "bundleID": "com.footballaddicts.livescoreaddicts",
+      "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
+      "version": "6.16.6",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120154306",
+      "size": 115772208,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/ForzaFootball_6.16.6_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/ForzaFootball_6.16.6_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png"
     }
   ],
   "userInfo": {}

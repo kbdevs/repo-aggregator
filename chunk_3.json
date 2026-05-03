@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "SlideShow",
+      "type": 1,
+      "bundleID": "com.spacegab.slideshow",
+      "bundleIdentifier": "com.spacegab.slideshow",
+      "version": "5.6.47",
+      "versionDate": "2026-04-20",
+      "fullDate": "20260420135537",
+      "size": 121014456,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/SlideShow_5.6.47_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/SlideShow_5.6.47_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png"
+    },
+    {
       "name": "CoinSnap",
       "type": 1,
       "bundleID": "com.coinidentifier.identifycoins",
@@ -578,22 +594,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png"
-    },
-    {
-      "name": "KeyLifts",
-      "type": 1,
-      "bundleID": "org.borrowedcache.ultimate531",
-      "bundleIdentifier": "org.borrowedcache.ultimate531",
-      "version": "5.19.5",
-      "versionDate": "2026-04-16",
-      "fullDate": "20260416040723",
-      "size": 30203890,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/KeyLifts_5.19.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/KeyLifts_5.19.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png"
     },
     {
       "name": "Lingvist",
@@ -1810,6 +1810,22 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hitpaw.photoenhancer.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hitpaw.photoenhancer.png"
+    },
+    {
+      "name": "DiamondFinder",
+      "type": 1,
+      "bundleID": "com.mcdiamondfinder.app",
+      "bundleIdentifier": "com.mcdiamondfinder.app",
+      "version": "9.0.3",
+      "versionDate": "2026-03-26",
+      "fullDate": "20260326013022",
+      "size": 51600421,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/DiamondFinder_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/DiamondFinder_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
     }
   ],
   "userInfo": {}
