@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "AIMarvels",
+      "type": 1,
+      "bundleID": "com.hitpaw.photoenhancer",
+      "bundleIdentifier": "com.hitpaw.photoenhancer",
+      "version": "1.101.0",
+      "versionDate": "2026-03-26",
+      "fullDate": "20260326072121",
+      "size": 179000620,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/AIMarvels_1.101.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/AIMarvels_1.101.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hitpaw.photoenhancer.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hitpaw.photoenhancer.png"
+    },
+    {
+      "name": "DiamondFinder",
+      "type": 1,
+      "bundleID": "com.mcdiamondfinder.app",
+      "bundleIdentifier": "com.mcdiamondfinder.app",
+      "version": "9.0.3",
+      "versionDate": "2026-03-26",
+      "fullDate": "20260326013022",
+      "size": 51600421,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/DiamondFinder_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2026/DiamondFinder_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
+    },
+    {
       "name": "Motionleap",
       "type": 1,
       "bundleID": "com.lightricks.Enlight-Phoenix",
@@ -1284,22 +1316,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innothenics.thenics.png"
     },
     {
-      "name": "FLStudioMobile",
-      "type": 1,
-      "bundleID": "com.imageline.FLStudioMobileHD",
-      "bundleIdentifier": "com.imageline.FLStudioMobileHD",
-      "version": "4.9.6",
-      "versionDate": "2026-02-03",
-      "fullDate": "20260203011408",
-      "size": 314066245,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/FLStudioMobile_4.9.6_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/FLStudioMobile_4.9.6_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imageline.FLStudioMobileHD.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imageline.FLStudioMobileHD.png"
-    },
-    {
       "name": "PapasDonuteriaToGo",
       "type": 2,
       "bundleID": "com.flipline.papasdonuteriatogo",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.northstar.gratitude.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.northstar.gratitude.png"
-    },
-    {
-      "name": "ForzaFootball",
-      "type": 1,
-      "bundleID": "com.footballaddicts.livescoreaddicts",
-      "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
-      "version": "6.16.6",
-      "versionDate": "2026-01-20",
-      "fullDate": "20260120154306",
-      "size": 115772208,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/ForzaFootball_6.16.6_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/ForzaFootball_6.16.6_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Mods",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png"
     }
   ],
   "userInfo": {}

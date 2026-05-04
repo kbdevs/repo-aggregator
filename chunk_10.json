@@ -4,6 +4,52 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "VPN - Opus - Cracked",
+      "bundleIdentifier": "com.biel.opus.vpn",
+      "developerName": "nabzclan",
+      "subtitle": "cracked version",
+      "localizedDescription": "cracked version\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.biel.opus.vpn\n\n Downloads: 2311\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725796359.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17257963522178580100.webp",
+        "https://apps.nabzclan.vip/screenshots/17257963539401560147.webp",
+        "https://apps.nabzclan.vip/screenshots/17257963559264770054.webp",
+        "https://apps.nabzclan.vip/screenshots/17257963560854185835.webp",
+        "https://apps.nabzclan.vip/screenshots/17257963579819859582.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.5",
+          "date": "2024-10-30 17:17:53",
+          "localizedDescription": "Current of VPN - Opus - Cracked - 1.8.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/862",
+          "size": 15005122
+        },
+        {
+          "version": "1.8.4",
+          "date": "2024-09-08 15:52:39",
+          "localizedDescription": "Old Version of VPN - Opus - Cracked - 1.8.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/505",
+          "size": 15120465
+        },
+        {
+          "version": "1.8.5",
+          "date": "2024-10-30 17:17:53",
+          "localizedDescription": "Old Version of VPN - Opus - Cracked - 1.8.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/862",
+          "size": 15005122
+        }
+      ],
+      "version": "1.8.5",
+      "versionDate": "2024-10-30 17:17:53",
+      "versionDescription": "cracked version",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/862",
+      "formatedsize": "14.31 MB",
+      "size": 15005122
+    },
+    {
       "name": "Stumble Guys - Hack",
       "bundleIdentifier": "com.kitkagames.fallbuddies",
       "developerName": "BabyloniPA",
@@ -4655,45 +4701,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/177",
       "formatedsize": "23.23 MB",
       "size": 24358420
-    },
-    {
-      "name": "Toca Builders",
-      "bundleIdentifier": "com.tocaboca.tocabuilders",
-      "developerName": "Create with quirky characters",
-      "subtitle": "If you can imagine it you can build it with the six Toca Builders!",
-      "localizedDescription": "If you can imagine it you can build it with the six Toca Builders!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.tocaboca.tocabuilders\n\n Downloads: 151\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1691169114.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16911691131624440900.webp",
-        "https://apps.nabzclan.vip/screenshots/16911691137771717841.webp",
-        "https://apps.nabzclan.vip/screenshots/16911691139734667299.webp",
-        "https://apps.nabzclan.vip/screenshots/16911691142216986573.webp",
-        "https://apps.nabzclan.vip/screenshots/16911691144796661710.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.3.1",
-          "date": "2023-08-04 17:11:54",
-          "localizedDescription": "Current of Toca Builders - 2.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/146",
-          "size": 32002539
-        },
-        {
-          "version": "2.3.1",
-          "date": "2023-08-04 17:11:54",
-          "localizedDescription": "Old Version of Toca Builders - 2.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/146",
-          "size": 32002539
-        }
-      ],
-      "version": "2.3.1",
-      "versionDate": "2023-08-04 17:11:54",
-      "versionDescription": "If you can imagine it you can build it with the six Toca Builders!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/146",
-      "formatedsize": "30.52 MB",
-      "size": 32002539
     }
   ],
   "userInfo": {}

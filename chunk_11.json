@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Toca Builders",
+      "bundleIdentifier": "com.tocaboca.tocabuilders",
+      "developerName": "Create with quirky characters",
+      "subtitle": "If you can imagine it you can build it with the six Toca Builders!",
+      "localizedDescription": "If you can imagine it you can build it with the six Toca Builders!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.tocaboca.tocabuilders\n\n Downloads: 151\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1691169114.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16911691131624440900.webp",
+        "https://apps.nabzclan.vip/screenshots/16911691137771717841.webp",
+        "https://apps.nabzclan.vip/screenshots/16911691139734667299.webp",
+        "https://apps.nabzclan.vip/screenshots/16911691142216986573.webp",
+        "https://apps.nabzclan.vip/screenshots/16911691144796661710.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.3.1",
+          "date": "2023-08-04 17:11:54",
+          "localizedDescription": "Current of Toca Builders - 2.3.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/146",
+          "size": 32002539
+        },
+        {
+          "version": "2.3.1",
+          "date": "2023-08-04 17:11:54",
+          "localizedDescription": "Old Version of Toca Builders - 2.3.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/146",
+          "size": 32002539
+        }
+      ],
+      "version": "2.3.1",
+      "versionDate": "2023-08-04 17:11:54",
+      "versionDescription": "If you can imagine it you can build it with the six Toca Builders!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/146",
+      "formatedsize": "30.52 MB",
+      "size": 32002539
+    },
+    {
       "name": "MagicSign",
       "bundleIdentifier": "com.MagicSign.ET85SL34DN",
       "developerName": "MagicSign TEAM",
@@ -1369,17 +1408,6 @@
       "developerName": "SerenaKit",
       "localizedDescription": "This app is TrollStore-only. An OSLog UI for iOS & iPadOS devices, Antoine allows you to view System Logs in real time, with the ability to filter logs by process, message, type, etc, as well additional stream options\nLast updated: 09-19-2023\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.serena.Antoine.png"
-    },
-    {
-      "name": "AnimeNow",
-      "bundleIdentifier": "com.errorerrorerror.animenow",
-      "version": "1.0.0b1",
-      "versionDate": "2024-10-03",
-      "size": 6691352,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnimeNow/AnimeNow-1.0.0b1.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
     }
   ],
   "userInfo": {}

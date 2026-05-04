@@ -4,6 +4,51 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Mob Control - Hack",
+      "bundleIdentifier": "com.vincentb.MobControl",
+      "developerName": "BabyloniPA",
+      "subtitle": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked",
+      "localizedDescription": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.vincentb.MobControl\n\n Downloads: 2309\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1725954738.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17260541021956710.webp",
+        "https://apps.nabzclan.vip/screenshots/17260541022077645.webp",
+        "https://apps.nabzclan.vip/screenshots/17260541032701695.webp",
+        "https://apps.nabzclan.vip/screenshots/17260541035293190.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.21.51",
+          "date": "2025-01-10 18:59:11",
+          "localizedDescription": "Current of Mob Control - Hack - 1.21.51",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
+          "size": 211288064
+        },
+        {
+          "version": "2.80.3",
+          "date": "2024-12-14 13:22:42",
+          "localizedDescription": "Old Version of Mob Control - Hack - 2.80.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1091",
+          "size": 209400627
+        },
+        {
+          "version": "1.21.51",
+          "date": "2025-01-10 18:59:11",
+          "localizedDescription": "Old Version of Mob Control - Hack - 1.21.51",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
+          "size": 211288064
+        }
+      ],
+      "version": "1.21.51",
+      "versionDate": "2025-01-10 18:59:11",
+      "versionDescription": "Hack Features :-\r\n- Unlimited Currencies \r\n- Unlimited skips\r\n- Unlimited Energon\r\n- Freeze Bricks Amount\r\n- No Ads \r\n- Upgrade Army without spending cards\r\n- Equip Army even if it is Locked",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1181",
+      "formatedsize": "201.5 MB",
+      "size": 211288064
+    },
+    {
       "name": "Find Hidden Objects\u30fbHidmont II (Hack)",
       "bundleIdentifier": "com.cleverside.hidden",
       "developerName": "Nabzclan",
@@ -4764,52 +4809,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/865",
       "formatedsize": "16.2 MB",
       "size": 16986931
-    },
-    {
-      "name": "VPN - Opus - Cracked",
-      "bundleIdentifier": "com.biel.opus.vpn",
-      "developerName": "nabzclan",
-      "subtitle": "cracked version",
-      "localizedDescription": "cracked version\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.biel.opus.vpn\n\n Downloads: 2311\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725796359.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17257963522178580100.webp",
-        "https://apps.nabzclan.vip/screenshots/17257963539401560147.webp",
-        "https://apps.nabzclan.vip/screenshots/17257963559264770054.webp",
-        "https://apps.nabzclan.vip/screenshots/17257963560854185835.webp",
-        "https://apps.nabzclan.vip/screenshots/17257963579819859582.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.5",
-          "date": "2024-10-30 17:17:53",
-          "localizedDescription": "Current of VPN - Opus - Cracked - 1.8.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/862",
-          "size": 15005122
-        },
-        {
-          "version": "1.8.4",
-          "date": "2024-09-08 15:52:39",
-          "localizedDescription": "Old Version of VPN - Opus - Cracked - 1.8.4",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/505",
-          "size": 15120465
-        },
-        {
-          "version": "1.8.5",
-          "date": "2024-10-30 17:17:53",
-          "localizedDescription": "Old Version of VPN - Opus - Cracked - 1.8.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/862",
-          "size": 15005122
-        }
-      ],
-      "version": "1.8.5",
-      "versionDate": "2024-10-30 17:17:53",
-      "versionDescription": "cracked version",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/862",
-      "formatedsize": "14.31 MB",
-      "size": 15005122
     }
   ],
   "userInfo": {}

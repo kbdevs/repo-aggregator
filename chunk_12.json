@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "AnimeNow",
+      "bundleIdentifier": "com.errorerrorerror.animenow",
+      "version": "1.0.0b1",
+      "versionDate": "2024-10-03",
+      "size": 6691352,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnimeNow/AnimeNow-1.0.0b1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
+    },
+    {
       "name": "ImgPlayPro",
       "bundleIdentifier": "me.imgbase.imgplay",
       "version": "6.3.17",
