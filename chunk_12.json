@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "Downie",
+      "bundleIdentifier": "com.charliemonroe.Downie",
+      "version": "1.0-92",
+      "versionDate": "2024-10-03",
+      "size": 20571776,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Downie/Downie-1.0-92.ipa",
+      "developerName": "TestFlight",
+      "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.\nLast updated: 05-02-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemonroe.Downie.png"
+    },
+    {
+      "name": "Antoine",
+      "bundleIdentifier": "com.serena.Antoine",
+      "version": "1.3.tipa.ipa.",
+      "versionDate": "2024-10-03",
+      "size": 1623275,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Antoine/Antoine-1.3.tipa.ipa.tipa",
+      "developerName": "SerenaKit",
+      "localizedDescription": "This app is TrollStore-only. An OSLog UI for iOS & iPadOS devices, Antoine allows you to view System Logs in real time, with the ability to filter logs by process, message, type, etc, as well additional stream options\nLast updated: 09-19-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.serena.Antoine.png"
+    },
+    {
       "name": "AnimeNow",
       "bundleIdentifier": "com.errorerrorerror.animenow",
       "version": "1.0.0b1",

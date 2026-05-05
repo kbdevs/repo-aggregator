@@ -4,6 +4,81 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Fortnite (Official)",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "subtitle": "Official Fortnite iOS app\r\n---\r\nFeatures:\r\n\u258eRemoved from the AppStore.\r\n\u258eRemoved FPS limitation.",
+      "localizedDescription": "Official Fortnite iOS app\r\n---\r\nFeatures:\r\n\u258eRemoved from the AppStore.\r\n\u258eRemoved FPS limitation.\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.epicgames.FortniteGame\n\n Downloads: 3278\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1725790037.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17284633957382226.webp",
+        "https://apps.nabzclan.vip/screenshots/17284633958945606.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "33.30",
+          "date": "2025-02-02 12:22:53",
+          "localizedDescription": "Current of Fortnite (Official) - 33.30",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1183",
+          "size": 241256366
+        },
+        {
+          "version": "33.30",
+          "date": "2025-02-02 12:22:53",
+          "localizedDescription": "Old Version of Fortnite (Official) - 33.30",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1183",
+          "size": 241256366
+        }
+      ],
+      "version": "33.30",
+      "versionDate": "2025-02-02 12:22:53",
+      "versionDescription": "Official Fortnite iOS app\r\n---\r\nFeatures:\r\n\u258eRemoved from the AppStore.\r\n\u258eRemoved FPS limitation.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1183",
+      "formatedsize": "230.08 MB",
+      "size": 241256366
+    },
+    {
+      "name": "Two Dots: Connect the dots (Hacked)",
+      "bundleIdentifier": "com.weplaydots.twodots",
+      "developerName": "BabylonIPA",
+      "subtitle": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives",
+      "localizedDescription": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives\n\n --- \n\n More app Information:\n\n Category: BabyloniPA, Tweaked Game\n\n BundleID: com.weplaydots.twodots\n\n Downloads: 266\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1736553738.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17365537378528485558.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537379607436103.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537380584840845.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537381442767877.webp",
+        "https://apps.nabzclan.vip/screenshots/17365537382538982293.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "8.83.0",
+          "date": "2025-01-10 19:02:18",
+          "localizedDescription": "Current of Two Dots: Connect the dots (Hacked) - 8.83.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
+          "size": 178257920
+        },
+        {
+          "version": "8.83.0",
+          "date": "2025-01-10 19:02:18",
+          "localizedDescription": "Old Version of Two Dots: Connect the dots (Hacked) - 8.83.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
+          "size": 178257920
+        }
+      ],
+      "version": "8.83.0",
+      "versionDate": "2025-01-10 19:02:18",
+      "versionDescription": "Hack Features :\r\n- Unlimited Moves\r\n- Unlimited Lives",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1182",
+      "formatedsize": "170 MB",
+      "size": 178257920
+    },
+    {
       "name": "Mob Control - Hack",
       "bundleIdentifier": "com.vincentb.MobControl",
       "developerName": "BabyloniPA",
@@ -4734,81 +4809,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/869",
       "formatedsize": "21.3 MB",
       "size": 22334668
-    },
-    {
-      "name": "Trump Is Back",
-      "bundleIdentifier": "com.fatih.trump",
-      "developerName": "fatih beceren",
-      "subtitle": "Step into the pulse-pounding world of modern politics with 'Trump is Back' an exhilarating strategy game. As you gear up for the 2024 elections, manage Trump's campaign to win over your strongest supporters and race towards the White House",
-      "localizedDescription": "Step into the pulse-pounding world of modern politics with 'Trump is Back' an exhilarating strategy game. As you gear up for the 2024 elections, manage Trump's campaign to win over your strongest supporters and race towards the White House\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.fatih.trump\n\n Downloads: 239\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730593862.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.3",
-          "date": "2024-11-03 04:30:56",
-          "localizedDescription": "Current of Trump Is Back - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/867",
-          "size": 16127098
-        },
-        {
-          "version": "1.3",
-          "date": "2024-11-03 04:30:56",
-          "localizedDescription": "Old Version of Trump Is Back - 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/867",
-          "size": 16127098
-        }
-      ],
-      "version": "1.3",
-      "versionDate": "2024-11-03 04:30:56",
-      "versionDescription": "Step into the pulse-pounding world of modern politics with 'Trump is Back' an exhilarating strategy game. As you gear up for the 2024 elections, manage Trump's campaign to win over your strongest supporters and race towards the White House",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/867",
-      "formatedsize": "15.38 MB",
-      "size": 16127098
-    },
-    {
-      "name": "Spike Stats - Valorant Tracker (Hack)",
-      "bundleIdentifier": "com.crocusgames.spikestats",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps, Free in app purchases\n\n BundleID: com.crocusgames.spikestats\n\n Downloads: 156\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730426216.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17304262157219568194.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262158015672823.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262158539120405.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262160785926787.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262162114037070.webp",
-        "https://apps.nabzclan.vip/screenshots/17304262167451479395.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.41",
-          "date": "2024-11-01 05:56:56",
-          "localizedDescription": "Current of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-          "size": 16986931
-        },
-        {
-          "version": "1.0.41",
-          "date": "2024-11-01 05:56:56",
-          "localizedDescription": "Old Version of Spike Stats - Valorant Tracker (Hack) - 1.0.41",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-          "size": 16986931
-        }
-      ],
-      "version": "1.0.41",
-      "versionDate": "2024-11-01 05:56:56",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/865",
-      "formatedsize": "16.2 MB",
-      "size": 16986931
     }
   ],
   "userInfo": {}

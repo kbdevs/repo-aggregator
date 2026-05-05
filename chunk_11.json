@@ -4,6 +4,81 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Angry birds rio",
+      "bundleIdentifier": "com.rovio.baba",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Angry birds rio is a Limited addition angry birds game based off the movie rio and even though it was not nearly as Successful as angry birds Star Wars fans still loved it!",
+      "localizedDescription": "Angry birds rio is a Limited addition angry birds game based off the movie rio and even though it was not nearly as Successful as angry birds Star Wars fans still loved it!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.rovio.baba\n\n Downloads: 901\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692739625.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.6.9",
+          "date": "2023-08-24 02:48:09",
+          "localizedDescription": "Current of Angry birds rio - 2.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/175",
+          "size": 60261662
+        },
+        {
+          "version": "2.6.9",
+          "date": "2023-08-24 02:48:09",
+          "localizedDescription": "Old Version of Angry birds rio - 2.6.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/175",
+          "size": 60261662
+        }
+      ],
+      "version": "2.6.9",
+      "versionDate": "2023-08-24 02:48:09",
+      "versionDescription": "Angry birds rio is a Limited addition angry birds game based off the movie rio and even though it was not nearly as Successful as angry birds Star Wars fans still loved it!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/175",
+      "formatedsize": "57.47 MB",
+      "size": 60261662
+    },
+    {
+      "name": "Pobreflix : Movie & Tv Show (No ads)",
+      "bundleIdentifier": "com.peudon.music.player",
+      "developerName": "nabzclan",
+      "subtitle": "Ads are removed",
+      "localizedDescription": "Ads are removed\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.peudon.music.player\n\n Downloads: 3815\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1692842164.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16928421605394051784.webp",
+        "https://apps.nabzclan.vip/screenshots/16928421624385901252.webp",
+        "https://apps.nabzclan.vip/screenshots/16928421625995727584.webp",
+        "https://apps.nabzclan.vip/screenshots/16928421627496785053.webp",
+        "https://apps.nabzclan.vip/screenshots/16928421629073128549.webp",
+        "https://apps.nabzclan.vip/screenshots/16928421647957357228.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "6.0",
+          "date": "2023-08-24 01:56:05",
+          "localizedDescription": "Current of Pobreflix : Movie & Tv Show (No ads) - 6.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/177",
+          "size": 24358420
+        },
+        {
+          "version": "6.0",
+          "date": "2023-08-24 01:56:05",
+          "localizedDescription": "Old Version of Pobreflix : Movie & Tv Show (No ads) - 6.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/177",
+          "size": 24358420
+        }
+      ],
+      "version": "6.0",
+      "versionDate": "2023-08-24 01:56:05",
+      "versionDescription": "Ads are removed",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/177",
+      "formatedsize": "23.23 MB",
+      "size": 24358420
+    },
+    {
       "name": "Toca Builders",
       "bundleIdentifier": "com.tocaboca.tocabuilders",
       "developerName": "Create with quirky characters",
@@ -1386,28 +1461,6 @@
       "developerName": "Paisseon",
       "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png"
-    },
-    {
-      "name": "Downie",
-      "bundleIdentifier": "com.charliemonroe.Downie",
-      "version": "1.0-92",
-      "versionDate": "2024-10-03",
-      "size": 20571776,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Downie/Downie-1.0-92.ipa",
-      "developerName": "TestFlight",
-      "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.\nLast updated: 05-02-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemonroe.Downie.png"
-    },
-    {
-      "name": "Antoine",
-      "bundleIdentifier": "com.serena.Antoine",
-      "version": "1.3.tipa.ipa.",
-      "versionDate": "2024-10-03",
-      "size": 1623275,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Antoine/Antoine-1.3.tipa.ipa.tipa",
-      "developerName": "SerenaKit",
-      "localizedDescription": "This app is TrollStore-only. An OSLog UI for iOS & iPadOS devices, Antoine allows you to view System Logs in real time, with the ability to filter logs by process, message, type, etc, as well additional stream options\nLast updated: 09-19-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.serena.Antoine.png"
     }
   ],
   "userInfo": {}
