@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "CarScanner",
+      "type": 1,
+      "bundleID": "ovz.Car-Scanner",
+      "bundleIdentifier": "ovz.Car-Scanner",
+      "version": "2.1.15",
+      "versionDate": "2026-03-27",
+      "fullDate": "20260327130226",
+      "size": 68460571,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/CarScanner_2.1.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/CarScanner_2.1.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png"
+    },
+    {
+      "name": "MapleReadCX",
+      "type": 1,
+      "bundleID": "com.maplepop.bmcx",
+      "bundleIdentifier": "com.maplepop.bmcx",
+      "version": "6.3",
+      "versionDate": "2026-03-27",
+      "fullDate": "20260327105140",
+      "size": 19109102,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/MapleReadCX_6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/MapleReadCX_6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png"
+    },
+    {
+      "name": "Most",
+      "type": 1,
+      "bundleID": "com.most.stories",
+      "bundleIdentifier": "com.most.stories",
+      "version": "3.5.2",
+      "versionDate": "2026-03-27",
+      "fullDate": "20260327051348",
+      "size": 247647098,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/Most_3.5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/Most_3.5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png"
+    },
+    {
       "name": "Shapeyard",
       "type": 1,
       "bundleID": "app.chudo",
@@ -132,22 +180,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png"
     },
     {
-      "name": "Fing",
-      "type": 1,
-      "bundleID": "overlook.fing",
-      "bundleIdentifier": "overlook.fing",
-      "version": "12.11.9",
-      "versionDate": "2026-03-25",
-      "fullDate": "20260325150139",
-      "size": 175158751,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-03-2026/Fing_12.11.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-03-2026/Fing_12.11.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/overlook.fing.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/overlook.fing.png"
-    },
-    {
       "name": "MonokaiToolkitPro",
       "type": 1,
       "bundleID": "com.monokaitoolkit.pro",
@@ -162,22 +194,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png"
-    },
-    {
-      "name": "HillClimb",
-      "type": 2,
-      "bundleID": "com.fingersoft.hillclimbracing",
-      "bundleIdentifier": "com.fingersoft.hillclimbracing",
-      "version": "1.68.0",
-      "versionDate": "2026-03-25",
-      "fullDate": "20260325050431",
-      "size": 124045248,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-03-2026/HillClimb_1.68.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-03-2026/HillClimb_1.68.0_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png"
     },
     {
       "name": "AutoCAD",
@@ -706,22 +722,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png"
-    },
-    {
-      "name": "TuneInRadio",
-      "type": 1,
-      "bundleID": "com.alexanderben.RadioIn",
-      "bundleIdentifier": "com.alexanderben.RadioIn",
-      "version": "41.1.0",
-      "versionDate": "2026-03-12",
-      "fullDate": "20260312180450",
-      "size": 77812165,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/TuneInRadio_41.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/TuneInRadio_41.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png"
     },
     {
       "name": "GREC",
