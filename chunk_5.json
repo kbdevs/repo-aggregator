@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Falou",
+      "type": 1,
+      "bundleID": "com.moymer.falou",
+      "bundleIdentifier": "com.moymer.falou",
+      "version": "0.0.390",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120164358",
+      "size": 110713287,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Falou_0.0.390_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Falou_0.0.390_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Satella",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moymer.falou.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moymer.falou.png"
+    },
+    {
       "name": "12min",
       "type": 1,
       "bundleID": "com.br.12min.mobile",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png"
-    },
-    {
-      "name": "StickWarSaga",
-      "type": 2,
-      "bundleID": "com.maxgames.stickwar3",
-      "bundleIdentifier": "com.maxgames.stickwar3",
-      "version": "2025.5.2288",
-      "versionDate": "2025-12-17",
-      "fullDate": "20251217162528",
-      "size": 325987467,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/StickWarSaga_2025.5.2288_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/StickWarSaga_2025.5.2288_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxgames.stickwar3.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxgames.stickwar3.png"
     }
   ],
   "userInfo": {}

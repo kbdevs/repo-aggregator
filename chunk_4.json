@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "FilmicPro",
+      "type": 1,
+      "bundleID": "com.cinegenix.filmic.pro",
+      "bundleIdentifier": "com.cinegenix.filmic.pro",
+      "version": "7.5.34",
+      "versionDate": "2026-04-02",
+      "fullDate": "20260402134210",
+      "size": 143630521,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-04-2026/FilmicPro_7.5.34_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-04-2026/FilmicPro_7.5.34_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png"
+    },
+    {
       "name": "djay",
       "type": 1,
       "bundleID": "com.algoriddim.djay-iphone-free",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png"
-    },
-    {
-      "name": "Falou",
-      "type": 1,
-      "bundleID": "com.moymer.falou",
-      "bundleIdentifier": "com.moymer.falou",
-      "version": "0.0.390",
-      "versionDate": "2026-01-20",
-      "fullDate": "20260120164358",
-      "size": 110713287,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Falou_0.0.390_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Falou_0.0.390_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Satella",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moymer.falou.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moymer.falou.png"
     }
   ],
   "userInfo": {}
