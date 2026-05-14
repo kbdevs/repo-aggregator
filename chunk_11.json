@@ -4,6 +4,83 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Artemis Pro",
+      "bundleIdentifier": "com.chemicalwedding.ArtemisPro",
+      "developerName": "The Pro Director's viewfinder",
+      "subtitle": "Artemis was the first digital viewfinder for smartphones. Over the years it has become an indispensable tool for professional filmmakers used by Oscar winners and film students the world over. Every day it helps people line up shots that become the world\u2019s favorite moments in film and television.  This year Artemis was awarded an Emmy for its contribution to filmmaking, an award for which we are very honored.",
+      "localizedDescription": "Artemis was the first digital viewfinder for smartphones. Over the years it has become an indispensable tool for professional filmmakers used by Oscar winners and film students the world over. Every day it helps people line up shots that become the world\u2019s favorite moments in film and television.  This year Artemis was awarded an Emmy for its contribution to filmmaking, an award for which we are very honored.\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.chemicalwedding.ArtemisPro\n\n Downloads: 455\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692901361.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16929013549648698419.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013574795927256.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013579409334338.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013583808925182.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013615215689215.webp",
+        "https://apps.nabzclan.vip/screenshots/16929013618094060240.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.92",
+          "date": "2023-08-24 18:22:42",
+          "localizedDescription": "Current of Artemis Pro - 5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/191",
+          "size": 115647447
+        },
+        {
+          "version": "5.92",
+          "date": "2023-08-24 18:22:42",
+          "localizedDescription": "Old Version of Artemis Pro - 5.92",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/191",
+          "size": 115647447
+        }
+      ],
+      "version": "5.92",
+      "versionDate": "2023-08-24 18:22:42",
+      "versionDescription": "Artemis was the first digital viewfinder for smartphones. Over the years it has become an indispensable tool for professional filmmakers used by Oscar winners and film students the world over. Every day it helps people line up shots that become the world\u2019s favorite moments in film and television.  This year Artemis was awarded an Emmy for its contribution to filmmaking, an award for which we are very honored.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/191",
+      "formatedsize": "110.29 MB",
+      "size": 115647447
+    },
+    {
+      "name": "VPN Rocket - (premium)",
+      "bundleIdentifier": "com.vpnmaster.VPNOneTap",
+      "developerName": "VPN Service for everyone",
+      "subtitle": "injected with premium",
+      "localizedDescription": "injected with premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.vpnmaster.VPNOneTap\n\n Downloads: 4406\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692898066.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16928980636077548317.webp",
+        "https://apps.nabzclan.vip/screenshots/16928980645124846448.webp",
+        "https://apps.nabzclan.vip/screenshots/16928980655103025970.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2023-08-24 17:27:46",
+          "localizedDescription": "Current of VPN Rocket - (premium) - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
+          "size": 8199864
+        },
+        {
+          "version": "1.5",
+          "date": "2023-08-24 17:27:46",
+          "localizedDescription": "Old Version of VPN Rocket - (premium) - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
+          "size": 8199864
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2023-08-24 17:27:46",
+      "versionDescription": "injected with premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/186",
+      "formatedsize": "7.82 MB",
+      "size": 8199864
+    },
+    {
       "name": "Angry birds rio",
       "bundleIdentifier": "com.rovio.baba",
       "developerName": "Rovio Entertainment",
@@ -1439,28 +1516,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.benricemccarthy.ketchup.png"
-    },
-    {
-      "name": "Jitterbug",
-      "bundleIdentifier": "com.osy86.Jitterbug",
-      "version": "1.3.1",
-      "versionDate": "2024-10-07",
-      "size": 23012478,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Jitterbug/Jitterbug-1.3.1.ipa",
-      "developerName": "osy",
-      "localizedDescription": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT enabled. Can also establish a VPN tunnel using TrollStore to run apps on the local device without needing a second device.\nLast updated: 12-12-2023\nStatus: \u2754",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osy86.Jitterbug.png"
-    },
-    {
-      "name": "InkhunterPremium",
-      "bundleIdentifier": "InkHunter.inkHunter",
-      "version": "3.0.6",
-      "versionDate": "2024-10-03",
-      "size": 18114231,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InkhunterPremium/InkhunterPremium-3.0.6.ipa",
-      "developerName": "Paisseon",
-      "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png"
     }
   ],
   "userInfo": {}
