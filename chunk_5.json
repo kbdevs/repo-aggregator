@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Peanote",
+      "type": 1,
+      "bundleID": "com.mwm.nota",
+      "bundleIdentifier": "com.mwm.nota",
+      "version": "1.4.4",
+      "versionDate": "2026-01-22",
+      "fullDate": "20260122200459",
+      "size": 31557994,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/Peanote_1.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/Peanote_1.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.nota.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.nota.png"
+    },
+    {
       "name": "Across",
       "type": 1,
       "bundleID": "com.daymore.Across",
@@ -898,22 +914,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.forex.Myfxbook.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.forex.Myfxbook.png"
-    },
-    {
-      "name": "iRetouch",
-      "type": 1,
-      "bundleID": "com.photoedit.cleanwatermark",
-      "bundleIdentifier": "com.photoedit.cleanwatermark",
-      "version": "2.14",
-      "versionDate": "2025-12-24",
-      "fullDate": "20251224225233",
-      "size": 43213959,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/iRetouch_2.14_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/iRetouch_2.14_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoedit.cleanwatermark.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoedit.cleanwatermark.png"
     },
     {
       "name": "HiiKER",
