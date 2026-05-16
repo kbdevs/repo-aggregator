@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Zoomable",
+      "type": 1,
+      "bundleID": "com.actowise.browser",
+      "bundleIdentifier": "com.actowise.browser",
+      "version": "3.7",
+      "versionDate": "2026-04-09",
+      "fullDate": "20260409004225",
+      "size": 6109115,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/Zoomable_3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/Zoomable_3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png"
+    },
+    {
+      "name": "AIRetouch",
+      "type": 1,
+      "bundleID": "com.picretouch.photoeditor",
+      "bundleIdentifier": "com.picretouch.photoeditor",
+      "version": "1.1.6",
+      "versionDate": "2026-04-09",
+      "fullDate": "20260409000217",
+      "size": 53452534,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/AIRetouch_1.1.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/AIRetouch_1.1.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png"
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2026.3.4",
+      "versionDate": "2026-04-08",
+      "fullDate": "20260408204118",
+      "size": 100644762,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-04-2026/QrCode_2026.3.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-04-2026/QrCode_2026.3.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png"
+    },
+    {
+      "name": "Radiance",
+      "type": 1,
+      "bundleID": "SimpleTools.Wallpaper-Workshop",
+      "bundleIdentifier": "SimpleTools.Wallpaper-Workshop",
+      "version": "2.2.9",
+      "versionDate": "2026-04-07",
+      "fullDate": "20260407225140",
+      "size": 31021135,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-04-2026/Radiance_2.2.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-04-2026/Radiance_2.2.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/SimpleTools.Wallpaper-Workshop.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/SimpleTools.Wallpaper-Workshop.png"
+    },
+    {
       "name": "Weather",
       "type": 1,
       "bundleID": "com.apalonapps.wlf",
@@ -82,22 +146,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png"
-    },
-    {
-      "name": "Anime",
-      "type": 1,
-      "bundleID": "com.wallpapershub.anime",
-      "bundleIdentifier": "com.wallpapershub.anime",
-      "version": "4.2",
-      "versionDate": "2026-04-04",
-      "fullDate": "20260404023228",
-      "size": 86488599,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-04-2026/Anime_4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-04-2026/Anime_4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png"
     },
     {
       "name": "PlaneFinder",
@@ -1044,22 +1092,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png"
     },
     {
-      "name": "Spotify",
-      "type": 1,
-      "bundleID": "com.spotify.client",
-      "bundleIdentifier": "com.spotify.client",
-      "version": "9.1.28",
-      "versionDate": "2026-03-11",
-      "fullDate": "20260311021633",
-      "size": 98550865,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2026/Spotify_9.1.28_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2026/Spotify_9.1.28_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png"
-    },
-    {
       "name": "RunGo",
       "type": 1,
       "bundleID": "com.leapingcoyote.rungo",
@@ -1492,22 +1524,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png"
     },
     {
-      "name": "Fonts",
-      "type": 1,
-      "bundleID": "fontskeyboard.fonts",
-      "bundleIdentifier": "fontskeyboard.fonts",
-      "version": "8.4.49",
-      "versionDate": "2026-02-06",
-      "fullDate": "20260206222542",
-      "size": 63545765,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/Fonts_8.4.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/Fonts_8.4.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png"
-    },
-    {
       "name": "CodeSnackIDE",
       "type": 1,
       "bundleID": "com.cloud-compiler",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png"
-    },
-    {
-      "name": "NYTGames",
-      "type": 2,
-      "bundleID": "com.magmic.NYTCrosswords09",
-      "bundleIdentifier": "com.magmic.NYTCrosswords09",
-      "version": "6.10.0",
-      "versionDate": "2026-01-23",
-      "fullDate": "20260123171509",
-      "size": 52682748,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/NYTGames_6.10.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/NYTGames_6.10.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png"
     }
   ],
   "userInfo": {}

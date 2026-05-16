@@ -4,6 +4,43 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Puffin Cloud Browser",
+      "bundleIdentifier": "com.cloudmosa.puffin",
+      "developerName": "Puffin Cloud Browser",
+      "subtitle": "DISCLAIMER: Puffin Cloud Browser is NOT a web browser.",
+      "localizedDescription": "DISCLAIMER: Puffin Cloud Browser is NOT a web browser.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.cloudmosa.puffin\n\n Downloads: 785\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692901750.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16929017493415858559.webp",
+        "https://apps.nabzclan.vip/screenshots/16929017497546385986.webp",
+        "https://apps.nabzclan.vip/screenshots/16929017501891448338.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.2.5",
+          "date": "2023-08-24 18:29:10",
+          "localizedDescription": "Current of Puffin Cloud Browser - 5.2.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/192",
+          "size": 64036536
+        },
+        {
+          "version": "5.2.5",
+          "date": "2023-08-24 18:29:10",
+          "localizedDescription": "Old Version of Puffin Cloud Browser - 5.2.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/192",
+          "size": 64036536
+        }
+      ],
+      "version": "5.2.5",
+      "versionDate": "2023-08-24 18:29:10",
+      "versionDescription": "DISCLAIMER: Puffin Cloud Browser is NOT a web browser.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/192",
+      "formatedsize": "61.07 MB",
+      "size": 64036536
+    },
+    {
       "name": "Artemis Pro",
       "bundleIdentifier": "com.chemicalwedding.ArtemisPro",
       "developerName": "The Pro Director's viewfinder",
@@ -1505,17 +1542,6 @@
       "developerName": "binnichtaktiv's iPA Library / jkhsjdhjs",
       "localizedDescription": "App to buy and sell on Germany's No. 1 online marketplace. A user requested it so here it is. Note: It is injected with an Adblocker and a second tweak to remove any text or unnecessary URL query parameters when sharing items.\nLast updated: 08-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ebaykleinanzeigen.ebc.png"
-    },
-    {
-      "name": "KetchupPlus",
-      "bundleIdentifier": "com.benricemccarthy.ketchup",
-      "version": "2024.2",
-      "versionDate": "2024-10-07",
-      "size": 191218824,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KetchupPlus/KetchupPlus-2024.2.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.benricemccarthy.ketchup.png"
     }
   ],
   "userInfo": {}

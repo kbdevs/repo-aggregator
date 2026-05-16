@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "NYTGames",
+      "type": 2,
+      "bundleID": "com.magmic.NYTCrosswords09",
+      "bundleIdentifier": "com.magmic.NYTCrosswords09",
+      "version": "6.10.0",
+      "versionDate": "2026-01-23",
+      "fullDate": "20260123171509",
+      "size": 52682748,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/NYTGames_6.10.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/NYTGames_6.10.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png"
+    },
+    {
       "name": "Peanote",
       "type": 1,
       "bundleID": "com.mwm.nota",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.parrotpal.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.parrotpal.png"
-    },
-    {
-      "name": "SmartReceipts",
-      "type": 1,
-      "bundleID": "co.smartreceipts.ios",
-      "bundleIdentifier": "co.smartreceipts.ios",
-      "version": "5.13.1",
-      "versionDate": "2025-12-17",
-      "fullDate": "20251217175113",
-      "size": 141869006,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/SmartReceipts_5.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/SmartReceipts_5.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.smartreceipts.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.smartreceipts.ios.png"
     }
   ],
   "userInfo": {}

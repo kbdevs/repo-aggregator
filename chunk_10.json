@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Zombie Apocalypse\u30fbShooter Game (Hacked)",
+      "bundleIdentifier": "com.RastleksGames.TheShootout",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.RastleksGames.TheShootout\n\n Downloads: 262\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1730597859.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17305978511542989050.webp",
+        "https://apps.nabzclan.vip/screenshots/17305978515528081758.webp",
+        "https://apps.nabzclan.vip/screenshots/17305978517531569161.webp",
+        "https://apps.nabzclan.vip/screenshots/17305978521232004590.webp",
+        "https://apps.nabzclan.vip/screenshots/17305978545394187675.webp",
+        "https://apps.nabzclan.vip/screenshots/17305978567736547862.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.35.0",
+          "date": "2024-11-03 06:37:39",
+          "localizedDescription": "Current of Zombie Apocalypse\u30fbShooter Game (Hacked) - 1.35.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/875",
+          "size": 271004467
+        },
+        {
+          "version": "1.35.0",
+          "date": "2024-11-03 06:37:39",
+          "localizedDescription": "Old Version of Zombie Apocalypse\u30fbShooter Game (Hacked) - 1.35.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/875",
+          "size": 271004467
+        }
+      ],
+      "version": "1.35.0",
+      "versionDate": "2024-11-03 06:37:39",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/875",
+      "formatedsize": "258.45 MB",
+      "size": 271004467
+    },
+    {
       "name": "Duskwood - Detective Story (Hack)",
       "bundleIdentifier": "com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood",
       "developerName": "Nabzclan",
@@ -4661,43 +4701,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/193",
       "formatedsize": "407.26 MB",
       "size": 427043061
-    },
-    {
-      "name": "Puffin Cloud Browser",
-      "bundleIdentifier": "com.cloudmosa.puffin",
-      "developerName": "Puffin Cloud Browser",
-      "subtitle": "DISCLAIMER: Puffin Cloud Browser is NOT a web browser.",
-      "localizedDescription": "DISCLAIMER: Puffin Cloud Browser is NOT a web browser.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.cloudmosa.puffin\n\n Downloads: 785\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692901750.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16929017493415858559.webp",
-        "https://apps.nabzclan.vip/screenshots/16929017497546385986.webp",
-        "https://apps.nabzclan.vip/screenshots/16929017501891448338.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.2.5",
-          "date": "2023-08-24 18:29:10",
-          "localizedDescription": "Current of Puffin Cloud Browser - 5.2.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/192",
-          "size": 64036536
-        },
-        {
-          "version": "5.2.5",
-          "date": "2023-08-24 18:29:10",
-          "localizedDescription": "Old Version of Puffin Cloud Browser - 5.2.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/192",
-          "size": 64036536
-        }
-      ],
-      "version": "5.2.5",
-      "versionDate": "2023-08-24 18:29:10",
-      "versionDescription": "DISCLAIMER: Puffin Cloud Browser is NOT a web browser.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/192",
-      "formatedsize": "61.07 MB",
-      "size": 64036536
     }
   ],
   "userInfo": {}
