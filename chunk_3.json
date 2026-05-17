@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Vids",
+      "type": 1,
+      "bundleID": "viral.vision.vids",
+      "bundleIdentifier": "viral.vision.vids",
+      "version": "1.135.0",
+      "versionDate": "2026-05-04",
+      "fullDate": "20260504161437",
+      "size": 165776504,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/Vids_1.135.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/Vids_1.135.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png"
+    },
+    {
+      "name": "Documents",
+      "type": 1,
+      "bundleID": "com.readdle.ReaddleDocsIPad",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "version": "8.19.14",
+      "versionDate": "2026-05-04",
+      "fullDate": "20260504151911",
+      "size": 343153232,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/Documents_8.19.14_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/Documents_8.19.14_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png"
+    },
+    {
       "name": "ThePiano",
       "type": 2,
       "bundleID": "com.impalastudios.pianofree",
@@ -866,22 +898,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png"
-    },
-    {
-      "name": "duet",
-      "type": 1,
-      "bundleID": "com.kairos.duet",
-      "bundleIdentifier": "com.kairos.duet",
-      "version": "3.1.5",
-      "versionDate": "2026-04-25",
-      "fullDate": "20260425034148",
-      "size": 44369660,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-04-2026/duet_3.1.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-04-2026/duet_3.1.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
     },
     {
       "name": "OnTheWay",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png"
-    },
-    {
-      "name": "KTBSecondKick",
-      "type": 2,
-      "bundleID": "com.playgendary.ktbremaster",
-      "bundleIdentifier": "com.playgendary.ktbremaster",
-      "version": "2.16.2",
-      "versionDate": "2026-04-09",
-      "fullDate": "20260409005750",
-      "size": 169655449,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/KTBSecondKick_2.16.2_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/KTBSecondKick_2.16.2_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.ktbremaster.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.ktbremaster.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "KTBSecondKick",
+      "type": 2,
+      "bundleID": "com.playgendary.ktbremaster",
+      "bundleIdentifier": "com.playgendary.ktbremaster",
+      "version": "2.16.2",
+      "versionDate": "2026-04-09",
+      "fullDate": "20260409005750",
+      "size": 169655449,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/KTBSecondKick_2.16.2_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/KTBSecondKick_2.16.2_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.ktbremaster.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.ktbremaster.png"
+    },
+    {
       "name": "Zoomable",
       "type": 1,
       "bundleID": "com.actowise.browser",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png"
-    },
-    {
-      "name": "Flacbox",
-      "type": 1,
-      "bundleID": "com.leshko.flap",
-      "bundleIdentifier": "com.leshko.flap",
-      "version": "7.3",
-      "versionDate": "2026-01-26",
-      "fullDate": "20260126150550",
-      "size": 60386229,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-01-2026/Flacbox_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-01-2026/Flacbox_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png"
     }
   ],
   "userInfo": {}
