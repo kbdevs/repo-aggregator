@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "KleinanzeigenPlus",
+      "bundleIdentifier": "com.ebaykleinanzeigen.ebc",
+      "version": "100.16.0",
+      "versionDate": "2024-10-09",
+      "size": 178228936,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KleinanzeigenPlus/KleinanzeigenPlus-100.16.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library / jkhsjdhjs",
+      "localizedDescription": "App to buy and sell on Germany's No. 1 online marketplace. A user requested it so here it is. Note: It is injected with an Adblocker and a second tweak to remove any text or unnecessary URL query parameters when sharing items.\nLast updated: 08-10-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ebaykleinanzeigen.ebc.png"
+    },
+    {
       "name": "KetchupPlus",
       "bundleIdentifier": "com.benricemccarthy.ketchup",
       "version": "2024.2",

@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Pixelmator",
+      "bundleIdentifier": "com.pixelmatorteam.pixelmator.touch",
+      "developerName": "Design, paint, retouch",
+      "subtitle": "Pixelmator is a powerful, full-featured, layer-based image editor that lets you add shapes, images, and text to create beautiful image compositions, touch up and enhance images, sketch, and paint on iPad and iPhone alike.",
+      "localizedDescription": "Pixelmator is a powerful, full-featured, layer-based image editor that lets you add shapes, images, and text to create beautiful image compositions, touch up and enhance images, sketch, and paint on iPad and iPhone alike.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.pixelmatorteam.pixelmator.touch\n\n Downloads: 490\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692902915.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16929029112858541728.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029129797988287.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029141107817664.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029144124123838.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029145854832944.webp",
+        "https://apps.nabzclan.vip/screenshots/16929029148358761373.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "2.9.2",
+          "date": "2023-08-24 18:48:35",
+          "localizedDescription": "Current of Pixelmator - 2.9.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/193",
+          "size": 427043061
+        },
+        {
+          "version": "2.9.2",
+          "date": "2023-08-24 18:48:35",
+          "localizedDescription": "Old Version of Pixelmator - 2.9.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/193",
+          "size": 427043061
+        }
+      ],
+      "version": "2.9.2",
+      "versionDate": "2023-08-24 18:48:35",
+      "versionDescription": "Pixelmator is a powerful, full-featured, layer-based image editor that lets you add shapes, images, and text to create beautiful image compositions, touch up and enhance images, sketch, and paint on iPad and iPhone alike.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/193",
+      "formatedsize": "407.26 MB",
+      "size": 427043061
+    },
+    {
       "name": "Puffin Cloud Browser",
       "bundleIdentifier": "com.cloudmosa.puffin",
       "developerName": "Puffin Cloud Browser",
@@ -1531,17 +1571,6 @@
       "developerName": "emuPlace",
       "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
-    },
-    {
-      "name": "KleinanzeigenPlus",
-      "bundleIdentifier": "com.ebaykleinanzeigen.ebc",
-      "version": "100.16.0",
-      "versionDate": "2024-10-09",
-      "size": 178228936,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KleinanzeigenPlus/KleinanzeigenPlus-100.16.0.ipa",
-      "developerName": "binnichtaktiv's iPA Library / jkhsjdhjs",
-      "localizedDescription": "App to buy and sell on Germany's No. 1 online marketplace. A user requested it so here it is. Note: It is injected with an Adblocker and a second tweak to remove any text or unnecessary URL query parameters when sharing items.\nLast updated: 08-10-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ebaykleinanzeigen.ebc.png"
     }
   ],
   "userInfo": {}

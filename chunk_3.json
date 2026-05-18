@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "LingoDeer",
+      "type": 1,
+      "bundleID": "com.lingodeer",
+      "bundleIdentifier": "com.lingodeer",
+      "version": "3.1.11",
+      "versionDate": "2026-05-04",
+      "fullDate": "20260504162456",
+      "size": 137503030,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/LingoDeer_3.1.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/LingoDeer_3.1.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png"
+    },
+    {
+      "name": "MagicEraser",
+      "type": 1,
+      "bundleID": "com.hhp.magicEraser",
+      "bundleIdentifier": "com.hhp.magicEraser",
+      "version": "3.14.0",
+      "versionDate": "2026-05-04",
+      "fullDate": "20260504162446",
+      "size": 244828839,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/MagicEraser_3.14.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/MagicEraser_3.14.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png"
+    },
+    {
       "name": "Vids",
       "type": 1,
       "bundleID": "viral.vision.vids",
@@ -146,22 +178,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png"
-    },
-    {
-      "name": "Leto",
-      "type": 1,
-      "bundleID": "biser.stories",
-      "bundleIdentifier": "biser.stories",
-      "version": "8.5.8",
-      "versionDate": "2026-05-03",
-      "fullDate": "20260503020813",
-      "size": 203789636,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2026/Leto_8.5.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2026/Leto_8.5.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png"
     },
     {
       "name": "SODA",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png"
-    },
-    {
-      "name": "CarParking",
-      "type": 2,
-      "bundleID": "com.aidana.cardriving.ios",
-      "bundleIdentifier": "com.aidana.cardriving.ios",
-      "version": "4.9.8",
-      "versionDate": "2026-04-09",
-      "fullDate": "20260409011804",
-      "size": 1929173378,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/CarParking_4.9.8_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/CarParking_4.9.8_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png"
     }
   ],
   "userInfo": {}

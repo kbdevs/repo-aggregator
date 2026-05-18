@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "TuneTally",
+      "type": 1,
+      "bundleID": "universeye.co.TuneTally",
+      "bundleIdentifier": "universeye.co.TuneTally",
+      "version": "1.13.1",
+      "versionDate": "2025-10-22",
+      "fullDate": "20251022010009",
+      "size": 15461456,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/TuneTally_1.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/TuneTally_1.13.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/universeye.co.TuneTally.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/universeye.co.TuneTally.png"
+    },
+    {
       "name": "MelonVPNPublic",
       "type": 1,
       "bundleID": "com.vpnbottle.melon.unblock.fast.vpn",
@@ -2300,42 +2316,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
       "formatedsize": "2.27 GB",
       "size": 2437393940
-    },
-    {
-      "name": "ZiniTevi (No ads)",
-      "bundleIdentifier": "jb.zini.tevi",
-      "developerName": "Nabzclan",
-      "subtitle": "ZiniTevi - Ads disabled App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
-      "localizedDescription": "ZiniTevi - Ads disabled App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!\n\n --- \n\n More app Information:\n\n Category: Media, Tweaked Apps\n\n BundleID: jb.zini.tevi\n\n Downloads: 3041\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1695108257.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16951084144621792.webp",
-        "https://apps.nabzclan.vip/screenshots/16951084147900204.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.0.05012300",
-          "date": "2025-04-02 18:51:59",
-          "localizedDescription": "Current of ZiniTevi (No ads) - 1.5.0.05012300",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/527",
-          "size": 7916748
-        },
-        {
-          "version": "1.5.0.05012300",
-          "date": "2025-04-02 18:51:59",
-          "localizedDescription": "Old Version of ZiniTevi (No ads) - 1.5.0.05012300",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/527",
-          "size": 7916748
-        }
-      ],
-      "version": "1.5.0.05012300",
-      "versionDate": "2025-04-02 18:51:59",
-      "versionDescription": "ZiniTevi - Ads disabled App for Streaming Movies and TV Shows for free on your phone. App features: \u2022 Play video online and offline. \u2022 Download multiple videos in background mode. \u2022 Stream video to Google's Chromecast, Airplay, Smart TV, \u2022 Android TV Box, Web Browser, UPnP, DLNA. \u2022 Add to favorites list. \u2022 Save to watched list. \u2022 Caption in video with all languages on over the world. \u2022 Trakt.tv to sync history and favorites list to the cloud. Enjoy!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/527",
-      "formatedsize": "7.55 MB",
-      "size": 7916748
     }
   ],
   "userInfo": {}
