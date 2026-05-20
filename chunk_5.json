@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Runestone",
+      "type": 1,
+      "bundleID": "dk.simonbs.RunestoneEditor",
+      "bundleIdentifier": "dk.simonbs.RunestoneEditor",
+      "version": "1.6.1",
+      "versionDate": "2026-01-29",
+      "fullDate": "20260129223116",
+      "size": 26979625,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Runestone_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Runestone_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dk.simonbs.RunestoneEditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dk.simonbs.RunestoneEditor.png"
+    },
+    {
+      "name": "FitbittoAppleHealth",
+      "type": 1,
+      "bundleID": "com.bickster.myFitnessSync",
+      "bundleIdentifier": "com.bickster.myFitnessSync",
+      "version": "3.3.0",
+      "versionDate": "2026-01-29",
+      "fullDate": "20260129124913",
+      "size": 44845222,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/FitbittoAppleHealth_3.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/FitbittoAppleHealth_3.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bickster.myFitnessSync.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bickster.myFitnessSync.png"
+    },
+    {
       "name": "KKPhoto",
       "type": 1,
       "bundleID": "tech.miidii.AlbumManager",
@@ -402,22 +434,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png"
-    },
-    {
-      "name": "TheWeather",
-      "type": 1,
-      "bundleID": "com.impalastudios.theweatherfree",
-      "bundleIdentifier": "com.impalastudios.theweatherfree",
-      "version": "2.0.14",
-      "versionDate": "2026-01-08",
-      "fullDate": "20260108134437",
-      "size": 144046261,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-01-2026/TheWeather_2.0.14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-01-2026/TheWeather_2.0.14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png"
     },
     {
       "name": "GrowIt",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png"
-    },
-    {
-      "name": "InvoiceSimple",
-      "type": 1,
-      "bundleID": "com.logicalengine.qsei",
-      "bundleIdentifier": "com.logicalengine.qsei",
-      "version": "5.9.4",
-      "versionDate": "2025-12-17",
-      "fullDate": "20251217182146",
-      "size": 68578740,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/InvoiceSimple_5.9.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/InvoiceSimple_5.9.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.logicalengine.qsei.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.logicalengine.qsei.png"
     }
   ],
   "userInfo": {}

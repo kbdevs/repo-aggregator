@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Modern Combat 5 (crosshair)",
+      "bundleIdentifier": "com.gameloft.ModernCombat5",
+      "developerName": "nabzclan",
+      "subtitle": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
+      "localizedDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.gameloft.ModernCombat5\n\n Downloads: 461\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1693270247.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16932702399685969951.webp",
+        "https://apps.nabzclan.vip/screenshots/16932702415679766528.webp",
+        "https://apps.nabzclan.vip/screenshots/16932702421277735400.webp",
+        "https://apps.nabzclan.vip/screenshots/16932702431211422244.webp",
+        "https://apps.nabzclan.vip/screenshots/16932702441202026711.webp",
+        "https://apps.nabzclan.vip/screenshots/16932702458386585984.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.8.9",
+          "date": "2023-08-29 00:50:48",
+          "localizedDescription": "Current of Modern Combat 5 (crosshair) - 5.8.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/204",
+          "size": 2201170739
+        },
+        {
+          "version": "5.8.9",
+          "date": "2023-08-29 00:50:48",
+          "localizedDescription": "Old Version of Modern Combat 5 (crosshair) - 5.8.9",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/204",
+          "size": 2201170739
+        }
+      ],
+      "version": "5.8.9",
+      "versionDate": "2023-08-29 00:50:48",
+      "versionDescription": "this app is injected with the nabz Crosshair tweak : https://nabzclan.vip/resources/nabz-crosshair.104/",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/204",
+      "formatedsize": "2.05 GB",
+      "size": 2201170739
+    },
+    {
       "name": "Pixelmator",
       "bundleIdentifier": "com.pixelmatorteam.pixelmator.touch",
       "developerName": "Design, paint, retouch",
@@ -1560,17 +1600,6 @@
       "developerName": "CyPwn IPA Library",
       "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
-    },
-    {
-      "name": "Limon",
-      "bundleIdentifier": "com.antique.Limon",
-      "version": "1.0.8.4",
-      "versionDate": "2024-10-09",
-      "size": 17299572,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Limon/Limon-1.0.8.4.ipa",
-      "developerName": "emuPlace",
-      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Call of Duty: Mobile (Hacked) 5 (VNG)",
+      "bundleIdentifier": "com.activision.callofduty.shooter",
+      "developerName": "Lunite",
+      "subtitle": "menu included!\r\n\r\nFeatures:\r\n- Hitbox\r\n- Anticheat\r\nand more!",
+      "localizedDescription": "menu included!\r\n\r\nFeatures:\r\n- Hitbox\r\n- Anticheat\r\nand more!\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.activision.callofduty.shooter\n\n Downloads: 6892\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1743635121.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17436351216881940179.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351217392495338.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351217754423440.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351218106184090.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351218448852320.webp",
+        "https://apps.nabzclan.vip/screenshots/17436351219381228319.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.8.50",
+          "date": "2025-04-02 19:05:22",
+          "localizedDescription": "Current of Call of Duty: Mobile (Hacked) 5 (VNG) - 1.8.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
+          "size": 2437393940
+        },
+        {
+          "version": "1.8.50",
+          "date": "2025-04-02 19:05:22",
+          "localizedDescription": "Old Version of Call of Duty: Mobile (Hacked) 5 (VNG) - 1.8.50",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
+          "size": 2437393940
+        }
+      ],
+      "version": "1.8.50",
+      "versionDate": "2025-04-02 19:05:22",
+      "versionDescription": "menu included!\r\n\r\nFeatures:\r\n- Hitbox\r\n- Anticheat\r\nand more!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
+      "formatedsize": "2.27 GB",
+      "size": 2437393940
+    },
+    {
       "name": "ZiniTevi (No ads)",
       "bundleIdentifier": "jb.zini.tevi",
       "developerName": "Nabzclan",
@@ -4660,52 +4700,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/382",
       "formatedsize": "7.17 MB",
       "size": 7518289
-    },
-    {
-      "name": "Gamma AI (Hack)",
-      "bundleIdentifier": "com.gemini.ai.chatbot",
-      "developerName": "Unknown",
-      "subtitle": "Features Hack:\r\n-Cracked Premium  \r\n\r\nSteps:\r\n- close the window - there is a cross at the top right then tap restore purchases",
-      "localizedDescription": "Features Hack:\r\n-Cracked Premium  \r\n\r\nSteps:\r\n- close the window - there is a cross at the top right then tap restore purchases\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.gemini.ai.chatbot\n\n Downloads: 646\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1734280124.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342801239294724601.webp",
-        "https://apps.nabzclan.vip/screenshots/17342801240515521113.webp",
-        "https://apps.nabzclan.vip/screenshots/17342801241354747102.webp",
-        "https://apps.nabzclan.vip/screenshots/17342801242063394616.webp",
-        "https://apps.nabzclan.vip/screenshots/17342801242767659933.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1.3",
-          "date": "2025-02-05 17:30:00",
-          "localizedDescription": "Current of Gamma AI (Hack) - 1.1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1195",
-          "size": 56245616
-        },
-        {
-          "version": "2.2",
-          "date": "2024-12-15 11:28:44",
-          "localizedDescription": "Old Version of Gamma AI (Hack) - 2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1103",
-          "size": 79251374
-        },
-        {
-          "version": "1.1.3",
-          "date": "2025-02-05 17:30:00",
-          "localizedDescription": "Old Version of Gamma AI (Hack) - 1.1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1195",
-          "size": 56245616
-        }
-      ],
-      "version": "1.1.3",
-      "versionDate": "2025-02-05 17:30:00",
-      "versionDescription": "Features Hack:\r\n-Cracked Premium  \r\n\r\nSteps:\r\n- close the window - there is a cross at the top right then tap restore purchases",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1195",
-      "formatedsize": "53.64 MB",
-      "size": 56245616
     }
   ],
   "userInfo": {}
