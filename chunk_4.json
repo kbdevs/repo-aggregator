@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Life",
+      "type": 1,
+      "bundleID": "co.lovetap.Female-by-Design",
+      "bundleIdentifier": "co.lovetap.Female-by-Design",
+      "version": "6.6.4",
+      "versionDate": "2026-04-15",
+      "fullDate": "20260415162326",
+      "size": 39288586,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-04-2026/Life_6.6.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-04-2026/Life_6.6.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png"
+    },
+    {
+      "name": "TeraBox",
+      "type": 1,
+      "bundleID": "com.dubox.drive",
+      "bundleIdentifier": "com.dubox.drive",
+      "version": "4.15.5",
+      "versionDate": "2026-04-15",
+      "fullDate": "20260415152753",
+      "size": 208518490,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-04-2026/TeraBox_4.15.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-04-2026/TeraBox_4.15.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png"
+    },
+    {
+      "name": "Phocus",
+      "type": 1,
+      "bundleID": "com.ahmetserdarkaradeniz.Phocus",
+      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
+      "version": "3.3.0",
+      "versionDate": "2026-04-14",
+      "fullDate": "20260414231846",
+      "size": 285803332,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-04-2026/Phocus_3.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-04-2026/Phocus_3.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png"
+    },
+    {
       "name": "Wallpapers",
       "type": 1,
       "bundleID": "com.apalonapps.wallpaperspys",
@@ -740,22 +788,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.momentinc.procamera.png"
     },
     {
-      "name": "ReelsApp",
-      "type": 1,
-      "bundleID": "com.nextgen.reelsapp",
-      "bundleIdentifier": "com.nextgen.reelsapp",
-      "version": "7.7",
-      "versionDate": "2026-03-23",
-      "fullDate": "20260323195830",
-      "size": 92325723,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/ReelsApp_7.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/ReelsApp_7.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nextgen.reelsapp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nextgen.reelsapp.png"
-    },
-    {
       "name": "koala",
       "type": 1,
       "bundleID": "com.elf-audio.koala",
@@ -1010,22 +1042,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.savageinteractive.procreate.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.savageinteractive.procreate.png"
-    },
-    {
-      "name": "AudioEditor",
-      "type": 1,
-      "bundleID": "com.hemin.mp3editor",
-      "bundleIdentifier": "com.hemin.mp3editor",
-      "version": "5.72",
-      "versionDate": "2026-03-19",
-      "fullDate": "20260319041416",
-      "size": 106462904,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/AudioEditor_5.72_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/AudioEditor_5.72_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png"
     },
     {
       "name": "WhatsApp",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.streaksapp.streak.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.streaksapp.streak.png"
-    },
-    {
-      "name": "UnifiedDictionary",
-      "type": 1,
-      "bundleID": "com.bravolol.bravoLang.chineseDictionary",
-      "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
-      "version": "35.3",
-      "versionDate": "2026-01-29",
-      "fullDate": "20260129231228",
-      "size": 21198518,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/UnifiedDictionary_35.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/UnifiedDictionary_35.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png"
     }
   ],
   "userInfo": {}
