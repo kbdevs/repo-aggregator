@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Animatic",
+      "type": 1,
+      "bundleID": "com.inkboard.animatic",
+      "bundleIdentifier": "com.inkboard.animatic",
+      "version": "4.0.2",
+      "versionDate": "2025-10-22",
+      "fullDate": "20251022010016",
+      "size": 66912973,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/Animatic_4.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/Animatic_4.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inkboard.animatic.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inkboard.animatic.png"
+    },
+    {
       "name": "InOut",
       "type": 1,
       "bundleID": "com.umayanga.Budget",
@@ -2239,59 +2255,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
       "formatedsize": "189.4 MB",
       "size": 198600294
-    },
-    {
-      "name": "P12Cracker",
-      "bundleIdentifier": "nabzclan.P12Cracker",
-      "developerName": "Nabzclan",
-      "subtitle": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more",
-      "localizedDescription": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: nabzclan.P12Cracker\n\n Downloads: 1374\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1725795193.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17458591437698693.webp",
-        "https://apps.nabzclan.vip/screenshots/17458591438954361.webp",
-        "https://apps.nabzclan.vip/screenshots/17458591435616287.webp",
-        "https://apps.nabzclan.vip/screenshots/17458591439280732.webp",
-        "https://apps.nabzclan.vip/screenshots/17458591438898268.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "beta 1.3",
-          "date": "2025-04-29 23:22:38",
-          "localizedDescription": "Current of P12Cracker - beta 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
-          "size": 5012193
-        },
-        {
-          "version": "beta 1.0",
-          "date": "2024-09-24 05:12:37",
-          "localizedDescription": "Old Version of P12Cracker - beta 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/504",
-          "size": 5284823
-        },
-        {
-          "version": "beta 1.2",
-          "date": "2025-03-18 15:21:34",
-          "localizedDescription": "Old Version of P12Cracker - beta 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1295",
-          "size": 4854906
-        },
-        {
-          "version": "beta 1.3",
-          "date": "2025-04-29 23:22:38",
-          "localizedDescription": "Old Version of P12Cracker - beta 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
-          "size": 5012193
-        }
-      ],
-      "version": "beta 1.3",
-      "versionDate": "2025-04-29 23:22:38",
-      "versionDescription": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
-      "formatedsize": "4.78 MB",
-      "size": 5012193
     }
   ],
   "userInfo": {}

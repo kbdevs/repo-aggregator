@@ -4,6 +4,44 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Esign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "yyyue team",
+      "subtitle": "WARNING! This app sends analytics with your identifiers to servers located in China!\r\n\r\nExamine this service's terms of service carefully!\r\n\r\nEasy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
+      "localizedDescription": "WARNING! This app sends analytics with your identifiers to servers located in China!\r\n\r\nExamine this service's terms of service carefully!\r\n\r\nEasy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: p3.xyz.yyyue.esign\n\n Downloads: 13759\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1687264217.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17058254538929219.webp",
+        "https://apps.nabzclan.vip/screenshots/17058254649865646.webp",
+        "https://apps.nabzclan.vip/screenshots/17058254706425812.webp",
+        "https://apps.nabzclan.vip/screenshots/17058254766971816.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "5.0.2",
+          "date": "2025-02-05 17:38:52",
+          "localizedDescription": "Current of Esign - 5.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/382",
+          "size": 7518289
+        },
+        {
+          "version": "5.0.2",
+          "date": "2025-02-05 17:38:52",
+          "localizedDescription": "Old Version of Esign - 5.0.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/382",
+          "size": 7518289
+        }
+      ],
+      "version": "5.0.2",
+      "versionDate": "2025-02-05 17:38:52",
+      "versionDescription": "WARNING! This app sends analytics with your identifiers to servers located in China!\r\n\r\nExamine this service's terms of service carefully!\r\n\r\nEasy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/382",
+      "formatedsize": "7.17 MB",
+      "size": 7518289
+    },
+    {
       "name": "Gamma AI (Hack)",
       "bundleIdentifier": "com.gemini.ai.chatbot",
       "developerName": "Unknown",
@@ -4770,46 +4808,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/878",
       "formatedsize": "32.5 MB",
       "size": 34078720
-    },
-    {
-      "name": "AI Type (Hack)",
-      "bundleIdentifier": "com.tappz.aikeyboard",
-      "developerName": "blant",
-      "subtitle": "Features:\r\n- cracked plus",
-      "localizedDescription": "Features:\r\n- cracked plus\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.tappz.aikeyboard\n\n Downloads: 1156\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730599035.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17305990332366637409.webp",
-        "https://apps.nabzclan.vip/screenshots/17305990334683467175.webp",
-        "https://apps.nabzclan.vip/screenshots/17305990339875965424.webp",
-        "https://apps.nabzclan.vip/screenshots/17305990345338763530.webp",
-        "https://apps.nabzclan.vip/screenshots/17305990351722569158.webp",
-        "https://apps.nabzclan.vip/screenshots/17305990353488502136.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.6.0",
-          "date": "2024-11-04 00:38:11",
-          "localizedDescription": "Current of AI Type (Hack) - 1.6.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/877",
-          "size": 49251614
-        },
-        {
-          "version": "1.6.0",
-          "date": "2024-11-04 00:38:11",
-          "localizedDescription": "Old Version of AI Type (Hack) - 1.6.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/877",
-          "size": 49251614
-        }
-      ],
-      "version": "1.6.0",
-      "versionDate": "2024-11-04 00:38:11",
-      "versionDescription": "Features:\r\n- cracked plus",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/877",
-      "formatedsize": "46.97 MB",
-      "size": 49251614
     }
   ],
   "userInfo": {}

@@ -4,6 +4,59 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "P12Cracker",
+      "bundleIdentifier": "nabzclan.P12Cracker",
+      "developerName": "Nabzclan",
+      "subtitle": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more",
+      "localizedDescription": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: nabzclan.P12Cracker\n\n Downloads: 1374\n\n Latest app store version: null",
+      "iconURL": "https://apps.nabzclan.vip/images/1725795193.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17458591437698693.webp",
+        "https://apps.nabzclan.vip/screenshots/17458591438954361.webp",
+        "https://apps.nabzclan.vip/screenshots/17458591435616287.webp",
+        "https://apps.nabzclan.vip/screenshots/17458591439280732.webp",
+        "https://apps.nabzclan.vip/screenshots/17458591438898268.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "beta 1.3",
+          "date": "2025-04-29 23:22:38",
+          "localizedDescription": "Current of P12Cracker - beta 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
+          "size": 5012193
+        },
+        {
+          "version": "beta 1.0",
+          "date": "2024-09-24 05:12:37",
+          "localizedDescription": "Old Version of P12Cracker - beta 1.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/504",
+          "size": 5284823
+        },
+        {
+          "version": "beta 1.2",
+          "date": "2025-03-18 15:21:34",
+          "localizedDescription": "Old Version of P12Cracker - beta 1.2",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1295",
+          "size": 4854906
+        },
+        {
+          "version": "beta 1.3",
+          "date": "2025-04-29 23:22:38",
+          "localizedDescription": "Old Version of P12Cracker - beta 1.3",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
+          "size": 5012193
+        }
+      ],
+      "version": "beta 1.3",
+      "versionDate": "2025-04-29 23:22:38",
+      "versionDescription": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
+      "formatedsize": "4.78 MB",
+      "size": 5012193
+    },
+    {
       "name": "Call of Duty: Mobile (Hacked) 5 (VNG)",
       "bundleIdentifier": "com.activision.callofduty.shooter",
       "developerName": "Lunite",
@@ -4662,44 +4715,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/996",
       "formatedsize": "139.09 MB",
       "size": 145846435
-    },
-    {
-      "name": "Esign",
-      "bundleIdentifier": "p3.xyz.yyyue.esign",
-      "developerName": "yyyue team",
-      "subtitle": "WARNING! This app sends analytics with your identifiers to servers located in China!\r\n\r\nExamine this service's terms of service carefully!\r\n\r\nEasy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
-      "localizedDescription": "WARNING! This app sends analytics with your identifiers to servers located in China!\r\n\r\nExamine this service's terms of service carefully!\r\n\r\nEasy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: p3.xyz.yyyue.esign\n\n Downloads: 13759\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1687264217.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17058254538929219.webp",
-        "https://apps.nabzclan.vip/screenshots/17058254649865646.webp",
-        "https://apps.nabzclan.vip/screenshots/17058254706425812.webp",
-        "https://apps.nabzclan.vip/screenshots/17058254766971816.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.0.2",
-          "date": "2025-02-05 17:38:52",
-          "localizedDescription": "Current of Esign - 5.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/382",
-          "size": 7518289
-        },
-        {
-          "version": "5.0.2",
-          "date": "2025-02-05 17:38:52",
-          "localizedDescription": "Old Version of Esign - 5.0.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/382",
-          "size": 7518289
-        }
-      ],
-      "version": "5.0.2",
-      "versionDate": "2025-02-05 17:38:52",
-      "versionDescription": "WARNING! This app sends analytics with your identifiers to servers located in China!\r\n\r\nExamine this service's terms of service carefully!\r\n\r\nEasy Sign (esign) is a tool that can sign IPA files without a jailbreak and is capable of injecting libraries, removing libraries, and so on.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/382",
-      "formatedsize": "7.17 MB",
-      "size": 7518289
     }
   ],
   "userInfo": {}

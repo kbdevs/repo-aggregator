@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "AI Type (Hack)",
+      "bundleIdentifier": "com.tappz.aikeyboard",
+      "developerName": "blant",
+      "subtitle": "Features:\r\n- cracked plus",
+      "localizedDescription": "Features:\r\n- cracked plus\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.tappz.aikeyboard\n\n Downloads: 1156\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1730599035.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17305990332366637409.webp",
+        "https://apps.nabzclan.vip/screenshots/17305990334683467175.webp",
+        "https://apps.nabzclan.vip/screenshots/17305990339875965424.webp",
+        "https://apps.nabzclan.vip/screenshots/17305990345338763530.webp",
+        "https://apps.nabzclan.vip/screenshots/17305990351722569158.webp",
+        "https://apps.nabzclan.vip/screenshots/17305990353488502136.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.6.0",
+          "date": "2024-11-04 00:38:11",
+          "localizedDescription": "Current of AI Type (Hack) - 1.6.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/877",
+          "size": 49251614
+        },
+        {
+          "version": "1.6.0",
+          "date": "2024-11-04 00:38:11",
+          "localizedDescription": "Old Version of AI Type (Hack) - 1.6.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/877",
+          "size": 49251614
+        }
+      ],
+      "version": "1.6.0",
+      "versionDate": "2024-11-04 00:38:11",
+      "versionDescription": "Features:\r\n- cracked plus",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/877",
+      "formatedsize": "46.97 MB",
+      "size": 49251614
+    },
+    {
       "name": "Beat Cop",
       "bundleIdentifier": "com.11bitstudios.beatcop",
       "developerName": "Inspired by \u201980s cop shows\u202a.\u202c",
@@ -4673,41 +4713,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/219",
       "formatedsize": "27.75 MB",
       "size": 29097984
-    },
-    {
-      "name": "Blacklist KFD",
-      "bundleIdentifier": "com.AppInstalleriOS.Blacklist-KFD",
-      "developerName": "AppInstaller ios",
-      "subtitle": "You can bypass blacklist restrictions and revoke apps on iOS versions 16.2 to 16.5, and 16.6 beta 1.",
-      "localizedDescription": "You can bypass blacklist restrictions and revoke apps on iOS versions 16.2 to 16.5, and 16.6 beta 1.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.AppInstalleriOS.Blacklist-KFD\n\n Downloads: 1208\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1693272281.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2023-08-29 01:24:41",
-          "localizedDescription": "Current of Blacklist KFD - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/206",
-          "size": 1268776
-        },
-        {
-          "version": "1.0",
-          "date": "2023-08-29 01:24:41",
-          "localizedDescription": "Old Version of Blacklist KFD - 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/206",
-          "size": 1268776
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2023-08-29 01:24:41",
-      "versionDescription": "You can bypass blacklist restrictions and revoke apps on iOS versions 16.2 to 16.5, and 16.6 beta 1.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/206",
-      "formatedsize": "1.21 MB",
-      "size": 1268776
     }
   ],
   "userInfo": {}
