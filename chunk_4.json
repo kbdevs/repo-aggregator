@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "edjingMix",
+      "type": 1,
+      "bundleID": "com.edjing.edjingdjturntable",
+      "bundleIdentifier": "com.edjing.edjingdjturntable",
+      "version": "8.21.07",
+      "versionDate": "2026-04-16",
+      "fullDate": "20260416125528",
+      "size": 438722613,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/edjingMix_8.21.07_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/edjingMix_8.21.07_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png"
+    },
+    {
+      "name": "DaVinci",
+      "type": 1,
+      "bundleID": "com.hubx.imagination",
+      "bundleIdentifier": "com.hubx.imagination",
+      "version": "4.5.0",
+      "versionDate": "2026-04-16",
+      "fullDate": "20260416121445",
+      "size": 106019296,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/DaVinci_4.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/DaVinci_4.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png"
+    },
+    {
       "name": "Nerva",
       "type": 1,
       "bundleID": "com.mindsethealth.ibs",
@@ -274,22 +306,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png"
-    },
-    {
-      "name": "Radiance",
-      "type": 1,
-      "bundleID": "SimpleTools.Wallpaper-Workshop",
-      "bundleIdentifier": "SimpleTools.Wallpaper-Workshop",
-      "version": "2.2.9",
-      "versionDate": "2026-04-07",
-      "fullDate": "20260407225140",
-      "size": 31021135,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-04-2026/Radiance_2.2.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-04-2026/Radiance_2.2.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/SimpleTools.Wallpaper-Workshop.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/SimpleTools.Wallpaper-Workshop.png"
     },
     {
       "name": "LookUp",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.noteai.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.noteai.png"
-    },
-    {
-      "name": "SnappierIPTV",
-      "type": 1,
-      "bundleID": "uk.co.snappy-code.snappierIPTV",
-      "bundleIdentifier": "uk.co.snappy-code.snappierIPTV",
-      "version": "5.3.3",
-      "versionDate": "2026-02-01",
-      "fullDate": "20260201061533",
-      "size": 78695911,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/SnappierIPTV_5.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/SnappierIPTV_5.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png"
     }
   ],
   "userInfo": {}

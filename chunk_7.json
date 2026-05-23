@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "KitchenStories",
+      "type": 1,
+      "bundleID": "com.AJNSNewMedia.KitchenStories",
+      "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
+      "version": "26.0.5",
+      "versionDate": "2025-10-22",
+      "fullDate": "20251022010024",
+      "size": 61929406,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png"
+    },
+    {
       "name": "Animatic",
       "type": 1,
       "bundleID": "com.inkboard.animatic",
@@ -642,22 +658,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.panicbyte.byephotos.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.panicbyte.byephotos.png"
-    },
-    {
-      "name": "BXNG",
-      "type": 1,
-      "bundleID": "com.app.BXNGApp",
-      "bundleIdentifier": "com.app.BXNGApp",
-      "version": "1.50",
-      "versionDate": "2025-09-14",
-      "fullDate": "20250914163319",
-      "size": 17455404,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2025/BXNG_1.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2025/BXNG_1.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.BXNGApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.BXNGApp.png"
     },
     {
       "name": "FishingPoints",

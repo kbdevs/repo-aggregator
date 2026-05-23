@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "SnappierIPTV",
+      "type": 1,
+      "bundleID": "uk.co.snappy-code.snappierIPTV",
+      "bundleIdentifier": "uk.co.snappy-code.snappierIPTV",
+      "version": "5.3.3",
+      "versionDate": "2026-02-01",
+      "fullDate": "20260201061533",
+      "size": 78695911,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/SnappierIPTV_5.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/SnappierIPTV_5.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png"
+    },
+    {
       "name": "Streaks",
       "type": 1,
       "bundleID": "com.streaksapp.streak",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobile-softing.coinmaster.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobile-softing.coinmaster.png"
-    },
-    {
-      "name": "Kwit",
-      "type": 1,
-      "bundleID": "geeo.Kwit",
-      "bundleIdentifier": "geeo.Kwit",
-      "version": "4.30.0",
-      "versionDate": "2025-12-17",
-      "fullDate": "20251217182202",
-      "size": 101560840,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Kwit_4.30.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Kwit_4.30.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/geeo.Kwit.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/geeo.Kwit.png"
     }
   ],
   "userInfo": {}
