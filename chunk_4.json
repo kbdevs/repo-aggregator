@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "NOAARadar",
+      "type": 1,
+      "bundleID": "com.itwcalculator.worldradarfree",
+      "bundleIdentifier": "com.itwcalculator.worldradarfree",
+      "version": "5.17.3",
+      "versionDate": "2026-04-16",
+      "fullDate": "20260416201324",
+      "size": 143991228,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/NOAARadar_5.17.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/NOAARadar_5.17.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png"
+    },
+    {
       "name": "edjingMix",
       "type": 1,
       "bundleID": "com.edjing.edjingdjturntable",
@@ -850,22 +866,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png"
-    },
-    {
-      "name": "TypeAI",
-      "type": 1,
-      "bundleID": "com.codeway.AIKeyboard",
-      "bundleIdentifier": "com.codeway.AIKeyboard",
-      "version": "4.0.0",
-      "versionDate": "2026-03-23",
-      "fullDate": "20260323135618",
-      "size": 29886930,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/TypeAI_4.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/TypeAI_4.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.AIKeyboard.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.AIKeyboard.png"
     },
     {
       "name": "OVFEditor",

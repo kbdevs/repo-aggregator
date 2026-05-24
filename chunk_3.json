@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Moonly",
+      "type": 1,
+      "bundleID": "com.moonly.Moonly",
+      "bundleIdentifier": "com.moonly.Moonly",
+      "version": "2.7.8",
+      "versionDate": "2026-05-10",
+      "fullDate": "20260510032205",
+      "size": 135720190,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Moonly_2.7.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Moonly_2.7.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png"
+    },
+    {
       "name": "Evermusic",
       "type": 1,
       "bundleID": "com.leshko.cloudplayer",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png"
-    },
-    {
-      "name": "NOAARadar",
-      "type": 1,
-      "bundleID": "com.itwcalculator.worldradarfree",
-      "bundleIdentifier": "com.itwcalculator.worldradarfree",
-      "version": "5.17.3",
-      "versionDate": "2026-04-16",
-      "fullDate": "20260416201324",
-      "size": 143991228,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/NOAARadar_5.17.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/NOAARadar_5.17.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png"
     }
   ],
   "userInfo": {}
