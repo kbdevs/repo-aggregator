@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "SleepCycle",
+      "type": 1,
+      "bundleID": "com.lexwarelabs.goodmorning",
+      "bundleIdentifier": "com.lexwarelabs.goodmorning",
+      "version": "6.26.19",
+      "versionDate": "2026-05-19",
+      "fullDate": "20260519125922",
+      "size": 266731989,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/SleepCycle_6.26.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/SleepCycle_6.26.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png"
+    },
+    {
       "name": "Minutes",
       "type": 1,
       "bundleID": "ventures.slam.minutes",
@@ -594,22 +610,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png"
-    },
-    {
-      "name": "HiWidget",
-      "type": 1,
-      "bundleID": "com.zerone.hidesktop",
-      "bundleIdentifier": "com.zerone.hidesktop",
-      "version": "4.4.22",
-      "versionDate": "2026-05-16",
-      "fullDate": "20260516073356",
-      "size": 420138801,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2026/HiWidget_4.4.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2026/HiWidget_4.4.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
     },
     {
       "name": "Windyapp",
