@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "EasyAnatomy3DPublic",
+      "type": 1,
+      "bundleID": "AB.iOsteology",
+      "bundleIdentifier": "AB.iOsteology",
+      "version": "5.24.2",
+      "versionDate": "2025-10-23",
+      "fullDate": "20251023001418",
+      "size": 1206734753,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/EasyAnatomy3DPublic_5.24.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/EasyAnatomy3DPublic_5.24.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png"
+    },
+    {
       "name": "KitchenStories",
       "type": 1,
       "bundleID": "com.AJNSNewMedia.KitchenStories",
@@ -2201,60 +2217,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1360",
       "formatedsize": "14.21 MB",
       "size": 14900264
-    },
-    {
-      "name": "My Perfect Hotel (Hack)",
-      "bundleIdentifier": "com.master.hotelmaster",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.master.hotelmaster\n\n Downloads: 63\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731096865.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310968641676280116.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968645213440158.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968647578833705.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968648845767626.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968650337181880.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968652059868111.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.22.0",
-          "date": "2025-05-10 00:27:59",
-          "localizedDescription": "Current of My Perfect Hotel (Hack) - 1.22.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
-          "size": 198600294
-        },
-        {
-          "version": "1.18.0",
-          "date": "2025-02-25 17:07:41",
-          "localizedDescription": "Old Version of My Perfect Hotel (Hack) - 1.18.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1239",
-          "size": 194301132
-        },
-        {
-          "version": "1.20.1",
-          "date": "2025-04-02 17:45:11",
-          "localizedDescription": "Old Version of My Perfect Hotel (Hack) - 1.20.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1350",
-          "size": 197656576
-        },
-        {
-          "version": "1.22.0",
-          "date": "2025-05-10 00:27:59",
-          "localizedDescription": "Old Version of My Perfect Hotel (Hack) - 1.22.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
-          "size": 198600294
-        }
-      ],
-      "version": "1.22.0",
-      "versionDate": "2025-05-10 00:27:59",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
-      "formatedsize": "189.4 MB",
-      "size": 198600294
     }
   ],
   "userInfo": {}

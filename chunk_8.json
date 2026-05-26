@@ -4,6 +4,60 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "My Perfect Hotel (Hack)",
+      "bundleIdentifier": "com.master.hotelmaster",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.master.hotelmaster\n\n Downloads: 63\n\n Latest app store version: yes",
+      "iconURL": "https://apps.nabzclan.vip/images/1731096865.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17310968641676280116.webp",
+        "https://apps.nabzclan.vip/screenshots/17310968645213440158.webp",
+        "https://apps.nabzclan.vip/screenshots/17310968647578833705.webp",
+        "https://apps.nabzclan.vip/screenshots/17310968648845767626.webp",
+        "https://apps.nabzclan.vip/screenshots/17310968650337181880.webp",
+        "https://apps.nabzclan.vip/screenshots/17310968652059868111.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.22.0",
+          "date": "2025-05-10 00:27:59",
+          "localizedDescription": "Current of My Perfect Hotel (Hack) - 1.22.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
+          "size": 198600294
+        },
+        {
+          "version": "1.18.0",
+          "date": "2025-02-25 17:07:41",
+          "localizedDescription": "Old Version of My Perfect Hotel (Hack) - 1.18.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1239",
+          "size": 194301132
+        },
+        {
+          "version": "1.20.1",
+          "date": "2025-04-02 17:45:11",
+          "localizedDescription": "Old Version of My Perfect Hotel (Hack) - 1.20.1",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1350",
+          "size": 197656576
+        },
+        {
+          "version": "1.22.0",
+          "date": "2025-05-10 00:27:59",
+          "localizedDescription": "Old Version of My Perfect Hotel (Hack) - 1.22.0",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
+          "size": 198600294
+        }
+      ],
+      "version": "1.22.0",
+      "versionDate": "2025-05-10 00:27:59",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
+      "formatedsize": "189.4 MB",
+      "size": 198600294
+    },
+    {
       "name": "P12Cracker",
       "bundleIdentifier": "nabzclan.P12Cracker",
       "developerName": "Nabzclan",
@@ -4675,46 +4729,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/1203",
       "formatedsize": "27.94 MB",
       "size": 29297213
-    },
-    {
-      "name": "Incredibox (Hack)",
-      "bundleIdentifier": "com.sofarsogood.incredibox",
-      "developerName": "Nabzclan",
-      "subtitle": "Features:\r\n- everything unlocked",
-      "localizedDescription": "Features:\r\n- everything unlocked\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps, Tweaked Game\n\n BundleID: com.sofarsogood.incredibox\n\n Downloads: 1996\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1731390876.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17313908761475467550.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908762629646894.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908763516591047.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908764368595232.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908764917045065.webp",
-        "https://apps.nabzclan.vip/screenshots/17313908765809414902.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.2.6",
-          "date": "2025-02-05 17:40:29",
-          "localizedDescription": "Current of Incredibox (Hack) - 1.2.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/996",
-          "size": 145846435
-        },
-        {
-          "version": "1.2.6",
-          "date": "2025-02-05 17:40:29",
-          "localizedDescription": "Old Version of Incredibox (Hack) - 1.2.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/996",
-          "size": 145846435
-        }
-      ],
-      "version": "1.2.6",
-      "versionDate": "2025-02-05 17:40:29",
-      "versionDescription": "Features:\r\n- everything unlocked",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/996",
-      "formatedsize": "139.09 MB",
-      "size": 145846435
     }
   ],
   "userInfo": {}

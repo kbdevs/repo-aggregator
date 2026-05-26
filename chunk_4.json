@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "ToonMe",
+      "type": 1,
+      "bundleID": "com.informelab.toonme",
+      "bundleIdentifier": "com.informelab.toonme",
+      "version": "0.11.33",
+      "versionDate": "2026-04-17",
+      "fullDate": "20260417022545",
+      "size": 139895459,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/ToonMe_0.11.33_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/ToonMe_0.11.33_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png"
+    },
+    {
+      "name": "PlantSnap",
+      "type": 1,
+      "bundleID": "net.plantsnap.freemium",
+      "bundleIdentifier": "net.plantsnap.freemium",
+      "version": "7.6.5",
+      "versionDate": "2026-04-17",
+      "fullDate": "20260417021019",
+      "size": 57352627,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/PlantSnap_7.6.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/PlantSnap_7.6.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png"
+    },
+    {
       "name": "NOAARadar",
       "type": 1,
       "bundleID": "com.itwcalculator.worldradarfree",
@@ -1524,22 +1556,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pro.writer.png"
     },
     {
-      "name": "HappyScale",
-      "type": 1,
-      "bundleID": "com.frontpocketsoftware.happyscale",
-      "bundleIdentifier": "com.frontpocketsoftware.happyscale",
-      "version": "2026.2",
-      "versionDate": "2026-02-09",
-      "fullDate": "20260209233107",
-      "size": 40207414,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-02-2026/HappyScale_2026.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-02-2026/HappyScale_2026.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png"
-    },
-    {
       "name": "Carly",
       "type": 1,
       "bundleID": "com.iViNi.BMWhatLite2",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png"
-    },
-    {
-      "name": "NoteAI",
-      "type": 1,
-      "bundleID": "com.hubx.noteai",
-      "bundleIdentifier": "com.hubx.noteai",
-      "version": "1.2.0",
-      "versionDate": "2026-02-02",
-      "fullDate": "20260202194119",
-      "size": 43377955,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/NoteAI_1.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/NoteAI_1.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.noteai.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.noteai.png"
     }
   ],
   "userInfo": {}

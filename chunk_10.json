@@ -4,6 +4,44 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "VPN-Z - (Hack)",
+      "bundleIdentifier": "com.krishnatechnoweb.vpnbrowser",
+      "developerName": "blant",
+      "subtitle": "Features:\r\n\r\n- cracked pro",
+      "localizedDescription": "Features:\r\n\r\n- cracked pro\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.krishnatechnoweb.vpnbrowser\n\n Downloads: 3930\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1730599417.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17305994141721549509.webp",
+        "https://apps.nabzclan.vip/screenshots/17305994163463653151.webp",
+        "https://apps.nabzclan.vip/screenshots/17305994166485732039.webp",
+        "https://apps.nabzclan.vip/screenshots/17305994169833802075.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.4",
+          "date": "2024-11-04 01:01:46",
+          "localizedDescription": "Current of VPN-Z - (Hack) - 1.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/878",
+          "size": 34078720
+        },
+        {
+          "version": "1.4",
+          "date": "2024-11-04 01:01:46",
+          "localizedDescription": "Old Version of VPN-Z - (Hack) - 1.4",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/878",
+          "size": 34078720
+        }
+      ],
+      "version": "1.4",
+      "versionDate": "2024-11-04 01:01:46",
+      "versionDescription": "Features:\r\n\r\n- cracked pro",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/878",
+      "formatedsize": "32.5 MB",
+      "size": 34078720
+    },
+    {
       "name": "AI Type (Hack)",
       "bundleIdentifier": "com.tappz.aikeyboard",
       "developerName": "blant",
@@ -4674,45 +4712,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/226",
       "formatedsize": "489.96 MB",
       "size": 513760296
-    },
-    {
-      "name": "MegaFlix (No Ads) - VIP",
-      "bundleIdentifier": "com.puneso.converter",
-      "developerName": "Nabzclan",
-      "subtitle": "movie app to watch any type of movies with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/",
-      "localizedDescription": "movie app to watch any type of movies with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/\n\n --- \n\n More app Information:\n\n Category: Media, Tweaked Apps, VIP\n\n BundleID: com.puneso.converter\n\n Downloads: 3749\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1694940783.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16949407770027688262.webp",
-        "https://apps.nabzclan.vip/screenshots/16949407783223312095.webp",
-        "https://apps.nabzclan.vip/screenshots/16949407804597554743.webp",
-        "https://apps.nabzclan.vip/screenshots/16949407808191279249.webp",
-        "https://apps.nabzclan.vip/screenshots/16949407822498281521.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.0",
-          "date": "2023-09-17 09:36:43",
-          "localizedDescription": "Current of MegaFlix (No Ads) - VIP - 5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/219",
-          "size": 29097984
-        },
-        {
-          "version": "5.0",
-          "date": "2023-09-17 09:36:43",
-          "localizedDescription": "Old Version of MegaFlix (No Ads) - VIP - 5.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/219",
-          "size": 29097984
-        }
-      ],
-      "version": "5.0",
-      "versionDate": "2023-09-17 09:36:43",
-      "versionDescription": "movie app to watch any type of movies with adblocker injected with : https://nabzclan.vip/resources/adblocker-for-movie-apps.126/",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/219",
-      "formatedsize": "27.75 MB",
-      "size": 29097984
     }
   ],
   "userInfo": {}
