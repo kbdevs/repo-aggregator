@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "BlockBlast",
+      "type": 2,
+      "bundleID": "com.blockpuzzle.us.ios",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "version": "6.9.7",
+      "versionDate": "2026-04-17",
+      "fullDate": "20260417122225",
+      "size": 77303091,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/BlockBlast_6.9.7_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/BlockBlast_6.9.7_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png"
+    },
+    {
+      "name": "SnapBG",
+      "type": 1,
+      "bundleID": "com.silverai.magiccut",
+      "bundleIdentifier": "com.silverai.magiccut",
+      "version": "2.3.3",
+      "versionDate": "2026-04-17",
+      "fullDate": "20260417094204",
+      "size": 42894941,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/SnapBG_2.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/SnapBG_2.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.silverai.magiccut.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.silverai.magiccut.png"
+    },
+    {
       "name": "ToonMe",
       "type": 1,
       "bundleID": "com.informelab.toonme",
@@ -162,22 +194,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png"
-    },
-    {
-      "name": "Phocus",
-      "type": 1,
-      "bundleID": "com.ahmetserdarkaradeniz.Phocus",
-      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
-      "version": "3.3.0",
-      "versionDate": "2026-04-14",
-      "fullDate": "20260414231846",
-      "size": 285803332,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-04-2026/Phocus_3.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-04-2026/Phocus_3.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png"
     },
     {
       "name": "Wallpapers",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papascluckeriatogo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papascluckeriatogo.png"
-    },
-    {
-      "name": "PapasPancakeriaToGo",
-      "type": 2,
-      "bundleID": "com.flipline.papaspancakeriatogo",
-      "bundleIdentifier": "com.flipline.papaspancakeriatogo",
-      "version": "1.2.0",
-      "versionDate": "2026-02-02",
-      "fullDate": "20260202195624",
-      "size": 30038894,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPancakeriaToGo_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPancakeriaToGo_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png"
     }
   ],
   "userInfo": {}
