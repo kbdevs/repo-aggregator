@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "BlueysQuest",
+      "type": 2,
+      "bundleID": "com.halfbrick.bluey",
+      "bundleIdentifier": "com.halfbrick.bluey",
+      "version": "1.1.1",
+      "versionDate": "2025-12-17",
+      "fullDate": "20251217213327",
+      "size": 559405168,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/BlueysQuest_1.1.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/BlueysQuest_1.1.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.bluey.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.bluey.png"
+    },
+    {
       "name": "Township",
       "type": 2,
       "bundleID": "com.playrix.township-ios",
@@ -466,22 +482,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.vocalimage.bessia.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.vocalimage.bessia.png"
-    },
-    {
-      "name": "Fishbrain",
-      "type": 1,
-      "bundleID": "com.fishbrain.app",
-      "bundleIdentifier": "com.fishbrain.app",
-      "version": "9.44.0",
-      "versionDate": "2025-12-15",
-      "fullDate": "20251215171944",
-      "size": 119269043,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Fishbrain_9.44.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Fishbrain_9.44.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png"
     },
     {
       "name": "OSMaps",

@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Sudoku",
+      "type": 2,
+      "bundleID": "com.ocho.SudokuaDay",
+      "bundleIdentifier": "com.ocho.SudokuaDay",
+      "version": "2.2.5",
+      "versionDate": "2026-04-18",
+      "fullDate": "20260418202841",
+      "size": 88500316,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-04-2026/Sudoku_2.2.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-04-2026/Sudoku_2.2.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ocho.SudokuaDay.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ocho.SudokuaDay.png"
+    },
+    {
+      "name": "SwipeMix",
+      "type": 1,
+      "bundleID": "com.museworks.swipemix",
+      "bundleIdentifier": "com.museworks.swipemix",
+      "version": "2.12.2",
+      "versionDate": "2026-04-17",
+      "fullDate": "20260417143310",
+      "size": 359912426,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/SwipeMix_2.12.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/SwipeMix_2.12.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png"
+    },
+    {
       "name": "BlockBlast",
       "type": 2,
       "bundleID": "com.blockpuzzle.us.ios",
@@ -1028,22 +1060,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/design.yugen.Flow.png"
     },
     {
-      "name": "BoxBox",
-      "type": 1,
-      "bundleID": "club.boxbox.widgets-ios",
-      "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.3.6",
-      "versionDate": "2026-03-20",
-      "fullDate": "20260320205151",
-      "size": 88229281,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/BoxBox_5.3.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/BoxBox_5.3.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png"
-    },
-    {
       "name": "ProCamera",
       "type": 1,
       "bundleID": "com.cocologics.ProCamera",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papassushiriatogo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papassushiriatogo.png"
-    },
-    {
-      "name": "PapasCluckeriaToGo",
-      "type": 2,
-      "bundleID": "com.flipline.papascluckeriatogo",
-      "bundleIdentifier": "com.flipline.papascluckeriatogo",
-      "version": "1.0.1",
-      "versionDate": "2026-02-02",
-      "fullDate": "20260202195627",
-      "size": 32946183,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasCluckeriaToGo_1.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasCluckeriaToGo_1.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papascluckeriatogo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papascluckeriatogo.png"
     }
   ],
   "userInfo": {}
