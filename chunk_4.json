@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "GigaBody",
+      "type": 1,
+      "bundleID": "com.howoo.jang.expofirebase",
+      "bundleIdentifier": "com.howoo.jang.expofirebase",
+      "version": "0.86.1",
+      "versionDate": "2026-04-18",
+      "fullDate": "20260418203350",
+      "size": 76109102,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-04-2026/GigaBody_0.86.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-04-2026/GigaBody_0.86.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.howoo.jang.expofirebase.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.howoo.jang.expofirebase.png"
+    },
+    {
       "name": "Sudoku",
       "type": 2,
       "bundleID": "com.ocho.SudokuaDay",
@@ -1810,22 +1826,6 @@
       "localizedDescription": "Injected with Unlocked All Functions",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papasfreezeriatogo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papasfreezeriatogo.png"
-    },
-    {
-      "name": "PapasSushiriaToGo",
-      "type": 2,
-      "bundleID": "com.flipline.papassushiriatogo",
-      "bundleIdentifier": "com.flipline.papassushiriatogo",
-      "version": "1.0.0",
-      "versionDate": "2026-02-02",
-      "fullDate": "20260202195629",
-      "size": 28548733,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasSushiriaToGo_1.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasSushiriaToGo_1.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papassushiriatogo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papassushiriatogo.png"
     }
   ],
   "userInfo": {}
