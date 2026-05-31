@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Temply",
+      "type": 1,
+      "bundleID": "com.templyvideo.Temply",
+      "bundleIdentifier": "com.templyvideo.Temply",
+      "version": "9.0",
+      "versionDate": "2025-12-18",
+      "fullDate": "20251218115324",
+      "size": 87312543,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2025/Temply_9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2025/Temply_9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png"
+    },
+    {
       "name": "BlueysQuest",
       "type": 2,
       "bundleID": "com.halfbrick.bluey",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png"
-    },
-    {
-      "name": "Animatic",
-      "type": 1,
-      "bundleID": "com.inkboard.animatic",
-      "bundleIdentifier": "com.inkboard.animatic",
-      "version": "4.0.2",
-      "versionDate": "2025-10-22",
-      "fullDate": "20251022010016",
-      "size": 66912973,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/Animatic_4.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/Animatic_4.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inkboard.animatic.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inkboard.animatic.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Animatic",
+      "type": 1,
+      "bundleID": "com.inkboard.animatic",
+      "bundleIdentifier": "com.inkboard.animatic",
+      "version": "4.0.2",
+      "versionDate": "2025-10-22",
+      "fullDate": "20251022010016",
+      "size": 66912973,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/Animatic_4.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/Animatic_4.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inkboard.animatic.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inkboard.animatic.png"
+    },
+    {
       "name": "InOut",
       "type": 1,
       "bundleID": "com.umayanga.Budget",
@@ -514,22 +530,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.strv.labs.float.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.strv.labs.float.png"
-    },
-    {
-      "name": "PureStatus",
-      "type": 1,
-      "bundleID": "com.damtechdesigns.wa.story",
-      "bundleIdentifier": "com.damtechdesigns.wa.story",
-      "version": "2024.08",
-      "versionDate": "2025-09-26",
-      "fullDate": "20250926043652",
-      "size": 41864574,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/PureStatus_2024.08_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/PureStatus_2024.08_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png"
     },
     {
       "name": "WallpapersCentral",
