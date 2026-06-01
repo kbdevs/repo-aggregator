@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Noteful",
+      "type": 1,
+      "bundleID": "com.noteful-technologies.noteful",
+      "bundleIdentifier": "com.noteful-technologies.noteful",
+      "version": "1.4.36",
+      "versionDate": "2026-04-22",
+      "fullDate": "20260422045706",
+      "size": 94013537,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/Noteful_1.4.36_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/Noteful_1.4.36_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png"
+    },
+    {
+      "name": "AdobeScan",
+      "type": 1,
+      "bundleID": "com.adobe.scan.ios",
+      "bundleIdentifier": "com.adobe.scan.ios",
+      "version": "26.04.17",
+      "versionDate": "2026-04-22",
+      "fullDate": "20260422025942",
+      "size": 190191054,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/AdobeScan_26.04.17_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/AdobeScan_26.04.17_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png"
+    },
+    {
+      "name": "simpleweather",
+      "type": 1,
+      "bundleID": "com.andyworks.weather",
+      "bundleIdentifier": "com.andyworks.weather",
+      "version": "3.49",
+      "versionDate": "2026-04-21",
+      "fullDate": "20260421232328",
+      "size": 206876385,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-04-2026/simpleweather_3.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-04-2026/simpleweather_3.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png"
+    },
+    {
+      "name": "Widgetsmith",
+      "type": 1,
+      "bundleID": "com.crossforward.WidgetSmith",
+      "bundleIdentifier": "com.crossforward.WidgetSmith",
+      "version": "8.3",
+      "versionDate": "2026-04-20",
+      "fullDate": "20260420193404",
+      "size": 176320485,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/Widgetsmith_8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/Widgetsmith_8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png"
+    },
+    {
       "name": "SlideShow",
       "type": 1,
       "bundleID": "com.spacegab.slideshow",
@@ -148,22 +212,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png"
     },
     {
-      "name": "BlockBlast",
-      "type": 2,
-      "bundleID": "com.blockpuzzle.us.ios",
-      "bundleIdentifier": "com.blockpuzzle.us.ios",
-      "version": "6.9.7",
-      "versionDate": "2026-04-17",
-      "fullDate": "20260417122225",
-      "size": 77303091,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/BlockBlast_6.9.7_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/BlockBlast_6.9.7_noads_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with noads",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png"
-    },
-    {
       "name": "SnapBG",
       "type": 1,
       "bundleID": "com.silverai.magiccut",
@@ -306,22 +354,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ee.keel24.Lingvist.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ee.keel24.Lingvist.png"
-    },
-    {
-      "name": "Life",
-      "type": 1,
-      "bundleID": "co.lovetap.Female-by-Design",
-      "bundleIdentifier": "co.lovetap.Female-by-Design",
-      "version": "6.6.4",
-      "versionDate": "2026-04-15",
-      "fullDate": "20260415162326",
-      "size": 39288586,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-04-2026/Life_6.6.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-04-2026/Life_6.6.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png"
     },
     {
       "name": "TeraBox",
@@ -530,22 +562,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png"
-    },
-    {
-      "name": "Speedometer",
-      "type": 1,
-      "bundleID": "com.jps.gpspeedhud",
-      "bundleIdentifier": "com.jps.gpspeedhud",
-      "version": "8.0.14",
-      "versionDate": "2026-04-05",
-      "fullDate": "20260405001737",
-      "size": 34247367,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-04-2026/Speedometer_8.0.14_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-04-2026/Speedometer_8.0.14_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jps.gpspeedhud.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jps.gpspeedhud.png"
     },
     {
       "name": "SpyCamera",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papasscooperiatogo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papasscooperiatogo.png"
-    },
-    {
-      "name": "PapasPizzeriaToGo",
-      "type": 2,
-      "bundleID": "com.flipline.papaspizzeriatogo",
-      "bundleIdentifier": "com.flipline.papaspizzeriatogo",
-      "version": "1.1.0",
-      "versionDate": "2026-02-02",
-      "fullDate": "20260202200137",
-      "size": 69276670,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPizzeriaToGo_1.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPizzeriaToGo_1.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspizzeriatogo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspizzeriatogo.png"
     }
   ],
   "userInfo": {}

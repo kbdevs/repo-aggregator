@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "KitchenStories",
+      "type": 1,
+      "bundleID": "com.AJNSNewMedia.KitchenStories",
+      "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
+      "version": "26.0.5",
+      "versionDate": "2025-10-22",
+      "fullDate": "20251022010024",
+      "size": 61929406,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png"
+    },
+    {
       "name": "Animatic",
       "type": 1,
       "bundleID": "com.inkboard.animatic",
@@ -66,22 +82,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vpnbottle.melon.unblock.fast.vpn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vpnbottle.melon.unblock.fast.vpn.png"
-    },
-    {
-      "name": "MoneyManagerExpenseBudget",
-      "type": 1,
-      "bundleID": "com.realbyteapps.MoneyManager2",
-      "bundleIdentifier": "com.realbyteapps.MoneyManager2",
-      "version": "2.12.3",
-      "versionDate": "2025-10-21",
-      "fullDate": "20251021160231",
-      "size": 26990483,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2025/MoneyManagerExpenseBudget_2.12.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2025/MoneyManagerExpenseBudget_2.12.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png"
     },
     {
       "name": "Yana",
