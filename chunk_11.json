@@ -4,6 +4,43 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "VPN Rocket - (premium)",
+      "bundleIdentifier": "com.vpnmaster.VPNOneTap",
+      "developerName": "VPN Service for everyone",
+      "subtitle": "injected with premium",
+      "localizedDescription": "injected with premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.vpnmaster.VPNOneTap\n\n Downloads: 4406\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1692898066.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/16928980636077548317.webp",
+        "https://apps.nabzclan.vip/screenshots/16928980645124846448.webp",
+        "https://apps.nabzclan.vip/screenshots/16928980655103025970.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2023-08-24 17:27:46",
+          "localizedDescription": "Current of VPN Rocket - (premium) - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
+          "size": 8199864
+        },
+        {
+          "version": "1.5",
+          "date": "2023-08-24 17:27:46",
+          "localizedDescription": "Old Version of VPN Rocket - (premium) - 1.5",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
+          "size": 8199864
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2023-08-24 17:27:46",
+      "versionDescription": "injected with premium",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/186",
+      "formatedsize": "7.82 MB",
+      "size": 8199864
+    },
+    {
       "name": "Angry birds rio",
       "bundleIdentifier": "com.rovio.baba",
       "developerName": "Rovio Entertainment",
@@ -1461,17 +1498,6 @@
       "developerName": "Paisseon",
       "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png"
-    },
-    {
-      "name": "Downie",
-      "bundleIdentifier": "com.charliemonroe.Downie",
-      "version": "1.0-92",
-      "versionDate": "2024-10-03",
-      "size": 20571776,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Downie/Downie-1.0-92.ipa",
-      "developerName": "TestFlight",
-      "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.\nLast updated: 05-02-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemonroe.Downie.png"
     }
   ],
   "userInfo": {}

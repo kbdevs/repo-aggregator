@@ -4,6 +4,46 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_9.json",
   "apps": [
     {
+      "name": "Pocket City 2",
+      "bundleIdentifier": "com.codebrewgames.pocketcity2",
+      "developerName": "Codebrew Games Inc.",
+      "subtitle": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!",
+      "localizedDescription": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.codebrewgames.pocketcity2\n\n Downloads: 242\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1738519022.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17385190222952552899.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190223631168836.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190224113107020.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190224512202462.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190224998927889.webp",
+        "https://apps.nabzclan.vip/screenshots/17385190225426334231.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.080",
+          "date": "2025-02-02 12:57:02",
+          "localizedDescription": "Current of Pocket City 2 - 1.080",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
+          "size": 145542348
+        },
+        {
+          "version": "1.080",
+          "date": "2025-02-02 12:57:02",
+          "localizedDescription": "Old Version of Pocket City 2 - 1.080",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
+          "size": 145542348
+        }
+      ],
+      "version": "1.080",
+      "versionDate": "2025-02-02 12:57:02",
+      "versionDescription": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/1190",
+      "formatedsize": "138.8 MB",
+      "size": 145542348
+    },
+    {
       "name": "Black Border 2",
       "bundleIdentifier": "com.bitzooma.blackborder2",
       "developerName": "MONTE CERVINO LTD",
@@ -4814,45 +4854,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/875",
       "formatedsize": "258.45 MB",
       "size": 271004467
-    },
-    {
-      "name": "Duskwood - Detective Story (Hack)",
-      "bundleIdentifier": "com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood\n\n Downloads: 241\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1730596939.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17305969322854225948.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969335808625415.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969351109857744.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969373671183483.webp",
-        "https://apps.nabzclan.vip/screenshots/17305969387867241077.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.10.14",
-          "date": "2024-11-03 06:22:19",
-          "localizedDescription": "Current of Duskwood - Detective Story (Hack) - 1.10.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/872",
-          "size": 180250214
-        },
-        {
-          "version": "1.10.14",
-          "date": "2024-11-03 06:22:19",
-          "localizedDescription": "Old Version of Duskwood - Detective Story (Hack) - 1.10.14",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/872",
-          "size": 180250214
-        }
-      ],
-      "version": "1.10.14",
-      "versionDate": "2024-11-03 06:22:19",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/872",
-      "formatedsize": "171.9 MB",
-      "size": 180250214
     }
   ],
   "userInfo": {}

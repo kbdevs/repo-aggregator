@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Unfold",
+      "type": 1,
+      "bundleID": "com.moonlab.unfoldstories",
+      "bundleIdentifier": "com.moonlab.unfoldstories",
+      "version": "8.159.0",
+      "versionDate": "2026-05-18",
+      "fullDate": "20260518140159",
+      "size": 170629992,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Unfold_8.159.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Unfold_8.159.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png"
+    },
+    {
+      "name": "Reels",
+      "type": 1,
+      "bundleID": "com.TetianaKolomiichuk.Reel-Templates",
+      "bundleIdentifier": "com.TetianaKolomiichuk.Reel-Templates",
+      "version": "3.10.3",
+      "versionDate": "2026-05-18",
+      "fullDate": "20260518030236",
+      "size": 149044261,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Reels_3.10.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Reels_3.10.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png"
+    },
+    {
+      "name": "MergeCooking",
+      "type": 2,
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
+      "version": "1.40.0",
+      "versionDate": "2026-05-18",
+      "fullDate": "20260518030217",
+      "size": 310736383,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/MergeCooking_1.40.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/MergeCooking_1.40.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png"
+    },
+    {
+      "name": "Leto",
+      "type": 1,
+      "bundleID": "biser.stories",
+      "bundleIdentifier": "biser.stories",
+      "version": "8.6",
+      "versionDate": "2026-05-18",
+      "fullDate": "20260518024627",
+      "size": 219365380,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Leto_8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Leto_8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png"
+    },
+    {
       "name": "Radarbot",
       "type": 1,
       "bundleID": "com.iteration-mobile.radarbot-free-ww",
@@ -114,22 +178,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png"
-    },
-    {
-      "name": "CMProCalc",
-      "type": 1,
-      "bundleID": "com.calculated.laurene",
-      "bundleIdentifier": "com.calculated.laurene",
-      "version": "318",
-      "versionDate": "2026-05-16",
-      "fullDate": "20260516015010",
-      "size": 55902894,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2026/CMProCalc_318_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2026/CMProCalc_318_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calculated.laurene.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calculated.laurene.png"
     },
     {
       "name": "PREQUEL",
@@ -482,22 +530,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.stretching.png"
-    },
-    {
-      "name": "NFCTools",
-      "type": 1,
-      "bundleID": "com.wakdev.wdnfc",
-      "bundleIdentifier": "com.wakdev.wdnfc",
-      "version": "2.38",
-      "versionDate": "2026-05-13",
-      "fullDate": "20260513032442",
-      "size": 4964732,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2026/NFCTools_2.38_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2026/NFCTools_2.38_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png"
     },
     {
       "name": "Clarity",
@@ -1396,22 +1428,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png"
     },
     {
-      "name": "VideoStudio",
-      "type": 1,
-      "bundleID": "videoeditor.app",
-      "bundleIdentifier": "videoeditor.app",
-      "version": "3.21.0",
-      "versionDate": "2026-04-30",
-      "fullDate": "20260430221112",
-      "size": 211185686,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/VideoStudio_3.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/VideoStudio_3.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png"
-    },
-    {
       "name": "PhotoSync",
       "type": 1,
       "bundleID": "com.touchbyte.PhotoSync",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pinguo.msgAries.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pinguo.msgAries.png"
-    },
-    {
-      "name": "DayOne",
-      "type": 1,
-      "bundleID": "com.bloombuilt.dayone-ios",
-      "bundleIdentifier": "com.bloombuilt.dayone-ios",
-      "version": "2026.8",
-      "versionDate": "2026-04-23",
-      "fullDate": "20260423173816",
-      "size": 84355929,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/DayOne_2026.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/DayOne_2026.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloombuilt.dayone-ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloombuilt.dayone-ios.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "GeniusScan",
+      "type": 1,
+      "bundleID": "com.geniussoftware.GeniusScan",
+      "bundleIdentifier": "com.geniussoftware.GeniusScan",
+      "version": "8.6.2",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219163839",
+      "size": 53234227,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/GeniusScan_8.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/GeniusScan_8.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.geniussoftware.GeniusScan.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.geniussoftware.GeniusScan.png"
+    },
+    {
       "name": "CHANI",
       "type": 1,
       "bundleID": "com.chaninicholas.chaniapp",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png"
-    },
-    {
-      "name": "EasyAnatomy3DPublic",
-      "type": 1,
-      "bundleID": "AB.iOsteology",
-      "bundleIdentifier": "AB.iOsteology",
-      "version": "5.24.2",
-      "versionDate": "2025-10-23",
-      "fullDate": "20251023001418",
-      "size": 1206734753,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/EasyAnatomy3DPublic_5.24.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/EasyAnatomy3DPublic_5.24.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "Duskwood - Detective Story (Hack)",
+      "bundleIdentifier": "com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood",
+      "developerName": "Nabzclan",
+      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood\n\n Downloads: 241\n\n Latest app store version: no",
+      "iconURL": "https://apps.nabzclan.vip/images/1730596939.webp",
+      "tintColor": "FFC300",
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17305969322854225948.webp",
+        "https://apps.nabzclan.vip/screenshots/17305969335808625415.webp",
+        "https://apps.nabzclan.vip/screenshots/17305969351109857744.webp",
+        "https://apps.nabzclan.vip/screenshots/17305969373671183483.webp",
+        "https://apps.nabzclan.vip/screenshots/17305969387867241077.webp"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.10.14",
+          "date": "2024-11-03 06:22:19",
+          "localizedDescription": "Current of Duskwood - Detective Story (Hack) - 1.10.14",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/872",
+          "size": 180250214
+        },
+        {
+          "version": "1.10.14",
+          "date": "2024-11-03 06:22:19",
+          "localizedDescription": "Old Version of Duskwood - Detective Story (Hack) - 1.10.14",
+          "downloadURL": "https://apps.nabzclan.vip/external-download/872",
+          "size": 180250214
+        }
+      ],
+      "version": "1.10.14",
+      "versionDate": "2024-11-03 06:22:19",
+      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
+      "downloadURL": "https://apps.nabzclan.vip/external-download/872",
+      "formatedsize": "171.9 MB",
+      "size": 180250214
+    },
+    {
       "name": "Microsoft Math",
       "bundleIdentifier": "com.microsoft.math",
       "developerName": "Microsoft",
@@ -4699,43 +4738,6 @@
       "downloadURL": "https://apps.nabzclan.vip/external-download/191",
       "formatedsize": "110.29 MB",
       "size": 115647447
-    },
-    {
-      "name": "VPN Rocket - (premium)",
-      "bundleIdentifier": "com.vpnmaster.VPNOneTap",
-      "developerName": "VPN Service for everyone",
-      "subtitle": "injected with premium",
-      "localizedDescription": "injected with premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.vpnmaster.VPNOneTap\n\n Downloads: 4406\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692898066.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16928980636077548317.webp",
-        "https://apps.nabzclan.vip/screenshots/16928980645124846448.webp",
-        "https://apps.nabzclan.vip/screenshots/16928980655103025970.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5",
-          "date": "2023-08-24 17:27:46",
-          "localizedDescription": "Current of VPN Rocket - (premium) - 1.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
-          "size": 8199864
-        },
-        {
-          "version": "1.5",
-          "date": "2023-08-24 17:27:46",
-          "localizedDescription": "Old Version of VPN Rocket - (premium) - 1.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
-          "size": 8199864
-        }
-      ],
-      "version": "1.5",
-      "versionDate": "2023-08-24 17:27:46",
-      "versionDescription": "injected with premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/186",
-      "formatedsize": "7.82 MB",
-      "size": 8199864
     }
   ],
   "userInfo": {}
