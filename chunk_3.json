@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "VideoStar",
+      "type": 1,
+      "bundleID": "com.frontierdesign.videostar",
+      "bundleIdentifier": "com.frontierdesign.videostar",
+      "version": "15.1.4",
+      "versionDate": "2026-05-19",
+      "fullDate": "20260519043605",
+      "size": 544173346,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/VideoStar_15.1.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/VideoStar_15.1.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontierdesign.videostar.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontierdesign.videostar.png"
+    },
+    {
+      "name": "Persona",
+      "type": 1,
+      "bundleID": "com.tickettothemoon.video.persona",
+      "bundleIdentifier": "com.tickettothemoon.video.persona",
+      "version": "1.15.30",
+      "versionDate": "2026-05-19",
+      "fullDate": "20260519043554",
+      "size": 155489742,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Persona_1.15.30_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Persona_1.15.30_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png"
+    },
+    {
       "name": "Trace",
       "type": 1,
       "bundleID": "com.morpholioapps.trace",
@@ -1636,22 +1668,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png"
     },
     {
-      "name": "Labbet",
-      "type": 1,
-      "bundleID": "app.labbet.labbet",
-      "bundleIdentifier": "app.labbet.labbet",
-      "version": "2.60",
-      "versionDate": "2026-04-28",
-      "fullDate": "20260428135347",
-      "size": 121053181,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Labbet_2.60_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Labbet_2.60_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
-    },
-    {
       "name": "DoCast",
       "type": 1,
       "bundleID": "us.electronic.docast",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
-    },
-    {
-      "name": "PhotoSplash",
-      "type": 1,
-      "bundleID": "com.dsrtech.colorsplash",
-      "bundleIdentifier": "com.dsrtech.colorsplash",
-      "version": "3.21.45",
-      "versionDate": "2026-04-23",
-      "fullDate": "20260423233259",
-      "size": 80150328,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/PhotoSplash_3.21.45_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/PhotoSplash_3.21.45_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dsrtech.colorsplash.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dsrtech.colorsplash.png"
     }
   ],
   "userInfo": {}
