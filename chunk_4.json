@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Varlens",
+      "type": 1,
+      "bundleID": "com.auramarker.varlens",
+      "bundleIdentifier": "com.auramarker.varlens",
+      "version": "7.4.14",
+      "versionDate": "2026-04-24",
+      "fullDate": "20260424043506",
+      "size": 288288189,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-04-2026/Varlens_7.4.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-04-2026/Varlens_7.4.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.auramarker.varlens.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.auramarker.varlens.png"
+    },
+    {
+      "name": "TiviMax",
+      "type": 1,
+      "bundleID": "com.eynpa.tivimaxlite",
+      "bundleIdentifier": "com.eynpa.tivimaxlite",
+      "version": "3.6.1",
+      "versionDate": "2026-04-23",
+      "fullDate": "20260423233840",
+      "size": 28621376,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/TiviMax_3.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/TiviMax_3.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eynpa.tivimaxlite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eynpa.tivimaxlite.png"
+    },
+    {
+      "name": "SixPackAbsAbsWorkout",
+      "type": 1,
+      "bundleID": "com.abishkking.sixpack",
+      "bundleIdentifier": "com.abishkking.sixpack",
+      "version": "1.49.0",
+      "versionDate": "2026-04-23",
+      "fullDate": "20260423233326",
+      "size": 199285440,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/SixPackAbsAbsWorkout_1.49.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/SixPackAbsAbsWorkout_1.49.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+    },
+    {
       "name": "PhotoSplash",
       "type": 1,
       "bundleID": "com.dsrtech.colorsplash",
@@ -836,22 +884,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kwalee.drawit.png"
     },
     {
-      "name": "WebVideoCast",
-      "type": 1,
-      "bundleID": "com.instantbits.cast.webvideo",
-      "bundleIdentifier": "com.instantbits.cast.webvideo",
-      "version": "2.53",
-      "versionDate": "2026-03-28",
-      "fullDate": "20260328012655",
-      "size": 68719541,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2026/WebVideoCast_2.53_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2026/WebVideoCast_2.53_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png"
-    },
-    {
       "name": "Things",
       "type": 1,
       "bundleID": "com.culturedcode.ThingsiPad",
@@ -1188,22 +1220,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png"
     },
     {
-      "name": "Narwhal",
-      "type": 1,
-      "bundleID": "com.rickharrison.narwhal",
-      "bundleIdentifier": "com.rickharrison.narwhal",
-      "version": "2026.4",
-      "versionDate": "2026-03-23",
-      "fullDate": "20260323034511",
-      "size": 16799596,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/Narwhal_2026.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/Narwhal_2026.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png"
-    },
-    {
       "name": "SimplySing",
       "type": 1,
       "bundleID": "com.joytunes.Sing",
@@ -1506,22 +1522,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png"
-    },
-    {
-      "name": "Stellarium",
-      "type": 1,
-      "bundleID": "com.noctuasoftware.stellarium-mobile-plus",
-      "bundleIdentifier": "com.noctuasoftware.stellarium-mobile-plus",
-      "version": "1.15.5",
-      "versionDate": "2026-02-23",
-      "fullDate": "20260223054331",
-      "size": 316670616,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-02-2026/Stellarium_1.15.5_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-02-2026/Stellarium_1.15.5_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png"
     },
     {
       "name": "FilmCamPublic",
