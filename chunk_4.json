@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Compress",
+      "type": 1,
+      "bundleID": "com.newmarketinglab.ImageCompressor",
+      "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
+      "version": "2.16",
+      "versionDate": "2026-04-28",
+      "fullDate": "20260428205545",
+      "size": 11981255,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Compress_2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Compress_2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png"
+    },
+    {
+      "name": "Mindllama",
+      "type": 1,
+      "bundleID": "com.vitalii.mind",
+      "bundleIdentifier": "com.vitalii.mind",
+      "version": "2.5.8",
+      "versionDate": "2026-04-28",
+      "fullDate": "20260428185452",
+      "size": 182175067,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Mindllama_2.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Mindllama_2.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png"
+    },
+    {
+      "name": "DoCast",
+      "type": 1,
+      "bundleID": "us.electronic.docast",
+      "bundleIdentifier": "us.electronic.docast",
+      "version": "5.7",
+      "versionDate": "2026-04-28",
+      "fullDate": "20260428020909",
+      "size": 21414511,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/DoCast_5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/DoCast_5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png"
+    },
+    {
       "name": "Habits",
       "type": 1,
       "bundleID": "com.dreamer.Habits",
@@ -308,22 +356,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.getmoshi.ios.png"
     },
     {
-      "name": "Noteful",
-      "type": 1,
-      "bundleID": "com.noteful-technologies.noteful",
-      "bundleIdentifier": "com.noteful-technologies.noteful",
-      "version": "1.4.36",
-      "versionDate": "2026-04-22",
-      "fullDate": "20260422045706",
-      "size": 94013537,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/Noteful_1.4.36_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/Noteful_1.4.36_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png"
-    },
-    {
       "name": "AdobeScan",
       "type": 1,
       "bundleID": "com.adobe.scan.ios",
@@ -546,22 +578,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png"
-    },
-    {
-      "name": "Nerva",
-      "type": 1,
-      "bundleID": "com.mindsethealth.ibs",
-      "bundleIdentifier": "com.mindsethealth.ibs",
-      "version": "51.0",
-      "versionDate": "2026-04-16",
-      "fullDate": "20260416042316",
-      "size": 79533389,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/Nerva_51.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/Nerva_51.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mindsethealth.ibs.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mindsethealth.ibs.png"
     },
     {
       "name": "BrainTest4",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png"
-    },
-    {
-      "name": "Thenics",
-      "type": 1,
-      "bundleID": "com.innothenics.thenics",
-      "bundleIdentifier": "com.innothenics.thenics",
-      "version": "6.1.5",
-      "versionDate": "2026-02-03",
-      "fullDate": "20260203180410",
-      "size": 88694749,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/Thenics_6.1.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/Thenics_6.1.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innothenics.thenics.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innothenics.thenics.png"
     }
   ],
   "userInfo": {}

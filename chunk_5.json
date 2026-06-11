@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Thenics",
+      "type": 1,
+      "bundleID": "com.innothenics.thenics",
+      "bundleIdentifier": "com.innothenics.thenics",
+      "version": "6.1.5",
+      "versionDate": "2026-02-03",
+      "fullDate": "20260203180410",
+      "size": 88694749,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/Thenics_6.1.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/Thenics_6.1.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innothenics.thenics.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innothenics.thenics.png"
+    },
+    {
       "name": "PapasDonuteriaToGo",
       "type": 2,
       "bundleID": "com.flipline.papasdonuteriatogo",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png"
-    },
-    {
-      "name": "SummaryAI",
-      "type": 1,
-      "bundleID": "io.labhouse.audioapp",
-      "bundleIdentifier": "io.labhouse.audioapp",
-      "version": "2.9.3",
-      "versionDate": "2025-12-19",
-      "fullDate": "20251219163848",
-      "size": 112917922,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/SummaryAI_2.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/SummaryAI_2.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "SummaryAI",
+      "type": 1,
+      "bundleID": "io.labhouse.audioapp",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "version": "2.9.3",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219163848",
+      "size": 112917922,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/SummaryAI_2.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/SummaryAI_2.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png"
+    },
+    {
       "name": "Huckleberry",
       "type": 1,
       "bundleID": "com.huckleberry-labs.app",
@@ -1458,22 +1474,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png"
-    },
-    {
-      "name": "DeviceMonitor",
-      "type": 1,
-      "bundleID": "org.fastdevsproject.altervista.Device-Monitor",
-      "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
-      "version": "26.1.0",
-      "versionDate": "2025-11-04",
-      "fullDate": "20251104123215",
-      "size": 24891933,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/DeviceMonitor_26.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/DeviceMonitor_26.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png"
     },
     {
       "name": "Stiiitch",
