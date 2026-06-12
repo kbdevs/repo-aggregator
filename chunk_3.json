@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Impulse",
+      "type": 1,
+      "bundleID": "gen.tech.impulse",
+      "bundleIdentifier": "gen.tech.impulse",
+      "version": "1.48.2",
+      "versionDate": "2026-05-23",
+      "fullDate": "20260523030630",
+      "size": 122568280,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Impulse_1.48.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Impulse_1.48.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png"
+    },
+    {
+      "name": "LUTStudio",
+      "type": 1,
+      "bundleID": "com.solveit.lut-studio",
+      "bundleIdentifier": "com.solveit.lut-studio",
+      "version": "3.0.12",
+      "versionDate": "2026-05-23",
+      "fullDate": "20260523024617",
+      "size": 109341483,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/LUTStudio_3.0.12_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/LUTStudio_3.0.12_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png"
+    },
+    {
+      "name": "Flacbox",
+      "type": 1,
+      "bundleID": "com.leshko.flap",
+      "bundleIdentifier": "com.leshko.flap",
+      "version": "7.5",
+      "versionDate": "2026-05-23",
+      "fullDate": "20260523014544",
+      "size": 86291512,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Flacbox_7.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Flacbox_7.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png"
+    },
+    {
       "name": "Workouts",
       "type": 1,
       "bundleID": "com.sbs.train",
@@ -354,22 +402,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png"
-    },
-    {
-      "name": "EPIK",
-      "type": 1,
-      "bundleID": "com.snowcorp.epik",
-      "bundleIdentifier": "com.snowcorp.epik",
-      "version": "7.1.21",
-      "versionDate": "2026-05-19",
-      "fullDate": "20260519234604",
-      "size": 194922887,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/EPIK_7.1.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/EPIK_7.1.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png"
     },
     {
       "name": "Coconote",
@@ -1396,22 +1428,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png"
     },
     {
-      "name": "ism",
-      "type": 1,
-      "bundleID": "com.ahaf.mshion",
-      "bundleIdentifier": "com.ahaf.mshion",
-      "version": "7.41.0",
-      "versionDate": "2026-05-05",
-      "fullDate": "20260505175149",
-      "size": 128333823,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/ism_7.41.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/ism_7.41.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png"
-    },
-    {
       "name": "Fing",
       "type": 1,
       "bundleID": "overlook.fing",
@@ -1442,22 +1458,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.macpaw.iosgemini.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.macpaw.iosgemini.png"
-    },
-    {
-      "name": "Lifesum",
-      "type": 1,
-      "bundleID": "com.sillens.iShape",
-      "bundleIdentifier": "com.sillens.iShape",
-      "version": "23.9.1",
-      "versionDate": "2026-05-05",
-      "fullDate": "20260505174559",
-      "size": 134770299,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/Lifesum_23.9.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/Lifesum_23.9.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png"
     },
     {
       "name": "Slopes",
