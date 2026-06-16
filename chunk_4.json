@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Thenx",
+      "type": 1,
+      "bundleID": "com.calisthenics.thenx",
+      "bundleIdentifier": "com.calisthenics.thenx",
+      "version": "6.6.1",
+      "versionDate": "2026-04-29",
+      "fullDate": "20260429231435",
+      "size": 145937028,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2026/Thenx_6.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2026/Thenx_6.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
+    },
+    {
+      "name": "InCollage",
+      "type": 1,
+      "bundleID": "PhotoEditor.PhotoCollage.inCollage",
+      "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
+      "version": "2.2.40",
+      "versionDate": "2026-04-29",
+      "fullDate": "20260429070002",
+      "size": 94574389,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2026/InCollage_2.2.40_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2026/InCollage_2.2.40_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png"
+    },
+    {
       "name": "MediaConvert",
       "type": 1,
       "bundleID": "com.verycoolapp.mediaconvert",
@@ -306,22 +338,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloombuilt.dayone-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloombuilt.dayone-ios.png"
-    },
-    {
-      "name": "PDFExpert",
-      "type": 1,
-      "bundleID": "com.readdle.PDFExpert5",
-      "bundleIdentifier": "com.readdle.PDFExpert5",
-      "version": "7.25.5",
-      "versionDate": "2026-04-23",
-      "fullDate": "20260423144652",
-      "size": 222456148,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/PDFExpert_7.25.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/PDFExpert_7.25.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png"
     },
     {
       "name": "Ladder",
@@ -850,22 +866,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png"
-    },
-    {
-      "name": "CLIME",
-      "type": 1,
-      "bundleID": "com.apalonapps.radarfree",
-      "bundleIdentifier": "com.apalonapps.radarfree",
-      "version": "5.13.67",
-      "versionDate": "2026-04-03",
-      "fullDate": "20260403132400",
-      "size": 176467661,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2026/CLIME_5.13.67_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2026/CLIME_5.13.67_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
     },
     {
       "name": "FilmicPro",
