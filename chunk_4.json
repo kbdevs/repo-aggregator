@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Speedtest",
+      "type": 1,
+      "bundleID": "com.ookla.speedtest",
+      "bundleIdentifier": "com.ookla.speedtest",
+      "version": "7.0.2",
+      "versionDate": "2026-04-30",
+      "fullDate": "20260430031155",
+      "size": 55150720,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/Speedtest_7.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/Speedtest_7.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png"
+    },
+    {
       "name": "MetadataEditor",
       "type": 1,
       "bundleID": "com.andrespizabuckmann.MetadataEditor",
@@ -610,22 +626,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png"
-    },
-    {
-      "name": "NOAARadar",
-      "type": 1,
-      "bundleID": "com.itwcalculator.worldradarfree",
-      "bundleIdentifier": "com.itwcalculator.worldradarfree",
-      "version": "5.17.3",
-      "versionDate": "2026-04-16",
-      "fullDate": "20260416201324",
-      "size": 143991228,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/NOAARadar_5.17.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-04-2026/NOAARadar_5.17.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png"
     },
     {
       "name": "DaVinci",

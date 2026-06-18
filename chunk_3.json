@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Fishbrain",
+      "type": 1,
+      "bundleID": "com.fishbrain.app",
+      "bundleIdentifier": "com.fishbrain.app",
+      "version": "9.54.0",
+      "versionDate": "2026-05-27",
+      "fullDate": "20260527223214",
+      "size": 93746361,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Fishbrain_9.54.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Fishbrain_9.54.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png"
+    },
+    {
+      "name": "Minutes",
+      "type": 1,
+      "bundleID": "ventures.slam.minutes",
+      "bundleIdentifier": "ventures.slam.minutes",
+      "version": "1.12.2",
+      "versionDate": "2026-05-27",
+      "fullDate": "20260527210609",
+      "size": 18098445,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Minutes_1.12.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Minutes_1.12.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png"
+    },
+    {
+      "name": "Splice",
+      "type": 1,
+      "bundleID": "com.path36.SpliceFree",
+      "bundleIdentifier": "com.path36.SpliceFree",
+      "version": "4.28.65",
+      "versionDate": "2026-05-27",
+      "fullDate": "20260527135938",
+      "size": 102841676,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Splice_4.28.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Splice_4.28.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png"
+    },
+    {
+      "name": "PeakVisor",
+      "type": 1,
+      "bundleID": "ru.routes.peakvisor",
+      "bundleIdentifier": "ru.routes.peakvisor",
+      "version": "5.100",
+      "versionDate": "2026-05-27",
+      "fullDate": "20260527045749",
+      "size": 148548193,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/PeakVisor_5.100_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/PeakVisor_5.100_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+    },
+    {
       "name": "SkyGuide",
       "type": 1,
       "bundleID": "com.fifthstarlabs.skyguide",
@@ -564,22 +628,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nextgen.reelsapp.png"
     },
     {
-      "name": "Dictionary",
-      "type": 1,
-      "bundleID": "com.mobisystems.OxfordDictionaryOfEnglishFree",
-      "bundleIdentifier": "com.mobisystems.OxfordDictionaryOfEnglishFree",
-      "version": "16.1",
-      "versionDate": "2026-05-20",
-      "fullDate": "20260520074859",
-      "size": 45641645,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/Dictionary_16.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/Dictionary_16.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png"
-    },
-    {
       "name": "Coconote",
       "type": 1,
       "bundleID": "com.bbauman.Scripty",
@@ -690,22 +738,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png"
-    },
-    {
-      "name": "AIRetouch",
-      "type": 1,
-      "bundleID": "com.picretouch.photoeditor",
-      "bundleIdentifier": "com.picretouch.photoeditor",
-      "version": "1.1.7",
-      "versionDate": "2026-05-19",
-      "fullDate": "20260519032923",
-      "size": 54986971,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/AIRetouch_1.1.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/AIRetouch_1.1.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png"
     },
     {
       "name": "MagicEraser",
@@ -1796,22 +1828,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/reels-maker-one.png"
     },
     {
-      "name": "NotePlan",
-      "type": 1,
-      "bundleID": "co.noteplan.NotePlan3",
-      "bundleIdentifier": "co.noteplan.NotePlan3",
-      "version": "3.21",
-      "versionDate": "2026-05-01",
-      "fullDate": "20260501031421",
-      "size": 98429069,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2026/NotePlan_3.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2026/NotePlan_3.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png"
-    },
-    {
       "name": "PhotoSync",
       "type": 1,
       "bundleID": "com.touchbyte.PhotoSync",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png"
-    },
-    {
-      "name": "Speedtest",
-      "type": 1,
-      "bundleID": "com.ookla.speedtest",
-      "bundleIdentifier": "com.ookla.speedtest",
-      "version": "7.0.2",
-      "versionDate": "2026-04-30",
-      "fullDate": "20260430031155",
-      "size": 55150720,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/Speedtest_7.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/Speedtest_7.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png"
     }
   ],
   "userInfo": {}
