@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Facebook",
+      "type": 1,
+      "bundleID": "com.facebook.Facebook",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "version": "563.0.0",
+      "versionDate": "2026-05-28",
+      "fullDate": "20260528011618",
+      "size": 188549431,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Facebook_563.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Facebook_563.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png"
+    },
+    {
+      "name": "Noteshelf3",
+      "type": 1,
+      "bundleID": "com.fluidtouch.noteshelf3",
+      "bundleIdentifier": "com.fluidtouch.noteshelf3",
+      "version": "7.2",
+      "versionDate": "2026-05-28",
+      "fullDate": "20260528010543",
+      "size": 238840168,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Noteshelf3_7.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Noteshelf3_7.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fluidtouch.noteshelf3.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fluidtouch.noteshelf3.png"
+    },
+    {
+      "name": "Tiimo",
+      "type": 1,
+      "bundleID": "com.tiimo.app",
+      "bundleIdentifier": "com.tiimo.app",
+      "version": "3.54.0",
+      "versionDate": "2026-05-28",
+      "fullDate": "20260528010536",
+      "size": 93537157,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Tiimo_3.54.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Tiimo_3.54.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png"
+    },
+    {
+      "name": "Wordscapes",
+      "type": 2,
+      "bundleID": "com.peoplefun.wordcross",
+      "bundleIdentifier": "com.peoplefun.wordcross",
+      "version": "3.12.0",
+      "versionDate": "2026-05-27",
+      "fullDate": "20260527224230",
+      "size": 157028649,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Wordscapes_3.12.0_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Wordscapes_3.12.0_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png"
+    },
+    {
       "name": "Fishbrain",
       "type": 1,
       "bundleID": "com.fishbrain.app",
@@ -1092,22 +1156,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ylee.studio.instories.png"
     },
     {
-      "name": "Swiftgram",
-      "type": 1,
-      "bundleID": "app.swiftgram.ios",
-      "bundleIdentifier": "app.swiftgram.ios",
-      "version": "12.7",
-      "versionDate": "2026-05-13",
-      "fullDate": "20260513171551",
-      "size": 82381237,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2026/Swiftgram_12.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2026/Swiftgram_12.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
-    },
-    {
       "name": "Window",
       "type": 1,
       "bundleID": "tech.calstephens.Window",
@@ -1556,22 +1604,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png"
     },
     {
-      "name": "Fing",
-      "type": 1,
-      "bundleID": "overlook.fing",
-      "bundleIdentifier": "overlook.fing",
-      "version": "12.12.0",
-      "versionDate": "2026-05-05",
-      "fullDate": "20260505175140",
-      "size": 176349060,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/Fing_12.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/Fing_12.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/overlook.fing.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/overlook.fing.png"
-    },
-    {
       "name": "Slopes",
       "type": 1,
       "bundleID": "com.consumedbycode.slopes",
@@ -1796,22 +1828,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png"
     },
     {
-      "name": "YouCut",
-      "type": 1,
-      "bundleID": "com.shantanu.YouCut",
-      "bundleIdentifier": "com.shantanu.YouCut",
-      "version": "1.29.0",
-      "versionDate": "2026-05-01",
-      "fullDate": "20260501222328",
-      "size": 87576141,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2026/YouCut_1.29.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2026/YouCut_1.29.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png"
-    },
-    {
       "name": "BEAT",
       "type": 1,
       "bundleID": "reels-maker-one",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/reels-maker-one.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/reels-maker-one.png"
-    },
-    {
-      "name": "PhotoSync",
-      "type": 1,
-      "bundleID": "com.touchbyte.PhotoSync",
-      "bundleIdentifier": "com.touchbyte.PhotoSync",
-      "version": "4.9.8",
-      "versionDate": "2026-04-30",
-      "fullDate": "20260430211057",
-      "size": 61605572,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/PhotoSync_4.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/PhotoSync_4.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png"
     }
   ],
   "userInfo": {}
