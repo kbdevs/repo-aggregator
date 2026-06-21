@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "SoundCloud",
+      "type": 1,
+      "bundleID": "com.soundcloud.TouchApp",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "version": "8.64.0",
+      "versionDate": "2026-06-12",
+      "fullDate": "20260612114343",
+      "size": 109658047,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/SoundCloud_8.64.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/SoundCloud_8.64.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png"
+    },
+    {
+      "name": "wpsoffice",
+      "type": 1,
+      "bundleID": "com.kingsoft.office.g.wpsoffice",
+      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+      "version": "26.6.1",
+      "versionDate": "2026-06-12",
+      "fullDate": "20260612085226",
+      "size": 317734510,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/wpsoffice_26.6.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/wpsoffice_26.6.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png"
+    },
+    {
+      "name": "duet",
+      "type": 1,
+      "bundleID": "com.kairos.duet",
+      "bundleIdentifier": "com.kairos.duet",
+      "version": "3.1.8",
+      "versionDate": "2026-06-12",
+      "fullDate": "20260612083710",
+      "size": 44623847,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/duet_3.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/duet_3.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
+    },
+    {
       "name": "HiWidget",
       "type": 1,
       "bundleID": "com.zerone.hidesktop",
@@ -628,22 +676,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png"
     },
     {
-      "name": "StressWatch",
-      "type": 1,
-      "bundleID": "com.ideation.Stress",
-      "bundleIdentifier": "com.ideation.Stress",
-      "version": "3.1.6",
-      "versionDate": "2026-06-08",
-      "fullDate": "20260608210631",
-      "size": 275074144,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/StressWatch_3.1.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/StressWatch_3.1.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png"
-    },
-    {
       "name": "iTranslate",
       "type": 1,
       "bundleID": "com.outerspaceapps.itranslate",
@@ -980,22 +1012,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png"
     },
     {
-      "name": "Wallcraft",
-      "type": 1,
-      "bundleID": "com.wallpaperscraft.wallpapers",
-      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
-      "version": "3.36",
-      "versionDate": "2026-06-05",
-      "fullDate": "20260605155406",
-      "size": 117786664,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2026/Wallcraft_3.36_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2026/Wallcraft_3.36_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
-    },
-    {
       "name": "Mockup",
       "type": 1,
       "bundleID": "com.hasankassem.mockup",
@@ -1314,22 +1330,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png"
-    },
-    {
-      "name": "Origami",
-      "type": 1,
-      "bundleID": "com.oribot.origami",
-      "bundleIdentifier": "com.oribot.origami",
-      "version": "4.77",
-      "versionDate": "2026-06-03",
-      "fullDate": "20260603194352",
-      "size": 198727102,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2026/Origami_4.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2026/Origami_4.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png"
     },
     {
       "name": "SnoreLab",

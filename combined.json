@@ -870,6 +870,134 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "9.9",
+      "versionDate": "2026-06-21",
+      "fullDate": "20260621073651",
+      "size": 67648306,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2026/_9.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2026/_9.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
+      "name": "VlogNow",
+      "type": 1,
+      "bundleID": "com.frontrow.vlog",
+      "bundleIdentifier": "com.frontrow.vlog",
+      "version": "2.5.2",
+      "versionDate": "2026-06-21",
+      "fullDate": "20260621015432",
+      "size": 453299413,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2026/VlogNow_2.5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2026/VlogNow_2.5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png"
+    },
+    {
+      "name": "BoldVoice",
+      "type": 1,
+      "bundleID": "com.wellocution.iosapp",
+      "bundleIdentifier": "com.wellocution.iosapp",
+      "version": "4.0.5",
+      "versionDate": "2026-06-20",
+      "fullDate": "20260620230840",
+      "size": 147188018,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/BoldVoice_4.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/BoldVoice_4.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png"
+    },
+    {
+      "name": "StressWatch",
+      "type": 1,
+      "bundleID": "com.ideation.Stress",
+      "bundleIdentifier": "com.ideation.Stress",
+      "version": "3.2.0",
+      "versionDate": "2026-06-20",
+      "fullDate": "20260620192732",
+      "size": 353326050,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/StressWatch_3.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/StressWatch_3.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png"
+    },
+    {
+      "name": "SnapEdit",
+      "type": 1,
+      "bundleID": "com.sfun.snapedit",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "version": "6.14.3",
+      "versionDate": "2026-06-20",
+      "fullDate": "20260620143128",
+      "size": 96337057,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/SnapEdit_6.14.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/SnapEdit_6.14.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png"
+    },
+    {
+      "name": "Wallcraft",
+      "type": 1,
+      "bundleID": "com.wallpaperscraft.wallpapers",
+      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+      "version": "3.37",
+      "versionDate": "2026-06-20",
+      "fullDate": "20260620130046",
+      "size": 117753306,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/Wallcraft_3.37_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/Wallcraft_3.37_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
+    },
+    {
+      "name": "Origami",
+      "type": 1,
+      "bundleID": "com.oribot.origami",
+      "bundleIdentifier": "com.oribot.origami",
+      "version": "4.78",
+      "versionDate": "2026-06-20",
+      "fullDate": "20260620120951",
+      "size": 199774100,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/Origami_4.78_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/Origami_4.78_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png"
+    },
+    {
+      "name": "FitnessAI",
+      "type": 1,
+      "bundleID": "com.jakemor.firness-ai",
+      "bundleIdentifier": "com.jakemor.firness-ai",
+      "version": "20.2",
+      "versionDate": "2026-06-20",
+      "fullDate": "20260620104421",
+      "size": 65314846,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/FitnessAI_20.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2026/FitnessAI_20.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png"
+    },
+    {
       "name": "Mercury",
       "type": 1,
       "bundleID": "com.tripleglazedstudios.Weather",
@@ -964,22 +1092,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png"
-    },
-    {
-      "name": "BoldVoice",
-      "type": 1,
-      "bundleID": "com.wellocution.iosapp",
-      "bundleIdentifier": "com.wellocution.iosapp",
-      "version": "4.0.4",
-      "versionDate": "2026-06-19",
-      "fullDate": "20260619230922",
-      "size": 147188898,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2026/BoldVoice_4.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2026/BoldVoice_4.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png"
     },
     {
       "name": "Captions",
@@ -1350,22 +1462,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png"
     },
     {
-      "name": "SnapEdit",
-      "type": 1,
-      "bundleID": "com.sfun.snapedit",
-      "bundleIdentifier": "com.sfun.snapedit",
-      "version": "6.14.2",
-      "versionDate": "2026-06-18",
-      "fullDate": "20260618125354",
-      "size": 97866716,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2026/SnapEdit_6.14.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2026/SnapEdit_6.14.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png"
-    },
-    {
       "name": "Pigment",
       "type": 1,
       "bundleID": "com.pixite.pigment",
@@ -1444,22 +1540,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png"
-    },
-    {
-      "name": "VlogNow",
-      "type": 1,
-      "bundleID": "com.frontrow.vlog",
-      "bundleIdentifier": "com.frontrow.vlog",
-      "version": "2.5.1",
-      "versionDate": "2026-06-18",
-      "fullDate": "20260618005251",
-      "size": 453299274,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2026/VlogNow_2.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2026/VlogNow_2.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png"
     },
     {
       "name": "SimplyDraw",
@@ -1910,22 +1990,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png"
     },
     {
-      "name": "FitnessAI",
-      "type": 1,
-      "bundleID": "com.jakemor.firness-ai",
-      "bundleIdentifier": "com.jakemor.firness-ai",
-      "version": "20.1",
-      "versionDate": "2026-06-16",
-      "fullDate": "20260616155751",
-      "size": 65294124,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2026/FitnessAI_20.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2026/FitnessAI_20.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png"
-    },
-    {
       "name": "Photoroom",
       "type": 1,
       "bundleID": "com.dr1ven.eraser",
@@ -2308,22 +2372,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.procolor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.procolor.png"
-    },
-    {
-      "name": "",
-      "type": 1,
-      "bundleID": "com.intsig.CamScannerLite",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "7.19.5",
-      "versionDate": "2026-06-15",
-      "fullDate": "20260615122507",
-      "size": 214890505,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2026/_7.19.5_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2026/_7.19.5_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
     },
     {
       "name": "MobileScanner",
@@ -3206,22 +3254,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png"
     },
     {
-      "name": "StressWatch",
-      "type": 1,
-      "bundleID": "com.ideation.Stress",
-      "bundleIdentifier": "com.ideation.Stress",
-      "version": "3.1.6",
-      "versionDate": "2026-06-08",
-      "fullDate": "20260608210631",
-      "size": 275074144,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/StressWatch_3.1.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/StressWatch_3.1.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png"
-    },
-    {
       "name": "iTranslate",
       "type": 1,
       "bundleID": "com.outerspaceapps.itranslate",
@@ -3558,22 +3590,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png"
     },
     {
-      "name": "Wallcraft",
-      "type": 1,
-      "bundleID": "com.wallpaperscraft.wallpapers",
-      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
-      "version": "3.36",
-      "versionDate": "2026-06-05",
-      "fullDate": "20260605155406",
-      "size": 117786664,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2026/Wallcraft_3.36_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2026/Wallcraft_3.36_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
-    },
-    {
       "name": "Mockup",
       "type": 1,
       "bundleID": "com.hasankassem.mockup",
@@ -3892,22 +3908,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png"
-    },
-    {
-      "name": "Origami",
-      "type": 1,
-      "bundleID": "com.oribot.origami",
-      "bundleIdentifier": "com.oribot.origami",
-      "version": "4.77",
-      "versionDate": "2026-06-03",
-      "fullDate": "20260603194352",
-      "size": 198727102,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2026/Origami_4.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2026/Origami_4.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png"
     },
     {
       "name": "SnoreLab",
@@ -30399,6 +30399,17 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.CanYouJB.SamoXcZ.png"
     },
     {
+      "name": "CamScannerPremium",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.59.0",
+      "versionDate": "2024-09-28",
+      "size": 125089710,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CamScannerPremium/CamScannerPremium-6.59.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Injected with Premium. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
       "name": "CallAssist",
       "bundleIdentifier": "com.apple.mobilephone-call",
       "version": "14.15",
@@ -30634,6 +30645,15 @@
       "beta": false,
       "versions": [
         {
+          "version": "5.0.0b6",
+          "date": "2026-06-16T21:42:57.0000000Z",
+          "localizedDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+          "size": 17963367,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "99.0"
+        },
+        {
           "version": "5.0.0b4",
           "date": "2025-10-23T02:30:00.0000000Z",
           "localizedDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
@@ -30697,11 +30717,11 @@
           "maxOSVersion": "99.0"
         }
       ],
-      "version": "5.0.0b4",
-      "versionDate": "2025-10-23T02:30:00.0000000Z",
-      "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
-      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
-      "size": 17958943
+      "version": "5.0.0b6",
+      "versionDate": "2026-06-16T21:42:57.0000000Z",
+      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+      "size": 17963367
     },
     {
       "name": "Angel Aura Amethyst",
