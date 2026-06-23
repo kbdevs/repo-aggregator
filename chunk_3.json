@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "AlfredCamera",
+      "type": 1,
+      "bundleID": "com.kalavision.alfred",
+      "bundleIdentifier": "com.kalavision.alfred",
+      "version": "2026.12.0",
+      "versionDate": "2026-05-28",
+      "fullDate": "20260528152330",
+      "size": 116638567,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/AlfredCamera_2026.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/AlfredCamera_2026.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png"
+    },
+    {
+      "name": "Reface",
+      "type": 1,
+      "bundleID": "com.neocortext.doublicatapp",
+      "bundleIdentifier": "com.neocortext.doublicatapp",
+      "version": "6.9.1",
+      "versionDate": "2026-05-28",
+      "fullDate": "20260528152324",
+      "size": 110214919,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Reface_6.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Reface_6.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png"
+    },
+    {
       "name": "Sofa",
       "type": 1,
       "bundleID": "com.astrio.Sofa",
@@ -882,22 +914,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png"
-    },
-    {
-      "name": "Unfold",
-      "type": 1,
-      "bundleID": "com.moonlab.unfoldstories",
-      "bundleIdentifier": "com.moonlab.unfoldstories",
-      "version": "8.159.0",
-      "versionDate": "2026-05-18",
-      "fullDate": "20260518140159",
-      "size": 170629992,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Unfold_8.159.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Unfold_8.159.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png"
     },
     {
       "name": "Reels",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoclean.videocompress.png"
-    },
-    {
-      "name": "WebSSH",
-      "type": 1,
-      "bundleID": "com.itimeteo.webssh",
-      "bundleIdentifier": "com.itimeteo.webssh",
-      "version": "31.5",
-      "versionDate": "2026-05-01",
-      "fullDate": "20260501235433",
-      "size": 86210938,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2026/WebSSH_31.5_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2026/WebSSH_31.5_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png"
     }
   ],
   "userInfo": {}

@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "WebSSH",
+      "type": 1,
+      "bundleID": "com.itimeteo.webssh",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "31.5",
+      "versionDate": "2026-05-01",
+      "fullDate": "20260501235433",
+      "size": 86210938,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2026/WebSSH_31.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2026/WebSSH_31.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png"
+    },
+    {
       "name": "BEAT",
       "type": 1,
       "bundleID": "reels-maker-one",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png"
-    },
-    {
-      "name": "UniDream",
-      "type": 1,
-      "bundleID": "com.thirteenleafclover.art.generator",
-      "bundleIdentifier": "com.thirteenleafclover.art.generator",
-      "version": "6.8.6",
-      "versionDate": "2026-02-08",
-      "fullDate": "20260208194323",
-      "size": 171596247,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2026/UniDream_6.8.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2026/UniDream_6.8.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thirteenleafclover.art.generator.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thirteenleafclover.art.generator.png"
     }
   ],
   "userInfo": {}
