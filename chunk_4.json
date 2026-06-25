@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "PicTrace",
+      "type": 1,
+      "bundleID": "com.avntech.ar-drawing",
+      "bundleIdentifier": "com.avntech.ar-drawing",
+      "version": "5.5.20260403",
+      "versionDate": "2026-05-04",
+      "fullDate": "20260504171024",
+      "size": 175212365,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/PicTrace_5.5.20260403_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/PicTrace_5.5.20260403_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.avntech.ar-drawing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.avntech.ar-drawing.png"
+    },
+    {
+      "name": "Vids",
+      "type": 1,
+      "bundleID": "viral.vision.vids",
+      "bundleIdentifier": "viral.vision.vids",
+      "version": "1.135.0",
+      "versionDate": "2026-05-04",
+      "fullDate": "20260504161437",
+      "size": 165776504,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/Vids_1.135.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/Vids_1.135.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png"
+    },
+    {
       "name": "AlevioOS",
       "type": 1,
       "bundleID": "com.alevioos.app",
@@ -516,22 +548,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png"
     },
     {
-      "name": "SlideShow",
-      "type": 1,
-      "bundleID": "com.spacegab.slideshow",
-      "bundleIdentifier": "com.spacegab.slideshow",
-      "version": "5.6.47",
-      "versionDate": "2026-04-20",
-      "fullDate": "20260420135537",
-      "size": 121014456,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/SlideShow_5.6.47_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/SlideShow_5.6.47_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png"
-    },
-    {
       "name": "JSCodePad",
       "type": 1,
       "bundleID": "com.markodevcic.js-code-pad",
@@ -914,22 +930,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png"
-    },
-    {
-      "name": "Picsew",
-      "type": 1,
-      "bundleID": "com.sugarmo.ScrollClip",
-      "bundleIdentifier": "com.sugarmo.ScrollClip",
-      "version": "3.16.1",
-      "versionDate": "2026-04-03",
-      "fullDate": "20260403215528",
-      "size": 37928728,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2026/Picsew_3.16.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2026/Picsew_3.16.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png"
     },
     {
       "name": "FilmicPro",
