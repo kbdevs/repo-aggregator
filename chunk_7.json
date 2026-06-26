@@ -4,6 +4,390 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "LidarCamera",
+      "type": 1,
+      "bundleID": "net.darkce.nvd",
+      "bundleIdentifier": "net.darkce.nvd",
+      "version": "3.12.0",
+      "versionDate": "2025-11-06",
+      "fullDate": "20251106061557",
+      "size": 10690122,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/LidarCamera_3.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/LidarCamera_3.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.darkce.nvd.png"
+    },
+    {
+      "name": "Stiiitch",
+      "type": 1,
+      "bundleID": "com.abighead.stiiitch",
+      "bundleIdentifier": "com.abighead.stiiitch",
+      "version": "2.3.2",
+      "versionDate": "2025-11-03",
+      "fullDate": "20251103165758",
+      "size": 39019526,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Stiiitch_2.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Stiiitch_2.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.stiiitch.png"
+    },
+    {
+      "name": "Vintify",
+      "type": 1,
+      "bundleID": "vintage.photo.editor.retro.aesthetic.effect",
+      "bundleIdentifier": "vintage.photo.editor.retro.aesthetic.effect",
+      "version": "2.5.0",
+      "versionDate": "2025-11-03",
+      "fullDate": "20251103032404",
+      "size": 171622044,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Vintify_2.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Vintify_2.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/vintage.photo.editor.retro.aesthetic.effect.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/vintage.photo.editor.retro.aesthetic.effect.png"
+    },
+    {
+      "name": "Moodshot",
+      "type": 1,
+      "bundleID": "irfandegirmenci.Moodshot",
+      "bundleIdentifier": "irfandegirmenci.Moodshot",
+      "version": "3.0.12",
+      "versionDate": "2025-11-03",
+      "fullDate": "20251103031859",
+      "size": 64115800,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Moodshot_3.0.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Moodshot_3.0.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/irfandegirmenci.Moodshot.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/irfandegirmenci.Moodshot.png"
+    },
+    {
+      "name": "MyDexTCG",
+      "type": 1,
+      "bundleID": "com.albertomoral.PokedexTradingCards",
+      "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
+      "version": "1.7.3",
+      "versionDate": "2025-11-02",
+      "fullDate": "20251102035655",
+      "size": 20469121,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png"
+    },
+    {
+      "name": "Rolls",
+      "type": 1,
+      "bundleID": "rolls.tech.mindflick",
+      "bundleIdentifier": "rolls.tech.mindflick",
+      "version": "2.0.1",
+      "versionDate": "2025-11-01",
+      "fullDate": "20251101061432",
+      "size": 88107360,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Rolls_2.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Rolls_2.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rolls.tech.mindflick.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rolls.tech.mindflick.png"
+    },
+    {
+      "name": "Illustrator",
+      "type": 1,
+      "bundleID": "com.adobe.ailogo",
+      "bundleIdentifier": "com.adobe.ailogo",
+      "version": "3.0.10",
+      "versionDate": "2025-11-01",
+      "fullDate": "20251101012815",
+      "size": 478461635,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Illustrator_3.0.10_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Illustrator_3.0.10_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.ailogo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.ailogo.png"
+    },
+    {
+      "name": "CODMunity",
+      "type": 1,
+      "bundleID": "com.convertify.codmobileloadout2",
+      "bundleIdentifier": "com.convertify.codmobileloadout2",
+      "version": "12.259",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031231728",
+      "size": 25537161,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/CODMunity_12.259_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/CODMunity_12.259_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.convertify.codmobileloadout2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.convertify.codmobileloadout2.png"
+    },
+    {
+      "name": "SongInfos",
+      "type": 1,
+      "bundleID": "de.firatcan.Song-Infos",
+      "bundleIdentifier": "de.firatcan.Song-Infos",
+      "version": "1.35.1",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031231726",
+      "size": 21849104,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/SongInfos_1.35.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/SongInfos_1.35.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.firatcan.Song-Infos.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.firatcan.Song-Infos.png"
+    },
+    {
+      "name": "WallGenie",
+      "type": 1,
+      "bundleID": "com.raktech.wallgenie",
+      "bundleIdentifier": "com.raktech.wallgenie",
+      "version": "2025.10",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031231724",
+      "size": 32780139,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/WallGenie_2025.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/WallGenie_2025.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raktech.wallgenie.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raktech.wallgenie.png"
+    },
+    {
+      "name": "B42",
+      "type": 1,
+      "bundleID": "com.soccerFitYou.App",
+      "bundleIdentifier": "com.soccerFitYou.App",
+      "version": "6.7.8",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031043839",
+      "size": 78998608,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/B42_6.7.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/B42_6.7.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soccerFitYou.App.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soccerFitYou.App.png"
+    },
+    {
+      "name": "Steps4Dogs",
+      "type": 1,
+      "bundleID": "com.steps4dogs.app",
+      "bundleIdentifier": "com.steps4dogs.app",
+      "version": "1.0.9",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031043830",
+      "size": 29352040,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Steps4Dogs_1.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Steps4Dogs_1.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steps4dogs.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steps4dogs.app.png"
+    },
+    {
+      "name": "Riveo",
+      "type": 1,
+      "bundleID": "co.forgeandform.riveo",
+      "bundleIdentifier": "co.forgeandform.riveo",
+      "version": "3.88",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031043824",
+      "size": 145589237,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Riveo_3.88_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Riveo_3.88_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.forgeandform.riveo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.forgeandform.riveo.png"
+    },
+    {
+      "name": "PixelMe",
+      "type": 1,
+      "bundleID": "sato.tokyo.pixel-me",
+      "bundleIdentifier": "sato.tokyo.pixel-me",
+      "version": "4.15.15",
+      "versionDate": "2025-10-31",
+      "fullDate": "20251031030749",
+      "size": 34065807,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/PixelMe_4.15.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/PixelMe_4.15.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sato.tokyo.pixel-me.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sato.tokyo.pixel-me.png"
+    },
+    {
+      "name": "JunoPublic",
+      "type": 1,
+      "bundleID": "com.rationalmatter.junoapp",
+      "bundleIdentifier": "com.rationalmatter.junoapp",
+      "version": "3.7.0",
+      "versionDate": "2025-10-30",
+      "fullDate": "20251030062244",
+      "size": 198651826,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/JunoPublic_3.7.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/JunoPublic_3.7.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rationalmatter.junoapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rationalmatter.junoapp.png"
+    },
+    {
+      "name": "Lumins",
+      "type": 1,
+      "bundleID": "com.Veyola.Lumin",
+      "bundleIdentifier": "com.Veyola.Lumin",
+      "version": "2.6.2",
+      "versionDate": "2025-10-29",
+      "fullDate": "20251029162942",
+      "size": 158423795,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/Lumins_2.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/Lumins_2.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Veyola.Lumin.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Veyola.Lumin.png"
+    },
+    {
+      "name": "One4Wall",
+      "type": 1,
+      "bundleID": "one4studio.wallpaper.one4wall",
+      "bundleIdentifier": "one4studio.wallpaper.one4wall",
+      "version": "4.1.9",
+      "versionDate": "2025-10-29",
+      "fullDate": "20251029162939",
+      "size": 76525383,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/One4Wall_4.1.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/One4Wall_4.1.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/one4studio.wallpaper.one4wall.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/one4studio.wallpaper.one4wall.png"
+    },
+    {
+      "name": "GymWorkout",
+      "type": 1,
+      "bundleID": "com.leapfitness.gym",
+      "bundleIdentifier": "com.leapfitness.gym",
+      "version": "1.3.6",
+      "versionDate": "2025-10-29",
+      "fullDate": "20251029161935",
+      "size": 60459110,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/GymWorkout_1.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/GymWorkout_1.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.gym.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapfitness.gym.png"
+    },
+    {
+      "name": "XML",
+      "type": 1,
+      "bundleID": "in.umango.xml",
+      "bundleIdentifier": "in.umango.xml",
+      "version": "1.2.0",
+      "versionDate": "2025-10-29",
+      "fullDate": "20251029030125",
+      "size": 29581473,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/XML_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/XML_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.umango.xml.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.umango.xml.png"
+    },
+    {
+      "name": "AIArtaPublic",
+      "type": 1,
+      "bundleID": "com.aiby.aiart",
+      "bundleIdentifier": "com.aiby.aiart",
+      "version": "4.16",
+      "versionDate": "2025-10-29",
+      "fullDate": "20251029002545",
+      "size": 78761420,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png"
+    },
+    {
+      "name": "OpusIPTVPublic",
+      "type": 1,
+      "bundleID": "com.handy.optus",
+      "bundleIdentifier": "com.handy.optus",
+      "version": "1.7.2",
+      "versionDate": "2025-10-28",
+      "fullDate": "20251028174923",
+      "size": 57328682,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/OpusIPTVPublic_1.7.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2025/OpusIPTVPublic_1.7.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.handy.optus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.handy.optus.png"
+    },
+    {
+      "name": "Picoboom",
+      "type": 2,
+      "bundleID": "com.vanilla.picoboom",
+      "bundleIdentifier": "com.vanilla.picoboom",
+      "version": "1.0.15",
+      "versionDate": "2025-10-27",
+      "fullDate": "20251027220503",
+      "size": 33578223,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/Picoboom_1.0.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/Picoboom_1.0.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vanilla.picoboom.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vanilla.picoboom.png"
+    },
+    {
+      "name": "PerfectAIPublic",
+      "type": 1,
+      "bundleID": "comai.redrawart.iosapp",
+      "bundleIdentifier": "comai.redrawart.iosapp",
+      "version": "1.1.8",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024110751",
+      "size": 157224705,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/PerfectAIPublic_1.1.8_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/PerfectAIPublic_1.1.8_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png"
+    },
+    {
+      "name": "Phoenix",
+      "type": 1,
+      "bundleID": "com.phoenix.motivationapp",
+      "bundleIdentifier": "com.phoenix.motivationapp",
+      "version": "2.1.23",
+      "versionDate": "2025-10-24",
+      "fullDate": "20251024011108",
+      "size": 24835203,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Phoenix_2.1.23_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Phoenix_2.1.23_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phoenix.motivationapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phoenix.motivationapp.png"
+    },
+    {
       "name": "Passbook",
       "type": 1,
       "bundleID": "com.am.pkstudio",
@@ -1394,944 +1778,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.karteto.application.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.karteto.application.png"
-    },
-    {
-      "name": "DoubleTake",
-      "type": 1,
-      "bundleID": "com.filmicpro.doubletake",
-      "bundleIdentifier": "com.filmicpro.doubletake",
-      "version": "3.1.2",
-      "versionDate": "2025-08-14",
-      "fullDate": "20250814030039",
-      "size": 36897978,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/DoubleTake_3.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/DoubleTake_3.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.filmicpro.doubletake.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.filmicpro.doubletake.png"
-    },
-    {
-      "name": "Mainspring",
-      "type": 1,
-      "bundleID": "com.naamapps.mainspring",
-      "bundleIdentifier": "com.naamapps.mainspring",
-      "version": "1.12.0",
-      "versionDate": "2025-08-14",
-      "fullDate": "20250814025529",
-      "size": 36739988,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Mainspring_1.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Mainspring_1.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.naamapps.mainspring.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.naamapps.mainspring.png"
-    },
-    {
-      "name": "OpenCam",
-      "type": 1,
-      "bundleID": "riccqi.Camel",
-      "bundleIdentifier": "riccqi.Camel",
-      "version": "1.1.1",
-      "versionDate": "2025-08-14",
-      "fullDate": "20250814025520",
-      "size": 22533893,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/OpenCam_1.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/OpenCam_1.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/riccqi.Camel.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/riccqi.Camel.png"
-    },
-    {
-      "name": "Pearla",
-      "type": 1,
-      "bundleID": "io.houseofmars.Pearla",
-      "bundleIdentifier": "io.houseofmars.Pearla",
-      "version": "3.1.0",
-      "versionDate": "2025-08-12",
-      "fullDate": "20250812232717",
-      "size": 292188195,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/Pearla_3.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/Pearla_3.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.houseofmars.Pearla.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.houseofmars.Pearla.png"
-    },
-    {
-      "name": "MistLens",
-      "type": 1,
-      "bundleID": "com.latenightking.TrueFilm",
-      "bundleIdentifier": "com.latenightking.TrueFilm",
-      "version": "2.3",
-      "versionDate": "2025-08-12",
-      "fullDate": "20250812161543",
-      "size": 10406199,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MistLens_2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MistLens_2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png"
-    },
-    {
-      "name": "AdGuardPro",
-      "type": 1,
-      "bundleID": "com.adguard.AdguardPro",
-      "bundleIdentifier": "com.adguard.AdguardPro",
-      "version": "4.5.11",
-      "versionDate": "2025-08-11",
-      "fullDate": "20250811005258",
-      "size": 37340833,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/AdGuardPro_4.5.11_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/AdGuardPro_4.5.11_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardPro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardPro.png"
-    },
-    {
-      "name": "Amie",
-      "type": 1,
-      "bundleID": "so.amie.ios-app",
-      "bundleIdentifier": "so.amie.ios-app",
-      "version": "1.15.20",
-      "versionDate": "2025-08-07",
-      "fullDate": "20250807000013",
-      "size": 90747776,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2025/Amie_1.15.20_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2025/Amie_1.15.20_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/so.amie.ios-app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/so.amie.ios-app.png"
-    },
-    {
-      "name": "audiomack",
-      "type": 1,
-      "bundleID": "com.audiomack.iphone",
-      "bundleIdentifier": "com.audiomack.iphone",
-      "version": "7.15.0",
-      "versionDate": "2025-08-05",
-      "fullDate": "20250805211507",
-      "size": 243958959,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/audiomack_7.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/audiomack_7.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png"
-    },
-    {
-      "name": "OurPact",
-      "type": 1,
-      "bundleID": "com.parentsware.ourpact",
-      "bundleIdentifier": "com.parentsware.ourpact",
-      "version": "9.16.0",
-      "versionDate": "2025-08-05",
-      "fullDate": "20250805110247",
-      "size": 16545653,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/OurPact_9.16.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/OurPact_9.16.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parentsware.ourpact.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parentsware.ourpact.png"
-    },
-    {
-      "name": "ForeFlight",
-      "type": 1,
-      "bundleID": "com.foreflight.ForeFlightMobile",
-      "bundleIdentifier": "com.foreflight.ForeFlightMobile",
-      "version": "17.7.4",
-      "versionDate": "2025-08-05",
-      "fullDate": "20250805010656",
-      "size": 183468712,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/ForeFlight_17.7.4_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/ForeFlight_17.7.4_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IAP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png"
-    },
-    {
-      "beta": false,
-      "name": "Flycast",
-      "bundleIdentifier": "com.flyinghead.Flycast",
-      "developerName": "Flyinghead",
-      "subtitle": "Dreamcast, Naomi and Atomiswave emulator.",
-      "version": "v2.5",
-      "versionDate": "2025-05-07T11:36:00+02:00",
-      "versionDescription": "DCNet support, new on-screen gamepad",
-      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.5/Flycast-2.5.ipa",
-      "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
-      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
-      "tintColor": "9b54fd",
-      "size": 8161611,
-      "screenshotURLs": [
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
-      ]
-    },
-    {
-      "name": "ProCam - Pro Camera (Hacked)",
-      "bundleIdentifier": "gemini.ProCam-2",
-      "developerName": "Nabzclan",
-      "subtitle": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval",
-      "localizedDescription": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps, Tweaked Apps\n\n BundleID: gemini.ProCam-2\n\n Downloads: 224\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1746852888.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17468528883588397823.webp",
-        "https://apps.nabzclan.vip/screenshots/17468528884798693545.webp",
-        "https://apps.nabzclan.vip/screenshots/17468528885482515777.webp",
-        "https://apps.nabzclan.vip/screenshots/17468528886213015223.webp",
-        "https://apps.nabzclan.vip/screenshots/17468528886893894107.webp",
-        "https://apps.nabzclan.vip/screenshots/17468528887524426419.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "14.6.9",
-          "date": "2025-05-11 03:49:18",
-          "localizedDescription": "Current of ProCam - Pro Camera (Hacked) - 14.6.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
-          "size": 70307020
-        },
-        {
-          "version": "14.6.9",
-          "date": "2025-05-11 03:49:18",
-          "localizedDescription": "Old Version of ProCam - Pro Camera (Hacked) - 14.6.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
-          "size": 70307020
-        }
-      ],
-      "version": "14.6.9",
-      "versionDate": "2025-05-11 03:49:18",
-      "versionDescription": "SHOOTING MODES \r\n\r\n- Photo\r\n- Burst Mode\r\n- Slow Shutter\r\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\r\n- 3D Photo - requires dual lens camera system\r\n- Video\r\n- Time Lapse\r\n\r\nPHOTO SHUTTER RELEASE OPTIONS\r\n\r\n- Self-Timer \r\n- Anti-Shake\r\n- Screen Shutter / Big Button\r\n- Interval",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1362",
-      "formatedsize": "67.05 MB",
-      "size": 70307020
-    },
-    {
-      "name": "NBA 2K25 Arcade Edition",
-      "bundleIdentifier": "com.2ksports.nba2k25arcade",
-      "developerName": "2K",
-      "subtitle": "New in NBA 2K25 Arcade Edition:\r\n \u2022 Outdoor streetball courts and indoor courts, complete quests to earn rewards for your MyPLAYER like, shoes, outfits, tattoos, and more!\r\n \u2022 Ability to recruit NBA Legends to join your streetball squad and challenge players from across the globe in PvP Ranked Matches via Connection Games! Climb the Game Center Leaderboard and show the world who's boss!\r\n \u2022 An all-new badge system to mold your MyPLAYER into an NBA legend. Explore The Neighborhood and complete quests to earn badge points to enhance offensive and defensive stats!",
-      "localizedDescription": "New in NBA 2K25 Arcade Edition:\r\n \u2022 Outdoor streetball courts and indoor courts, complete quests to earn rewards for your MyPLAYER like, shoes, outfits, tattoos, and more!\r\n \u2022 Ability to recruit NBA Legends to join your streetball squad and challenge players from across the globe in PvP Ranked Matches via Connection Games! Climb the Game Center Leaderboard and show the world who's boss!\r\n \u2022 An all-new badge system to mold your MyPLAYER into an NBA legend. Explore The Neighborhood and complete quests to earn badge points to enhance offensive and defensive stats!\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.2ksports.nba2k25arcade\n\n Downloads: 59\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1746949268.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17469492680806259173.webp",
-        "https://apps.nabzclan.vip/screenshots/17469492681493125619.webp",
-        "https://apps.nabzclan.vip/screenshots/17469492681884883491.webp",
-        "https://apps.nabzclan.vip/screenshots/17469492682272432243.webp",
-        "https://apps.nabzclan.vip/screenshots/17469492682561909037.webp",
-        "https://apps.nabzclan.vip/screenshots/17469492682909037415.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.70",
-          "date": "2025-05-11 03:41:56",
-          "localizedDescription": "Current of NBA 2K25 Arcade Edition - 1.70",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1376",
-          "size": 1556925644
-        },
-        {
-          "version": "1.70",
-          "date": "2025-05-11 03:41:56",
-          "localizedDescription": "Old Version of NBA 2K25 Arcade Edition - 1.70",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1376",
-          "size": 1556925644
-        }
-      ],
-      "version": "1.70",
-      "versionDate": "2025-05-11 03:41:56",
-      "versionDescription": "New in NBA 2K25 Arcade Edition:\r\n \u2022 Outdoor streetball courts and indoor courts, complete quests to earn rewards for your MyPLAYER like, shoes, outfits, tattoos, and more!\r\n \u2022 Ability to recruit NBA Legends to join your streetball squad and challenge players from across the globe in PvP Ranked Matches via Connection Games! Climb the Game Center Leaderboard and show the world who's boss!\r\n \u2022 An all-new badge system to mold your MyPLAYER into an NBA legend. Explore The Neighborhood and complete quests to earn badge points to enhance offensive and defensive stats!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1376",
-      "formatedsize": "1.45 GB",
-      "size": 1556925644
-    },
-    {
-      "name": "NARUTO: Ultimate Ninja STORM",
-      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0431",
-      "developerName": "Bandai Namco Entertainment Inc.",
-      "subtitle": "[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!",
-      "localizedDescription": "[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: jp.co.bandainamcoent.BNEI0431\n\n Downloads: 103\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1746949035.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17469490355068758475.webp",
-        "https://apps.nabzclan.vip/screenshots/17469490355787330624.webp",
-        "https://apps.nabzclan.vip/screenshots/17469490356186888070.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.0.15",
-          "date": "2025-05-11 03:37:15",
-          "localizedDescription": "Current of NARUTO: Ultimate Ninja STORM - 1.0.15",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1375",
-          "size": 3468186091
-        },
-        {
-          "version": "1.0.15",
-          "date": "2025-05-11 03:37:15",
-          "localizedDescription": "Old Version of NARUTO: Ultimate Ninja STORM - 1.0.15",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1375",
-          "size": 3468186091
-        }
-      ],
-      "version": "1.0.15",
-      "versionDate": "2025-05-11 03:37:15",
-      "versionDescription": "[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1375",
-      "formatedsize": "3.23 GB",
-      "size": 3468186091
-    },
-    {
-      "name": "True Skate",
-      "bundleIdentifier": "com.trueaxis.skate",
-      "developerName": "True Axis",
-      "subtitle": "#1 game in 80 countries. Loved by millions of skateboarders all over the world.\r\n\r\n\"True Skate is clearly something special\" - 4.5/5 - Touch Arcade review.\r\n\r\nTrue Skate\u2122 is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.",
-      "localizedDescription": "#1 game in 80 countries. Loved by millions of skateboarders all over the world.\r\n\r\n\"True Skate is clearly something special\" - 4.5/5 - Touch Arcade review.\r\n\r\nTrue Skate\u2122 is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.trueaxis.skate\n\n Downloads: 29\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1734281200.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17342811998216739024.webp",
-        "https://apps.nabzclan.vip/screenshots/17342811999612223979.webp",
-        "https://apps.nabzclan.vip/screenshots/17342812000544335566.webp",
-        "https://apps.nabzclan.vip/screenshots/17342812001553154038.webp",
-        "https://apps.nabzclan.vip/screenshots/17342812002627512936.webp",
-        "https://apps.nabzclan.vip/screenshots/17342812003612856398.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.92",
-          "date": "2025-05-11 03:20:35",
-          "localizedDescription": "Current of True Skate - 1.5.92",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
-          "size": 133378867
-        },
-        {
-          "version": "1.5.91",
-          "date": "2025-02-05 17:22:31",
-          "localizedDescription": "Old Version of True Skate - 1.5.91",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1104",
-          "size": 123794882
-        },
-        {
-          "version": "1.5.92",
-          "date": "2025-05-11 03:20:35",
-          "localizedDescription": "Old Version of True Skate - 1.5.92",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
-          "size": 133378867
-        }
-      ],
-      "version": "1.5.92",
-      "versionDate": "2025-05-11 03:20:35",
-      "versionDescription": "#1 game in 80 countries. Loved by millions of skateboarders all over the world.\r\n\r\n\"True Skate is clearly something special\" - 4.5/5 - Touch Arcade review.\r\n\r\nTrue Skate\u2122 is the closest feeling to real-world skateboarding, with a decade long evolution as the ultimate skateboarding sim.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1374",
-      "formatedsize": "127.2 MB",
-      "size": 133378867
-    },
-    {
-      "name": "Paper.io 2 (Hacked)",
-      "bundleIdentifier": "io.voodoo.paper2",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Free in app purchases\n\n BundleID: io.voodoo.paper2\n\n Downloads: 75\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1746947172.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17469471722873788968.webp",
-        "https://apps.nabzclan.vip/screenshots/17469471723521751309.webp",
-        "https://apps.nabzclan.vip/screenshots/17469471724162093230.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "4.14.0",
-          "date": "2025-05-11 03:06:12",
-          "localizedDescription": "Current of Paper.io 2 (Hacked) - 4.14.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
-          "size": 121246842
-        },
-        {
-          "version": "4.14.0",
-          "date": "2025-05-11 03:06:12",
-          "localizedDescription": "Old Version of Paper.io 2 (Hacked) - 4.14.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
-          "size": 121246842
-        }
-      ],
-      "version": "4.14.0",
-      "versionDate": "2025-05-11 03:06:12",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1372",
-      "formatedsize": "115.63 MB",
-      "size": 121246842
-    },
-    {
-      "name": "Zsign",
-      "bundleIdentifier": "com.zsign.app",
-      "developerName": "Tien Sato",
-      "subtitle": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages",
-      "localizedDescription": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.zsign.app\n\n Downloads: 145\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1746945271.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17469453663276315.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453662231800.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453666982445.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453665298327.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453668831662.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453677325516.webp",
-        "https://apps.nabzclan.vip/screenshots/17469453671265453.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5.8",
-          "date": "2025-05-11 02:34:31",
-          "localizedDescription": "Current of Zsign - 1.5.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
-          "size": 16305356
-        },
-        {
-          "version": "1.5.8",
-          "date": "2025-05-11 02:34:31",
-          "localizedDescription": "Old Version of Zsign - 1.5.8",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
-          "size": 16305356
-        }
-      ],
-      "version": "1.5.8",
-      "versionDate": "2025-05-11 02:34:31",
-      "versionDescription": "Zsign is a custom-developed application based on Feather. We've fixed critical bugs and added powerful features inspired by eSign to deliver a smoother and more optimized user experience.\r\nInstead of waiting for updates from Feather, our dedicated team took the initiative to build and enhance the platform independently \u2014 ensuring faster performance, better reliability, and advanced functionality tailored to user needs.\r\n\r\nSupports both English and VNG languages",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1371",
-      "formatedsize": "15.55 MB",
-      "size": 16305356
-    },
-    {
-      "name": "Roblox - Delta Executor",
-      "bundleIdentifier": "com.roblox.robloxmobile",
-      "developerName": "delta team",
-      "subtitle": "delta is a Roblox Executor",
-      "localizedDescription": "delta is a Roblox Executor\n\n --- \n\n More app Information:\n\n Category: Tweaked Game, Roblox - Working Hacks\n\n BundleID: com.roblox.robloxmobile\n\n Downloads: 175\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1725784229.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17257842288272151845.webp",
-        "https://apps.nabzclan.vip/screenshots/17257842289395792603.webp",
-        "https://apps.nabzclan.vip/screenshots/17257842290021847843.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.668.658",
-          "date": "2025-05-10 02:20:13",
-          "localizedDescription": "Current of Roblox - Delta Executor - 2.668.658",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1369",
-          "size": 174587904
-        },
-        {
-          "version": "2.657.604",
-          "date": "2025-02-05 17:47:13",
-          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.657.604",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1196",
-          "size": 158125260
-        },
-        {
-          "version": "2.662.536",
-          "date": "2025-03-17 06:23:37",
-          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.662.536",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1282",
-          "size": 169345024
-        },
-        {
-          "version": "2.664.707",
-          "date": "2025-03-20 23:58:05",
-          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.664.707",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1306",
-          "size": 145227776
-        },
-        {
-          "version": "2.668.658",
-          "date": "2025-05-10 02:20:13",
-          "localizedDescription": "Old Version of Roblox - Delta Executor - 2.668.658",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1369",
-          "size": 174587904
-        }
-      ],
-      "version": "2.668.658",
-      "versionDate": "2025-05-10 02:20:13",
-      "versionDescription": "delta is a Roblox Executor",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1369",
-      "formatedsize": "166.5 MB",
-      "size": 174587904
-    },
-    {
-      "name": "GoDaddy Studio for Business (Hack)",
-      "bundleIdentifier": "com.gopotluck.over",
-      "developerName": "GoDaddy Mobile LLC",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Apps\n\n BundleID: com.gopotluck.over\n\n Downloads: 66\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1746856157.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17468561573718166016.webp",
-        "https://apps.nabzclan.vip/screenshots/17468561574655014423.webp",
-        "https://apps.nabzclan.vip/screenshots/17468561575158196090.webp",
-        "https://apps.nabzclan.vip/screenshots/17468561575702466335.webp",
-        "https://apps.nabzclan.vip/screenshots/17468561576276799216.webp",
-        "https://apps.nabzclan.vip/screenshots/17468561577008092919.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "8.54.0",
-          "date": "2025-05-10 01:49:17",
-          "localizedDescription": "Current of GoDaddy Studio for Business (Hack) - 8.54.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1368",
-          "size": 57252249
-        },
-        {
-          "version": "8.54.0",
-          "date": "2025-05-10 01:49:17",
-          "localizedDescription": "Old Version of GoDaddy Studio for Business (Hack) - 8.54.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1368",
-          "size": 57252249
-        }
-      ],
-      "version": "8.54.0",
-      "versionDate": "2025-05-10 01:49:17",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1368",
-      "formatedsize": "54.6 MB",
-      "size": 57252249
-    },
-    {
-      "name": "Clash of Clans - Null\u2019s Clash",
-      "bundleIdentifier": "com.supercell.magic",
-      "developerName": "null's team",
-      "subtitle": "This is a modded Clash of Clans server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\r\n\r\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.",
-      "localizedDescription": "This is a modded Clash of Clans server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\r\n\r\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.supercell.magic\n\n Downloads: 125\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1700863295.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17008632937456678096.webp",
-        "https://apps.nabzclan.vip/screenshots/17058860863042029.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "17.126.6",
-          "date": "2025-05-10 01:20:32",
-          "localizedDescription": "Current of Clash of Clans - Null\u2019s Clash - 17.126.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1367",
-          "size": 345505792
-        },
-        {
-          "version": "17.18.5",
-          "date": "2025-02-21 14:09:44",
-          "localizedDescription": "Old Version of Clash of Clans - Null\u2019s Clash - 17.18.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1210",
-          "size": 325373132
-        },
-        {
-          "version": "17.126.6",
-          "date": "2025-04-01 20:57:37",
-          "localizedDescription": "Old Version of Clash of Clans - Null\u2019s Clash - 17.126.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1342",
-          "size": 329525493
-        },
-        {
-          "version": "17.126.6",
-          "date": "2025-05-10 01:20:32",
-          "localizedDescription": "Old Version of Clash of Clans - Null\u2019s Clash - 17.126.6",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1367",
-          "size": 345505792
-        }
-      ],
-      "version": "17.126.6",
-      "versionDate": "2025-05-10 01:20:32",
-      "versionDescription": "This is a modded Clash of Clans server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\r\n\r\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1367",
-      "formatedsize": "329.5 MB",
-      "size": 345505792
-    },
-    {
-      "name": "Clash Royale - null's",
-      "bundleIdentifier": "com.supercell.scroll",
-      "developerName": "null's team",
-      "subtitle": "private server for Clash Royale",
-      "localizedDescription": "private server for Clash Royale\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.supercell.scroll\n\n Downloads: 120\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1700863619.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17008638029449000.webp",
-        "https://apps.nabzclan.vip/screenshots/17008638028606179.webp",
-        "https://apps.nabzclan.vip/screenshots/17008638022772872.webp",
-        "https://apps.nabzclan.vip/screenshots/17008638027292092.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "10.455.11",
-          "date": "2025-05-10 01:15:27",
-          "localizedDescription": "Current of Clash Royale - null's - 10.455.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1366",
-          "size": 749941555
-        },
-        {
-          "version": "10.455.11",
-          "date": "2025-05-10 01:15:27",
-          "localizedDescription": "Old Version of Clash Royale - null's - 10.455.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1366",
-          "size": 749941555
-        }
-      ],
-      "version": "10.455.11",
-      "versionDate": "2025-05-10 01:15:27",
-      "versionDescription": "private server for Clash Royale",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1366",
-      "formatedsize": "715.2 MB",
-      "size": 749941555
-    },
-    {
-      "name": "Brawl Stars - Nulls Brawl",
-      "bundleIdentifier": "com.supercell.laser",
-      "developerName": "Nulls Team",
-      "subtitle": "Brawl Stars with a private server can do anything you want.",
-      "localizedDescription": "Brawl Stars with a private server can do anything you want.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.supercell.laser\n\n Downloads: 83\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1704332658.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17043327185530298.webp",
-        "https://apps.nabzclan.vip/screenshots/17263549844199498.webp",
-        "https://apps.nabzclan.vip/screenshots/17263549858388383.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "61.249",
-          "date": "2025-05-10 01:09:11",
-          "localizedDescription": "Current of Brawl Stars - Nulls Brawl - 61.249",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1365",
-          "size": 853540864
-        },
-        {
-          "version": "59.197",
-          "date": "2025-01-15 13:00:10",
-          "localizedDescription": "Old Version of Brawl Stars - Nulls Brawl - 59.197",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1105",
-          "size": 571568291
-        },
-        {
-          "version": "60.420",
-          "date": "2025-03-13 20:07:22",
-          "localizedDescription": "Old Version of Brawl Stars - Nulls Brawl - 60.420",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1256",
-          "size": 727816601
-        },
-        {
-          "version": "61.249",
-          "date": "2025-05-10 01:09:11",
-          "localizedDescription": "Old Version of Brawl Stars - Nulls Brawl - 61.249",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1365",
-          "size": 853540864
-        }
-      ],
-      "version": "61.249",
-      "versionDate": "2025-05-10 01:09:11",
-      "versionDescription": "Brawl Stars with a private server can do anything you want.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1365",
-      "formatedsize": "814 MB",
-      "size": 853540864
-    },
-    {
-      "name": "Feather",
-      "bundleIdentifier": "kh.crysalis.feather",
-      "developerName": "khcrysalis",
-      "subtitle": "Feather is a free on-device iOS application manager installer that comes bundled with an app signer and a tweak injector.\r\n\r\nopen source:\r\nhttps://github.com/khcrysalis/Feather",
-      "localizedDescription": "Feather is a free on-device iOS application manager installer that comes bundled with an app signer and a tweak injector.\r\n\r\nopen source:\r\nhttps://github.com/khcrysalis/Feather\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: kh.crysalis.feather\n\n Downloads: 139\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1726902340.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17269023567016505.webp",
-        "https://apps.nabzclan.vip/screenshots/17269023568548882.webp",
-        "https://apps.nabzclan.vip/screenshots/17269023562621937.webp",
-        "https://apps.nabzclan.vip/screenshots/17269023573893525.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.4.1",
-          "date": "2025-05-10 00:55:21",
-          "localizedDescription": "Current of Feather - 1.4.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1363",
-          "size": 12582912
-        },
-        {
-          "version": "1.4.0",
-          "date": "2025-03-08 19:57:40",
-          "localizedDescription": "Old Version of Feather - 1.4.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1249",
-          "size": 12603883
-        },
-        {
-          "version": "1.4.1",
-          "date": "2025-05-10 00:55:21",
-          "localizedDescription": "Old Version of Feather - 1.4.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1363",
-          "size": 12582912
-        }
-      ],
-      "version": "1.4.1",
-      "versionDate": "2025-05-10 00:55:21",
-      "versionDescription": "Feather is a free on-device iOS application manager installer that comes bundled with an app signer and a tweak injector.\r\n\r\nopen source:\r\nhttps://github.com/khcrysalis/Feather",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1363",
-      "formatedsize": "12.0 MB",
-      "size": 12582912
-    },
-    {
-      "name": "MapleRead SE",
-      "bundleIdentifier": "com.maplepop.bmsea",
-      "developerName": "Maplepop LLC",
-      "subtitle": "MapleRead is dedicated to enable unique audio-visual reading experience for everyone.\r\n\r\n-----\r\n\r\nMapleRead includes a superb audio-visual EPUB e-book reader.\r\n- It lets you easily modify publisher's original book style to better suit your aesthetic taste.\r\n- It lets you instantly generate pseudo audiobooks with a choice of narrator voices over 40 languages.\r\n- It enables immersion reading so that you may read and listen to the same book in sync.\r\n- Background listening works well too. Compatible with Lock Screen Music Player and CarPlay.",
-      "localizedDescription": "MapleRead is dedicated to enable unique audio-visual reading experience for everyone.\r\n\r\n-----\r\n\r\nMapleRead includes a superb audio-visual EPUB e-book reader.\r\n- It lets you easily modify publisher's original book style to better suit your aesthetic taste.\r\n- It lets you instantly generate pseudo audiobooks with a choice of narrator voices over 40 languages.\r\n- It enables immersion reading so that you may read and listen to the same book in sync.\r\n- Background listening works well too. Compatible with Lock Screen Music Player and CarPlay.\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.maplepop.bmsea\n\n Downloads: 30\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1746852328.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17468523282764545405.webp",
-        "https://apps.nabzclan.vip/screenshots/17468523283844412665.webp",
-        "https://apps.nabzclan.vip/screenshots/17468523284714995736.webp",
-        "https://apps.nabzclan.vip/screenshots/17468523285372009831.webp",
-        "https://apps.nabzclan.vip/screenshots/17468523286397954581.webp",
-        "https://apps.nabzclan.vip/screenshots/17468523287301585729.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.8.2",
-          "date": "2025-05-10 00:45:28",
-          "localizedDescription": "Current of MapleRead SE - 5.8.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1361",
-          "size": 22586327
-        },
-        {
-          "version": "5.8.2",
-          "date": "2025-05-10 00:45:28",
-          "localizedDescription": "Old Version of MapleRead SE - 5.8.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1361",
-          "size": 22586327
-        }
-      ],
-      "version": "5.8.2",
-      "versionDate": "2025-05-10 00:45:28",
-      "versionDescription": "MapleRead is dedicated to enable unique audio-visual reading experience for everyone.\r\n\r\n-----\r\n\r\nMapleRead includes a superb audio-visual EPUB e-book reader.\r\n- It lets you easily modify publisher's original book style to better suit your aesthetic taste.\r\n- It lets you instantly generate pseudo audiobooks with a choice of narrator voices over 40 languages.\r\n- It enables immersion reading so that you may read and listen to the same book in sync.\r\n- Background listening works well too. Compatible with Lock Screen Music Player and CarPlay.",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1361",
-      "formatedsize": "21.54 MB",
-      "size": 22586327
-    },
-    {
-      "name": "CloudBeats: Cloud Music Player",
-      "bundleIdentifier": "com.willenapps.cloudplayer",
-      "developerName": "Offline song mp3 downloader",
-      "subtitle": "EASIEST WAY TO STREAM & ORGANIZE YOUR MUSIC",
-      "localizedDescription": "EASIEST WAY TO STREAM & ORGANIZE YOUR MUSIC\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.willenapps.cloudplayer\n\n Downloads: 38\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1730902160.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17309021586525894127.webp",
-        "https://apps.nabzclan.vip/screenshots/17309021589397326830.webp",
-        "https://apps.nabzclan.vip/screenshots/17309021592051816620.webp",
-        "https://apps.nabzclan.vip/screenshots/17309021595747901315.webp",
-        "https://apps.nabzclan.vip/screenshots/17309021598446276749.webp",
-        "https://apps.nabzclan.vip/screenshots/17309021601451581944.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.55.11",
-          "date": "2025-05-10 00:31:59",
-          "localizedDescription": "Current of CloudBeats: Cloud Music Player - 2.55.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1360",
-          "size": 14900264
-        },
-        {
-          "version": "2.55.10",
-          "date": "2024-11-06 14:09:20",
-          "localizedDescription": "Old Version of CloudBeats: Cloud Music Player - 2.55.10",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/911",
-          "size": 16106127
-        },
-        {
-          "version": "2.55.11",
-          "date": "2025-05-10 00:31:59",
-          "localizedDescription": "Old Version of CloudBeats: Cloud Music Player - 2.55.11",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1360",
-          "size": 14900264
-        }
-      ],
-      "version": "2.55.11",
-      "versionDate": "2025-05-10 00:31:59",
-      "versionDescription": "EASIEST WAY TO STREAM & ORGANIZE YOUR MUSIC",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1360",
-      "formatedsize": "14.21 MB",
-      "size": 14900264
-    },
-    {
-      "name": "My Perfect Hotel (Hack)",
-      "bundleIdentifier": "com.master.hotelmaster",
-      "developerName": "Nabzclan",
-      "subtitle": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "localizedDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done\n\n --- \n\n More app Information:\n\n Category: Free in app purchases, Tweaked Game\n\n BundleID: com.master.hotelmaster\n\n Downloads: 63\n\n Latest app store version: yes",
-      "iconURL": "https://apps.nabzclan.vip/images/1731096865.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17310968641676280116.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968645213440158.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968647578833705.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968648845767626.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968650337181880.webp",
-        "https://apps.nabzclan.vip/screenshots/17310968652059868111.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.22.0",
-          "date": "2025-05-10 00:27:59",
-          "localizedDescription": "Current of My Perfect Hotel (Hack) - 1.22.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
-          "size": 198600294
-        },
-        {
-          "version": "1.18.0",
-          "date": "2025-02-25 17:07:41",
-          "localizedDescription": "Old Version of My Perfect Hotel (Hack) - 1.18.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1239",
-          "size": 194301132
-        },
-        {
-          "version": "1.20.1",
-          "date": "2025-04-02 17:45:11",
-          "localizedDescription": "Old Version of My Perfect Hotel (Hack) - 1.20.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1350",
-          "size": 197656576
-        },
-        {
-          "version": "1.22.0",
-          "date": "2025-05-10 00:27:59",
-          "localizedDescription": "Old Version of My Perfect Hotel (Hack) - 1.22.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
-          "size": 198600294
-        }
-      ],
-      "version": "1.22.0",
-      "versionDate": "2025-05-10 00:27:59",
-      "versionDescription": "Hack Features:\r\n- Free in app purchases ( press buy then cancel )\r\n\r\nSteps:\r\n1. Press buy then cancel\r\n2. All Done",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1359",
-      "formatedsize": "189.4 MB",
-      "size": 198600294
-    },
-    {
-      "name": "P12Cracker",
-      "bundleIdentifier": "nabzclan.P12Cracker",
-      "developerName": "Nabzclan",
-      "subtitle": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more",
-      "localizedDescription": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: nabzclan.P12Cracker\n\n Downloads: 1374\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1725795193.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17458591437698693.webp",
-        "https://apps.nabzclan.vip/screenshots/17458591438954361.webp",
-        "https://apps.nabzclan.vip/screenshots/17458591435616287.webp",
-        "https://apps.nabzclan.vip/screenshots/17458591439280732.webp",
-        "https://apps.nabzclan.vip/screenshots/17458591438898268.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "beta 1.3",
-          "date": "2025-04-29 23:22:38",
-          "localizedDescription": "Current of P12Cracker - beta 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
-          "size": 5012193
-        },
-        {
-          "version": "beta 1.0",
-          "date": "2024-09-24 05:12:37",
-          "localizedDescription": "Old Version of P12Cracker - beta 1.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/504",
-          "size": 5284823
-        },
-        {
-          "version": "beta 1.2",
-          "date": "2025-03-18 15:21:34",
-          "localizedDescription": "Old Version of P12Cracker - beta 1.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1295",
-          "size": 4854906
-        },
-        {
-          "version": "beta 1.3",
-          "date": "2025-04-29 23:22:38",
-          "localizedDescription": "Old Version of P12Cracker - beta 1.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
-          "size": 5012193
-        }
-      ],
-      "version": "beta 1.3",
-      "versionDate": "2025-04-29 23:22:38",
-      "versionDescription": "A fast P12cracker tool powered by API Aries \r\n\r\nWarning:\r\n\r\nNeed to use own token...\r\n\r\n\r\nSetup video: \r\n\r\nhttps://www.youtube.com/watch?v=K0TBF1AZNkE\r\n\r\nFeatures:\r\n\r\n- Cracks p12 files\r\n\r\n- p12 password changer\r\n\r\n - and more",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1356",
-      "formatedsize": "4.78 MB",
-      "size": 5012193
-    },
-    {
-      "name": "Call of Duty: Mobile (Hacked) 5 (VNG)",
-      "bundleIdentifier": "com.activision.callofduty.shooter",
-      "developerName": "Lunite",
-      "subtitle": "menu included!\r\n\r\nFeatures:\r\n- Hitbox\r\n- Anticheat\r\nand more!",
-      "localizedDescription": "menu included!\r\n\r\nFeatures:\r\n- Hitbox\r\n- Anticheat\r\nand more!\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.activision.callofduty.shooter\n\n Downloads: 6892\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1743635121.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17436351216881940179.webp",
-        "https://apps.nabzclan.vip/screenshots/17436351217392495338.webp",
-        "https://apps.nabzclan.vip/screenshots/17436351217754423440.webp",
-        "https://apps.nabzclan.vip/screenshots/17436351218106184090.webp",
-        "https://apps.nabzclan.vip/screenshots/17436351218448852320.webp",
-        "https://apps.nabzclan.vip/screenshots/17436351219381228319.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.8.50",
-          "date": "2025-04-02 19:05:22",
-          "localizedDescription": "Current of Call of Duty: Mobile (Hacked) 5 (VNG) - 1.8.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
-          "size": 2437393940
-        },
-        {
-          "version": "1.8.50",
-          "date": "2025-04-02 19:05:22",
-          "localizedDescription": "Old Version of Call of Duty: Mobile (Hacked) 5 (VNG) - 1.8.50",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
-          "size": 2437393940
-        }
-      ],
-      "version": "1.8.50",
-      "versionDate": "2025-04-02 19:05:22",
-      "versionDescription": "menu included!\r\n\r\nFeatures:\r\n- Hitbox\r\n- Anticheat\r\nand more!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/1355",
-      "formatedsize": "2.27 GB",
-      "size": 2437393940
     }
   ],
   "userInfo": {}

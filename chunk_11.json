@@ -4,334 +4,184 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "VPN Rocket - (premium)",
-      "bundleIdentifier": "com.vpnmaster.VPNOneTap",
-      "developerName": "VPN Service for everyone",
-      "subtitle": "injected with premium",
-      "localizedDescription": "injected with premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.vpnmaster.VPNOneTap\n\n Downloads: 4406\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692898066.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16928980636077548317.webp",
-        "https://apps.nabzclan.vip/screenshots/16928980645124846448.webp",
-        "https://apps.nabzclan.vip/screenshots/16928980655103025970.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.5",
-          "date": "2023-08-24 17:27:46",
-          "localizedDescription": "Current of VPN Rocket - (premium) - 1.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
-          "size": 8199864
-        },
-        {
-          "version": "1.5",
-          "date": "2023-08-24 17:27:46",
-          "localizedDescription": "Old Version of VPN Rocket - (premium) - 1.5",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/186",
-          "size": 8199864
-        }
-      ],
-      "version": "1.5",
-      "versionDate": "2023-08-24 17:27:46",
-      "versionDescription": "injected with premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/186",
-      "formatedsize": "7.82 MB",
-      "size": 8199864
+      "name": "H2O",
+      "type": 1,
+      "bundleID": "co.airapps.waterreminder",
+      "bundleIdentifier": "co.airapps.waterreminder",
+      "version": "2025.7.2",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074724",
+      "size": 103642614,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1365",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1365",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1825",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://appstore.sidelix.vip/images/1761378019.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378019.png"
     },
     {
-      "name": "Angry birds rio",
-      "bundleIdentifier": "com.rovio.baba",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "Angry birds rio is a Limited addition angry birds game based off the movie rio and even though it was not nearly as Successful as angry birds Star Wars fans still loved it!",
-      "localizedDescription": "Angry birds rio is a Limited addition angry birds game based off the movie rio and even though it was not nearly as Successful as angry birds Star Wars fans still loved it!\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: com.rovio.baba\n\n Downloads: 901\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1692739625.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.6.9",
-          "date": "2023-08-24 02:48:09",
-          "localizedDescription": "Current of Angry birds rio - 2.6.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/175",
-          "size": 60261662
-        },
-        {
-          "version": "2.6.9",
-          "date": "2023-08-24 02:48:09",
-          "localizedDescription": "Old Version of Angry birds rio - 2.6.9",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/175",
-          "size": 60261662
-        }
-      ],
-      "version": "2.6.9",
-      "versionDate": "2023-08-24 02:48:09",
-      "versionDescription": "Angry birds rio is a Limited addition angry birds game based off the movie rio and even though it was not nearly as Successful as angry birds Star Wars fans still loved it!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/175",
-      "formatedsize": "57.47 MB",
-      "size": 60261662
+      "name": "LensAI",
+      "type": 1,
+      "bundleID": "com.lens.ai.app",
+      "bundleIdentifier": "com.lens.ai.app",
+      "version": "1.0.16",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074643",
+      "size": 76564990,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1359",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1359",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1822",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/1761377962.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377962.png"
     },
     {
-      "name": "Pobreflix : Movie & Tv Show (No ads)",
-      "bundleIdentifier": "com.peudon.music.player",
-      "developerName": "nabzclan",
-      "subtitle": "Ads are removed",
-      "localizedDescription": "Ads are removed\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.peudon.music.player\n\n Downloads: 3815\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1692842164.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16928421605394051784.webp",
-        "https://apps.nabzclan.vip/screenshots/16928421624385901252.webp",
-        "https://apps.nabzclan.vip/screenshots/16928421625995727584.webp",
-        "https://apps.nabzclan.vip/screenshots/16928421627496785053.webp",
-        "https://apps.nabzclan.vip/screenshots/16928421629073128549.webp",
-        "https://apps.nabzclan.vip/screenshots/16928421647957357228.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "6.0",
-          "date": "2023-08-24 01:56:05",
-          "localizedDescription": "Current of Pobreflix : Movie & Tv Show (No ads) - 6.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/177",
-          "size": 24358420
-        },
-        {
-          "version": "6.0",
-          "date": "2023-08-24 01:56:05",
-          "localizedDescription": "Old Version of Pobreflix : Movie & Tv Show (No ads) - 6.0",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/177",
-          "size": 24358420
-        }
-      ],
-      "version": "6.0",
-      "versionDate": "2023-08-24 01:56:05",
-      "versionDescription": "Ads are removed",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/177",
-      "formatedsize": "23.23 MB",
-      "size": 24358420
+      "name": "ahead",
+      "type": 1,
+      "bundleID": "com.aheadsolutions.aHead",
+      "bundleIdentifier": "com.aheadsolutions.aHead",
+      "version": "1.60.0",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074628",
+      "size": 182418221,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1357",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1357",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1821",
+      "appstore_download_count": 1,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761377949.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377949.png"
     },
     {
-      "name": "Toca Builders",
-      "bundleIdentifier": "com.tocaboca.tocabuilders",
-      "developerName": "Create with quirky characters",
-      "subtitle": "If you can imagine it you can build it with the six Toca Builders!",
-      "localizedDescription": "If you can imagine it you can build it with the six Toca Builders!\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.tocaboca.tocabuilders\n\n Downloads: 151\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1691169114.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16911691131624440900.webp",
-        "https://apps.nabzclan.vip/screenshots/16911691137771717841.webp",
-        "https://apps.nabzclan.vip/screenshots/16911691139734667299.webp",
-        "https://apps.nabzclan.vip/screenshots/16911691142216986573.webp",
-        "https://apps.nabzclan.vip/screenshots/16911691144796661710.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "2.3.1",
-          "date": "2023-08-04 17:11:54",
-          "localizedDescription": "Current of Toca Builders - 2.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/146",
-          "size": 32002539
-        },
-        {
-          "version": "2.3.1",
-          "date": "2023-08-04 17:11:54",
-          "localizedDescription": "Old Version of Toca Builders - 2.3.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/146",
-          "size": 32002539
-        }
-      ],
-      "version": "2.3.1",
-      "versionDate": "2023-08-04 17:11:54",
-      "versionDescription": "If you can imagine it you can build it with the six Toca Builders!",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/146",
-      "formatedsize": "30.52 MB",
-      "size": 32002539
+      "name": "WedslyPlanning",
+      "type": 1,
+      "bundleID": "com.wedbox.planning",
+      "bundleIdentifier": "com.wedbox.planning",
+      "version": "3.6.1",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074611",
+      "size": 61402754,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1355",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1355",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1820",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761377932.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377932.png"
     },
     {
-      "name": "MagicSign",
-      "bundleIdentifier": "com.MagicSign.ET85SL34DN",
-      "developerName": "MagicSign TEAM",
-      "subtitle": "iOS signing tool not better than esign",
-      "localizedDescription": "iOS signing tool not better than esign\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.MagicSign.ET85SL34DN\n\n Downloads: 1590\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1690673021.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.1.1",
-          "date": "2023-07-29 23:23:41",
-          "localizedDescription": "Current of MagicSign - 5.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/125",
-          "size": 16557015
-        },
-        {
-          "version": "5.1.1",
-          "date": "2023-07-29 23:23:41",
-          "localizedDescription": "Old Version of MagicSign - 5.1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/125",
-          "size": 16557015
-        }
-      ],
-      "version": "5.1.1",
-      "versionDate": "2023-07-29 23:23:41",
-      "versionDescription": "iOS signing tool not better than esign",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/125",
-      "formatedsize": "15.79 MB",
-      "size": 16557015
+      "name": "HeadifyAIHeadshotGenerator",
+      "type": 1,
+      "bundleID": "com.photoshoot.headshotaigenerator",
+      "bundleIdentifier": "com.photoshoot.headshotaigenerator",
+      "version": "4.18.3",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074501",
+      "size": 80078528,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1349",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1349",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1817",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/1761377844.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377844.png"
     },
     {
-      "name": "Tom loves Angela",
-      "bundleIdentifier": "Tim.and.com",
-      "developerName": "unknown",
-      "subtitle": "This game is for KIDS if you have a 3yr old who likes talking Tom he most likely will like this too! It was removed off the App Store in 2019 due to kids complaining that the chat feature was creepy so if you like lore or just wanna try the chat you can now",
-      "localizedDescription": "This game is for KIDS if you have a 3yr old who likes talking Tom he most likely will like this too! It was removed off the App Store in 2019 due to kids complaining that the chat feature was creepy so if you like lore or just wanna try the chat you can now\n\n --- \n\n More app Information:\n\n Category: Removed from the AppStore\n\n BundleID: Tim.and.com\n\n Downloads: 423\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1689515729.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/16895158365271839.webp",
-        "https://apps.nabzclan.vip/screenshots/16895158369224283.webp",
-        "https://apps.nabzclan.vip/screenshots/16895158369952091.webp",
-        "https://apps.nabzclan.vip/screenshots/16895158362250292.webp",
-        "https://apps.nabzclan.vip/screenshots/16895158362451991.webp"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "15.2",
-          "date": "2023-07-16 13:55:29",
-          "localizedDescription": "Current of Tom loves Angela - 15.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/93",
-          "size": 45
-        },
-        {
-          "version": "15.2",
-          "date": "2023-07-16 13:55:29",
-          "localizedDescription": "Old Version of Tom loves Angela - 15.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/93",
-          "size": 45
-        }
-      ],
-      "version": "15.2",
-      "versionDate": "2023-07-16 13:55:29",
-      "versionDescription": "This game is for KIDS if you have a 3yr old who likes talking Tom he most likely will like this too! It was removed off the App Store in 2019 due to kids complaining that the chat feature was creepy so if you like lore or just wanna try the chat you can now",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/93",
-      "formatedsize": "45.6",
-      "size": 45
+      "name": "Supershift",
+      "type": 1,
+      "bundleID": "io.erna",
+      "bundleIdentifier": "io.erna",
+      "version": "2025.21",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074446",
+      "size": 31754232,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1347",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1347",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1816",
+      "appstore_download_count": 1,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://appstore.sidelix.vip/images/1761377811.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377811.png"
     },
     {
-      "name": "Sodium Music player",
-      "bundleIdentifier": "com.cocotweaks.sodium",
-      "developerName": "CocoTweaks LLC",
-      "subtitle": "We're introducing sodium music player play any song you would like with no ads here are some features\r\n\r\n-Can make our own account to stay synced with the website version of sodium music player learn more account sodium web version.\r\n-stay updated with your fav music Artis\r\n\r\n-added app icon\r\n\r\n-loads faster\r\n\r\n-and more features",
-      "localizedDescription": "We're introducing sodium music player play any song you would like with no ads here are some features\r\n\r\n-Can make our own account to stay synced with the website version of sodium music player learn more account sodium web version.\r\n-stay updated with your fav music Artis\r\n\r\n-added app icon\r\n\r\n-loads faster\r\n\r\n-and more features\n\n --- \n\n More app Information:\n\n Category: Media\n\n BundleID: com.cocotweaks.sodium\n\n Downloads: 272\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1687271801.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "1.1",
-          "date": "2023-06-20 14:36:41",
-          "localizedDescription": "Current of Sodium Music player - 1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/49",
-          "size": 771368
-        },
-        {
-          "version": "1.1",
-          "date": "2023-06-20 14:36:41",
-          "localizedDescription": "Old Version of Sodium Music player - 1.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/49",
-          "size": 771368
-        }
-      ],
-      "version": "1.1",
-      "versionDate": "2023-06-20 14:36:41",
-      "versionDescription": "We're introducing sodium music player play any song you would like with no ads here are some features\r\n\r\n-Can make our own account to stay synced with the website version of sodium music player learn more account sodium web version.\r\n-stay updated with your fav music Artis\r\n\r\n-added app icon\r\n\r\n-loads faster\r\n\r\n-and more features",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/49",
-      "formatedsize": "753.29 KB",
-      "size": 771368
+      "name": "Infltr",
+      "type": 1,
+      "bundleID": "com.Yooshr.Infltr",
+      "bundleIdentifier": "com.Yooshr.Infltr",
+      "version": "6.15",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074433",
+      "size": 220064242,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1345",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1345",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1815",
+      "appstore_download_count": 1,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/1761377798.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377798.png"
     },
     {
-      "name": "The Weather Channel (No Ads)",
-      "bundleIdentifier": "com.weather.TWC",
-      "developerName": "unknown",
-      "subtitle": "This app has an adblocker injected not premium",
-      "localizedDescription": "This app has an adblocker injected not premium\n\n --- \n\n More app Information:\n\n Category: Tweaked Apps\n\n BundleID: com.weather.TWC\n\n Downloads: 231\n\n Latest app store version: no",
-      "iconURL": "https://apps.nabzclan.vip/images/1687266688.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "12.36.1",
-          "date": "2023-06-20 13:11:28",
-          "localizedDescription": "Current of The Weather Channel (No Ads) - 12.36.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/46",
-          "size": 136430223
-        },
-        {
-          "version": "12.36.1",
-          "date": "2023-06-20 13:11:28",
-          "localizedDescription": "Old Version of The Weather Channel (No Ads) - 12.36.1",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/46",
-          "size": 136430223
-        }
-      ],
-      "version": "12.36.1",
-      "versionDate": "2023-06-20 13:11:28",
-      "versionDescription": "This app has an adblocker injected not premium",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/46",
-      "formatedsize": "130.11 MB",
-      "size": 136430223
+      "name": "Pixly",
+      "type": 1,
+      "bundleID": "co.comapps.live.photo",
+      "bundleIdentifier": "co.comapps.live.photo",
+      "version": "1.24",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074401",
+      "size": 103139507,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1341",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1341",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1813",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://appstore.sidelix.vip/images/1761377736.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377736.png"
     },
     {
-      "name": "App cake",
-      "bundleIdentifier": "com.appcake.app",
-      "developerName": "App cake team",
-      "subtitle": "Note: apps will only be downloadable with the IPA file is using share and jailbreak mode must be on for this to work",
-      "localizedDescription": "Note: apps will only be downloadable with the IPA file is using share and jailbreak mode must be on for this to work\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.appcake.app\n\n Downloads: 5317\n\n Latest app store version: null",
-      "iconURL": "https://apps.nabzclan.vip/images/1687263400.webp",
-      "tintColor": "FFC300",
-      "screenshotURLs": [
-        "https://cdn.nabzclan.vip/apps/app-store/imgs/no-screenshots-found/ipalibrary.jpeg"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "7.2.2",
-          "date": "2023-06-20 12:16:40",
-          "localizedDescription": "Current of App cake - 7.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/32",
-          "size": 16169041
-        },
-        {
-          "version": "7.2.2",
-          "date": "2023-06-20 12:16:40",
-          "localizedDescription": "Old Version of App cake - 7.2.2",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/32",
-          "size": 16169041
-        }
-      ],
-      "version": "7.2.2",
-      "versionDate": "2023-06-20 12:16:40",
-      "versionDescription": "Note: apps will only be downloadable with the IPA file is using share and jailbreak mode must be on for this to work",
-      "downloadURL": "https://apps.nabzclan.vip/external-download/32",
-      "formatedsize": "15.42 MB",
-      "size": 16169041
+      "name": "PrettyUp",
+      "type": 1,
+      "bundleID": "com.floatcamellia.prettyup",
+      "bundleIdentifier": "com.floatcamellia.prettyup",
+      "version": "8.7.00",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074317",
+      "size": 284211561,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1335",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1335",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1810",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://appstore.sidelix.vip/images/1761377688.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377688.png"
+    },
+    {
+      "name": "Scarlet",
+      "type": 1,
+      "bundleID": "com.DebianArch.ScarletPersonalXYZZZ",
+      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
+      "version": "1.0",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025052501",
+      "size": 15855158,
+      "down": "https://appstore.sidelix.vip/download-repo-source/333",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/333",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/1307",
+      "appstore_download_count": 17,
+      "developerName": "polo",
+      "localizedDescription": "Scarlet iOS signing app",
+      "icon": "https://appstore.sidelix.vip/images/1761363717.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761363717.png"
     },
     {
       "name": "OVinfoPro",
@@ -354,6 +204,17 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App to transform your iPhone into a versatile remote control. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.remotemouse.remotemouse4free.png"
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "version": "2.0.14-1",
+      "versionDate": "2025-01-08",
+      "size": 7027297,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/iTorrent-2.0.14-1.ipa",
+      "developerName": "XITRIX",
+      "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png"
     },
     {
       "name": "TrollFools",
@@ -488,6 +349,17 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/it.ned.appdb-ios.png"
     },
     {
+      "name": "ZiniTeviPlusPlus",
+      "bundleIdentifier": "jb.zini.tevi",
+      "version": "1.5.0",
+      "versionDate": "2024-10-17",
+      "size": 7948926,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ZiniTeviPlusPlus/ZiniTeviPlusPlus-1.5.0.ipa",
+      "developerName": "AppDB",
+      "localizedDescription": "Another movie app, modded to remove ads and tracking. No need to toggle the disable tracking options\nLast updated: 02-09-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jb.zini.tevi.png"
+    },
+    {
       "name": "YomuPro",
       "bundleIdentifier": "net.cecinestpasparis.yomu",
       "version": "3.6.2",
@@ -530,6 +402,17 @@
       "developerName": "iApps",
       "localizedDescription": "Injected with VIP. White Noise Pro includes a variety of sounds in categories ranging from: sleep, meditation, ASMR, lullaby, classical and relaxing music.\nLast updated: 07-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.laoyue.whitenoise.png"
+    },
+    {
+      "name": "WazePlus",
+      "bundleIdentifier": "com.waze.iphone",
+      "version": "4.100.0",
+      "versionDate": "2024-10-16",
+      "size": 58293096,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WazePlus/WazePlus-4.100.0.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.\nLast updated: 12-23-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.waze.iphone.png"
     },
     {
       "name": "WaterMinderPremium",
@@ -829,17 +712,6 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Sudachi.png"
     },
     {
-      "name": "StructuredPro",
-      "bundleIdentifier": "com.leomehlig.today",
-      "version": "3.3.1",
-      "versionDate": "2024-10-13",
-      "size": 66861189,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StructuredPro/StructuredPro-3.3.1.ipa",
-      "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leomehlig.today.png"
-    },
-    {
       "name": "StrengthTrainingPro",
       "bundleIdentifier": "com.musclemotion.strengthnative",
       "version": "2.7.33",
@@ -849,6 +721,17 @@
       "developerName": "Crack Hub",
       "localizedDescription": "An advanced, PRO, and interactive anatomy and exercises app featuring more than 4000 high-quality 3D videos. It includes science-backed exercises, workout plans, tips, and theoretical knowledge covering muscle, movement, and fitness, designed to elevate your expertise in the field. A user requested it so here it is. Note: Tweak fixed\nLast updated: 04-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musclemotion.strengthnative.png"
+    },
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "com.streamer.ios",
+      "version": "1.2.32",
+      "versionDate": "2024-10-13",
+      "size": 27651126,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Streamer/Streamer-1.2.32.ipa",
+      "developerName": "StreamerApp",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
       "name": "StravaPremium",
@@ -884,6 +767,17 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.peach.app.png"
     },
     {
+      "name": "Snapchatiota",
+      "bundleIdentifier": "com.toyopagroup.picaboo",
+      "version": "12.60-4.4.1",
+      "versionDate": "2024-10-13",
+      "size": 105706025,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Snapchatiota/Snapchatiota-12.60-4.4.1.ipa",
+      "developerName": "Kanji's discord / nowesr1 / cotegod",
+      "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+    },
+    {
       "name": "SmuleVIP",
       "bundleIdentifier": "com.smule.sing",
       "version": "12.2.3",
@@ -915,6 +809,17 @@
       "developerName": "Qamislo - Apps",
       "localizedDescription": "Another HDO Play under a different name, UI is way better than the one above.\nLast updated: 12-03-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tovuen.play.png"
+    },
+    {
+      "name": "Shadowrocket",
+      "bundleIdentifier": "com.liguangming.Shadowrocket",
+      "version": "2.2.41",
+      "versionDate": "2024-10-13",
+      "size": 34343960,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Shadowrocket/Shadowrocket-2.2.41.ipa",
+      "developerName": "Qamislo - Apps",
+      "localizedDescription": "This link allow to use or potentially unlock the premium functions of many applications. Use only if you're well-versed with the process.\nLast updated: 12-19-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.liguangming.Shadowrocket.png"
     },
     {
       "name": "SenditDiamond",
@@ -1236,17 +1141,6 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
     },
     {
-      "name": "OniriPremium",
-      "bundleIdentifier": "com.sublime.capture",
-      "version": "4.5.5",
-      "versionDate": "2024-10-11",
-      "size": 80376918,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OniriPremium/OniriPremium-4.5.5.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sublime.capture.png"
-    },
-    {
       "name": "ObjectRemoval",
       "bundleIdentifier": "com.skysoft.removalfree",
       "version": "3.8.7",
@@ -1278,6 +1172,17 @@
       "developerName": "SuperMarcus",
       "localizedDescription": "Anime streamer, supports multiple sources and comes with a user-friendly GUI\nLast updated: 07-17-2023\nStatus: \u2754",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.marcuszhou.NineAnimator.png"
+    },
+    {
+      "name": "Nicegram",
+      "bundleIdentifier": "app.nicegram",
+      "version": "1.1.5",
+      "versionDate": "2024-10-11",
+      "size": 195552923,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Nicegram/Nicegram-1.1.5.ipa",
+      "developerName": "CyPwn IPA Library / AppDB / IPA Library / MeemNon / DPixel / zxcvbn\u2019s tweaked IPAs / iOS Tutorials + App Cracks",
+      "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.nicegram.png"
     },
     {
       "name": "NGLPro",
@@ -1379,125 +1284,15 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
-      "name": "MatterPremium",
-      "bundleIdentifier": "com.Matter.MatterApp",
-      "version": "3.1.4",
-      "versionDate": "2024-10-09",
-      "size": 83875186,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
-    },
-    {
-      "name": "Mangayomi",
-      "bundleIdentifier": "com.kodjodevf.mangayomi",
-      "version": "0.1.0",
-      "versionDate": "2024-10-09",
-      "size": 93145110,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
-      "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
-    },
-    {
-      "name": "LyricifyMobile",
-      "bundleIdentifier": "com.wxriw.LyricifyMobile",
-      "version": "1.4.3",
-      "versionDate": "2024-10-09",
-      "size": 23887689,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
-      "developerName": "Lyricify-App",
-      "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png"
-    },
-    {
-      "name": "LoopsiePro",
-      "bundleIdentifier": "com.gamelounge.loopsie.ios",
-      "version": "8.10.2",
-      "versionDate": "2024-10-09",
-      "size": 185592561,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
-    },
-    {
-      "name": "LokLok",
-      "bundleIdentifier": "com.xoumb.mp3.video.player",
-      "version": "5.0",
-      "versionDate": "2024-10-09",
-      "size": 22035388,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LokLok/LokLok-5.0.ipa",
-      "developerName": "N/A",
-      "localizedDescription": "HDO Box clone. see original app description for more info\nLast updated: 07-17-2023\nStatus: \u26a0\ufe0f \u2754",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xoumb.mp3.video.player.png"
-    },
-    {
-      "name": "LocSim",
-      "bundleIdentifier": "com.mika.LocationSimulation",
-      "version": "1.3.7",
-      "versionDate": "2024-10-09",
-      "size": 1917334,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocSim/LocSim-1.3.7.ipa",
-      "developerName": "CyPwn IPA Library",
-      "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
-    },
-    {
-      "name": "Limon",
-      "bundleIdentifier": "com.antique.Limon",
-      "version": "1.0.8.4",
-      "versionDate": "2024-10-09",
-      "size": 17299572,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Limon/Limon-1.0.8.4.ipa",
-      "developerName": "emuPlace",
-      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
-    },
-    {
-      "name": "KleinanzeigenPlus",
-      "bundleIdentifier": "com.ebaykleinanzeigen.ebc",
-      "version": "100.16.0",
-      "versionDate": "2024-10-09",
-      "size": 178228936,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KleinanzeigenPlus/KleinanzeigenPlus-100.16.0.ipa",
-      "developerName": "binnichtaktiv's iPA Library / jkhsjdhjs",
-      "localizedDescription": "App to buy and sell on Germany's No. 1 online marketplace. A user requested it so here it is. Note: It is injected with an Adblocker and a second tweak to remove any text or unnecessary URL query parameters when sharing items.\nLast updated: 08-10-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ebaykleinanzeigen.ebc.png"
-    },
-    {
-      "name": "KetchupPlus",
-      "bundleIdentifier": "com.benricemccarthy.ketchup",
-      "version": "2024.2",
-      "versionDate": "2024-10-07",
-      "size": 191218824,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KetchupPlus/KetchupPlus-2024.2.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.benricemccarthy.ketchup.png"
-    },
-    {
-      "name": "Jitterbug",
-      "bundleIdentifier": "com.osy86.Jitterbug",
-      "version": "1.3.1",
-      "versionDate": "2024-10-07",
-      "size": 23012478,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Jitterbug/Jitterbug-1.3.1.ipa",
-      "developerName": "osy",
-      "localizedDescription": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT enabled. Can also establish a VPN tunnel using TrollStore to run apps on the local device without needing a second device.\nLast updated: 12-12-2023\nStatus: \u2754",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osy86.Jitterbug.png"
-    },
-    {
-      "name": "InkhunterPremium",
-      "bundleIdentifier": "InkHunter.inkHunter",
-      "version": "3.0.6",
-      "versionDate": "2024-10-03",
-      "size": 18114231,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InkhunterPremium/InkhunterPremium-3.0.6.ipa",
-      "developerName": "Paisseon",
-      "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png"
+      "name": "MeituPlusPlus",
+      "bundleIdentifier": "com.meitu.mtxx",
+      "version": "10.1.0",
+      "versionDate": "2024-10-10",
+      "size": 234111510,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MeituPlusPlus/MeituPlusPlus-10.1.0.ipa",
+      "developerName": "iApps / iOS Tutorials + App Cracks",
+      "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!!\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
     }
   ],
   "userInfo": {}

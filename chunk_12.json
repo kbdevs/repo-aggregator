@@ -4,6 +4,149 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "MatterPremium",
+      "bundleIdentifier": "com.Matter.MatterApp",
+      "version": "3.1.4",
+      "versionDate": "2024-10-09",
+      "size": 83875186,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
+    },
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "version": "0.1.0",
+      "versionDate": "2024-10-09",
+      "size": 93145110,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
+      "developerName": "kodjodevf",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
+    },
+    {
+      "name": "LyricifyMobile",
+      "bundleIdentifier": "com.wxriw.LyricifyMobile",
+      "version": "1.4.3",
+      "versionDate": "2024-10-09",
+      "size": 23887689,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
+      "developerName": "Lyricify-App",
+      "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png"
+    },
+    {
+      "name": "LooraPremium",
+      "bundleIdentifier": "ai.loora.Loora-iOS",
+      "version": "1.60.2",
+      "versionDate": "2024-10-09",
+      "size": 45433750,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LooraPremium/LooraPremium-1.60.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Personal AI English coach to practice conversation. A user requested it so here it is.\nLast updated: 08-09-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.loora.Loora-iOS.png"
+    },
+    {
+      "name": "LoopsiePro",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
+      "version": "8.10.2",
+      "versionDate": "2024-10-09",
+      "size": 185592561,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
+    },
+    {
+      "name": "LokLok",
+      "bundleIdentifier": "com.xoumb.mp3.video.player",
+      "version": "5.0",
+      "versionDate": "2024-10-09",
+      "size": 22035388,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LokLok/LokLok-5.0.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "HDO Box clone. see original app description for more info\nLast updated: 07-17-2023\nStatus: \u26a0\ufe0f \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xoumb.mp3.video.player.png"
+    },
+    {
+      "name": "LocSim",
+      "bundleIdentifier": "com.mika.LocationSimulation",
+      "version": "1.3.7",
+      "versionDate": "2024-10-09",
+      "size": 1917334,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocSim/LocSim-1.3.7.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
+    },
+    {
+      "name": "Limon",
+      "bundleIdentifier": "com.antique.Limon",
+      "version": "1.0.8.4",
+      "versionDate": "2024-10-09",
+      "size": 17299572,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Limon/Limon-1.0.8.4.ipa",
+      "developerName": "emuPlace",
+      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
+    },
+    {
+      "name": "Kodi",
+      "bundleIdentifier": "org.xbmc.kodi-ios",
+      "version": "20.2",
+      "versionDate": "2024-10-09",
+      "size": 139017750,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.2.ipa",
+      "developerName": "ArianaMinajj",
+      "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.xbmc.kodi-ios.png"
+    },
+    {
+      "name": "KleinanzeigenPlus",
+      "bundleIdentifier": "com.ebaykleinanzeigen.ebc",
+      "version": "100.16.0",
+      "versionDate": "2024-10-09",
+      "size": 178228936,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KleinanzeigenPlus/KleinanzeigenPlus-100.16.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library / jkhsjdhjs",
+      "localizedDescription": "App to buy and sell on Germany's No. 1 online marketplace. A user requested it so here it is. Note: It is injected with an Adblocker and a second tweak to remove any text or unnecessary URL query parameters when sharing items.\nLast updated: 08-10-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ebaykleinanzeigen.ebc.png"
+    },
+    {
+      "name": "KetchupPlus",
+      "bundleIdentifier": "com.benricemccarthy.ketchup",
+      "version": "2024.2",
+      "versionDate": "2024-10-07",
+      "size": 191218824,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KetchupPlus/KetchupPlus-2024.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.benricemccarthy.ketchup.png"
+    },
+    {
+      "name": "Jitterbug",
+      "bundleIdentifier": "com.osy86.Jitterbug",
+      "version": "1.3.1",
+      "versionDate": "2024-10-07",
+      "size": 23012478,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Jitterbug/Jitterbug-1.3.1.ipa",
+      "developerName": "osy",
+      "localizedDescription": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT enabled. Can also establish a VPN tunnel using TrollStore to run apps on the local device without needing a second device.\nLast updated: 12-12-2023\nStatus: \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osy86.Jitterbug.png"
+    },
+    {
+      "name": "InkhunterPremium",
+      "bundleIdentifier": "InkHunter.inkHunter",
+      "version": "3.0.6",
+      "versionDate": "2024-10-03",
+      "size": 18114231,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InkhunterPremium/InkhunterPremium-3.0.6.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png"
+    },
+    {
       "name": "Downie",
       "bundleIdentifier": "com.charliemonroe.Downie",
       "version": "1.0-92",
@@ -114,15 +257,26 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
     },
     {
-      "name": "HDFlixNoAds",
-      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "name": "HDFlixDezokr",
+      "bundleIdentifier": "com.huiynfim.play",
       "version": "3.0",
       "versionDate": "2024-10-01",
-      "size": 32320054,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlixNoAds/HDFlixNoAds-3.0.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets / ArianaMinajj",
-      "localizedDescription": "HD Flix without ads. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png"
+      "size": 30396686,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlixDezokr/HDFlixDezokr-3.0.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Removed from the repo: A better version of this app is hosted.\nLast updated: 03-19-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.huiynfim.play.png"
+    },
+    {
+      "name": "Grammarly",
+      "bundleIdentifier": "com.grammarly.keyboard",
+      "version": "4.0.0",
+      "versionDate": "2024-10-01",
+      "size": 156360115,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Grammarly/Grammarly-4.0.0.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Removed from the repo: Tweak useless (simply removes the \"upgrade\" icon).\nLast updated: 12-15-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.grammarly.keyboard.png"
     },
     {
       "name": "GoogleNews",
@@ -246,6 +400,17 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png"
     },
     {
+      "name": "Feather",
+      "bundleIdentifier": "kh.crysalis.feather",
+      "version": "1.0.1",
+      "versionDate": "2024-09-29",
+      "size": 12480714,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Feather/Feather-1.0.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/kh.crysalis.feather.png"
+    },
+    {
       "name": "FastingPremium",
       "bundleIdentifier": "com.leapfitness.fasting",
       "version": "1.6.7",
@@ -345,26 +510,15 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png"
     },
     {
-      "name": "DarkNoisePro",
-      "bundleIdentifier": "com.charliemchapman.dark-noise",
-      "version": "3.2.6",
-      "versionDate": "2024-09-29",
-      "size": 38006205,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DarkNoisePro/DarkNoisePro-3.2.6.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to play ambient noise to help you sleep, focus, or relax.\nLast updated: 04-15-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemchapman.dark-noise.png"
-    },
-    {
-      "name": "Crunchyroll",
-      "bundleIdentifier": "com.crunchyroll.iphone",
-      "version": "4.40.0",
+      "name": "Cowabunga",
+      "bundleIdentifier": "com.leemin.Cowabunga",
+      "version": "10.0.2",
       "versionDate": "2024-09-28",
-      "size": 72594141,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Crunchyroll/Crunchyroll-4.40.0.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png"
+      "size": 21557066,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Cowabunga/Cowabunga-10.0.2.ipa",
+      "developerName": "leminlimez",
+      "localizedDescription": "If you're using a device with a home button, please read this. A Jailed toolbox application for iOS 14.0-16.1.2 using CVE-2022-46689. Changes are permanent on iOS 14-14.8.1, use at your own risk\nLast updated: 06-04-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
     },
     {
       "name": "CopylogTS",
@@ -464,17 +618,6 @@
       "developerName": "SamoXcZ",
       "localizedDescription": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is.\nLast updated: 03-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.CanYouJB.SamoXcZ.png"
-    },
-    {
-      "name": "CamScannerPremium",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "6.59.0",
-      "versionDate": "2024-09-28",
-      "size": 125089710,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CamScannerPremium/CamScannerPremium-6.59.0.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Injected with Premium. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.intsig.CamScannerLite.png"
     },
     {
       "name": "CallAssist",
@@ -596,17 +739,6 @@
       "developerName": "IAppsBestLibrary",
       "localizedDescription": "Flashcard app that uses an enhanced spaced repetition algorithm to help you study efficiently and also supports exam preparation and vocabulary learning. Customize your flashcards or choose from over 50,000 pre-made decks. A user requested it so here it is.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.vedasapps.flashcards.png"
-    },
-    {
-      "name": "AnkiMobile",
-      "bundleIdentifier": "net.ichi2.anki",
-      "version": "24.08",
-      "versionDate": "2024-09-27",
-      "size": 16413736,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnkiMobile/AnkiMobile-24.08.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.ichi2.anki.png"
     },
     {
       "name": "Aidoku",
@@ -923,105 +1055,6 @@
       }
     },
     {
-      "name": "PojavLauncher iOS",
-      "bundleIdentifier": "net.kdt.pojavlauncher",
-      "developerName": "PojavLauncherTeam",
-      "subtitle": "Brought Minecraft: Java Edition to mobile devices.",
-      "localizedDescription": "PojavLauncher was a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\nNotice: PojavLauncher iOS has been discontinued and replaced by Amethyst. This application is here for archival purposes only, as it does not work on the latest version of iOS.",
-      "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
-      "tintColor": "#746344",
-      "category": "games",
-      "screenshots": [
-        {
-          "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
-          "width": 2796,
-          "height": 1290
-        },
-        {
-          "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
-          "width": 2796,
-          "height": 1290
-        },
-        {
-          "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
-          "width": 2796,
-          "height": 1290
-        },
-        {
-          "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG",
-          "width": 2796,
-          "height": 1290
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.2",
-          "date": "2023-05-06T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.2 Deepslate puts a focus on our core functionality, working to squash bugs, improve performance, and increase reliability.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        },
-        {
-          "version": "2.1.3",
-          "date": "2023-01-17T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.1.3 Sculk Catalyst includes various bugfixes for our users.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1.3/net.kdt.pojavlauncher-2.1.3-ios.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        },
-        {
-          "version": "2.1.2",
-          "date": "2023-01-02T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.1.2 Sculk Catalyst includes various bugfixes for our users. This update is highly recommended to return to a stable codebase.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1.2/net.kdt.pojavlauncher-2.1.2-ios.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        },
-        {
-          "version": "2.1.1",
-          "date": "2022-12-18T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.1.1 Sculk Catalyst includes various bugfixes for our users.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1.1/net.kdt.pojavlauncher-2.1.1-ios.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        },
-        {
-          "version": "2.1",
-          "date": "2022-12-10T17:00:00-05:00",
-          "localizedDescription": "PojavLauncher 2.1 Sculk Catalyst is the first release of PojavLauncher for unjailbroken devices. It comes paired with improvements to the user interface, custom controls and support for keyboard, mouse, and controllers, demo mode, and performance optimizations with more compatibility.",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1/net.kdt.pojavlauncher-2.1.ipa",
-          "size": 108175347,
-          "minOSVersion": "12.2",
-          "maxOSVersion": "18.7.1"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.private.security.container-required",
-          "com.apple.private.mobileinstall.upgrade-enabled",
-          "com.apple.private.security.no-sandbox",
-          "com.apple.private.security.storage.AppDataContainers",
-          "com.apple.private.security.storage.MobileDocuments",
-          "com.apple.security.iokit-user-client-class",
-          "platform-application",
-          "get-task-allow",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.private.memorystatus",
-          "local.sandboxed-jit"
-        ],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "PojavLauncher uses the microphone to enable support for voice chat mods.",
-          "NSLocalNetworkUsageDescription": "PojavLauncher uses the local network to find and communicate with AltServer and LAN servers."
-        }
-      }
-    },
-    {
       "name": "emuThreeDS",
       "bundleIdentifier": "com.antique.emuThreeDS",
       "developerName": "Antique",
@@ -1195,338 +1228,6 @@
       "appID": "com.rileytestut.Deltroid"
     },
     {
-      "name": "VCMI",
-      "bundleIdentifier": "eu.vcmi.vcmiclient",
-      "developerName": "VCMI Team",
-      "subtitle": "Heroes of Might & Magic III engine",
-      "localizedDescription": "VCMI is a open source cross-platform HoMM3 engine written from scratch. \n\nYou need data copied from original game to play. \nFollow instructions from https://wiki.vcmi.eu/Installation_on_iOS",
-      "iconURL": "https://github.com/vcmi/vcmi/raw/develop/client/icons/vcmiclient.512x512.png",
-      "tintColor": "CD8526",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot1.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot2.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot3.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot4.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot5.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot6.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot7.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot8.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot9.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "1.7.1",
-          "version": "1.7.1",
-          "buildVersion": "2025-12-30-476d676",
-          "date": "2025-12-30T14:32:15Z",
-          "localizedDescription": "# VCMI 1.7.1\n\nNote: saved games from 1.6 release can be loaded in 1.7\r\n\r\n### Changelog\r\n- Player Changelog: [1.7.0 -> 1.7.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#170---171)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.7.0..1.7.1\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.7.1/VCMI-iOS.ipa",
-          "size": 26841233,
-          "sha256": "9c0bfb9432c765fd0357b60d22754e57cd398f17d4116e0f416d1cdd995c7432"
-        },
-        {
-          "absoluteVersion": "1.7.0",
-          "version": "1.7",
-          "buildVersion": "2025-12-23-e352995",
-          "date": "2025-12-23T15:25:21Z",
-          "localizedDescription": "# VCMI 1.7.0\n\nNote: saved games from 1.6 release can be loaded in 1.7\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.8 -> 1.7.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#168---170)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.8..1.7.0\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.7.0/VCMI-iOS.ipa",
-          "size": 26811586,
-          "sha256": "1ddce7ba1a0295c18f9360be11959e5b9fc3f82035d6f16add1eb09838eef8df"
-        },
-        {
-          "absoluteVersion": "1.6.8",
-          "version": "1.6.8",
-          "buildVersion": "2025-04-24-a92e29e",
-          "date": "2025-04-25T13:09:24Z",
-          "localizedDescription": "# VCMI 1.6.8\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.7 -> 1.6.8](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#167---168)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.7..1.6.8\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.8/VCMI-iOS.ipa",
-          "size": 20825440,
-          "sha256": "16c7e8b19d67898d7c0877d0d2068a92095344a35190e4f0cb7b7099caa55128"
-        },
-        {
-          "absoluteVersion": "1.6.7",
-          "version": "1.6.7",
-          "buildVersion": "2025-02-27-dfda6d2",
-          "date": "2025-02-27T19:32:02Z",
-          "localizedDescription": "# VCMI 1.6.7\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.6 -> 1.6.7](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#166---167)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.6..1.6.7\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.7/VCMI-iOS.ipa",
-          "size": 20863158,
-          "sha256": "fa07a827210a9a4a202c362be66212a0e942e1fc0c506fe9c396160839e1b8a1"
-        },
-        {
-          "absoluteVersion": "1.6.6",
-          "version": "1.6.6",
-          "buildVersion": "2025-02-20-df75079",
-          "date": "2025-02-21T13:02:15Z",
-          "localizedDescription": "# VCMI 1.6.6\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.5 -> 1.6.6](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#165---166)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.5..1.6.6\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.6/VCMI-iOS.ipa",
-          "size": 20850507,
-          "sha256": "adeb458a90b272850ad5c521a99289bf6493c071625cb48979228cac16f2370d"
-        },
-        {
-          "absoluteVersion": "1.6.5",
-          "version": "1.6.5",
-          "buildVersion": "2025-02-03-7e1ce09",
-          "date": "2025-02-03T15:34:30Z",
-          "localizedDescription": "# VCMI 1.6.5\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.4 -> 1.6.5](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#164---165)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.4..1.6.5\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.5/VCMI-iOS.ipa",
-          "size": 20770400,
-          "sha256": "66e28b461339fc2cfa94b90b8f3500e57c3e7ebb288e37f9916ceec079b350dc"
-        },
-        {
-          "absoluteVersion": "1.6.4",
-          "version": "1.6.4",
-          "buildVersion": "2025-01-31-89b703c",
-          "date": "2025-01-31T13:20:58Z",
-          "localizedDescription": "# VCMI 1.6.4\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.3 -> 1.6.4](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#163---164)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.3..1.6.4\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.4/VCMI-iOS.ipa",
-          "size": 20767021,
-          "sha256": "511e0137d8c04ec07b6f38abbc26596e19069c09642ced762fe9e0882301f10c"
-        },
-        {
-          "absoluteVersion": "1.6.3",
-          "version": "1.6.3",
-          "buildVersion": "2025-01-09-ff598b6",
-          "date": "2025-01-09T21:50:13Z",
-          "localizedDescription": "# VCMI 1.6.3\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.2 -> 1.6.3](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#162---163)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.2..1.6.3\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.3/VCMI-iOS.ipa",
-          "size": 20716731,
-          "sha256": "f47e2153b23763bba21c135c7dab8fdd6384d2098e6ef8a073fc2232b443adf3"
-        },
-        {
-          "absoluteVersion": "1.6.2",
-          "version": "1.6.2",
-          "buildVersion": "2025-01-04-f56fd20",
-          "date": "2025-01-04T16:43:21Z",
-          "localizedDescription": "# VCMI 1.6.2\n\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.1 -> 1.6.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#161---162)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.1..1.6.2\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.2/VCMI-iOS.ipa",
-          "size": 20690030,
-          "sha256": "75e5e4976bcd4786e7f182936101aeb7cc0a899a7257231f041fae1fc6489336"
-        },
-        {
-          "absoluteVersion": "1.6.1",
-          "version": "1.6.1",
-          "buildVersion": "2024-12-26-b91be77",
-          "date": "2024-12-27T11:24:07Z",
-          "localizedDescription": "# VCMI 1.6.1\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.6.0 -> 1.6.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#160---161)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.6.0..1.6.1\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.1/VCMI-iOS.ipa",
-          "size": 20685749,
-          "sha256": "8b497aa059e3881805212af805aabb4200caf45ed4cc415cb7c08bfcdc3c3c40"
-        },
-        {
-          "absoluteVersion": "1.6.0",
-          "version": "1.6",
-          "buildVersion": "2024-12-19-1cbe122",
-          "date": "2024-12-19T18:14:57Z",
-          "localizedDescription": "# VCMI 1.6.0\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.5 release can be loaded in 1.6\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.7 -> 1.6.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#157---160)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.7..1.6.0\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) shortly\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n- macOS release can be installed via Homebrew: `brew install --cask --no-quarantine vcmi/vcmi/vcmi`",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.0/VCMI-iOS.ipa",
-          "size": 20639756,
-          "sha256": "27d5f8ea135e8d7b7d154eead58eb6436c943611014afb7a03d3f7116104f0fc"
-        },
-        {
-          "absoluteVersion": "1.5.7",
-          "version": "1.5.7",
-          "buildVersion": "2024-08-25-a3e3321",
-          "date": "2024-08-26T13:38:22Z",
-          "localizedDescription": "# VCMI 1.5.7\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.6 -> 1.5.7](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#156---157)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.6..1.5.7\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.7/VCMI-iOS.ipa",
-          "size": 25094551,
-          "sha256": "af5a26894ea7c1552e02f862589501394edaf77826087ac2958c0d8b311802a7"
-        },
-        {
-          "absoluteVersion": "1.5.6",
-          "version": "1.5.6",
-          "buildVersion": "2024-08-04-5313b5c",
-          "date": "2024-08-05T10:00:11Z",
-          "localizedDescription": "# VCMI 1.5.6\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.5 -> 1.5.6](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#155---156)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.5..1.5.6\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.6/VCMI-iOS.ipa",
-          "size": 25092792,
-          "sha256": "9bdc417fbaebbcb5d1f140d10468d6262bfb59d134a67f965e4a76341bd855b9"
-        },
-        {
-          "absoluteVersion": "1.5.5",
-          "version": "1.5.5",
-          "buildVersion": "2024-07-16-c9fb2d6",
-          "date": "2024-07-17T13:39:37Z",
-          "localizedDescription": "# VCMI 1.5.5\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.4 -> 1.5.5](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#153---154)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.4..1.5.5\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.5/VCMI-iOS.ipa",
-          "size": 25087512,
-          "sha256": "7d0b5579598558ef461a17bc52e7c72c16eeff587b229dcb0ed8adb35481c1af"
-        },
-        {
-          "absoluteVersion": "1.5.4",
-          "version": "1.5.4",
-          "buildVersion": "2024-07-11-286a70c",
-          "date": "2024-07-11T15:12:39Z",
-          "localizedDescription": "# VCMI 1.5.4\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.3 -> 1.5.4](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#153---154)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.3..1.5.4\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Linux release will be available on Flathub shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- - Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on Flathub shortly\r\n- Ubuntu release will be available on VCMI PPA shortly",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.4/VCMI-iOS.ipa",
-          "size": 25083368,
-          "sha256": "48c75d7e4d160de6748243b0945a9c5c1f731c99f166c7fd7c4d6df06c428fc4"
-        },
-        {
-          "absoluteVersion": "1.5.3",
-          "version": "1.5.3",
-          "buildVersion": "2024-06-20-099a491",
-          "date": "2024-06-21T11:46:48Z",
-          "localizedDescription": "# VCMI 1.5.3\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.2 -> 1.5.3](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#152---153)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.2..1.5.3\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- Linux release will be available on Flathub shortly -->\r\n<!-- - Linux release is available on [Flathub](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- Ubuntu release will be available on VCMI PPA shortly -->\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on Flathub shortly\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\r\n",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.3/VCMI-iOS.ipa",
-          "size": 25074651,
-          "sha256": "a7be5b2449ec1c190a5ef3a9f1dd00a241e8aeec3441d7757e2ce8b09a6e219f"
-        },
-        {
-          "absoluteVersion": "1.5.2",
-          "version": "1.5.2",
-          "buildVersion": "2024-05-30-9121fcd",
-          "date": "2024-05-31T08:53:43Z",
-          "localizedDescription": "# VCMI 1.5.2\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.1 -> 1.5.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#151---152)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.1..1.5.2\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- Linux release is available on [Flatpak](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n<!-- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on Flatpak shortly\r\n- Ubuntu release will be available on VCMI PPA shortly",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.2/VCMI-iOS.ipa",
-          "size": 25079455,
-          "sha256": "9d3a897fd5f7f9605263e9deed1af2460a4447c00caa8349aa50771b9b59926b"
-        },
-        {
-          "absoluteVersion": "1.5.1",
-          "version": "1.5.1",
-          "buildVersion": "2024-05-16-194b338",
-          "date": "2024-05-17T08:04:33Z",
-          "localizedDescription": "# VCMI 1.5.1\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.5.0 -> 1.5.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#150---151)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.5.0...1.5.1\r\n\r\n### Additional builds\r\n<!-- - Android release will be available on Google Play shortly -->\r\n<!-- - Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Linux release is available on [Flatpak](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Linux release will be available on Flatpak shortly\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.1/VCMI-iOS.ipa",
-          "size": 25055382,
-          "sha256": "58499fd576b3d51731ad16ccd4ecff19ad8eebc2fa9c800b19a91fce68209593"
-        },
-        {
-          "absoluteVersion": "1.5.0",
-          "version": "1.5",
-          "buildVersion": "2024-05-09-d72afb1",
-          "date": "2024-05-09T12:36:01Z",
-          "localizedDescription": "# VCMI 1.5.0\n\n<!--Warning: saved games from 1.3 release are not supported-->\r\nNote: saved games from 1.4 release can be loaded in 1.5\r\n\r\n### Changelog\r\n- Player Changelog: [1.4.5 -> 1.5.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#145---150)\r\n- Full Changelog: https://github.com/vcmi/vcmi/compare/1.4.5...1.5.0\r\n\r\n### Additional builds\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- - Linux release is available on [Flatpak](https://flathub.org/apps/eu.vcmi.VCMI) -->\r\n- Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n- Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.5.0/VCMI-iOS.ipa",
-          "size": 25048690,
-          "sha256": "fdc0baac54c91bd11fa16cc0bcc42f651d96b7c4d08344ee5d8df0306f2a4574"
-        },
-        {
-          "absoluteVersion": "1.4.5",
-          "version": "1.4.5",
-          "buildVersion": "2024-01-24-3d2f691",
-          "date": "2024-01-24T17:52:56Z",
-          "localizedDescription": "# VCMI 1.4.5\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Changelog\r\n* Fixed crash on creature spellcasting\r\n* Fixed crash on unit entering magical obstacles such as quicksands\r\n* Fixed freeze on map loading on some systems\r\n* Fixed crash on attempt to start campaign with unsupported map\r\n* Fixed crash on opening creature information window with invalid SPELL_IMMUNITY bonus\r\n* Fixed placement of guards sometimes resulting into open connection into third zone\r\n* Fixed rare crash on multithreaded access during placement of artifacts or wandering monsters\r\n* Fixed inspector using wrong editor for some values\r\n* Fixed bug leading to AI not attacking wandering monsters in some cases\r\n* Fixed crash on using StupidAI for autocombat or for enemy players \r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.5/VCMI-iOS.ipa",
-          "size": 27227187,
-          "sha256": "16135e899edb4515a025e4914076a738c0d336c12ed3876a4967a6b083569acf"
-        },
-        {
-          "absoluteVersion": "1.4.4",
-          "version": "1.4.4",
-          "buildVersion": "2024-01-19-b8f3de3",
-          "date": "2024-01-19T19:02:38Z",
-          "localizedDescription": "# VCMI 1.4.4\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Changelog\r\n- Fixed crash random map generation\r\n\r\n### Android release will be available on Google Play shortly\r\n<!-- ### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n### Ubuntu release will be available on VCMI PPA shortly\r\n<!-- ### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.4/VCMI-iOS.ipa",
-          "size": 27223271,
-          "sha256": "f921d6cbb20f7b7274eaaac18ac9049bfe04aa3939139dbc18125734489d89df"
-        },
-        {
-          "absoluteVersion": "1.4.3",
-          "version": "1.4.3",
-          "buildVersion": "2024-01-18-dceae73",
-          "date": "2024-01-19T10:17:45Z",
-          "localizedDescription": "# VCMI 1.4.3\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Player Changelog: [1.4.2 -> 1.4.3](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#142---143)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.4.2...1.4.3\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.3/VCMI-iOS.ipa",
-          "size": 27223378,
-          "sha256": "470ec5b7368e690e9e992c3ebfbb0bc22c7e460584a2d61e650663ebe0ee6ffd"
-        },
-        {
-          "absoluteVersion": "1.4.2",
-          "version": "1.4.2",
-          "buildVersion": "2023-12-24-a577a74",
-          "date": "2023-12-25T10:29:14Z",
-          "localizedDescription": "# VCMI 1.4.2\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Player Changelog: [1.4.1 -> 1.4.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#141---142)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.4.1...1.4.2\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release will be available on VCMI PPA shortly\r\n<!-- ### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa) -->",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.2/VCMI-iOS.ipa",
-          "size": 27168719,
-          "sha256": "3f4fcf79a665ffee78c461b6b0d627191415d45bff092a50705b94dd48be4960"
-        },
-        {
-          "absoluteVersion": "1.4.1",
-          "version": "1.4.1",
-          "buildVersion": "2023-12-11-17b2ce2",
-          "date": "2023-12-12T10:11:34Z",
-          "localizedDescription": "# VCMI 1.4.1\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Player Changelog: [1.4.0 -> 1.4.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#140---141)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.4.0...1.4.1\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.1/VCMI-iOS.ipa",
-          "size": 27156010,
-          "sha256": "f7a437912af060f28efe8fdb984b63ef79a26cb8be61b6379fd60c51a6fdf045"
-        },
-        {
-          "absoluteVersion": "1.4.0",
-          "version": "1.4",
-          "buildVersion": "2023-12-08-7fc60a0",
-          "date": "2023-12-08T13:13:49Z",
-          "localizedDescription": "# VCMI 1.4.0\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Player Changelog: [1.3.2 -> 1.4.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#132---140)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.3.2...1.4.0\r\n\r\n### Android release will be available on Google Play shortly\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n<!-- ### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.4.0/VCMI-iOS.ipa",
-          "size": 27153560,
-          "sha256": "8d9cd0768da7866d72e4f96f8e17185f3221891b36c4b4e8de41cc579b9b00b9"
-        },
-        {
-          "absoluteVersion": "1.3.2",
-          "version": "1.3.2",
-          "buildVersion": "2023-09-14-09d9099",
-          "date": "2023-09-14T14:32:26Z",
-          "localizedDescription": "# VCMI 1.3.2\n\nWarning: saved games from 1.2 release are not supported\r\n\r\n### Player Changelog: [1.3.1 -> 1.3.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#131---132)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.3.1...1.3.2\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.3.2/VCMI-1.3.2-iOS.ipa",
-          "size": 27910340,
-          "sha256": "0966c7ad34a53d72e4b393bf18e2db48717a7cb5f9f49c25e60295b00de4d442"
-        },
-        {
-          "absoluteVersion": "1.3.1",
-          "version": "1.3.1",
-          "buildVersion": "2023-08-17-daa8a49",
-          "date": "2023-08-17T19:11:01Z",
-          "localizedDescription": "# VCMI 1.3.1\n\nWarning: saved games from 1.2 release are not supported\r\n\r\n### Player Changelog: [1.3.0 -> 1.3.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#130---131)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.3.0...1.3.1\r\n\r\n<!-- ### Android release will be available on Google Play shortly -->\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.3.1/VCMI-1.3.1-iOS.ipa",
-          "size": 27943336,
-          "sha256": "242b2e8b4ba341f1b7020475548f8decfaa9f9d333716b617d5e88dc91b08fa1"
-        },
-        {
-          "absoluteVersion": "1.3.0",
-          "version": "1.3",
-          "buildVersion": "2023-08-04-b972924",
-          "date": "2023-08-04T10:23:06Z",
-          "localizedDescription": "# VCMI 1.3.0\n\n### Player Changelog: [1.2.1 -> 1.3.0](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#121---130)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.2.1...1.3.0\r\n\r\n<!-- ### Android release will be available on Google Play shortly --<\r\n<!-- ### Ubuntu release will be available on VCMI PPA shortly -->\r\n### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi)\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.3.0/VCMI-1.3.0-iOS.ipa",
-          "size": 27919866,
-          "sha256": "ef45fd129da7ddacd2508e5779f726c7980a839a83afcd30cd0445218c26f0d8"
-        },
-        {
-          "absoluteVersion": "1.2.1",
-          "version": "1.2.1",
-          "date": "2023-04-28T18:40:12Z",
-          "localizedDescription": "# VCMI 1.2.1\n\n### Player Changelog: [1.2.0 -> 1.2.1](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#120---121)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.2.0...1.2.1\r\n\r\n<!-- ### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) -->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.2.1/VCMI-1.2.1-iOS.ipa",
-          "size": 26347869,
-          "sha256": "7556bb42ca0afebad75be8ccf8a00a3121313178392f6ccb5a86059f060c3b00"
-        },
-        {
-          "absoluteVersion": "1.2.0",
-          "version": "1.2",
-          "date": "2023-04-14T14:08:18Z",
-          "localizedDescription": "# VCMI 1.2.0\n\n### Player Changelog: [1.1.1 -> 1.2](https://github.com/vcmi/vcmi/blob/master/ChangeLog.md#111---120)\r\n\r\n### Full Changelog: https://github.com/vcmi/vcmi/compare/1.1.1...1.2.0\r\n\r\n<!-- ### Android release is available on [Google Play](https://play.google.com/store/apps/details?id=is.xyz.vcmi) --->\r\n### Ubuntu release is available on [VCMI PPA](https://launchpad.net/~vcmi/+archive/ubuntu/ppa)\n\nNOTE: BundleIdentifier changed in this version and automatic updates have been disabled until manual install occurs.",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.2.0/VCMI-1.2.0-iOS.ipa",
-          "size": 26346303,
-          "sha256": "8f1ea600a8156eae17de80f9f72a3cb38b4be9b087b276324192f797a3516511"
-        },
-        {
-          "version": "1.1.1",
-          "date": "2023-02-03T12:00:00+04:00",
-          "localizedDescription": "Fixes for issues found in 1.1 release",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.1.1/VCMI-1.1.1-iOS.ipa",
-          "size": 25570455
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": []
-      },
-      "appID": "com.vcmi.VCMI"
-    },
-    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
@@ -1578,137 +1279,6 @@
         }
       ],
       "appID": "org.ppsspp.ppsspp"
-    },
-    {
-      "name": "Firebird Emu",
-      "bundleIdentifier": "com.adriweb.firebird-emu",
-      "developerName": "nspire-emus",
-      "subtitle": "ARM-based TI-Nspire calculator.",
-      "localizedDescription": "Third-party multi-platform emulator of the ARM-based TI-Nspire calculators.",
-      "iconURL": "https://i.imgur.com/U2HvZFZ.png",
-      "tintColor": "#010f00",
-      "screenshotURLs": [
-        "https://i.imgur.com/LT1u2bi.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "1.6",
-          "version": "1.6",
-          "date": "2023-01-07T16:36:46Z",
-          "localizedDescription": "# New year, new version: Firebird 1.6\n\n**New features:**\r\n* New dialog for creating Flash images, which is also available in the Mobile UI! (#262) \r\n* Running as 64bit application on Windows is supported now (#234)\r\n* Polish translation is available now (#207)\r\n* CX II (/-T/CAS) calculators can now be emulated (#165)! However, with the current dumping programs you will not get a complete bootrom and booting the OS will fail.\r\n\r\n**Improvements:**\r\n* Multiple files can be sent in the Mobile UI and by dropping them into the main window on desktop (#279)\r\n Reimplemented emulation speed control: Now it's more accurate, especially on Windows\r\n* GitHub actions now performs automated builds for Android (armeabi-v7a and arm64-v8a in one APK), macOS and Windows (32bit and 64bit) on releases and pull requests (#283, #284, #285)\r\n* The \"installer\" for OS 4.5.3.14 (and later?) works now. It requires [fastboot RAM](https://hackspire.org/index.php?title=Memory-mapped_I/O_ports_on_CX#90030000_-_Fastboot_RAM) to persist state across reboots, which is now implemented.\r\n* More accurate emulation of the On button: It's now possible to enter Press-To-Test mode (#271)\r\n* Faster saving and loading of snapshots (#231)\r\n* More reliable USB file transfers\r\n* The debugger console now includes entered commands in the log\r\n* Support for PIE (position-independent executables) on x86_64. Previously, care needed to be taken that PIE was disabled, otherwise it would crash on start. (#211)\r\n* Building the JIT is disabled automatically if the platform does not support it (#197)\r\n* Firebird builds on FreeBSD now (#228, #248)\r\n\r\n**Bugfixes:**\r\n* File access on Android got fixed (#202 and its various duplicates)\r\n* Fix placement of keypad buttons in the touchpad area (#41)\r\n* Various fixes for the Mobile UI layout (#201)\r\n* The kit configuration page in the Mobile UI no longer causes the keyboard to pop up by default (#257)\r\n* Connecting with GDB on windows works now (#259, #260)\r\n* Some shades of grey were not displayed properly when emulating pre-CX models (#270)\r\n* Fix crash on AArch64/arm64 when executing certain instructions\r\n* The keypad reacts to touch events in the desktop version as well now (#292, #293)\r\n* Some places were no longer translated correctly after the introduction of language switching in 1.5\r\n* Keys could get stuck on focus changes. Now they're all released when the keypad loses focus (#287)\r\n* The Ctrl key now changes color when pressed\r\n* Emulation speed no longer remains unlimited after a failed file transfer\r\n\r\n_Repo for Arch, Debian, Fedora, Ubuntu and openSUSE: [via OBS](https://software.opensuse.org/download.html?project=home%3AVogtinator%3Afirebird-emu&package=firebird-emu&locale=en)._\r\n\r\nThere is work in progress to implement and improve support for running in the browser on Qt for WebAssembly (#294). A preview is available on https://nspire-emus.github.io/firebird/wasm/\n\nNOTE: BundleIdentifier changed in this version and automatic updates have been disabled until manual install occurs.",
-          "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa",
-          "size": 9953289,
-          "sha256": "54166448ccd9eee964b36997acff30beb1a1219cbacc1278bcc5fd1c97224e79"
-        },
-        {
-          "absoluteVersion": "1.5",
-          "version": "1.5",
-          "date": "2020-03-28T14:25:34Z",
-          "localizedDescription": "# A heap of improvements: Firebird 1.5\n\n**New features:**\r\n* UI language can be switched\r\n* The debugger has a command history, press Up and Down arrow keys\r\n* On Android, the system file picker is used now, which fixes \"Could not start the emulation\" in many cases\r\n* The color scheme follows the system now\r\n* Improved performance of CX flash access by ignoring certain cache flush requests\r\n\r\n**Improvements:**\r\n* LCD can be resized freely now\r\n* Performance improvements for the ARM and AArch64 JITs\r\n* Supports macOS 10.15 Catalina\r\n* The Android APK includes arm64-v8a now\r\n* The Windows ZIP includes software OpenGL now, so should work on more systems\r\n\r\n**Bugfixes:**\r\n* Fix the external LCD sometimes being invisible\r\n* Allows building with recent versions of the Android NDK with clang\r\n* Does not crash on exit due to use of incompatible compile flags with GCC\r\n* Android devices with a lower w/h ratio are marked as supported now\r\n* firebird-send supports different implementations of netcat now\r\n* GDB and remote debugger work after emulation autostart as well\r\n* Moving the cursor over keypad buttons no longer clicks\r\n* On Windows, the filename for snapshots can now include non-ASCII characters\r\n* Fix crash on emulation start on certain x86-64 systems\r\n* Fix freeze on exit on JIT builds for the iOS version\r\n\r\nNote: Firebird Emu requires Qt 5.9 now.\r\n\r\n_Repo for Arch, Debian, Fedora, Ubuntu and openSUSE: [via OBS](https://software.opensuse.org/download.html?project=home%3AVogtinator%3Afirebird-emu&package=firebird-emu&locale=en)._\r\n",
-          "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.5/firebird-iOS.ipa",
-          "size": 9680896
-        }
-      ],
-      "appID": "com.firebird.firebird-emu"
-    },
-    {
-      "name": "ActiveGS iOS",
-      "bundleIdentifier": "com.yoshisuga.activeGS",
-      "developerName": "yoshisuga & Olivier Goguel",
-      "subtitle": "An emulator for Apple II/2GS.",
-      "localizedDescription": "An emulator for all things Apple.",
-      "iconURL": "https://i.imgur.com/7LuLkoR.png",
-      "tintColor": "#21486b",
-      "screenshotURLs": [
-        "https://i.imgur.com/8xekjhv.png",
-        "https://i.imgur.com/JFd6LiM.png",
-        "https://i.imgur.com/4ZE0DbB.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "2021.9",
-          "version": "2021.9",
-          "date": "2021-09-23T09:28:59Z",
-          "localizedDescription": "# 2021.9\n\nThis is a fork of Olivier Goguel's ActiveGS emulator for iOS.\r\n\r\nI've been tinkering it over the years and added some experimental features such as:\r\n\r\n- Support for iOS 15\r\n- Remap keyboard to supported wireless controller buttons (mFi/PS4/PS5/XBox One)\r\n- Custom split keyboard usable in landscape mode (written in Swift)\r\n\r\n![Simulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 22 43 15](https://user-images.githubusercontent.com/564774/134484167-3c17c2a7-1d6a-467c-ac82-d7bfae7f281b.png)\r\n\r\n- A memory debugger/rudimentary memory-editing cheat engine (also written in Swift). Accessible via the \"D\" button in the right pane custom keyboard. Browse the memory map and change memory values. Not sure how the bank switching works and how it's mapped to memory but you get some representation of memory. \r\n![Simulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 23 25 55](https://user-images.githubusercontent.com/564774/134484125-b984318a-b089-4484-b306-b976521963c3.png)\r\n\r\n\r\n",
-          "downloadURL": "https://github.com/yoshisuga/activegs-ios/releases/download/2021.9/ActiveGS.ipa",
-          "size": 16593403,
-          "sha256": "4ce99019167c13e1fdce6005243002591586366852ddf793fa6a6521885a4910"
-        }
-      ]
-    },
-    {
-      "name": "Ready",
-      "bundleIdentifier": "at.spiderlab.c64",
-      "developerName": "T-Pau",
-      "subtitle": "8-bit games for your iPad.",
-      "localizedDescription": "Ready is an open source emulator for the following 8 bit home computers:\n* Commodore 64\n* Commodore VIC-20\n* Commodore 16, Plus/4\n* Sinclair ZX Spectrum (16k, 48k, Spectrum+, 128k, +2)\n\nWith preliminary support for these computers:\n* Atari 600XL, 800XL\n* Commodore 128\n* Commander X16\n\nIt is based on atari800, fuse, Vice, and x16-emulator, which provide accurate emulation of many hardware variants and peripherals. Ready requires at least iPadOS 13.5.\n\nReady aims to approximate the feeling of using actual hardware. Rather than configuring abstract settings, you select hardware components. The software keyboard is a facsimile of the original, reflecting the different existing styles. Even the noise of the disk drive is emulated. The Library section offers a way to organize a large collection of games, demos and programs. The emulated hardware can be customized for each entry.\n\nThe Inbox provides a place to quickly try new programs. You can easily move the ones you want to keep to the library.\n\nTools mode allows attaching a cartridge like Action Replay or Final Cartridge and a collection of disks with your favorite tools, to help you dig into the programs, like back in the day.",
-      "iconURL": "https://i.imgur.com/S9WS2C2.png",
-      "tintColor": "#1c71c6",
-      "screenshotURLs": [
-        "https://i.imgur.com/CN3fR34.png",
-        "https://i.imgur.com/q8ueM8W.png",
-        "https://i.imgur.com/2EHk0Wp.png",
-        "https://i.imgur.com/F3bXlmW.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "1.6.1",
-          "version": "1.6.1",
-          "buildVersion": "1",
-          "date": "2024-05-09T23:33:26Z",
-          "localizedDescription": "# Release 1.6.1\n\n- Add Commodore 128.\r\n- Add Atari 8-Bit Computers.\r\n- Add Commander X16.\r\n- Add Polyplay Trap Them Controller.\r\n- Add VIC-20 32K RAM expansion.\r\n- Update Vice to 3.5.",
-          "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6.1/Ready-1.6.1.ipa",
-          "size": 73079686,
-          "sha256": "af018a32e58099f7f476b2034eee7ae6705a54127e7df7b31e38814cf7100ad6"
-        },
-        {
-          "absoluteVersion": "1.6",
-          "version": "1.6",
-          "date": "2020-07-08T15:55:00Z",
-          "localizedDescription": "# Release 1.6\n\n- Rename to Ready.\r\n\r\n- Add Commodore 16 and Plus/4 emulation.\r\n\r\n- Add ZX Spectrum emulation. Supported models are 16k, 48k, Specturm+, 128k, +2.\r\n\r\n- Add new app icons, one for each supported computer.\r\n",
-          "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6/Ready-1.6.ipa",
-          "size": 63972294,
-          "sha256": "379a0006350f996aa3e9b26be09bd1140553071d9301192e00f86666844e1a9b"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": []
-      },
-      "appID": "at.spiderlab.c64"
-    },
-    {
-      "name": "MAME4iOS",
-      "bundleIdentifier": "com.example.mame4ios",
-      "developerName": "yoshisuga",
-      "subtitle": "A MAME Arcade emulator for iOS.",
-      "localizedDescription": "MAME stands for Multi Arcade Machine Emulator. This app lets you play arcade games from the past 30+ years on your iPhone, iPad, macOS, or AppleTV.\n\nMore than 2000 games are supported, and the currently supported romset version is MAME 0.139u1 (September 2010).\n\nOther nifty features include:\n* 64-bit binary to run on modern and future iOS devices\n* Supports modern device screen sizes, including iPhone X/XR/XS/XS Max and iPad Pro\n* A native iOS/iPadOS/tvOS frontend (by @ToddLa, new in 2020!)\n* A native Metal rendering engine (by @ToddLa, new in 2020!)\n* tvOS support (new in 2019!)\n* An in-app web server to transfer files from your computer (new in 2019!)\n* Transfer ROMs, Artwork, and ROMSETs via AirDrop or iOS File Sharing (new in 2020!)\n* Multiple MFI controllers (up to 4 with dual analog support - @DarrenBranford)\n* Supports using the touch screen as a lightgun\n* Turbo mode toggle for buttons\n* Touch analog for games like Arkanoid\n* Builds in Xcode 11.x/12.x and runs on latest iOS 13/14 versions",
-      "iconURL": "https://i.imgur.com/gZCjhLl.png",
-      "tintColor": "#51bacc",
-      "screenshotURLs": [
-        "https://i.imgur.com/0JkUpEA.png",
-        "https://i.imgur.com/UJXiIUM.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "2022.5",
-          "version": "2022.5",
-          "date": "2022-12-12T02:16:35Z",
-          "localizedDescription": "# 2022.5\n\n* Updated to [MAME 250](https://www.mamedev.org/releases/whatsnew_0250.txt).\r\n* tvOS UX: use a Alert instead of a inline Segmented Control.\r\n* Show upload feedback in Web Server UX.\r\n* Added `Make First Favorite` to game context menu.\r\n",
-          "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-139.ipa",
-          "size": 52332306,
-          "sha256": "c3c715c4d4ffedb781141733c1e645c197a6548d30bc73e22246853d36ebc35b"
-        },
-        {
-          "absoluteVersion": "2022.3",
-          "version": "2022.3",
-          "date": "2022-09-17T02:33:58Z",
-          "localizedDescription": "# 2022.3\n\n# Version 2022.3\r\n\r\n* iOS 16 support\r\n",
-          "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.3/MAME4tvOS-2022.3-139.ipa",
-          "size": 46033990
-        }
-      ],
-      "appID": "com.example.mame4ios"
     },
     {
       "name": "OldOS",
@@ -1801,34 +1371,6 @@
       "appID": "com.zurac.OldOS"
     },
     {
-      "name": "unc0ver",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "Pwn20wnd",
-      "subtitle": "The most advanced jailbreak tool.",
-      "localizedDescription": "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n* unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)\n\nStability:\n* Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.\n\nSecurity:\n* Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
-      "iconURL": "https://i.imgur.com/5aehDxj.png",
-      "tintColor": "#101216",
-      "screenshotURLs": [
-        "https://i.imgur.com/ItMaRRV.png",
-        "https://i.imgur.com/bjzyqpY.png",
-        "https://i.imgur.com/3TMGkaO.png",
-        "https://i.imgur.com/gTYfncm.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "8.0.2",
-          "version": "8.0.2",
-          "date": "2021-12-29T21:35:42Z",
-          "localizedDescription": "# v8.0.2 Release\n\n- Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\r\n- Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8",
-          "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-          "size": 54489484,
-          "sha256": "d385c2be158c3106266b0b7795647fe2f873905bca94874b57ef35cce6cf50f6",
-          "minOSVersion": "11.0",
-          "maxOSVersion": "14.8"
-        }
-      ]
-    },
-    {
       "name": "GBA4iOS",
       "bundleIdentifier": "com.rileytestut.GBA4iOS",
       "developerName": "Riley Testut",
@@ -1853,139 +1395,6 @@
         }
       ],
       "appID": "com.rileytestut.GBA4iOS"
-    },
-    {
-      "name": "RetroArch",
-      "bundleIdentifier": "com.libretro.RetroArchiOS11",
-      "developerName": "libretro",
-      "subtitle": "Cross-platform, sophisticated frontend for emulation.",
-      "localizedDescription": "RetroArch is a frontend for a plethora of emulators. Almost every Retro console can be run using one of RetroArch's downloadable cores.\n\nThere are several ways to customize your experience by installing different themes, rearranging your touchscreen controls, and downloading game box art.\nRetroArch enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!\n\nCheck out all of RetroArch's awesome features at our website: https://www.retroarch.com/",
-      "iconURL": "https://i.imgur.com/pqgVB0v.png",
-      "tintColor": "#000000",
-      "screenshotURLs": [
-        "https://i.imgur.com/uv1x1c4.png",
-        "https://i.imgur.com/qJdyNl2.png",
-        "https://i.imgur.com/fijaR4n.png",
-        "https://i.imgur.com/B3J5zMB.png",
-        "https://i.imgur.com/4Mj77IY.png"
-      ],
-      "versions": [
-        {
-          "version": "1.12.0",
-          "date": "2022-10-17",
-          "localizedDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
-          "downloadURL": "https://buildbot.libretro.com/stable/1.12.0/apple/ios-arm64/RetroArch.ipa",
-          "size": 435770036,
-          "sha256": "d790ce8ef9c2b8f9cd2c974f4e70690aa24c0a99cdb8c65ed235b790c1f0c47e"
-        },
-        {
-          "version": "1.9.0",
-          "date": "2020-08-07",
-          "localizedDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/RetroArch.ipa",
-          "size": 255389680
-        }
-      ],
-      "appID": "com.libretro.RetroArchiOS11"
-    },
-    {
-      "name": "Rewound",
-      "bundleIdentifier": "com.louisanslow.record",
-      "developerName": "Louis Anslow",
-      "subtitle": "Turn your iPhone into an iPod. Classic.",
-      "localizedDescription": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
-      "iconURL": "https://i.imgur.com/LfIRxqb.png",
-      "tintColor": "#9e968d",
-      "screenshotURLs": [
-        "https://i.imgur.com/IfLobOR.png",
-        "https://i.imgur.com/IJcJ6WG.png",
-        "https://i.imgur.com/dVjieD9.png",
-        "https://i.imgur.com/kmC3NtZ.png"
-      ],
-      "versions": [
-        {
-          "version": "2019.7",
-          "date": "2019-12-09",
-          "localizedDescription": "Small fixes.",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa",
-          "size": 5628716,
-          "sha256": "6fe3f0e30e23e1a0a3f224245dfdb1f804de7bedf46496110b797eb271282721"
-        }
-      ],
-      "appID": "com.louisanslow.record"
-    },
-    {
-      "name": "ScummVM",
-      "bundleIdentifier": "org.scummvm.scummvm",
-      "developerName": "ScummVM Team",
-      "subtitle": "Point and click adventures.",
-      "localizedDescription": "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed!\n\nScummVM supports a huge library of adventures with over 250 games in total. It supports many classics published by legendary studios like LucasArts, Sierra On-Line, Revolution Software, Cyan, Inc. and Westwood Studios. Next to ground-breaking titles like the Monkey Island series, Broken Sword, Myst, Blade Runner and countless other games you will find some really obscure adventures and truly hidden gems to explore.",
-      "iconURL": "https://i.imgur.com/sSQhbwJ.png",
-      "tintColor": "#bf6a27",
-      "screenshotURLs": [
-        "https://i.imgur.com/7BHTMT0.png",
-        "https://i.imgur.com/Fp24Isf.png",
-        "https://i.imgur.com/vD3UJfE.png"
-      ],
-      "versions": [
-        {
-          "version": "2.6.0",
-          "date": "2022-07-25",
-          "localizedDescription": "Bug fixes.",
-          "downloadURL": "https://downloads.scummvm.org/frs/scummvm/2.6.0/scummvm-2.6.0-ios.ipa",
-          "size": 92033520,
-          "sha256": "2d4a5cd37e20075af432af8fb072d1a204746da8edeb469714462ae603be329a"
-        },
-        {
-          "version": "2.2.0",
-          "date": "2020-09-13",
-          "localizedDescription": "Bug fixes.",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/ScummVM.ipa",
-          "size": 57222372
-        }
-      ],
-      "appID": "org.scummvm.scummvm"
-    },
-    {
-      "name": "Mini vMac",
-      "bundleIdentifier": "net.namedfork.minivmac",
-      "developerName": "Gryphel Project & zydeco",
-      "subtitle": "A miniature early Macintosh emulator.",
-      "localizedDescription": "Features\n\n\u2022 Emulates Mac Plus, Mac II or Mac 128K\n\u2022 Full simulated keyboard (including all Mac keys)\n\u2022 Full sound output\n\u2022 Uses external keyboard if available\n\u2022 Regulable emulation speed\n\u2022 Easy(ish) to import/export disk images\n\nPlease check out the github README for usage instructions: https://github.com/zydeco/minivmac4ios",
-      "iconURL": "https://i.imgur.com/MGxGvKR.png",
-      "tintColor": "#dd2b03",
-      "screenshotURLs": [
-        "https://i.imgur.com/Huqxo8z.png",
-        "https://i.imgur.com/Pq2vIrO.png",
-        "https://i.imgur.com/A7koKUp.png",
-        "https://i.imgur.com/IhtYS9E.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "2.6",
-          "version": "2.6",
-          "buildVersion": "15",
-          "date": "2024-07-09T16:09:01Z",
-          "localizedDescription": "# Mini vMac for iOS v2.6\n\n* Added 512\u00d7384 variant of Mac II\r\n* Requires iOS 13.4\r\n    * Dropping 32-bit support (iOS 9) made the app smaller\r\n* Prefer pixel-perfect scaling when display scaling filter is set to nearest\r\n* Auto-hide iOS home indicator\r\n* Partially fix some command-key shortcuts going to iOS instead of the emulated Mac (#45)\r\n    * \u2318-w and most others will get passed to the emulated machine if it's running\r\n    * \u2318-q and \u2318-h don't seem interceptable, the app doesn't receive any key events for them, but \u2318-q doesn't do anything (or maybe it does in some other configuration?), and \u2318-h will take you to the home screen\r\n* visionOS support (only tested in simulator)\r\n\r\n**Full Changelog**: https://github.com/zydeco/minivmac4ios/compare/v2.5...v2.6",
-          "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.6/minivmac4ios-2.6.ipa",
-          "size": 668434,
-          "sha256": "cbe597bfd3e3e9b412ef0117a374453e51e5444db56dd46a267f9950bff64ad4"
-        },
-        {
-          "absoluteVersion": "2.5",
-          "version": "2.5",
-          "date": "2022-05-26T18:30:55Z",
-          "localizedDescription": "# Mini vMac for iOS 2.5\n\n* Update to Mini vMac 37.03 beta\r\n* Fixed crash when deleting disk images on iPad\r\n* Adds recently used disks to quick actions menu\r\n* Removed custom presentation modes for disk and settings screens\r\n* Doesn't show \"The developer of this app needs to update it to work with this version of iOS\" error when installing IPA on iOS 15",
-          "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.5/minivmac4ios-2.5.ipa",
-          "size": 1194371,
-          "sha256": "2d3fd7a540944d46c1c968dbc88434deffea93a14a54f06191436fc804e9796b"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": []
-      },
-      "appID": "net.namedfork.minivmac"
     },
     {
       "name": "Filza Escaped",
@@ -2035,64 +1444,100 @@
       ]
     },
     {
-      "name": "Play!",
-      "bundleIdentifier": "com.virtualapplications.play",
-      "developerName": "Jean-Philip Desjardins",
-      "subtitle": "PlayStation 2 Games on iOS.",
-      "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\n\u2022 No BIOS required. Play! is an high-level emulator.\n\u2022 Easy configuration. No custom settings to fix specific games.\n\u2022 Available on many platforms, making sure the experience is the same quality everywhere.",
-      "iconURL": "https://i.imgur.com/NOi1cdl.png",
-      "tintColor": "#5f5fff",
-      "screenshotURLs": [],
+      "name": "Odyssey",
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "developerName": "Odyssey Team",
+      "subtitle": "A new jailbreak for a new era.",
+      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
+      "iconURL": "https://theodyssey.dev/assets/images/icon.png",
+      "tintColor": "D287F4",
+      "screenshotURLs": [
+        "https://theodyssey.dev/assets/images/ss-1.png",
+        "https://theodyssey.dev/assets/images/ss-2.png",
+        "https://theodyssey.dev/assets/images/ss-3.png"
+      ],
       "versions": [
         {
-          "version": "0.58",
-          "date": "2022-12-22",
-          "localizedDescription": "Bug fixes.",
-          "downloadURL": "https://purei.org/downloads/play/stable/0.58/Play.ipa",
-          "size": 13389347,
-          "sha256": "7ab7dc4cbc9202594188ef6d378753b9cc4ed4ecf595d7ed047d6f4419952597"
+          "version": "1.4.3",
+          "date": "2023-04-03",
+          "localizedDescription": "- Update Sileo to 2.3-1",
+          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
+          "size": 27200000,
+          "sha256": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
+          "minOSVersion": "13.0",
+          "maxOSVersion": "13.7"
         },
         {
-          "version": "0.56",
-          "date": "2022-09-13",
-          "localizedDescription": "Bug fixes.",
-          "downloadURL": "https://purei.org/downloads/play/stable/0.56/Play.ipa",
-          "size": 13371703
-        },
-        {
-          "version": "0.50",
-          "date": "2022-03-07",
-          "localizedDescription": "Bug fixes.",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Play.ipa",
-          "size": 12346902
+          "version": "1.4.2",
+          "date": "2022-02-18",
+          "localizedDescription": "- Update Sileo to 2.3\n- Replace Packix with Havoc as default repo",
+          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.2/Odyssey-1.4.2.ipa",
+          "size": 27200000
         }
       ],
-      "appID": "com.virtualapplications.play"
+      "appID": "org.coolstar.odyssey"
     },
     {
-      "name": "iDOS",
-      "bundleIdentifier": "com.litchie.idosgames",
-      "developerName": "litchie",
-      "subtitle": "Play DOS games on iOS.",
-      "localizedDescription": "Play classic DOS games on your iPhone and iPad!\n\niDOS turns your device right into a powerful DOS gaming PC, with modern game control to make your old favorites as playable as possible.\n\nYou can also use iDOS for non-gaming purposes, such as word processing, casual programming. Apps in the DOS days are often simpler and surprisingly productive.\n\nKEYBOARD\n\niDOS provides a PC compatible on-screen keyboard with carefully designed layouts for different devices and orientations. The keyboard has a sliding control in landscape mode so that you can keep it from covering critical part of the screen.\n\nBluetooth keyboard is partially supported. We support ESC, function keys, and ordinary CTRL and ALT key bindings. Unfortunately the arrow keys can't be used for game control. You should use a bluetooth game controller instead.\n\nGAMEPAD\n\niDOS provides a virtual gamepad with key bindings that are fairly common in DOS games. You can customize the bindings. The DPAD works in 8-axis way. It can also be toggled into a joystick.\n\nExternal bluetooth game controllers are supported. Make sure your game controller is connected (System Settings->Bluetooth). To customize button bindings, go to iDOS in landscape mode, tap on bluetooth icon on the auto-hiding top bar.\n\nMOUSE\n\n* The screen area serves as a trackpad for moving mouse pointer.\n* Tap on the screen for left click. If direct touch is enabled, the mouse pointer will move to where you tap.\n* Hold one finger on the screen, and tap with another finger for right click.\n* On-screen mouse buttons are also provided for your convenience.\n* Bluetooth mice are only partially supported.\n\nSUPPORT\n\n- Visit https://litchie.com/dospad for more information.\n- Send email to idos@litchie.com\n- Follow the developer on Twitter: https://twitter.com/litchiedev\n- iDOS is open source, report issues on https://github.com/litchie/dospad",
-      "iconURL": "https://i.imgur.com/Yah6zFk.png",
-      "tintColor": "#042eef",
+      "name": "Taurine",
+      "bundleIdentifier": "org.coolstar.taurine",
+      "developerName": "Odyssey Team",
+      "subtitle": "Time to get amped.",
+      "localizedDescription": "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
+      "iconURL": "https://taurine.app/assets/images/icon.png",
+      "tintColor": "#F65656",
       "screenshotURLs": [
-        "https://i.imgur.com/hRMA2Zr.png",
-        "https://i.imgur.com/gvhvQpo.png",
-        "https://i.imgur.com/NHOE1ba.png",
-        "https://i.imgur.com/eBEqmnt.png"
+        "https://taurine.app/assets/images/ss-1.png",
+        "https://taurine.app/assets/images/ss-2.png",
+        "https://taurine.app/assets/images/ss-3.png"
       ],
       "versions": [
         {
-          "version": "2.1",
-          "date": "2020-10-20",
-          "localizedDescription": "- Support Mfi game controllers\n- Support external bluetooth keyboard (Text input only).\nYou can use Command-1, Command-2 .. for function keys.",
-          "downloadURL": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
-          "size": 5704322,
-          "sha256": "1660903b0d3ec6cc4686bc99c028d3f46267018ecdac5ccf9c02778a96cb1a4d"
+          "absoluteVersion": "1.1.7-3",
+          "version": "1.1.7-3",
+          "buildVersion": "1",
+          "date": "2023-09-23T18:59:42Z",
+          "localizedDescription": "# 1.1.7-3\n\nFix kfd change being implemented incorrectly",
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+          "size": 32244737,
+          "sha256": "7c8cf63b14084ef27739df163508415b955e95828f2d335af8f3045130cd18bf"
+        },
+        {
+          "absoluteVersion": "1.1.7-2",
+          "version": "1.1.7-2",
+          "buildVersion": "1",
+          "date": "2023-09-20T05:45:05Z",
+          "localizedDescription": "# 1.1.7-2\n\nFix A11 14.0 - 14.4.x failing with kfd",
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-2/Taurine.1.1.7-2.ipa",
+          "size": 32244695,
+          "sha256": "1e9f24561fbf30bf6f84f2ed96f07d26a1cab2301228d208a21be5b53eecd866"
+        },
+        {
+          "absoluteVersion": "1.1.7",
+          "version": "1.1.7",
+          "buildVersion": "1",
+          "date": "2023-09-18T15:46:21Z",
+          "localizedDescription": "# 1.1.7\n\nThe long awaited release of Taurine for iOS 14.8.1 is here, now you can jailbreak all of your devices from 14.0 up to 14.8.1!\r\nThis update includes a patch to allow Old ABI tweaks to work on iOS 14.5 (and its enabled by default) so everything should just work!\r\n![](https://cdn-images-1.medium.com/max/499/1*67VnoVW3Oh3DZpRJoEIPPQ.png)\r\n**Important: If you are on iOS 14.5 or above you must use Libhooker New ABI**",
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7/Taurine_1.1.7.ipa",
+          "size": 32244677,
+          "sha256": "3fb291ea6f1175726ae213fe44febb9d95b1524659cd754cbde897ab5b94faf8"
+        },
+        {
+          "absoluteVersion": "1.1.6",
+          "version": "1.1.6",
+          "date": "2022-07-17T12:33:15Z",
+          "localizedDescription": "# 1.1.6\n\n- Backports DER entitlement fixes from Taurine15\r\n- Backports codesignature fixes from Taurine15\r\n- Backports various other fixes from Taurine15\r\n",
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+          "size": 31938370,
+          "sha256": "0e628c33eabeef030ac08478f79ac74d9be8582301df0ae7bec26d8d1af8dad6",
+          "minOSVersion": "14.0",
+          "maxOSVersion": "14.3"
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": []
+      },
+      "appID": "org.coolstar.taurine"
     },
     {
       "name": "UTM SE",
@@ -3221,37 +2666,6 @@
       "appID": "com.streamer.ios"
     },
     {
-      "name": "Deezer++",
-      "bundleIdentifier": "com.deezer.Deezer",
-      "developerName": "julioverne",
-      "subtitle": "Mix your music your way.",
-      "localizedDescription": "Your life deserves its own soundtrack. With 56 million tracks, playlists and podcasts plus personalized recommendations just for you, Deezer is your music companion. A music player that always gives you the songs you love, and helps you discover your next favorites. You bring the passion, we bring the music.\n\nEnjoy best-in-class features with the Deezer music player:\n\n\u2022 Stream the biggest global hits\n\u2022 56 million songs to discover and enjoy\n\u2022 Lean back and find new tracks with Shuffle Mode\n\u2022 Get personalized recommendations and explore new music styles with Flow\n\u2022 Listen to any playlist you want or create your own\n\u2022 Add the tracks you love to your music collection in a single tap with Favorites\n\u2022 Organise your new music by artist or genre\n\u2022 Share your personal playlists and favorite tracks with others\n\u2022 Discover podcasts, radio stations, and audio channels\n\nWhat you get for free with Deezerlife v0.5:\n\n\u2022 No ads\n\u2022 Offline Mode: download your favorite tracks or podcasts and listen to offline music anywhere\n\u2022 Unlimited skips\n\u2022 No song shuffling\n\u2022 Superior Sound Quality (320 kBps)\n\u2022 Music player is compatible with Amazon Alexa and connected devices",
-      "iconURL": "https://i.imgur.com/zGqFxJz.png",
-      "tintColor": "#252d36",
-      "screenshotURLs": [
-        "https://i.imgur.com/iox1WHX.png",
-        "https://i.imgur.com/chYRMOg.png",
-        "https://i.imgur.com/2NUi4lD.png",
-        "https://i.imgur.com/8fUSZuW.png",
-        "https://i.imgur.com/9uztFPu.png",
-        "https://i.imgur.com/ZDvx4v9.png",
-        "https://i.imgur.com/pjGTCg6.png",
-        "https://i.imgur.com/gbqzsX2.png",
-        "https://i.imgur.com/uUYBjAM.png"
-      ],
-      "versions": [
-        {
-          "version": "7.1.1",
-          "date": "2020-10-15",
-          "localizedDescription": "Deezerlife v0.5\n\nDowngraded to v7 of Deezer since v8 crashes on login.",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Deezer++.ipa",
-          "size": 99126030,
-          "sha256": "49b85132a6cf710a3b63a668ffef1d6e14df1c57f011dad563ab1115e1bcb407"
-        }
-      ],
-      "appID": "com.deezer.Deezer"
-    },
-    {
       "name": "Reddit++",
       "bundleIdentifier": "syto203.reddit.pp",
       "developerName": "syto203",
@@ -3328,6 +2742,33 @@
         }
       ],
       "appID": "com.Lema.Michael.InstagramApp"
+    },
+    {
+      "name": "WolframAlpha",
+      "bundleIdentifier": "com.wolframalpha.wolframalpha",
+      "developerName": "Wolfram Group, LLC",
+      "subtitle": "Use the power of Wolfram's computational intelligence.",
+      "localizedDescription": "Use the power of Wolfram's computational intelligence to answer your questions. Building on 30+ years of development led by Stephen Wolfram, Wolfram|Alpha is the world's definitive source for instant expert knowledge and computation.\n\nAcross thousands of domains\u2014with more continually added\u2014Wolfram|Alpha uses its vast collection of algorithms and data to compute answers and generate reports for you.\n\nWalk through the steps of solving many math and chemistry problems with Wolfram|Alpha. Get even more detailed assistance with a Wolfram|Alpha Pro subscription.\n\nParts of Wolfram|Alpha are used in Apple's Siri assistant; this app gives you access to the full power of the Wolfram|Alpha computational knowledge engine.\n\nUse Wolfram|Alpha to compute the following and much more:\n\n- Get homework help \"Factor 9x^2 + 29x + 6\"\n- Identify a plane \"Flights overhead\"\n- Find out weather \"Weather last New Year's\"\n- Get information on movies \"Movies with Keanu Reeves and Sandra Bullock\"\n- Get financial insight \"APPL vs. MSFT\"\n- Calculate units and measurements \"Seconds in a nanocentury\"\n- Get trivia answers \"Number of tennis balls that can fit in a Boeing 747\"\n- Find nutritional information \"Whopper vs. Big Mac\"\n- Get shopping help \"Chicago Target stores open at 10 pm\"\n- Get fitness information \"Running calculator\"\n- Have fun \"Tell me a joke\"",
+      "iconURL": "https://i.imgur.com/1MsjN5j.png",
+      "tintColor": "#ffc300",
+      "screenshotURLs": [
+        "https://i.imgur.com/udPcT9r.png",
+        "https://i.imgur.com/ndKotFI.png",
+        "https://i.imgur.com/yQ4IQCb.png",
+        "https://i.imgur.com/PBqeoch.png",
+        "https://i.imgur.com/K2A653q.png"
+      ],
+      "versions": [
+        {
+          "version": "2.0.5",
+          "date": "2019-11-26",
+          "localizedDescription": "Bug fixes.",
+          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/WolframAlpha.ipa?dl=1",
+          "size": 39855086,
+          "sha256": "17a2d714eeaea435bcc927800a4aab164747eed588d850bf1c6de19da20791a9"
+        }
+      ],
+      "appID": "com.wolframalpha.wolframalpha"
     },
     {
       "name": "Filmr Pro",
@@ -3641,46 +3082,6 @@
       ],
       "beta": false,
       "appID": "com.google.ios.youtubecercube"
-    },
-    {
-      "name": "Spotify++ (Old)",
-      "bundleIdentifier": "com.spotify.client-old",
-      "developerName": "iJulioVerne",
-      "subtitle": "The original Spotilife tweak, along with other tweaks",
-      "localizedDescription": "USE THIS IF YOU DO NOT LIKE THE NEW ONE OR IF ITS NOT WORKING\n\nI would highly recommend you use the new Spotify tweak as it has been updated to work on newer Spotify versions and is currently being updated. However this tweak may stop working in the near future as it is an old version.\n\n\n\nSpotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n\u2022 Spotilife - Premium for free.\n\n\u2022 Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n\u2022 Volify - Adds a volume slider to Spotify.\n\n\u2022 SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n\u2022 SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n\u2022 SpotifyHighQuality - Enables 'Very High' Quality in Audio Quality settings\n\n\u2022TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n\u2022 Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n\n\n\nNOTE\n\nThe \u2018Car\u2019 setting has been replaced with the sposify tweak settings so unfortunatley you cannot change car settings - all good tho, nobody use that shi anyways, and when car view enables when u in the car, just click \u2018turn off car view\u2019 at the top right corner.\n\n\nAll tweaks are injected by myself, WuXu, and ensured to be working perfectly ;)\n",
-      "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.webp",
-      "tintColor": "1fd362",
-      "category": "Entertainment",
-      "screenshotURLs": [
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp"
-      ],
-      "version": "8.6.42-0.2",
-      "versionDate": "2023-04-24",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked-OG.v8.6.42-0.2.ipa",
-      "versionDescription": "\u2022 Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions\n\u2022 Added OpenSpotifySafariExtension - Enable in Safari extensions to fix Spotify links not opening the app!",
-      "size": 47500000,
-      "versions": [
-        {
-          "version": "8.6.42-0.2",
-          "date": "2023-04-24",
-          "localizedDescription": "\u2022 Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions\n\u2022 Added OpenSpotifySafariExtension - Enable in Safari extensions to fix Spotify links not opening the app!",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked-OG.v8.6.42-0.2.ipa",
-          "size": 47500000
-        },
-        {
-          "version": "8.6.42-0.1",
-          "date": "2023-03-19",
-          "localizedDescription": "\u2022 Added SpotifyNoPodcasts\n\u2022 Added SpotifyHighQuality\n\u2022 Added Spoticentre\n\u2022 Added TrueShuffle",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked.v8.6.42-0.1.ipa",
-          "size": 47000000
-        }
-      ],
-      "beta": false
     },
     {
       "beta": false,
