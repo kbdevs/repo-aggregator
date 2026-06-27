@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Enki",
+      "type": 1,
+      "bundleID": "PHCXZHD53T.com.enki.insights",
+      "bundleIdentifier": "PHCXZHD53T.com.enki.insights",
+      "version": "2.40.9",
+      "versionDate": "2026-06-02",
+      "fullDate": "20260602054725",
+      "size": 18198306,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2026/Enki_2.40.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2026/Enki_2.40.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png"
+    },
+    {
+      "name": "HabitKit",
+      "type": 1,
+      "bundleID": "com.roehl.habitkit",
+      "bundleIdentifier": "com.roehl.habitkit",
+      "version": "1.15.2",
+      "versionDate": "2026-06-01",
+      "fullDate": "20260601213312",
+      "size": 87044867,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/HabitKit_1.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/HabitKit_1.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png"
+    },
+    {
+      "name": "MoneyManagerExpenseBudget",
+      "type": 1,
+      "bundleID": "com.realbyteapps.MoneyManager2",
+      "bundleIdentifier": "com.realbyteapps.MoneyManager2",
+      "version": "2.13.1",
+      "versionDate": "2026-06-01",
+      "fullDate": "20260601015732",
+      "size": 27426753,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/MoneyManagerExpenseBudget_2.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/MoneyManagerExpenseBudget_2.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png"
+    },
+    {
       "name": "Timeshifter",
       "type": 1,
       "bundleID": "com.timeshifter.timeshifter",
@@ -1348,22 +1396,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.diagnostics.ios.png"
     },
     {
-      "name": "Osmosis",
-      "type": 1,
-      "bundleID": "com.osmose-it.osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "version": "6.0.6",
-      "versionDate": "2026-05-15",
-      "fullDate": "20260515000251",
-      "size": 27432127,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2026/Osmosis_6.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2026/Osmosis_6.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png"
-    },
-    {
       "name": "iRetouch",
       "type": 1,
       "bundleID": "com.photoedit.cleanwatermark",
@@ -1716,22 +1748,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png"
     },
     {
-      "name": "GlowUp",
-      "type": 1,
-      "bundleID": "com.snowcorp.glowup",
-      "bundleIdentifier": "com.snowcorp.glowup",
-      "version": "4.2.2",
-      "versionDate": "2026-05-08",
-      "fullDate": "20260508015950",
-      "size": 188352582,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/GlowUp_4.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/GlowUp_4.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png"
-    },
-    {
       "name": "Headway",
       "type": 1,
       "bundleID": "com.headway.books",
@@ -1762,22 +1778,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png"
-    },
-    {
-      "name": "ReversoContext",
-      "type": 1,
-      "bundleID": "com.softissimo.ReversoContext",
-      "bundleIdentifier": "com.softissimo.ReversoContext",
-      "version": "16.9",
-      "versionDate": "2026-05-06",
-      "fullDate": "20260506213852",
-      "size": 164137439,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2026/ReversoContext_16.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2026/ReversoContext_16.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png"
     }
   ],
   "userInfo": {}
