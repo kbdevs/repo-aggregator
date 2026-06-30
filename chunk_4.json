@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.123.0",
+      "versionDate": "2026-05-08",
+      "fullDate": "20260508041746",
+      "size": 284215351,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/Zing_1.123.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/Zing_1.123.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png"
+    },
+    {
+      "name": "Headway",
+      "type": 1,
+      "bundleID": "com.headway.books",
+      "bundleIdentifier": "com.headway.books",
+      "version": "380.5",
+      "versionDate": "2026-05-07",
+      "fullDate": "20260507034911",
+      "size": 277367840,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+    },
+    {
       "name": "MyFitCoach",
       "type": 1,
       "bundleID": "de.my-fit-coach.myfitcoach-ios",
@@ -114,22 +146,6 @@
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icandiapps.nightsky.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icandiapps.nightsky.png"
-    },
-    {
-      "name": "TunerPro",
-      "type": 1,
-      "bundleID": "com.mwm.guitartuner",
-      "bundleIdentifier": "com.mwm.guitartuner",
-      "version": "4.00.06",
-      "versionDate": "2026-05-05",
-      "fullDate": "20260505175656",
-      "size": 285441459,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/TunerPro_4.00.06_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/TunerPro_4.00.06_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png"
     },
     {
       "name": "Slopes",
@@ -834,22 +850,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png"
-    },
-    {
-      "name": "Tachimanga",
-      "type": 1,
-      "bundleID": "com.mangacrush.ios",
-      "bundleIdentifier": "com.mangacrush.ios",
-      "version": "4.15",
-      "versionDate": "2026-04-19",
-      "fullDate": "20260419081842",
-      "size": 126780481,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-04-2026/Tachimanga_4.15_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-04-2026/Tachimanga_4.15_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png"
     },
     {
       "name": "GigaBody",
