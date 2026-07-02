@@ -4,6 +4,24 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "WedslyPlanning",
+      "type": 1,
+      "bundleID": "com.wedbox.planning",
+      "bundleIdentifier": "com.wedbox.planning",
+      "version": "3.6.1",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074611",
+      "size": 61402754,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1355",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1355",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1820",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761377932.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377932.png"
+    },
+    {
       "name": "HeadifyAIHeadshotGenerator",
       "type": 1,
       "bundleID": "com.photoshoot.headshotaigenerator",
@@ -1265,17 +1283,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Personal AI English coach to practice conversation. A user requested it so here it is.\nLast updated: 08-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.loora.Loora-iOS.png"
-    },
-    {
-      "name": "LoopsiePro",
-      "bundleIdentifier": "com.gamelounge.loopsie.ios",
-      "version": "8.10.2",
-      "versionDate": "2024-10-09",
-      "size": 185592561,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
     }
   ],
   "userInfo": {}

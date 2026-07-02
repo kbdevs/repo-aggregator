@@ -4,6 +4,24 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_10.json",
   "apps": [
     {
+      "name": "LogoMaker",
+      "type": 1,
+      "bundleID": "com.contentarcade.LogoMaker",
+      "bundleIdentifier": "com.contentarcade.LogoMaker",
+      "version": "11.2.8",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025083217",
+      "size": 254808339,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1717",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1717",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/2001",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/1761380791.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761380791.png"
+    },
+    {
       "name": "FrameGrabber",
       "type": 1,
       "bundleID": "de.arthurhammer.framegrabber",
@@ -1563,7 +1581,7 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1451",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1451",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1868",
-      "appstore_download_count": 0,
+      "appstore_download_count": 1,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://appstore.sidelix.vip/images/1761378698.png",
@@ -2000,24 +2018,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://appstore.sidelix.vip/images/1761377949.png",
       "iconURL": "https://appstore.sidelix.vip/images/1761377949.png"
-    },
-    {
-      "name": "WedslyPlanning",
-      "type": 1,
-      "bundleID": "com.wedbox.planning",
-      "bundleIdentifier": "com.wedbox.planning",
-      "version": "3.6.1",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025074611",
-      "size": 61402754,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1355",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1355",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1820",
-      "appstore_download_count": 0,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://appstore.sidelix.vip/images/1761377932.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377932.png"
     }
   ],
   "userInfo": {}

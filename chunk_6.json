@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Open",
+      "type": 1,
+      "bundleID": "com.o-p-e-n.open",
+      "bundleIdentifier": "com.o-p-e-n.open",
+      "version": "25.51",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223160853",
+      "size": 103384090,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Open_25.51_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Open_25.51_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.o-p-e-n.open.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.o-p-e-n.open.png"
+    },
+    {
+      "name": "Rootd",
+      "type": 1,
+      "bundleID": "org.reactjs.native.example.rootd",
+      "bundleIdentifier": "org.reactjs.native.example.rootd",
+      "version": "3.1.28",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223160850",
+      "size": 53164391,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Rootd_3.1.28_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Rootd_3.1.28_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.example.rootd.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.example.rootd.png"
+    },
+    {
+      "name": "BeFreed",
+      "type": 1,
+      "bundleID": "ai.befreed.freed-frontend-rn",
+      "bundleIdentifier": "ai.befreed.freed-frontend-rn",
+      "version": "4.1.7",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223160843",
+      "size": 39678299,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/BeFreed_4.1.7_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/BeFreed_4.1.7_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Unlocked All Functions",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.befreed.freed-frontend-rn.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.befreed.freed-frontend-rn.png"
+    },
+    {
       "name": "Feather",
       "type": 1,
       "bundleID": "thewonderofyou.Feather",
@@ -18,22 +66,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/thewonderofyou.Feather.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/thewonderofyou.Feather.png"
-    },
-    {
-      "name": "IPTVExpert",
-      "type": 1,
-      "bundleID": "com.iptv.player",
-      "bundleIdentifier": "com.iptv.player",
-      "version": "9.2.2",
-      "versionDate": "2025-12-23",
-      "fullDate": "20251223063131",
-      "size": 43888367,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/IPTVExpert_9.2.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/IPTVExpert_9.2.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png"
     },
     {
       "name": "TVRemote",
@@ -1124,22 +1156,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bikinstudio.screenx.png"
     },
     {
-      "name": "DrKegel",
-      "type": 1,
-      "bundleID": "games.calico.mantracker",
-      "bundleIdentifier": "games.calico.mantracker",
-      "version": "1.0.9",
-      "versionDate": "2025-12-05",
-      "fullDate": "20251205033510",
-      "size": 140403906,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/DrKegel_1.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2025/DrKegel_1.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png"
-    },
-    {
       "name": "Mockview",
       "type": 1,
       "bundleID": "com.kavsoft.MockviewApp",
@@ -1394,22 +1410,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fineyo.Fineyo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fineyo.Fineyo.png"
-    },
-    {
-      "name": "NCv1802",
-      "type": 1,
-      "bundleID": "nt.nc.ios",
-      "bundleIdentifier": "nt.nc.ios",
-      "version": "18.0.2",
-      "versionDate": "2025-11-22",
-      "fullDate": "20251122002447",
-      "size": 372860091,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
     },
     {
       "name": "Euforia",
