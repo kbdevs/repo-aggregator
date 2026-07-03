@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "WeatherRadar",
+      "type": 1,
+      "bundleID": "de.wetteronline.WetterApppro",
+      "bundleIdentifier": "de.wetteronline.WetterApppro",
+      "version": "2026.5",
+      "versionDate": "2026-03-09",
+      "fullDate": "20260309161056",
+      "size": 120686514,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-03-2026/WeatherRadar_2026.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-03-2026/WeatherRadar_2026.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.wetteronline.WetterApppro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.wetteronline.WetterApppro.png"
+    },
+    {
       "name": "AniClient",
       "type": 1,
       "bundleID": "com.picspacehd.anilistclient",
@@ -274,22 +290,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thirteenleafclover.art.generator.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thirteenleafclover.art.generator.png"
-    },
-    {
-      "name": "BlitzerdePRO",
-      "type": 1,
-      "bundleID": "com.eifrig.blitzerdepro",
-      "bundleIdentifier": "com.eifrig.blitzerdepro",
-      "version": "400.3.2",
-      "versionDate": "2026-02-07",
-      "fullDate": "20260207231024",
-      "size": 106995895,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-02-2026/BlitzerdePRO_400.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-02-2026/BlitzerdePRO_400.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png"
     },
     {
       "name": "CodeSnackIDE",

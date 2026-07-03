@@ -256,6 +256,24 @@
       "iconURL": "https://appstore.sidelix.vip/images/1761380517.png"
     },
     {
+      "name": "RashaqaWorkout",
+      "type": 1,
+      "bundleID": "com.madarsoft.fitness",
+      "bundleIdentifier": "com.madarsoft.fitness",
+      "version": "15.4",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025082736",
+      "size": 359599027,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1681",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1681",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1983",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/1761380500.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761380500.png"
+    },
+    {
       "name": "AndalusiDesign",
       "type": 1,
       "bundleID": "com.AppChief.ArabicArt",
@@ -2000,24 +2018,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://appstore.sidelix.vip/images/1761377962.png",
       "iconURL": "https://appstore.sidelix.vip/images/1761377962.png"
-    },
-    {
-      "name": "ahead",
-      "type": 1,
-      "bundleID": "com.aheadsolutions.aHead",
-      "bundleIdentifier": "com.aheadsolutions.aHead",
-      "version": "1.60.0",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025074628",
-      "size": 182418221,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1357",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1357",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1821",
-      "appstore_download_count": 0,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://appstore.sidelix.vip/images/1761377949.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377949.png"
     }
   ],
   "userInfo": {}
