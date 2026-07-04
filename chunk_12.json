@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "LyricifyMobile",
+      "bundleIdentifier": "com.wxriw.LyricifyMobile",
+      "version": "1.4.3",
+      "versionDate": "2024-10-09",
+      "size": 23887689,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
+      "developerName": "Lyricify-App",
+      "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png"
+    },
+    {
       "name": "LooraPremium",
       "bundleIdentifier": "ai.loora.Loora-iOS",
       "version": "1.60.2",

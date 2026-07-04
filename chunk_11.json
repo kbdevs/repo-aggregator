@@ -4,6 +4,24 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "LensAI",
+      "type": 1,
+      "bundleID": "com.lens.ai.app",
+      "bundleIdentifier": "com.lens.ai.app",
+      "version": "1.0.16",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025074643",
+      "size": 76564990,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1359",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1359",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1822",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/1761377962.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761377962.png"
+    },
+    {
       "name": "ahead",
       "type": 1,
       "bundleID": "com.aheadsolutions.aHead",
@@ -1279,17 +1297,6 @@
       "developerName": "kodjodevf",
       "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
-    },
-    {
-      "name": "LyricifyMobile",
-      "bundleIdentifier": "com.wxriw.LyricifyMobile",
-      "version": "1.4.3",
-      "versionDate": "2024-10-09",
-      "size": 23887689,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
-      "developerName": "Lyricify-App",
-      "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png"
     }
   ],
   "userInfo": {}

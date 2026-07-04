@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "MyScriptNotes",
+      "type": 1,
+      "bundleID": "com.myscript.nebo",
+      "bundleIdentifier": "com.myscript.nebo",
+      "version": "7.4.2",
+      "versionDate": "2026-06-08",
+      "fullDate": "20260608032345",
+      "size": 140342780,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/MyScriptNotes_7.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/MyScriptNotes_7.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png"
+    },
+    {
       "name": "Narwhal",
       "type": 1,
       "bundleID": "com.rickharrison.narwhal",
@@ -962,22 +978,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png"
-    },
-    {
-      "name": "Workouts",
-      "type": 1,
-      "bundleID": "com.sbs.train",
-      "bundleIdentifier": "com.sbs.train",
-      "version": "1.2.1",
-      "versionDate": "2026-05-22",
-      "fullDate": "20260522223937",
-      "size": 202625281,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/Workouts_1.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/Workouts_1.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png"
     },
     {
       "name": "FujiXWeekly",
