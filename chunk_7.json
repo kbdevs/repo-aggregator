@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Moodshot",
+      "type": 1,
+      "bundleID": "irfandegirmenci.Moodshot",
+      "bundleIdentifier": "irfandegirmenci.Moodshot",
+      "version": "3.0.12",
+      "versionDate": "2025-11-03",
+      "fullDate": "20251103031859",
+      "size": 64115800,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Moodshot_3.0.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Moodshot_3.0.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/irfandegirmenci.Moodshot.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/irfandegirmenci.Moodshot.png"
+    },
+    {
+      "name": "MyDexTCG",
+      "type": 1,
+      "bundleID": "com.albertomoral.PokedexTradingCards",
+      "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
+      "version": "1.7.3",
+      "versionDate": "2025-11-02",
+      "fullDate": "20251102035655",
+      "size": 20469121,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2025/MyDexTCG_1.7.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png"
+    },
+    {
       "name": "Rolls",
       "type": 1,
       "bundleID": "rolls.tech.mindflick",
@@ -1762,38 +1794,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.houseofmars.Pearla.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.houseofmars.Pearla.png"
-    },
-    {
-      "name": "MistLens",
-      "type": 1,
-      "bundleID": "com.latenightking.TrueFilm",
-      "bundleIdentifier": "com.latenightking.TrueFilm",
-      "version": "2.3",
-      "versionDate": "2025-08-12",
-      "fullDate": "20250812161543",
-      "size": 10406199,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MistLens_2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MistLens_2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png"
-    },
-    {
-      "name": "AdGuardPro",
-      "type": 1,
-      "bundleID": "com.adguard.AdguardPro",
-      "bundleIdentifier": "com.adguard.AdguardPro",
-      "version": "4.5.11",
-      "versionDate": "2025-08-11",
-      "fullDate": "20250811005258",
-      "size": 37340833,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/AdGuardPro_4.5.11_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/AdGuardPro_4.5.11_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardPro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardPro.png"
     }
   ],
   "userInfo": {}
