@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Paste",
+      "type": 1,
+      "bundleID": "com.wiheads.paste",
+      "bundleIdentifier": "com.wiheads.paste",
+      "version": "6.6.1",
+      "versionDate": "2026-06-09",
+      "fullDate": "20260609164601",
+      "size": 32780895,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Paste_6.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Paste_6.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png"
+    },
+    {
       "name": "Dazz",
       "type": 1,
       "bundleID": "dazz.camera.vintagecamera",
@@ -1794,22 +1810,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png"
-    },
-    {
-      "name": "WeedFirm2",
-      "type": 2,
-      "bundleID": "com.bcanada.weedfirm2",
-      "bundleIdentifier": "com.bcanada.weedfirm2",
-      "version": "4.1.14",
-      "versionDate": "2026-05-10",
-      "fullDate": "20260510055514",
-      "size": 297692316,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/WeedFirm2_4.1.14_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/WeedFirm2_4.1.14_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png"
     }
   ],
   "userInfo": {}
