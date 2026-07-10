@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Widgetsmith",
+      "type": 1,
+      "bundleID": "com.crossforward.WidgetSmith",
+      "bundleIdentifier": "com.crossforward.WidgetSmith",
+      "version": "8.3.1",
+      "versionDate": "2026-06-09",
+      "fullDate": "20260609193930",
+      "size": 108478458,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Widgetsmith_8.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Widgetsmith_8.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png"
+    },
+    {
       "name": "Paste",
       "type": 1,
       "bundleID": "com.wiheads.paste",
@@ -1074,22 +1090,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png"
-    },
-    {
-      "name": "FujiXWeekly",
-      "type": 1,
-      "bundleID": "com.fujixweekly.fujixweeklyrecipes",
-      "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
-      "version": "1.14.1",
-      "versionDate": "2026-05-22",
-      "fullDate": "20260522063822",
-      "size": 23330810,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/FujiXWeekly_1.14.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/FujiXWeekly_1.14.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png"
     },
     {
       "name": "BodyFast",
