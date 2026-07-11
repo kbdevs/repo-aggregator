@@ -4,6 +4,42 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "foriOS",
+      "type": 1,
+      "bundleID": "com.tapinfinity.HdjcXcode7",
+      "bundleIdentifier": "com.tapinfinity.HdjcXcode7",
+      "version": "13.1",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025034802",
+      "size": 39587460,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1371",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1371",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1828",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/1761378081.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378081.png"
+    },
+    {
+      "name": "PolyGit",
+      "type": 1,
+      "bundleID": "com.polygitapp.polygit",
+      "bundleIdentifier": "com.polygitapp.polygit",
+      "version": "53.0",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025034750",
+      "size": 10632739,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1369",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1369",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1827",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/1761378049.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378049.png"
+    },
+    {
       "name": "H2O",
       "type": 1,
       "bundleID": "co.airapps.waterreminder",
@@ -87,7 +123,7 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1347",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1347",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1816",
-      "appstore_download_count": 0,
+      "appstore_download_count": 2,
       "developerName": "Holloway",
       "localizedDescription": "Injected with IAP",
       "icon": "https://appstore.sidelix.vip/images/1761377811.png",
@@ -1286,28 +1322,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
-    },
-    {
-      "name": "Mangayomi",
-      "bundleIdentifier": "com.kodjodevf.mangayomi",
-      "version": "0.1.0",
-      "versionDate": "2024-10-09",
-      "size": 93145110,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
-      "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
-    },
-    {
-      "name": "LyricifyMobile",
-      "bundleIdentifier": "com.wxriw.LyricifyMobile",
-      "version": "1.4.3",
-      "versionDate": "2024-10-09",
-      "size": 23887689,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
-      "developerName": "Lyricify-App",
-      "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png"
     }
   ],
   "userInfo": {}
