@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "flipclock",
+      "type": 1,
+      "bundleID": "com.cuilingshi.flipclock",
+      "bundleIdentifier": "com.cuilingshi.flipclock",
+      "version": "6.21",
+      "versionDate": "2026-06-10",
+      "fullDate": "20260610115208",
+      "size": 36597982,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/flipclock_6.21_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/flipclock_6.21_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png"
+    },
+    {
+      "name": "FotMob",
+      "type": 1,
+      "bundleID": "com.mobilefootie.fotmobpro",
+      "bundleIdentifier": "com.mobilefootie.fotmobpro",
+      "version": "1237.0",
+      "versionDate": "2026-06-10",
+      "fullDate": "20260610114157",
+      "size": 59145907,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/FotMob_1237.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/FotMob_1237.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png"
+    },
+    {
       "name": "CARROT",
       "type": 1,
       "bundleID": "com.grailr.CARROTweather",
@@ -322,22 +354,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png"
-    },
-    {
-      "name": "Mockup",
-      "type": 1,
-      "bundleID": "com.hasankassem.mockup",
-      "bundleIdentifier": "com.hasankassem.mockup",
-      "version": "4.3",
-      "versionDate": "2026-06-05",
-      "fullDate": "20260605151341",
-      "size": 64098175,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2026/Mockup_4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2026/Mockup_4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png"
     },
     {
       "name": "BeautyPlus",
@@ -1794,22 +1810,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png"
-    },
-    {
-      "name": "AlphaProgr",
-      "type": 1,
-      "bundleID": "com.alphaprogression.alphaprogression",
-      "bundleIdentifier": "com.alphaprogression.alphaprogression",
-      "version": "6.8",
-      "versionDate": "2026-05-10",
-      "fullDate": "20260510060035",
-      "size": 145268290,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/AlphaProgr_6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/AlphaProgr_6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png"
     }
   ],
   "userInfo": {}

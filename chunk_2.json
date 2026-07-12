@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Hevy",
+      "type": 1,
+      "bundleID": "com.hevyapp.hevy",
+      "bundleIdentifier": "com.hevyapp.hevy",
+      "version": "3.1.2",
+      "versionDate": "2026-07-05",
+      "fullDate": "20260705011405",
+      "size": 119227774,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2026/Hevy_3.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2026/Hevy_3.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png"
+    },
+    {
+      "name": "Tachimanga",
+      "type": 1,
+      "bundleID": "com.mangacrush.ios",
+      "bundleIdentifier": "com.mangacrush.ios",
+      "version": "4.17",
+      "versionDate": "2026-07-04",
+      "fullDate": "20260704083211",
+      "size": 127459650,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2026/Tachimanga_4.17_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2026/Tachimanga_4.17_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png"
+    },
+    {
       "name": "Cleanup",
       "type": 1,
       "bundleID": "com.codeway.cleanerplus",
@@ -1778,38 +1810,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png"
-    },
-    {
-      "name": "flipclock",
-      "type": 1,
-      "bundleID": "com.cuilingshi.flipclock",
-      "bundleIdentifier": "com.cuilingshi.flipclock",
-      "version": "6.21",
-      "versionDate": "2026-06-10",
-      "fullDate": "20260610115208",
-      "size": 36597982,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/flipclock_6.21_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/flipclock_6.21_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png"
-    },
-    {
-      "name": "FotMob",
-      "type": 1,
-      "bundleID": "com.mobilefootie.fotmobpro",
-      "bundleIdentifier": "com.mobilefootie.fotmobpro",
-      "version": "1237.0",
-      "versionDate": "2026-06-10",
-      "fullDate": "20260610114157",
-      "size": 59145907,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/FotMob_1237.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/FotMob_1237.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png"
     }
   ],
   "userInfo": {}
