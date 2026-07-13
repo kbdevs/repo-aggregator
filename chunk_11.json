@@ -33,7 +33,7 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1379",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1379",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1832",
-      "appstore_download_count": 1,
+      "appstore_download_count": 0,
       "developerName": "Holloway",
       "localizedDescription": "Injected with VIP",
       "icon": "",
@@ -267,7 +267,7 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/333",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/333",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/1307",
-      "appstore_download_count": 1,
+      "appstore_download_count": 3,
       "developerName": "polo",
       "localizedDescription": "Scarlet iOS signing app",
       "icon": "https://appstore.sidelix.vip/images/1761363717.png",
@@ -1350,6 +1350,28 @@
       "developerName": "Manpreet Singh @thisismanpreeets",
       "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
+    },
+    {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "version": "3.3.5",
+      "versionDate": "2024-10-10",
+      "size": 28563166,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
+      "developerName": "Misaka",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "version": "2023.11.17",
+      "versionDate": "2024-10-10",
+      "size": 90694453,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     }
   ],
   "userInfo": {}
