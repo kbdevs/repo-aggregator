@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "FotMob",
+      "type": 1,
+      "bundleID": "com.mobilefootie.fotmobpro",
+      "bundleIdentifier": "com.mobilefootie.fotmobpro",
+      "version": "1237.0",
+      "versionDate": "2026-06-10",
+      "fullDate": "20260610114157",
+      "size": 59145907,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/FotMob_1237.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/FotMob_1237.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png"
+    },
+    {
+      "name": "CARROT",
+      "type": 1,
+      "bundleID": "com.grailr.CARROTweather",
+      "bundleIdentifier": "com.grailr.CARROTweather",
+      "version": "6.6.1",
+      "versionDate": "2026-06-09",
+      "fullDate": "20260609221610",
+      "size": 168867911,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/CARROT_6.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/CARROT_6.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png"
+    },
+    {
+      "name": "Widgetsmith",
+      "type": 1,
+      "bundleID": "com.crossforward.WidgetSmith",
+      "bundleIdentifier": "com.crossforward.WidgetSmith",
+      "version": "8.3.1",
+      "versionDate": "2026-06-09",
+      "fullDate": "20260609193930",
+      "size": 108478458,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Widgetsmith_8.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Widgetsmith_8.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png"
+    },
+    {
       "name": "Paste",
       "type": 1,
       "bundleID": "com.wiheads.paste",
@@ -18,22 +66,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png"
-    },
-    {
-      "name": "Dazz",
-      "type": 1,
-      "bundleID": "dazz.camera.vintagecamera",
-      "bundleIdentifier": "dazz.camera.vintagecamera",
-      "version": "2.17.3",
-      "versionDate": "2026-06-09",
-      "fullDate": "20260609012401",
-      "size": 111162703,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Dazz_2.17.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Dazz_2.17.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png"
     },
     {
       "name": "Trace",
@@ -914,22 +946,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png"
-    },
-    {
-      "name": "TORVPN",
-      "type": 1,
-      "bundleID": "com.youssef.developer.Full-Browser",
-      "bundleIdentifier": "com.youssef.developer.Full-Browser",
-      "version": "11.5",
-      "versionDate": "2026-05-26",
-      "fullDate": "20260526024958",
-      "size": 188918633,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2026/TORVPN_11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2026/TORVPN_11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png"
     },
     {
       "name": "TheAtlantic",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png"
-    },
-    {
-      "name": "ColoringBookforMe",
-      "type": 1,
-      "bundleID": "com.apalonapps.clrbook",
-      "bundleIdentifier": "com.apalonapps.clrbook",
-      "version": "4.50.29",
-      "versionDate": "2026-05-09",
-      "fullDate": "20260509033440",
-      "size": 122013655,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png"
     }
   ],
   "userInfo": {}

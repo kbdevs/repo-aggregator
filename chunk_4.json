@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "ColoringBookforMe",
+      "type": 1,
+      "bundleID": "com.apalonapps.clrbook",
+      "bundleIdentifier": "com.apalonapps.clrbook",
+      "version": "4.50.29",
+      "versionDate": "2026-05-09",
+      "fullDate": "20260509033440",
+      "size": 122013655,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png"
+    },
+    {
       "name": "PlanesLiveFree",
       "type": 1,
       "bundleID": "com.apalonapps.planesfree",
@@ -562,22 +578,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloomberg.Bloomberg.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloomberg.Bloomberg.png"
-    },
-    {
-      "name": "Inpreview",
-      "type": 1,
-      "bundleID": "instapreview",
-      "bundleIdentifier": "instapreview",
-      "version": "6.11.1",
-      "versionDate": "2026-04-24",
-      "fullDate": "20260424141356",
-      "size": 126828681,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-04-2026/Inpreview_6.11.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-04-2026/Inpreview_6.11.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/instapreview.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/instapreview.png"
     },
     {
       "name": "HeyJapan",
