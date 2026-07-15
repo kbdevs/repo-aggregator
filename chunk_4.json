@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Evertag",
+      "type": 1,
+      "bundleID": "com.leshko.tagseditor",
+      "bundleIdentifier": "com.leshko.tagseditor",
+      "version": "4.2",
+      "versionDate": "2026-05-10",
+      "fullDate": "20260510032215",
+      "size": 65634476,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Evertag_4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Evertag_4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png"
+    },
+    {
       "name": "ColoringBookforMe",
       "type": 1,
       "bundleID": "com.apalonapps.clrbook",
@@ -450,22 +466,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png"
-    },
-    {
-      "name": "InCollage",
-      "type": 1,
-      "bundleID": "PhotoEditor.PhotoCollage.inCollage",
-      "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
-      "version": "2.2.40",
-      "versionDate": "2026-04-29",
-      "fullDate": "20260429070002",
-      "size": 94574389,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2026/InCollage_2.2.40_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2026/InCollage_2.2.40_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png"
     },
     {
       "name": "MediaConvert",
