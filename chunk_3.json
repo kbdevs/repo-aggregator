@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Instagram",
+      "type": 1,
+      "bundleID": "com.burbn.instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "433.0.0",
+      "versionDate": "2026-06-10",
+      "fullDate": "20260610115226",
+      "size": 282563167,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "RenovateAI",
+      "type": 1,
+      "bundleID": "app.renovateai",
+      "bundleIdentifier": "app.renovateai",
+      "version": "5.1.8",
+      "versionDate": "2026-06-10",
+      "fullDate": "20260610115220",
+      "size": 58579795,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/RenovateAI_5.1.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/RenovateAI_5.1.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png"
+    },
+    {
+      "name": "Noteful",
+      "type": 1,
+      "bundleID": "com.noteful-technologies.noteful",
+      "bundleIdentifier": "com.noteful-technologies.noteful",
+      "version": "1.4.37",
+      "versionDate": "2026-06-10",
+      "fullDate": "20260610115213",
+      "size": 88905469,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Noteful_1.4.37_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Noteful_1.4.37_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png"
+    },
+    {
       "name": "flipclock",
       "type": 1,
       "bundleID": "com.cuilingshi.flipclock",
@@ -34,22 +82,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png"
-    },
-    {
-      "name": "CARROT",
-      "type": 1,
-      "bundleID": "com.grailr.CARROTweather",
-      "bundleIdentifier": "com.grailr.CARROTweather",
-      "version": "6.6.1",
-      "versionDate": "2026-06-09",
-      "fullDate": "20260609221610",
-      "size": 168867911,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/CARROT_6.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/CARROT_6.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png"
     },
     {
       "name": "Widgetsmith",
@@ -1188,22 +1220,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png"
     },
     {
-      "name": "Endel",
-      "type": 1,
-      "bundleID": "com.endel.endel",
-      "bundleIdentifier": "com.endel.endel",
-      "version": "4.49.149",
-      "versionDate": "2026-05-21",
-      "fullDate": "20260521151357",
-      "size": 218967079,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2026/Endel_4.49.149_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2026/Endel_4.49.149_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png"
-    },
-    {
       "name": "Dehancer",
       "type": 1,
       "bundleID": "com.dehancer.film.ios-app",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bergen.Darkroom.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bergen.Darkroom.png"
-    },
-    {
-      "name": "Soundmap",
-      "type": 2,
-      "bundleID": "app.mmap.mobile",
-      "bundleIdentifier": "app.mmap.mobile",
-      "version": "2.11.2",
-      "versionDate": "2026-05-10",
-      "fullDate": "20260510052840",
-      "size": 65684786,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Soundmap_2.11.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Soundmap_2.11.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png"
     }
   ],
   "userInfo": {}

@@ -836,44 +836,8 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
     },
     {
-      "name": "MyFitnessPal++",
-      "type": 1,
-      "bundleID": "com.myfitnesspal.mfp",
-      "bundleIdentifier": "com.myfitnesspal.mfp.53",
-      "version": "25.8.0",
-      "versionDate": "2025-10-27",
-      "fullDate": "20251027000343",
-      "size": 112148115,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1758",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1758",
-      "download_page_url": "https://appstore.sidelix.vip/apps/173/2024",
-      "appstore_download_count": 0,
-      "developerName": "lscs3",
-      "localizedDescription": "\u2022 Premium Features Enabled\n\nTrack progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn't another restrictive diet app. This is a health app to help you learn about your habits u2026 see how you eat u2026 make smarter food choices u2026 find motivation & support ... and conquer your health goals.",
-      "icon": "https://appstore.sidelix.vip/images/1761537755.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761537755.png"
-    },
-    {
-      "name": "MyFitnessPal",
-      "type": 1,
-      "bundleID": "com.myfitnesspal.mfp",
-      "bundleIdentifier": "com.myfitnesspal.mfp.54",
-      "version": "25.42.0",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025015204",
-      "size": 121233127,
-      "down": "https://appstore.sidelix.vip/download-repo-source/497",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/497",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1391",
-      "appstore_download_count": 0,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://appstore.sidelix.vip/images/1761371438.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371438.png"
-    },
-    {
       "name": "MyFitnessPalPremium",
-      "bundleIdentifier": "com.myfitnesspal.mfp.55",
+      "bundleIdentifier": "com.myfitnesspal.mfp.53",
       "version": "24.11.0",
       "versionDate": "2024-10-11",
       "size": 73759556,
@@ -884,7 +848,7 @@
     },
     {
       "name": "MyFitnessPalPremium",
-      "bundleIdentifier": "com.myfitnesspal.mfp.56",
+      "bundleIdentifier": "com.myfitnesspal.mfp.54",
       "version": "24.13.0",
       "versionDate": "2024-10-11",
       "size": 77714063,
@@ -895,7 +859,7 @@
     },
     {
       "name": "MyFitnessPalPremium",
-      "bundleIdentifier": "com.myfitnesspal.mfp.57",
+      "bundleIdentifier": "com.myfitnesspal.mfp.55",
       "version": "24.15.0",
       "versionDate": "2024-10-11",
       "size": 78126607,
@@ -906,7 +870,7 @@
     },
     {
       "name": "MyFitnessPalPremium",
-      "bundleIdentifier": "com.myfitnesspal.mfp.58",
+      "bundleIdentifier": "com.myfitnesspal.mfp.56",
       "version": "24.17.0",
       "versionDate": "2024-10-11",
       "size": 78267994,
@@ -917,7 +881,7 @@
     },
     {
       "name": "MyFitnessPalPremium",
-      "bundleIdentifier": "com.myfitnesspal.mfp.59",
+      "bundleIdentifier": "com.myfitnesspal.mfp.57",
       "version": "24.23.0",
       "versionDate": "2024-10-11",
       "size": 73098275,
@@ -928,7 +892,7 @@
     },
     {
       "name": "MyFitnessPalPremium",
-      "bundleIdentifier": "com.myfitnesspal.mfp.60",
+      "bundleIdentifier": "com.myfitnesspal.mfp.58",
       "version": "24.28.0",
       "versionDate": "2024-10-11",
       "size": 73148365,
@@ -939,7 +903,7 @@
     },
     {
       "name": "MyFitnessPalPremium",
-      "bundleIdentifier": "com.myfitnesspal.mfp.61",
+      "bundleIdentifier": "com.myfitnesspal.mfp.59",
       "version": "24.30.0",
       "versionDate": "2024-10-11",
       "size": 77477338,
@@ -950,7 +914,7 @@
     },
     {
       "name": "MyFitnessPalPremium",
-      "bundleIdentifier": "com.myfitnesspal.mfp.62",
+      "bundleIdentifier": "com.myfitnesspal.mfp.60",
       "version": "24.32.0",
       "versionDate": "2024-10-11",
       "size": 93131122,
@@ -961,7 +925,7 @@
     },
     {
       "name": "MyFitnessPal++",
-      "bundleIdentifier": "com.myfitnesspal.mfp.63",
+      "bundleIdentifier": "com.myfitnesspal.mfp.61",
       "developerName": "Strejda603",
       "subtitle": "MyFitnessPal With Premium Activated.",
       "localizedDescription": "\u2022 Premium Features Enabled\n\nTrack progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn't another restrictive diet app. This is a health app to help you learn about your habits u2026 see how you eat u2026 make smarter food choices u2026 find motivation & support ... and conquer your health goals.",
