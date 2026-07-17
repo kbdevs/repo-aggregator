@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Darkroom",
+      "type": 1,
+      "bundleID": "co.bergen.Darkroom",
+      "bundleIdentifier": "co.bergen.Darkroom",
+      "version": "7.1.7",
+      "versionDate": "2026-05-10",
+      "fullDate": "20260510053919",
+      "size": 318270602,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Darkroom_7.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Darkroom_7.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bergen.Darkroom.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bergen.Darkroom.png"
+    },
+    {
       "name": "Soundmap",
       "type": 2,
       "bundleID": "app.mmap.mobile",
@@ -802,22 +818,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png"
-    },
-    {
-      "name": "simpleweather",
-      "type": 1,
-      "bundleID": "com.andyworks.weather",
-      "bundleIdentifier": "com.andyworks.weather",
-      "version": "3.49",
-      "versionDate": "2026-04-21",
-      "fullDate": "20260421232328",
-      "size": 206876385,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-04-2026/simpleweather_3.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-04-2026/simpleweather_3.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png"
     },
     {
       "name": "JSCodePad",
@@ -1842,6 +1842,22 @@
       "localizedDescription": "Injected with Satella",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.polarr.ppe.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.polarr.ppe.png"
+    },
+    {
+      "name": "simpletimer",
+      "type": 1,
+      "bundleID": "com.andyworks.timer",
+      "bundleIdentifier": "com.andyworks.timer",
+      "version": "3.19",
+      "versionDate": "2026-02-14",
+      "fullDate": "20260214024040",
+      "size": 138998867,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-02-2026/simpletimer_3.19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-02-2026/simpletimer_3.19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.timer.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.timer.png"
     }
   ],
   "userInfo": {}
