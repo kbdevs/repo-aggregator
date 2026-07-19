@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "SnoreLab",
+      "type": 1,
+      "bundleID": "com.revivasoftworks.Snore-Lab",
+      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+      "version": "6.4.2",
+      "versionDate": "2026-07-09",
+      "fullDate": "20260709152735",
+      "size": 159613458,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/SnoreLab_6.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/SnoreLab_6.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png"
+    },
+    {
+      "name": "Wallcraft",
+      "type": 1,
+      "bundleID": "com.wallpaperscraft.wallpapers",
+      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+      "version": "3.38",
+      "versionDate": "2026-07-09",
+      "fullDate": "20260709114133",
+      "size": 116577785,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/Wallcraft_3.38_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/Wallcraft_3.38_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
+    },
+    {
+      "name": "Labbet",
+      "type": 1,
+      "bundleID": "app.labbet.labbet",
+      "bundleIdentifier": "app.labbet.labbet",
+      "version": "2.64",
+      "versionDate": "2026-07-09",
+      "fullDate": "20260709112120",
+      "size": 184152027,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/Labbet_2.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/Labbet_2.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
+    },
+    {
+      "name": "FujiXWeekly",
+      "type": 1,
+      "bundleID": "com.fujixweekly.fujixweeklyrecipes",
+      "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
+      "version": "1.14.2",
+      "versionDate": "2026-07-09",
+      "fullDate": "20260709110114",
+      "size": 23332858,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/FujiXWeekly_1.14.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/FujiXWeekly_1.14.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png"
+    },
+    {
       "name": "Flitsmeister",
       "type": 1,
       "bundleID": "rw.sp.flitsmeister",
@@ -516,22 +580,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png"
     },
     {
-      "name": "VSCO",
-      "type": 1,
-      "bundleID": "co.visualsupply.cam",
-      "bundleIdentifier": "co.visualsupply.cam",
-      "version": "461.5.2",
-      "versionDate": "2026-07-06",
-      "fullDate": "20260706040631",
-      "size": 209332964,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2026/VSCO_461.5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2026/VSCO_461.5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
-    },
-    {
       "name": "Stemz",
       "type": 1,
       "bundleID": "com.mwm.stems",
@@ -1026,22 +1074,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png"
-    },
-    {
-      "name": "superagent",
-      "type": 1,
-      "bundleID": "com.agent.super.extension.safari",
-      "bundleIdentifier": "com.agent.super.extension.safari",
-      "version": "4.4.1",
-      "versionDate": "2026-07-01",
-      "fullDate": "20260701050254",
-      "size": 25835039,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/superagent_4.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/superagent_4.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png"
     },
     {
       "name": "Clarity",
@@ -1540,22 +1572,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png"
     },
     {
-      "name": "Lyfta",
-      "type": 1,
-      "bundleID": "com.lyftaios",
-      "bundleIdentifier": "com.lyftaios",
-      "version": "1.150",
-      "versionDate": "2026-06-22",
-      "fullDate": "20260622152222",
-      "size": 65451609,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-06-2026/Lyfta_1.150_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-06-2026/Lyfta_1.150_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png"
-    },
-    {
       "name": "Mercury",
       "type": 1,
       "bundleID": "com.tripleglazedstudios.Weather",
@@ -1842,22 +1858,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
-    },
-    {
-      "name": "VivaCut",
-      "type": 1,
-      "bundleID": "com.vivacut.videoeditor",
-      "bundleIdentifier": "com.vivacut.videoeditor",
-      "version": "4.6.0",
-      "versionDate": "2026-06-11",
-      "fullDate": "20260611082524",
-      "size": 203109116,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2026/VivaCut_4.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2026/VivaCut_4.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png"
     }
   ],
   "userInfo": {}

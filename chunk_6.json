@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Astra",
+      "type": 1,
+      "bundleID": "com.vertventures.stella",
+      "bundleIdentifier": "com.vertventures.stella",
+      "version": "3.11.37",
+      "versionDate": "2025-12-19",
+      "fullDate": "20251219170419",
+      "size": 71171736,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Astra_3.11.37_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Astra_3.11.37_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vertventures.stella.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vertventures.stella.png"
+    },
+    {
       "name": "OfflineGames",
       "type": 2,
       "bundleID": "com.JindoBlu.OfflineGamesIOS",
@@ -1842,22 +1858,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.am.pkstudio.png"
-    },
-    {
-      "name": "KitchenStories",
-      "type": 1,
-      "bundleID": "com.AJNSNewMedia.KitchenStories",
-      "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
-      "version": "26.0.5",
-      "versionDate": "2025-10-22",
-      "fullDate": "20251022010024",
-      "size": 61929406,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png"
     }
   ],
   "userInfo": {}
