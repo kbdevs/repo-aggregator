@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "duet",
+      "type": 1,
+      "bundleID": "com.kairos.duet",
+      "bundleIdentifier": "com.kairos.duet",
+      "version": "3.1.8",
+      "versionDate": "2026-06-12",
+      "fullDate": "20260612083710",
+      "size": 44623847,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/duet_3.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/duet_3.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
+    },
+    {
       "name": "VivaCut",
       "type": 1,
       "bundleID": "com.vivacut.videoeditor",
@@ -514,22 +530,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png"
-    },
-    {
-      "name": "BoxBox",
-      "type": 1,
-      "bundleID": "club.boxbox.widgets-ios",
-      "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.3.9",
-      "versionDate": "2026-06-04",
-      "fullDate": "20260604192015",
-      "size": 89619894,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2026/BoxBox_5.3.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2026/BoxBox_5.3.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png"
     },
     {
       "name": "CarParkingMultiplayer",
