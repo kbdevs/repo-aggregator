@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Piano",
+      "type": 1,
+      "bundleID": "com.mwm.piano-app",
+      "bundleIdentifier": "com.mwm.piano-app",
+      "version": "3.58.02",
+      "versionDate": "2026-06-16",
+      "fullDate": "20260616124948",
+      "size": 149948749,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2026/Piano_3.58.02_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2026/Piano_3.58.02_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png"
+    },
+    {
       "name": "Apollo",
       "type": 1,
       "bundleID": "com.christianselig.Apollo",
@@ -514,22 +530,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rickharrison.narwhal.png"
-    },
-    {
-      "name": "Analogue",
-      "type": 1,
-      "bundleID": "Cristian-Teichner.Analogue",
-      "bundleIdentifier": "Cristian-Teichner.Analogue",
-      "version": "1.4.2",
-      "versionDate": "2026-06-06",
-      "fullDate": "20260606024205",
-      "size": 602895651,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2026/Analogue_1.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2026/Analogue_1.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png"
     },
     {
       "name": "BeautyPlus",
