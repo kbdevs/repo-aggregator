@@ -4,24 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "InnerNow",
-      "type": 1,
-      "bundleID": "com.chopraglobal.chopra",
-      "bundleIdentifier": "com.chopraglobal.chopra",
-      "version": "3.0.0",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025035358",
-      "size": 26515026,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1415",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1415",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1850",
-      "appstore_download_count": 0,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://appstore.sidelix.vip/images/1761378428.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378428.png"
-    },
-    {
       "name": "Gradient",
       "type": 1,
       "bundleID": "com.tickettothemoon.gradient",
@@ -1440,6 +1422,17 @@
       "developerName": "Manpreet Singh @thisismanpreeets",
       "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
+    },
+    {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "version": "3.3.5",
+      "versionDate": "2024-10-10",
+      "size": 28563166,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
+      "developerName": "Misaka",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     }
   ],
   "userInfo": {}

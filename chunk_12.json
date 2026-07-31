@@ -4,17 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
-      "name": "Misaka",
-      "bundleIdentifier": "com.straight-tamago.misakaRS",
-      "version": "3.3.5",
-      "versionDate": "2024-10-10",
-      "size": 28563166,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
-      "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
-    },
-    {
       "name": "MemrisePremium",
       "bundleIdentifier": "com.memrise.ios.memrisecompanion",
       "version": "2023.11.17",
@@ -1208,12 +1197,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "9974",
-          "marketingVersion": "3.4.0-alpha.20260729.9434e8a",
-          "date": "2026-07-29",
-          "localizedDescription": "## Alpha Build `9434e8a`\n\n**Automated alpha build from `develop` branch**\n\n| | |\n|---|---|\n| **Commit** | [`9434e8a`](https://github.com/Provenance-Emu/Provenance/commit/9434e8ab8a37c97f2bb688c4cd6ec5189f1f0146) |\n| **Built** | 2026-07-29 04:49 UTC |\n| **CI Run** | [View build log](https://github.com/Provenance-Emu/Provenance/actions/runs/30419333340) |\n| **Bundle ID** | `com.provenance-emu.provenance.alpha` |\n\n> **Note:** This alpha build uses a separate bundle ID so it can be installed alongside the stable release.\n\n### Commits since last alpha\n```\n9434e8ab8 fix(build): stamp the archive's Info.plist via TARGET_BUILD_DIR\n0b7c9b1f2 ci(build): make tvOS a required job\nd2f3a3c05 ci(build): stop building Provenance-Lite\n```\n\n---\nThese builds are unsigned and intended for sideloading via AltStore/SideStore.\nInstall the **Provenance Alpha** app (separate from stable) using the [sideload feed](https://provenance-emu.com/altstore-source.json).\n\n> This release is automatically updated on every successful develop push.\n",
+          "buildVersion": "9982",
+          "marketingVersion": "3.4.0-alpha.20260730.f058e06",
+          "date": "2026-07-30",
+          "localizedDescription": "## Alpha Build `f058e06`\n\n**Automated alpha build from `develop` branch**\n\n| | |\n|---|---|\n| **Commit** | [`f058e06`](https://github.com/Provenance-Emu/Provenance/commit/f058e06c93f426d9e5c8369b196c7d0d09fb3e30) |\n| **Built** | 2026-07-30 05:17 UTC |\n| **CI Run** | [View build log](https://github.com/Provenance-Emu/Provenance/actions/runs/30511261971) |\n| **Bundle ID** | `com.provenance-emu.provenance.alpha` |\n\n> **Note:** This alpha build uses a separate bundle ID so it can be installed alongside the stable release.\n\n### Commits since last alpha\n```\nf058e06c9 build(deps): bump the bundler group across 2 directories with 4 updates (#3631)\nc4295fd85 fix(ci): add the missing transitive submodules to Agent Validation (#3636)\nbe75dcb76 fix(release): stop leaking the ASC private key world-readable (#3635)\n4b7b9423f fix(ci): publish sideload feed to a URL that actually serves (#3633)\n```\n\n### Merged PRs\n- #3631: build(deps): bump the bundler group across 2 directories with 4 updates\n- #3633: fix(ci): publish sideload feed to a URL that actually serves\n- #3635: fix(release): stop leaking the ASC private key world-readable\n- #3636: fix(ci): add the missing transitive submodules to Agent Validation\n\n\n---\nThese builds are unsigned and intended for sideloading via AltStore/SideStore.\nInstall the **Provenance Alpha** app (separate from stable) by adding the\n[sideload feed](https://provenance-emu.com/apps.json) \u2014 or tap\n[Add to AltStore](https://provenance-emu.com/altstore) /\n[Add to SideStore](https://provenance-emu.com/sidestore) on your device to add it directly.\n\n> This release is automatically updated on every successful develop push.\n",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS.ipa",
-          "size": 1757596562,
+          "size": 1757790386,
           "minOSVersion": "17.0"
         }
       ],
