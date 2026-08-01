@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Swiftgram",
+      "type": 1,
+      "bundleID": "app.swiftgram.ios",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "version": "12.8",
+      "versionDate": "2026-06-19",
+      "fullDate": "20260619014642",
+      "size": 83179791,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2026/Swiftgram_12.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2026/Swiftgram_12.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
+    },
+    {
       "name": "NotePlan",
       "type": 1,
       "bundleID": "co.noteplan.NotePlan3",
@@ -1074,22 +1090,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png"
-    },
-    {
-      "name": "1Blocker",
-      "type": 1,
-      "bundleID": "com.khanov.BlockerX",
-      "bundleIdentifier": "com.khanov.BlockerX",
-      "version": "6.5.3",
-      "versionDate": "2026-05-26",
-      "fullDate": "20260526050033",
-      "size": 58929088,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2026/1Blocker_6.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2026/1Blocker_6.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png"
     },
     {
       "name": "TheAtlantic",

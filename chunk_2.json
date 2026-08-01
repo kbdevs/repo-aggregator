@@ -4,20 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
-      "name": "Rest",
+      "name": "SHRED",
       "type": 1,
-      "bundleID": "com.evolve.helm",
-      "bundleIdentifier": "com.evolve.helm",
-      "version": "3.196.0",
+      "bundleID": "com.shred.shredlabs",
+      "bundleIdentifier": "com.shred.shredlabs",
+      "version": "5.5.0",
       "versionDate": "2026-07-22",
-      "fullDate": "20260722021004",
-      "size": 132310592,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Rest_3.196.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Rest_3.196.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "fullDate": "20260722044135",
+      "size": 152960623,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/SHRED_5.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/SHRED_5.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png"
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png"
+    },
+    {
+      "name": "simpletimer",
+      "type": 1,
+      "bundleID": "com.andyworks.timer",
+      "bundleIdentifier": "com.andyworks.timer",
+      "version": "3.20",
+      "versionDate": "2026-07-22",
+      "fullDate": "20260722025048",
+      "size": 178449939,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/simpletimer_3.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/simpletimer_3.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.timer.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.timer.png"
     },
     {
       "name": "Calendars",
@@ -1874,22 +1890,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png"
-    },
-    {
-      "name": "Swiftgram",
-      "type": 1,
-      "bundleID": "app.swiftgram.ios",
-      "bundleIdentifier": "app.swiftgram.ios",
-      "version": "12.8",
-      "versionDate": "2026-06-19",
-      "fullDate": "20260619014642",
-      "size": 83179791,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2026/Swiftgram_12.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2026/Swiftgram_12.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
     }
   ],
   "userInfo": {}
