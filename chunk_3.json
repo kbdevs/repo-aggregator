@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "NRv1553513",
+      "type": 1,
+      "bundleID": "nt.nr.ios",
+      "bundleIdentifier": "nt.nr.ios",
+      "version": "15.535.13",
+      "versionDate": "2026-06-23",
+      "fullDate": "20260623021910",
+      "size": 761528213,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/NRv1553513_15.535.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/NRv1553513_15.535.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png"
+    },
+    {
       "name": "Swiftgram",
       "type": 1,
       "bundleID": "app.swiftgram.ios",
@@ -642,22 +658,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png"
-    },
-    {
-      "name": "Athlytic",
-      "type": 1,
-      "bundleID": "myndarc.newFitnessApp",
-      "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "26.4.4",
-      "versionDate": "2026-06-04",
-      "fullDate": "20260604050943",
-      "size": 32243661,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2026/Athlytic_26.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2026/Athlytic_26.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png"
     },
     {
       "name": "Drafts",
