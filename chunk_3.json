@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "YouCut",
+      "type": 1,
+      "bundleID": "com.shantanu.YouCut",
+      "bundleIdentifier": "com.shantanu.YouCut",
+      "version": "1.30.1",
+      "versionDate": "2026-06-23",
+      "fullDate": "20260623151546",
+      "size": 89509948,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/YouCut_1.30.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/YouCut_1.30.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png"
+    },
+    {
+      "name": "Thenx",
+      "type": 1,
+      "bundleID": "com.calisthenics.thenx",
+      "bundleIdentifier": "com.calisthenics.thenx",
+      "version": "6.7.0",
+      "versionDate": "2026-06-23",
+      "fullDate": "20260623151533",
+      "size": 145960063,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Thenx_6.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Thenx_6.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
+    },
+    {
       "name": "NRv1553513",
       "type": 1,
       "bundleID": "nt.nr.ios",
@@ -100,22 +132,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png"
     },
     {
-      "name": "Motionleap",
-      "type": 1,
-      "bundleID": "com.lightricks.Enlight-Phoenix",
-      "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
-      "version": "1.9.37",
-      "versionDate": "2026-06-16",
-      "fullDate": "20260616103700",
-      "size": 186685670,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2026/Motionleap_1.9.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2026/Motionleap_1.9.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png"
-    },
-    {
       "name": "VEEDCaptions",
       "type": 1,
       "bundleID": "io.veed.appstore",
@@ -146,22 +162,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png"
-    },
-    {
-      "name": "Lightleap",
-      "type": 1,
-      "bundleID": "com.lightricks.Enlight-Photos",
-      "bundleIdentifier": "com.lightricks.Enlight-Photos",
-      "version": "1.21.2",
-      "versionDate": "2026-06-14",
-      "fullDate": "20260614143727",
-      "size": 241841520,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2026/Lightleap_1.21.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2026/Lightleap_1.21.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Photos.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Photos.png"
     },
     {
       "name": "CleanMyPhone",
