@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Wallpapers",
+      "type": 1,
+      "bundleID": "com.apalonapps.wallpaperspys",
+      "bundleIdentifier": "com.apalonapps.wallpaperspys",
+      "version": "2.5",
+      "versionDate": "2026-06-24",
+      "fullDate": "20260624062135",
+      "size": 41412078,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2026/Wallpapers_2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2026/Wallpapers_2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png"
+    },
+    {
+      "name": "Facelab",
+      "type": 1,
+      "bundleID": "com.lyrebirdstudio.facelab",
+      "bundleIdentifier": "com.lyrebirdstudio.facelab",
+      "version": "2.93",
+      "versionDate": "2026-06-23",
+      "fullDate": "20260623183738",
+      "size": 390035544,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Facelab_2.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Facelab_2.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png"
+    },
+    {
       "name": "YouCut",
       "type": 1,
       "bundleID": "com.shantanu.YouCut",
@@ -50,22 +82,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png"
-    },
-    {
-      "name": "Swiftgram",
-      "type": 1,
-      "bundleID": "app.swiftgram.ios",
-      "bundleIdentifier": "app.swiftgram.ios",
-      "version": "12.8",
-      "versionDate": "2026-06-19",
-      "fullDate": "20260619014642",
-      "size": 83179791,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2026/Swiftgram_12.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2026/Swiftgram_12.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
     },
     {
       "name": "NotePlan",
@@ -642,22 +658,6 @@
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.ovx-btiv.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.ovx-btiv.ios.png"
-    },
-    {
-      "name": "iLovePDF",
-      "type": 1,
-      "bundleID": "com.ilovepdf.www",
-      "bundleIdentifier": "com.ilovepdf.www",
-      "version": "4.0.2",
-      "versionDate": "2026-06-04",
-      "fullDate": "20260604122238",
-      "size": 127021611,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2026/iLovePDF_4.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2026/iLovePDF_4.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png"
     },
     {
       "name": "Drafts",
