@@ -4,24 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
-      "name": "InnerNow",
-      "type": 1,
-      "bundleID": "com.chopraglobal.chopra",
-      "bundleIdentifier": "com.chopraglobal.chopra",
-      "version": "3.0.0",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025035358",
-      "size": 26515026,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1415",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1415",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1850",
-      "appstore_download_count": 0,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://appstore.sidelix.vip/images/1761378428.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378428.png"
-    },
-    {
       "name": "Gradient",
       "type": 1,
       "bundleID": "com.tickettothemoon.gradient",
@@ -74,6 +56,24 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://appstore.sidelix.vip/images/1761378297.png",
       "iconURL": "https://appstore.sidelix.vip/images/1761378297.png"
+    },
+    {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035144",
+      "size": 170244178,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1397",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1397",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1841",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://appstore.sidelix.vip/images/1761378283.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378283.png"
     },
     {
       "name": "LiveWallpapersFree",

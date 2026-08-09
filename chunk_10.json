@@ -922,24 +922,6 @@
       "iconURL": "https://appstore.sidelix.vip/images/1761380500.png"
     },
     {
-      "name": "AndalusiDesign",
-      "type": 1,
-      "bundleID": "com.AppChief.ArabicArt",
-      "bundleIdentifier": "com.AppChief.ArabicArt",
-      "version": "8.5.1",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025042712",
-      "size": 149455103,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1679",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1679",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1982",
-      "appstore_download_count": 0,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://appstore.sidelix.vip/images/1761380474.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380474.png"
-    },
-    {
       "name": "AppGroupCheck",
       "type": 1,
       "bundleID": "com.choco.appgroupcheck",
@@ -2126,6 +2108,24 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://appstore.sidelix.vip/images/1761378443.png",
       "iconURL": "https://appstore.sidelix.vip/images/1761378443.png"
+    },
+    {
+      "name": "InnerNow",
+      "type": 1,
+      "bundleID": "com.chopraglobal.chopra",
+      "bundleIdentifier": "com.chopraglobal.chopra",
+      "version": "3.0.0",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035358",
+      "size": 26515026,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1415",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1415",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1850",
+      "appstore_download_count": 0,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378428.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378428.png"
     }
   ],
   "userInfo": {}

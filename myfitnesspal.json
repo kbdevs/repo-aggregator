@@ -1008,62 +1008,94 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.myfitnesspal.mfp.png"
     },
     {
-      "name": "MyFitnessPal++",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.team-identifier",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSBluetoothPeripheralUsageDescription": "Allows MyFitnessPal to use Bluetooth.",
+          "NSCalendarsUsageDescription": "Allows MyFitnessPal to add class reservations to your calendar.",
+          "NSCameraUsageDescription": "We use your camera to allow you to scan barcodes, foods, and add photos to your weight entries and custom meals.",
+          "NSHealthShareUsageDescription": "Allows MyFitnessPal to read data from the Health app.",
+          "NSHealthUpdateUsageDescription": "Allows MyFitnessPal to write data to the Health app.",
+          "NSMicrophoneUsageDescription": "We use your microphone to allow you to log food with your voice.",
+          "NSPhotoLibraryUsageDescription": "Allows you to add photos to your weight entries.",
+          "NSSpeechRecognitionUsageDescription": "Voice Log uses speech recognition technology to understand and interpret what you're saying.",
+          "NSUserTrackingUsageDescription": "This info will be used to show you ads that are more relevant to you."
+        }
+      },
+      "beta": false,
       "bundleIdentifier": "com.myfitnesspal.mfp.66",
-      "developerName": "Strejda603",
-      "subtitle": "MyFitnessPal With Premium Activated.",
-      "localizedDescription": "\u2022 Premium Features Enabled\n\nTrack progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn't another restrictive diet app. This is a health app to help you learn about your habits u2026 see how you eat u2026 make smarter food choices u2026 find motivation & support ... and conquer your health goals.",
-      "iconURL": "https://img.ipa4fun.com/33/7a/25/341232718-logo.webp",
-      "tintColor": "0463ea",
       "category": "Lifestyle",
+      "developerName": "Strejda603",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v26.30.0.ipa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/17/fa/8717fa12-83f0-1184-f3d1-9ff90f157708/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "\u2022 Premium Features Enabled\n\nTrack progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.\n\nMyFitnessPal isn't another restrictive diet app. This is a health app to help you learn about your habits u2026 see how you eat u2026 make smarter food choices u2026 find motivation & support ... and conquer your health goals.",
+      "name": "MyFitnessPal++",
       "screenshotURLs": [
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-1.webp",
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-2.webp",
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-3.webp",
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-4.webp",
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-5.webp",
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-6.webp",
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-7.webp",
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-8.webp",
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-9.webp",
-        "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-10.webp"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/90/0e/04900ea5-3aba-b487-8185-a8daa4677500/MFP_iOS_US_6.9_Screen_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/43/87/da4387d7-4e0a-5842-fc88-7a7108ba730a/MFP_iOS_US_6.9_Screen_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/e0/0f/cde00f0e-b9b4-34ed-0384-70d4e41cf06d/MFP_iOS_US_6.9_Screen_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/6b/a2/e16ba2a3-ef9b-bfa5-9072-65818d686100/MFP_iOS_US_6.9_Screen_5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/75/a9/9875a98c-f00f-4138-d71c-b9e40fb06cf3/MFP_iOS_US_6.9_Screen_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/0f/15/9f0f156b-7a74-302a-9b4e-38f387014f72/MFP_iOS_US_6.9_Screen_6.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/06/13/92061313-2d4c-b908-0d47-2cfd6a43d9ce/MFP_iOS_US_6.9_Screen_7.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/3b/e7/1e3be759-679c-6dac-d2b6-edb52224721c/MFP_iOS_US_6.9_Screen_8.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/61/02/226102b1-e76c-fcd3-a24a-315abd329ed9/MFP_iOS_US_6.9_Screen_9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/ac/b8/27acb887-5caf-4594-96eb-2ca95589f07d/MFP_iOS_US_6.9_Screen_10.png/320x480bb.jpg"
       ],
-      "version": "25.8.0",
-      "versionDate": "2025-03-04",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v25.8.0.Cracked.ipa",
-      "versionDescription": "\u2022 Updated MyFitnessPal to v25.8.0",
-      "size": 76600000,
+      "size": 150927743,
+      "subtitle": "MyFitnessPal With Premium Activated.",
+      "tintColor": "0463ea",
+      "version": "26.30.0",
+      "versionDate": "2026-07-28",
+      "versionDescription": "\u2022 MyFitnessPal++ updated to v26.30.0",
       "versions": [
         {
-          "version": "25.8.0",
+          "date": "2026-07-28",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v26.30.0.ipa",
+          "localizedDescription": "\u2022 MyFitnessPal++ updated to v26.30.0",
+          "minOSVersion": "17.0",
+          "size": 150927743,
+          "version": "26.30.0"
+        },
+        {
           "date": "2025-03-04",
-          "localizedDescription": "\u2022 Updated MyFitnessPal to v25.8.0",
           "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v25.8.0.Cracked.ipa",
-          "size": 76600000
+          "localizedDescription": "\u2022 Updated MyFitnessPal to v25.8.0",
+          "minOSVersion": "16.0",
+          "size": 76600000,
+          "version": "25.8.0"
         },
         {
-          "version": "23.24.5",
           "date": "2024-04-30",
-          "localizedDescription": "\u2022 Updated MyFitnessPal to v23.24.5",
           "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.24.5.ipa",
-          "size": 76600000
+          "localizedDescription": "\u2022 Updated MyFitnessPal to v23.24.5",
+          "size": 76600000,
+          "version": "23.24.5"
         },
         {
-          "version": "23.20.5",
           "date": "2023-10-21",
-          "localizedDescription": "\u2022 Updated MyFitnessPal to v23.20.5",
           "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.20.5.ipa",
-          "size": 76600000
+          "localizedDescription": "\u2022 Updated MyFitnessPal to v23.20.5",
+          "size": 76600000,
+          "version": "23.20.5"
         },
         {
-          "version": "23.6.5",
           "date": "2023-04-06",
-          "localizedDescription": "\u2022 Updated MyFitnessPal to v23.6.5",
           "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.6.5.ipa",
-          "size": 53561262
+          "localizedDescription": "\u2022 Updated MyFitnessPal to v23.6.5",
+          "size": 53561262,
+          "version": "23.6.5"
         }
-      ],
-      "beta": false
+      ]
     }
   ],
   "userInfo": {}
