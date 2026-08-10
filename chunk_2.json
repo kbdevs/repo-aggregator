@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Textastic",
+      "type": 1,
+      "bundleID": "com.textasticapp.textastic-universal",
+      "bundleIdentifier": "com.textasticapp.textastic-universal",
+      "version": "10.9.6",
+      "versionDate": "2026-07-29",
+      "fullDate": "20260729084448",
+      "size": 12604272,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Textastic_10.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Textastic_10.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png"
+    },
+    {
+      "name": "wpsoffice",
+      "type": 1,
+      "bundleID": "com.kingsoft.office.g.wpsoffice",
+      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+      "version": "26.7.1",
+      "versionDate": "2026-07-29",
+      "fullDate": "20260729081923",
+      "size": 321460071,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/wpsoffice_26.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/wpsoffice_26.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png"
+    },
+    {
       "name": "Tachimanga",
       "type": 1,
       "bundleID": "com.mangacrush.ios",
@@ -210,22 +242,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png"
-    },
-    {
-      "name": "VideoLite",
-      "type": 1,
-      "bundleID": "com.videobrowser.ios",
-      "bundleIdentifier": "com.videobrowser.ios",
-      "version": "623300",
-      "versionDate": "2026-07-27",
-      "fullDate": "20260727042433",
-      "size": 41379381,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/VideoLite_623300_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/VideoLite_623300_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png"
     },
     {
       "name": "Boostcamp",
@@ -1730,22 +1746,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
-    },
-    {
-      "name": "Clarity",
-      "type": 1,
-      "bundleID": "com.moodtools.thoughtdiary",
-      "bundleIdentifier": "com.moodtools.thoughtdiary",
-      "version": "5.5.23",
-      "versionDate": "2026-07-01",
-      "fullDate": "20260701013030",
-      "size": 160222276,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/Clarity_5.5.23_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/Clarity_5.5.23_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png"
     },
     {
       "name": "UnifiedDictionary",
