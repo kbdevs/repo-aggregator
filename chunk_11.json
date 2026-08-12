@@ -4,6 +4,396 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Avrora",
+      "type": 1,
+      "bundleID": "com.appsci.sleep",
+      "bundleIdentifier": "com.appsci.sleep",
+      "version": "3.41.7",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025040147",
+      "size": 190059387,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1481",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1481",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1883",
+      "appstore_download_count": 188,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378930.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378930.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "SunriseFast",
+      "type": 1,
+      "bundleID": "io.arborapps.Fasting",
+      "bundleIdentifier": "io.arborapps.Fasting",
+      "version": "2025.8",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025040059",
+      "size": 21592415,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1475",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1475",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1880",
+      "appstore_download_count": 179,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378876.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378876.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "Surge",
+      "type": 1,
+      "bundleID": "com.nssurge.inc.surge-ios",
+      "bundleIdentifier": "com.nssurge.inc.surge-ios",
+      "version": "5.8.3",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025040021",
+      "size": 34150727,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1469",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1469",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1877",
+      "appstore_download_count": 227,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378834.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378834.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "nea",
+      "type": 1,
+      "bundleID": "com.keinois.nea.app",
+      "bundleIdentifier": "com.keinois.nea.app",
+      "version": "1.3.1",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035942",
+      "size": 47681543,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1463",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1463",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1874",
+      "appstore_download_count": 192,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378791.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378791.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "ShoppingList",
+      "type": 1,
+      "bundleID": "jp.tyabaken.kaimono",
+      "bundleIdentifier": "jp.tyabaken.kaimono",
+      "version": "4.0.0",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035930",
+      "size": 12245147,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1461",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1461",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1873",
+      "appstore_download_count": 184,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/1761378777.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378777.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "YogaWave",
+      "type": 1,
+      "bundleID": "com.flyingnayeem.yoga",
+      "bundleIdentifier": "com.flyingnayeem.yoga",
+      "version": "11.16.2",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035830",
+      "size": 34134756,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1453",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1453",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1869",
+      "appstore_download_count": 187,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://appstore.sidelix.vip/images/1761378713.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378713.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "Sleep",
+      "type": 1,
+      "bundleID": "com.bendingspoonsapps.SleepHelp",
+      "bundleIdentifier": "com.bendingspoonsapps.SleepHelp",
+      "version": "2.7.16",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035818",
+      "size": 42010445,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1451",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1451",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1868",
+      "appstore_download_count": 175,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://appstore.sidelix.vip/images/1761378698.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378698.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "SnoreGym",
+      "type": 1,
+      "bundleID": "com.snoregym.app",
+      "bundleIdentifier": "com.snoregym.app",
+      "version": "1.3.1",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035650",
+      "size": 27472323,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1439",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1439",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1862",
+      "appstore_download_count": 191,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378606.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378606.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "DaVinciEye",
+      "type": 1,
+      "bundleID": "com.cumbemg.davinci",
+      "bundleIdentifier": "com.cumbemg.davinci",
+      "version": "4.5.23",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035638",
+      "size": 99901311,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1437",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1437",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1861",
+      "appstore_download_count": 198,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378593.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378593.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "ADHDWhiteNoise",
+      "type": 1,
+      "bundleID": "io.mindist.noise",
+      "bundleIdentifier": "io.mindist.noise",
+      "version": "1.5.0",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035550",
+      "size": 21587196,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1431",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1431",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1858",
+      "appstore_download_count": 217,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378542.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378542.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "ThreeGoodThings",
+      "type": 1,
+      "bundleID": "co.plumstudio.3goodthings",
+      "bundleIdentifier": "co.plumstudio.3goodthings",
+      "version": "6.2.0",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035451",
+      "size": 18036733,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1423",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1423",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1854",
+      "appstore_download_count": 183,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378482.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378482.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "Proddy",
+      "type": 1,
+      "bundleID": "co.thomasmenzel.proddy",
+      "bundleIdentifier": "co.thomasmenzel.proddy",
+      "version": "3.6.4",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035439",
+      "size": 60834641,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1421",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1421",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1853",
+      "appstore_download_count": 172,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378470.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378470.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "YogaPlus",
+      "type": 1,
+      "bundleID": "com.breakthroughapps.Mary-Ochsner-Yoga",
+      "bundleIdentifier": "com.breakthroughapps.Mary-Ochsner-Yoga",
+      "version": "5.9.81",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035426",
+      "size": 46643477,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1419",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1419",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1852",
+      "appstore_download_count": 176,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378455.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378455.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "Chattyai",
+      "type": 1,
+      "bundleID": "com.livintis.chatty",
+      "bundleIdentifier": "com.livintis.chatty",
+      "version": "1.3",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035411",
+      "size": 52792210,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1417",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1417",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1851",
+      "appstore_download_count": 358,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378443.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378443.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "InnerNow",
+      "type": 1,
+      "bundleID": "com.chopraglobal.chopra",
+      "bundleIdentifier": "com.chopraglobal.chopra",
+      "version": "3.0.0",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035358",
+      "size": 26515026,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1415",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1415",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1850",
+      "appstore_download_count": 175,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378428.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378428.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
       "name": "Gradient",
       "type": 1,
       "bundleID": "com.tickettothemoon.gradient",
@@ -15,11 +405,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1409",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1409",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1847",
-      "appstore_download_count": 0,
+      "appstore_download_count": 287,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Premium",
       "icon": "https://appstore.sidelix.vip/images/1761378383.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378383.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761378383.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "Carbon",
@@ -33,11 +431,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1403",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1403",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1844",
-      "appstore_download_count": 0,
+      "appstore_download_count": 188,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Premium",
       "icon": "https://appstore.sidelix.vip/images/1761378327.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378327.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761378327.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "ReceiptLens",
@@ -51,29 +457,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1399",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1399",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1842",
-      "appstore_download_count": 1,
+      "appstore_download_count": 185,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://appstore.sidelix.vip/images/1761378297.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378297.png"
-    },
-    {
-      "name": "CamScanner",
-      "type": 1,
-      "bundleID": "com.intsig.CamScannerLite",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "6.91.1",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025035144",
-      "size": 170244178,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1397",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1397",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1841",
-      "appstore_download_count": 0,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://appstore.sidelix.vip/images/1761378283.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378283.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761378297.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "LiveWallpapersFree",
@@ -87,29 +483,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1395",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1395",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1840",
-      "appstore_download_count": 0,
+      "appstore_download_count": 619,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://appstore.sidelix.vip/images/1761378264.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378264.png"
-    },
-    {
-      "name": "Remember",
-      "type": 1,
-      "bundleID": "io.rmmbr.remember",
-      "bundleIdentifier": "io.rmmbr.remember",
-      "version": "5.19",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025035031",
-      "size": 69824468,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1389",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1389",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1837",
-      "appstore_download_count": 0,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://appstore.sidelix.vip/images/1761378220.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378220.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761378264.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "BitLifeGO",
@@ -123,11 +509,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1379",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1379",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1832",
-      "appstore_download_count": 0,
+      "appstore_download_count": 1556,
       "developerName": "Holloway",
       "localizedDescription": "Injected with VIP",
       "icon": "",
-      "iconURL": ""
+      "iconURL": "",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "luckyloki",
@@ -141,11 +535,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1377",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1377",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1831",
-      "appstore_download_count": 0,
+      "appstore_download_count": 199,
       "developerName": "Holloway",
       "localizedDescription": "Injected with IAP",
       "icon": "https://appstore.sidelix.vip/images/1761378124.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378124.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761378124.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "WaterReminder",
@@ -159,11 +561,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1375",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1375",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1830",
-      "appstore_download_count": 0,
+      "appstore_download_count": 210,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://appstore.sidelix.vip/images/1761378112.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378112.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761378112.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "foriOS",
@@ -177,11 +587,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1371",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1371",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1828",
-      "appstore_download_count": 0,
+      "appstore_download_count": 360,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Pro",
       "icon": "https://appstore.sidelix.vip/images/1761378081.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378081.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761378081.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "PolyGit",
@@ -195,11 +613,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1369",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1369",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1827",
-      "appstore_download_count": 0,
+      "appstore_download_count": 190,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Pro",
       "icon": "https://appstore.sidelix.vip/images/1761378049.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378049.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761378049.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "H2O",
@@ -213,11 +639,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1365",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1365",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1825",
-      "appstore_download_count": 0,
+      "appstore_download_count": 181,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://appstore.sidelix.vip/images/1761378019.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378019.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761378019.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "WedslyPlanning",
@@ -231,11 +665,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1355",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1355",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1820",
-      "appstore_download_count": 0,
+      "appstore_download_count": 167,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Premium",
       "icon": "https://appstore.sidelix.vip/images/1761377932.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377932.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761377932.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "HeadifyAIHeadshotGenerator",
@@ -249,11 +691,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1349",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1349",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1817",
-      "appstore_download_count": 0,
+      "appstore_download_count": 243,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Pro",
       "icon": "https://appstore.sidelix.vip/images/1761377844.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377844.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761377844.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "Supershift",
@@ -267,11 +717,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1347",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1347",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1816",
-      "appstore_download_count": 0,
+      "appstore_download_count": 209,
       "developerName": "Holloway",
       "localizedDescription": "Injected with IAP",
       "icon": "https://appstore.sidelix.vip/images/1761377811.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377811.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761377811.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "Infltr",
@@ -285,11 +743,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1345",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1345",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1815",
-      "appstore_download_count": 0,
+      "appstore_download_count": 202,
       "developerName": "Holloway",
       "localizedDescription": "Injected with Pro",
       "icon": "https://appstore.sidelix.vip/images/1761377798.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377798.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761377798.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "Pixly",
@@ -303,11 +769,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1341",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1341",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1813",
-      "appstore_download_count": 0,
+      "appstore_download_count": 195,
       "developerName": "Holloway",
       "localizedDescription": "Injected with IAP",
       "icon": "https://appstore.sidelix.vip/images/1761377736.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377736.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761377736.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "PrettyUp",
@@ -321,11 +795,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/1335",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1335",
       "download_page_url": "https://appstore.sidelix.vip/apps/13/1810",
-      "appstore_download_count": 1,
+      "appstore_download_count": 454,
       "developerName": "Holloway",
       "localizedDescription": "Injected with IAP",
       "icon": "https://appstore.sidelix.vip/images/1761377688.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377688.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761377688.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
     },
     {
       "name": "Scarlet",
@@ -339,11 +821,19 @@
       "down": "https://appstore.sidelix.vip/download-repo-source/333",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/333",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/1307",
-      "appstore_download_count": 2,
-      "developerName": "polo",
+      "appstore_download_count": 4802,
+      "developerName": "sidelix",
       "localizedDescription": "Scarlet iOS signing app",
       "icon": "https://appstore.sidelix.vip/images/1761363717.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761363717.png"
+      "iconURL": "https://appstore.sidelix.vip/images/1761363717.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Tools"
+      ]
     },
     {
       "name": "OVinfoPro",
@@ -1323,116 +1813,6 @@
       "developerName": "ichitaso",
       "localizedDescription": "Request. OTADisabler for TrollStore, refer to this for more informations.\nLast updated: 02-01-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ichitaso.otadisablerts.png"
-    },
-    {
-      "name": "NineAnimator",
-      "bundleIdentifier": "com.marcuszhou.NineAnimator",
-      "version": "1.3.0-3",
-      "versionDate": "2024-10-11",
-      "size": 8144665,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NineAnimator/NineAnimator-1.3.0-3.ipa",
-      "developerName": "SuperMarcus",
-      "localizedDescription": "Anime streamer, supports multiple sources and comes with a user-friendly GUI\nLast updated: 07-17-2023\nStatus: \u2754",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.marcuszhou.NineAnimator.png"
-    },
-    {
-      "name": "Nicegram",
-      "bundleIdentifier": "app.nicegram",
-      "version": "1.1.5",
-      "versionDate": "2024-10-11",
-      "size": 195552923,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Nicegram/Nicegram-1.1.5.ipa",
-      "developerName": "CyPwn IPA Library / AppDB / IPA Library / MeemNon / DPixel / zxcvbn\u2019s tweaked IPAs / iOS Tutorials + App Cracks",
-      "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.nicegram.png"
-    },
-    {
-      "name": "NGLPro",
-      "bundleIdentifier": "fun.ask",
-      "version": "6.1.117",
-      "versionDate": "2024-10-11",
-      "size": 50645390,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
-      "developerName": "AbodSyripa",
-      "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png"
-    },
-    {
-      "name": "MyDiaryPremium",
-      "bundleIdentifier": "com.simpleinnovation.diary",
-      "version": "1.9.3",
-      "versionDate": "2024-10-11",
-      "size": 40528267,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
-    },
-    {
-      "name": "MusixmatchPremium",
-      "bundleIdentifier": "com.musixmatch.lyrics",
-      "version": "7.10.8",
-      "versionDate": "2024-10-11",
-      "size": 74673060,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
-    },
-    {
-      "name": "MusicAIVIP",
-      "bundleIdentifier": "com.feraset.tune",
-      "version": "4.1.5",
-      "versionDate": "2024-10-11",
-      "size": 49729423,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusicAIVIP/MusicAIVIP-4.1.5.ipa",
-      "developerName": "Zzz Zzz",
-      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
-    },
-    {
-      "name": "Musi",
-      "bundleIdentifier": "com.feelthemusi.musi",
-      "version": "6.2.35",
-      "versionDate": "2024-10-11",
-      "size": 19556756,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
-    },
-    {
-      "name": "MuffinStore",
-      "bundleIdentifier": "dev.mineek.muffinstore",
-      "version": "1.1",
-      "versionDate": "2024-10-11",
-      "size": 29281,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
-    },
-    {
-      "name": "MoisesPremium",
-      "bundleIdentifier": "ai.moises",
-      "version": "2.40.0",
-      "versionDate": "2024-10-11",
-      "size": 60999285,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Removed from the repo: Patched.\nLast updated: 06-23-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png"
-    },
-    {
-      "name": "Misaka",
-      "bundleIdentifier": "com.straight-tamago.misakaRS",
-      "version": "3.3.5",
-      "versionDate": "2024-10-10",
-      "size": 28563166,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
-      "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     }
   ],
   "userInfo": {}
