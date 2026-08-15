@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Evermusic",
+      "type": 1,
+      "bundleID": "com.leshko.cloudplayer",
+      "bundleIdentifier": "com.leshko.cloudplayer",
+      "version": "8.8",
+      "versionDate": "2026-08-05",
+      "fullDate": "20260805150654",
+      "size": 88466009,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Evermusic_8.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Evermusic_8.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.cloudplayer.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.cloudplayer.png"
+    },
+    {
+      "name": "PREQUEL",
+      "type": 1,
+      "bundleID": "com.aiarlabs.prequel",
+      "bundleIdentifier": "com.aiarlabs.prequel",
+      "version": "2.97.0",
+      "versionDate": "2026-08-05",
+      "fullDate": "20260805145139",
+      "size": 268648809,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/PREQUEL_2.97.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/PREQUEL_2.97.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
+    },
+    {
+      "name": "Bearable",
+      "type": 1,
+      "bundleID": "co.codeleap.bearable",
+      "bundleIdentifier": "co.codeleap.bearable",
+      "version": "1.0.607",
+      "versionDate": "2026-08-05",
+      "fullDate": "20260805140628",
+      "size": 60939208,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Bearable_1.0.607_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Bearable_1.0.607_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png"
+    },
+    {
       "name": "Picsew",
       "type": 1,
       "bundleID": "com.sugarmo.ScrollClip",
@@ -420,22 +468,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png"
     },
     {
-      "name": "duet",
-      "type": 1,
-      "bundleID": "com.kairos.duet",
-      "bundleIdentifier": "com.kairos.duet",
-      "version": "3.1.9",
-      "versionDate": "2026-07-30",
-      "fullDate": "20260730212849",
-      "size": 44739077,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/duet_3.1.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/duet_3.1.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
-    },
-    {
       "name": "Luminar",
       "type": 1,
       "bundleID": "com.skylum.luminaripad",
@@ -562,22 +594,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png"
-    },
-    {
-      "name": "Peachy",
-      "type": 1,
-      "bundleID": "com.camerasideas.Peachy",
-      "bundleIdentifier": "com.camerasideas.Peachy",
-      "version": "2.13.0",
-      "versionDate": "2026-07-28",
-      "fullDate": "20260728154818",
-      "size": 195062652,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Peachy_2.13.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Peachy_2.13.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.Peachy.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.Peachy.png"
     },
     {
       "name": "GentlerStreak",
@@ -1572,22 +1588,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png"
     },
     {
-      "name": "DiamondFinder",
-      "type": 1,
-      "bundleID": "com.mcdiamondfinder.app",
-      "bundleIdentifier": "com.mcdiamondfinder.app",
-      "version": "9.2.2",
-      "versionDate": "2026-07-02",
-      "fullDate": "20260702204548",
-      "size": 75930655,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/DiamondFinder_9.2.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/DiamondFinder_9.2.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
-    },
-    {
       "name": "BlitzerdePRO",
       "type": 1,
       "bundleID": "com.eifrig.blitzerdepro",
@@ -1938,6 +1938,22 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png"
+    },
+    {
+      "name": "Remini",
+      "type": 1,
+      "bundleID": "com.bigwinepot.nwdn.international",
+      "bundleIdentifier": "com.bigwinepot.nwdn.international",
+      "version": "2.10.206",
+      "versionDate": "2026-06-25",
+      "fullDate": "20260625190725",
+      "size": 119830175,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2026/Remini_2.10.206_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2026/Remini_2.10.206_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png"
     }
   ],
   "userInfo": {}
