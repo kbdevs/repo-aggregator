@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Detail",
+      "type": 1,
+      "bundleID": "co.detail.duo",
+      "bundleIdentifier": "co.detail.duo",
+      "version": "5.7.1",
+      "versionDate": "2026-08-05",
+      "fullDate": "20260805225931",
+      "size": 242113543,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Detail_5.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Detail_5.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png"
+    },
+    {
+      "name": "SHRED",
+      "type": 1,
+      "bundleID": "com.shred.shredlabs",
+      "bundleIdentifier": "com.shred.shredlabs",
+      "version": "5.5.1",
+      "versionDate": "2026-08-05",
+      "fullDate": "20260805225415",
+      "size": 153076241,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SHRED_5.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SHRED_5.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png"
+    },
+    {
       "name": "Wikiloc",
       "type": 1,
       "bundleID": "com.wikiloc.wikiloc",
@@ -354,22 +386,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png"
-    },
-    {
-      "name": "OraWeather",
-      "type": 1,
-      "bundleID": "com.itwcalculator.worldradarfree",
-      "bundleIdentifier": "com.itwcalculator.worldradarfree",
-      "version": "6.0.5",
-      "versionDate": "2026-08-02",
-      "fullDate": "20260802170554",
-      "size": 106432003,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2026/OraWeather_6.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2026/OraWeather_6.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png"
     },
     {
       "name": "Lightleap",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png"
-    },
-    {
-      "name": "Remini",
-      "type": 1,
-      "bundleID": "com.bigwinepot.nwdn.international",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.10.206",
-      "versionDate": "2026-06-25",
-      "fullDate": "20260625190725",
-      "size": 119830175,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2026/Remini_2.10.206_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2026/Remini_2.10.206_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png"
     }
   ],
   "userInfo": {}
