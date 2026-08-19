@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "UnifiedDictionary",
+      "type": 1,
+      "bundleID": "com.bravolol.bravoLang.chineseDictionary",
+      "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
+      "version": "35.6",
+      "versionDate": "2026-06-30",
+      "fullDate": "20260630094134",
+      "size": 21044378,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2026/UnifiedDictionary_35.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2026/UnifiedDictionary_35.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png"
+    },
+    {
+      "name": "Overdrop",
+      "type": 1,
+      "bundleID": "com.weather.overdrop",
+      "bundleIdentifier": "com.weather.overdrop",
+      "version": "2.3.0",
+      "versionDate": "2026-06-27",
+      "fullDate": "20260627001526",
+      "size": 222534887,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2026/Overdrop_2.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2026/Overdrop_2.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png"
+    },
+    {
+      "name": "GlowUp",
+      "type": 1,
+      "bundleID": "com.snowcorp.glowup",
+      "bundleIdentifier": "com.snowcorp.glowup",
+      "version": "4.2.10",
+      "versionDate": "2026-06-26",
+      "fullDate": "20260626180901",
+      "size": 186701354,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2026/GlowUp_4.2.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2026/GlowUp_4.2.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png"
+    },
+    {
       "name": "RunGo",
       "type": 1,
       "bundleID": "com.leapingcoyote.rungo",
@@ -530,22 +578,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png"
-    },
-    {
-      "name": "AlarmClockforMe",
-      "type": 1,
-      "bundleID": "com.apalonapps.alarmclockfree",
-      "bundleIdentifier": "com.apalonapps.alarmclockfree",
-      "version": "3.19.22",
-      "versionDate": "2026-06-08",
-      "fullDate": "20260608135338",
-      "size": 68442256,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/AlarmClockforMe_3.19.22_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/AlarmClockforMe_3.19.22_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png"
     },
     {
       "name": "Stellarium",
@@ -1636,22 +1668,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoedit.cleanwatermark.png"
     },
     {
-      "name": "CollaNote",
-      "type": 1,
-      "bundleID": "net.quochuywdm.collanote496",
-      "bundleIdentifier": "net.quochuywdm.collanote496",
-      "version": "4.1.2",
-      "versionDate": "2026-05-14",
-      "fullDate": "20260514092557",
-      "size": 132800335,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/CollaNote_4.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/CollaNote_4.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png"
-    },
-    {
       "name": "SleepMonitor",
       "type": 1,
       "bundleID": "com.sleepmonitor.aio",
@@ -1938,22 +1954,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png"
-    },
-    {
-      "name": "ReversoContext",
-      "type": 1,
-      "bundleID": "com.softissimo.ReversoContext",
-      "bundleIdentifier": "com.softissimo.ReversoContext",
-      "version": "16.9",
-      "versionDate": "2026-05-06",
-      "fullDate": "20260506213852",
-      "size": 164137439,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2026/ReversoContext_16.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2026/ReversoContext_16.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png"
     }
   ],
   "userInfo": {}
