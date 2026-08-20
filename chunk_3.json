@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "NCv184007",
+      "type": 1,
+      "bundleID": "nt.nc.ios",
+      "bundleIdentifier": "nt.nc.ios",
+      "version": "18.400.7",
+      "versionDate": "2026-07-01",
+      "fullDate": "20260701110946",
+      "size": 461276778,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/NCv184007_18.400.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/NCv184007_18.400.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png"
+    },
+    {
       "name": "UnifiedDictionary",
       "type": 1,
       "bundleID": "com.bravolol.bravoLang.chineseDictionary",
@@ -146,22 +162,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png"
-    },
-    {
-      "name": "YouCut",
-      "type": 1,
-      "bundleID": "com.shantanu.YouCut",
-      "bundleIdentifier": "com.shantanu.YouCut",
-      "version": "1.30.1",
-      "versionDate": "2026-06-23",
-      "fullDate": "20260623151546",
-      "size": 89509948,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/YouCut_1.30.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/YouCut_1.30.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png"
     },
     {
       "name": "Thenx",
