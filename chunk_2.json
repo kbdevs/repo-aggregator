@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Flightradar24",
+      "type": 1,
+      "bundleID": "se.resenatverket.FlightRadar24-Free",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+      "version": "11.9.0",
+      "versionDate": "2026-08-11",
+      "fullDate": "20260811193642",
+      "size": 238279860,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Flightradar24_11.9.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Flightradar24_11.9.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Gold",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png"
+    },
+    {
+      "name": "Most",
+      "type": 1,
+      "bundleID": "com.most.stories",
+      "bundleIdentifier": "com.most.stories",
+      "version": "3.5.4",
+      "versionDate": "2026-08-11",
+      "fullDate": "20260811183615",
+      "size": 232936673,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Most_3.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Most_3.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png"
+    },
+    {
       "name": "PSExpress",
       "type": 1,
       "bundleID": "com.adobe.PSMobile",
@@ -596,22 +628,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png"
     },
     {
-      "name": "LINECamera",
-      "type": 1,
-      "bundleID": "jp.naver.linecamera",
-      "bundleIdentifier": "jp.naver.linecamera",
-      "version": "18.4.7",
-      "versionDate": "2026-08-04",
-      "fullDate": "20260804215022",
-      "size": 202281633,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/LINECamera_18.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/LINECamera_18.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png"
-    },
-    {
       "name": "Calendars",
       "type": 1,
       "bundleID": "com.readdle.CalendarsLite",
@@ -818,22 +834,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png"
-    },
-    {
-      "name": "LookUp",
-      "type": 1,
-      "bundleID": "in.muditbhargava.LookUp",
-      "bundleIdentifier": "in.muditbhargava.LookUp",
-      "version": "12.1.5",
-      "versionDate": "2026-08-01",
-      "fullDate": "20260801114644",
-      "size": 207289236,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/LookUp_12.1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/LookUp_12.1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png"
     },
     {
       "name": "Sofa",
