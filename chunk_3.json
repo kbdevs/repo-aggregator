@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "KegelExercises",
+      "type": 1,
+      "bundleID": "games.calico.mantracker",
+      "bundleIdentifier": "games.calico.mantracker",
+      "version": "1.0.13",
+      "versionDate": "2026-07-01",
+      "fullDate": "20260701115202",
+      "size": 140410437,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/KegelExercises_1.0.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/KegelExercises_1.0.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png"
+    },
+    {
+      "name": "PlaceGuesser",
+      "type": 2,
+      "bundleID": "com.mobivalley.LookAroundApp",
+      "bundleIdentifier": "com.mobivalley.LookAroundApp",
+      "version": "1.55.0",
+      "versionDate": "2026-07-01",
+      "fullDate": "20260701114644",
+      "size": 50420603,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/PlaceGuesser_1.55.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/PlaceGuesser_1.55.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png"
+    },
+    {
       "name": "YouTubeMusic",
       "type": 1,
       "bundleID": "com.google.ios.youtubemusic",
@@ -274,22 +306,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png"
-    },
-    {
-      "name": "VEEDCaptions",
-      "type": 1,
-      "bundleID": "io.veed.appstore",
-      "bundleIdentifier": "io.veed.appstore",
-      "version": "8.14.0",
-      "versionDate": "2026-06-15",
-      "fullDate": "20260615153850",
-      "size": 166218704,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2026/VEEDCaptions_8.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2026/VEEDCaptions_8.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png"
     },
     {
       "name": "MobileScanner",
@@ -1010,22 +1026,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.todoist.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.todoist.ios.png"
-    },
-    {
-      "name": "Photoshop",
-      "type": 1,
-      "bundleID": "com.adobe.photoshop.ios",
-      "bundleIdentifier": "com.adobe.photoshop.ios",
-      "version": "7.7.8",
-      "versionDate": "2026-05-28",
-      "fullDate": "20260528205048",
-      "size": 280448840,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Photoshop_7.7.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Photoshop_7.7.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png"
     },
     {
       "name": "LoFiCam",
