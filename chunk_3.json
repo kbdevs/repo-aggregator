@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "ReFrame",
+      "type": 1,
+      "bundleID": "com.damienelledge.Dual-Shot-Camera",
+      "bundleIdentifier": "com.damienelledge.Dual-Shot-Camera",
+      "version": "1.0.12",
+      "versionDate": "2026-07-01",
+      "fullDate": "20260701120024",
+      "size": 5641922,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/ReFrame_1.0.12_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/ReFrame_1.0.12_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damienelledge.Dual-Shot-Camera.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damienelledge.Dual-Shot-Camera.png"
+    },
+    {
+      "name": "CarScanner",
+      "type": 1,
+      "bundleID": "ovz.Car-Scanner",
+      "bundleIdentifier": "ovz.Car-Scanner",
+      "version": "2.1.46",
+      "versionDate": "2026-07-01",
+      "fullDate": "20260701115755",
+      "size": 70167983,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/CarScanner_2.1.46_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/CarScanner_2.1.46_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png"
+    },
+    {
       "name": "KegelExercises",
       "type": 1,
       "bundleID": "games.calico.mantracker",
@@ -148,22 +180,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png"
     },
     {
-      "name": "RunGo",
-      "type": 1,
-      "bundleID": "com.leapingcoyote.rungo",
-      "bundleIdentifier": "com.leapingcoyote.rungo",
-      "version": "7.2.8",
-      "versionDate": "2026-06-26",
-      "fullDate": "20260626041757",
-      "size": 38338437,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2026/RunGo_7.2.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2026/RunGo_7.2.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png"
-    },
-    {
       "name": "Remini",
       "type": 1,
       "bundleID": "com.bigwinepot.nwdn.international",
@@ -226,22 +242,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png"
-    },
-    {
-      "name": "Thenx",
-      "type": 1,
-      "bundleID": "com.calisthenics.thenx",
-      "bundleIdentifier": "com.calisthenics.thenx",
-      "version": "6.7.0",
-      "versionDate": "2026-06-23",
-      "fullDate": "20260623151533",
-      "size": 145960063,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Thenx_6.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Thenx_6.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
     },
     {
       "name": "NRv1553513",
