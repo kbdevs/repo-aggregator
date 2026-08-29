@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Scanner",
+      "type": 1,
+      "bundleID": "com.apalonapps.pdffree",
+      "bundleIdentifier": "com.apalonapps.pdffree",
+      "version": "2.12.0",
+      "versionDate": "2026-08-18",
+      "fullDate": "20260818134942",
+      "size": 124594347,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Scanner_2.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Scanner_2.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png"
+    },
+    {
+      "name": "1Blocker",
+      "type": 1,
+      "bundleID": "com.khanov.BlockerX",
+      "bundleIdentifier": "com.khanov.BlockerX",
+      "version": "6.6.2",
+      "versionDate": "2026-08-18",
+      "fullDate": "20260818132424",
+      "size": 61783746,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/1Blocker_6.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/1Blocker_6.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png"
+    },
+    {
+      "name": "SnoreLab",
+      "type": 1,
+      "bundleID": "com.revivasoftworks.Snore-Lab",
+      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+      "version": "6.4.7",
+      "versionDate": "2026-08-18",
+      "fullDate": "20260818124909",
+      "size": 164324238,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/SnoreLab_6.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/SnoreLab_6.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png"
+    },
+    {
       "name": "Shapr3D",
       "type": 1,
       "bundleID": "com.shapr3d.shapr",
@@ -484,22 +532,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
     },
     {
-      "name": "InShot",
-      "type": 1,
-      "bundleID": "com.camerasideas.InstaShot",
-      "bundleIdentifier": "com.camerasideas.InstaShot",
-      "version": "1.98.2",
-      "versionDate": "2026-08-12",
-      "fullDate": "20260812045630",
-      "size": 163025678,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/InShot_1.98.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/InShot_1.98.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png"
-    },
-    {
       "name": "Textastic",
       "type": 1,
       "bundleID": "com.textasticapp.textastic-universal",
@@ -690,22 +722,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png"
-    },
-    {
-      "name": "Lifesum",
-      "type": 1,
-      "bundleID": "com.sillens.iShape",
-      "bundleIdentifier": "com.sillens.iShape",
-      "version": "23.12.1",
-      "versionDate": "2026-08-10",
-      "fullDate": "20260810125130",
-      "size": 132494767,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Lifesum_23.12.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Lifesum_23.12.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png"
     },
     {
       "name": "VideoLite",
@@ -1218,22 +1234,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.maleworkout.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.maleworkout.png"
-    },
-    {
-      "name": "AdobeExpress",
-      "type": 1,
-      "bundleID": "com.adobe.post",
-      "bundleIdentifier": "com.adobe.post",
-      "version": "30.7.0",
-      "versionDate": "2026-07-24",
-      "fullDate": "20260724032303",
-      "size": 141820849,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/AdobeExpress_30.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/AdobeExpress_30.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png"
     },
     {
       "name": "CLIME",
