@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "VideoStudio",
+      "type": 1,
+      "bundleID": "videoeditor.app",
+      "bundleIdentifier": "videoeditor.app",
+      "version": "3.21.4",
+      "versionDate": "2026-07-01",
+      "fullDate": "20260701133653",
+      "size": 211656078,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/VideoStudio_3.21.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/VideoStudio_3.21.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png"
+    },
+    {
       "name": "Speedometer",
       "type": 1,
       "bundleID": "com.jps.gpspeedhud",
@@ -1954,22 +1970,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png"
-    },
-    {
-      "name": "ReversoContext",
-      "type": 1,
-      "bundleID": "com.softissimo.ReversoContext",
-      "bundleIdentifier": "com.softissimo.ReversoContext",
-      "version": "16.9",
-      "versionDate": "2026-05-06",
-      "fullDate": "20260506213852",
-      "size": 164137439,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2026/ReversoContext_16.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2026/ReversoContext_16.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png"
     }
   ],
   "userInfo": {}
