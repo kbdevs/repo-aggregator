@@ -4,6 +4,58 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Avrora",
+      "type": 1,
+      "bundleID": "com.appsci.sleep",
+      "bundleIdentifier": "com.appsci.sleep",
+      "version": "3.41.7",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025040147",
+      "size": 190059387,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1481",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1481",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1883",
+      "appstore_download_count": 219,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378930.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378930.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
+      "name": "SunriseFast",
+      "type": 1,
+      "bundleID": "io.arborapps.Fasting",
+      "bundleIdentifier": "io.arborapps.Fasting",
+      "version": "2025.8",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025040059",
+      "size": 21592415,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1475",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1475",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1880",
+      "appstore_download_count": 209,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/1761378876.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378876.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
       "name": "Surge",
       "type": 1,
       "bundleID": "com.nssurge.inc.surge-ios",
@@ -462,32 +514,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://appstore.sidelix.vip/images/1761378124.png",
       "iconURL": "https://appstore.sidelix.vip/images/1761378124.png",
-      "requires_trollstore": false,
-      "requires_jailbreak": false,
-      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
-      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
-      "developer_url": "https://appstore.sidelix.vip/developer/13",
-      "tags": [
-        "Tweaked App"
-      ]
-    },
-    {
-      "name": "WaterReminder",
-      "type": 1,
-      "bundleID": "com.vgfit.waterreminder",
-      "bundleIdentifier": "com.vgfit.waterreminder",
-      "version": "1.9.29",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025034836",
-      "size": 65357498,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1375",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1375",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1830",
-      "appstore_download_count": 240,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://appstore.sidelix.vip/images/1761378112.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378112.png",
       "requires_trollstore": false,
       "requires_jailbreak": false,
       "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
@@ -1779,17 +1805,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
-    },
-    {
-      "name": "MusixmatchPremium",
-      "bundleIdentifier": "com.musixmatch.lyrics",
-      "version": "7.10.8",
-      "versionDate": "2024-10-11",
-      "size": 74673060,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
     }
   ],
   "userInfo": {}
