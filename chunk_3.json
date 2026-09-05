@@ -4,22 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
-      "name": "BlitzerdePRO",
-      "type": 1,
-      "bundleID": "com.eifrig.blitzerdepro",
-      "bundleIdentifier": "com.eifrig.blitzerdepro",
-      "version": "400.3.3",
-      "versionDate": "2026-07-02",
-      "fullDate": "20260702114208",
-      "size": 50237736,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/BlitzerdePRO_400.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/BlitzerdePRO_400.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png"
-    },
-    {
       "name": "Persona",
       "type": 1,
       "bundleID": "com.tickettothemoon.video.persona",
@@ -1970,6 +1954,38 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png"
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.123.0",
+      "versionDate": "2026-05-08",
+      "fullDate": "20260508041746",
+      "size": 284215351,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/Zing_1.123.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/Zing_1.123.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png"
+    },
+    {
+      "name": "Headway",
+      "type": 1,
+      "bundleID": "com.headway.books",
+      "bundleIdentifier": "com.headway.books",
+      "version": "380.5",
+      "versionDate": "2026-05-07",
+      "fullDate": "20260507034911",
+      "size": 277367840,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
     }
   ],
   "userInfo": {}

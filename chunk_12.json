@@ -4,50 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
-      "name": "MusixmatchPremium",
-      "bundleIdentifier": "com.musixmatch.lyrics",
-      "version": "7.10.8",
-      "versionDate": "2024-10-11",
-      "size": 74673060,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png"
-    },
-    {
-      "name": "MusicAIVIP",
-      "bundleIdentifier": "com.feraset.tune",
-      "version": "4.1.5",
-      "versionDate": "2024-10-11",
-      "size": 49729423,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusicAIVIP/MusicAIVIP-4.1.5.ipa",
-      "developerName": "Zzz Zzz",
-      "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feraset.tune.png"
-    },
-    {
-      "name": "Musi",
-      "bundleIdentifier": "com.feelthemusi.musi",
-      "version": "6.2.35",
-      "versionDate": "2024-10-11",
-      "size": 19556756,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
-      "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
-    },
-    {
-      "name": "MuffinStore",
-      "bundleIdentifier": "dev.mineek.muffinstore",
-      "version": "1.1",
-      "versionDate": "2024-10-11",
-      "size": 29281,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
-    },
-    {
       "name": "MoisesPremium",
       "bundleIdentifier": "ai.moises",
       "version": "2.40.0",
@@ -1263,12 +1219,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10097",
-          "marketingVersion": "3.4.0-alpha.20260903.10d3c46",
-          "date": "2026-09-03",
-          "localizedDescription": "Alpha build 10d3c46 \u00b7 2026-09-03\n\nChanges in this build:\n\u2022 fix(release): don't block on an interactive prompt in CI\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10100",
+          "marketingVersion": "3.4.0-alpha.20260904.27c3aba",
+          "date": "2026-09-04",
+          "localizedDescription": "Alpha build 27c3aba \u00b7 2026-09-04\n\nChanges in this build:\n\u2022 fix(release): allow provisioning updates on export, not just archive\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 727554596,
+          "size": 727624056,
           "minOSVersion": "17.0"
         }
       ],
