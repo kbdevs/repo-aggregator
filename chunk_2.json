@@ -4,6 +4,70 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Athlytic",
+      "type": 1,
+      "bundleID": "myndarc.newFitnessApp",
+      "bundleIdentifier": "myndarc.newFitnessApp",
+      "version": "26.5.6",
+      "versionDate": "2026-08-29",
+      "fullDate": "20260829033834",
+      "size": 32443000,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Athlytic_26.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Athlytic_26.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png"
+    },
+    {
+      "name": "AdobeExpress",
+      "type": 1,
+      "bundleID": "com.adobe.post",
+      "bundleIdentifier": "com.adobe.post",
+      "version": "30.8.0",
+      "versionDate": "2026-08-28",
+      "fullDate": "20260828195154",
+      "size": 143996053,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/AdobeExpress_30.8.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/AdobeExpress_30.8.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png"
+    },
+    {
+      "name": "CoinID",
+      "type": 1,
+      "bundleID": "com.aiby.wtcoin",
+      "bundleIdentifier": "com.aiby.wtcoin",
+      "version": "1.29",
+      "versionDate": "2026-08-28",
+      "fullDate": "20260828185142",
+      "size": 57891616,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/CoinID_1.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/CoinID_1.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png"
+    },
+    {
+      "name": "NutriCoach",
+      "type": 1,
+      "bundleID": "nutrition.coach",
+      "bundleIdentifier": "nutrition.coach",
+      "version": "2.3.0",
+      "versionDate": "2026-08-28",
+      "fullDate": "20260828134100",
+      "size": 75698984,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/NutriCoach_2.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/NutriCoach_2.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png"
+    },
+    {
       "name": "Infuse",
       "type": 1,
       "bundleID": "com.firecore.infuse",
@@ -308,22 +372,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png"
     },
     {
-      "name": "Busuu",
-      "type": 1,
-      "bundleID": "com.busuu.english.app",
-      "bundleIdentifier": "com.busuu.english.app",
-      "version": "30.25.0",
-      "versionDate": "2026-08-25",
-      "fullDate": "20260825123013",
-      "size": 161019729,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/Busuu_30.25.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/Busuu_30.25.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
-    },
-    {
       "name": "ReelsApp",
       "type": 1,
       "bundleID": "com.nextgen.reelsapp",
@@ -514,22 +562,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png"
-    },
-    {
-      "name": "Calendars",
-      "type": 1,
-      "bundleID": "com.readdle.CalendarsLite",
-      "bundleIdentifier": "com.readdle.CalendarsLite",
-      "version": "5.37.35",
-      "versionDate": "2026-08-22",
-      "fullDate": "20260822215918",
-      "size": 246142522,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2026/Calendars_5.37.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2026/Calendars_5.37.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png"
     },
     {
       "name": "BoxBox",
@@ -1332,22 +1364,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.astrio.Sofa.png"
     },
     {
-      "name": "Tachimanga",
-      "type": 1,
-      "bundleID": "com.mangacrush.ios",
-      "bundleIdentifier": "com.mangacrush.ios",
-      "version": "4.20",
-      "versionDate": "2026-07-29",
-      "fullDate": "20260729071404",
-      "size": 128137873,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Tachimanga_4.20_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Tachimanga_4.20_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png"
-    },
-    {
       "name": "BHTikTokPlus",
       "type": 1,
       "bundleID": "com.zhiliaoapp.musically",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png"
-    },
-    {
-      "name": "BlitzerdePRO",
-      "type": 1,
-      "bundleID": "com.eifrig.blitzerdepro",
-      "bundleIdentifier": "com.eifrig.blitzerdepro",
-      "version": "400.3.3",
-      "versionDate": "2026-07-02",
-      "fullDate": "20260702114208",
-      "size": 50237736,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/BlitzerdePRO_400.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/BlitzerdePRO_400.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png"
     }
   ],
   "userInfo": {}
