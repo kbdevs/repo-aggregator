@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.123.0",
+      "versionDate": "2026-05-08",
+      "fullDate": "20260508041746",
+      "size": 284215351,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/Zing_1.123.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/Zing_1.123.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png"
+    },
+    {
+      "name": "Headway",
+      "type": 1,
+      "bundleID": "com.headway.books",
+      "bundleIdentifier": "com.headway.books",
+      "version": "380.5",
+      "versionDate": "2026-05-07",
+      "fullDate": "20260507034911",
+      "size": 277367840,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-05-2026/Headway_380.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+    },
+    {
       "name": "MyFitCoach",
       "type": 1,
       "bundleID": "de.my-fit-coach.myfitcoach-ios",
@@ -852,22 +884,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png"
     },
     {
-      "name": "FitNotes",
-      "type": 1,
-      "bundleID": "xyz.gingertech.fitnotes",
-      "bundleIdentifier": "xyz.gingertech.fitnotes",
-      "version": "16",
-      "versionDate": "2026-04-09",
-      "fullDate": "20260409234939",
-      "size": 11137638,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/FitNotes_16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/FitNotes_16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png"
-    },
-    {
       "name": "CarParking",
       "type": 2,
       "bundleID": "com.aidana.cardriving.ios",
@@ -946,22 +962,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spycamera.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spycamera.app.png"
-    },
-    {
-      "name": "FilmicPro",
-      "type": 1,
-      "bundleID": "com.cinegenix.filmic.pro",
-      "bundleIdentifier": "com.cinegenix.filmic.pro",
-      "version": "7.5.34",
-      "versionDate": "2026-04-02",
-      "fullDate": "20260402134210",
-      "size": 143630521,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-04-2026/FilmicPro_7.5.34_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-04-2026/FilmicPro_7.5.34_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png"
     },
     {
       "name": "djay",
