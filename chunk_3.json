@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "tiimo",
+      "type": 1,
+      "bundleID": "com.tiimo.app",
+      "bundleIdentifier": "com.tiimo.app",
+      "version": "3.60.0",
+      "versionDate": "2026-07-07",
+      "fullDate": "20260707011413",
+      "size": 117891193,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/tiimo_3.60.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/tiimo_3.60.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png"
+    },
+    {
+      "name": "Photoroom",
+      "type": 1,
+      "bundleID": "com.dr1ven.eraser",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "version": "2026.28.01",
+      "versionDate": "2026-07-07",
+      "fullDate": "20260707011359",
+      "size": 182084521,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/Photoroom_2026.28.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/Photoroom_2026.28.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png"
+    },
+    {
       "name": "Threads",
       "type": 1,
       "bundleID": "com.burbn.barcelona",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png"
-    },
-    {
-      "name": "PlanesLiveFree",
-      "type": 1,
-      "bundleID": "com.apalonapps.planesfree",
-      "bundleIdentifier": "com.apalonapps.planesfree",
-      "version": "3.10.58",
-      "versionDate": "2026-05-09",
-      "fullDate": "20260509032106",
-      "size": 125844334,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/PlanesLiveFree_3.10.58_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/PlanesLiveFree_3.10.58_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png"
-    },
-    {
-      "name": "VideoMusic",
-      "type": 1,
-      "bundleID": "com.flyingnayeem.nmVideoMergerJune",
-      "bundleIdentifier": "com.flyingnayeem.nmVideoMergerJune",
-      "version": "3.7.23",
-      "versionDate": "2026-05-09",
-      "fullDate": "20260509031314",
-      "size": 46720935,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/VideoMusic_3.7.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/VideoMusic_3.7.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png"
     }
   ],
   "userInfo": {}

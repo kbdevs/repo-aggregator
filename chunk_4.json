@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "PlanesLiveFree",
+      "type": 1,
+      "bundleID": "com.apalonapps.planesfree",
+      "bundleIdentifier": "com.apalonapps.planesfree",
+      "version": "3.10.58",
+      "versionDate": "2026-05-09",
+      "fullDate": "20260509032106",
+      "size": 125844334,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/PlanesLiveFree_3.10.58_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/PlanesLiveFree_3.10.58_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png"
+    },
+    {
+      "name": "VideoMusic",
+      "type": 1,
+      "bundleID": "com.flyingnayeem.nmVideoMergerJune",
+      "bundleIdentifier": "com.flyingnayeem.nmVideoMergerJune",
+      "version": "3.7.23",
+      "versionDate": "2026-05-09",
+      "fullDate": "20260509031314",
+      "size": 46720935,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/VideoMusic_3.7.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/VideoMusic_3.7.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png"
+    },
+    {
       "name": "Zing",
       "type": 1,
       "bundleID": "com.coach.zing",
@@ -1860,22 +1892,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.streaksapp.streak.png"
     },
     {
-      "name": "Runestone",
-      "type": 1,
-      "bundleID": "dk.simonbs.RunestoneEditor",
-      "bundleIdentifier": "dk.simonbs.RunestoneEditor",
-      "version": "1.6.1",
-      "versionDate": "2026-01-29",
-      "fullDate": "20260129223116",
-      "size": 26979625,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Runestone_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-01-2026/Runestone_1.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dk.simonbs.RunestoneEditor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dk.simonbs.RunestoneEditor.png"
-    },
-    {
       "name": "FitbittoAppleHealth",
       "type": 1,
       "bundleID": "com.bickster.myFitnessSync",
@@ -1906,22 +1922,6 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png"
-    },
-    {
-      "name": "TranslateNow",
-      "type": 1,
-      "bundleID": "solutions.wzp.translator",
-      "bundleIdentifier": "solutions.wzp.translator",
-      "version": "2026.1.2",
-      "versionDate": "2026-01-26",
-      "fullDate": "20260126171204",
-      "size": 172511428,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-01-2026/TranslateNow_2026.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-01-2026/TranslateNow_2026.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png"
     },
     {
       "name": "NYTGames",
