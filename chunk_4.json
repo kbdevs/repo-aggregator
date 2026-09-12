@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "ColoringBookforMe",
+      "type": 1,
+      "bundleID": "com.apalonapps.clrbook",
+      "bundleIdentifier": "com.apalonapps.clrbook",
+      "version": "4.50.29",
+      "versionDate": "2026-05-09",
+      "fullDate": "20260509033440",
+      "size": 122013655,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2026/ColoringBookforMe_4.50.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png"
+    },
+    {
       "name": "PlanesLiveFree",
       "type": 1,
       "bundleID": "com.apalonapps.planesfree",
@@ -434,22 +450,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png"
-    },
-    {
-      "name": "Mindllama",
-      "type": 1,
-      "bundleID": "com.vitalii.mind",
-      "bundleIdentifier": "com.vitalii.mind",
-      "version": "2.5.8",
-      "versionDate": "2026-04-28",
-      "fullDate": "20260428185452",
-      "size": 182175067,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Mindllama_2.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Mindllama_2.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png"
     },
     {
       "name": "DoCast",
