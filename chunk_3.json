@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "PureStatus",
+      "type": 1,
+      "bundleID": "com.damtechdesigns.wa.story",
+      "bundleIdentifier": "com.damtechdesigns.wa.story",
+      "version": "2026.04",
+      "versionDate": "2026-07-10",
+      "fullDate": "20260710020542",
+      "size": 64941219,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/PureStatus_2026.04_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/PureStatus_2026.04_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png"
+    },
+    {
+      "name": "Komoot",
+      "type": 1,
+      "bundleID": "de.komoot.berlinbikeapp",
+      "bundleIdentifier": "de.komoot.berlinbikeapp",
+      "version": "2026.28.3",
+      "versionDate": "2026-07-09",
+      "fullDate": "20260709190329",
+      "size": 108228264,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/Komoot_2026.28.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/Komoot_2026.28.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.komoot.berlinbikeapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.komoot.berlinbikeapp.png"
+    },
+    {
       "name": "FELFishEyeLens",
       "type": 1,
       "bundleID": "com.phantom.fantengmu",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png"
-    },
-    {
-      "name": "AlphaProgr",
-      "type": 1,
-      "bundleID": "com.alphaprogression.alphaprogression",
-      "bundleIdentifier": "com.alphaprogression.alphaprogression",
-      "version": "6.8",
-      "versionDate": "2026-05-10",
-      "fullDate": "20260510060035",
-      "size": 145268290,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/AlphaProgr_6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/AlphaProgr_6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png"
-    },
-    {
-      "name": "WeedFirm2",
-      "type": 2,
-      "bundleID": "com.bcanada.weedfirm2",
-      "bundleIdentifier": "com.bcanada.weedfirm2",
-      "version": "4.1.14",
-      "versionDate": "2026-05-10",
-      "fullDate": "20260510055514",
-      "size": 297692316,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/WeedFirm2_4.1.14_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/WeedFirm2_4.1.14_IGG_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with IGG",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png"
     }
   ],
   "userInfo": {}
