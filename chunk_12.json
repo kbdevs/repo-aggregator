@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "MyDiaryPremium",
+      "bundleIdentifier": "com.simpleinnovation.diary",
+      "version": "1.9.3",
+      "versionDate": "2024-10-11",
+      "size": 40528267,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png"
+    },
+    {
       "name": "MusixmatchPremium",
       "bundleIdentifier": "com.musixmatch.lyrics",
       "version": "7.10.8",
@@ -1252,12 +1263,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10112",
-          "marketingVersion": "3.4.0-alpha.20260915.ca6ccfa",
-          "date": "2026-09-15",
-          "localizedDescription": "Alpha build ca6ccfa \u00b7 2026-09-15\n\nChanges in this build:\n\u2022 ci(testflight): distribute nightlies to external groups after upload\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10122",
+          "marketingVersion": "3.4.0-alpha.20260916.97c95f5",
+          "date": "2026-09-16",
+          "localizedDescription": "Alpha build 97c95f5 \u00b7 2026-09-16\n\nChanges in this build:\n\u2022 ci: stop failing the SPM job on build-only modules\n\u2022 ci: run the PVWebServer tests\n\u2022 fix(webserver): validate the source name on move and copy\n\u2022 fix(cheevos): store the RetroArch token, not the password\n\u2022 fix(webserver): stop serving retroarch.cfg and scrub it on logout\n\u2022 fix(webserver): escape directory names in the uploader breadcrumb\n\u2022 fix(webserver): escape all HTML metacharacters in error responses\n\u2022 fix(ecosystem): keep ecosystem-fetch downloads inside the import container\n\u2022 test(cheevos): unbreak PVCheevosTests compilation\n\u2022 [Auto] Update skin catalog seed data (#3686)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 728052318,
+          "size": 729176378,
           "minOSVersion": "17.0"
         }
       ],
@@ -1308,7 +1319,7 @@
         {
           "version": "alpha-ios",
           "buildVersion": "alpha-ios",
-          "date": "2026-09-15T02:25:13.084Z",
+          "date": "2026-09-16T11:43:07.239Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
           "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha/Non-Jailbroken.ipa",
           "size": 1,
@@ -1319,10 +1330,10 @@
         {
           "version": "1.0.0-ios",
           "buildVersion": "1.0.0-ios",
-          "date": "2026-09-15",
+          "date": "2026-09-16",
           "localizedDescription": "iCube 1.0.0 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS/iCube.ipa",
-          "size": 90622816,
+          "size": 91311570,
           "minOSVersion": "15.0",
           "platform": "iOS",
           "isBeta": false
@@ -1330,7 +1341,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-09-15",
+          "date": "2026-09-16",
           "localizedDescription": "iCube 1.0.0 Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -1342,7 +1353,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-09-15",
+          "date": "2026-09-16",
           "localizedDescription": "iCube 1.0.0 Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -1354,7 +1365,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-09-15",
+          "date": "2026-09-16",
           "localizedDescription": "iCube 1.0.0 Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,
