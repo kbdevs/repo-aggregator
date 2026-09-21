@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Workouts",
+      "type": 1,
+      "bundleID": "com.sbs.train",
+      "bundleIdentifier": "com.sbs.train",
+      "version": "1.2.4",
+      "versionDate": "2026-07-10",
+      "fullDate": "20260710054222",
+      "size": 201640456,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/Workouts_1.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/Workouts_1.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png"
+    },
+    {
       "name": "PureStatus",
       "type": 1,
       "bundleID": "com.damtechdesigns.wa.story",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png"
-    },
-    {
-      "name": "Yogger",
-      "type": 1,
-      "bundleID": "io.yogger.Yogger",
-      "bundleIdentifier": "io.yogger.Yogger",
-      "version": "5.4.1",
-      "versionDate": "2026-05-10",
-      "fullDate": "20260510230340",
-      "size": 75174164,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Yogger_5.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Yogger_5.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png"
     }
   ],
   "userInfo": {}
