@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "NBv68279",
+      "type": 1,
+      "bundleID": "nt.nb.ios",
+      "bundleIdentifier": "nt.nb.ios",
+      "version": "68.279",
+      "versionDate": "2026-07-16",
+      "fullDate": "20260716021155",
+      "size": 1124995576,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/NBv68279_68.279_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/NBv68279_68.279_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png"
+    },
+    {
+      "name": "Dazz",
+      "type": 1,
+      "bundleID": "dazz.camera.vintagecamera",
+      "bundleIdentifier": "dazz.camera.vintagecamera",
+      "version": "2.17.4",
+      "versionDate": "2026-07-13",
+      "fullDate": "20260713235456",
+      "size": 116713448,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2026/Dazz_2.17.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2026/Dazz_2.17.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png"
+    },
+    {
+      "name": "DeviceMonitor",
+      "type": 1,
+      "bundleID": "org.fastdevsproject.altervista.Device-Monitor",
+      "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
+      "version": "26.6.1",
+      "versionDate": "2026-07-11",
+      "fullDate": "20260711005805",
+      "size": 33753469,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2026/DeviceMonitor_26.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2026/DeviceMonitor_26.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png"
+    },
+    {
       "name": "Workouts",
       "type": 1,
       "bundleID": "com.sbs.train",
@@ -18,22 +66,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.train.png"
-    },
-    {
-      "name": "PureStatus",
-      "type": 1,
-      "bundleID": "com.damtechdesigns.wa.story",
-      "bundleIdentifier": "com.damtechdesigns.wa.story",
-      "version": "2026.04",
-      "versionDate": "2026-07-10",
-      "fullDate": "20260710020542",
-      "size": 64941219,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/PureStatus_2026.04_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/PureStatus_2026.04_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png"
     },
     {
       "name": "Komoot",
@@ -1588,22 +1620,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png"
     },
     {
-      "name": "BeatMakerPro",
-      "type": 1,
-      "bundleID": "com.mwm.sampler-app",
-      "bundleIdentifier": "com.mwm.sampler-app",
-      "version": "4.17.01",
-      "versionDate": "2026-05-20",
-      "fullDate": "20260520131640",
-      "size": 101553369,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/BeatMakerPro_4.17.01_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/BeatMakerPro_4.17.01_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png"
-    },
-    {
       "name": "calimoto",
       "type": 1,
       "bundleID": "com.calimoto.calimoto",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png"
-    },
-    {
-      "name": "PilotPro",
-      "type": 1,
-      "bundleID": "pilotpro",
-      "bundleIdentifier": "pilotpro",
-      "version": "5.52.0",
-      "versionDate": "2026-05-10",
-      "fullDate": "20260510230346",
-      "size": 28446121,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/PilotPro_5.52.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/PilotPro_5.52.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png"
     }
   ],
   "userInfo": {}
