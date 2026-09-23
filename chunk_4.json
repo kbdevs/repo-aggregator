@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "SwiftyCompiler",
+      "type": 1,
+      "bundleID": "com.hassantaleb.SwiftCompiler",
+      "bundleIdentifier": "com.hassantaleb.SwiftCompiler",
+      "version": "9.19",
+      "versionDate": "2026-05-11",
+      "fullDate": "20260511231845",
+      "size": 32575445,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2026/SwiftyCompiler_9.19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2026/SwiftyCompiler_9.19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png"
+    },
+    {
       "name": "PilotPro",
       "type": 1,
       "bundleID": "pilotpro",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png"
-    },
-    {
-      "name": "Peanote",
-      "type": 1,
-      "bundleID": "com.mwm.nota",
-      "bundleIdentifier": "com.mwm.nota",
-      "version": "1.4.4",
-      "versionDate": "2026-01-22",
-      "fullDate": "20260122200459",
-      "size": 31557994,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/Peanote_1.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/Peanote_1.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.nota.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.nota.png"
     }
   ],
   "userInfo": {}

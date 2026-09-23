@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "8BallPool",
+      "type": 2,
+      "bundleID": "com.miniclip.8ballpoolmult",
+      "bundleIdentifier": "com.miniclip.8ballpoolmult",
+      "version": "56.26.1",
+      "versionDate": "2026-07-19",
+      "fullDate": "20260719054727",
+      "size": 108123521,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2026/8BallPool_56.26.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2026/8BallPool_56.26.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.8ballpoolmult.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.8ballpoolmult.png"
+    },
+    {
+      "name": "EasyAnatomy3D",
+      "type": 1,
+      "bundleID": "AB.iOsteology",
+      "bundleIdentifier": "AB.iOsteology",
+      "version": "5.40.0",
+      "versionDate": "2026-07-16",
+      "fullDate": "20260716204219",
+      "size": 1411225367,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/EasyAnatomy3D_5.40.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/EasyAnatomy3D_5.40.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png"
+    },
+    {
       "name": "NBv68279",
       "type": 1,
       "bundleID": "nt.nb.ios",
@@ -18,22 +50,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png"
-    },
-    {
-      "name": "Dazz",
-      "type": 1,
-      "bundleID": "dazz.camera.vintagecamera",
-      "bundleIdentifier": "dazz.camera.vintagecamera",
-      "version": "2.17.4",
-      "versionDate": "2026-07-13",
-      "fullDate": "20260713235456",
-      "size": 116713448,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2026/Dazz_2.17.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2026/Dazz_2.17.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png"
     },
     {
       "name": "DeviceMonitor",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.calstephens.Window.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.calstephens.Window.png"
-    },
-    {
-      "name": "SwiftyCompiler",
-      "type": 1,
-      "bundleID": "com.hassantaleb.SwiftCompiler",
-      "bundleIdentifier": "com.hassantaleb.SwiftCompiler",
-      "version": "9.19",
-      "versionDate": "2026-05-11",
-      "fullDate": "20260511231845",
-      "size": 32575445,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2026/SwiftyCompiler_9.19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2026/SwiftyCompiler_9.19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png"
     }
   ],
   "userInfo": {}
