@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "NYTGames",
+      "type": 2,
+      "bundleID": "com.magmic.NYTCrosswords09",
+      "bundleIdentifier": "com.magmic.NYTCrosswords09",
+      "version": "6.10.0",
+      "versionDate": "2026-01-23",
+      "fullDate": "20260123171509",
+      "size": 52682748,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/NYTGames_6.10.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/NYTGames_6.10.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png"
+    },
+    {
       "name": "Peanote",
       "type": 1,
       "bundleID": "com.mwm.nota",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png"
-    },
-    {
-      "name": "WordPal",
-      "type": 2,
-      "bundleID": "com.dynamicapps.Vocab-Builder",
-      "bundleIdentifier": "com.dynamicapps.Vocab-Builder",
-      "version": "4.6.14",
-      "versionDate": "2025-12-16",
-      "fullDate": "20251216172309",
-      "size": 93914037,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/WordPal_4.6.14_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/WordPal_4.6.14_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dynamicapps.Vocab-Builder.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dynamicapps.Vocab-Builder.png"
     }
   ],
   "userInfo": {}

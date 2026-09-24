@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "PlaneFinder",
+      "type": 1,
+      "bundleID": "uk.co.leeus.planefinderfree",
+      "bundleIdentifier": "uk.co.leeus.planefinderfree",
+      "version": "2026.4.1",
+      "versionDate": "2026-07-22",
+      "fullDate": "20260722173531",
+      "size": 96401688,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/PlaneFinder_2026.4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/PlaneFinder_2026.4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png"
+    },
+    {
+      "name": "CodeSnackIDE",
+      "type": 1,
+      "bundleID": "com.cloud-compiler",
+      "bundleIdentifier": "com.cloud-compiler",
+      "version": "6.0.0",
+      "versionDate": "2026-07-21",
+      "fullDate": "20260721220250",
+      "size": 20201432,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2026/CodeSnackIDE_6.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2026/CodeSnackIDE_6.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png"
+    },
+    {
       "name": "8BallPool",
       "type": 2,
       "bundleID": "com.miniclip.8ballpoolmult",
@@ -1954,38 +1986,6 @@
       "localizedDescription": "Injected with IGG",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png"
-    },
-    {
-      "name": "Instories",
-      "type": 1,
-      "bundleID": "ylee.studio.instories",
-      "bundleIdentifier": "ylee.studio.instories",
-      "version": "5.110.0",
-      "versionDate": "2026-05-13",
-      "fullDate": "20260513234352",
-      "size": 169926344,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2026/Instories_5.110.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2026/Instories_5.110.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ylee.studio.instories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ylee.studio.instories.png"
-    },
-    {
-      "name": "Window",
-      "type": 1,
-      "bundleID": "tech.calstephens.Window",
-      "bundleIdentifier": "tech.calstephens.Window",
-      "version": "4.3.12",
-      "versionDate": "2026-05-13",
-      "fullDate": "20260513132450",
-      "size": 78881751,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2026/Window_4.3.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2026/Window_4.3.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.calstephens.Window.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.calstephens.Window.png"
     }
   ],
   "userInfo": {}
