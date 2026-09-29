@@ -498,6 +498,32 @@
       ]
     },
     {
+      "name": "CamScanner",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "6.91.1",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025035144",
+      "size": 170244178,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1397",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1397",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1841",
+      "appstore_download_count": 1573,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://appstore.sidelix.vip/images/1761378283.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761378283.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
       "name": "LiveWallpapersFree",
       "type": 1,
       "bundleID": "com.apalonapps.livewallpapersfree",
@@ -1835,17 +1861,6 @@
       "developerName": "CyPwn IPA Library / AppDB / IPA Library / MeemNon / DPixel / zxcvbn\u2019s tweaked IPAs / iOS Tutorials + App Cracks",
       "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.nicegram.png"
-    },
-    {
-      "name": "NGLPro",
-      "bundleIdentifier": "fun.ask",
-      "version": "6.1.117",
-      "versionDate": "2024-10-11",
-      "size": 50645390,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
-      "developerName": "AbodSyripa",
-      "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png"
     }
   ],
   "userInfo": {}
