@@ -1274,12 +1274,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10241",
-          "marketingVersion": "3.4.0-alpha.20261001.ff172d6",
-          "date": "2026-10-01",
-          "localizedDescription": "Alpha build ff172d6 \u00b7 2026-10-01\n\nChanges in this build:\n\u2022 build(dolphin): bump dolphin-ios to 28f0e24fb6 (Controller Hub phase 2)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10308",
+          "marketingVersion": "3.4.0-alpha.20261002.9fd1aa2",
+          "date": "2026-10-02",
+          "localizedDescription": "Alpha build 9fd1aa2 \u00b7 2026-10-02\n\nChanges in this build:\n\u2022 fix(thin): map Jaguar A/B and Pause/Option to the right buttons\n\u2022 fix(thin): extract zipped games for cores that can't read zips\n\u2022 fix(cheevos): hash the extracted ROM for zipped console games\n\u2022 fix(mupen): pace PAL games at 50 fps instead of 60\n\u2022 fix(mednafen): map NES RAM mirrors, PPU and cart RAM for achievements\n\u2022 fix(vbam): expose GBA save RAM to achievements\n\u2022 test(pause): cover folding a core's Core category into CORE\n\u2022 fix(gb): expose the full rcheevos GB/GBC map on Gambatte and TGBDual\n\u2022 fix(mupen): use one bridge instead of an idle duplicate\n\u2022 fix(pause): one CORE header, submenus open at the top\n\u2022 fix(cheevos): hash .gcm GameCube discs as GameCube\n\u2022 fix(emu): keep a menu button on screen when skin controls aren't\n\u2022 chore(dolphin): bump iCube for the save-state stop race fix\n\u2022 fix(dolphin): use flat rcheevos addresses for GameCube/Wii achievements\n\u2022 chore: auto-update license manifest (#3718)\n\u2022 build(dolphin): bump dolphin-ios to dc03a5d3a0 (controller skins, top bar rework, zip-slip fix)\n\u2022 fix(cores): tick achievements every frame on VBA-M, Stella, Gambatte, TGBDual, Dolphin\n\u2022 fix(cores): tick achievements every frame on Atari800, PokeMini, ProSystem\n\u2022 build(mednafen): point the submodule at the new RA accessors (57198b7)\n\u2022 fix(mednafen): tick achievements every frame; map all Mednafen systems\n\u2022 fix(fceu): tick achievements every frame; map RAM mirrors, PPU, cart RAM\n\u2022 fix(snes9x): tick achievements every frame; add SA-1 I-RAM, gate on load\n\u2022 fix(picodrive): tick achievements every frame; add 32X/Sega CD/SMS maps\n\u2022 fix(mupen): tick achievements on every VI\n\u2022 fix(genesis): tick achievements every frame; add Sega CD/SMS/GG/SG maps\n\u2022 fix(mgba): run achievements through the shared session; fix audio pitch\n\u2022 test(thin-wrapper): run PVCoreBridgeRetro's tests via its xcodeproj\n\u2022 build: add the mGBA and VBA-M submodule gitlinks\n\u2022 build(vbam): compile VBA-M 2.2.3 from the Provenance-Emu fork submodule\n\u2022 build(mgba): compile native mGBA from the Provenance-Emu/mgba fork\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 730794826,
+          "size": 731370099,
           "minOSVersion": "17.0"
         }
       ],
@@ -1329,11 +1329,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "177",
-          "date": "2026-10-01T04:59:01.557Z",
+          "buildVersion": "188",
+          "date": "2026-10-02T13:58:46.316Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-177/Non-Jailbroken.ipa",
-          "size": 93396534,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-188/Non-Jailbroken.ipa",
+          "size": 93637141,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -1341,7 +1341,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -1353,7 +1353,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -1365,7 +1365,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,
