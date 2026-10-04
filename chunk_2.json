@@ -4,6 +4,54 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "Encode",
+      "type": 1,
+      "bundleID": "com.upskew.encode.ios",
+      "bundleIdentifier": "com.upskew.encode.ios",
+      "version": "6.23.0",
+      "versionDate": "2026-09-26",
+      "fullDate": "20260926002622",
+      "size": 46546668,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Encode_6.23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Encode_6.23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png"
+    },
+    {
+      "name": "Dictionary",
+      "type": 1,
+      "bundleID": "com.mobisystems.OxfordDictionaryOfEnglishFree",
+      "bundleIdentifier": "com.mobisystems.OxfordDictionaryOfEnglishFree",
+      "version": "16.7",
+      "versionDate": "2026-09-26",
+      "fullDate": "20260926002107",
+      "size": 59038247,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Dictionary_16.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Dictionary_16.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png"
+    },
+    {
+      "name": "InCollage",
+      "type": 1,
+      "bundleID": "PhotoEditor.PhotoCollage.inCollage",
+      "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
+      "version": "2.2.71",
+      "versionDate": "2026-09-25",
+      "fullDate": "20260925223015",
+      "size": 102305925,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/InCollage_2.2.71_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/InCollage_2.2.71_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png"
+    },
+    {
       "name": "AdobeExpress",
       "type": 1,
       "bundleID": "com.adobe.post",
@@ -34,22 +82,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png"
-    },
-    {
-      "name": "BoxBox",
-      "type": 1,
-      "bundleID": "club.boxbox.widgets-ios",
-      "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.5.2",
-      "versionDate": "2026-09-25",
-      "fullDate": "20260925095730",
-      "size": 121671376,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/BoxBox_5.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/BoxBox_5.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png"
     },
     {
       "name": "Evermusic",
@@ -834,22 +866,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
-    },
-    {
-      "name": "NoFusion",
-      "type": 1,
-      "bundleID": "com.grey.swiftcamera",
-      "bundleIdentifier": "com.grey.swiftcamera",
-      "version": "2.5.58",
-      "versionDate": "2026-09-17",
-      "fullDate": "20260917073828",
-      "size": 128114642,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/NoFusion_2.5.58_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/NoFusion_2.5.58_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png"
     },
     {
       "name": "SnapEdit",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png"
-    },
-    {
-      "name": "Lightleap",
-      "type": 1,
-      "bundleID": "com.lightricks.Enlight-Photos",
-      "bundleIdentifier": "com.lightricks.Enlight-Photos",
-      "version": "1.22.0",
-      "versionDate": "2026-08-02",
-      "fullDate": "20260802135500",
-      "size": 241860108,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2026/Lightleap_1.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2026/Lightleap_1.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Photos.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Photos.png"
     }
   ],
   "userInfo": {}
