@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "Streaks",
+      "type": 1,
+      "bundleID": "com.streaksapp.streak",
+      "bundleIdentifier": "com.streaksapp.streak",
+      "version": "11.2.0",
+      "versionDate": "2026-02-01",
+      "fullDate": "20260201061019",
+      "size": 315584461,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/Streaks_11.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/Streaks_11.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.streaksapp.streak.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.streaksapp.streak.png"
+    },
+    {
       "name": "FitbittoAppleHealth",
       "type": 1,
       "bundleID": "com.bickster.myFitnessSync",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png"
-    },
-    {
-      "name": "Pennies",
-      "type": 1,
-      "bundleID": "com.magneticzero.pennies",
-      "bundleIdentifier": "com.magneticzero.pennies",
-      "version": "6.4.12",
-      "versionDate": "2025-12-16",
-      "fullDate": "20251216172326",
-      "size": 42885999,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Pennies_6.4.12_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Pennies_6.4.12_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magneticzero.pennies.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magneticzero.pennies.png"
     }
   ],
   "userInfo": {}

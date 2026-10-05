@@ -870,6 +870,86 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "foriOS",
+      "type": 1,
+      "bundleID": "com.tapinfinity.HdjcXcode7",
+      "bundleIdentifier": "com.tapinfinity.HdjcXcode7",
+      "version": "13.2",
+      "versionDate": "2026-10-05",
+      "fullDate": "20261005051134",
+      "size": 43616507,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/foriOS_13.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/foriOS_13.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png"
+    },
+    {
+      "name": "CodeSnackIDE",
+      "type": 1,
+      "bundleID": "com.cloud-compiler",
+      "bundleIdentifier": "com.cloud-compiler",
+      "version": "6.3.0",
+      "versionDate": "2026-10-05",
+      "fullDate": "20261005010558",
+      "size": 22208801,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/CodeSnackIDE_6.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/CodeSnackIDE_6.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png"
+    },
+    {
+      "name": "Busuu",
+      "type": 1,
+      "bundleID": "com.busuu.english.app",
+      "bundleIdentifier": "com.busuu.english.app",
+      "version": "30.29.0",
+      "versionDate": "2026-10-04",
+      "fullDate": "20261004233537",
+      "size": 194628280,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/Busuu_30.29.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/Busuu_30.29.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
+    },
+    {
+      "name": "Stndrd",
+      "type": 1,
+      "bundleID": "uni.cbum",
+      "bundleIdentifier": "uni.cbum",
+      "version": "4.1.61",
+      "versionDate": "2026-10-04",
+      "fullDate": "20261004165436",
+      "size": 144941417,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/Stndrd_4.1.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/Stndrd_4.1.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png"
+    },
+    {
+      "name": "SimplyPiano",
+      "type": 1,
+      "bundleID": "com.joytunes.asla",
+      "bundleIdentifier": "com.joytunes.asla",
+      "version": "9.10.95",
+      "versionDate": "2026-10-04",
+      "fullDate": "20261004144412",
+      "size": 164604912,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/SimplyPiano_9.10.95_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/SimplyPiano_9.10.95_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+    },
+    {
       "name": "NoFusion",
       "type": 1,
       "bundleID": "com.grey.swiftcamera",
@@ -1190,22 +1270,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png"
     },
     {
-      "name": "CodeSnackIDE",
-      "type": 1,
-      "bundleID": "com.cloud-compiler",
-      "bundleIdentifier": "com.cloud-compiler",
-      "version": "6.2.1",
-      "versionDate": "2026-10-02",
-      "fullDate": "20261002191442",
-      "size": 20917705,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/CodeSnackIDE_6.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/CodeSnackIDE_6.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png"
-    },
-    {
       "name": "TranslateNow",
       "type": 1,
       "bundleID": "solutions.wzp.translator",
@@ -1476,22 +1540,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png"
-    },
-    {
-      "name": "SimplyPiano",
-      "type": 1,
-      "bundleID": "com.joytunes.asla",
-      "bundleIdentifier": "com.joytunes.asla",
-      "version": "9.10.94",
-      "versionDate": "2026-10-01",
-      "fullDate": "20261001204238",
-      "size": 162646405,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/SimplyPiano_9.10.94_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/SimplyPiano_9.10.94_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
     },
     {
       "name": "PSExpress",
@@ -2422,22 +2470,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png"
     },
     {
-      "name": "Stndrd",
-      "type": 1,
-      "bundleID": "uni.cbum",
-      "bundleIdentifier": "uni.cbum",
-      "version": "4.1.60",
-      "versionDate": "2026-09-28",
-      "fullDate": "20260928174506",
-      "size": 143662464,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Stndrd_4.1.60_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Stndrd_4.1.60_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png"
-    },
-    {
       "name": "Scanner",
       "type": 1,
       "bundleID": "com.apalonapps.pdffree",
@@ -2580,22 +2612,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zeus.EasyCopy.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zeus.EasyCopy.png"
-    },
-    {
-      "name": "Busuu",
-      "type": 1,
-      "bundleID": "com.busuu.english.app",
-      "bundleIdentifier": "com.busuu.english.app",
-      "version": "30.28.0",
-      "versionDate": "2026-09-28",
-      "fullDate": "20260928003011",
-      "size": 194603867,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Busuu_30.28.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Busuu_30.28.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
     },
     {
       "name": "Facelab",
@@ -25680,32 +25696,6 @@
       ]
     },
     {
-      "name": "foriOS",
-      "type": 1,
-      "bundleID": "com.tapinfinity.HdjcXcode7",
-      "bundleIdentifier": "com.tapinfinity.HdjcXcode7",
-      "version": "13.1",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025034802",
-      "size": 39587460,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1371",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1371",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1828",
-      "appstore_download_count": 436,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://appstore.sidelix.vip/images/1761378081.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378081.png",
-      "requires_trollstore": false,
-      "requires_jailbreak": false,
-      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
-      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
-      "developer_url": "https://appstore.sidelix.vip/developer/13",
-      "tags": [
-        "Tweaked App"
-      ]
-    },
-    {
       "name": "PolyGit",
       "type": 1,
       "bundleID": "com.polygitapp.polygit",
@@ -28211,12 +28201,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10308",
-          "marketingVersion": "3.4.0-alpha.20261002.9fd1aa2",
-          "date": "2026-10-02",
-          "localizedDescription": "Alpha build 9fd1aa2 \u00b7 2026-10-02\n\nChanges in this build:\n\u2022 fix(thin): map Jaguar A/B and Pause/Option to the right buttons\n\u2022 fix(thin): extract zipped games for cores that can't read zips\n\u2022 fix(cheevos): hash the extracted ROM for zipped console games\n\u2022 fix(mupen): pace PAL games at 50 fps instead of 60\n\u2022 fix(mednafen): map NES RAM mirrors, PPU and cart RAM for achievements\n\u2022 fix(vbam): expose GBA save RAM to achievements\n\u2022 test(pause): cover folding a core's Core category into CORE\n\u2022 fix(gb): expose the full rcheevos GB/GBC map on Gambatte and TGBDual\n\u2022 fix(mupen): use one bridge instead of an idle duplicate\n\u2022 fix(pause): one CORE header, submenus open at the top\n\u2022 fix(cheevos): hash .gcm GameCube discs as GameCube\n\u2022 fix(emu): keep a menu button on screen when skin controls aren't\n\u2022 chore(dolphin): bump iCube for the save-state stop race fix\n\u2022 fix(dolphin): use flat rcheevos addresses for GameCube/Wii achievements\n\u2022 chore: auto-update license manifest (#3718)\n\u2022 build(dolphin): bump dolphin-ios to dc03a5d3a0 (controller skins, top bar rework, zip-slip fix)\n\u2022 fix(cores): tick achievements every frame on VBA-M, Stella, Gambatte, TGBDual, Dolphin\n\u2022 fix(cores): tick achievements every frame on Atari800, PokeMini, ProSystem\n\u2022 build(mednafen): point the submodule at the new RA accessors (57198b7)\n\u2022 fix(mednafen): tick achievements every frame; map all Mednafen systems\n\u2022 fix(fceu): tick achievements every frame; map RAM mirrors, PPU, cart RAM\n\u2022 fix(snes9x): tick achievements every frame; add SA-1 I-RAM, gate on load\n\u2022 fix(picodrive): tick achievements every frame; add 32X/Sega CD/SMS maps\n\u2022 fix(mupen): tick achievements on every VI\n\u2022 fix(genesis): tick achievements every frame; add Sega CD/SMS/GG/SG maps\n\u2022 fix(mgba): run achievements through the shared session; fix audio pitch\n\u2022 test(thin-wrapper): run PVCoreBridgeRetro's tests via its xcodeproj\n\u2022 build: add the mGBA and VBA-M submodule gitlinks\n\u2022 build(vbam): compile VBA-M 2.2.3 from the Provenance-Emu fork submodule\n\u2022 build(mgba): compile native mGBA from the Provenance-Emu/mgba fork\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10328",
+          "marketingVersion": "3.4.0-alpha.20261004.9315e78",
+          "date": "2026-10-04",
+          "localizedDescription": "Alpha build 9315e78 \u00b7 2026-10-04\n\nChanges in this build:\n\u2022 feat(thin): real MIDI on/off toggle; drop thick-only port picker and comments\n\u2022 chore(cores): track Core-VirtualJaguar provenance, core back on master\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 731370099,
+          "size": 654308023,
           "minOSVersion": "17.0"
         }
       ],
@@ -28266,11 +28256,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "189",
-          "date": "2026-10-03T23:55:42.916Z",
+          "buildVersion": "217",
+          "date": "2026-10-04T19:55:43.709Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-189/Non-Jailbroken.ipa",
-          "size": 93581005,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-217/Non-Jailbroken.ipa",
+          "size": 93614176,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -28278,7 +28268,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-10-03",
+          "date": "2026-10-04",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -28290,7 +28280,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-10-03",
+          "date": "2026-10-04",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -28302,7 +28292,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-10-03",
+          "date": "2026-10-04",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,

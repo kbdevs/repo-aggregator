@@ -4,6 +4,32 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Time Squared: Hours Tracker (Hacked)",
+      "type": 1,
+      "bundleID": "co.timesquared.hourstimetracker.ios",
+      "bundleIdentifier": "co.timesquared.hourstimetracker.ios",
+      "version": "3.4.1746",
+      "versionDate": "2026-08-10",
+      "fullDate": "20260810024548",
+      "size": 49014543,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2268",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2268",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2505",
+      "appstore_download_count": 144,
+      "developerName": "sidelix",
+      "localizedDescription": "Effortlessly track work hours, manage projects, and handle data collection for payroll and invoices with Time Squared\u2014the all-in-one solution that turns time management into a walk in the park. Designed for employees, freelancers, business owners, and managers, Time Squared is packed with features to keep your workday organized and efficient.\r\n\r\n[TRACK TIME ACCURATELY]\r\n\u2022 Clock in and out with a tap, track breaks, and log time on tasks with built-in GPS location tracking, and set up automatic breaks for manual time entries.\r\n\r\n[JOB & PROJECT MANAGEMENT]\r\n\u2022 Create and manage projects with detailed entries, notes, and photos, categorizing by job type, clients, or location for seamless organization.\r\n\r\n[EFFICIENT CREW MANAGEMENT]\r\n\u2022 Assign ",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a793b396af7d.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a793b396af7d.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
       "name": "Scenic Motorcycle Navigation (Hacked)",
       "type": 1,
       "bundleID": "com.pinguido.scenic",
@@ -3206,32 +3232,6 @@
       "tags": [
         "Tweaked Game",
         "Free in app purchases"
-      ]
-    },
-    {
-      "name": "PUBG MOBILE (Hack 1 - mod menu) - GLOBAL",
-      "type": 1,
-      "bundleID": "com.tencent.ig",
-      "bundleIdentifier": "com.tencent.ig",
-      "version": "4.5.0",
-      "versionDate": "2026-07-12",
-      "fullDate": "20260712020250",
-      "size": 3755821704,
-      "down": "https://appstore.sidelix.vip/download-repo-source/2220",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2220",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2457",
-      "appstore_download_count": 7166,
-      "developerName": "sidelix",
-      "localizedDescription": "mod menu included \r\n\r\ndont use main account",
-      "icon": "https://appstore.sidelix.vip/images/icon_6a52f44bbe03f.jpg",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52f44bbe03f.jpg",
-      "requires_trollstore": false,
-      "requires_jailbreak": false,
-      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
-      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
-      "developer_url": "https://appstore.sidelix.vip/developer/11",
-      "tags": [
-        "Tweaked Game"
       ]
     }
   ],
