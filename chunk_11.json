@@ -4,6 +4,32 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_11.json",
   "apps": [
     {
+      "name": "Collart",
+      "type": 1,
+      "bundleID": "com.SpringTech.NewSC",
+      "bundleIdentifier": "com.SpringTech.NewSC",
+      "version": "5.6.6",
+      "versionDate": "2025-10-25",
+      "fullDate": "20251025040837",
+      "size": 213231393,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1531",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1531",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1908",
+      "appstore_download_count": 268,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Mods",
+      "icon": "https://appstore.sidelix.vip/images/1761379320.png",
+      "iconURL": "https://appstore.sidelix.vip/images/1761379320.png",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
       "name": "Fortnite",
       "type": 1,
       "bundleID": "com.epicgames.FortniteGame",
@@ -1850,17 +1876,6 @@
       "developerName": "SuperMarcus",
       "localizedDescription": "Anime streamer, supports multiple sources and comes with a user-friendly GUI\nLast updated: 07-17-2023\nStatus: \u2754",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.marcuszhou.NineAnimator.png"
-    },
-    {
-      "name": "Nicegram",
-      "bundleIdentifier": "app.nicegram",
-      "version": "1.1.5",
-      "versionDate": "2024-10-11",
-      "size": 195552923,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Nicegram/Nicegram-1.1.5.ipa",
-      "developerName": "CyPwn IPA Library / AppDB / IPA Library / MeemNon / DPixel / zxcvbn\u2019s tweaked IPAs / iOS Tutorials + App Cracks",
-      "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.nicegram.png"
     }
   ],
   "userInfo": {}

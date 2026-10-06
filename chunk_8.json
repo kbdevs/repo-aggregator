@@ -4,6 +4,32 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "ParallelLive",
+      "type": 1,
+      "bundleID": "com.bigbrains.parallel",
+      "bundleIdentifier": "com.bigbrains.parallel",
+      "version": "2.3.47",
+      "versionDate": "2026-08-10",
+      "fullDate": "20260810090049",
+      "size": 185456447,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1485",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1485",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1885",
+      "appstore_download_count": 433,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a79931bef1a8.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a79931bef1a8.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
       "name": "Time Squared: Hours Tracker (Hacked)",
       "type": 1,
       "bundleID": "co.timesquared.hourstimetracker.ios",
@@ -3206,33 +3232,6 @@
         "Removed from Apple App Store"
       ],
       "demo_youtube_url": "https://www.youtube.com/watch?v=XIDMaan_5JY"
-    },
-    {
-      "name": "Wasteland Life: Survival Idle (Hacked)",
-      "type": 1,
-      "bundleID": "com.wasteland.heart",
-      "bundleIdentifier": "com.wasteland.heart",
-      "version": "3.0.5",
-      "versionDate": "2026-07-12",
-      "fullDate": "20260712024015",
-      "size": 355523658,
-      "down": "https://appstore.sidelix.vip/download-repo-source/2222",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2222",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2459",
-      "appstore_download_count": 235,
-      "developerName": "sidelix",
-      "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
-      "icon": "https://appstore.sidelix.vip/images/icon_6a52fe4be285b.jpg",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52fe4be285b.jpg",
-      "requires_trollstore": false,
-      "requires_jailbreak": false,
-      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
-      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
-      "developer_url": "https://appstore.sidelix.vip/developer/11",
-      "tags": [
-        "Tweaked Game",
-        "Free in app purchases"
-      ]
     }
   ],
   "userInfo": {}
