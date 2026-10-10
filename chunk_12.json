@@ -1294,12 +1294,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10478",
-          "marketingVersion": "3.4.0-alpha.20261009.588fc4d",
-          "date": "2026-10-09",
-          "localizedDescription": "Alpha build 588fc4d \u00b7 2026-10-09\n\nChanges in this build:\n\u2022 fix(skins): own-surface cores get both skin screens, not the smallest one\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10500",
+          "marketingVersion": "3.4.0-alpha.20261010.15795ce",
+          "date": "2026-10-10",
+          "localizedDescription": "Alpha build 15795ce \u00b7 2026-10-10\n\nChanges in this build:\n\u2022 docs: reviewer context no longer names the deleted default skin\n\u2022 refactor(skins): delete the generated default skin; built-in controls are the overlay\n\u2022 docs: scene consolidation, quick action bar and UIKit deletion scope\n\u2022 refactor(overlay): remove the programmaticOverlay setting; overlay is always on\n\u2022 feat(overlay): generic four-face binding for systems without one\n\u2022 docs: unified input surface design (keyboard, pointer, media in the overlay)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 664357146,
+          "size": 664304011,
           "minOSVersion": "17.0"
         }
       ],
@@ -1326,6 +1326,37 @@
           }
         ]
       }
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "Experience classic Sega Dreamcast games on your iOS devices and Apple TV.\n\nFeatures:\n\u2022 Full Dreamcast emulation\n\u2022 Controller support (MFi, PlayStation, Xbox)\n\u2022 Save states and real-time saves\n\u2022 High-resolution rendering\n\u2022 Fast-forward and slow motion\n\u2022 Customizable controls\n\u2022 Game library management\n\u2022 And much more!\n\nThis is an early build of iFly optimized for iOS and tvOS devices.",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0+1791436698",
+          "buildVersion": "1791436698",
+          "date": "2026-10-09",
+          "localizedDescription": "iFly 1.0.0 (build 1791436698) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1791436698/iFly-1.0.0-1791436698.ipa",
+          "size": 131240690,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        }
+      ]
     },
     {
       "name": "iCube",
