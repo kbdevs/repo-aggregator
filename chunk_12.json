@@ -1294,12 +1294,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10553",
-          "marketingVersion": "3.4.0-alpha.20261010.4630fea",
-          "date": "2026-10-10",
-          "localizedDescription": "Alpha build 4630fea \u00b7 2026-10-10\n\nChanges in this build:\n\u2022 fix(skins): keep native-resolution picture centred in the skin screen\n\u2022 fix(azahar): tvOS layout option applies without a skin\n\u2022 chore: track the repo's fast-iteration skill in git\n\u2022 docs: dev workspace guide, fast-iteration skill, roadmap A done\n\u2022 test(maint): skip registry paths in submodules CI never cloned\n\u2022 test(skins): selection tests discriminate session vs preference\n\u2022 fix(skins): a game pick clears the system-level session skin\n\u2022 fix(skins): ignore cancelled thumbnail loads\n\u2022 fix(azahar): relayout once the emu thread is running\n\u2022 fix(azahar): drop queued skin frames on render view teardown\n\u2022 fix(azahar): replay skin screen frames that arrive before the render view\n\u2022 fix(skins): cache downsampled preview thumbnails and reload on reappear\n\u2022 fix(skins): system and game picks are not shadowed by session skins\n\u2022 fix(skins): reload the selected skin when the scope changes\n\u2022 ci: link each IPA directly in the PR build comment\n\u2022 test(library): make FileStabilityChecker timeout test deterministic\n\u2022 chore(dolphin): bump iCube to d60805832e (unified menu UX)\n\u2022 test(ui): split the switch-descriptor concat so CI's compiler can type-check it\n\u2022 fix(cores): build_slice repacks Dolphin, keys dirty trees, normalises DOL_* inputs\n\u2022 chore(harness): bound the launch wait; honour SIM_DEVICE in the boot check; explicit includes\n\u2022 fix(mgba): keep frameInterval in FPS; guard a NULL core\n\u2022 build(cores): Azahar and Dolphin aggregates use the slice cache\n\u2022 fix(harness): read frameInterval >= 1 as a rate\n\u2022 fix(stella): answer GET_VFS_INTERFACE so libstella can open ROMs\n\u2022 feat(harness): GBA test ROM; success run on mGBA\n\u2022 docs(plan): detail the docs batch (task 21); all batches detailed\n\u2022 feat(harness): add make dev-harness and a 2600 test ROM\n\u2022 fix(dev): manifest check requires prebuilt artefacts only for used rows\n\u2022 ci(dev-workspace): authenticate mise tuist install; robust ProjectDescription lookup\n\u2022 docs(plan): detail the pruning batch (tasks 15-20)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10601",
+          "marketingVersion": "3.4.0-alpha.20261012.3024067",
+          "date": "2026-10-12",
+          "localizedDescription": "Alpha build 3024067 \u00b7 2026-10-12\n\nChanges in this build:\n\u2022 feat(storage): LibraryLocation as the single source of the library root\n\u2022 fix(lookup): stop re-extracting bundled databases on every launch (#3737)\n\u2022 docs(spec): library storage locations and user-picked shared folder\n\u2022 fix(lite): own Realm file and no iCloud sync\n\u2022 fix(library): relink save states orphaned by Lite's core prune\n\u2022 fix(savestates): tolerate a save state whose core row was deleted\n\u2022 fix(cloudkit): don't crash uploading a save state with no core\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 664147218,
+          "size": 660218886,
           "minOSVersion": "17.0"
         }
       ],
@@ -1391,11 +1391,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "288",
-          "date": "2026-10-10T20:29:33.090Z",
+          "buildVersion": "297",
+          "date": "2026-10-11T21:26:52.959Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-288/Non-Jailbroken.ipa",
-          "size": 93583581,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-297/Non-Jailbroken.ipa",
+          "size": 96932399,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -1403,7 +1403,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-10-10",
+          "date": "2026-10-11",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -1415,7 +1415,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-10-10",
+          "date": "2026-10-11",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -1427,7 +1427,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-10-10",
+          "date": "2026-10-11",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,
