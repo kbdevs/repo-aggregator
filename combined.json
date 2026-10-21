@@ -875,11 +875,11 @@
       "bundleID": "me.imgbase.videoday",
       "bundleIdentifier": "me.imgbase.videoday",
       "version": "4.3.1",
-      "versionDate": "2026-10-20",
-      "fullDate": "20261020084342",
+      "versionDate": "2026-10-21",
+      "fullDate": "20261021083708",
       "size": 223535643,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
@@ -28226,12 +28226,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10862",
-          "marketingVersion": "3.4.0-alpha.20261018.7c56706",
-          "date": "2026-10-18",
-          "localizedDescription": "Alpha build 7c56706 \u00b7 2026-10-18\n\nChanges in this build:\n\u2022 docs: PVLookup is a URL package; databases come from a lock file\n\u2022 ci: fetch PVLookup databases by lock file, not the cheatdb generator\n\u2022 build: bundle the PVLookup databases from a pinned release\n\u2022 build: depend on PVLookup by URL, drop the in-tree PVLookup\n\u2022 build(help): depend on PVHelp by URL, move wiki config to PVUIBase\n\u2022 chore(dolphin): bump iCube to c198d6cb81\n\u2022 fix(dolphin): faster iOS/tvOS defaults; Texture Cache Accuracy set the wrong key\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10879",
+          "marketingVersion": "3.4.0-alpha.20261020.0472cfa",
+          "date": "2026-10-20",
+          "localizedDescription": "Alpha build 0472cfa \u00b7 2026-10-20\n\nChanges in this build:\n\u2022 fix(vulkan): import standard types outside nested C linkage\n\u2022 fix(retro): match Swift callback exception specifications\n\u2022 fix(retro): export C callbacks and repair modular Vulkan headers\n\u2022 fix(ci): register project audit test scripts\n\u2022 fix(tvos): refresh library focus after games load\n\u2022 fix(azahar): discard relocated CMake build trees\n\u2022 fix(ci): configure Git LFS before submodule checkout\n\u2022 fix(patching): present the selected game in the home patch manager\n\u2022 chore: auto-update license manifest (#3752)\n\u2022 fix(ui): preserve localization of patch creation guidance\n\u2022 docs: assess remaining native core SwiftPM migrations\n\u2022 build: migrate libretro bridge and ep128 to SwiftPM\n\u2022 fix(dev): omit libretro from the coreless UI target\n\u2022 test(patching): locate search fixture in copied resources\n\u2022 fix(patching): preserve input ROMs and existing patches on creation\n\u2022 codex and skills\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 776715549,
+          "size": 776746082,
           "minOSVersion": "17.0"
         }
       ],
@@ -28323,11 +28323,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "355",
-          "date": "2026-10-19T18:57:32.620Z",
+          "buildVersion": "363",
+          "date": "2026-10-20T20:47:29.255Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-355/Non-Jailbroken.ipa",
-          "size": 97885140,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-363/Non-Jailbroken.ipa",
+          "size": 98130227,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -28335,7 +28335,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -28347,7 +28347,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -28359,7 +28359,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-10-19",
+          "date": "2026-10-20",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,
