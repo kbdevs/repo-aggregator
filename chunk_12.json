@@ -4,17 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
-      "name": "Nicegram",
-      "bundleIdentifier": "app.nicegram",
-      "version": "1.1.5",
-      "versionDate": "2024-10-11",
-      "size": 195552923,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Nicegram/Nicegram-1.1.5.ipa",
-      "developerName": "CyPwn IPA Library / AppDB / IPA Library / MeemNon / DPixel / zxcvbn\u2019s tweaked IPAs / iOS Tutorials + App Cracks",
-      "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 08-05-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.nicegram.png"
-    },
-    {
       "name": "NGLPro",
       "bundleIdentifier": "fun.ask",
       "version": "6.1.117",
@@ -1294,12 +1283,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10879",
-          "marketingVersion": "3.4.0-alpha.20261020.0472cfa",
-          "date": "2026-10-20",
-          "localizedDescription": "Alpha build 0472cfa \u00b7 2026-10-20\n\nChanges in this build:\n\u2022 fix(vulkan): import standard types outside nested C linkage\n\u2022 fix(retro): match Swift callback exception specifications\n\u2022 fix(retro): export C callbacks and repair modular Vulkan headers\n\u2022 fix(ci): register project audit test scripts\n\u2022 fix(tvos): refresh library focus after games load\n\u2022 fix(azahar): discard relocated CMake build trees\n\u2022 fix(ci): configure Git LFS before submodule checkout\n\u2022 fix(patching): present the selected game in the home patch manager\n\u2022 chore: auto-update license manifest (#3752)\n\u2022 fix(ui): preserve localization of patch creation guidance\n\u2022 docs: assess remaining native core SwiftPM migrations\n\u2022 build: migrate libretro bridge and ep128 to SwiftPM\n\u2022 fix(dev): omit libretro from the coreless UI target\n\u2022 test(patching): locate search fixture in copied resources\n\u2022 fix(patching): preserve input ROMs and existing patches on creation\n\u2022 codex and skills\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10896",
+          "marketingVersion": "3.4.0-alpha.20261021.fdf582b",
+          "date": "2026-10-21",
+          "localizedDescription": "Alpha build fdf582b \u00b7 2026-10-21\n\nChanges in this build:\n\u2022 fix(ci): stream IPA packaging without a duplicate app bundle\n\u2022 fix(ci): sign processed MoltenVK before package tests\n\u2022 fix(ci): run libretro tests from the SwiftPM package workspace\n\u2022 fix: isolate native core headers and bound manifest type checking\n\u2022 fix(ci): prepare native source audits and compatible lint runner\n\u2022 refactor(ui): move library lifecycle and navigation to SwiftUI scenes\n\u2022 fix(ci): preserve project audit registrations after core migration\n\u2022 build: migrate native emulator cores to SwiftPM with simulator support\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 776746082,
+          "size": 778780656,
           "minOSVersion": "17.0"
         }
       ],

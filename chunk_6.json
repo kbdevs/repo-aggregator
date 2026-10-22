@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Pocket",
+      "type": 1,
+      "bundleID": "au.com.savageinteractive.procreate-pocket",
+      "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+      "version": "4.0.15",
+      "versionDate": "2025-12-17",
+      "fullDate": "20251217132354",
+      "size": 299471929,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Pocket_4.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Pocket_4.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.savageinteractive.procreate-pocket.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.savageinteractive.procreate-pocket.png"
+    },
+    {
       "name": "Eden",
       "type": 1,
       "bundleID": "com.mfagency.nurture",
@@ -306,22 +322,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.TwoPlayerGamesChallengeIOS.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.TwoPlayerGamesChallengeIOS.png"
-    },
-    {
-      "name": "CalculatorAir",
-      "type": 1,
-      "bundleID": "com.CalculatorForiPad.InternetRocks",
-      "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
-      "version": "2025.12.1",
-      "versionDate": "2025-12-12",
-      "fullDate": "20251212071218",
-      "size": 96924887,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-12-2025/CalculatorAir_2025.12.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-12-2025/CalculatorAir_2025.12.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png"
     },
     {
       "name": "FileConverter",
