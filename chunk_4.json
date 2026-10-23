@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Leto",
+      "type": 1,
+      "bundleID": "biser.stories",
+      "bundleIdentifier": "biser.stories",
+      "version": "8.6",
+      "versionDate": "2026-05-18",
+      "fullDate": "20260518024627",
+      "size": 219365380,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Leto_8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Leto_8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/biser.stories.png"
+    },
+    {
+      "name": "Radarbot",
+      "type": 1,
+      "bundleID": "com.iteration-mobile.radarbot-free-ww",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "version": "9.42",
+      "versionDate": "2026-05-18",
+      "fullDate": "20260518023600",
+      "size": 140127234,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Radarbot_9.42_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Radarbot_9.42_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Gold",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png"
+    },
+    {
       "name": "Windyapp",
       "type": 1,
       "bundleID": "co.windyapp.Windy",
@@ -626,22 +658,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png"
-    },
-    {
-      "name": "Compress",
-      "type": 1,
-      "bundleID": "com.newmarketinglab.ImageCompressor",
-      "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
-      "version": "2.16",
-      "versionDate": "2026-04-28",
-      "fullDate": "20260428205545",
-      "size": 11981255,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Compress_2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Compress_2.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png"
     },
     {
       "name": "DoCast",
@@ -1826,22 +1842,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iViNi.BMWhatLite2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iViNi.BMWhatLite2.png"
-    },
-    {
-      "name": "FindAir",
-      "type": 1,
-      "bundleID": "co.airapps.finderbot",
-      "bundleIdentifier": "co.airapps.finderbot",
-      "version": "2026.1.4",
-      "versionDate": "2026-02-09",
-      "fullDate": "20260209061104",
-      "size": 78359164,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-02-2026/FindAir_2026.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-02-2026/FindAir_2026.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png"
     },
     {
       "name": "Thenics",
