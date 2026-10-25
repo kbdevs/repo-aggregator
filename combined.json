@@ -870,6 +870,150 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "fGet",
+      "type": 1,
+      "bundleID": "com.penguinbit.fastdownload",
+      "bundleIdentifier": "com.penguinbit.fastdownload",
+      "version": "1.7.1",
+      "versionDate": "2026-10-25",
+      "fullDate": "20261025055756",
+      "size": 19692098,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/fGet_1.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/fGet_1.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png"
+    },
+    {
+      "name": "Sofa",
+      "type": 1,
+      "bundleID": "com.astrio.Sofa",
+      "bundleIdentifier": "com.astrio.Sofa",
+      "version": "5.4.2",
+      "versionDate": "2026-10-25",
+      "fullDate": "20261025043550",
+      "size": 220816237,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Sofa_5.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Sofa_5.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.astrio.Sofa.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.astrio.Sofa.png"
+    },
+    {
+      "name": "Pillow",
+      "type": 1,
+      "bundleID": "com.neybox.Pillow",
+      "bundleIdentifier": "com.neybox.Pillow",
+      "version": "6.7.1",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024223658",
+      "size": 576804160,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Pillow_6.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Pillow_6.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png"
+    },
+    {
+      "name": "DtdSounds",
+      "type": 1,
+      "bundleID": "com.dtd.aroundu",
+      "bundleIdentifier": "com.dtd.aroundu",
+      "version": "2.6",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024212032",
+      "size": 188431708,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/DtdSounds_2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/DtdSounds_2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dtd.aroundu.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dtd.aroundu.png"
+    },
+    {
+      "name": "TikTok",
+      "type": 1,
+      "bundleID": "com.zhiliaoapp.musically",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "47.4.0",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024203348",
+      "size": 480771961,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/TikTok_47.4.0_ASJTikTok_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/TikTok_47.4.0_ASJTikTok_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with ASJTikTok",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
+      "name": "Instagram",
+      "type": 1,
+      "bundleID": "com.burbn.instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "451.0.0",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024202724",
+      "size": 345086224,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Instagram_451.0.0_RyukGram_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Instagram_451.0.0_RyukGram_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with RyukGram",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "Facebook",
+      "type": 1,
+      "bundleID": "com.facebook.Facebook",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "version": "583.0.0",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024202714",
+      "size": 217634594,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Facebook_583.0.0_Glow_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Facebook_583.0.0_Glow_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Glow",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png"
+    },
+    {
+      "name": "Crsel",
+      "type": 1,
+      "bundleID": "com.frameoneapps.Crsel",
+      "bundleIdentifier": "com.frameoneapps.Crsel",
+      "version": "1.6.0",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024202703",
+      "size": 168368287,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Crsel_1.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Crsel_1.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png"
+    },
+    {
+      "name": "Aloha",
+      "type": 1,
+      "bundleID": "com.alohabrowser.alohabrowser",
+      "bundleIdentifier": "com.alohabrowser.alohabrowser",
+      "version": "8.13.0",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024120731",
+      "size": 163402038,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Aloha_8.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Aloha_8.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png"
+    },
+    {
       "name": "SkyGuide",
       "type": 1,
       "bundleID": "com.fifthstarlabs.skyguide",
@@ -1302,22 +1446,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png"
     },
     {
-      "name": "Crsel",
-      "type": 1,
-      "bundleID": "com.frameoneapps.Crsel",
-      "bundleIdentifier": "com.frameoneapps.Crsel",
-      "version": "1.5.9",
-      "versionDate": "2026-10-23",
-      "fullDate": "20261023185339",
-      "size": 167588680,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Crsel_1.5.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Crsel_1.5.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png"
-    },
-    {
       "name": "Cleanup",
       "type": 1,
       "bundleID": "com.codeway.cleanerplus",
@@ -1702,22 +1830,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png"
     },
     {
-      "name": "Sofa",
-      "type": 1,
-      "bundleID": "com.astrio.Sofa",
-      "bundleIdentifier": "com.astrio.Sofa",
-      "version": "5.4.1",
-      "versionDate": "2026-10-22",
-      "fullDate": "20261022161448",
-      "size": 220802549,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Sofa_5.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Sofa_5.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.astrio.Sofa.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.astrio.Sofa.png"
-    },
-    {
       "name": "SimplySing",
       "type": 1,
       "bundleID": "com.joytunes.Sing",
@@ -1796,22 +1908,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png"
-    },
-    {
-      "name": "Pillow",
-      "type": 1,
-      "bundleID": "com.neybox.Pillow",
-      "bundleIdentifier": "com.neybox.Pillow",
-      "version": "6.7",
-      "versionDate": "2026-10-22",
-      "fullDate": "20261022114600",
-      "size": 576639334,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Pillow_6.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Pillow_6.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png"
     },
     {
       "name": "ColorPop",
@@ -2086,22 +2182,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png"
     },
     {
-      "name": "Aloha",
-      "type": 1,
-      "bundleID": "com.alohabrowser.alohabrowser",
-      "bundleIdentifier": "com.alohabrowser.alohabrowser",
-      "version": "8.12.0",
-      "versionDate": "2026-10-21",
-      "fullDate": "20261021182709",
-      "size": 162009247,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Aloha_8.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Aloha_8.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png"
-    },
-    {
       "name": "swipewipe",
       "type": 1,
       "bundleID": "com.aoklab.fewerphotos",
@@ -2164,22 +2244,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png"
-    },
-    {
-      "name": "fGet",
-      "type": 1,
-      "bundleID": "com.penguinbit.fastdownload",
-      "bundleIdentifier": "com.penguinbit.fastdownload",
-      "version": "1.7.0",
-      "versionDate": "2026-10-21",
-      "fullDate": "20261021181921",
-      "size": 19248933,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/fGet_1.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/fGet_1.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png"
     },
     {
       "name": "duet",
@@ -3814,22 +3878,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png"
     },
     {
-      "name": "BHTikTokPlus",
-      "type": 1,
-      "bundleID": "com.zhiliaoapp.musically",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "47.0.0",
-      "versionDate": "2026-10-03",
-      "fullDate": "20261003155518",
-      "size": 484172642,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/BHTikTokPlus_47.0.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/BHTikTokPlus_47.0.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png"
-    },
-    {
       "name": "Mockview",
       "type": 1,
       "bundleID": "com.kavsoft.MockviewApp",
@@ -4470,22 +4518,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png"
     },
     {
-      "name": "DtdSounds",
-      "type": 1,
-      "bundleID": "com.dtd.aroundu",
-      "bundleIdentifier": "com.dtd.aroundu",
-      "version": "2.5",
-      "versionDate": "2026-09-13",
-      "fullDate": "20260913060615",
-      "size": 188346530,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/DtdSounds_2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/DtdSounds_2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dtd.aroundu.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dtd.aroundu.png"
-    },
-    {
       "name": "SnapCut",
       "type": 1,
       "bundleID": "com.mwm.moments",
@@ -4996,22 +5028,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png"
-    },
-    {
-      "name": "Facebook",
-      "type": 1,
-      "bundleID": "com.facebook.Facebook",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "version": "570.0.0",
-      "versionDate": "2026-07-22",
-      "fullDate": "20260722185618",
-      "size": 198238456,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Facebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Facebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png"
     },
     {
       "name": "Messenger",
@@ -5668,22 +5684,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png"
-    },
-    {
-      "name": "Instagram",
-      "type": 1,
-      "bundleID": "com.burbn.instagram",
-      "bundleIdentifier": "com.burbn.instagram",
-      "version": "433.0.0",
-      "versionDate": "2026-06-10",
-      "fullDate": "20260610115226",
-      "size": 282563167,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png"
     },
     {
       "name": "RenovateAI",
@@ -30372,6 +30372,42 @@
       ],
       "beta": false,
       "appID": "com.google.ios.youtubecercube"
+    },
+    {
+      "name": "SceneBox",
+      "bundleIdentifier": "app.scenebox.SceneBox",
+      "developerName": "",
+      "subtitle": "Free Movie/TV Show Streaming!",
+      "localizedDescription": "SceneBox is a media player and BitTorrent/HTTP client. It does not provide, host, index, upload, store, or distribute any media content, and it has no affiliation with any content source.\n\n- All catalog metadata, stream listings, and media files come from third-party services and peers that users configure or connect to. These services are independent of SceneBox, are not operated, controlled, endorsed, or reviewed by its author, and may be changed or removed at any time.\n- Users are solely responsible for the content they choose to access, for ensuring they have the legal right to do so, and for complying with the copyright and other laws of their jurisdiction. The author does not encourage, condone, or accept responsibility for any infringing use.\n- The software is provided \"as is\", without warranty of any kind, for personal and lawful use only. See LICENSE.\nIf you are a rights holder and believe a third-party source accessible through this software infringes your rights, please contact that source directly, as the author has no control over it.\n\nSources come from Stremio-compatible addons. Streams play through a vendored libtorrent engine and a local HTTP server feeding VLC; debrid-cached releases play directly over HTTPS.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/SceneBox/icon.png",
+      "tintColor": "8e8a1a",
+      "category": "Entertainment",
+      "beta": false,
+      "screenshotURLs": [
+        "https://onejailbreak.com/site/assets/files/3996/scenebox-2.414x0-is.webp",
+        "https://onejailbreak.com/site/assets/files/3996/scenebox-4.414x0-is.webp"
+      ],
+      "version": "1.0.4",
+      "versionDate": "2026-10-24",
+      "versionDescription": "Added v1.0.4",
+      "size": 30593765,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SceneBox.v1.0.4.ipa",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2026-10-24",
+          "localizedDescription": "Added v1.0.4",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SceneBox.v1.0.4.ipa",
+          "size": 30593765,
+          "sha256": "d8b57f581a9428815bf28c50b8cdbee82a584831b927963983797f29cad15a5e",
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SceneBox connects directly to peers over your local network and the internet to stream and download."
+        }
+      }
     },
     {
       "beta": false,
