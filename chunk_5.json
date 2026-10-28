@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_5.json",
   "apps": [
     {
+      "name": "PapasPancakeriaToGo",
+      "type": 2,
+      "bundleID": "com.flipline.papaspancakeriatogo",
+      "bundleIdentifier": "com.flipline.papaspancakeriatogo",
+      "version": "1.2.0",
+      "versionDate": "2026-02-02",
+      "fullDate": "20260202195624",
+      "size": 30038894,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPancakeriaToGo_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPancakeriaToGo_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png"
+    },
+    {
       "name": "NoteAI",
       "type": 1,
       "bundleID": "com.hubx.noteai",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.napper.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.napper.png"
-    },
-    {
-      "name": "MoneyCircle",
-      "type": 1,
-      "bundleID": "com.genau.MoneyCircle",
-      "bundleIdentifier": "com.genau.MoneyCircle",
-      "version": "2.8.6",
-      "versionDate": "2025-12-17",
-      "fullDate": "20251217160443",
-      "size": 13857800,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/MoneyCircle_2.8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/MoneyCircle_2.8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MoneyCircle.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MoneyCircle.png"
     }
   ],
   "userInfo": {}

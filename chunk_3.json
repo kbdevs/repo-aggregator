@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "SoundLab",
+      "type": 1,
+      "bundleID": "com.castpeer.audioroom.ios",
+      "bundleIdentifier": "com.castpeer.audioroom.ios",
+      "version": "2.11.6",
+      "versionDate": "2026-09-03",
+      "fullDate": "20260903220818",
+      "size": 143062024,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SoundLab_2.11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SoundLab_2.11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png"
+    },
+    {
+      "name": "SwipeMix",
+      "type": 1,
+      "bundleID": "com.museworks.swipemix",
+      "bundleIdentifier": "com.museworks.swipemix",
+      "version": "2.14.0",
+      "versionDate": "2026-09-03",
+      "fullDate": "20260903160650",
+      "size": 78602062,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SwipeMix_2.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SwipeMix_2.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png"
+    },
+    {
       "name": "CMProCalc",
       "type": 1,
       "bundleID": "com.calculated.laurene",
@@ -594,22 +626,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png"
-    },
-    {
-      "name": "FLTR",
-      "type": 1,
-      "bundleID": "com.feelty",
-      "bundleIdentifier": "com.feelty",
-      "version": "4.22.0",
-      "versionDate": "2026-07-06",
-      "fullDate": "20260706200203",
-      "size": 117570958,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2026/FLTR_4.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2026/FLTR_4.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png"
     },
     {
       "name": "BlitzerdePRO",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png"
-    },
-    {
-      "name": "Reels",
-      "type": 1,
-      "bundleID": "com.TetianaKolomiichuk.Reel-Templates",
-      "bundleIdentifier": "com.TetianaKolomiichuk.Reel-Templates",
-      "version": "3.10.3",
-      "versionDate": "2026-05-18",
-      "fullDate": "20260518030236",
-      "size": 149044261,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Reels_3.10.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Reels_3.10.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png"
     }
   ],
   "userInfo": {}

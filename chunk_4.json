@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Reels",
+      "type": 1,
+      "bundleID": "com.TetianaKolomiichuk.Reel-Templates",
+      "bundleIdentifier": "com.TetianaKolomiichuk.Reel-Templates",
+      "version": "3.10.3",
+      "versionDate": "2026-05-18",
+      "fullDate": "20260518030236",
+      "size": 149044261,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Reels_3.10.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Reels_3.10.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png"
+    },
+    {
       "name": "MergeCooking",
       "type": 2,
       "bundleID": "com.merge.cooking.theme.restaurant.food",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papascluckeriatogo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papascluckeriatogo.png"
-    },
-    {
-      "name": "PapasPancakeriaToGo",
-      "type": 2,
-      "bundleID": "com.flipline.papaspancakeriatogo",
-      "bundleIdentifier": "com.flipline.papaspancakeriatogo",
-      "version": "1.2.0",
-      "versionDate": "2026-02-02",
-      "fullDate": "20260202195624",
-      "size": 30038894,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPancakeriaToGo_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasPancakeriaToGo_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papaspancakeriatogo.png"
     }
   ],
   "userInfo": {}

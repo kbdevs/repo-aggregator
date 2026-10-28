@@ -4,6 +4,32 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_8.json",
   "apps": [
     {
+      "name": "Remember",
+      "type": 1,
+      "bundleID": "io.rmmbr.remember",
+      "bundleIdentifier": "io.rmmbr.remember",
+      "version": "5.21.2",
+      "versionDate": "2026-08-10",
+      "fullDate": "20260810151623",
+      "size": 104811690,
+      "down": "https://appstore.sidelix.vip/download-repo-source/1389",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1389",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1837",
+      "appstore_download_count": 272,
+      "developerName": "Holloway",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a79eb10d93a8.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a79eb10d93a8.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/13",
+      "tags": [
+        "Tweaked App"
+      ]
+    },
+    {
       "name": "ParallelLive",
       "type": 1,
       "bundleID": "com.bigbrains.parallel",
@@ -3205,33 +3231,6 @@
       "tags": [
         "Free Paid Apps"
       ]
-    },
-    {
-      "name": "GTA 5 Mobile - (Fan made)",
-      "type": 1,
-      "bundleID": "com.NGC.GTAV",
-      "bundleIdentifier": "com.NGC.GTAV",
-      "version": "0.5",
-      "versionDate": "2026-07-12",
-      "fullDate": "20260712030900",
-      "size": 1463351297,
-      "down": "https://appstore.sidelix.vip/download-repo-source/2223",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2223",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2460",
-      "appstore_download_count": 7168,
-      "developerName": "sidelix",
-      "localizedDescription": "GTA 5 Mobile by 'New Games Corporation' studios",
-      "icon": "https://appstore.sidelix.vip/images/1783825764.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1783825764.png",
-      "requires_trollstore": false,
-      "requires_jailbreak": false,
-      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
-      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
-      "developer_url": "https://appstore.sidelix.vip/developer/11",
-      "tags": [
-        "Removed from Apple App Store"
-      ],
-      "demo_youtube_url": "https://www.youtube.com/watch?v=XIDMaan_5JY"
     }
   ],
   "userInfo": {}
