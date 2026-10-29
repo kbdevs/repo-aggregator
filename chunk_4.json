@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "ClearStatus",
+      "type": 1,
+      "bundleID": "hd.clear.status.app.clearstatus",
+      "bundleIdentifier": "hd.clear.status.app.clearstatus",
+      "version": "6.0.5",
+      "versionDate": "2026-05-18",
+      "fullDate": "20260518210441",
+      "size": 31509960,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/ClearStatus_6.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/ClearStatus_6.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png"
+    },
+    {
       "name": "Reels",
       "type": 1,
       "bundleID": "com.TetianaKolomiichuk.Reel-Templates",
@@ -1970,22 +1986,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papassushiriatogo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papassushiriatogo.png"
-    },
-    {
-      "name": "PapasCluckeriaToGo",
-      "type": 2,
-      "bundleID": "com.flipline.papascluckeriatogo",
-      "bundleIdentifier": "com.flipline.papascluckeriatogo",
-      "version": "1.0.1",
-      "versionDate": "2026-02-02",
-      "fullDate": "20260202195627",
-      "size": 32946183,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasCluckeriaToGo_1.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/PapasCluckeriaToGo_1.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papascluckeriatogo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipline.papascluckeriatogo.png"
     }
   ],
   "userInfo": {}
