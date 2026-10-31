@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Motobit",
+      "type": 1,
+      "bundleID": "com.getmotobit.motobit",
+      "bundleIdentifier": "com.getmotobit.motobit",
+      "version": "1.0.66",
+      "versionDate": "2026-05-19",
+      "fullDate": "20260519041000",
+      "size": 39997510,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Motobit_1.0.66_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Motobit_1.0.66_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png"
+    },
+    {
       "name": "MagicEraser",
       "type": 1,
       "bundleID": "com.hhp.magicEraser",
@@ -530,22 +546,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png"
-    },
-    {
-      "name": "rPlayer",
-      "type": 1,
-      "bundleID": "com.wangyuehuan.vrtef",
-      "bundleIdentifier": "com.wangyuehuan.vrtef",
-      "version": "7.0.2",
-      "versionDate": "2026-05-05",
-      "fullDate": "20260505013223",
-      "size": 58734459,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/rPlayer_7.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/rPlayer_7.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png"
     },
     {
       "name": "untitled",

@@ -1294,12 +1294,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10957",
-          "marketingVersion": "3.4.0-alpha.20261030.d064efa",
-          "date": "2026-10-30",
-          "localizedDescription": "Alpha build d064efa \u00b7 2026-10-30\n\nChanges in this build:\n\u2022 Debug API + pixelated covers for on-device App Store screenshots (#3773)\n\u2022 [Agent] docs: Realm to SwiftData migration scope and plan (#3772)\n\u2022 Keep the game picture on the new skin's screen after a skin change (#3776)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10979",
+          "marketingVersion": "3.4.0-alpha.20261031.91fdc73",
+          "date": "2026-10-31",
+          "localizedDescription": "Alpha build 91fdc73 \u00b7 2026-10-31\n\nChanges in this build:\n\u2022 build: adopt SkinKit 0.1.0 release\n\u2022 docs: record SkinKit three-app release signoff\n\u2022 [Agent] fix: align SkinKit consumers for the initial release (#3777)\n\u2022 test: record combined develop validation and fixture selection [skip ci]\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 780351105,
+          "size": 780673954,
           "minOSVersion": "17.0"
         }
       ],
@@ -1391,11 +1391,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "407",
-          "date": "2026-10-28T23:44:55.085Z",
+          "buildVersion": "411",
+          "date": "2026-10-31T03:29:42.284Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-407/Non-Jailbroken.ipa",
-          "size": 98869532,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-411/Non-Jailbroken.ipa",
+          "size": 98875146,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -1403,7 +1403,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-10-28",
+          "date": "2026-10-31",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -1415,7 +1415,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-10-28",
+          "date": "2026-10-31",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -1427,7 +1427,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-10-28",
+          "date": "2026-10-31",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,
