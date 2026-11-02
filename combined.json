@@ -870,6 +870,182 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "",
+      "type": 1,
+      "bundleID": "com.intsig.CamScannerLite",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "version": "7.28.5",
+      "versionDate": "2026-11-02",
+      "fullDate": "20261102082440",
+      "size": 214336750,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/_7.28.5_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/_7.28.5_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+    },
+    {
+      "name": "wpsoffice",
+      "type": 1,
+      "bundleID": "com.kingsoft.office.g.wpsoffice",
+      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+      "version": "26.10.2",
+      "versionDate": "2026-11-02",
+      "fullDate": "20261102075558",
+      "size": 325852249,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/wpsoffice_26.10.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/wpsoffice_26.10.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png"
+    },
+    {
+      "name": "Locket",
+      "type": 1,
+      "bundleID": "com.locket.Locket",
+      "bundleIdentifier": "com.locket.Locket",
+      "version": "2.71.1",
+      "versionDate": "2026-11-02",
+      "fullDate": "20261102041342",
+      "size": 96879089,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Locket_2.71.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Locket_2.71.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Gold",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
+    },
+    {
+      "name": "superagent",
+      "type": 1,
+      "bundleID": "com.agent.super.extension.safari",
+      "bundleIdentifier": "com.agent.super.extension.safari",
+      "version": "4.7.3",
+      "versionDate": "2026-11-02",
+      "fullDate": "20261102033631",
+      "size": 32393372,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/superagent_4.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/superagent_4.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png"
+    },
+    {
+      "name": "SleepCycle",
+      "type": 1,
+      "bundleID": "com.lexwarelabs.goodmorning",
+      "bundleIdentifier": "com.lexwarelabs.goodmorning",
+      "version": "6.26.430",
+      "versionDate": "2026-11-02",
+      "fullDate": "20261102032524",
+      "size": 194086499,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SleepCycle_6.26.430_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SleepCycle_6.26.430_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png"
+    },
+    {
+      "name": "Lampa",
+      "type": 1,
+      "bundleID": "com.lampa.photo",
+      "bundleIdentifier": "com.lampa.photo",
+      "version": "2.2.1",
+      "versionDate": "2026-11-02",
+      "fullDate": "20261102031926",
+      "size": 84078740,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Lampa_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Lampa_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png"
+    },
+    {
+      "name": "SnoreLab",
+      "type": 1,
+      "bundleID": "com.revivasoftworks.Snore-Lab",
+      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+      "version": "6.5.2",
+      "versionDate": "2026-11-02",
+      "fullDate": "20261102031315",
+      "size": 174612400,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SnoreLab_6.5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SnoreLab_6.5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png"
+    },
+    {
+      "name": "Shapeyard",
+      "type": 1,
+      "bundleID": "app.chudo",
+      "bundleIdentifier": "app.chudo",
+      "version": "5.34",
+      "versionDate": "2026-11-02",
+      "fullDate": "20261102023648",
+      "size": 87725440,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Shapeyard_5.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Shapeyard_5.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png"
+    },
+    {
+      "name": "PUSH",
+      "type": 1,
+      "bundleID": "com.ADPTVLTD.push",
+      "bundleIdentifier": "com.ADPTVLTD.push",
+      "version": "4.2",
+      "versionDate": "2026-11-02",
+      "fullDate": "20261102023027",
+      "size": 82942900,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/PUSH_4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/PUSH_4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png"
+    },
+    {
+      "name": "iScreen",
+      "type": 1,
+      "bundleID": "com.zerone.hidesktop",
+      "bundleIdentifier": "com.zerone.hidesktop",
+      "version": "5.1.25",
+      "versionDate": "2026-11-01",
+      "fullDate": "20261101205636",
+      "size": 347842459,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/iScreen_5.1.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/iScreen_5.1.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
+    },
+    {
+      "name": "KineMaster",
+      "type": 1,
+      "bundleID": "com.kinemaster.kios",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "version": "8.2.7",
+      "versionDate": "2026-11-01",
+      "fullDate": "20261101175420",
+      "size": 157362076,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/KineMaster_8.2.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/KineMaster_8.2.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
+    },
+    {
       "name": "JSCodePad",
       "type": 1,
       "bundleID": "com.markodevcic.js-code-pad",
@@ -932,22 +1108,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
-    },
-    {
-      "name": "Locket",
-      "type": 1,
-      "bundleID": "com.locket.Locket",
-      "bundleIdentifier": "com.locket.Locket",
-      "version": "2.70.1",
-      "versionDate": "2026-10-31",
-      "fullDate": "20261031215926",
-      "size": 96225637,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Locket_2.70.1_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Locket_2.70.1_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Gold",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
     },
     {
       "name": "Uplens",
@@ -1060,22 +1220,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png"
-    },
-    {
-      "name": "Lampa",
-      "type": 1,
-      "bundleID": "com.lampa.photo",
-      "bundleIdentifier": "com.lampa.photo",
-      "version": "2.2.0",
-      "versionDate": "2026-10-31",
-      "fullDate": "20261031031232",
-      "size": 84070070,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Lampa_2.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Lampa_2.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png"
     },
     {
       "name": "rPlayer",
@@ -1332,22 +1476,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png"
-    },
-    {
-      "name": "KineMaster",
-      "type": 1,
-      "bundleID": "com.kinemaster.kios",
-      "bundleIdentifier": "com.kinemaster.kios",
-      "version": "8.2.6",
-      "versionDate": "2026-10-29",
-      "fullDate": "20261029191824",
-      "size": 157372268,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/KineMaster_8.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/KineMaster_8.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
     },
     {
       "name": "Origami",
@@ -1654,22 +1782,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png"
     },
     {
-      "name": "",
-      "type": 1,
-      "bundleID": "tech.miidii.MDBlank",
-      "bundleIdentifier": "tech.miidii.MDBlank",
-      "version": "4.3.6",
-      "versionDate": "2026-10-28",
-      "fullDate": "20261028220831",
-      "size": 245261473,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/_4.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/_4.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png"
-    },
-    {
       "name": "ShutEye",
       "type": 1,
       "bundleID": "health.sleep.sounds.tracker.alarm.calm",
@@ -1780,22 +1892,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png"
-    },
-    {
-      "name": "PUSH",
-      "type": 1,
-      "bundleID": "com.ADPTVLTD.push",
-      "bundleIdentifier": "com.ADPTVLTD.push",
-      "version": "4.1.1",
-      "versionDate": "2026-10-28",
-      "fullDate": "20261028151921",
-      "size": 79722830,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/PUSH_4.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/PUSH_4.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png"
     },
     {
       "name": "ColorPop",
@@ -1924,22 +2020,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png"
-    },
-    {
-      "name": "SnoreLab",
-      "type": 1,
-      "bundleID": "com.revivasoftworks.Snore-Lab",
-      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
-      "version": "6.5.1",
-      "versionDate": "2026-10-28",
-      "fullDate": "20261028033831",
-      "size": 174473440,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/SnoreLab_6.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/SnoreLab_6.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png"
     },
     {
       "name": "DiamondFinder",
@@ -2502,38 +2582,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png"
     },
     {
-      "name": "SleepCycle",
-      "type": 1,
-      "bundleID": "com.lexwarelabs.goodmorning",
-      "bundleIdentifier": "com.lexwarelabs.goodmorning",
-      "version": "6.26.420",
-      "versionDate": "2026-10-26",
-      "fullDate": "20261026021617",
-      "size": 203056341,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/SleepCycle_6.26.420_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/SleepCycle_6.26.420_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png"
-    },
-    {
-      "name": "superagent",
-      "type": 1,
-      "bundleID": "com.agent.super.extension.safari",
-      "bundleIdentifier": "com.agent.super.extension.safari",
-      "version": "4.7.2",
-      "versionDate": "2026-10-26",
-      "fullDate": "20261026001935",
-      "size": 32363084,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/superagent_4.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/superagent_4.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png"
-    },
-    {
       "name": "Facebook",
       "type": 1,
       "bundleID": "com.facebook.Facebook",
@@ -2822,22 +2870,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png"
     },
     {
-      "name": "iScreen",
-      "type": 1,
-      "bundleID": "com.zerone.hidesktop",
-      "bundleIdentifier": "com.zerone.hidesktop",
-      "version": "5.1.21",
-      "versionDate": "2026-10-23",
-      "fullDate": "20261023201206",
-      "size": 371477553,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/iScreen_5.1.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/iScreen_5.1.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
-    },
-    {
       "name": "ScannerPro",
       "type": 1,
       "bundleID": "com.readdle.Scanner",
@@ -2884,22 +2916,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png"
-    },
-    {
-      "name": "wpsoffice",
-      "type": 1,
-      "bundleID": "com.kingsoft.office.g.wpsoffice",
-      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
-      "version": "26.10.1",
-      "versionDate": "2026-10-23",
-      "fullDate": "20261023075138",
-      "size": 325832315,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/wpsoffice_26.10.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/wpsoffice_26.10.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png"
     },
     {
       "name": "Documents",
@@ -3524,22 +3540,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png"
-    },
-    {
-      "name": "Shapeyard",
-      "type": 1,
-      "bundleID": "app.chudo",
-      "bundleIdentifier": "app.chudo",
-      "version": "5.33",
-      "versionDate": "2026-10-21",
-      "fullDate": "20261021175810",
-      "size": 87722587,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Shapeyard_5.33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Shapeyard_5.33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png"
     },
     {
       "name": "RunGo",
@@ -25598,32 +25598,6 @@
       ]
     },
     {
-      "name": "CamScanner",
-      "type": 1,
-      "bundleID": "com.intsig.CamScannerLite",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "6.91.1",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025035144",
-      "size": 170244178,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1397",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1397",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1841",
-      "appstore_download_count": 1573,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://appstore.sidelix.vip/images/1761378283.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378283.png",
-      "requires_trollstore": false,
-      "requires_jailbreak": false,
-      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
-      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
-      "developer_url": "https://appstore.sidelix.vip/developer/13",
-      "tags": [
-        "Tweaked App"
-      ]
-    },
-    {
       "name": "LiveWallpapersFree",
       "type": 1,
       "bundleID": "com.apalonapps.livewallpapersfree",
@@ -28216,12 +28190,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "10990",
-          "marketingVersion": "3.4.0-alpha.20261101.efe1572",
-          "date": "2026-11-01",
-          "localizedDescription": "Alpha build efe1572 \u00b7 2026-11-01\n\nChanges in this build:\n\u2022 feat(controls): use the touch overlay for Classic mode and skinless cores\n\u2022 refactor(input): send skin, keyboard and switch input straight to the core\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "10998",
+          "marketingVersion": "3.4.0-alpha.20261102.b6069a2",
+          "date": "2026-11-02",
+          "localizedDescription": "Alpha build b6069a2 \u00b7 2026-11-02\n\nChanges in this build:\n\u2022 test: isolate UI core fixtures from native bridges\n\u2022 test: verify SkinKit follows coordinated theme accents\n\u2022 build: align PVUI lockfile with resolved dependency graph\n\u2022 build: isolate PVUI package test workspace and state\n\u2022 fix: retain library input ownership and clear hidden search\n\u2022 fix: address Copilot review \u2014 sidebar close, free ROMs host, search reset, tvOS test guard\n\u2022 feat: redesign library navigation and pause chrome\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 780892252,
+          "size": 780937406,
           "minOSVersion": "17.0"
         }
       ],
@@ -28267,6 +28241,83 @@
         "https://ifly-emu.com/screenshots/iphone/import.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1793561974",
+          "buildVersion": "1793561974",
+          "date": "2026-11-01",
+          "localizedDescription": "iFly 1.0.0 (build 1793561974) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793561974/iFly-1.0.0-1793561974.ipa",
+          "size": 133121337,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793507282",
+          "buildVersion": "1793507282",
+          "date": "2026-11-01",
+          "localizedDescription": "iFly 1.0.0 (build 1793507282) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793507282/iFly-1.0.0-1793507282.ipa",
+          "size": 133028910,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793499217",
+          "buildVersion": "1793499217",
+          "date": "2026-11-01",
+          "localizedDescription": "iFly 1.0.0 (build 1793499217) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793499217/iFly-1.0.0-1793499217.ipa",
+          "size": 132859833,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793496899",
+          "buildVersion": "1793496899",
+          "date": "2026-11-01",
+          "localizedDescription": "iFly 1.0.0 (build 1793496899) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793496899/iFly-1.0.0-1793496899.ipa",
+          "size": 132860704,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793496226",
+          "buildVersion": "1793496226",
+          "date": "2026-11-01",
+          "localizedDescription": "iFly 1.0.0 (build 1793496226) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793496226/iFly-1.0.0-1793496226.ipa",
+          "size": 132857423,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793494383",
+          "buildVersion": "1793494383",
+          "date": "2026-11-01",
+          "localizedDescription": "iFly 1.0.0 (build 1793494383) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793494383/iFly-1.0.0-1793494383.ipa",
+          "size": 132855210,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793491703",
+          "buildVersion": "1793491703",
+          "date": "2026-11-01",
+          "localizedDescription": "iFly 1.0.0 (build 1793491703) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793491703/iFly-1.0.0-1793491703.ipa",
+          "size": 132855089,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1793473481",
           "buildVersion": "1793473481",
@@ -28368,11 +28419,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "416",
-          "date": "2026-11-01T02:33:20.101Z",
+          "buildVersion": "421",
+          "date": "2026-11-01T03:55:03.962Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-416/Non-Jailbroken.ipa",
-          "size": 98887400,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-421/Non-Jailbroken.ipa",
+          "size": 98943996,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -30445,6 +30496,279 @@
       "appID": "com.google.ios.youtubecercube"
     },
     {
+      "category": "Utilities",
+      "size": 0,
+      "version": "3.8.0",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "tintColor": "000000",
+      "versionDate": "2026-08-07",
+      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+      "subtitle": "Run iOS apps without actually installing them!",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
+      "developerName": "DuyTranKhanh",
+      "versionDescription": "Initial addition.",
+      "name": "LiveContainer",
+      "localizedDescription": "Run iOS apps without actually installing them!",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.team-identifier",
+          "com.apple.security.application-groups",
+          "get-task-allow",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "The guest app is requesting for this permission.",
+          "NSBluetoothAlwaysUsageDescription": "The guest app is requesting for this permission.",
+          "NSBluetoothPeripheralUsageDescription": "The guest app is requesting for this permission.",
+          "NSCalendarsFullAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSCameraUsageDescription": "The guest app is requesting for this permission.",
+          "NSContactsUsageDescription": "The guest app is requesting for this permission.",
+          "NSFaceIDUsageDescription": "The guest app is requesting for this permission.",
+          "NSFallDetectionUsageDescription": "The guest app is requesting for this permission.",
+          "NSGKFriendListUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthClinicalHealthRecordsShareUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthShareUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthUpdateUsageDescription": "The guest app is requesting for this permission.",
+          "NSHomeKitUsageDescription": "The guest app is requesting for this permission.",
+          "NSIdentityUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocalNetworkUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+          "NSMicrophoneUsageDescription": "The guest app is requesting for this permission.",
+          "NSMotionUsageDescription": "The guest app is requesting for this permission.",
+          "NSNearbyInteractionAllowOnceUsageDescription": "The guest app is requesting for this permission.",
+          "NSNearbyInteractionUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission.",
+          "NSRemindersFullAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSSensorKitUsageDescription": "The guest app is requesting for this permission.",
+          "NSSiriUsageDescription": "The guest app is requesting for this permission.",
+          "NSSpeechRecognitionUsageDescription": "The guest app is requesting for this permission.",
+          "NSUserTrackingUsageDescription": "The guest app is requesting for this permission."
+        }
+      }
+    },
+    {
+      "beta": true,
+      "versions": [
+        {
+          "localizedDescription": "\u2022 Added PostBox v0.8.1",
+          "minOSVersion": "10.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PostBox.v0.8.1.ipa",
+          "version": "0.8.1",
+          "size": 8080000,
+          "date": "2023-05-14"
+        }
+      ],
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://www.postbox.news/assets/images/thumbPhone.webp",
+        "https://www.postbox.news/assets/images/newsPhone.webp",
+        "https://www.postbox.news/assets/images/extractPhone.webp",
+        "https://www.postbox.news/assets/images/repoPhone.webp",
+        "https://www.postbox.news/assets/images/reviewPhone.webp",
+        "https://www.postbox.news/assets/images/storyboardPhone.webp"
+      ],
+      "size": 8474074,
+      "version": "0.8.1",
+      "bundleIdentifier": "com.simplycode.PostBox",
+      "tintColor": "b3b3b3",
+      "versionDate": "2023-05-14",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PostBox.v0.8.1.ipa",
+      "subtitle": "The latest jailbreak news at your fingertips",
+      "iconURL": "https://static.appdb.to/images/cydia-102005202-icon-1661962646.png",
+      "developerName": "PostBox Team",
+      "versionDescription": "\u2022 Added PostBox v0.8.1",
+      "name": "PostBox",
+      "localizedDescription": "\u2022 A pool of feeds. Enjoy a lively feed of various sources to always stay connected with the jailbreak scene. Sources are updated frequently so you don't miss out!\n\n\u2022 Powered externally. PostBox enables support for third-party jailbreak sources such as r/jailbreak and iDownloadBlog. More content will be coming soon in the future.\n\n\u2022 Repositories are libraries of packages. PostBox contains over 200 repos for centralization and provides a system for efficient repo finding. You can now effortlessly look for information that will previously require painstaking work.\n\n\u2022 Intuitive design. Buttons with different contrast prompts users for interaction. Animations, haptics and color changes enable engaging feedback when selected.\n\n\u2022 Review packages. The ability to review packages creates new opportunities for users and developers alike. Any package can be reviewed regardless of repository or depiction differences.",
+      "appPermissions": {
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Please allow PostBox to save media into your photo library.",
+          "NSPhotoLibraryUsageDescription": "PostBox can save media (such as screenshots and banners) to your photo library."
+        },
+        "entitlements": [
+          "application-identifier",
+          "com.apple.developer.team-identifier",
+          "get-task-allow"
+        ]
+      }
+    },
+    {
+      "beta": false,
+      "versions": [
+        {
+          "version": "3.0.12",
+          "date": "2026-10-20",
+          "localizedDescription": "\u2022 Dopamine updated to v3.0.12",
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.12/Dopamine.ipa",
+          "size": 55420784
+        },
+        {
+          "minOSVersion": "15.0",
+          "localizedDescription": "\u2022 Fix support for iOS 16.0.x [2.4 regression]\n\u2022 (See older update notes on official github page as this is only for 2.4.1)",
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.1/Dopamine.ipa",
+          "date": "2025-02-25",
+          "size": 47700000,
+          "version": "2.4.1"
+        },
+        {
+          "localizedDescription": "\u2022 Only automatically fix up permissions of relevant directories inside /var/jb/var/mobile, rather than the entirety of it\n\u2022 Skip permission fix up if either /var/jb/var or /var/jb/var/mobile is a symbolic link, previously there was a bootloop risk when either of them point to the real /var or /var/mobile",
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.4/Dopamine.ipa",
+          "date": "2024-05-07",
+          "size": 47400000,
+          "version": "2.1.4"
+        }
+      ],
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://ellekit.space/dopamine/assets/screenshot_one.png",
+        "https://ellekit.space/dopamine/assets/screenshot_two.png"
+      ],
+      "size": 55420784,
+      "version": "3.0.12",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "tintColor": "0d7d65",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.12/Dopamine.ipa",
+      "subtitle": "The semi-untethered jailbreak for iOS 15 - 16",
+      "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
+      "developerName": "opa334",
+      "versionDescription": "\u2022 Dopamine updated to v3.0.12",
+      "name": "Dopamine",
+      "localizedDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.",
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.private.mobileinstall.allowedSPI",
+          "com.apple.private.persona-mgmt",
+          "com.apple.private.security.no-sandbox",
+          "com.apple.private.security.storage-exempt.heritable",
+          "com.apple.private.security.storage.AppBundles",
+          "com.apple.private.tcc.allow",
+          "com.apple.security.exception.iokit-user-client-class",
+          "com.apple.security.network.client",
+          "com.apple.springboard.CFUserNotification",
+          "com.apple.springboard.launchapplications",
+          "platform-application",
+          "proc_info-allow"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Dopamine needs to access your photo library to support picking a boot logo"
+        }
+      }
+    },
+    {
+      "beta": false,
+      "category": "Games",
+      "screenshotURLs": [
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-1.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-2.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-3.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-4.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-5.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-6.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-7.webp"
+      ],
+      "size": 506956293,
+      "version": "18.400.8",
+      "bundleIdentifier": "com.atrasis.original",
+      "tintColor": "9e6193",
+      "versionDate": "2026-08-06",
+      "downloadURL": "https://atrasisclash.net/server-original-ios-download-ipa.php",
+      "subtitle": "A modded Clash of Clans server!",
+      "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/WfWpKOF.png",
+      "developerName": "Atrasis Team",
+      "versionDescription": "\u2022 Link now only installs latest version.",
+      "name": "Atrasis",
+      "localizedDescription": "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\nNOTE: IF THE APP REQUIRES AN UPDATE, REINSTALL FROM THIS LINK AS THE DOWNLOAD URL IS ALWAYS THE LATEST AND I DO NOT MANUALLY CHANGE IT.\n\nTO KEEP YOUR PROGRESS, MAKE AN ATRASIS ID, ITS DONE THE SAME AS IF YOU ARE MAKING A SUPERCELL ID, AND SIGN IN AFTER REINSTALLING\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group\u27a1\ufe0f https://t.me/+wwYy4wEMS1gwMTAy",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.game-center",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "Clash of Clans would like permission to track you across apps and websites owned by other companies.\\n\\nYour data will be used for audience insights, analytics and improving our services.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player wants to send screenshots to Supercell Player Support.",
+          "NSCameraUsageDescription": "Camera\u00a0access\u00a0is\u00a0needed\u00a0for\u00a0scanning\u00a0QR\u00a0codes."
+        }
+      }
+    },
+    {
+      "beta": false,
+      "versions": [
+        {
+          "localizedDescription": "\u2022 We addressed some minor issues in order to improve the user experience.",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Angry.Birds.Space.v2.2.13.ipa",
+          "version": "2.2.13",
+          "size": 49900000,
+          "date": "2018-05-25"
+        }
+      ],
+      "category": "Games",
+      "screenshotURLs": [
+        "https://img.ipa4fun.com/c2/46/8a/499511971-screenshot-1.webp",
+        "https://img.ipa4fun.com/c2/46/8a/499511971-screenshot-2.webp",
+        "https://img.ipa4fun.com/c2/46/8a/499511971-screenshot-3.webp",
+        "https://img.ipa4fun.com/c2/46/8a/499511971-screenshot-4.webp",
+        "https://img.ipa4fun.com/c2/46/8a/499511971-screenshot-5.webp"
+      ],
+      "size": 9,
+      "version": "2.2.13",
+      "bundleIdentifier": "com.rovio.AngryBirdsSpace",
+      "tintColor": "06253f",
+      "versionDate": "2018-05-25",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Angry.Birds.Space.v2.2.13.ipa",
+      "subtitle": "Removed from the App Store!",
+      "iconURL": "https://img.ipa4fun.com/63/2d/06/501968250-logo.webp",
+      "developerName": "Rovio",
+      "versionDescription": "\u2022 We addressed some minor issues in order to improve the user experience.",
+      "name": "Angry Birds Space",
+      "localizedDescription": "The #1 mobile game of all time blasts off into space!\n\nPlay over 300 interstellar levels across 10 planets \u2013 including our very own Solar System!\n\nWhether it\u2019s the icy orbs of Cold Cuts, the volcanic explosiveness of Red Planet, Utopia \u2013 a planet made entirely of junk food, or even our own Solar System, each episode offers intergalactic fun at every turn! And the low-gravity environment of space results in spectacular gameplay ranging from slow-motion puzzles to lightspeed destruction. With brand new birds, special abilities, and a whole galaxy to explore, the sky is no longer the limit!\n\n-----\n\n\u201cIntergalactic phenomenon worth every penny\u201d \u2013 AppCraver\n\n\u201cTakes the fundamental physics-based flinging of the original and turns it on its head... It's satisfying, yet completely familiar, and is heaps of pig-smashing fun.\u201d \u2013 Gamespot\n\n\u201cAnyone burnt out on vanilla bird flinging will enjoy the game's out-of-this-world adventure.\u201d -- IGN\n\n-----\n\n- Over 300 interstellar levels!\n- New playable characters!\n- Unique special abilities for each bird!\n- Zero-gravity space adventures!\n- Trick shots using planets\u2019 gravity!\n- Hidden bonus levels!\n- Beautifully detailed backgrounds!\n- Daily Missions!\n\n-----\n\nJoin the global phenomenon as it goes galactic!\n\nBecome a fan of Angry Birds on Facebook:\nhttp://facebook.angrybirds.com\n\nFollow us on Twitter:\nhttp://twitter.angrybirds.com\n\nTerms of Use: https://www.rovio.com/terms-of-service\nPrivacy Policy: https://www.rovio.com/privacy\n\nThis application may require internet connectivity and subsequent data transfer charges may apply.\n\n\nImportant Message for Parents\n\nThis game may include:\n- Direct links to social networking websites that are intended for an audience over the age of 13.\n- Direct links to the internet that can take players away from the game with the potential to browse any web page.\n- Advertising of Rovio products and also products from select partners.\n- The option to make in-app purchases. The bill payer should always be consulted beforehand."
+    },
+    {
+      "beta": false,
+      "versions": [
+        {
+          "localizedDescription": "\u2022 We addressed some minor issues in order to improve the user experience.",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Angry.Birds.Star.Wars.v1.5.12.ipa",
+          "version": "1.5.12",
+          "size": 58200000,
+          "date": "2018-05-25"
+        }
+      ],
+      "category": "Games",
+      "screenshotURLs": [
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-1.webp",
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-2.webp",
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-3.webp",
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-4.webp",
+        "https://img.ipa4fun.com/5d/50/b0/557137623-screenshot-5.webp"
+      ],
+      "size": 9,
+      "version": "1.5.12",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwars",
+      "tintColor": "082448",
+      "versionDate": "2018-05-25",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Angry.Birds.Star.Wars.v1.5.12.ipa",
+      "subtitle": "Removed from the App Store!",
+      "iconURL": "https://img.ipa4fun.com/56/fa/23/557138109-logo.webp",
+      "developerName": "Rovio",
+      "versionDescription": "\u2022 We addressed some minor issues in order to improve the user experience.",
+      "name": "Angry Birds Star Wars",
+      "localizedDescription": "JOIN THE ANGRY BIRDS IN THEIR BIGGEST ADVENTURE YET!\n\nA long time ago in a galaxy far, far away... a group of desperate rebel birds faced off against a galactic menace: the Empire\u2019s evil Pigtroopers!\n\nRebel birds, striking from a hidden base, have won their first victory against the evil Imperial Pigs. During the battle, Rebel spies managed to steal secret plans to the Empire\u2019s ultimate weapon, the PIG STAR, and are racing to deliver the plans to the Rebel Birds. Now they need your help!\n\nJoin an epic adventure with the Angry Birds in the legendary Star Wars\u2122 universe! Use the Force, wield your lightsaber, and blast away Pigtroopers on an intergalactic journey from the deserts of Tatooine to the depths of the Pig Star -- where you\u2019ll face off against the terrifying Darth Vader, Dark Lord of the Pigs! Can you become a Jedi Master and restore freedom to the galaxy?\n\nTime to grab your lightsaber and join the adventure! May the birds be with you!\n\nHOURS AND HOURS OF ENGAGING GAMEPLAY - Explore more than 100 levels in iconic locations like Tatooine and the Pig Star. Can you dodge Imperial pigs, laser turrets, Tusken Raider pigs, and the dark side of the Force to get all three stars?\n\nNEW GAMEPLAY MECHANICS - Use lightsabers, Blasters and Jedi powers to wreak havoc on the Imperial Pigs!\n\nLEVEL UP YOUR BIRDS - Keep playing and level up your birds to improve their skills!\n\nSECRETS AND HIDDEN GOODIES - Can you unlock all the R2-D2 and C-3PO bonus levels?\n\nFREE UPDATES - This is only the beginning of the epic saga!\n\nTHE MIGHTY FALCON\nStuck on a tricky level? Earn stars and call the Mighty Falcon to rain down the destruction. New goals, achievements and gameplay!\n\nPATH OF THE JEDI\nThe ultimate training ground for a Young Jedi, this episode features 40 Dagobah Challenge Levels with Jedi Master Yoda! Master the Path of the Jedi to unlock the ultimate Lightsaber! Available as an in-app purchase, or by earning three stars on every level.\n\nFollow @angrybirds on Twitter\n\nWatch the videos, read the comics and submit fan art at angrybirds.com/starwars\n\nLike us at facebook.com/angrybirds and say hello!\n\nTerms of Use: https://www.rovio.com/terms-of-use\nPrivacy Policy: https://www.rovio.com/privacy\n\nThis application may require internet connectivity and subsequent data transfer charges may apply.\n\n\nImportant Message for Parents\n\nThis game may include:\n- Direct links to social networking websites that are intended for an audience over the age of 13.\n- Direct links to the internet that can take players away from the game with the potential to browse any web page.\n- Advertising of Rovio products and also products from select partners.\n- The option to make in-app purchases. The bill payer should always be consulted beforehand."
+    },
+    {
       "name": "SceneBox",
       "bundleIdentifier": "app.scenebox.SceneBox",
       "developerName": "",
@@ -30477,6 +30801,101 @@
       "appPermissions": {
         "privacy": {
           "NSLocalNetworkUsageDescription": "SceneBox connects directly to peers over your local network and the internet to stream and download."
+        }
+      }
+    },
+    {
+      "name": "BuildBox",
+      "bundleIdentifier": "com.mikevillarroel.buildbox",
+      "developerName": "MikeBuilds",
+      "subtitle": "Compile, sign and install iOS apps from your iPhone",
+      "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle in one app. It can also import any IPA just to sign it, and inject .deb/.zip tweak packages before signing. Ships as an unsigned IPA. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
+      "tintColor": "2f7cf6",
+      "category": "utilities",
+      "beta": false,
+      "screenshotURLs": [],
+      "version": "2.1.0",
+      "versionDate": "2026-11-02",
+      "versionDescription": "Catalog-first redesign (Catalog home tab, Sources as a sheet, restyled Signed tab), signing fixed (release apps open again, catalog signing no longer closes the app), Catalog refresh, Clear All logs, matching page titles; requires iOS 18+.",
+      "size": 17956353,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BuildBox.v2.1.0.ipa",
+      "versions": [
+        {
+          "version": "2.1.0",
+          "date": "2026-11-02",
+          "localizedDescription": "Catalog-first redesign (Catalog home tab, Sources as a sheet, restyled Signed tab), signing fixed (release apps open again, catalog signing no longer closes the app), Catalog refresh, Clear All logs, matching page titles; requires iOS 18+.",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BuildBox.v2.1.0.ipa",
+          "size": 17956353,
+          "sha256": "3c33a63f15589add88f7fd8d965192f37ef20005b7a3e959a2a7a5e65b746df8",
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "TendieMaker",
+      "bundleIdentifier": "com.mikevillarroel.tendiemaker",
+      "developerName": "MikeBuilds",
+      "subtitle": "Make .tendie live wallpapers from your own videos",
+      "localizedDescription": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
+      "tintColor": "fdac03",
+      "category": "photo-video",
+      "beta": false,
+      "screenshotURLs": [],
+      "version": "1.0.9",
+      "versionDate": "2026-11-02",
+      "versionDescription": "App icon fix.",
+      "size": 3697748,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TendieMaker.v1.0.9.ipa",
+      "versions": [
+        {
+          "version": "1.0.9",
+          "date": "2026-11-02",
+          "localizedDescription": "App icon fix.",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TendieMaker.v1.0.9.ipa",
+          "size": 3697748,
+          "sha256": "41ad5467138ac79cfe05400396f8258743f9434813e1409d3ea41361ab43ab8b",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Layers",
+      "bundleIdentifier": "com.mikevillarroel.layers",
+      "developerName": "MikeBuilds",
+      "subtitle": "Icon borders, dock tint and depth shadows in your wallpaper",
+      "localizedDescription": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen customization, no jailbreak. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/layers.png",
+      "tintColor": "7d5cff",
+      "category": "utilities",
+      "beta": false,
+      "screenshotURLs": [],
+      "version": "1.0.5",
+      "versionDate": "2026-11-02",
+      "versionDescription": "Effect presets (Soft/Medium/Strong pills for Depth shadow and 3D border); tighter 3D frame and smaller shadows.",
+      "size": 889664,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Layers.v1.0.5.ipa",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2026-11-02",
+          "localizedDescription": "Effect presets (Soft/Medium/Strong pills for Depth shadow and 3D border); tighter 3D frame and smaller shadows.",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Layers.v1.0.5.ipa",
+          "size": 889664,
+          "sha256": "d687a0e7d5aad0947a719427cdea3d45ebda938fe3d59918a68bd8359e4d49ad",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Layers saves your finished wallpaper to Photos so you can set it as your Home Screen wallpaper."
         }
       }
     },
@@ -30521,27 +30940,6 @@
       "version": "2.2.0",
       "versionDate": "2024-05-12",
       "versionDescription": "- updated elgato to v2.2.0\n- info: requested as a paid crack\n- repo at https://repo.yippee.rip"
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.kdt.livecontainer",
-      "developerName": "khanhduytran0",
-      "downloadURL": "https://github.com/khanhduytran0/LiveContainer/releases/download/2.1.2/com.kdt.livecontainer_2.1.2.ipa",
-      "iconURL": "https://cdn-icons-png.flaticon.com/512/9402/9402265.png",
-      "localizedDescription": "I need to clean this up, please do not use this | Join https://t.me/+rvcObIvOpctiMDI9 for more.\nmade by khanhduytran0, forked by me for building with latest commits.\nmore info at available at https://github.com/khanhduytran0/LiveContainer",
-      "name": "LiveContainer - BETA NOT MEANT FOR USE YET",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/6a/85/7a6a8588-7356-1115-6d71-7f3def193b3a/7e89a17b-4877-472f-95f3-694256bc431d_01.png/460x0w.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1c/13/90/1c1390a8-43cb-189a-cef2-a0c0316177dc/62774966-e639-4894-8406-78f4ce2d9361_02.png/460x0w.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/4b/9f/884b9f50-3bd8-fd21-6a64-e4cae55aee56/670398e4-45a2-4e4c-945c-3a3979fc67bb_03.png/460x0w.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a8/39/fa/a839fa1e-b7b8-a9c0-c3e1-8f8e8ea6003a/9947e1f6-6204-4dd2-8cbd-73ac50df2b13_04.png/460x0w.png"
-      ],
-      "size": 91750400,
-      "subtitle": "Run iOS apps without actually installing them! More info:- https://github.com/khanhduytran0/LiveContainer | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "b3b3b3",
-      "version": "2.1.2",
-      "versionDate": "2024-08-15",
-      "versionDescription": "- Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n- When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer."
     }
   ],
   "userInfo": {}

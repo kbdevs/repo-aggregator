@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "SHRED",
+      "type": 1,
+      "bundleID": "com.shred.shredlabs",
+      "bundleIdentifier": "com.shred.shredlabs",
+      "version": "5.5.6",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024061427",
+      "size": 104181146,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/SHRED_5.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/SHRED_5.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png"
+    },
+    {
+      "name": "Paste",
+      "type": 1,
+      "bundleID": "com.wiheads.paste",
+      "bundleIdentifier": "com.wiheads.paste",
+      "version": "7.0.4",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024051814",
+      "size": 128632820,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Paste_7.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Paste_7.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png"
+    },
+    {
       "name": "NotePlan",
       "type": 1,
       "bundleID": "co.noteplan.NotePlan3",
@@ -100,22 +132,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png"
     },
     {
-      "name": "iScreen",
-      "type": 1,
-      "bundleID": "com.zerone.hidesktop",
-      "bundleIdentifier": "com.zerone.hidesktop",
-      "version": "5.1.21",
-      "versionDate": "2026-10-23",
-      "fullDate": "20261023201206",
-      "size": 371477553,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/iScreen_5.1.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/iScreen_5.1.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
-    },
-    {
       "name": "ScannerPro",
       "type": 1,
       "bundleID": "com.readdle.Scanner",
@@ -162,22 +178,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png"
-    },
-    {
-      "name": "wpsoffice",
-      "type": 1,
-      "bundleID": "com.kingsoft.office.g.wpsoffice",
-      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
-      "version": "26.10.1",
-      "versionDate": "2026-10-23",
-      "fullDate": "20261023075138",
-      "size": 325832315,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/wpsoffice_26.10.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/wpsoffice_26.10.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png"
     },
     {
       "name": "Documents",
@@ -802,22 +802,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png"
-    },
-    {
-      "name": "Shapeyard",
-      "type": 1,
-      "bundleID": "app.chudo",
-      "bundleIdentifier": "app.chudo",
-      "version": "5.33",
-      "versionDate": "2026-10-21",
-      "fullDate": "20261021175810",
-      "size": 87722587,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Shapeyard_5.33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Shapeyard_5.33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png"
     },
     {
       "name": "RunGo",
@@ -1986,6 +1970,38 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png"
+    },
+    {
+      "name": "Speedometer",
+      "type": 1,
+      "bundleID": "com.jps.gpspeedhud",
+      "bundleIdentifier": "com.jps.gpspeedhud",
+      "version": "9.1.3",
+      "versionDate": "2026-09-06",
+      "fullDate": "20260906144123",
+      "size": 41900507,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2026/Speedometer_9.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2026/Speedometer_9.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jps.gpspeedhud.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jps.gpspeedhud.png"
+    },
+    {
+      "name": "PhotoSync",
+      "type": 1,
+      "bundleID": "com.touchbyte.PhotoSync",
+      "bundleIdentifier": "com.touchbyte.PhotoSync",
+      "version": "4.10",
+      "versionDate": "2026-09-04",
+      "fullDate": "20260904203011",
+      "size": 37279725,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/PhotoSync_4.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/PhotoSync_4.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png"
     }
   ],
   "userInfo": {}
