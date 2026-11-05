@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Pennies",
+      "type": 1,
+      "bundleID": "com.magneticzero.pennies",
+      "bundleIdentifier": "com.magneticzero.pennies",
+      "version": "6.4.12",
+      "versionDate": "2025-12-16",
+      "fullDate": "20251216172326",
+      "size": 42885999,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Pennies_6.4.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Pennies_6.4.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magneticzero.pennies.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magneticzero.pennies.png"
+    },
+    {
       "name": "Soundscape",
       "type": 1,
       "bundleID": "com.soundscape.music",
@@ -1986,22 +2002,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png"
-    },
-    {
-      "name": "Quizlet",
-      "type": 1,
-      "bundleID": "com.quizlet.quizlet",
-      "bundleIdentifier": "com.quizlet.quizlet",
-      "version": "10.2",
-      "versionDate": "2025-08-28",
-      "fullDate": "20250828120428",
-      "size": 62979035,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Plus",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
     }
   ],
   "userInfo": {}

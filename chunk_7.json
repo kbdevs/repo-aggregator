@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_7.json",
   "apps": [
     {
+      "name": "Quizlet",
+      "type": 1,
+      "bundleID": "com.quizlet.quizlet",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "10.2",
+      "versionDate": "2025-08-28",
+      "fullDate": "20250828120428",
+      "size": 62979035,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
+    },
+    {
       "name": "KitariaFables",
       "type": 2,
       "bundleID": "com.crunchyroll.gv.kitariafables",
@@ -2765,32 +2781,6 @@
       "developer_url": "https://appstore.sidelix.vip/developer/11",
       "tags": [
         "Tweaked Game"
-      ]
-    },
-    {
-      "name": "The Architect (Hacked)",
-      "type": 1,
-      "bundleID": "com.adamsmaka.aivoicejournal",
-      "bundleIdentifier": "com.adamsmaka.aivoicejournal",
-      "version": "1.0.15",
-      "versionDate": "2026-08-08",
-      "fullDate": "20260808070058",
-      "size": 55000719,
-      "down": "https://appstore.sidelix.vip/download-repo-source/2368",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2368",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2604",
-      "appstore_download_count": 126,
-      "developerName": "sidelix",
-      "localizedDescription": "Pro Unlocked",
-      "icon": "https://appstore.sidelix.vip/images/ritfy_6a76d40393b7c.jpg",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a76d40393b7c.jpg",
-      "requires_trollstore": false,
-      "requires_jailbreak": false,
-      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
-      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
-      "developer_url": "https://appstore.sidelix.vip/developer/11",
-      "tags": [
-        "Tweaked App"
       ]
     }
   ],
