@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "FitNotes",
+      "type": 1,
+      "bundleID": "xyz.gingertech.fitnotes",
+      "bundleIdentifier": "xyz.gingertech.fitnotes",
+      "version": "18",
+      "versionDate": "2026-09-09",
+      "fullDate": "20260909070426",
+      "size": 12169220,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/FitNotes_18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/FitNotes_18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png"
+    },
+    {
+      "name": "FilmicPro",
+      "type": 1,
+      "bundleID": "com.cinegenix.filmic.pro",
+      "bundleIdentifier": "com.cinegenix.filmic.pro",
+      "version": "7.5.35",
+      "versionDate": "2026-09-08",
+      "fullDate": "20260908210552",
+      "size": 147305157,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/FilmicPro_7.5.35_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/FilmicPro_7.5.35_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png"
+    },
+    {
       "name": "ProFit",
       "type": 1,
       "bundleID": "com.maxty.gofitness",
@@ -676,22 +708,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png"
     },
     {
-      "name": "BlitzerdePRO",
-      "type": 1,
-      "bundleID": "com.eifrig.blitzerdepro",
-      "bundleIdentifier": "com.eifrig.blitzerdepro",
-      "version": "400.3.3",
-      "versionDate": "2026-07-02",
-      "fullDate": "20260702114208",
-      "size": 50237736,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/BlitzerdePRO_400.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/BlitzerdePRO_400.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png"
-    },
-    {
       "name": "Persona",
       "type": 1,
       "bundleID": "com.tickettothemoon.video.persona",
@@ -754,22 +770,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damienelledge.Dual-Shot-Camera.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damienelledge.Dual-Shot-Camera.png"
-    },
-    {
-      "name": "CarScanner",
-      "type": 1,
-      "bundleID": "ovz.Car-Scanner",
-      "bundleIdentifier": "ovz.Car-Scanner",
-      "version": "2.1.46",
-      "versionDate": "2026-07-01",
-      "fullDate": "20260701115755",
-      "size": 70167983,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/CarScanner_2.1.46_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/CarScanner_2.1.46_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png"
     },
     {
       "name": "KegelExercises",
