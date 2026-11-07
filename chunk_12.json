@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
+      "name": "MatterPremium",
+      "bundleIdentifier": "com.Matter.MatterApp",
+      "version": "3.1.4",
+      "versionDate": "2024-10-09",
+      "size": 83875186,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
+    },
+    {
       "name": "Mangayomi",
       "bundleIdentifier": "com.kodjodevf.mangayomi",
       "version": "0.1.0",
@@ -1003,12 +1014,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "11056",
-          "marketingVersion": "3.4.0-alpha.20261106.01eadd7",
-          "date": "2026-11-06",
-          "localizedDescription": "Alpha build 01eadd7 \u00b7 2026-11-06\n\nChanges in this build:\n\u2022 fix mednafen warnings\n\u2022 dolphin bump\n\u2022 update dolphin core\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "11065",
+          "marketingVersion": "3.4.0-alpha.20261107.db21dd4",
+          "date": "2026-11-07",
+          "localizedDescription": "Alpha build db21dd4 \u00b7 2026-11-07\n\nChanges in this build:\n\u2022 chore: bump SkinKit to 0.3.0 (#3804)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 781205173,
+          "size": 781386826,
           "minOSVersion": "17.0"
         }
       ],
@@ -1054,6 +1065,94 @@
         "https://ifly-emu.com/screenshots/iphone/import.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1793945919",
+          "buildVersion": "1793945919",
+          "date": "2026-11-06",
+          "localizedDescription": "iFly 1.0.0 (build 1793945919) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793945919/iFly-1.0.0-1793945919.ipa",
+          "size": 133391554,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793945272",
+          "buildVersion": "1793945272",
+          "date": "2026-11-06",
+          "localizedDescription": "iFly 1.0.0 (build 1793945272) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793945272/iFly-1.0.0-1793945272.ipa",
+          "size": 133391543,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793941915",
+          "buildVersion": "1793941915",
+          "date": "2026-11-06",
+          "localizedDescription": "iFly 1.0.0 (build 1793941915) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793941915/iFly-1.0.0-1793941915.ipa",
+          "size": 133391196,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793935432",
+          "buildVersion": "1793935432",
+          "date": "2026-11-06",
+          "localizedDescription": "iFly 1.0.0 (build 1793935432) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793935432/iFly-1.0.0-1793935432.ipa",
+          "size": 133390868,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793934423",
+          "buildVersion": "1793934423",
+          "date": "2026-11-06",
+          "localizedDescription": "iFly 1.0.0 (build 1793934423) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793934423/iFly-1.0.0-1793934423.ipa",
+          "size": 133390882,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793927244",
+          "buildVersion": "1793927244",
+          "date": "2026-11-06",
+          "localizedDescription": "iFly 1.0.0 (build 1793927244) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793927244/iFly-1.0.0-1793927244.ipa",
+          "size": 133385161,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793925418",
+          "buildVersion": "1793925418",
+          "date": "2026-11-06",
+          "localizedDescription": "iFly 1.0.0 (build 1793925418) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793925418/iFly-1.0.0-1793925418.ipa",
+          "size": 133383757,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793924199",
+          "buildVersion": "1793924199",
+          "date": "2026-11-06",
+          "localizedDescription": "iFly 1.0.0 (build 1793924199) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793924199/iFly-1.0.0-1793924199.ipa",
+          "size": 133320077,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1793769586",
           "buildVersion": "1793769586",
@@ -3811,12 +3910,20 @@
       "category": "utilities",
       "beta": false,
       "screenshotURLs": [],
-      "version": "2.1.5",
-      "versionDate": "2026-11-05",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.5",
-      "size": 15597885,
-      "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.5/BuildBox-2.1.5.ipa",
+      "version": "2.1.6",
+      "versionDate": "2026-11-06",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.6",
+      "size": 15597600,
+      "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
       "versions": [
+        {
+          "version": "2.1.6",
+          "date": "2026-11-06",
+          "localizedDescription": "\u2022 BuildBox updated to v2.1.6",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
+          "size": 15597600,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "2.1.5",
           "date": "2026-11-05",
