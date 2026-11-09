@@ -870,6 +870,134 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "RiseSleep",
+      "type": 1,
+      "bundleID": "com.risesci.nyx",
+      "bundleIdentifier": "com.risesci.nyx",
+      "version": "0.1.648",
+      "versionDate": "2026-11-09",
+      "fullDate": "20261109051846",
+      "size": 134168488,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/RiseSleep_0.1.648_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/RiseSleep_0.1.648_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+    },
+    {
+      "name": "fGet",
+      "type": 1,
+      "bundleID": "com.penguinbit.fastdownload",
+      "bundleIdentifier": "com.penguinbit.fastdownload",
+      "version": "1.7.4",
+      "versionDate": "2026-11-09",
+      "fullDate": "20261109045744",
+      "size": 19842502,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/fGet_1.7.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/fGet_1.7.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png"
+    },
+    {
+      "name": "Mockup",
+      "type": 1,
+      "bundleID": "com.hasankassem.mockup",
+      "bundleIdentifier": "com.hasankassem.mockup",
+      "version": "4.6.2",
+      "versionDate": "2026-11-09",
+      "fullDate": "20261109042133",
+      "size": 52252431,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Mockup_4.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Mockup_4.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png"
+    },
+    {
+      "name": "Moovit",
+      "type": 1,
+      "bundleID": "com.tranzmate.tranzmate1",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "version": "5.204.0",
+      "versionDate": "2026-11-08",
+      "fullDate": "20261108213830",
+      "size": 150848297,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Moovit_5.204.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Moovit_5.204.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png"
+    },
+    {
+      "name": "Facetune",
+      "type": 1,
+      "bundleID": "com.lightricks.Facetune2",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "version": "26.37",
+      "versionDate": "2026-11-08",
+      "fullDate": "20261108183114",
+      "size": 388905229,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Facetune_26.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Facetune_26.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png"
+    },
+    {
+      "name": "Busuu",
+      "type": 1,
+      "bundleID": "com.busuu.english.app",
+      "bundleIdentifier": "com.busuu.english.app",
+      "version": "30.33.0",
+      "versionDate": "2026-11-08",
+      "fullDate": "20261108172753",
+      "size": 194356891,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Busuu_30.33.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Busuu_30.33.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
+    },
+    {
+      "name": "Bazaart",
+      "type": 1,
+      "bundleID": "co.bazaart.app",
+      "bundleIdentifier": "co.bazaart.app",
+      "version": "27.0.7",
+      "versionDate": "2026-11-08",
+      "fullDate": "20261108133054",
+      "size": 115736839,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Bazaart_27.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Bazaart_27.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
+    },
+    {
+      "name": "SimplyPiano",
+      "type": 1,
+      "bundleID": "com.joytunes.asla",
+      "bundleIdentifier": "com.joytunes.asla",
+      "version": "9.11.3",
+      "versionDate": "2026-11-08",
+      "fullDate": "20261108115923",
+      "size": 155548362,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/SimplyPiano_9.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/SimplyPiano_9.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+    },
+    {
       "name": "CalculatorAir",
       "type": 1,
       "bundleID": "com.CalculatorForiPad.InternetRocks",
@@ -996,22 +1124,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
-    },
-    {
-      "name": "",
-      "type": 1,
-      "bundleID": "tech.miidii.MDBlank",
-      "bundleIdentifier": "tech.miidii.MDBlank",
-      "version": "4.3.7",
-      "versionDate": "2026-11-07",
-      "fullDate": "20261107065448",
-      "size": 245259265,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/_4.3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/_4.3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png"
     },
     {
       "name": "PeakVisor",
@@ -1430,22 +1542,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png"
     },
     {
-      "name": "RiseSleep",
-      "type": 1,
-      "bundleID": "com.risesci.nyx",
-      "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.647",
-      "versionDate": "2026-11-05",
-      "fullDate": "20261105215115",
-      "size": 133420574,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/RiseSleep_0.1.647_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/RiseSleep_0.1.647_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
-    },
-    {
       "name": "swipewipe",
       "type": 1,
       "bundleID": "com.aoklab.fewerphotos",
@@ -1556,6 +1652,22 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png"
+    },
+    {
+      "name": "",
+      "type": 1,
+      "bundleID": "com.madarsoft.fitness",
+      "bundleIdentifier": "com.madarsoft.fitness",
+      "version": "20.0",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105141434",
+      "size": 263988651,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/_20.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/_20.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
     },
     {
       "name": "SimplyDraw",
@@ -1748,22 +1860,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png"
-    },
-    {
-      "name": "SimplyPiano",
-      "type": 1,
-      "bundleID": "com.joytunes.asla",
-      "bundleIdentifier": "com.joytunes.asla",
-      "version": "9.11.2",
-      "versionDate": "2026-11-05",
-      "fullDate": "20261105070851",
-      "size": 180890162,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyPiano_9.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyPiano_9.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
     },
     {
       "name": "Paste",
@@ -2022,22 +2118,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png"
     },
     {
-      "name": "Busuu",
-      "type": 1,
-      "bundleID": "com.busuu.english.app",
-      "bundleIdentifier": "com.busuu.english.app",
-      "version": "30.32.0",
-      "versionDate": "2026-11-04",
-      "fullDate": "20261104051209",
-      "size": 194912261,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Busuu_30.32.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Busuu_30.32.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
-    },
-    {
       "name": "LUTStudio",
       "type": 1,
       "bundleID": "com.solveit.lut-studio",
@@ -2262,22 +2342,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icandiapps.nightsky.png"
     },
     {
-      "name": "fGet",
-      "type": 1,
-      "bundleID": "com.penguinbit.fastdownload",
-      "bundleIdentifier": "com.penguinbit.fastdownload",
-      "version": "1.7.3",
-      "versionDate": "2026-11-03",
-      "fullDate": "20261103012008",
-      "size": 19838264,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/fGet_1.7.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/fGet_1.7.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png"
-    },
-    {
       "name": "Rest",
       "type": 1,
       "bundleID": "com.evolve.helm",
@@ -2372,22 +2436,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png"
-    },
-    {
-      "name": "Facetune",
-      "type": 1,
-      "bundleID": "com.lightricks.Facetune2",
-      "bundleIdentifier": "com.lightricks.Facetune2",
-      "version": "26.36",
-      "versionDate": "2026-11-02",
-      "fullDate": "20261102165226",
-      "size": 377843814,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Facetune_26.36_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Facetune_26.36_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png"
     },
     {
       "name": "SCRL",
@@ -2532,22 +2580,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png"
-    },
-    {
-      "name": "Moovit",
-      "type": 1,
-      "bundleID": "com.tranzmate.tranzmate1",
-      "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "version": "5.202.3",
-      "versionDate": "2026-11-02",
-      "fullDate": "20261102133435",
-      "size": 151085458,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Moovit_5.202.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Moovit_5.202.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png"
     },
     {
       "name": "Stndrd",
@@ -3350,22 +3382,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png"
     },
     {
-      "name": "Bazaart",
-      "type": 1,
-      "bundleID": "co.bazaart.app",
-      "bundleIdentifier": "co.bazaart.app",
-      "version": "27.0.6",
-      "versionDate": "2026-10-25",
-      "fullDate": "20261025140845",
-      "size": 122010545,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Bazaart_27.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Bazaart_27.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
-    },
-    {
       "name": "StressWatch",
       "type": 1,
       "bundleID": "com.ideation.Stress",
@@ -4020,22 +4036,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png"
-    },
-    {
-      "name": "Mockup",
-      "type": 1,
-      "bundleID": "com.hasankassem.mockup",
-      "bundleIdentifier": "com.hasankassem.mockup",
-      "version": "4.6",
-      "versionDate": "2026-10-21",
-      "fullDate": "20261021174543",
-      "size": 52159777,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Mockup_4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Mockup_4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png"
     },
     {
       "name": "Mercury",
@@ -24002,32 +24002,6 @@
       ]
     },
     {
-      "name": "RashaqaWorkout",
-      "type": 1,
-      "bundleID": "com.madarsoft.fitness",
-      "bundleIdentifier": "com.madarsoft.fitness",
-      "version": "15.4",
-      "versionDate": "2025-10-25",
-      "fullDate": "20251025042736",
-      "size": 359599027,
-      "down": "https://appstore.sidelix.vip/download-repo-source/1681",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1681",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1983",
-      "appstore_download_count": 278,
-      "developerName": "Holloway",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://appstore.sidelix.vip/images/1761380500.png",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380500.png",
-      "requires_trollstore": false,
-      "requires_jailbreak": false,
-      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
-      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
-      "developer_url": "https://appstore.sidelix.vip/developer/13",
-      "tags": [
-        "Tweaked App"
-      ]
-    },
-    {
       "name": "AndalusiDesign",
       "type": 1,
       "bundleID": "com.AppChief.ArabicArt",
@@ -28047,12 +28021,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "11065",
-          "marketingVersion": "3.4.0-alpha.20261107.db21dd4",
-          "date": "2026-11-07",
-          "localizedDescription": "Alpha build db21dd4 \u00b7 2026-11-07\n\nChanges in this build:\n\u2022 chore: bump SkinKit to 0.3.0 (#3804)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "11075",
+          "marketingVersion": "3.4.0-alpha.20261109.f009aad",
+          "date": "2026-11-09",
+          "localizedDescription": "Alpha build f009aad \u00b7 2026-11-09\n\nChanges in this build:\n\u2022 fix: await Realm opening after content server import\n\u2022 feat: add opt-in content server game browsing and playback\n\u2022 fix(maint): commit unattended, without submodule pointers\n\u2022 fix(skins): default to built-in controls and apply explicit resets\n\u2022 MetalAPIValidationSettings\n\u2022 chore(ci): declare least-privilege workflow token permissions (#3806)\n\u2022 Point the iCube submodule at develop\n\u2022 fix(ci): keep uploaded local dylibs instead of a cached copy\n\u2022 fix(webserver): follow the ecosystem port map, report the bound port, recover from dead listeners (#3805)\n\u2022 bump dolphin\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 781386826,
+          "size": 782884748,
           "minOSVersion": "17.0"
         }
       ],
@@ -28098,6 +28072,72 @@
         "https://ifly-emu.com/screenshots/iphone/import.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1794113466",
+          "buildVersion": "1794113466",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794113466) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794113466/iFly-1.0.0-1794113466.ipa",
+          "size": 134524240,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794111910",
+          "buildVersion": "1794111910",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794111910) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794111910/iFly-1.0.0-1794111910.ipa",
+          "size": 134524334,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794111174",
+          "buildVersion": "1794111174",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794111174) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794111174/iFly-1.0.0-1794111174.ipa",
+          "size": 134509992,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794109333",
+          "buildVersion": "1794109333",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794109333) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794109333/iFly-1.0.0-1794109333.ipa",
+          "size": 134508760,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794105845",
+          "buildVersion": "1794105845",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794105845) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794105845/iFly-1.0.0-1794105845.ipa",
+          "size": 134508624,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794103491",
+          "buildVersion": "1794103491",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794103491) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794103491/iFly-1.0.0-1794103491.ipa",
+          "size": 134506898,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1794078934",
           "buildVersion": "1794078934",
@@ -28606,11 +28646,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "463",
-          "date": "2026-11-07T06:37:08.460Z",
+          "buildVersion": "470",
+          "date": "2026-11-09T03:55:04.599Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-463/Non-Jailbroken.ipa",
-          "size": 104595971,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-470/Non-Jailbroken.ipa",
+          "size": 104861596,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -28618,7 +28658,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-11-07",
+          "date": "2026-11-09",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -28630,7 +28670,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-11-07",
+          "date": "2026-11-09",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -28642,7 +28682,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-11-07",
+          "date": "2026-11-09",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,

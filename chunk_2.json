@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_2.json",
   "apps": [
     {
+      "name": "NoFusion",
+      "type": 1,
+      "bundleID": "com.grey.swiftcamera",
+      "bundleIdentifier": "com.grey.swiftcamera",
+      "version": "2.5.61",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031104041",
+      "size": 117431260,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/NoFusion_2.5.61_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/NoFusion_2.5.61_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png"
+    },
+    {
+      "name": "LEMOFM",
+      "type": 1,
+      "bundleID": "com.LEMO.LemoFM",
+      "bundleIdentifier": "com.LEMO.LemoFM",
+      "version": "2.4.0",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031084901",
+      "size": 112340731,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/LEMOFM_2.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/LEMOFM_2.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png"
+    },
+    {
       "name": "Tachimanga",
       "type": 1,
       "bundleID": "com.mangacrush.ios",
@@ -610,22 +642,6 @@
       "localizedDescription": "Injected with Glow",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png"
-    },
-    {
-      "name": "Bazaart",
-      "type": 1,
-      "bundleID": "co.bazaart.app",
-      "bundleIdentifier": "co.bazaart.app",
-      "version": "27.0.6",
-      "versionDate": "2026-10-25",
-      "fullDate": "20261025140845",
-      "size": 122010545,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Bazaart_27.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Bazaart_27.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
     },
     {
       "name": "StressWatch",
@@ -1282,22 +1298,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png"
-    },
-    {
-      "name": "Mockup",
-      "type": 1,
-      "bundleID": "com.hasankassem.mockup",
-      "bundleIdentifier": "com.hasankassem.mockup",
-      "version": "4.6",
-      "versionDate": "2026-10-21",
-      "fullDate": "20261021174543",
-      "size": 52159777,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Mockup_4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Mockup_4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png"
     },
     {
       "name": "Mercury",

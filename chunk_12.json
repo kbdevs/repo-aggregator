@@ -4,17 +4,6 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_12.json",
   "apps": [
     {
-      "name": "MatterPremium",
-      "bundleIdentifier": "com.Matter.MatterApp",
-      "version": "3.1.4",
-      "versionDate": "2024-10-09",
-      "size": 83875186,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.1.4.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
-    },
-    {
       "name": "Mangayomi",
       "bundleIdentifier": "com.kodjodevf.mangayomi",
       "version": "0.1.0",
@@ -1014,12 +1003,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "11065",
-          "marketingVersion": "3.4.0-alpha.20261107.db21dd4",
-          "date": "2026-11-07",
-          "localizedDescription": "Alpha build db21dd4 \u00b7 2026-11-07\n\nChanges in this build:\n\u2022 chore: bump SkinKit to 0.3.0 (#3804)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "11075",
+          "marketingVersion": "3.4.0-alpha.20261109.f009aad",
+          "date": "2026-11-09",
+          "localizedDescription": "Alpha build f009aad \u00b7 2026-11-09\n\nChanges in this build:\n\u2022 fix: await Realm opening after content server import\n\u2022 feat: add opt-in content server game browsing and playback\n\u2022 fix(maint): commit unattended, without submodule pointers\n\u2022 fix(skins): default to built-in controls and apply explicit resets\n\u2022 MetalAPIValidationSettings\n\u2022 chore(ci): declare least-privilege workflow token permissions (#3806)\n\u2022 Point the iCube submodule at develop\n\u2022 fix(ci): keep uploaded local dylibs instead of a cached copy\n\u2022 fix(webserver): follow the ecosystem port map, report the bound port, recover from dead listeners (#3805)\n\u2022 bump dolphin\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 781386826,
+          "size": 782884748,
           "minOSVersion": "17.0"
         }
       ],
@@ -1065,6 +1054,72 @@
         "https://ifly-emu.com/screenshots/iphone/import.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1794113466",
+          "buildVersion": "1794113466",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794113466) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794113466/iFly-1.0.0-1794113466.ipa",
+          "size": 134524240,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794111910",
+          "buildVersion": "1794111910",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794111910) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794111910/iFly-1.0.0-1794111910.ipa",
+          "size": 134524334,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794111174",
+          "buildVersion": "1794111174",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794111174) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794111174/iFly-1.0.0-1794111174.ipa",
+          "size": 134509992,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794109333",
+          "buildVersion": "1794109333",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794109333) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794109333/iFly-1.0.0-1794109333.ipa",
+          "size": 134508760,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794105845",
+          "buildVersion": "1794105845",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794105845) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794105845/iFly-1.0.0-1794105845.ipa",
+          "size": 134508624,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794103491",
+          "buildVersion": "1794103491",
+          "date": "2026-11-08",
+          "localizedDescription": "iFly 1.0.0 (build 1794103491) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794103491/iFly-1.0.0-1794103491.ipa",
+          "size": 134506898,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1794078934",
           "buildVersion": "1794078934",
@@ -1573,11 +1628,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "463",
-          "date": "2026-11-07T06:37:08.460Z",
+          "buildVersion": "470",
+          "date": "2026-11-09T03:55:04.599Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-463/Non-Jailbroken.ipa",
-          "size": 104595971,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-470/Non-Jailbroken.ipa",
+          "size": 104861596,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -1585,7 +1640,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-11-07",
+          "date": "2026-11-09",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -1597,7 +1652,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-11-07",
+          "date": "2026-11-09",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -1609,7 +1664,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-11-07",
+          "date": "2026-11-09",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,
