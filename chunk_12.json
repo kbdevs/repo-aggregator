@@ -901,6 +901,165 @@
       "size": 17963367
     },
     {
+      "name": "Angel Aura Amethyst",
+      "bundleIdentifier": "org.angelauramc.amethyst",
+      "developerName": "AngelAuraMC",
+      "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
+      "localizedDescription": "THESE BUILDS WILL NOT AUTOMATICALLY UPDATE AND YOU WILL NOT RECEIVE ANY NOTIFICATIONS FOR SUCH (at least, right now. I'm working on it.). Angel Aura Amethyst is a Minecraft: Java Edition launcher for iOS based on the PojavLauncher project.\n\n\u2022 Play most versions of Minecraft, from the very first beta to the latest snapshots.\n\u2022 Customize with mods, resource packs, and compatible shaders\n\u2022 Create multiple instances of Minecraft for multiple versions\n\u2022 Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\n\u2022 Play online with full Java Edition servers\n...and so much more!\n\nNotice: Amethyst requires JIT to function correctly. This application automatically enables JIT with AltServer, TrollStore, or when jailbroken, however other methods can be used if required.",
+      "iconURL": "https://raw.githubusercontent.com/AngelAuraMC/Amethyst-iOS/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/1024x1024.png",
+      "tintColor": "#9649B8",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
+            "width": 2796,
+            "height": 1290
+          },
+          {
+            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
+            "width": 2796,
+            "height": 1290
+          },
+          {
+            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
+            "width": 2796,
+            "height": 1290
+          },
+          {
+            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG",
+            "width": 2796,
+            "height": 1290
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
+            "width": 2796,
+            "height": 1290
+          },
+          {
+            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
+            "width": 2796,
+            "height": 1290
+          },
+          {
+            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
+            "width": 2796,
+            "height": 1290
+          },
+          {
+            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG",
+            "width": 2796,
+            "height": 1290
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0.f98c413",
+          "date": "2026-10-05T23:09:23.655791+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"f98c413\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/f98c413/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 191479328,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.9212a18",
+          "date": "2026-08-10T13:21:40.589103+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"9212a18\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/9212a18/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 191478253,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.64c5c9c",
+          "date": "2026-07-27T22:13:05.708376+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"64c5c9c\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/64c5c9c/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 191478154,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.325144b",
+          "date": "2026-07-27T21:56:33.566039+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"325144b\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/325144b/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150353804,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.00678b0",
+          "date": "2026-04-12T14:23:01.984108+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"00678b0\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/00678b0/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150348697,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.ed267f5",
+          "date": "2026-04-11T00:08:28.188993+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"ed267f5\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/ed267f5/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150348650,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.ba4a002",
+          "date": "2026-03-15T05:22:01.984176+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"ba4a002\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/ba4a002/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150357372,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0-287e821",
+          "date": "2026-03-07T03:23:43.773901+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"287e821\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/287e821/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150357328,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0-e49c3fa",
+          "date": "2026-03-07T02:54:16.444233+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"e49c3fa\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/e49c3fa/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150357349,
+          "beta": true,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.private.security.container-required",
+          "com.apple.private.mobileinstall.upgrade-enabled",
+          "com.apple.private.security.no-sandbox",
+          "com.apple.private.security.storage.AppDataContainers",
+          "com.apple.private.security.storage.MobileDocuments",
+          "com.apple.security.iokit-user-client-class",
+          "platform-application",
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.private.memorystatus",
+          "local.sandboxed-jit"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Amethyst uses the microphone to enable support for voice chat mods.",
+          "NSLocalNetworkUsageDescription": "Amethyst uses the local network to find and communicate with AltServer and LAN servers."
+        }
+      }
+    },
+    {
       "name": "Provenance",
       "bundleIdentifier": "com.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
@@ -1003,12 +1162,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "11075",
-          "marketingVersion": "3.4.0-alpha.20261109.f009aad",
-          "date": "2026-11-09",
-          "localizedDescription": "Alpha build f009aad \u00b7 2026-11-09\n\nChanges in this build:\n\u2022 fix: await Realm opening after content server import\n\u2022 feat: add opt-in content server game browsing and playback\n\u2022 fix(maint): commit unattended, without submodule pointers\n\u2022 fix(skins): default to built-in controls and apply explicit resets\n\u2022 MetalAPIValidationSettings\n\u2022 chore(ci): declare least-privilege workflow token permissions (#3806)\n\u2022 Point the iCube submodule at develop\n\u2022 fix(ci): keep uploaded local dylibs instead of a cached copy\n\u2022 fix(webserver): follow the ecosystem port map, report the bound port, recover from dead listeners (#3805)\n\u2022 bump dolphin\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "11079",
+          "marketingVersion": "3.4.0-alpha.20261110.41efc43",
+          "date": "2026-11-10",
+          "localizedDescription": "Alpha build 41efc43 \u00b7 2026-11-10\n\nChanges in this build:\n\u2022 [Agent] feat: run the web server on the shared PVWebServer (#3807)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 782884748,
+          "size": 780934385,
           "minOSVersion": "17.0"
         }
       ],
@@ -1054,6 +1213,28 @@
         "https://ifly-emu.com/screenshots/iphone/import.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1794187576",
+          "buildVersion": "1794187576",
+          "date": "2026-11-09",
+          "localizedDescription": "iFly 1.0.0 (build 1794187576) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794187576/iFly-1.0.0-1794187576.ipa",
+          "size": 134555971,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794181823",
+          "buildVersion": "1794181823",
+          "date": "2026-11-09",
+          "localizedDescription": "iFly 1.0.0 (build 1794181823) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794181823/iFly-1.0.0-1794181823.ipa",
+          "size": 134555347,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1794113466",
           "buildVersion": "1794113466",
@@ -1628,11 +1809,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "470",
-          "date": "2026-11-09T03:55:04.599Z",
+          "buildVersion": "473",
+          "date": "2026-11-10T04:08:30.343Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-470/Non-Jailbroken.ipa",
-          "size": 104861596,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-473/Non-Jailbroken.ipa",
+          "size": 104944483,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -1640,7 +1821,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-11-09",
+          "date": "2026-11-10",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -1652,7 +1833,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-11-09",
+          "date": "2026-11-10",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -1664,7 +1845,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-11-09",
+          "date": "2026-11-10",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,
@@ -4162,27 +4343,6 @@
           "NSPhotoLibraryAddUsageDescription": "Layers saves your finished wallpaper to Photos so you can set it as your Home Screen wallpaper."
         }
       }
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.unofficial.balatro",
-      "developerName": "driftywinds",
-      "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
-      "localizedDescription": "When Poker Meets Solitaire \n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
-      "name": "Balatro",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/5b/18/825b18a7-a2bc-51c9-bf27-7b809ccc2825/c808e66d-63ea-48c8-8c8f-4b27fa42e7a5_Balatro_Screenshot_iOS_2796x1290_UK_01.png/1286x0w.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/04/5a/21045a23-5de5-56d4-1c63-f25f5fc3dd9b/ca6fb4fb-fa04-4c37-b490-be29bb29f2b2_Balatro_Screenshot_iOS_2796x1290_UK_02.png/1286x0w.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/d8/2d/d9d82deb-78d2-b668-e047-9b020406797d/7dba81a9-24eb-453f-b83c-314996d73407_Balatro_Screenshot_iOS_2796x1290_UK_03.png/1286x0w.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/c5/e4/ebc5e419-93e9-bab8-fd02-a85474130ae7/d4077610-3c78-4f0a-a3db-b136f2228fc6_Balatro_Screenshot_iOS_2796x1290_UK_04b.png/1286x0w.png"
-      ],
-      "size": 91750400,
-      "subtitle": "The best rogue-like card game! | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "6b06c9",
-      "version": "1.0.1o",
-      "versionDate": "2025-02-26",
-      "versionDescription": "Hypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\nYour goal is to beat the Boss Blinds by making strong poker hands."
     },
     {
       "beta": false,
