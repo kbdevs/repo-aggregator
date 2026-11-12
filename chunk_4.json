@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_4.json",
   "apps": [
     {
+      "name": "Motobit",
+      "type": 1,
+      "bundleID": "com.getmotobit.motobit",
+      "bundleIdentifier": "com.getmotobit.motobit",
+      "version": "1.0.66",
+      "versionDate": "2026-05-19",
+      "fullDate": "20260519041000",
+      "size": 39997510,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Motobit_1.0.66_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/Motobit_1.0.66_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png"
+    },
+    {
       "name": "MagicEraser",
       "type": 1,
       "bundleID": "com.hhp.magicEraser",
@@ -1234,22 +1250,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png"
-    },
-    {
-      "name": "Pixomatic",
-      "type": 1,
-      "bundleID": "us.pixomaticpro.PixomaticPro",
-      "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
-      "version": "2.55.36",
-      "versionDate": "2026-03-30",
-      "fullDate": "20260330031809",
-      "size": 175038117,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-03-2026/Pixomatic_2.55.36_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-03-2026/Pixomatic_2.55.36_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png"
     },
     {
       "name": "FRZYSPORT",
