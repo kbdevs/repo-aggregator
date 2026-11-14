@@ -870,6 +870,38 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
+      "name": "Shapr3D",
+      "type": 1,
+      "bundleID": "com.shapr3d.shapr",
+      "bundleIdentifier": "com.shapr3d.shapr",
+      "version": "26.200.0",
+      "versionDate": "2026-11-13",
+      "fullDate": "20261113200923",
+      "size": 1321635266,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png"
+    },
+    {
+      "name": "Most",
+      "type": 1,
+      "bundleID": "com.most.stories",
+      "bundleIdentifier": "com.most.stories",
+      "version": "3.5.9",
+      "versionDate": "2026-11-13",
+      "fullDate": "20261113105828",
+      "size": 235263620,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Most_3.5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Most_3.5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png"
+    },
+    {
       "name": "iScreen",
       "type": 1,
       "bundleID": "com.zerone.hidesktop",
@@ -3494,22 +3526,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png"
     },
     {
-      "name": "Most",
-      "type": 1,
-      "bundleID": "com.most.stories",
-      "bundleIdentifier": "com.most.stories",
-      "version": "3.5.8",
-      "versionDate": "2026-10-28",
-      "fullDate": "20261028230437",
-      "size": 235251643,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Most_3.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Most_3.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png"
-    },
-    {
       "name": "simpleweather",
       "type": 1,
       "bundleID": "com.andyworks.weather",
@@ -5060,22 +5076,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png"
-    },
-    {
-      "name": "Shapr3D",
-      "type": 1,
-      "bundleID": "com.shapr3d.shapr",
-      "bundleIdentifier": "com.shapr3d.shapr",
-      "version": "26.150.0",
-      "versionDate": "2026-08-18",
-      "fullDate": "20260818124254",
-      "size": 1301742755,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Shapr3D_26.150.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Shapr3D_26.150.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png"
     },
     {
       "name": "Wordscapes",
@@ -28996,11 +28996,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "509",
-          "date": "2026-11-13T02:20:40.874Z",
+          "buildVersion": "514",
+          "date": "2026-11-13T05:43:32.297Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-509/Non-Jailbroken.ipa",
-          "size": 123849503,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-514/Non-Jailbroken.ipa",
+          "size": 123996636,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
