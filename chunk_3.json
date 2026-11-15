@@ -4,6 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "ColoringBook",
+      "type": 1,
+      "bundleID": "com.apalonapps.clrbook",
+      "bundleIdentifier": "com.apalonapps.clrbook",
+      "version": "1.5.8",
+      "versionDate": "2026-09-22",
+      "fullDate": "20260922044539",
+      "size": 180100483,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/ColoringBook_1.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/ColoringBook_1.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png"
+    },
+    {
+      "name": "Analogue",
+      "type": 1,
+      "bundleID": "Cristian-Teichner.Analogue",
+      "bundleIdentifier": "Cristian-Teichner.Analogue",
+      "version": "1.6.0",
+      "versionDate": "2026-09-20",
+      "fullDate": "20260920205614",
+      "size": 591313878,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Analogue_1.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Analogue_1.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png"
+    },
+    {
       "name": "Peachy",
       "type": 1,
       "bundleID": "com.camerasideas.Peachy",
@@ -212,22 +244,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png"
     },
     {
-      "name": "Stay",
-      "type": 1,
-      "bundleID": "com.dajiu.stay.pro",
-      "bundleIdentifier": "com.dajiu.stay.pro",
-      "version": "2.9.24",
-      "versionDate": "2026-08-31",
-      "fullDate": "20260831115908",
-      "size": 40138437,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Stay_2.9.24_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Stay_2.9.24_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png"
-    },
-    {
       "name": "CoinID",
       "type": 1,
       "bundleID": "com.aiby.wtcoin",
@@ -274,22 +290,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png"
-    },
-    {
-      "name": "VEEDLite",
-      "type": 1,
-      "bundleID": "io.veed.appstore",
-      "bundleIdentifier": "io.veed.appstore",
-      "version": "8.15.0",
-      "versionDate": "2026-08-24",
-      "fullDate": "20260824191007",
-      "size": 168280075,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/VEEDLite_8.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/VEEDLite_8.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png"
     },
     {
       "name": "YouCut",
