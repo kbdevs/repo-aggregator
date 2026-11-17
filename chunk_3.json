@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Labbet",
+      "type": 1,
+      "bundleID": "app.labbet.labbet",
+      "bundleIdentifier": "app.labbet.labbet",
+      "version": "2.69",
+      "versionDate": "2026-09-22",
+      "fullDate": "20260922205213",
+      "size": 82936911,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Labbet_2.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Labbet_2.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
+    },
+    {
       "name": "ColoringBook",
       "type": 1,
       "bundleID": "com.apalonapps.clrbook",
@@ -162,22 +178,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png"
-    },
-    {
-      "name": "SoundLab",
-      "type": 1,
-      "bundleID": "com.castpeer.audioroom.ios",
-      "bundleIdentifier": "com.castpeer.audioroom.ios",
-      "version": "2.11.6",
-      "versionDate": "2026-09-03",
-      "fullDate": "20260903220818",
-      "size": 143062024,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SoundLab_2.11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SoundLab_2.11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png"
     },
     {
       "name": "SwipeMix",
