@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_6.json",
   "apps": [
     {
+      "name": "Eden",
+      "type": 1,
+      "bundleID": "com.mfagency.nurture",
+      "bundleIdentifier": "com.mfagency.nurture",
+      "version": "5.1.8",
+      "versionDate": "2025-12-16",
+      "fullDate": "20251216174857",
+      "size": 141966739,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Eden_5.1.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Eden_5.1.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png"
+    },
+    {
       "name": "Pennies",
       "type": 1,
       "bundleID": "com.magneticzero.pennies",
@@ -1986,22 +2002,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.IpadWhatsapp.InternetRocks.png"
-    },
-    {
-      "name": "AIChatbot",
-      "type": 1,
-      "bundleID": "com.aichatbot.assistant",
-      "bundleIdentifier": "com.aichatbot.assistant",
-      "version": "2.31",
-      "versionDate": "2025-08-29",
-      "fullDate": "20250829235342",
-      "size": 105792663,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2025/AIChatbot_2.31_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2025/AIChatbot_2.31_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png"
     }
   ],
   "userInfo": {}
