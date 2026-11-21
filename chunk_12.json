@@ -1061,7 +1061,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "com.provenance-emu.provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
       "subtitle": "Multi-system retro emulator for iOS & tvOS",
       "localizedDescription": "Provenance supports 60+ retro gaming systems including NES, SNES, N64, Genesis, PlayStation, GBA, and many more. Features iCloud sync, controller skins, RetroAchievements, and a beautiful native UI.",
@@ -1152,7 +1152,7 @@
     },
     {
       "name": "Provenance Alpha",
-      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
+      "bundleIdentifier": "org.provenance-emu.provenance.alpha",
       "developerName": "Provenance-EMU",
       "subtitle": "Latest dev builds - test new features early",
       "localizedDescription": "Alpha builds of Provenance from the develop branch. These builds include the latest features and fixes but may contain bugs. Install alongside the stable version to test new features without losing your stable install.\n\nSupports 60+ retro gaming systems including NES, SNES, N64, Genesis, PlayStation, GBA, and many more.",
@@ -1162,12 +1162,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "11154",
-          "marketingVersion": "3.4.0-alpha.20261113.45eca85",
-          "date": "2026-11-13",
-          "localizedDescription": "Alpha build 45eca85 \u00b7 2026-11-13\n\nChanges in this build:\n\u2022 feat(input): route controller tilt to Dolphin Wii Remote\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+          "buildVersion": "11284",
+          "marketingVersion": "3.4.0-alpha.20261121.259aba4",
+          "date": "2026-11-21",
+          "localizedDescription": "Alpha build 259aba4 \u00b7 2026-11-21\n\nChanges in this build:\n\u2022 feat(sharing): libraries in the tvOS sidebar, cloud-only games can be copied\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 783048569,
+          "size": 785297406,
           "minOSVersion": "17.0"
         }
       ],
@@ -1205,14 +1205,93 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1795170836",
+          "buildVersion": "1795170836",
+          "date": "2026-11-20",
+          "localizedDescription": "iFly 1.0.0 (build 1795170836) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795170836/iFly-1.0.0-1795170836.ipa",
+          "size": 137000688,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795163016",
+          "buildVersion": "1795163016",
+          "date": "2026-11-20",
+          "localizedDescription": "iFly 1.0.0 (build 1795163016) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795163016/iFly-1.0.0-1795163016.ipa",
+          "size": 136974214,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795158816",
+          "buildVersion": "1795158816",
+          "date": "2026-11-20",
+          "localizedDescription": "iFly 1.0.0 (build 1795158816) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795158816/iFly-1.0.0-1795158816.ipa",
+          "size": 136685811,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795156932",
+          "buildVersion": "1795156932",
+          "date": "2026-11-20",
+          "localizedDescription": "iFly 1.0.0 (build 1795156932) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795156932/iFly-1.0.0-1795156932.ipa",
+          "size": 136593040,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795156210",
+          "buildVersion": "1795156210",
+          "date": "2026-11-20",
+          "localizedDescription": "iFly 1.0.0 (build 1795156210) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795156210/iFly-1.0.0-1795156210.ipa",
+          "size": 136592814,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795155398",
+          "buildVersion": "1795155398",
+          "date": "2026-11-20",
+          "localizedDescription": "iFly 1.0.0 (build 1795155398) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795155398/iFly-1.0.0-1795155398.ipa",
+          "size": 136592825,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795154718",
+          "buildVersion": "1795154718",
+          "date": "2026-11-20",
+          "localizedDescription": "iFly 1.0.0 (build 1795154718) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795154718/iFly-1.0.0-1795154718.ipa",
+          "size": 136577963,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1794465576",
           "buildVersion": "1794465576",
@@ -1940,23 +2019,23 @@
       "tintColor": "#3B82F6",
       "category": "games",
       "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
         "https://icube-emu.com/screenshots/iphone/library-light.jpg",
         "https://icube-emu.com/screenshots/iphone/search.jpg",
         "https://icube-emu.com/screenshots/iphone/emulation.jpg",
         "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
       ],
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "514",
-          "date": "2026-11-13T05:43:32.297Z",
+          "buildVersion": "545",
+          "date": "2026-11-20T10:02:09.180Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-514/Non-Jailbroken.ipa",
-          "size": 123996636,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-545/Non-Jailbroken.ipa",
+          "size": 124781056,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -1964,7 +2043,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-11-13",
+          "date": "2026-11-20",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -1976,7 +2055,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-11-13",
+          "date": "2026-11-20",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -1988,7 +2067,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-11-13",
+          "date": "2026-11-20",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,
@@ -2597,56 +2676,6 @@
         ]
       },
       "appID": "com.utmapp.UTM-SE"
-    },
-    {
-      "name": "Provenance EMU",
-      "bundleIdentifier": "org.provenance-emu.provenance",
-      "developerName": "Joe Mattiello",
-      "subtitle": "Multi-emulator frontend for iOS & tvOS",
-      "localizedDescription": "Provenance is a multi-system emulator frontend for a plethora of retro gaming systems. You can keep all your games in one place, display them with cover art, and play to your heart's content.\n\nSystems Supported:\n\n\u2022 Atari\n  - 2600\n  - 5200\n  - 7800\n  - Lynx\n  - Jaguar\n\u2022 Bandai\n  - WonderSwan / WonderSwan Color\n\u2022 NEC\n  - PC Engine / TurboGrafx-16 (PCE/TG16)\n  - PC Engine Super CD-ROM\u00b2 System / TurboGrafx-CD\n  - PC Engine SuperGrafx\n  - PC-FX\n\u2022 Nintendo\n  - Nintendo Entertainment System / Famicom (NES/FC)\n  - Famicom Disk System\n  - Super Nintendo Entertainment System / Super Famicom (SNES/SFC)\n  - Game Boy / Game Boy Color (GB/GBC)\n  - Virtual Boy\n  - Game Boy Advance (GBA)\n  - Pok\u00e9mon mini\n\u2022 Sega\n  - SG-1000\n  - Master System\n  - Genesis / Mega Drive\n  - Game Gear\n  - CD / MegaCD\n  - 32X\n\u2022 SNK\n  - Neo Geo Pocket / Neo Geo Pocket Color\n\u2022 Sony\n  - PlayStation (PSX/PS1)",
-      "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
-      "tintColor": "#1c7cf3",
-      "screenshotURLs": [
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2306.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2308.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2309.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2310.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
-      ],
-      "versions": [
-        {
-          "version": "2.2.1",
-          "date": "2022-12-30T00:01:00-05:00",
-          "localizedDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
-          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
-          "size": 77010038,
-          "sha256": "48b834e58724a07b16a8f951ff8983c6ca7088f85d5f480c3dfe04530c915f9c"
-        },
-        {
-          "version": "2.2.1.beta.1",
-          "date": "2022-12-30T00:01:00-05:00",
-          "localizedDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
-          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
-          "size": 33978209
-        },
-        {
-          "version": "2.2.0",
-          "date": "2022-12-09T00:01:00-05:00",
-          "localizedDescription": "Many bug fixes, SwiftUI additions, new cores, new features and more. See GitHub changelog for more info.",
-          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.0/Provenance.ipa",
-          "size": 33978209
-        },
-        {
-          "version": "2.1.1",
-          "date": "2022-06-15T12:00:00-05:00",
-          "localizedDescription": "PSX controller fixes, fceux update, SwiftUI updates.",
-          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.1.1/Provenance-iOS.ipa",
-          "size": 36120321
-        }
-      ],
-      "appID": "org.provenance-emu.provenance"
     },
     {
       "name": "PokeMMO",
@@ -4444,12 +4473,20 @@
       "category": "photo-video",
       "beta": false,
       "screenshotURLs": [],
-      "version": "1.0.9",
-      "versionDate": "2026-11-02",
-      "versionDescription": "App icon fix.",
-      "size": 3697748,
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TendieMaker.v1.0.9.ipa",
+      "version": "1.0.10",
+      "versionDate": "2026-11-19",
+      "versionDescription": "\u2022 TendieMaker updated to v1.0.10",
+      "size": 5997865,
+      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.10/TendieMaker-1.0.10.ipa",
       "versions": [
+        {
+          "version": "1.0.10",
+          "date": "2026-11-19",
+          "localizedDescription": "\u2022 TendieMaker updated to v1.0.10",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.10/TendieMaker-1.0.10.ipa",
+          "size": 5997865,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.9",
           "date": "2026-11-02",
