@@ -4,6 +4,22 @@
   "sourceURL": "https://raw.githubusercontent.com/kbdevs/repo-aggregator/main/chunk_3.json",
   "apps": [
     {
+      "name": "Clipboard",
+      "type": 1,
+      "bundleID": "com.zeus.EasyCopy",
+      "bundleIdentifier": "com.zeus.EasyCopy",
+      "version": "4.1.1",
+      "versionDate": "2026-09-28",
+      "fullDate": "20260928010530",
+      "size": 35284438,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Clipboard_4.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Clipboard_4.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zeus.EasyCopy.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zeus.EasyCopy.png"
+    },
+    {
       "name": "WaterReminder",
       "type": 1,
       "bundleID": "com.vgfit.waterreminder",
@@ -946,22 +962,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
-      "name": "SlideShow",
-      "type": 1,
-      "bundleID": "com.spacegab.slideshow",
-      "bundleIdentifier": "com.spacegab.slideshow",
-      "version": "5.6.48",
-      "versionDate": "2026-06-24",
-      "fullDate": "20260624135329",
-      "size": 121148445,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2026/SlideShow_5.6.48_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2026/SlideShow_5.6.48_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png"
     },
     {
       "name": "NRv1553513",
